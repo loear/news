@@ -13,14 +13,14 @@ const timeout = setTimeout(
 );
 
 const feed = new Feed({
-  title: '新浪新闻',
-  description: '新浪全球实时财经新闻直播',
-  link: 'https://ruanyf.github.io/sina-news/',
+  title: '全球实时新闻资讯',
+  description: '全球实时新闻资讯',
+  link: 'https://loear.github.io/news/',
   language: 'zh-CN',
   generator: 'sina news feed generator',
   feedLinks: {
-    json: 'https://ruanyf.github.io/sina-news/rss.json',
-    rss: 'https://ruanyf.github.io/sina-news/rss.xml'
+    json: 'https://loear.github.io/news/rss.json',
+    rss: 'https://loear.github.io/news/rss.xml'
   },
 });
 
@@ -40,6 +40,13 @@ const filterArr = [
   '财政部',
   '参议院',
   '众议院',
+  'apple',
+  'ios',
+  'android',
+  'youtube',
+  'iphone',
+  'china',
+  '美股'
 ];
 
 async function main() {
