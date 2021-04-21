@@ -40,13 +40,6 @@ const filterArr = [
   '财政部',
   '参议院',
   '众议院',
-  'apple',
-  'ios',
-  'android',
-  'youtube',
-  'iphone',
-  'china',
-  '美股'
 ];
 
 async function main() {
@@ -72,25 +65,25 @@ async function main() {
       if (!item.rich_text) return;
 
       // text filter
-      for (let i = 0; i < filterArr.length; i++) {
-        if (item.rich_text.includes(filterArr[i])) {
-          // console.log(item.rich_text);
-          return;
-        }
-      }
+      // for (let i = 0; i < filterArr.length; i++) {
+      //   if (item.rich_text.includes(filterArr[i])) {
+      //     // console.log(item.rich_text);
+      //     return;
+      //   }
+      // }
 
       // tag filter
-      if (item.tag && Array.isArray(item.tag) && item.tag.length) {
-        const tags = item.tag;
-        const tagFilterArr = ['5', '6', '7', '9'];
-        for (let i = 0; i < tags.length; i++) {
-          const tag = tags[i].id;
-          if (tagFilterArr.includes(tag)) {
-            // console.log(item.rich_text);
-            return;
-          }
-        }
-      }
+      // if (item.tag && Array.isArray(item.tag) && item.tag.length) {
+      //   const tags = item.tag;
+      //   const tagFilterArr = ['5', '6', '7', '9']; 
+      //   for (let i = 0; i < tags.length; i++) {
+      //     const tag = tags[i].id;
+      //     if (tagFilterArr.includes(tag)) {
+      //       // console.log(item.rich_text);
+      //       return;
+      //     }
+      //   }
+      // }
 
       feed.addItem({
         title: item.rich_text,
