@@ -3,27 +3,41 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sina News</title>
+    <title>Online News Today</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-    <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://ruanyf.github.io/sina-news/rss.xml">
+    <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://loear.github.io/news/rss.xml">
     <style>
+      .container {
+        padding: 20px 40px;
+        box-shadow: 0 2px 10px #9b9b9b;
+        border-radius: 5px;
+        max-width: 720px;
+        box-sizing: border-box;
+        margin: 20px auto;
+      }
+      .title {
+        width:  100%;
+        text-align: center;
+        padding-top: 20px;
+      }
       p {
         max-width: 50rem;
       }
       li {
         margin-top: 1rem;
       }
+      .section {
+        padding-top: 0px;
+      }
     </style>
   </head>
   <body>
-  <section class="section">
-    <div class="container">
-      <h1 class="title">
-        全球实时财经新闻
-      </h1>
-      <ol class="list"></ol>
-    </div>
-  </section>
+    <h1 class="title">全球实时新闻资讯</h1>
+    <section class="section">
+      <div class="container">
+        <ol class="list"></ol>
+      </div>
+    </section>
   </body>
   <script type="text/javascript" src="page.js"></script>
 </html>
