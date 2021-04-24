@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 24 Apr 2021 19:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 20:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达1574370例，新增59例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8754046.d.html</link>
+            <guid>2140384</guid>
+            <pubDate>Sat, 24 Apr 2021 20:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一油轮在叙利亚西北部港口附近遭袭起火】叙利亚石油部表示，一艘油轮在叙利亚西北部港口城市巴尼亚斯附近海域疑似遭无人机袭击起火，目前大火已被扑灭。此次袭击被认为是来自黎巴嫩水域的一架无人机发动的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8753185.d.html</link>
+            <guid>2140317</guid>
+            <pubDate>Sat, 24 Apr 2021 20:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥地利新增新冠肺炎确诊病例2231例，累计确诊603419例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8752633.d.html</link>
+            <guid>2140305</guid>
+            <pubDate>Sat, 24 Apr 2021 19:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国纽约州州长科莫：纽约州新冠病毒检测阳性率跌破2%，为去年11月初以来低位。]]></title>
             <guid>2140240</guid>
@@ -583,24 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698926.d.html</link>
             <guid>2140031</guid>
             <pubDate>Sat, 24 Apr 2021 09:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度政府将免除氧气相关设备的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698843.d.html</link>
-            <guid>2140030</guid>
-            <pubDate>Sat, 24 Apr 2021 09:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度政府将免除新冠疫苗的基本进口关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698717.d.html</link>
-            <guid>2140028</guid>
-            <pubDate>Sat, 24 Apr 2021 09:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西2021年将投资455亿元支持农业重点项目】记者从近日召开的山西省金融服务乡村产业工作对接会上获悉，山西今年将深入推进金融精准服务乡村振兴，总投资455亿元支持粮食、畜牧等行业重点项目，推动第一产业高质高速发展。数据显示，“十三五”时期，山西农村金融合作机构存款余额从5650.1亿元增长到9379.6亿元，贷款余额从3620.9亿元增长到5888.7亿元；农业保费达到15.12亿元，风险保障709亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698636.d.html</link>
-            <guid>2140027</guid>
-            <pubDate>Sat, 24 Apr 2021 09:23:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
