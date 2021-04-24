@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 24 Apr 2021 20:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 21:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【希腊首次确诊在印度发现的变异新冠病毒病例】希腊国家公共卫生组织当地时间4月23日宣布，在新冠病毒基因组监控网络对日前送检的病毒样本测试中，发现1例被在印度发现的新冠病毒B.1.617型毒株感染的病例。该病毒样本来自希腊第三大城市帕特雷的一名男子。他在3月23日的新冠病毒检测中结果呈阳性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8755292.d.html</link>
+            <guid>2140464</guid>
+            <pubDate>Sat, 24 Apr 2021 21:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增71137例新冠肺炎确诊病例，新增3076例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8754982.d.html</link>
+            <guid>2140463</guid>
+            <pubDate>Sat, 24 Apr 2021 21:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例40596例，累计确诊4591416例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1614878.d.html</link>
+            <guid>2140458</guid>
+            <pubDate>Sat, 24 Apr 2021 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币向上触及51000美元/枚，日跌幅收窄至0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1614371.d.html</link>
+            <guid>2140413</guid>
+            <pubDate>Sat, 24 Apr 2021 20:36:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新冠肺炎确诊病例累计达1574370例，新增59例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8754046.d.html</link>
@@ -577,30 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8701751.d.html</link>
             <guid>2140035</guid>
             <pubDate>Sat, 24 Apr 2021 09:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据伊朗通讯社：伊朗禁止航班前往印度和巴基斯坦。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1560821.d.html</link>
-            <guid>2140034</guid>
-            <pubDate>Sat, 24 Apr 2021 09:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京推“16条”提升上市公司质量】市政府近日印发《关于进一步推动提高北京上市公司质量的若干措施》，聚焦提高治理水平、推动做优做强、健全退出机制、解决突出问题、依法打击违法违规行为、形成提高质量的工作合力等6个方面，推出16条措施，进一步推动北京上市公司质量提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8700521.d.html</link>
-            <guid>2140033</guid>
-            <pubDate>Sat, 24 Apr 2021 09:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SpaceX“龙”飞船成功与国际空间站交会对接】SpaceX“龙”飞船成功与国际空间站交会对接。当地时间23日5时50分左右，载有4名宇航员的SpaceX“龙”飞船在肯尼迪航天中心发射升空。本次载人飞行任务也是SpaceX与美国国家航空航天局进行的第二次商业载人航天发射任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1559183.d.html</link>
-            <guid>2140032</guid>
-            <pubDate>Sat, 24 Apr 2021 09:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度尼西亚军方宣布，失联潜艇已“沉没”。当地时间21日，一艘载有53人的潜艇在巴厘岛海域失踪。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698926.d.html</link>
-            <guid>2140031</guid>
-            <pubDate>Sat, 24 Apr 2021 09:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
