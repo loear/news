@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Apr 2021 18:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 19:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达1575471例，新增23例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1793440.d.html</link>
+            <guid>2142049</guid>
+            <pubDate>Sun, 25 Apr 2021 19:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【基金一季报披露完毕 金融、化工行业获大幅增配】公募基金一季报已全部披露完毕。同花顺数据显示，截至一季度末，公募基金股票资产持仓总市值超过5万亿元，重仓A股和港股上市公司数量达1800家。尽管A股市场一季度大幅震荡，但公募基金整体依然保持高仓位运作，持股市值占比相比去年末有所提升。行业方面，银行、化工、采掘等板块均获公募基金大幅增持，整体行业配置更为均衡。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1792342.d.html</link>
+            <guid>2142048</guid>
+            <pubDate>Sun, 25 Apr 2021 18:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国新冠肺炎确诊病例累计达311848068例，死亡病例累计达568969例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1791756.d.html</link>
+            <guid>2142047</guid>
+            <pubDate>Sun, 25 Apr 2021 18:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【资金面韧性十足 5月或迎新变化】面对4月税期高峰，此前一些市场人士担心的局面并未上演，资金面韧性再次得到展现。市场人士分析，3月末财政支出补充了流动性的“池水”，在一定程度上消化了财政税收等因素影响，当前政府债券净融资额不高仍是关键所在。随着地方债发行继续加快，财政因素对资金面的影响可能进一步加大，央行已滚动开展两个月有余的百亿元逆回购操作将发生变化。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmxzfmk8932240.d.html</link>
+            <guid>2142046</guid>
+            <pubDate>Sun, 25 Apr 2021 18:46:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  伊拉克新增6034例新冠肺炎确诊病例，累计1031322例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmxzfmk8931580.d.html</link>
@@ -580,29 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1741457.d.html</link>
             <guid>2141515</guid>
             <pubDate>Sun, 25 Apr 2021 10:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【商务部：消博会展期内境外展品免税等相关税收优惠政策将于近日出台】商务部消费促进司司长朱小良今日在商务部召开的2021年全国消费促进月系列活动专题新闻发布会上表示，为落实《海南自由贸易港总体方案》有关要求，围绕海南国际旅游消费中心的定位，进一步提升消博会的吸引力和影响力。财政部会同商务部、海关总署、税务总局等部门积极推动制定消博会展期内境外展品免税政策，相关税收优惠政策将会在近日出台，对于符合一定条件的进口展品，在展期内销售享受免税优惠。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1741019.d.html</link>
-            <guid>2141513</guid>
-            <pubDate>Sun, 25 Apr 2021 10:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于供应短缺，孟加拉国暂停接种首剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1740229.d.html</link>
-            <guid>2141512</guid>
-            <pubDate>Sun, 25 Apr 2021 10:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：科技成长行业ROE优势凸显 眼下正是布局起点】国君策略陈显顺团队认为，四月全球经济继续复苏，伴随着全球经济进入冲击后的修复阶段，国内制造业领先的小时代特征归来。受“补足海外供需缺口+企业全球市场份额提升+国内实现进口替代效应”三重因素拉动，国内上中游制造业实现量、价双升，盈利显著改善。同时，在当前成长行业净利率上升背景下，科技成长行业ROE优势凸显。尤其新能车、半导体等基本面确定性的方向，随着未来估值体系的再切换，眼下正是布局起点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8879991.d.html</link>
-            <guid>2141511</guid>
-            <pubDate>Sun, 25 Apr 2021 10:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中飞股份：孙公司红外光学与激光器件产业化一期项目投产】中飞股份公告，此前，控股孙公司安徽光智实施及运营“红外光学与激光器件产业化项目”。红外光学与激光器件产业化一期项目总投资20亿元，用地100亩，建筑面积10.3万平方米，产品包括红外光学材料、红外光学镜头、激光器件及红外成像整机，具备材料生长、芯片设计、器件制备、系统集成的完整产业化能力。一期项目于2020年4月正式开工建设，计划于2021年4月28日实现竣工投产。]]></title>
-            <guid>2141510</guid>
-            <pubDate>Sun, 25 Apr 2021 10:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
