@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 May 2021 20:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 21:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【巴菲特：我们看到了严重的通货膨胀】巴菲特表示，在新冠疫情复苏期间，他们看到了价格压力上升的迹象，这证实了许多市场参与者对通胀压力增加的担忧。他说：“我们看到了严重的通胀。我们在涨价，别人也在涨价。而且它正在被接受。我们做了很多房地产业务，成本一直在涨，涨，涨。钢铁的成本每天都在上涨。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2998785.d.html</link>
+            <guid>2154336</guid>
+            <pubDate>Sat, 01 May 2021 21:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特回应马斯克承保火星移民，“只要看给多少保费就好了”】针对马斯克此前提及的巴菲特是否会为火星移民承保，巴菲特回答：“这个问题很简单，只要看给多少保费就好了。如果保费高，当然是愿意的，当然也要看马斯克的意愿。”而伯克希尔保险业务副董事阿吉特表示：“我很担心，他（马斯克）太有冒险精神。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2998435.d.html</link>
+            <guid>2154335</guid>
+            <pubDate>Sat, 01 May 2021 21:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芒格：Robinhood的兴起“糟糕透顶”，利用对人们有害的东西赚钱是错误的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2998301.d.html</link>
+            <guid>2154334</guid>
+            <pubDate>Sat, 01 May 2021 20:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴菲特：Robinhood“就像赌场老板加入了股票市场”】巴菲特评价Robinhood等无佣金交易平台时说，Robinhood“就像赌场老板加入了股票市场”，在过去12-18个月内，Robinhood已经成为市场所呈现的“赌场性质方面非常重要的一部分”。芒格也表示，我并不喜欢这个业务。]]></title>
+            <guid>2154332</guid>
+            <pubDate>Sat, 01 May 2021 20:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：与摩根大通、亚马逊的医疗合资企业Haven的失败突显出伯克希尔在医疗保健方面的低效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0137729.d.html</link>
+            <guid>2154330</guid>
+            <pubDate>Sat, 01 May 2021 20:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：但伯克希尔的风险敞口太大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0137205.d.html</link>
+            <guid>2154306</guid>
+            <pubDate>Sat, 01 May 2021 20:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：美国银行业的情况比10-15年前要更好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2997350.d.html</link>
+            <guid>2154303</guid>
+            <pubDate>Sat, 01 May 2021 20:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴菲特点评银行股：持仓比例不会超过10%】对于银行股，巴菲特在股东会上表态称，虽然他仍钟爱银行股，但银行股在伯克希尔的持仓组合中占比不会超过10%，他不愿持有更高比例的银行股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2997346.d.html</link>
+            <guid>2154302</guid>
+            <pubDate>Sat, 01 May 2021 20:29:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克新增新冠肺炎确诊病例5167例，累计确诊1070366例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2997227.d.html</link>
@@ -549,53 +596,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0107797.d.html</link>
             <guid>2153991</guid>
             <pubDate>Sat, 01 May 2021 12:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国华电与成都市签署战略合作框架协议】4月30日，中国华电与成都市政府举行战略合作框架协议签约仪式。根据协议，双方将以市场资源和产业优势相结合为导向，在清洁能源开发利用、清洁能源集控中心建设、氢能产业生态圈打造等领域深化合作，共同探索生态优先、绿色低碳高质量发展路径，助力实现“碳达峰、碳中和”目标。]]></title>
-            <guid>2153990</guid>
-            <pubDate>Sat, 01 May 2021 12:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英特尔拟在欧洲建半导体工厂 寻求百亿美元补贴】周五，欧洲内部市场专员蒂埃里·布雷顿（Thierry Breton）在布鲁塞尔会见了英特尔CEO帕特·基辛格（Pat Gelsinger），就英特尔对欧盟的投资计划进行谈判。基辛格表示，英特尔愿意在欧盟建立半导体工厂，但为了与在亚洲建厂相比更具竞争力，希望获得80亿欧元（约合近100亿美元）的欧洲政府补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0106598.d.html</link>
-            <guid>2153989</guid>
-            <pubDate>Sat, 01 May 2021 12:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：许多企业正在从疫情的影响中恢复，第一季度营收和净利润都有所上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2965803.d.html</link>
-            <guid>2153987</guid>
-            <pubDate>Sat, 01 May 2021 12:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：第一季度投资和衍生品净收益为46.9亿美元，去年同期亏损556.2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2964989.d.html</link>
-            <guid>2153986</guid>
-            <pubDate>Sat, 01 May 2021 12:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：截至2021年3月31日，伯克希尔哈撒韦前4大持仓占其投资组合比重为69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2964652.d.html</link>
-            <guid>2153985</guid>
-            <pubDate>Sat, 01 May 2021 12:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：截至2021年3月31日，伯克希尔哈撒韦前4大持仓为美国运通、苹果、美国银行、可口可乐。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2964650.d.html</link>
-            <guid>2153984</guid>
-            <pubDate>Sat, 01 May 2021 12:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：第一季度运营利润70.2亿美元，去年同期为58.7亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0104418.d.html</link>
-            <guid>2153983</guid>
-            <pubDate>Sat, 01 May 2021 12:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：第一季度A类普通股每股盈利7638美元，去年同期每股亏损30653美元。第一季度B类普通股每股盈利5.09美元，去年同期每股亏损20.44美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2964637.d.html</link>
-            <guid>2153982</guid>
-            <pubDate>Sat, 01 May 2021 12:03:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
