@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 02 May 2021 03:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 04:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【五一首日全国铁路发送旅客创新高】从中国国家铁路集团有限公司获悉，5月1日，全国铁路发送旅客1882.6万人次，较2019年同期增长9.2%，创下单日客流历史新高。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3059160.d.html</link>
+            <guid>2154415</guid>
+            <pubDate>Sun, 02 May 2021 04:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度医学研究理事会公布的数据显示，截至5月1日，印度全国累计进行新冠病毒样本检测超2.9亿份，1日当天检测新冠病毒样本超180万份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0197528.d.html</link>
+            <guid>2154414</guid>
+            <pubDate>Sun, 02 May 2021 04:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[猫眼专业版数据显示，截至2021年5月2日12时04分，2021年五一档总票房（含预售）破6亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0196763.d.html</link>
+            <guid>2154413</guid>
+            <pubDate>Sun, 02 May 2021 04:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊失守2900美元/枚，日内跌幅1.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0194392.d.html</link>
+            <guid>2154412</guid>
+            <pubDate>Sun, 02 May 2021 04:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[浙江金华一入境人员解除隔离后核酸阳性，曾乘火车。目前，该感染者已在定点医院隔离医学观察，已排查密切接触者均已按要求落实管控措施，涉及场所均落实了有效消毒。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3053854.d.html</link>
+            <guid>2154410</guid>
+            <pubDate>Sun, 02 May 2021 03:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月2日全国铁路预计发送旅客1420万人次】从中国国家铁路集团有限公司获悉，5月1日，全国铁路发送旅客1882.6万人次，较2019年同期增长9.2%。5月2日，全国铁路预计发送旅客1420万人次，较2019年同期增长7.7%。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0193617.d.html</link>
+            <guid>2154409</guid>
+            <pubDate>Sun, 02 May 2021 03:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：美国国务卿布林肯和日本外相茂木敏充将于下周一在伦敦举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3052714.d.html</link>
+            <guid>2154408</guid>
+            <pubDate>Sun, 02 May 2021 03:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度单日新增确诊病例超39万例 累计确诊超1955万例】印度政府最新公布数据显示，在过去24小时，印度新增392488例新冠肺炎确诊病例，累计确诊病例达19557457例。新增死亡病例3689例，累计达215542例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3051836.d.html</link>
+            <guid>2154407</guid>
+            <pubDate>Sun, 02 May 2021 03:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线下挫600美元，现报56816美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3050276.d.html</link>
+            <guid>2154406</guid>
+            <pubDate>Sun, 02 May 2021 03:37:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【首单含ESG条款的人民币利率衍生品出炉】日前，恒生中国宣布正式完成首笔包含环境、社会及治理（ESG）条款的人民币利率衍生品交易，成为首家完成此类交易的银行。恒生中国环球市场部企业财资业务总监许婕介绍，该笔交易是挂钩人民币利率掉期的一个衍生品，主要目的在于帮助企业防止市场利率波动。（新华财经）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3047949.d.html</link>
@@ -546,59 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993729.d.html</link>
             <guid>2154196</guid>
             <pubDate>Sat, 01 May 2021 18:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴菲特：投资不仅仅是选择一个新兴行业】巴菲特警告新手投资者，选择伟大的公司比仅仅选择一个有前途的行业要复杂得多。他说：“选股要比找出未来什么会成为一个好行业重要得多。”巴菲特表示，在20世纪初，大约有2000家公司进入了汽车行业，因为投资者和企业家都期望这个行业有一个惊人的未来。2009年，有三家汽车制造商幸存，其中两家破产了。]]></title>
-            <guid>2154195</guid>
-            <pubDate>Sat, 01 May 2021 18:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特：伯克希尔在2020年底持有雪佛龙的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993530.d.html</link>
-            <guid>2154194</guid>
-            <pubDate>Sat, 01 May 2021 18:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特：就算持有雪佛龙的“全部业务”也不会感到不舒服，但不是说打算这么做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993468.d.html</link>
-            <guid>2154193</guid>
-            <pubDate>Sat, 01 May 2021 18:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴菲特：不会在疯狂环境下投资】对于为何没有把手上的现金进行更大的收购的提问，巴菲特回答称，公司手上的现金大概是公司估值的15%左右，这个占比还是比较健康的，但是之后的数字会慢慢降低。芒格也回应称，每个人期待公司做不理智的投资，但是公司真的没有办法在这个疯狂环境下做任何太大投资，一出手几百亿、几十亿的话，我们要谨慎。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993348.d.html</link>
-            <guid>2154192</guid>
-            <pubDate>Sat, 01 May 2021 18:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特：在（挑选）股票方面不会做道德评判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0132838.d.html</link>
-            <guid>2154190</guid>
-            <pubDate>Sat, 01 May 2021 18:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴菲特：我们在很长一段时间内都需要烃类化合物】当被问及化石燃料遭受到的批评日益增加的问题时，巴菲特表示：“世界正在抛弃烃类化合物，但我们在很长一段时间内都需要烃类化合物。双方极端的人都有点疯狂。我不希望在三年内禁止所有烃类化合物，这行不通。另一方面，随着时间的推移，人们将适应正在发生的事情。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0132753.d.html</link>
-            <guid>2154189</guid>
-            <pubDate>Sat, 01 May 2021 18:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特：“一点也不后悔”持有雪佛龙（股票）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0132728.d.html</link>
-            <guid>2154188</guid>
-            <pubDate>Sat, 01 May 2021 18:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴菲特：推荐买入标普500指数基金，没推荐过伯克希尔股票】巴菲特表示， 从长远来看，大多数投资者都能从简单地购买标准普尔500指数基金中受益，而不是挑选个别股票，即便是伯克希尔也包括在内。“我推荐标准普尔500指数基金，但我从未向任何人推荐伯克希尔，因为我不希望人们因为觉得我在给他们灌输什么东西而去买它。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0132571.d.html</link>
-            <guid>2154187</guid>
-            <pubDate>Sat, 01 May 2021 18:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[查理·芒格：更喜欢持有伯克希尔哈撒韦的股票，而非通过指数基金等方式持有更广泛的市场（投资标的），我对持有伯克希尔很满意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0132275.d.html</link>
-            <guid>2154186</guid>
-            <pubDate>Sat, 01 May 2021 18:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
