@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 May 2021 18:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 19:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX猎鹰9号火箭成功降落在无人驾驶回收船上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3443265.d.html</link>
+            <guid>2156525</guid>
+            <pubDate>Tue, 04 May 2021 19:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果的搜索广告引入了一种推广APP的新方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0582724.d.html</link>
+            <guid>2156524</guid>
+            <pubDate>Tue, 04 May 2021 19:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：SpaceX公司在佛罗里达州进行了第26次星链卫星发射任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0582409.d.html</link>
+            <guid>2156523</guid>
+            <pubDate>Tue, 04 May 2021 19:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国可以出口更多新冠疫苗来帮助其他国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3442750.d.html</link>
+            <guid>2156522</guid>
+            <pubDate>Tue, 04 May 2021 19:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[密货币以太坊重回3400美元/枚上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3442400.d.html</link>
+            <guid>2156521</guid>
+            <pubDate>Tue, 04 May 2021 18:54:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国政府已准备好为儿童接种疫苗，并将新冠疫苗转移到两万家药店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3441941.d.html</link>
+            <guid>2156519</guid>
+            <pubDate>Tue, 04 May 2021 18:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：新冠疫苗接种的新阶段将把重点放在12到15岁的人群。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3441912.d.html</link>
+            <guid>2156518</guid>
+            <pubDate>Tue, 04 May 2021 18:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：新冠疫苗接种的速度正如预期的那样正在放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0581351.d.html</link>
+            <guid>2156517</guid>
+            <pubDate>Tue, 04 May 2021 18:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：有1.5亿美国人至少接种了1剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0581262.d.html</link>
+            <guid>2156516</guid>
+            <pubDate>Tue, 04 May 2021 18:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COMEX 6月黄金期货收跌0.88%，报1776美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0581145.d.html</link>
@@ -550,60 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0567945.d.html</link>
             <guid>2156425</guid>
             <pubDate>Tue, 04 May 2021 15:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIX波动率日内涨幅达14.5%，报21.03。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428388.d.html</link>
-            <guid>2156424</guid>
-            <pubDate>Tue, 04 May 2021 15:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表Tai：贸易是解决气候危机的必要工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0567581.d.html</link>
-            <guid>2156423</guid>
-            <pubDate>Tue, 04 May 2021 15:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数短线下挫10点，报91.18。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428115.d.html</link>
-            <guid>2156422</guid>
-            <pubDate>Tue, 04 May 2021 15:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用电气CEO：通用电气目前没有提高股息的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428068.d.html</link>
-            <guid>2156421</guid>
-            <pubDate>Tue, 04 May 2021 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，今年“五一”期间，亲子游的订单占比超过三分之一。在采访中了解到，亲子游家庭的消费在1.2万-2万元不等，家人都觉得“这个花销不算高，一年出来一两次可以接受”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428019.d.html</link>
-            <guid>2156420</guid>
-            <pubDate>Tue, 04 May 2021 15:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利官员表示，意大利的目标是在2022年使旅游业达到疫情前的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0566902.d.html</link>
-            <guid>2156419</guid>
-            <pubDate>Tue, 04 May 2021 14:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国芝加哥市长：计划在7月全面重新开放芝加哥市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0566593.d.html</link>
-            <guid>2156418</guid>
-            <pubDate>Tue, 04 May 2021 14:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月贸易逆差扩大至744亿美元，创下历史新高。进口增长6.3％，达到创纪录的2745亿美元，出口增长6.6％，达到2000亿美元。受新冠疫情影响，美国消费者滞留在国内，旺盛的需求导致进口额大幅提升。其中，3月份货物出口(1424亿美元)为2018年5月以来最高水平，货物进口(2330亿美元)创纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3427160.d.html</link>
-            <guid>2156417</guid>
-            <pubDate>Tue, 04 May 2021 14:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德体育医学专家：感染新冠或长期影响运动员职业生涯】德国体育医学专家、德国体育大学（科隆）运动训练健康中心主任英戈·弗罗伯瑟4日接受德新社采访时表示，运动员感染新冠病毒后，职业生涯或长期受影响。足球界出于商业利益方面考虑，对此大多“轻描淡写”。在弗罗伯瑟看来，运动员感染后受到的影响因人而异。“可以明确的是，如果病毒袭击肺部、心脏等关键器官，可能导致运动员长期不能训练，甚至结束职业生涯。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3427005.d.html</link>
-            <guid>2156416</guid>
-            <pubDate>Tue, 04 May 2021 14:44:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
