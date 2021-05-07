@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 07 May 2021 18:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 19:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  洋葱集团跌幅扩大至16%，报6.08美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1133489.d.html</link>
+            <guid>2161141</guid>
+            <pubDate>Fri, 07 May 2021 18:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国证交会批准基于证券的掉期数据储存库注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3994055.d.html</link>
+            <guid>2161131</guid>
+            <pubDate>Fri, 07 May 2021 18:40:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[辉瑞CEO：2021年研发支出总额将超过100亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1132630.d.html</link>
@@ -92,18 +104,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3981326.d.html</link>
             <guid>2161034</guid>
             <pubDate>Fri, 07 May 2021 15:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  空客4月份获交付45架飞机，包括34架A320飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3981109.d.html</link>
-            <guid>2161032</guid>
-            <pubDate>Fri, 07 May 2021 15:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：麦夸里岛西部发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1118658.d.html</link>
-            <guid>2161022</guid>
-            <pubDate>Fri, 07 May 2021 15:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
