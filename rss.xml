@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 May 2021 16:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 17:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【约旦宣布自开斋节首日起缩短每日宵禁时间】当地时间5月9日，约旦政府宣布将自开斋节首日起缩短每日宵禁时间，个人宵禁时间从晚11点到次日早晨六点，机构企业宵禁时间从晚10点到次日早晨六点。开斋节假期时间将由宗教事务部门公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1470753.d.html</link>
+            <guid>2163369</guid>
+            <pubDate>Sun, 09 May 2021 17:22:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【BDI近三个月涨逾140% 海运板块受关注】受经济复苏、大宗商品需求回升等因素的影响，波罗的海干散货指数（BDI）持续创出新高。近期该指数一度上涨至3266点，近三个月涨幅逾140%。伴随着BDI指数走强，相关海洋运输与集装箱板块受到市场关注。其中，中远海控自年初以来上涨逾50%，宁波海运、中集集团等自2月初以来股价也持续回升。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1468268.d.html</link>
@@ -244,42 +250,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4286598.d.html</link>
             <guid>2162514</guid>
             <pubDate>Sun, 09 May 2021 09:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏格兰首席大臣斯特金：并不寻求“马上”开展苏格兰公投。议会将需要决定公投的时间节点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4284914.d.html</link>
-            <guid>2162510</guid>
-            <pubDate>Sun, 09 May 2021 09:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【以色列将与韩国签署自贸协议 对韩出口中95％以上或免税】以色列经济部表示，以色列将与韩国签署一项自由贸易协定。这将是以色列与亚洲市场达成的首项类似协定。以色列外交部表示，自贸协定签署后，以色列对韩国的出口中有95％以上将会免税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4284465.d.html</link>
-            <guid>2162509</guid>
-            <pubDate>Sun, 09 May 2021 09:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【唐人神：4月生猪销售收入环比下降26.3%】唐人神公告，2021年4月生猪销量12.41万头，同比上升138.7%，环比下降16%；销售收入合计22,961万元，同比上升33.4%，环比下降26.3%。2021年1-4月累计商品猪销量58.71万头，同比上升246.4%；销售收入118,504万元，同比上升104.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1423673.d.html</link>
-            <guid>2162508</guid>
-            <pubDate>Sun, 09 May 2021 09:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海推动国资国企从中心城区向“五个新城”聚集】上海“十四五”期间计划重点建设嘉定、青浦、松江、奉贤、南汇五个新城。上海市国资委近日表示，到2025年，上海将推动市属国企在“五个新城”落地100家总部型机构，使得国资国企成为“五个新城”建设的重要支撑力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1422955.d.html</link>
-            <guid>2162507</guid>
-            <pubDate>Sun, 09 May 2021 09:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：阿塞拜疆4月欧佩克+减产协议执行率为100.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4283164.d.html</link>
-            <guid>2162506</guid>
-            <pubDate>Sun, 09 May 2021 08:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【旗天科技：小旗欧飞与银行开展的合作项目预计不会对公司业绩产生重大影响】旗天科技回复深交所关注函，小旗欧飞与银行开展的相关合作项目有两个。第一个合作项目尚未取得相关收入及利润，预计不会对公司2021年及以后年度业绩产生重大影响。第二个合作项目小旗欧飞通过收取服务费实现盈利，项目于近日开展，已产生收入15148.87元，利润875.27元，预计不会对公司2021年及以后年度业绩产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4282146.d.html</link>
-            <guid>2162504</guid>
-            <pubDate>Sun, 09 May 2021 08:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
