@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 May 2021 18:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 19:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登将任命西娅·李为交通部国际事务部门主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337933.d.html</link>
+            <guid>2163639</guid>
+            <pubDate>Sun, 09 May 2021 19:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：福特召回了近61.7万辆探索者越野车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337038.d.html</link>
+            <guid>2163540</guid>
+            <pubDate>Sun, 09 May 2021 19:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国杂交水稻双季亩产3000斤项目在三亚首获丰收】5月9日，全国杂交水稻双季亩产3000斤项目在三亚首获丰收，早造水稻测产取得亩产1004.83公斤的成绩。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1475159.d.html</link>
+            <guid>2163495</guid>
+            <pubDate>Sun, 09 May 2021 18:50:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【经参：抓住“窗口期” 调结构促改革信号密集释放】从近期中央政治局会议以及各部委释放出的政策信号来看，解决结构性问题、推进结构性改革将成为下一阶段工作的重中之重。财政政策和货币政策总体基调不变，同时将更强调“固本培元”、优化经济结构，与此同时，围绕深化供给侧结构性改革，多部门也在持续推进促进制造业投资和民间投资、扩大消费、促居民增收等激活内需潜力的举措]]></title>
             <guid>2163447</guid>
@@ -219,18 +237,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435082.d.html</link>
             <guid>2162536</guid>
             <pubDate>Sun, 09 May 2021 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST国重装：公司股票撤销其他风险警示 明日停牌1天】ST国重装公告，2020年度，公司实现营业收入88.24亿元，实现归属于上市公司股东的净利润为3.37亿元。公司主营业务为国内外重大技术装备制造及重大工程建设，主营业务突出，有明确的战略规划和经营计划，公司股票已符合申请撤销其他风险警示的条件。经公司申请，上海证券交易所于2021年5月7日同意公司股票撤销其他风险警示。公司股票将于2021年5月10日停牌1天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1434370.d.html</link>
-            <guid>2162533</guid>
-            <pubDate>Sun, 09 May 2021 10:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赤子城科技：与字节跳动旗下流量平台达成全线合作传闻不实】赤子城科技发布澄清公告称，集团2019年起在字节跳动的巨量引擎平台和穿山甲平台开展流量运营。虽然集团与巨量引擎平台和穿山甲平台在日常业务过程中有合作，但网传“赤子城科技与字节跳动旗下流量平台达成全线合作”信息不实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4294237.d.html</link>
-            <guid>2162531</guid>
-            <pubDate>Sun, 09 May 2021 10:37:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
