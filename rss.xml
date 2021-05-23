@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 May 2021 03:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 04:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗将在用电高峰期关闭有执照的加密矿场】由于需要为其他用户保持稳定的电力供应，伊朗将在用电高峰时关闭加密货币矿场。这项旨在解决能源短缺问题的措施将针对有许可证的矿场，尽管政府承认非法加密矿工消耗更多能源。根据官方数据，获得授权的加密货币矿场每天使用高达300兆瓦的电力。伊朗能源部负责电力部门的发言人Mostafa Rajabi Mashhadi说，这部分电力可以节省下来，以维持电网的平衡和稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4145789.d.html</link>
+            <guid>2183159</guid>
+            <pubDate>Sun, 23 May 2021 04:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：印度要求在气旋前进路径上的石油钻井公司采取预防措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4141400.d.html</link>
+            <guid>2183153</guid>
+            <pubDate>Sun, 23 May 2021 04:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：05月23日11时46分在青海果洛州玛沁县发生3.9级地震，震源深度11千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6999145.d.html</link>
+            <guid>2183149</guid>
+            <pubDate>Sun, 23 May 2021 03:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【袁隆平遗体送别仪式明天举行】5月22日，共和国痛失袁隆平院士。记者从袁隆平同志治丧办公室获悉：兹定于2021年5月24日（星期一）上午10:00在湖南省长沙市明阳山殡仪馆铭德厅举行袁隆平同志遗体送别仪式。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6996737.d.html</link>
@@ -264,23 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6933372.d.html</link>
             <guid>2181780</guid>
             <pubDate>Sat, 22 May 2021 17:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据卡塔尔国家通讯社：卡塔尔埃米尔致电巴勒斯坦总统阿巴斯，同意继续阻止以色列对巴勒斯坦人的暴力行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4069820.d.html</link>
-            <guid>2181733</guid>
-            <pubDate>Sat, 22 May 2021 16:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构（IAEA）：总干事预计将于当地时间周日下午举行新闻发布会，具体时间将稍后确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6928851.d.html</link>
-            <guid>2181697</guid>
-            <pubDate>Sat, 22 May 2021 16:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：欧洲银行业将发挥“确保成功和同步的经济复苏”作用，而迄今为止，企业破产和不良贷款在银行资产负债表上“相对较低”。]]></title>
-            <guid>2181696</guid>
-            <pubDate>Sat, 22 May 2021 16:20:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
