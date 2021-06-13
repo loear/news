@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 13 Jun 2021 20:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 21:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧洲资管巨头安中集团赵柏龄：中国市场未来将跳出亚洲和新兴市场“限制” 被作为独立市场看待】海外资金看重中国市场，也在增配中国市场。安中集团(Azimut Group)中国区总裁赵柏龄(Stefano CHAO)在接受记者专访时表示，从去年开始，许多海外机构和个人投资者都提高了对中国A+H股的配置。安中集团也是投资大中华市场最大的海外资产管理集团之一。（ 证券市场红周刊）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0884328.d.html</link>
+            <guid>2207059</guid>
+            <pubDate>Sun, 13 Jun 2021 21:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：06月14日04时02分在四川绵阳市北川县发生3.8级地震，震源深度15千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9481247.d.html</link>
@@ -276,30 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853897.d.html</link>
             <guid>2206093</guid>
             <pubDate>Sun, 13 Jun 2021 13:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：仍未就解除封锁做出最终决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853782.d.html</link>
-            <guid>2206092</guid>
-            <pubDate>Sun, 13 Jun 2021 13:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：以色列议会开始就组建新政府投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9453318.d.html</link>
-            <guid>2206091</guid>
-            <pubDate>Sun, 13 Jun 2021 13:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前5个月山西外贸进出口同比增长110.3%，增速居全国第一】 13日从太原海关获悉，2021年1月至5月，山西省货物贸易进出口总值904.6亿元，同比增长110.3%，增速居全国第一位。其中出口561.1亿元，同比增长125.8%；进口343.5亿元，同比增长89%。2021年前5个月，富士康和太钢合计占山西省外贸总值的67.1%。富士康(太原)科技工业园是山西省引进的最大外商投资企业和山西转型综改示范区核心企业。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9453142.d.html</link>
-            <guid>2206090</guid>
-            <pubDate>Sun, 13 Jun 2021 13:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据天空新闻：英国首相约翰逊将在七国集团峰会后举行新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0852561.d.html</link>
-            <guid>2206088</guid>
-            <pubDate>Sun, 13 Jun 2021 12:58:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
