@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Sep 2021 19:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 20:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：09月19日04时02分在新疆阿克苏地区库车市（北纬41.40度，东经83.83度）发生3.2级地震，震源深度9千米。]]></title>
+            <guid>2318173</guid>
+            <pubDate>Sat, 18 Sep 2021 20:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外长勒德里昂：澳大利亚撕毁协议前法美两国讨论AUKUS计划的传闻不是事实 。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5085459.d.html</link>
+            <guid>2318170</guid>
+            <pubDate>Sat, 18 Sep 2021 20:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建漳州又有两地启动全员核酸检测】9月18日，福建省漳州市龙文区、高新区先后启动全员核酸检测。龙文区决定自9月18日至23日，以镇（街道）、开发区为单位，分时段开展全员核酸检测。9月18日，高新区启动全员核酸检测工作。]]></title>
+            <guid>2318157</guid>
+            <pubDate>Sat, 18 Sep 2021 19:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员当地时间9月18日表示，在接下来的三天内，他们计划通过增加航班的方式来驱逐聚集在得克萨斯州边境城市的数千名海地移民。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6848415.d.html</link>
+            <guid>2318145</guid>
+            <pubDate>Sat, 18 Sep 2021 19:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国计划加大力度驱逐聚集在得州边境的海地移民】美国官员当地时间9月18日表示，在接下来的三天内，他们计划通过增加航班的方式来驱逐聚集在得克萨斯州边境城市的数千名海地移民。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5083449.d.html</link>
+            <guid>2318129</guid>
+            <pubDate>Sat, 18 Sep 2021 19:17:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“伊斯兰国”极端组织宣布对叙利亚代尔·阿里（Deir Ali）的天然气管道袭击事件负责。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6847468.d.html</link>
@@ -376,24 +404,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5025243.d.html</link>
             <guid>2317694</guid>
             <pubDate>Sat, 18 Sep 2021 09:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信集团原执行董事赵景文一审获刑18年】2021年9月18日上午，湖南省长沙市中级人民法院公开宣判中国中信集团有限公司原党委委员、执行董事赵景文受贿、贪污一案，对被告人赵景文以受贿罪判处有期徒刑十五年，并处罚金三百万元；以贪污罪判处有期徒刑四年，并处罚金二十万元，决定执行有期徒刑十八年，并处罚金三百二十万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5023656.d.html</link>
-            <guid>2317688</guid>
-            <pubDate>Sat, 18 Sep 2021 09:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：09月18日16时57分在青海海西州天峻县发生3.0级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5022854.d.html</link>
-            <guid>2317686</guid>
-            <pubDate>Sat, 18 Sep 2021 09:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人民银行：经常项目人民币跨境使用是人民币国际化的重要基础。区域全面经济伙伴协定（RCEP）的签署将进一步推动亚太地区贸易发展，拓展人民币在贸易投资活动中的使用空间。大宗商品贸易使用人民币结算已有一定基础，有望继续成为人民币跨境使用的增长点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5022832.d.html</link>
-            <guid>2317685</guid>
-            <pubDate>Sat, 18 Sep 2021 09:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
