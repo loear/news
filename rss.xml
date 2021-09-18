@@ -4,11 +4,69 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Sep 2021 16:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 18:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国外长勒德里昂：澳大利亚取消潜艇合同“是一场危机”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5080408.d.html</link>
+            <guid>2318090</guid>
+            <pubDate>Sat, 18 Sep 2021 18:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外长勒德里昂：法国总统马克龙和美国总统拜登尚未就潜艇合同问题进行对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6844730.d.html</link>
+            <guid>2318087</guid>
+            <pubDate>Sat, 18 Sep 2021 18:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国海军：美军在大西洋海域成功试射Trident II弹道导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6844720.d.html</link>
+            <guid>2318086</guid>
+            <pubDate>Sat, 18 Sep 2021 18:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“奥黛特”位于马塞诸塞州楠塔基特东南约380公里处，最大持续风速75千米/时。]]></title>
+            <guid>2318041</guid>
+            <pubDate>Sat, 18 Sep 2021 17:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：英国天然气供应来源多种多样，可以满足需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5074985.d.html</link>
+            <guid>2318015</guid>
+            <pubDate>Sat, 18 Sep 2021 16:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：将在周日与英国天然气电力市场办公室（Ofgem）官员会谈，并在周一会见行业企业以制定未来计划。]]></title>
+            <guid>2318002</guid>
+            <pubDate>Sat, 18 Sep 2021 16:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：可以确保在单个供应商供应不足的情况下继续供应天然气和电力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6838255.d.html</link>
+            <guid>2317999</guid>
+            <pubDate>Sat, 18 Sep 2021 16:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：在全球天然气价格上涨之际保护客户是绝对优先事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6838245.d.html</link>
+            <guid>2317998</guid>
+            <pubDate>Sat, 18 Sep 2021 16:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：我们有信心维持天然气供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5073780.d.html</link>
+            <guid>2317995</guid>
+            <pubDate>Sat, 18 Sep 2021 16:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国商业、能源和产业战略大臣：能源企业高管们保证供应安全无忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5073541.d.html</link>
+            <guid>2317992</guid>
+            <pubDate>Sat, 18 Sep 2021 16:32:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据日经新闻，美日印澳四方安全对话（Quad）机制四国领导人将于下周在华盛顿举行首次四方峰会，联合声明草案显示，Quad机制希望发起一项联合计划，以期强化半导体及其重要组件的供应链的安全性。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5072634.d.html</link>
@@ -324,53 +382,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5020355.d.html</link>
             <guid>2317678</guid>
             <pubDate>Sat, 18 Sep 2021 08:57:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国8月液化天然气进口665万吨，同比增长12.7％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzqtyt6781969.d.html</link>
-            <guid>2317674</guid>
-            <pubDate>Sat, 18 Sep 2021 08:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国8月份稀土及其制品出口9200吨，同比增长83.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5017948.d.html</link>
-            <guid>2317673</guid>
-            <pubDate>Sat, 18 Sep 2021 08:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会：推动将台风洪水等纳入巨灾保险制度体系】记者今天（9月18日）从银保监会了解到，为充分发挥巨灾保险在巨灾风险管理体系中的作用，银保监会将推动形成全国统筹、各方参与、市场化运行、全方位保障的巨灾保险制度设计，切实为人民群众生命财产安全提供更加全面的保障。一是统筹推进。推动将台风洪水等灾害纳入巨灾保险制度体系，完善支持配套政策，丰富具有中国特色的巨灾保险理论体系，把好发展方向。二是深化协同。三是高效运作。四是全面保障。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzqtyt6780727.d.html</link>
-            <guid>2317672</guid>
-            <pubDate>Sat, 18 Sep 2021 08:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国8月柴油出口54万吨，同比下降49.7％；汽油出口57万吨，同比下降53.4%。]]></title>
-            <guid>2317671</guid>
-            <pubDate>Sat, 18 Sep 2021 08:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委办公厅发布关于推广支持农民工等人员返乡创业试点经验的通知】通知提出，结合当地经济发展实际，依托用好各类资源，引进培育发展了一批拉动就业能力强、增收效果显著的县乡特色产业集群，如江西省德兴市的遮阳产业、贵州省正安县的吉他产业、河南省汝州市的机绣纺织产业等等。通知要求搭建返乡创业孵化基地、返乡创业产业园等平台载体，提供配套服务，降低初创成本，为培育返乡创业市场主体提供有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzqtyt6779081.d.html</link>
-            <guid>2317668</guid>
-            <pubDate>Sat, 18 Sep 2021 08:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国稀土行业协会走访赣州部分稀土企业】9月10日-11日，中国稀土行业协会副会长兼秘书长杨文浩、江苏省稀土行业协会秘书长赵平华、中国稀土行业协会信息部兼咨询服务部部长武昊、国内业务部兼国际事务部副部长毕京平等一行走访了赣州富尔特和赣州综保华瑞新材料有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5013865.d.html</link>
-            <guid>2317667</guid>
-            <pubDate>Sat, 18 Sep 2021 08:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会：推进保险资金运用支持绿色发展】银保监会相关负责人今天介绍说，银保监会持续推进保险资金运用，通过加强政策支持等方式，稳妥有序推进保险资金开展责任投资，支持绿色发展。截至2021年6月末，保险资金运用余额约23.11万亿元，同比增长14.86%；累计实现收益5758.35亿元，同比增长8.32%。保险资金通过债券、股票、资管产品等方式投向碳中和、碳达峰和绿色发展相关产业账面余额超过9000亿元。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzscyx5013345.d.html</link>
-            <guid>2317666</guid>
-            <pubDate>Sat, 18 Sep 2021 08:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网传江苏境内有工业企业停产 上市公司：有接到限电倡议书，但目前生产经营正常】网传江苏地区一些工业企业收到停产通知陷入停产局面，记者先后向江苏区域钢铁上市公司、光伏上市公司在江苏子公司以及多家泰州上市公司核实得知，上述公司在9月11日左右收到过限电倡议书，要求提高节能意识，但没有收到要求停产的正式文件，目前厂区正常生产经营。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-18/detail-iktzqtyt6776027.d.html</link>
-            <guid>2317660</guid>
-            <pubDate>Sat, 18 Sep 2021 08:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
