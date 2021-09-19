@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Sep 2021 18:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 19:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【极端组织“伊斯兰国”宣布对阿富汗楠格哈尔省首府系列爆炸负责】当地时间19日晚，极端组织“伊斯兰国”分支机构“呼罗珊省”发布声明，宣布对18日至19日阿富汗东部楠格哈尔省首府贾拉拉巴德系列爆炸袭击事件负责，并称他们在两天内针对当地共计6辆塔利班民兵车辆发动了袭击，有超过35名塔利班成员在爆炸中死亡或受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzqtyt7001707.d.html</link>
+            <guid>2318623</guid>
+            <pubDate>Sun, 19 Sep 2021 19:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国宾夕法尼亚州发生枪击事件 致3人受伤】据美国有线电视新闻网当地时间9月19日的报道，18日晚，在美国宾夕法尼亚州的一个婴儿满月酒会上发生枪击事件，造成三人受伤，分别为一名23岁男子、一名19岁女子和一名16岁男孩。初步调查显示，这起事件始于一家人在婴儿满月酒会上因礼物发生了争吵。起初是一场肢体冲突，随后犯罪嫌疑人拿出一把9毫米半自动手枪向25名亲朋好友开了三枪。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzscyx5235045.d.html</link>
+            <guid>2318619</guid>
+            <pubDate>Sun, 19 Sep 2021 18:29:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【出口民调显示俄罗斯四个党派进入新一届国家杜马】出口民调显示，统一俄罗斯党、俄罗斯联邦共产党、俄罗斯自由民主党、公正俄罗斯-爱国者-为了真理党获得超过5%的选票，能够进入新一届国家杜马。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzqtyt6999112.d.html</link>
@@ -336,24 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6968288.d.html</link>
             <guid>2318406</guid>
             <pubDate>Sun, 19 Sep 2021 11:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄委会发布黄河中下游汛情预警 启动水旱灾害应急响应】水利部黄河水利委员会透露，受近日大范围强降雨过程影响，黄河中下游防汛形势严峻。当天黄委会发布黄河中下游汛情蓝色预警，启动黄河中下游水旱灾害防御Ⅳ级应急响应，并派出工作组全面督导部署洪水防御工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6967895.d.html</link>
-            <guid>2318404</guid>
-            <pubDate>Sun, 19 Sep 2021 11:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应急管理部赴湖北调研危化品重点县和化工产业转移安全风险防控工作】应急管理部副部长刘伟率队9月14日至17日赴湖北仙桃、天门、潜江、荆州、宜昌等地，调研督导危化品重点县和化工产业转移安全风险防控工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5203087.d.html</link>
-            <guid>2318403</guid>
-            <pubDate>Sun, 19 Sep 2021 11:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1-8月电信业务收入、总量同比分别增长8.4%和27.5%】1-8月份，电信业务收入累计完成9919亿元，同比增长8.4%，增速同比提升5.3个百分点。按照上年不变价计算的电信业务总量为10932亿元，同比增长27.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5200998.d.html</link>
-            <guid>2318402</guid>
-            <pubDate>Sun, 19 Sep 2021 11:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
