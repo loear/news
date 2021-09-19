@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Sep 2021 19:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 20:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京环球度假区预计每年待客1000万至1200万人次】在北京环球度假区开园前夕，2021北京城市副中心文旅产业峰会暨全球主题娱乐行业领袖高峰论坛在京举行。各路专家聚首北京，聚焦环球影城发展。首旅集团副总经理于学忠在现场透露，开业后，北京环球度假区每年预计接待游客数量在1000万至1200万人次，将直接拉动本地近千亿元的文旅消费市场。（北青报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzscyx5239450.d.html</link>
+            <guid>2318628</guid>
+            <pubDate>Sun, 19 Sep 2021 20:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：法国取消了与英国原定本周举行的防长会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzscyx5238482.d.html</link>
+            <guid>2318627</guid>
+            <pubDate>Sun, 19 Sep 2021 19:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：缅甸/印度边境地区发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzqtyt7002975.d.html</link>
+            <guid>2318626</guid>
+            <pubDate>Sun, 19 Sep 2021 19:40:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【极端组织“伊斯兰国”宣布对阿富汗楠格哈尔省首府系列爆炸负责】当地时间19日晚，极端组织“伊斯兰国”分支机构“呼罗珊省”发布声明，宣布对18日至19日阿富汗东部楠格哈尔省首府贾拉拉巴德系列爆炸袭击事件负责，并称他们在两天内针对当地共计6辆塔利班民兵车辆发动了袭击，有超过35名塔利班成员在爆炸中死亡或受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-20/detail-iktzqtyt7001707.d.html</link>
@@ -324,30 +342,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzscyx5205660.d.html</link>
             <guid>2318412</guid>
             <pubDate>Sun, 19 Sep 2021 12:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡升船机5年通过船舶1.46万余艘次】三峡升船机自2016年9月18日试通航以来，过坝快速通道作用日益显现。记者从长江三峡通航管理局获悉，5年来，三峡升船机安全稳定运行，共运行2.2万余厢次，通过船舶1.46万余艘次，运送货物681.86万余吨、旅客46.72万余人次，客运量、货运量、通过船舶艘次数呈稳步上升趋势。三峡升船机规模大、技术复杂、运行维护难度高。5年来，三峡升船机与三峡船闸联合运行，实现“小船坐电梯，大船爬楼梯”。经过一系列技术创新，三峡升船机日平均运行厢次由通航初期的7.3厢次上升至目前的28.6厢次，船舶平均过厢时间由初期75分钟缩短至目前50分钟左右。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6970272.d.html</link>
-            <guid>2318411</guid>
-            <pubDate>Sun, 19 Sep 2021 12:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：和誉开曼有限责任公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6968384.d.html</link>
-            <guid>2318409</guid>
-            <pubDate>Sun, 19 Sep 2021 11:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：ANE (Cayman) Inc.通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6968374.d.html</link>
-            <guid>2318408</guid>
-            <pubDate>Sun, 19 Sep 2021 11:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021合肥农交会签约项目金额707亿元，沪苏浙占比近四成】从第十三届中国安徽名优农产品暨农业产业化交易会(2021·合肥)成果发布会上获悉：合肥农交会共推招商项目563个，总投资额1928.6亿元；大会签约项目88个，签约金额707亿元。展会现场销售额达1.17亿元；签订贸易订单3200多份，合同金额近31.9亿元。其中，在合肥农交会563个招商项目中，沪苏浙在皖投资项目89个、投资金额501.8亿元；大会88个签约项目中，有沪苏浙项目23个、签约金额275亿元，投资金额和签约金额均比去年提高近1倍。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-19/detail-iktzqtyt6968288.d.html</link>
-            <guid>2318406</guid>
-            <pubDate>Sun, 19 Sep 2021 11:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
