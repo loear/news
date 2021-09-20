@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Sep 2021 21:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 22:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：危地马拉蒂基萨特东部7公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5400123.d.html</link>
+            <guid>2319489</guid>
+            <pubDate>Mon, 20 Sep 2021 22:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京首个全自持长租公寓亮相】南京仙林一处“全自持长租公寓”正式亮相，租金每平方米每月60元左右，所有租赁房源精装交付，公寓商要求承租者在南京创业或就业。日前，该长租公寓迎来了首批入住者，主要是青年大学生创业者和仙林大学城的青年教师。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5399694.d.html</link>
+            <guid>2319484</guid>
+            <pubDate>Mon, 20 Sep 2021 22:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国方面表示，布林肯和英国外交大臣特拉斯讨论了阿富汗问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7165103.d.html</link>
+            <guid>2319483</guid>
+            <pubDate>Mon, 20 Sep 2021 22:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国方面表示，美国国务卿布林肯会见了英国外交大臣特拉斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5399419.d.html</link>
+            <guid>2319481</guid>
+            <pubDate>Mon, 20 Sep 2021 21:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Romney：不会投票赞成提高债务上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5399178.d.html</link>
+            <guid>2319479</guid>
+            <pubDate>Mon, 20 Sep 2021 21:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党参议员Durbin和Cantwell向司法部和美国联邦航空管理局（FAA）致信函。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7164202.d.html</link>
+            <guid>2319475</guid>
+            <pubDate>Mon, 20 Sep 2021 21:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第三季度西太平洋消费者信心指数：前值107.10，实际值102.70。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5398678.d.html</link>
+            <guid>2319474</guid>
+            <pubDate>Mon, 20 Sep 2021 21:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国外长勒德里昂：将与俄罗斯外长拉夫罗夫讨论伊朗、利比亚和乌克兰问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7162894.d.html</link>
@@ -191,48 +233,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5391485.d.html</link>
             <guid>2319391</guid>
             <pubDate>Mon, 20 Sep 2021 18:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  自动驾驶初创公司Aurora发布了与丰田汽车(TM.N)合作研发的最新成果——搭载Aurora Driving系统的丰田赛那，该设计将用于网约车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7156610.d.html</link>
-            <guid>2319385</guid>
-            <pubDate>Mon, 20 Sep 2021 18:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据9to5 Google报道，谷歌正在研发第二款可折叠Pixel手机，内部研发代号为Jumbojack。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7156454.d.html</link>
-            <guid>2319384</guid>
-            <pubDate>Mon, 20 Sep 2021 18:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【MKM Partners：将思科(CSCO.O)目标价从60美元上调至69美元 】MKM Partners分析师Fahad Najam将思科(CSCO.O)目标价格从60美元提高到69美元，维持买入评级。该分析师表示，该公司在9月15日分析师日提供的盈利和收入增长前景略显保守，投资者应利用这次回调的机会。Najam将思科长期估值从16倍提高到18倍，指其软件收入增速加快，还指出公司现在报告更详细的客户群和软件收入指标，如年度经常性收入和应执行履约义务，使估值模型更加精确。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzqtyt7156100.d.html</link>
-            <guid>2319380</guid>
-            <pubDate>Mon, 20 Sep 2021 18:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西在维也纳会见伊朗核问题负责人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5390633.d.html</link>
-            <guid>2319379</guid>
-            <pubDate>Mon, 20 Sep 2021 18:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉年华邮轮(CCL.N)表示，美国境内的航线已有超过一半恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5390507.d.html</link>
-            <guid>2319378</guid>
-            <pubDate>Mon, 20 Sep 2021 18:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 12月黄金期货收涨0.7%，报1763.80美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5389862.d.html</link>
-            <guid>2319376</guid>
-            <pubDate>Mon, 20 Sep 2021 17:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国要出大招了？】这个大招，就是法国打算要求欧洲暂停与澳大利亚的自由贸易谈判。此前澳大利亚政府已经与欧盟进行了11轮的谈判，并希望在今年底前谈妥双方的自由贸易协定。为了保护本国的农业发展，法国政府一直也对与其他农产品出国大国的贸易协定颇为审慎。所以，在失去了法国的支持后，恐怕欧盟与澳大利亚也将难以在农产品这个核心议题上继续谈下去了。欧洲方面对澳大利亚不满的，其实不仅仅是法国。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-21/detail-iktzscyx5388532.d.html</link>
-            <guid>2319366</guid>
-            <pubDate>Mon, 20 Sep 2021 17:24:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
