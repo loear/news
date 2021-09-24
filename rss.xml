@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 24 Sep 2021 17:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 18:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【四川泸州市泸县附近发生3.3级左右地震】中国地震台网自动测定：09月25日02时16分在四川泸州市泸县附近（北纬29.28度，东经105.47度）发生3.3级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6170497.d.html</link>
+            <guid>2324315</guid>
+            <pubDate>Fri, 24 Sep 2021 18:19:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5年期国债收益率升至0.962%，为4月5日来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6169688.d.html</link>
+            <guid>2324313</guid>
+            <pubDate>Fri, 24 Sep 2021 18:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南苏丹：由于苏丹港口的抗议活动，石油出口暂时停止；如果封锁继续，可能会停止石油生产。]]></title>
+            <guid>2324312</guid>
+            <pubDate>Fri, 24 Sep 2021 18:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：上周汽油期货投机性净多头头寸减少6110手合约至126195手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt7935656.d.html</link>
+            <guid>2324308</guid>
+            <pubDate>Fri, 24 Sep 2021 17:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货结算价收涨0.1%，报1751.7美元/盎司，本周大体持稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6168196.d.html</link>
+            <guid>2324307</guid>
+            <pubDate>Fri, 24 Sep 2021 17:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据据The Information：美国在线教育公司Udemy计划于十月进行IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt7935545.d.html</link>
+            <guid>2324306</guid>
+            <pubDate>Fri, 24 Sep 2021 17:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：上周布伦特原油期货投机性净多头头寸增加21004手合约至319651手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6167858.d.html</link>
+            <guid>2324305</guid>
+            <pubDate>Fri, 24 Sep 2021 17:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：强生(JNJ.N)面临着约35000件指控其滑石粉产品致癌的诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt7934774.d.html</link>
+            <guid>2324303</guid>
+            <pubDate>Fri, 24 Sep 2021 17:35:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  贝克休斯油服：美国钻井公司连续14个月增加石油和天然气钻井平台。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt7932534.d.html</link>
@@ -173,30 +220,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-24/detail-iktzqtyt7916989.d.html</link>
             <guid>2324220</guid>
             <pubDate>Fri, 24 Sep 2021 14:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近2700亿元投资在“辽洽会”签约】2021辽宁国际投资贸易洽谈会24日在沈阳开幕。经前期积极对接，“辽洽会”期间，共有168个项目正式签约，签约总额近2700亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-24/detail-iktzqtyt7916190.d.html</link>
-            <guid>2324210</guid>
-            <pubDate>Fri, 24 Sep 2021 14:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST金正：子公司拟出资8500万欧元设立施诺德(中国) 公司】*ST金正公告，公司控股子公司德国康朴投资有限公司拟出资8500万欧元在国内设立全资子公司施诺德(中国)有限公司(“施诺德(中国)”)，从事水溶肥、液体肥、生物菌肥的生产销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-24/detail-iktzscyx6148160.d.html</link>
-            <guid>2324203</guid>
-            <pubDate>Fri, 24 Sep 2021 13:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰外长科夫尼：英国脱欧谈判加速了爱尔兰方面的辩论过程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-24/detail-iktzqtyt7914839.d.html</link>
-            <guid>2324202</guid>
-            <pubDate>Fri, 24 Sep 2021 13:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国钢铁工业协会、中国船舶工业行业协会于9月23日在江苏省常熟市共同组织召开船舶用钢供需座谈会，会上举办了10场船厂与钢厂长期采购协议的签约活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-24/detail-iktzqtyt7914511.d.html</link>
-            <guid>2324201</guid>
-            <pubDate>Fri, 24 Sep 2021 13:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
