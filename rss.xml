@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 Sep 2021 21:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 22:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【西班牙拉帕尔马岛火山锥破裂 岩浆快速向大海方向流入】根据西班牙《国家报》消息，西班牙地质矿产研究所宣布，当地时间9月25日早上，拉帕尔马岛火山的锥体部分破裂。地质学家在使用无人机观察了火山喷发状态后表示，火山喷发形成的锥体破裂促进了熔岩排出，使其更快速地流入大海。自9月19日拉帕尔马岛火山开始喷发以来，火山熔岩已经覆盖了190.7公顷陆地，摧毁了420座建筑物，还摧毁了16公里道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-26/detail-iktzqtyt8109768.d.html</link>
+            <guid>2325434</guid>
+            <pubDate>Sat, 25 Sep 2021 21:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家飓风中心：飓风森姆（Sam）迅速增强为四级飓风。]]></title>
             <guid>2325430</guid>
@@ -385,24 +391,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt8044227.d.html</link>
             <guid>2324538</guid>
             <pubDate>Sat, 25 Sep 2021 08:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘鹤出席2021中关村论坛开幕式】9月24日晚，2021中关村论坛开幕式在北京举行。中共中央政治局委员、国务院副总理刘鹤表示，要充分发挥北京科技创新资源的优势，加强基础研究，争取取得更多底层核心技术的突破。要抓好应用研究、创新成果市场拓展，让关键核心技术产生更多的价值。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6275578.d.html</link>
-            <guid>2324536</guid>
-            <pubDate>Sat, 25 Sep 2021 08:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年世界互联网大会“互联网”之光博览会启幕】2021年世界互联网大会“互联网”之光博览会在浙江乌镇启幕。本届博览会以“迈向数字文明新时代——携手构建网络空间命运共同体”为主题，聚焦世界互联网最新发展趋势。众多参展企业带来了诸多数字新技术，包括云计算、大数据、人工智能、增强现实（AR）、网络安全等领域的新技术和新产品。据悉。本届“互联网之光”博览会展期为4天，不少展览还将以“线下实景+线上全景”的方式呈现，展会期间将举办70余场新产品新技术发布活动。（国是直通车）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzscyx6274724.d.html</link>
-            <guid>2324535</guid>
-            <pubDate>Sat, 25 Sep 2021 08:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“山姆”接近升级成飓风，预料将进一步加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-25/detail-iktzqtyt8041113.d.html</link>
-            <guid>2324533</guid>
-            <pubDate>Sat, 25 Sep 2021 08:34:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
