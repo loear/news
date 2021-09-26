@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Sep 2021 16:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 17:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国基民盟主席拉舍特：将尝试并组建在基民盟领导下的德国政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-27/detail-iktzqtyt8285301.d.html</link>
+            <guid>2325795</guid>
+            <pubDate>Sun, 26 Sep 2021 17:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【13家深企营业收入达到千亿元级别】据深圳发布，9月25日，2021中国企业500强榜单出炉。榜单显示，2021中国500强企业营业收入和净利润总额实现增长。营业收入超过1000亿元的企业增至222家。平安保险位居第五。7家深企进入前100强榜单，13家深企营业收入达到千亿元级别。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-27/detail-iktzqtyt8283104.d.html</link>
+            <guid>2325772</guid>
+            <pubDate>Sun, 26 Sep 2021 16:38:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国自民党副主席Kubicki：倾向于牙买加联盟（联盟党、自民党和绿党联合）。]]></title>
             <guid>2325763</guid>
@@ -356,24 +368,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-26/detail-iktzscyx6460963.d.html</link>
             <guid>2325659</guid>
             <pubDate>Sun, 26 Sep 2021 09:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新农股份：拟以4000万元-8000万元回购股份，回购价格不超过人民币23.80元/股，回购的公司股份将用于实施股权激励或员工持股计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-26/detail-iktzscyx6460840.d.html</link>
-            <guid>2325657</guid>
-            <pubDate>Sun, 26 Sep 2021 09:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海川智能：与芯通科技签订《合作意向协议》，拟以不超过人民币8400万元的现金收购成都芯通软件有限公司不超过20%股权，同时拟向标的公司实际控制人李睿提供人民币1亿元的可换股借款，拟获得标的公司无条件的换股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-26/detail-iktzscyx6460625.d.html</link>
-            <guid>2325656</guid>
-            <pubDate>Sun, 26 Sep 2021 09:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金智科技：全资子公司中标“南部新城南京外国语学校建设工程项目智能化工程”、“山东大学国家大学科技园青岛双创中心建设项目智能化工程（EPC）”，中标金额合计为2.28亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-26/detail-iktzqtyt8227102.d.html</link>
-            <guid>2325655</guid>
-            <pubDate>Sun, 26 Sep 2021 09:09:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
