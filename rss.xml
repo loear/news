@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 28 Sep 2021 19:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 20:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美光科技(MU.O)：预计22财年第一季度每股盈利为2.00美元至2.2美元，市场预估2.56美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8702669.d.html</link>
+            <guid>2328477</guid>
+            <pubDate>Tue, 28 Sep 2021 20:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美光科技(MU.O)：预计22财年第一季度营收74.5亿美元至78.5亿美元，市场预估85.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6935437.d.html</link>
+            <guid>2328476</guid>
+            <pubDate>Tue, 28 Sep 2021 20:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美光科技(MU.O)：Q4营业现金流38.8亿美元，市场预估40.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8702516.d.html</link>
+            <guid>2328475</guid>
+            <pubDate>Tue, 28 Sep 2021 20:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员Coons和Stabenow：民主党人准备采取措施为政府提供资金，避免周三政府关门。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6934910.d.html</link>
+            <guid>2328472</guid>
+            <pubDate>Tue, 28 Sep 2021 19:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日经新闻：大众汽车在日本提价高达1000美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6934749.d.html</link>
+            <guid>2328469</guid>
+            <pubDate>Tue, 28 Sep 2021 19:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国7月房价飙升19.9%创历史新高】当地时间9月28日，美国标普/凯斯席勒房价指数对20个城市房价的分析显示，美国7月房价指数较去年同期上涨19.9%，创下2000年以来的最大涨幅，19个城市的房价创历史新高。其中，菲尼克斯、圣地亚哥和西雅图的房价涨幅最大，菲尼克斯房价涨幅达32.5%，已连续26个月位居全美首位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6933773.d.html</link>
+            <guid>2328400</guid>
+            <pubDate>Tue, 28 Sep 2021 19:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【谷歌再遭反垄断投诉：Chrome浏览器取消Cookie影响行业营收】据报道，代表广告主、出版商和科技公司的行业组织“开放网络运动”（The Movement for an Open Web）向欧盟投诉谷歌(GOOG.O、GOOGL.O)，称谷歌Chrome浏览器取消Cookie的计划是一种反垄断行为，将严重影响广告主和出版商的营收。谷歌去年年初宣布，由于用户对隐私和数据控制权利提出了更高的要求，未来两年内将逐步淘汰Chrome浏览器对第三方Cookie的支持，并计划推广其“隐私沙箱”（Privacy Sandbox）技术。但出版商和广告技术公司纷纷抱怨称，该技术将限制他们收集网络用户信息的能力，从而影响其提供更具价值广告的能力。欧盟委员会证实已收到“开放网络运动”的投诉，将根据标准程序对此进行评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8700598.d.html</link>
+            <guid>2328366</guid>
+            <pubDate>Tue, 28 Sep 2021 19:13:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国商品期货交易委员会（CFTC）：交互式经纪人已经向客户返还了8260万美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6932726.d.html</link>
@@ -240,96 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8691410.d.html</link>
             <guid>2328257</guid>
             <pubDate>Tue, 28 Sep 2021 16:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)宣布推出带屏幕的可穿戴健康管理设备Amazon Halo，将于今年晚些时候推出，售价80美元；并推出Halo膳食营养规划服务和Halo健身服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6924251.d.html</link>
-            <guid>2328253</guid>
-            <pubDate>Tue, 28 Sep 2021 16:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统府官员：除了已有方案，没有其他选择，任何其他方案都将意味着（冲突）升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6923877.d.html</link>
-            <guid>2328251</guid>
-            <pubDate>Tue, 28 Sep 2021 16:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统府官员：重返2015年伊核协议的条款很明确，不需要为重返谈判桌设定任何条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8690971.d.html</link>
-            <guid>2328250</guid>
-            <pubDate>Tue, 28 Sep 2021 16:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)宣布推出针对儿童的Amazon Glow视频对话设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6923724.d.html</link>
-            <guid>2328249</guid>
-            <pubDate>Tue, 28 Sep 2021 16:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统府官员：伊朗必须重返核谈判以避免冲突升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6923471.d.html</link>
-            <guid>2328248</guid>
-            <pubDate>Tue, 28 Sep 2021 16:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球最大资管发声：近期建议增持A股 长期配置增加数倍】全球最大资产管理者贝莱德表示，随着中国国内宏观政策可能转向适度宽松，战术上从今年年中的中性转向增持A股。近阶段仍然支持买入风险资产，尤其是全球整体低配的中国股票。从中长期的战略角度来看，贝莱德指出，中国资产指数基准中占比小，客户实际配置不够，有空间增加数倍。欧洲市场是贝莱德近期看好的另一大主题，相较于美国股市的中立态度，这家资管巨头看多欧洲股票和通胀挂钩债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6923437.d.html</link>
-            <guid>2328246</guid>
-            <pubDate>Tue, 28 Sep 2021 16:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国庆假期南铁预计发送旅客524万人次】据中国铁路南昌局集团有限公司消息，2021年国庆假期运输自9月28日至10月8日，共11天。南铁预计发送旅客524万人次，10月1日将迎来主要出行的客流，当日预计发送旅客76万人次。南铁在启用图定高峰线的基础上，计划增开列车446趟，普速列车日均加挂70辆，满足假期旅客出行需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6923242.d.html</link>
-            <guid>2328244</guid>
-            <pubDate>Tue, 28 Sep 2021 16:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)将把迪士尼(DIS.N)的内容整合到Amazon Alexa上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8689775.d.html</link>
-            <guid>2328238</guid>
-            <pubDate>Tue, 28 Sep 2021 16:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)与华特迪士尼(DIS.N)宣布新的合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6922748.d.html</link>
-            <guid>2328237</guid>
-            <pubDate>Tue, 28 Sep 2021 16:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)宣布为智能助理Amazon Alexa定制声音检测系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6922519.d.html</link>
-            <guid>2328236</guid>
-            <pubDate>Tue, 28 Sep 2021 16:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)：Echo Show 15配备日历、智能家居控制的小工具，搭载AZ2定制芯片，用于语音通信；Echo Show 15售价250美元，将于今年晚些时候推出。所有的Echo Show设备将在今年上线流媒体服务Sling TV。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6922347.d.html</link>
-            <guid>2328233</guid>
-            <pubDate>Tue, 28 Sep 2021 16:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳土拍斩获450亿 中海成最大赢家】深圳今年第二次集中供地土拍在9月28日（原定8月9日）正式落锤，是目前深圳最大批量宅地供应。此次土拍房企竞争激烈，17宗地块达到地价上限，仅4宗底价成交，另有1宗流拍。中海为最大买家，其以127.15亿元获得4宗，保利置业以71.73亿元获得3宗，金地、华润、深房、联发等企业各得1宗。对比日前刚刚结束的广州土拍52%的流拍率，深圳本次土拍表现相当不错。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8688927.d.html</link>
-            <guid>2328230</guid>
-            <pubDate>Tue, 28 Sep 2021 16:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)宣布推出壁挂式智能屏幕Echo Show 15。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6921845.d.html</link>
-            <guid>2328229</guid>
-            <pubDate>Tue, 28 Sep 2021 16:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数跌幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6921786.d.html</link>
-            <guid>2328228</guid>
-            <pubDate>Tue, 28 Sep 2021 16:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)宣布推出智能温控器。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6921756.d.html</link>
-            <guid>2328226</guid>
-            <pubDate>Tue, 28 Sep 2021 16:11:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
