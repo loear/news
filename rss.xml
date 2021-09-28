@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 28 Sep 2021 20:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 21:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：预计飓风“山姆”本周将维持大型飓风的强度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6936785.d.html</link>
+            <guid>2328540</guid>
+            <pubDate>Tue, 28 Sep 2021 20:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）对老牌加密货币交易所Kraken处以125万美元的罚款，因其提供非法场外数字资产交易和未按要求注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8703809.d.html</link>
+            <guid>2328534</guid>
+            <pubDate>Tue, 28 Sep 2021 20:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美光科技(MU.O)：2022财年的需求前景很强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8703582.d.html</link>
+            <guid>2328520</guid>
+            <pubDate>Tue, 28 Sep 2021 20:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Affirm Holdings(AFRM.O)将允许客户进行加密货币交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6936355.d.html</link>
+            <guid>2328519</guid>
+            <pubDate>Tue, 28 Sep 2021 20:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美光科技(MU.O)：预计22财年第一季度每股盈利为2.00美元至2.2美元，市场预估2.56美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8702669.d.html</link>
@@ -252,36 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8692649.d.html</link>
             <guid>2328264</guid>
             <pubDate>Tue, 28 Sep 2021 16:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班发布声明警告称，若美国的无人机继续在阿富汗上空行动，侵犯阿富汗领空，美国方面将承担“后果”。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6925349.d.html</link>
-            <guid>2328262</guid>
-            <pubDate>Tue, 28 Sep 2021 16:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  数字优化系统Amplitude(AMPL.O)登陆纳斯达克，一度涨超55%，现涨51%，报53美元，上市参考价35美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8692347.d.html</link>
-            <guid>2328261</guid>
-            <pubDate>Tue, 28 Sep 2021 16:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心主管Walensky：新研究表明，（人们）对加强针有良好的耐受性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6925202.d.html</link>
-            <guid>2328260</guid>
-            <pubDate>Tue, 28 Sep 2021 16:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：密克罗尼西亚雅普州发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzscyx6924838.d.html</link>
-            <guid>2328258</guid>
-            <pubDate>Tue, 28 Sep 2021 16:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2021年德国机场仍将承受高额损失】德国机场协会主席舒尔特当地时间9月28日表示，预计德国机场今年的亏损总额将达到15亿欧元。尽管今年夏季的旅客人数有所回升，但德国机场的运营状况依然不容乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-29/detail-iktzqtyt8691410.d.html</link>
-            <guid>2328257</guid>
-            <pubDate>Tue, 28 Sep 2021 16:39:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
