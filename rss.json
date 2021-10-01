@@ -6,6 +6,62 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2332501,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9272471.d.html",
+            "title": "【巴基斯坦塔利班宣布在巴基斯坦南瓦济里斯坦地区停火至10月20日】据巴基斯坦媒体报道，在巴基斯坦总理伊姆兰·汗宣布巴政府正在与巴基斯坦塔利班某些派系进行解除武装的谈判之后，巴基斯坦塔利班宣布在巴基斯坦南瓦济里斯坦地区停火至10月20日。巴基斯坦塔利班表示，他们的领导人正在进行秘密会谈，但没有对此做详细说明。（央视新闻）",
+            "date_modified": "2021-10-01T19:06:26.000Z"
+        },
+        {
+            "id": 2332492,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9272142.d.html",
+            "title": "  【特斯拉将挪威的电动车销量推至新的记录】上周五的新数据显示，挪威的电动汽车销量在上个月创下历史新高，主要推动力是特斯拉(TSLA.O)的中型汽车在这个有影响力的北欧市场的需求。挪威公路联盟（OFV）表示，电池电动车占上月所有新车销售的77.5%，高于一年前的61.5%，因为挪威力争在2025年前成为第一个停止销售汽油和柴油发动机的国家。特斯拉Model Y是9月份挪威最畅销的车型，占汽车市场的19.8%，其次是该公司的Model 3轿车，占12.3%。",
+            "date_modified": "2021-10-01T18:59:48.000Z"
+        },
+        {
+            "id": 2332488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9272056.d.html",
+            "title": "【油价连续第六周上涨 关注下周OPEC+产量会议】油价周五随股市上涨，交易员将注意力转向了即将召开的OPEC+会议，关注是否可能进一步增产。纽约原油期货震荡上涨约1%，连续第六周上涨。对OPEC是否会决定增产的猜测不断升温。调查显示，OPEC在9月恢复了36万桶/日产量。瑞穗证券美国的期货部门董事Bob Yawger称，上月产出比市场预期的OPEC增产规模要小，很多OPEC成员国没有大幅提高产量的能力，但这没有阻止市场对OPEC产量会更高的可能性进行定价。摩根大通警告称，亚洲和欧洲天然气危机恶化将促使发电企业转而使用石油燃料，因此布伦特价格到年底将达到每桶84美元。",
+            "date_modified": "2021-10-01T18:57:48.000Z"
+        },
+        {
+            "id": 2332482,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7504747.d.html",
+            "title": "  美国白宫：拜登将于下周五发表有关经济的演讲。",
+            "date_modified": "2021-10-01T18:50:45.000Z"
+        },
+        {
+            "id": 2332480,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7504738.d.html",
+            "title": "  美国白宫：拜登将继续推动基础设施建设，重建更好的立法。",
+            "date_modified": "2021-10-01T18:50:35.000Z"
+        },
+        {
+            "id": 2332472,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7504438.d.html",
+            "title": "  【通用汽车扩大电动车阵容，旨在通过软件获利】据报道，通用汽车(GM.N)计划在下周与投资者会面时将自己定位为一家技术平台公司，既专注于软件，也专注于制造电动汽车，包括透露未来几年在美国至少推出20款电动汽车的计划。报道称该公司将在周三谈论其增长战略、电动车和软件平台优势、自动驾驶汽车业务以及相关的财务路线图，从而吸引新的投资者。消息人士透露，通用汽车高管将更详细地介绍该公司到2025年在电动汽车和自动驾驶汽车上投入350亿美元的计划，并将给出此后五年的收入和利润率增长目标。",
+            "date_modified": "2021-10-01T18:43:31.000Z"
+        },
+        {
+            "id": 2332469,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9271053.d.html",
+            "title": "  WTI 11月原油期货收涨0.85美元，涨幅1.13%，报75.88美元/桶。",
+            "date_modified": "2021-10-01T18:34:50.000Z"
+        },
+        {
+            "id": 2332468,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7503861.d.html",
+            "title": "  农米良品(FAMI.O)跌超23%，此前两日累涨近80%。",
+            "date_modified": "2021-10-01T18:32:18.000Z"
+        },
+        {
             "id": 2332463,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7502922.d.html",
@@ -330,69 +386,6 @@
             "content_html": "",
             "title": "东方证券：给予龙湖集团(00960.HK)买入的初始评级；目标价51.62港元。",
             "date_modified": "2021-10-01T16:00:34.000Z"
-        },
-        {
-            "id": 2332374,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzscyx7495773.d.html",
-            "title": "欧洲地中海地震中心：南桑维奇群岛地区发生5.4地震。",
-            "date_modified": "2021-10-01T15:59:14.000Z"
-        },
-        {
-            "id": 2332373,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzscyx7495684.d.html",
-            "title": "ICE汽油期货收报673.25美元/吨。",
-            "date_modified": "2021-10-01T15:56:04.000Z"
-        },
-        {
-            "id": 2332371,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzqtyt9262673.d.html",
-            "title": "市场消息：通用电气(GE.N)与美国国家航空航天局签订混合动力电动技术演示器的协议。",
-            "date_modified": "2021-10-01T15:53:19.000Z"
-        },
-        {
-            "id": 2332369,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzqtyt9262584.d.html",
-            "title": "Lordstown Motors(RIDE.O)跌超15%，现报6.76美元。",
-            "date_modified": "2021-10-01T15:51:31.000Z"
-        },
-        {
-            "id": 2332366,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzscyx7495335.d.html",
-            "title": "Finam Investmen：给予工商银行(01398.HK)买进的初始评级，目标价6.72港元。",
-            "date_modified": "2021-10-01T15:47:04.000Z"
-        },
-        {
-            "id": 2332365,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzscyx7495233.d.html",
-            "title": "本田汽车(HMC.N)：9月美国汽车销量下降24.7％。",
-            "date_modified": "2021-10-01T15:45:31.000Z"
-        },
-        {
-            "id": 2332364,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzscyx7495216.d.html",
-            "title": "【欧股主要股指普遍收跌】欧股主要股指普遍收跌，德国DAX30指数跌0.69%，法国CAC40指数跌0.04%，英国富时100指数跌0.82%，欧洲斯托克50指数跌0.29%。",
-            "date_modified": "2021-10-01T15:45:13.000Z"
-        },
-        {
-            "id": 2332363,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzqtyt9262281.d.html",
-            "title": "丰田汽车(TM.N)北美报告称，美国9月可替代动力汽车(APV)的总销量为42945辆。",
-            "date_modified": "2021-10-01T15:44:59.000Z"
-        },
-        {
-            "id": 2332359,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-01/detail-iktzqtyt9261879.d.html",
-            "title": "  欧股主要股指普遍收跌，德国DAX30指数跌0.69%，法国CAC40指数跌0.04%，英国富时100指数跌0.82%，欧洲斯托克50指数跌0.29%。",
-            "date_modified": "2021-10-01T15:38:27.000Z"
         }
     ]
 }
