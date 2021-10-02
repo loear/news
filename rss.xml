@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 17:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 18:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国众议长佩洛西将10月31日定为通过基建法案的最新目标期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7650150.d.html</link>
+            <guid>2332994</guid>
+            <pubDate>Sat, 02 Oct 2021 18:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国第25批赴刚果（金）维和部队全部抵达任务区】北京时间10月2日2时40分，中国第25批赴刚果（金）维和部队第二梯队的94名官兵在成都双流国际机场搭乘包机起飞，并于当地时间2日下午全部抵达刚果（金）南基伍省布卡武市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9416233.d.html</link>
+            <guid>2332993</guid>
+            <pubDate>Sat, 02 Oct 2021 18:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴西外交部：尽力查明中国驻里约总领馆遭袭事件】当地时间9月30日，巴西外交部就中国驻里约热内卢总领馆日前遭袭事件发布首份公开声明，表示“将尽一切努力查明案件，把与此案相关的犯罪嫌疑人绳之以法，并保护驻巴西外交使领事馆的安全”。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7646412.d.html</link>
@@ -319,18 +331,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9357333.d.html</link>
             <guid>2332797</guid>
             <pubDate>Sat, 02 Oct 2021 07:47:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国庆假期首日海南离岛免税购物金额同比增长122%】今年国庆假期，海南离岛免税销售火爆。海口海关2日发布消息，1日海关共监管离岛免税购物金额1.71亿元，同比增长122%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9356949.d.html</link>
-            <guid>2332796</guid>
-            <pubDate>Sat, 02 Oct 2021 07:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从新疆电力交易有限公司获悉，今年前三季度疆电外送电量达935亿千瓦时，同比增长22.4%，规模创历史新高。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9355710.d.html</link>
-            <guid>2332794</guid>
-            <pubDate>Sat, 02 Oct 2021 07:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
