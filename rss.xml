@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 21:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 22:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021年阿根廷科技、工业和艺术博览会开幕】当地时间10月2日，2021年阿根廷科技、工业和艺术博览会开幕式暨阿根廷国家科学技术展览馆建成10周年纪念仪式在阿首都布宜诺斯艾利斯举行。阿根廷内阁首席部长曼苏尔、科技部部长菲尔穆斯、文化部部长鲍威尔等出席活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9426962.d.html</link>
+            <guid>2333008</guid>
+            <pubDate>Sat, 02 Oct 2021 21:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【同力日升：拟收购天启鸿源51%股权 10月8日起停牌】同力日升(605286)9月30日晚间公告，公司拟通过增资、发行股份及支付现金的方式，获取北京天启鸿源新能源科技有限公司部分股权，交易完成后公司将持有天启鸿源51%股权。此次交易预计构成重大资产重组，公司股票自10月8日起停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9426530.d.html</link>
+            <guid>2333007</guid>
+            <pubDate>Sat, 02 Oct 2021 21:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华宝股份：获“创业板上市公司价值50强”】由证券时报社主办、财通证券特约协办的“第十五届中国上市公司价值评选”榜单隆重揭晓。华宝股份荣登“创业板上市公司价值50强”榜单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7659390.d.html</link>
+            <guid>2333006</guid>
+            <pubDate>Sat, 02 Oct 2021 21:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【三鑫医疗：部分董监事、高管人员计划减持股份】三鑫医疗(300453)9月30日晚间公告，公司董事、总经理毛志平，董事、董事会秘书刘明，监事长余珍珠，监事张琳，副总经理乐珍荣，副总经理王甘英，财务总监邹蓓廷计划减持公司股份。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9424918.d.html</link>
@@ -313,12 +331,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7598647.d.html</link>
             <guid>2332814</guid>
             <pubDate>Sat, 02 Oct 2021 08:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰外长科夫尼：英国方面不太可能触发北爱尔兰议定书中的贸易条款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9364981.d.html</link>
-            <guid>2332813</guid>
-            <pubDate>Sat, 02 Oct 2021 08:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
