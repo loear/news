@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 18:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 19:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -319,18 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7592624.d.html</link>
             <guid>2332800</guid>
             <pubDate>Sat, 02 Oct 2021 08:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海迪士尼迎客流高峰期 热门项目需排队1小时】上海迪士尼是2020年全球游客人次排名第二的主题乐园，仅次于美国华特迪士尼度假区。十一黄金周来临，上海迪士尼也迎来客流高峰期。据了解，迪士尼乐园共有近40个游乐项目，从官方App上的实时信息可以看到，热门项目排队时间在一个小时左右。演出方面，十一期间，上海迪士尼将呈现各类娱乐演出30多个，在客流高峰日，夜晚的烟火秀将增加到两场。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9358727.d.html</link>
-            <guid>2332799</guid>
-            <pubDate>Sat, 02 Oct 2021 07:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚今日开始进入夏令时，其金融市场交易时间及数据发布时间较冬令时提前一小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9357333.d.html</link>
-            <guid>2332797</guid>
-            <pubDate>Sat, 02 Oct 2021 07:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
