@@ -4,11 +4,38 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 14:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 15:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【沈阳有序节电：关闭景观照明、部分路灯和电子屏灯箱广告】 按照沈阳市工业和信息化局关于配合执行沈阳市有序用电通知要求，为确保沈阳市电力有序安全供应，保障群众生产生活需要，现对沈阳市景观照明设施执行有序节约用电事宜安排如下：一、关闭景观照明设施。二、优化功能照明亮灯范围。三、关闭电子屏及灯箱广告用电。（央视新闻）]]></title>
+            <guid>2332892</guid>
+            <pubDate>Sat, 02 Oct 2021 15:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  广汽集团：广汽传祺全新第二代GS8预售；广汽集团消息，广汽传祺全新第二代GS8预售。其中，混动系列两驱版价格22.88万元，四驱版24.68万元。]]></title>
+            <guid>2332885</guid>
+            <pubDate>Sat, 02 Oct 2021 14:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西发生5.9级地震；中国地震台网正式测定：10月02日20时52分在巴西发生5.9级地震，震源深度580千米。]]></title>
+            <guid>2332883</guid>
+            <pubDate>Sat, 02 Oct 2021 14:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【今年前9月广州中欧班列发运货值近30亿元】截至2021年9月30日，今年广州大朗共开行出口中欧班列97列，发运标箱9698个，货重4.87万吨，货值29.47亿元人民币，同比分别增长25.97%、33.80%、33.79%、19.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9403465.d.html</link>
+            <guid>2332879</guid>
+            <pubDate>Sat, 02 Oct 2021 14:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  2020年，美国参与零工经济的人数同比增长33%。倾向于打零工的民众称，零工让其工作时间更灵活。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9402942.d.html</link>
+            <guid>2332878</guid>
+            <pubDate>Sat, 02 Oct 2021 14:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【长安汽车自主品牌新能源1-9月销售7万辆】长安汽车消息，1-9月长安汽车自主品牌新能源累计销售突破7万辆。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7633333.d.html</link>
@@ -299,30 +326,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9348721.d.html</link>
             <guid>2332785</guid>
             <pubDate>Sat, 02 Oct 2021 06:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：瓦努阿图地区发生7.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7581521.d.html</link>
-            <guid>2332784</guid>
-            <pubDate>Sat, 02 Oct 2021 06:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百强房企9月操盘金额业绩同环比双降，六成业绩降幅超30%】10月2日，克而瑞研究中心发布的百强房企9月份业绩显示，9月份房地产市场下行压力加剧，TOP100房企单月销售操盘金额环比首次下降，同比下降近四成。超九成百强房企单月业绩同比降低，同比降幅大于30%的企业超六成，逾半数企业同环比双降。克而瑞研究中心数据显示，28个重点监测城市商品住宅成交面积环比再降7%，同比跌幅进一步扩至25%，较2019年同期下降17%。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7578276.d.html</link>
-            <guid>2332782</guid>
-            <pubDate>Sat, 02 Oct 2021 06:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【跨境电商搭乘苏州中欧班列 货值首破亿元大关】9月29日，又一列中欧班列跨境电商出口专列从江苏国际铁路物流中心发车。据悉，该批跨境电商出口货物货重266.81吨，货值2424.78万元，主要为电动自行车、家居用品、健身用品等，以“跨境电商B2B直接出口”清单模式申报，在苏州高新区跨境电子商务监管区查验施封后运至江苏（苏州）国际铁路物流中心，通过中欧班列，以转关方式至新疆阿拉山口口岸出境，发往德国、波兰等主要欧洲国家。今年以来，在苏州海关帮助下，通过中欧班列发运出境的出口货值已突破1亿元。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9342668.d.html</link>
-            <guid>2332776</guid>
-            <pubDate>Sat, 02 Oct 2021 06:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家飓风中心：飓风“萨姆”核心穿过百慕大以东地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7572738.d.html</link>
-            <guid>2332773</guid>
-            <pubDate>Sat, 02 Oct 2021 05:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
