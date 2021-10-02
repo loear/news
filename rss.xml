@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 15:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 16:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【天风国际郭明錤：Mini-LED为iPad在2021–2023年的关键显示器技术】天风国际郭明錤最新研报指出，Mini-LED为iPad在2021–2023年的关键显示器技术，故Apple可能不会在2022年发布OLED iPad Air，但我们相信Apple仍持续研究用于平板类产品的新显示器技术。我们乐观看待在未来2–3年Mini-LED显示器的成长趋势，并预估采用Mini-LED显示器的Apple装置出货量在2021与2022年将分别达到550–650万与1,300–1,500万部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7641094.d.html</link>
+            <guid>2332920</guid>
+            <pubDate>Sat, 02 Oct 2021 15:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联社民意调查显示拜登支持率下滑至50%】据美联社公共事务研究中心当地时间10月1日发布的民意调查结果，在从阿富汗撤军和处理南部边境的数千名海地移民方面，美国民众对总统拜登的批评意见越来越多，拜登的支持率下滑至50%。（央视网）]]></title>
+            <guid>2332905</guid>
+            <pubDate>Sat, 02 Oct 2021 15:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沈阳有序节电：关闭景观照明、部分路灯和电子屏灯箱广告】 按照沈阳市工业和信息化局关于配合执行沈阳市有序用电通知要求，为确保沈阳市电力有序安全供应，保障群众生产生活需要，现对沈阳市景观照明设施执行有序节约用电事宜安排如下：一、关闭景观照明设施。二、优化功能照明亮灯范围。三、关闭电子屏及灯箱广告用电。（央视新闻）]]></title>
             <guid>2332892</guid>
@@ -314,18 +325,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7585562.d.html</link>
             <guid>2332791</guid>
             <pubDate>Sat, 02 Oct 2021 07:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广汽集团：广汽传祺全新第二代GS8预售】广汽集团消息，广汽传祺全新第二代GS8预售。其中，混动系列两驱版价格22.88万元，四驱版24.68万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7581921.d.html</link>
-            <guid>2332786</guid>
-            <pubDate>Sat, 02 Oct 2021 06:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自然资源部海啸预警中心：2021年10月2日14时29分（北京时间），斐济群岛以南海域（21.30°S,174.84°E）发生6.7级地震，震源深度为530.0千米。自然资源部海啸预警中心根据初步地震参数判断，本次地震不会引发海啸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9348721.d.html</link>
-            <guid>2332785</guid>
-            <pubDate>Sat, 02 Oct 2021 06:44:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
