@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Oct 2021 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 21:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【三鑫医疗：部分董监事、高管人员计划减持股份】三鑫医疗(300453)9月30日晚间公告，公司董事、总经理毛志平，董事、董事会秘书刘明，监事长余珍珠，监事张琳，副总经理乐珍荣，副总经理王甘英，财务总监邹蓓廷计划减持公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9424918.d.html</link>
+            <guid>2333004</guid>
+            <pubDate>Sat, 02 Oct 2021 20:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【179只基金“退市” 超去年全年】在基金发行规模不断攀登新高的同时，基金清盘也在加速。Wind数据显示，今年前三季度，全市场基金清盘数量已有179只，超过了去年全年清盘基金的总量。今年也将成为史上基金清盘数量第二高年份，仅次于2018年。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9424294.d.html</link>
+            <guid>2333003</guid>
+            <pubDate>Sat, 02 Oct 2021 20:38:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【迷你基金上演逆袭，部分基金2个月规模突增10倍】一批迷你基金的实际规模正在迅速崛起。随着基金业绩50强被迷你基金霸屏，机构和散户的资金正在疯狂涌入相关基金产品，从而使得一批迷你基金被资金“消灭”。记者从知情人士处获悉，有部分迷你基金两个多月规模增长10倍，更有迷你基金产品一年时间规模暴增百倍，资产规模突破百亿。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7655438.d.html</link>
@@ -307,18 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9364981.d.html</link>
             <guid>2332813</guid>
             <pubDate>Sat, 02 Oct 2021 08:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，2021年10月2日16时14分，2021国庆档新片总票房（含预售）破14亿。其中，《长津湖》票房已破9亿，《我和我的父辈》票房即将破4亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7595131.d.html</link>
-            <guid>2332808</guid>
-            <pubDate>Sat, 02 Oct 2021 08:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首条自主研制的新型超导电缆在深圳投运】记者从南方电网深圳供电局了解到，近日，我国首条自主研制的新型超导电缆在深圳投入使用，这也是全球首个应用于超大型城市中心区的超导电缆，标志着我国已全面掌握新型超导电缆设计、制造、建设的关键核心技术。该条新型超导电缆直径仅17.5厘米、长400米，输电容量高达43兆伏安，相当于可同时满足4列时速350公里高铁的用电需求，实现以5倍于常规电缆的输电能力。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7594701.d.html</link>
-            <guid>2332807</guid>
-            <pubDate>Sat, 02 Oct 2021 08:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
