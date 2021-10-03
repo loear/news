@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 03 Oct 2021 02:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 02:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“十一”假期出行价格开始“跳水”】“十一”假期已进入第三天，根据去哪儿平台数据显示，10月2日～5日的热门目的地机票价格较10月1日均有较大幅度降价，上海-深圳出现百元“白菜价”机票。另一方面，京郊游等短途周边游火爆，房车、露营等新玩法受欢迎，部分京郊民宿已经售罄。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7691584.d.html</link>
+            <guid>2333068</guid>
+            <pubDate>Sun, 03 Oct 2021 02:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前三季度理财公司调研已超600次】Wind数据显示，今年以来，16家理财公司合计调研A股上市公司632次，其中，三季度理财公司调研超过300次。Wind数据显示，去年全年，仅招银理财调研次数过百，其余理财公司调研次数均不超过10次。今年以来，招银理财仍是调研最积极的公司，前三季度合计调研上市公司243次，远超其他理财公司。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzqtyt9457515.d.html</link>
+            <guid>2333067</guid>
+            <pubDate>Sun, 03 Oct 2021 02:16:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【辽宁发布雷雨大风红色预警 预计阵风风力可达13级】辽宁省气象灾害监测预警中心2021年10月3日8时50分发布了雷雨大风红色预警信号：预计未来2到3小时，海城市东南部、岫岩县西北部、大石桥市东南部将出现极强雷雨大风天气，阵风风力可达13级以上，同时可能伴有冰雹、短时强降水、龙卷等强对流天气。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7686204.d.html</link>
@@ -274,35 +286,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7632054.d.html</link>
             <guid>2332870</guid>
             <pubDate>Sat, 02 Oct 2021 13:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：相信我能让经济议程法案和基础设施法案都通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9398619.d.html</link>
-            <guid>2332869</guid>
-            <pubDate>Sat, 02 Oct 2021 13:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：将努力向美国民众宣传经济议程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7631374.d.html</link>
-            <guid>2332868</guid>
-            <pubDate>Sat, 02 Oct 2021 13:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：10月02日20时52分在巴西（南纬9.45度，西经71.20度）发生5.9级地震，震源深度580千米。]]></title>
-            <guid>2332867</guid>
-            <pubDate>Sat, 02 Oct 2021 13:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：10月02日21时21分在四川内江市威远县附近发生3.2级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzscyx7630707.d.html</link>
-            <guid>2332866</guid>
-            <pubDate>Sat, 02 Oct 2021 13:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：共和党人不会拒绝提高债务上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-02/detail-iktzqtyt9396171.d.html</link>
-            <guid>2332864</guid>
-            <pubDate>Sat, 02 Oct 2021 13:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
