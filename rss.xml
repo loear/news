@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 03 Oct 2021 13:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 14:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿联酋国家气象中心表示，预计本月3日到5日，热带风暴“沙欣”将影响该国东部和南部地区。目前，气旋中心距离阿联酋富查伊拉海岸约250公里，受此热带气旋影响，届时部分地区将出现强降雨和大风等极端天气，并可能导致山洪暴发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7774066.d.html</link>
+            <guid>2333483</guid>
+            <pubDate>Sun, 03 Oct 2021 13:20:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据卫星新闻：阿富汗喀布尔清真寺爆炸目前造成至少8人死亡，20人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7771821.d.html</link>
@@ -229,12 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7724154.d.html</link>
             <guid>2333105</guid>
             <pubDate>Sun, 03 Oct 2021 06:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[资产管理公司Tortoise能源资产经理Rob Thummel：目前全球对原油和其他能源大宗商品的需求很高，在短期内，欧佩克+将从石油需求中获益，产油国们有可能会增加石油供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-03/detail-iktzscyx7716464.d.html</link>
-            <guid>2333101</guid>
-            <pubDate>Sun, 03 Oct 2021 05:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
