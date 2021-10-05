@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 05 Oct 2021 18:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 19:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国方面表示，如果与伊朗的外交努力失败，美国已经准备好其他选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9857477.d.html</link>
+            <guid>2337126</guid>
+            <pubDate>Tue, 05 Oct 2021 19:08:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行策略师Zachary：日元可能会从潜在的市场波动中受益，对日元有短期（不超过一个月） 敞口或有兴趣投资的客户应该为日元走强做好准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090478.d.html</link>
+            <guid>2337122</guid>
+            <pubDate>Tue, 05 Oct 2021 18:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行策略师Zachary：如果惠誉在美国债务上限得到解决前下调美国评级，那么美国10年期国债收益率将在一两天内下跌15至20个基点，2年期与10年期收益率之差会缩小10-15个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9856807.d.html</link>
+            <guid>2337121</guid>
+            <pubDate>Tue, 05 Oct 2021 18:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 11月原油期货收涨1.31美元，涨幅1.69%，报78.93美元/桶。NYMEX 11月天然气期货收涨9.47%，报6.3120美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090368.d.html</link>
+            <guid>2337120</guid>
+            <pubDate>Tue, 05 Oct 2021 18:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行策略师Zachary：投资者低估了美国债务上限的影响，这一僵局可能让美国市场陷入2011年那样的动荡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090361.d.html</link>
+            <guid>2337119</guid>
+            <pubDate>Tue, 05 Oct 2021 18:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行策略师Zachary：美国国库券风险溢价可能升高，如果债务僵局拖到临近美国政府现金告罄的最后期限时还不能得到解决，避险货币日元可能跑赢其他资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090342.d.html</link>
+            <guid>2337117</guid>
+            <pubDate>Tue, 05 Oct 2021 18:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Mint：云厨房平台Rebel Foods正在与投资者谈判，以筹集至多2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9856604.d.html</link>
+            <guid>2337116</guid>
+            <pubDate>Tue, 05 Oct 2021 18:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：家乐氏(K.N)美国所有谷物工厂的工人都在罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090113.d.html</link>
+            <guid>2337114</guid>
+            <pubDate>Tue, 05 Oct 2021 18:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[家乐氏(K.N)直线下挫，现跌0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8090105.d.html</link>
+            <guid>2337113</guid>
+            <pubDate>Tue, 05 Oct 2021 18:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[穆迪：无论多么出人意料，如果美国未能支付利息，将对其信用和评级产生负面影响。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9855458.d.html</link>
@@ -140,6 +194,12 @@
             <pubDate>Tue, 05 Oct 2021 17:25:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国共和党参议员Grassley：如果共和党在谈判桌上，我会投票赞成提高债务上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9852703.d.html</link>
+            <guid>2337053</guid>
+            <pubDate>Tue, 05 Oct 2021 17:16:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国共和党参议员Grassley：爱荷华州民众正在抱怨不断上涨的肉类价格。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9852677.d.html</link>
             <guid>2337052</guid>
@@ -262,41 +322,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8083147.d.html</link>
             <guid>2337018</guid>
             <pubDate>Tue, 05 Oct 2021 16:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据监测网络状况的网站DownDetector：用户报告显示Instagram服务出现问题。]]></title>
-            <guid>2337009</guid>
-            <pubDate>Tue, 05 Oct 2021 16:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员Kinzinger：不能在美国债务上限问题上玩政治游戏，乐意投票支持基础设施法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9848756.d.html</link>
-            <guid>2337008</guid>
-            <pubDate>Tue, 05 Oct 2021 16:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将汇丰控股(HSBC.N)评级上调至买进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9848722.d.html</link>
-            <guid>2337007</guid>
-            <pubDate>Tue, 05 Oct 2021 16:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：谷歌称新的开源产品——“新闻收入引擎”将于2022年初发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9848687.d.html</link>
-            <guid>2337006</guid>
-            <pubDate>Tue, 05 Oct 2021 16:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国总理卡斯泰呼吁欧盟坚决支持法国以确保英国遵守英欧渔业协议】当地时间10月5日，法国总理卡斯泰在法国国民议会对英国在脱欧后，未按照脱欧协议允许欧盟渔船在其海域捕鱼一事予以坚决反对，并请求欧盟方面坚决支持法国。卡斯泰称，英国此举不尊重脱欧协议以及其在该协议上的签名。他呼吁欧盟委员会坚决支持并确保英欧在渔业问题上做出的承诺得到尊重。卡斯泰同时宣布，将由法国召集由欧盟和英国代表组成的“伙伴关系委员会”，该委员会旨在保证布鲁塞尔与伦敦之间达成的贸易与合作协议的实施。卡斯泰同时警告称，如有必要，将移交协议仲裁小组，让英国人信守承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9848366.d.html</link>
-            <guid>2337003</guid>
-            <pubDate>Tue, 05 Oct 2021 16:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据监测网络状况的网站DownDetector：用户报告Facebook出现故障。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9847595.d.html</link>
-            <guid>2336999</guid>
-            <pubDate>Tue, 05 Oct 2021 15:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
