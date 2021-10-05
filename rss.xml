@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 05 Oct 2021 15:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元指数DXY持续下挫，短线跌近10点至日低93.84。]]></title>
+            <guid>2336979</guid>
+            <pubDate>Tue, 05 Oct 2021 15:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国棉花期货涨停，现报108.93美分/磅，为2011年9月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8079566.d.html</link>
+            <guid>2336977</guid>
+            <pubDate>Tue, 05 Oct 2021 15:28:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银：将高露洁棕榄(CL.N)目标价从94美元下调至89美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8079352.d.html</link>
+            <guid>2336975</guid>
+            <pubDate>Tue, 05 Oct 2021 15:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国能源密集型企业呼吁采取措施缓解价格冲击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8079222.d.html</link>
+            <guid>2336974</guid>
+            <pubDate>Tue, 05 Oct 2021 15:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洲际交易所（ICE）将布伦特原油期货保证金上调8.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8078859.d.html</link>
+            <guid>2336964</guid>
+            <pubDate>Tue, 05 Oct 2021 15:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线跌近10点，现报93.95。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9845522.d.html</link>
+            <guid>2336963</guid>
+            <pubDate>Tue, 05 Oct 2021 15:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经合组织成员国通货膨胀率8月上升至4.3%】当地时间10月5日，总部位于法国巴黎的经济合作与发展组织（OECD）发布公报表示，受能源和食品价格上涨的影响，经合组织成员国通货膨胀率自2020年12月呈持续上升趋势，2021年8月达到4.3%，2021年7月这一数值为4.2%。（央视）]]></title>
+            <guid>2336962</guid>
+            <pubDate>Tue, 05 Oct 2021 15:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰皇家壳牌(RDS.A.N)CEO范伯登：目前天然气市场的波动将会过去，这需要一点时间，不过市场最终会回归至理性水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9845284.d.html</link>
+            <guid>2336960</guid>
+            <pubDate>Tue, 05 Oct 2021 15:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国10年期金边债券收益率升至2019年5月以来新高1.097%，日内上涨8.5个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9845234.d.html</link>
+            <guid>2336959</guid>
+            <pubDate>Tue, 05 Oct 2021 15:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰至10月5日全球乳制品贸易价格指数：前值 1%，公布 0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8078207.d.html</link>
+            <guid>2336956</guid>
+            <pubDate>Tue, 05 Oct 2021 15:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：思摩尔国际(06969.HK)寻求在美国市场禁止其竞争对手的大麻雾化设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8078029.d.html</link>
+            <guid>2336954</guid>
+            <pubDate>Tue, 05 Oct 2021 15:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据港交所文件：石墨电极生产商Sanergy Group Limited向港交所提交上市申请书。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8077918.d.html</link>
@@ -183,60 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9838097.d.html</link>
             <guid>2336862</guid>
             <pubDate>Tue, 05 Oct 2021 13:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔沃宣布，因安全气囊故障问题，在全球范围召回460769辆汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9838027.d.html</link>
-            <guid>2336860</guid>
-            <pubDate>Tue, 05 Oct 2021 13:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋方面表示，第26届联合国气候变化大会（COP26）必须解决谁为碳减排买单的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8071385.d.html</link>
-            <guid>2336859</guid>
-            <pubDate>Tue, 05 Oct 2021 13:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：有110个国家正处于研究数字货币的某些阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9837959.d.html</link>
-            <guid>2336857</guid>
-            <pubDate>Tue, 05 Oct 2021 13:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lordstown Motors(RIDE.O)低开近9%，此前遭摩根士丹利下调评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8071218.d.html</link>
-            <guid>2336855</guid>
-            <pubDate>Tue, 05 Oct 2021 13:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[经合组织秘书长科尔曼呼吁（各国）就最终敲定全球税收协议进行努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9837752.d.html</link>
-            <guid>2336853</guid>
-            <pubDate>Tue, 05 Oct 2021 13:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：法国总理卡斯特要求欧盟在渔业问题上对英国更加强硬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8070758.d.html</link>
-            <guid>2336851</guid>
-            <pubDate>Tue, 05 Oct 2021 13:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理卡斯特：英国没有遵守脱欧协议中关于渔业方面的承诺，英国的这种行为是不能容忍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8070568.d.html</link>
-            <guid>2336850</guid>
-            <pubDate>Tue, 05 Oct 2021 13:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理卡斯特：如果有必要，法国可能最终会就英国脱欧协议组建一个仲裁小组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzqtyt9837081.d.html</link>
-            <guid>2336848</guid>
-            <pubDate>Tue, 05 Oct 2021 13:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中誉集团(00985.HK)：于二零二一年十月五日，卖方已透过公开市场出售合共32,180,000股恒大汽车股份，总代价约为125,000,000港元，每股出售股份之平均价格约为3.89港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-05/detail-iktzscyx8069485.d.html</link>
-            <guid>2336842</guid>
-            <pubDate>Tue, 05 Oct 2021 13:11:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
