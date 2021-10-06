@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 06 Oct 2021 21:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 22:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  通用汽车(GM.N)CFO Paul Jacobson被问及应对芯片危机的计划时表示，寻求以不同的方式建立合作关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0013902.d.html</link>
+            <guid>2338407</guid>
+            <pubDate>Wed, 06 Oct 2021 22:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚新南威尔士州州长：新南威尔士州自10月11日起开始放宽防疫限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0013849.d.html</link>
+            <guid>2338406</guid>
+            <pubDate>Wed, 06 Oct 2021 22:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据监测网络状况的网站DownDetector：用户报告Facebook出现故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8247783.d.html</link>
+            <guid>2338402</guid>
+            <pubDate>Wed, 06 Oct 2021 21:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【"木头姐" 将ARK迁移至佛罗里达！并将开设一家科技公司孵化器 】总部在纽约的 ARK Investment Management LLC 在周三的新闻稿中宣布，将从 2021 年 11 月 1 日起将其总部迁至“阳光城”佛罗里达州。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0012822.d.html</link>
+            <guid>2338398</guid>
+            <pubDate>Wed, 06 Oct 2021 21:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚9月AIG/CBA服务业表现指数：前值 45.6，公布 45.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8246604.d.html</link>
+            <guid>2338393</guid>
+            <pubDate>Wed, 06 Oct 2021 21:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国海岸警卫队：已从加州原油泄漏事故中收集到5000加仑原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8246395.d.html</link>
+            <guid>2338392</guid>
+            <pubDate>Wed, 06 Oct 2021 21:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：拜登任命萨利赫为进出口银行监察长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0011625.d.html</link>
+            <guid>2338391</guid>
+            <pubDate>Wed, 06 Oct 2021 21:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国共和党代表希望所有美国证交会委员出席国会小组听证会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0010736.d.html</link>
@@ -193,60 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0004422.d.html</link>
             <guid>2338319</guid>
             <pubDate>Wed, 06 Oct 2021 18:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：本公司拥有多数股权的邮轮公司将在2024年至2026年期间开始扩大商业自动驾驶汽车业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8237647.d.html</link>
-            <guid>2338306</guid>
-            <pubDate>Wed, 06 Oct 2021 17:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车(GM.N)：到2030年，电动汽车的利润率将与汽油动力汽车的利润率相当。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0003160.d.html</link>
-            <guid>2338305</guid>
-            <pubDate>Wed, 06 Oct 2021 17:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车(GM.N)：将很快宣布一个新的电动卡车装配厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8237427.d.html</link>
-            <guid>2338304</guid>
-            <pubDate>Wed, 06 Oct 2021 17:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空航天局（NASA）：仍在监测国际空间站俄罗斯舱的少量空气泄漏问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzqtyu0002761.d.html</link>
-            <guid>2338297</guid>
-            <pubDate>Wed, 06 Oct 2021 17:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车(GM.N)：重新设计的全尺寸皮卡的引擎将更加高效，二氧化碳排放量将减少10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8236946.d.html</link>
-            <guid>2338295</guid>
-            <pubDate>Wed, 06 Oct 2021 17:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车(GM.N)：将在2025年推出下一代汽油驱动的全尺寸皮卡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8236923.d.html</link>
-            <guid>2338294</guid>
-            <pubDate>Wed, 06 Oct 2021 17:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家航空航天局(NASA)：预计波音(BA.N)的Starliner载人太空舱将在2022年初进行无人飞行测试。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8236728.d.html</link>
-            <guid>2338292</guid>
-            <pubDate>Wed, 06 Oct 2021 17:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国监督机构表示，将调查阿富汗前总统加尼从阿富汗收受数百万美元的指控。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8236602.d.html</link>
-            <guid>2338290</guid>
-            <pubDate>Wed, 06 Oct 2021 17:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家航空航天局(NASA)：仍然相信波音(BA.N)能够解决Starliner载人太空舱的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-07/detail-iktzscyx8236450.d.html</link>
-            <guid>2338288</guid>
-            <pubDate>Wed, 06 Oct 2021 17:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
