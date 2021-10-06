@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 06 Oct 2021 12:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 13:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国银行：预计英国通胀率在明年4月份达到5.1%的峰值，之后将急剧下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9984570.d.html</link>
+            <guid>2338096</guid>
+            <pubDate>Wed, 06 Oct 2021 13:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克石油部：阿联酋能源部长将与伊拉克签署太阳能协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8218635.d.html</link>
+            <guid>2338093</guid>
+            <pubDate>Wed, 06 Oct 2021 13:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织：长期供应短缺、食品和住房价格压力以及货币贬值可能会使通胀在更长时间内保持在高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8217969.d.html</link>
+            <guid>2338083</guid>
+            <pubDate>Wed, 06 Oct 2021 13:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲理事会主席米歇尔：在能源价格问题上，欧洲在寻找解决能源价格问题的共同方法上存在政治（操作）空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9983718.d.html</link>
+            <guid>2338082</guid>
+            <pubDate>Wed, 06 Oct 2021 13:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙首相桑切斯建议欧盟委员会代表欧盟成员国购买天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8217631.d.html</link>
+            <guid>2338080</guid>
+            <pubDate>Wed, 06 Oct 2021 12:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：欧盟反垄断监管机构将指控苹果公司在其NFC芯片技术方面的反竞争行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8217361.d.html</link>
+            <guid>2338078</guid>
+            <pubDate>Wed, 06 Oct 2021 12:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理候选人肖尔茨：与绿党和自由民主党的试探性会谈将于周四开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8215671.d.html</link>
+            <guid>2338049</guid>
+            <pubDate>Wed, 06 Oct 2021 12:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：据我们所知，俄罗斯方面正在履行天然气输送合同（的义务）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8215045.d.html</link>
+            <guid>2338033</guid>
+            <pubDate>Wed, 06 Oct 2021 12:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：北溪2号还没有得到运输天然气的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8215037.d.html</link>
+            <guid>2338032</guid>
+            <pubDate>Wed, 06 Oct 2021 12:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：俄罗斯方面正在考虑更具雄心的气候目标。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9980486.d.html</link>
@@ -157,94 +211,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9973383.d.html</link>
             <guid>2337910</guid>
             <pubDate>Wed, 06 Oct 2021 11:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：住房和基础设施将有助于提高生产率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8206335.d.html</link>
-            <guid>2337892</guid>
-            <pubDate>Wed, 06 Oct 2021 11:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：（就英国方面和渔业的问题）如果谈判没有取得令人满意的结果，将不会对下一步可能采取的措施发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9972213.d.html</link>
-            <guid>2337891</guid>
-            <pubDate>Wed, 06 Oct 2021 11:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：保持渔业活动持续性及找出该问题的解决方案仍然是当务之急。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9971550.d.html</link>
-            <guid>2337886</guid>
-            <pubDate>Wed, 06 Oct 2021 10:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：希腊方面表示，经合组织预计全球税收协议每年可能带来2500亿美元（的收入）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8205341.d.html</link>
-            <guid>2337884</guid>
-            <pubDate>Wed, 06 Oct 2021 10:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团：今日回购242.8万股股份，耗资4979.9万港元，本年至今已回购逾1.23亿股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8204409.d.html</link>
-            <guid>2337879</guid>
-            <pubDate>Wed, 06 Oct 2021 10:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们的经济将会是以高薪酬、高技能以及低税收的形式（存在）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8204288.d.html</link>
-            <guid>2337877</guid>
-            <pubDate>Wed, 06 Oct 2021 10:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们正着手寻找英国经济发展方向的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8204103.d.html</link>
-            <guid>2337876</guid>
-            <pubDate>Wed, 06 Oct 2021 10:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们将解决经济中存在的长期结构性弱点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9970068.d.html</link>
-            <guid>2337875</guid>
-            <pubDate>Wed, 06 Oct 2021 10:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克秘书长巴尔金都：天然气危机表明能源转型不顺利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9970063.d.html</link>
-            <guid>2337874</guid>
-            <pubDate>Wed, 06 Oct 2021 10:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外长：伊朗对以色列在高加索地区的存在“非常担忧”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8203777.d.html</link>
-            <guid>2337873</guid>
-            <pubDate>Wed, 06 Oct 2021 10:39:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：我们的公共财政存在一个巨大的漏洞。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8203766.d.html</link>
-            <guid>2337872</guid>
-            <pubDate>Wed, 06 Oct 2021 10:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：伊朗外长表示，在维也纳举行的《联合全面行动计划》（JCPOA）会谈将很快恢复。]]></title>
-            <guid>2337871</guid>
-            <pubDate>Wed, 06 Oct 2021 10:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克石油部长：伊拉克的目标是到2024年底，石油出口量超过600万桶/日。]]></title>
-            <guid>2337870</guid>
-            <pubDate>Wed, 06 Oct 2021 10:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克石油部长：100美元/桶的油价对市场来说是不稳定的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzscyx8202844.d.html</link>
-            <guid>2337867</guid>
-            <pubDate>Wed, 06 Oct 2021 10:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克石油部长：75-80美元/桶的油价对生产者和消费者来说都是公平的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-06/detail-iktzqtyt9968647.d.html</link>
-            <guid>2337866</guid>
-            <pubDate>Wed, 06 Oct 2021 10:29:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
