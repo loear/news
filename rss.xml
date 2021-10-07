@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 07 Oct 2021 19:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 20:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Adobe(ADBE.O)完成对视频协作平台Frame.io的收购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0163325.d.html</link>
+            <guid>2339422</guid>
+            <pubDate>Thu, 07 Oct 2021 20:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：美国民主党人在民主党参议员曼钦提出的提高发电厂碳捕获信用额度问题上接近达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8398064.d.html</link>
+            <guid>2339419</guid>
+            <pubDate>Thu, 07 Oct 2021 20:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果(AAPL.O)：任命Michael Shapiro为新的公司财务主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0161901.d.html</link>
+            <guid>2339410</guid>
+            <pubDate>Thu, 07 Oct 2021 19:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果(AAPL.O)：任命负责市场传播的全球高级主管Eden Sears为苹果品牌副总裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0161896.d.html</link>
+            <guid>2339409</guid>
+            <pubDate>Thu, 07 Oct 2021 19:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行：将UiPath(PATH.N)目标价从74美元下调至65美元，维持与行业同步评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8395715.d.html</link>
+            <guid>2339407</guid>
+            <pubDate>Thu, 07 Oct 2021 19:29:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Stellantis(STLA.N)宣布在印第安纳州的科科莫投资2.29亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0159567.d.html</link>
@@ -271,47 +301,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0150769.d.html</link>
             <guid>2339329</guid>
             <pubDate>Thu, 07 Oct 2021 16:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：截至9月底，淡水河谷(VALE.N)股票回购支出为48亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0149621.d.html</link>
-            <guid>2339322</guid>
-            <pubDate>Thu, 07 Oct 2021 16:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国交通大臣：英国将从旅游红色名单中削减47个目的地，包括南非，将只剩下7个国家和地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8384333.d.html</link>
-            <guid>2339321</guid>
-            <pubDate>Thu, 07 Oct 2021 16:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党人提出了帮助化石燃料工人找到新工作的议案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0149239.d.html</link>
-            <guid>2339318</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告eBay(EBAY.O)出现故障。]]></title>
-            <guid>2339316</guid>
-            <pubDate>Thu, 07 Oct 2021 16:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国社民党：相信我们可以与绿党和德国自民党在组建政府方面取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8383385.d.html</link>
-            <guid>2339313</guid>
-            <pubDate>Thu, 07 Oct 2021 16:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：在布鲁塞尔与欧盟讨论了天然气价格，并与能源生产国进行了外交接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0148295.d.html</link>
-            <guid>2339306</guid>
-            <pubDate>Thu, 07 Oct 2021 16:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：希望看到供应完全跟上需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0148284.d.html</link>
-            <guid>2339305</guid>
-            <pubDate>Thu, 07 Oct 2021 16:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
