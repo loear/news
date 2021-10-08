@@ -6,6 +6,75 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2341338,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8594196.d.html",
+            "title": "  本周道指累涨1.22%，标普500指数累涨0.79%，纳指累涨0.09%。",
+            "date_modified": "2021-10-08T20:02:37.000Z"
+        },
+        {
+            "id": 2341336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0359564.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：美元投机性净多头押注增加至2019年6月中旬以来新高。",
+            "date_modified": "2021-10-08T20:00:16.000Z"
+        },
+        {
+            "id": 2341335,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8594024.d.html",
+            "title": "  消息人士：该计划还旨在协调各行政部门在数字货币方面的工作。美国政府官员们还考虑任命一名白宫加密货币“沙皇”担任这个问题的关键人物。",
+            "date_modified": "2021-10-08T19:58:41.000Z"
+        },
+        {
+            "id": 2341334,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8593923.d.html",
+            "title": "  消息人士：拟议的行政令将要求联邦机构就加密货币相关领域进行研究并提供建议，涉及金融监管、经济创新和国家安全。",
+            "date_modified": "2021-10-08T19:56:26.000Z"
+        },
+        {
+            "id": 2341333,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8593918.d.html",
+            "title": "  消息人士：美国政府正在考虑就加密货币发布一项行政命令，作为建立一种全政府范围内处理这一炙手可热的资产类别的举措的一部分。",
+            "date_modified": "2021-10-08T19:56:15.000Z"
+        },
+        {
+            "id": 2341332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0359380.d.html",
+            "title": "  据纽约时报记者：Facebook(FB.O)表示，今日出现的网络故障与周一的宕机无关。",
+            "date_modified": "2021-10-08T19:55:36.000Z"
+        },
+        {
+            "id": 2341330,
+            "content_html": "",
+            "title": "  美股能源股维持涨势。墨菲石油(MUR.N)涨6.1%，康菲石油(COP.N)涨4.8%，马拉松石油(MRO.N)涨4.6%，菲利普斯66(PSX.N)涨4%，西方石油(OXY.N)涨3.8%，埃克森美孚石油(XOM.N)、英国石油(BP.N)涨超2%。",
+            "date_modified": "2021-10-08T19:39:52.000Z"
+        },
+        {
+            "id": 2341329,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0358432.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：10月5日当周，投机者所持COMEX黄金净多头头寸增加25,718手合约，至67,841手合约。",
+            "date_modified": "2021-10-08T19:31:51.000Z"
+        },
+        {
+            "id": 2341328,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8592965.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：10月5日当周，投机者所持原油净多头头寸增加14,279手合约，至632,620手合约。",
+            "date_modified": "2021-10-08T19:31:43.000Z"
+        },
+        {
+            "id": 2341327,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0358066.d.html",
+            "title": "  Lucid Group(LCID.O)持续走低，现跌超4%。部分汽车制造商股走低，Workhorse(WKHS.O)跌4%，法拉第未来(FFIE.O)跌3.3%，小鹏汽车(XPEV.N)跌2%，理想汽车(LI.O)跌1.2%。",
+            "date_modified": "2021-10-08T19:22:39.000Z"
+        },
+        {
             "id": 2341325,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0357431.d.html",
@@ -415,55 +484,6 @@
             "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0340654.d.html",
             "title": "  蛋白质组学平台公司IsoPlexis Corporation(ISO.O)首日上市开跌超3%，现报14.4美元，IPO价格为15美元。",
             "date_modified": "2021-10-08T15:13:17.000Z"
-        },
-        {
-            "id": 2341234,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8574253.d.html",
-            "title": "澳大利亚贸易部长：预计将于2022年底与欧盟达成贸易协议，澳大利亚正在推动20国集团和世贸组织承认农业补贴在气候变化中的有害作用。",
-            "date_modified": "2021-10-08T15:01:32.000Z"
-        },
-        {
-            "id": 2341233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0339769.d.html",
-            "title": "美国民主党参议员MARKEY：美国联邦贸易委员会（FTC）应该使用自己的权力使科技公司遵守政策规定。",
-            "date_modified": "2021-10-08T15:01:25.000Z"
-        },
-        {
-            "id": 2341231,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8574124.d.html",
-            "title": "  美股铝板块表现低迷，中国铝业(ACH.N)跌3.8%，美国铝业(AA.N)跌1.3%，凯撒铝业(KALU.N)跌0.7%。",
-            "date_modified": "2021-10-08T15:00:10.000Z"
-        },
-        {
-            "id": 2341230,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzscyx8574065.d.html",
-            "title": "为避免破产，世界各国政府都向航空公司提供了不同程度的财政援助。据国际航空运输协会 (IATA) 数据绘制的图表显示，这些援助中的大部分以工资补贴和贷款的形式出现。北美航空公司是财务援助的主要受益者，在过去18个月中总计获得了1050亿美元。欧洲以700亿美元位居第二，其次是亚太地区，为330亿美元，而中东、非洲或拉丁美洲等地区的航空公司获得的援助较少。",
-            "date_modified": "2021-10-08T14:59:27.000Z"
-        },
-        {
-            "id": 2341228,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0338900.d.html",
-            "title": "  美股能源板块持续走高，马拉松石油(MRO.N)、西方石油(OXY.N)涨4.4%，埃克森美孚石油(XOM.N)、英国石油(BP.N)涨2.7%。",
-            "date_modified": "2021-10-08T14:50:43.000Z"
-        },
-        {
-            "id": 2341227,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0338881.d.html",
-            "title": "  通用汽车加速拉升，现涨4.5%，报59美元，创两个月以来高位。通用近期召开投资者会议，目标在2030年将营收翻三倍，获多家大行看好。",
-            "date_modified": "2021-10-08T14:50:33.000Z"
-        },
-        {
-            "id": 2341226,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-08/detail-iktzqtyu0338766.d.html",
-            "title": "【大消费板块王者归来，业内预计四季度顶流基金或将打赢“翻身仗”】随着消费板块的回暖，近一个月不少基金已经开启了净值回升之旅，并有望在四季度打响一场漂亮的“翻身仗”。数据显示，主动管理基金中，汇添富消费行业、银华富裕主题、景顺长城新兴成长、易方达消费行业近一个月分别上涨8.21%、5.54%、5.35%和3.85%；被动指数基金中，医药和消费类基金也成为近一个月涨幅居前的产品。诺德基金总经理助理郝旭东表示，站在当前时点，展望四季度及明年，从中长期角度看，大消费和医药行业到了长期布局的时点。（上证报）",
-            "date_modified": "2021-10-08T14:49:20.000Z"
         }
     ]
 }
