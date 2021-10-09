@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Oct 2021 17:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 18:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据新华社：奥地利总理库尔茨9日晚宣布辞职，并提名现任外长沙伦贝格接任总理职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0533409.d.html</link>
+            <guid>2341642</guid>
+            <pubDate>Sat, 09 Oct 2021 18:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据央视新闻：当地时间9日，奥地利总理库尔茨宣布辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0532882.d.html</link>
+            <guid>2341638</guid>
+            <pubDate>Sat, 09 Oct 2021 18:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：10月10日01时56分在新疆阿克苏地区拜城县（北纬41.97度，东经82.38度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>2341637</guid>
+            <pubDate>Sat, 09 Oct 2021 18:08:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银证券策略师团队：美国第二季度通胀报告高频词是“供应链”，但眼下第三季度财报来临，美股似乎未将供应链风险充分计价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzscyx8765628.d.html</link>
+            <guid>2341634</guid>
+            <pubDate>Sat, 09 Oct 2021 17:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉CEO埃隆·马斯克：柏林超级工厂生产的汽车将供应整个欧洲地区。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0527092.d.html</link>
@@ -318,41 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0477400.d.html</link>
             <guid>2341546</guid>
             <pubDate>Sat, 09 Oct 2021 09:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃多措并举为城市体育设施空间“扩容”】甘肃省人民政府办公厅9日发布《关于加强全民健身场地设施建设发展群众体育的若干措施》，决定通过盘活利用现有用地和房产、运用多种方式供应土地等途径，为城市公共体育设施空间“扩容”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0470667.d.html</link>
-            <guid>2341536</guid>
-            <pubDate>Sat, 09 Oct 2021 08:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：大约1000名车主的全自动辅助驾驶系统FSD Beta 10.2版本更新将延迟，可能在周日或周一推送更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8703363.d.html</link>
-            <guid>2341534</guid>
-            <pubDate>Sat, 09 Oct 2021 08:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国外汇交易中心两名公职人员涉嫌严重违法接受监察调查】据上海市崇明区纪委监委消息：中国外汇交易中心市场一部总经理沈峻涉嫌严重违法，目前正接受上海市崇明区监察委员会监察调查；中国外汇交易中心技术开发部经理陈丽涉嫌严重违法，主动投案，目前正接受上海市崇明区监察委员会监察调查。 (上观)]]></title>
-            <guid>2341530</guid>
-            <pubDate>Sat, 09 Oct 2021 08:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大恒驰新能源汽车研究院（上海）资本增至10亿】10月9日消息，天眼查App显示，近日，恒大恒驰新能源汽车研究院（上海）有限公司发生工商变更，企业注册资本由1亿元增至10亿元，增幅达900%。从2018年12月19日至2021年10月1日，公司已申请包括动力电池的热管理系统、带新增汽车图形用户界面的显示屏幕面板等307条专利信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8700219.d.html</link>
-            <guid>2341529</guid>
-            <pubDate>Sat, 09 Oct 2021 08:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国三年内将实现建制村快递直接收投】10月9日是第52届世界邮政日，国家邮政局局长马军胜在世界邮政日的致辞中表示，将因地制宜推进快递“进村”，加快推进农村寄递物流体系建设，建立差异化、渐进式进村标准，三年内实现建制村直接收投，对接特色农产品优势区和产业强镇建设，打造更多快递服务现代农业项目，助力乡村振兴。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8699895.d.html</link>
-            <guid>2341528</guid>
-            <pubDate>Sat, 09 Oct 2021 08:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东方Ａ：公司MLED背光/直显产品均已实现量产】京东方Ａ在互动平台表示，京东方全面布局MLED行业，打造主动式驱动、COG为核心，SMD/COB协同发展的Mini /Micro LED产品群，可根据客户需求，提供不同工艺、类型和成本的Mini/Micro LED产品和解决方案。目前，公司MLED背光/直显产品均已实现量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0462508.d.html</link>
-            <guid>2341524</guid>
-            <pubDate>Sat, 09 Oct 2021 07:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
