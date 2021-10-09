@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Oct 2021 21:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 22:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【支付数据折射假日消费热度 国庆假期银联交易金额达2.72万亿元】中国银联最新数据显示，国庆假期(10月1日至7日)，银联网络交易金额达2.72万亿元，交易笔数为48.63亿笔，日均交易笔数较去年国庆假期增长超过30%。中国银联数据分析师胡伟称，国庆假期，购物、餐饮、景区售票方面的日均交易金额较去年国庆假期分别增长31%、28%、24%；海南、甘肃、西藏等地交易金额增幅居前，成为出行热点地区。从银联数据看，国庆假期消费活力十足，周边消费、体验式消费受到消费者青睐。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0542820.d.html</link>
+            <guid>2341659</guid>
+            <pubDate>Sat, 09 Oct 2021 21:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度电力部声明：印度煤炭有限公司已保证，他们正尽最大努力在未来三天内将电力部门的调度增加到每天160万吨，之后将努力达到每天170万 吨。它可能有助于在不远的将来逐步增加电厂的煤炭库存。煤炭供应以及随之而来的电力状况可能会改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzscyx8776186.d.html</link>
+            <guid>2341658</guid>
+            <pubDate>Sat, 09 Oct 2021 21:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴勒斯坦伊斯兰抵抗运动（哈马斯）：支持埃及、卡塔尔结束以色列对加沙封锁的努力。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0540804.d.html</link>
@@ -328,18 +340,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8721678.d.html</link>
             <guid>2341559</guid>
             <pubDate>Sat, 09 Oct 2021 10:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太古可口可乐在华最大投资落定郑州 预计投资不低于9亿元】太古可口可乐宣布启动郑州太古可口可乐扩容重建项目，该项目总投资额不低于9亿元，是迄今在中国区最大一笔单笔投资，预计两年后投产。未来，太古可口可乐还计划先后搬迁扩建广州、上海闵行2个工厂，增加近20条生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8721590.d.html</link>
-            <guid>2341558</guid>
-            <pubDate>Sat, 09 Oct 2021 10:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【杭州调整大学毕业生落户政策 博士研究生可享“先落户、后就业”】杭州市公安局10月9日在其微信公众号上发布公告称，自2021年10月15日（含）起，落户政策调整为具有全日制普通高校本科以上学历者（本科45周岁以下，不含45周岁；硕士50周岁以下，不含50周岁），在杭州市区落实工作单位并由用人单位正常缴纳社保的可以落户杭州市区；全日制普通高校博士研究生（55周岁以下，不含55周岁）学历者，可享受“先落户、后就业”政策。具体申请指南另行公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8720370.d.html</link>
-            <guid>2341556</guid>
-            <pubDate>Sat, 09 Oct 2021 10:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
