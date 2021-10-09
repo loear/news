@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Oct 2021 20:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 21:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴勒斯坦伊斯兰抵抗运动（哈马斯）：支持埃及、卡塔尔结束以色列对加沙封锁的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0540804.d.html</link>
+            <guid>2341656</guid>
+            <pubDate>Sat, 09 Oct 2021 21:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：巴布亚新几内亚KOKOPO东南偏东81公里处发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0539271.d.html</link>
+            <guid>2341653</guid>
+            <pubDate>Sat, 09 Oct 2021 20:23:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  能源咨询公司Ritterbusch & Associates：美股反弹和美元走软助推WTI原油期货突破80美元/桶，创下2014年11月以来新高。但全球供应趋紧也是一个重要因素，主导了今年大部分时间油价走势，短期油价依然会从天然气价格高企中获益。]]></title>
             <guid>2341651</guid>
@@ -328,30 +340,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8720370.d.html</link>
             <guid>2341556</guid>
             <pubDate>Sat, 09 Oct 2021 10:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利公共管理部长布鲁内塔：意大利2021年经济增速可能达到6.2%-6.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8718977.d.html</link>
-            <guid>2341554</guid>
-            <pubDate>Sat, 09 Oct 2021 09:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度德里首席部长凯吉里瓦尔：已就首都的能源危机警告莫迪总理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0484334.d.html</link>
-            <guid>2341553</guid>
-            <pubDate>Sat, 09 Oct 2021 09:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【第二周储备棉投放销售底价为19124元/吨 较上一周上涨1178元/吨】据中储棉信息中心，根据国家有关部门要求和2021年中央储备棉投放公告对中央储备棉投放销售底价计算公式，本周储备棉投放销售底价为19124元/吨（折标准级3128B），较上一周上涨1178元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzscyx8718075.d.html</link>
-            <guid>2341552</guid>
-            <pubDate>Sat, 09 Oct 2021 09:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国首尔9月公寓均价涨至650万元】据韩联社，韩国近期发布的一项统计数据显示，今年9月首尔市公寓平均价格逼近12亿韩元（约合人民币651.2万元）。首尔楼市价格今年以来涨幅已超1.5亿韩元，4月首破11亿韩元，本月有望再破12亿韩元。9月京畿道和仁川市的公寓均价也分别涨至5.8242亿韩元和4.1376亿韩元，同比大幅飙升。此外，韩国公寓价格上涨还拉动了房租的普涨。同期首尔市公寓平均典租价格为6.5365亿韩元，环比涨1020万韩元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-09/detail-iktzqtyu0483235.d.html</link>
-            <guid>2341551</guid>
-            <pubDate>Sat, 09 Oct 2021 09:41:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
