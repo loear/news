@@ -4,13 +4,31 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 10 Oct 2021 05:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 06:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【国家电网：强化安全管控、科学合理余缺调剂，确保群众温暖度冬】近日，国家电网有限公司党组第一时间传达国务院常务会议精神，强调公司上下要牢牢扛起电力保供的政治责任，主动服务党和国家工作大局，坚持以人民为中心的发展思想，认真践行人民电业为人民企业宗旨，以更高的标准、更严的要求、更细的举措、更实的作风，全力抓好今冬明春电力保供工作。公司系统各单位扎实落实，切实采取有力措施，全力保障电力供应。（澎湃新闻）]]></title>
+            <title><![CDATA[  【香港风势显著缓和 天文台改发一号戒备信号】今日12时40分，香港天文台改发一号戒备信号。 天文台表示，热带风暴“狮子山”正逐渐远离香港，香港风势正显著缓和。当“狮子山”不再对香港构成威胁时，天文台会取消所有热带气旋警告信号。香港天文台还表示，西北太平洋有另一个热带风暴圆规正逐步增强，预计周二（12日）后期至随后一两日会影响香港。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0605140.d.html</link>
+            <guid>2342258</guid>
+            <pubDate>Sun, 10 Oct 2021 05:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周40只股将面临解禁 合计解禁市值320.53亿元】下周将有40只股面临解禁，按最新收盘价计算，合计解禁市值320.53亿元。解禁市值规模最大的是金龙鱼。下周将有1.47亿股上市流通，主要是首发原股东限售股份和首发战略配售股份，解禁市值达106.15亿元。一汽解放、吉电股份、江苏索普的解禁市值居前。22股的解禁压力较小，解禁市值均不足亿元。从解禁股数量占总股本的比例来看，蠡湖股份的解禁比例居首，达37.71%；银宝山新、宏力达、一汽解放、吉电股份等股的解禁比例居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0601893.d.html</link>
+            <guid>2342257</guid>
+            <pubDate>Sun, 10 Oct 2021 05:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东日本旅客铁路公司（JR East）：东京Yamanote线路在停运后重启服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzscyx8835022.d.html</link>
+            <guid>2342255</guid>
+            <pubDate>Sun, 10 Oct 2021 05:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电网：强化安全管控、科学合理余缺调剂，确保群众温暖度冬】近日，国家电网有限公司党组第一时间传达国务院常务会议精神，强调公司上下要牢牢扛起电力保供的政治责任，主动服务党和国家工作大局，坚持以人民为中心的发展思想，认真践行人民电业为人民企业宗旨，以更高的标准、更严的要求、更细的举措、更实的作风，全力抓好今冬明春电力保供工作。公司系统各单位扎实落实，切实采取有力措施，全力保障电力供应。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0600316.d.html</link>
             <guid>2342252</guid>
             <pubDate>Sun, 10 Oct 2021 05:12:20 GMT</pubDate>
@@ -340,17 +358,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0533409.d.html</link>
             <guid>2341642</guid>
             <pubDate>Sat, 09 Oct 2021 18:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据央视新闻：当地时间9日，奥地利总理库尔茨宣布辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-10/detail-iktzqtyu0532882.d.html</link>
-            <guid>2341638</guid>
-            <pubDate>Sat, 09 Oct 2021 18:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：10月10日01时56分在新疆阿克苏地区拜城县（北纬41.97度，东经82.38度）发生3.1级地震，震源深度10千米。]]></title>
-            <guid>2341637</guid>
-            <pubDate>Sat, 09 Oct 2021 18:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
