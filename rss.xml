@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 15 Oct 2021 21:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 22:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[根据美国银行调查，管理总计7000亿美元资产的58位全球受访者对美元的风险敞口和信心为2016年以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyx9942163.d.html</link>
+            <guid>2350337</guid>
+            <pubDate>Fri, 15 Oct 2021 21:58:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国金融监督委员会会议的议程包括稳定币报告。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1702238.d.html</link>
@@ -145,18 +151,6 @@
             <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：英国与欧盟在脱欧谈判上存在“相当大的分歧”。]]></title>
             <guid>2350240</guid>
             <pubDate>Fri, 15 Oct 2021 15:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Apple Watch智能手表是9月苹果发布会中最受期待的产品】据9to5Mac的一项调查，新款Apple Watch智能手表是9月苹果发布会中最受期待的产品，这可能会转化为可观的销售。Statista全球消费者调查显示，Apple Watch是美国智能手表和健身追踪器的市场领导者。在自称拥有智能手表或健身追踪器之一的消费者中，几乎有一半表示他们拥有Apple Watch，其次是Fitbit和三星。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9920159.d.html</link>
-            <guid>2350239</guid>
-            <pubDate>Fri, 15 Oct 2021 15:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据9to5Mac的一项调查，新款Apple Watch智能手表是9月苹果发布会中最受期待的产品，这可能会转化为可观的销售。Statista全球消费者调查显示，Apple Watch是美国智能手表和健身追踪器的市场领导者。在自称拥有智能手表或健身追踪器之一的消费者中，几乎有一半表示他们拥有Apple Watch，其次是Fitbit和三星。总体而言，在18-64岁的所有美国受访者中，39%的人表示他们拥有智能手表或健身追踪器。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9919936.d.html</link>
-            <guid>2350237</guid>
-            <pubDate>Fri, 15 Oct 2021 15:21:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
