@@ -6,6 +6,13 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2350279,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1692194.d.html",
+            "title": "市场消息：葡萄牙称将暂时下调石油产品税。",
+            "date_modified": "2021-10-15T17:30:56.000Z"
+        },
+        {
             "id": 2350267,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1690363.d.html",
@@ -289,41 +296,6 @@
             "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1673294.d.html",
             "title": "  力拓(RIO.N)跌1.17%，因澳大利亚西部劳动力短缺，力拓下调了对铁矿石年度出货量的预期。",
             "date_modified": "2021-10-15T13:39:08.000Z"
-        },
-        {
-            "id": 2350181,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1672763.d.html",
-            "title": "  【精功科技：签署6.5亿元碳纤维生产线重大合同】精功科技公告，今日公司已与吉林国兴碳纤维有限公司正式签署了两份《碳化线装置购销合同》，合同金额分别为3.1亿元(含税)、3.4亿元(含税)，合同总金额合计为6.5亿元(含税)。根据合同约定，公司将向国兴碳纤维提供4条碳纤维生产线。",
-            "date_modified": "2021-10-15T13:34:31.000Z"
-        },
-        {
-            "id": 2350179,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1672688.d.html",
-            "title": "  美股区块链板块盘初走高，Bit Digital(BTBT.O)涨8.71%，比特矿业(BTCM.N)涨8.49%，Riot Blockchain(RIOT.O)涨6.81%，Marathon Patent(MARA.O)涨5.8%，嘉楠科技(CAN.O)涨4.43%。",
-            "date_modified": "2021-10-15T13:34:00.000Z"
-        },
-        {
-            "id": 2350178,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1672514.d.html",
-            "title": "  美国铝业(AA.N)涨6.23%，第三季度业绩好于预期，五年来首次派息。",
-            "date_modified": "2021-10-15T13:32:31.000Z"
-        },
-        {
-            "id": 2350177,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1672504.d.html",
-            "title": "  台积电(TSM.N)涨1.23%，日本计划向台积电将在日建造的晶圆工厂提供5000亿日元补贴。",
-            "date_modified": "2021-10-15T13:32:24.000Z"
-        },
-        {
-            "id": 2350176,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9907551.d.html",
-            "title": "  高盛(GS.N)涨2.36%，股价重回400美元关口上方，Q3营收、净利润均超预期。",
-            "date_modified": "2021-10-15T13:31:31.000Z"
         }
     ]
 }
