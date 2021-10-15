@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 15 Oct 2021 20:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 21:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国金融监督委员会会议的议程包括稳定币报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1702238.d.html</link>
+            <guid>2350325</guid>
+            <pubDate>Fri, 15 Oct 2021 20:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会将于10月21日召开会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1702163.d.html</link>
+            <guid>2350324</guid>
+            <pubDate>Fri, 15 Oct 2021 20:22:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大权威信用评级公司DBRS：确认法国评级为AA（高），前景展望稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1701151.d.html</link>
@@ -145,48 +157,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9919936.d.html</link>
             <guid>2350237</guid>
             <pubDate>Fri, 15 Oct 2021 15:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：BITFITNEX因在操作该平台时进行非法交易以及违反CFTC先前的命令而被罚款150万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9918057.d.html</link>
-            <guid>2350227</guid>
-            <pubDate>Fri, 15 Oct 2021 15:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：TETHER将支付4100万美元用于稳定币的索赔金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1682860.d.html</link>
-            <guid>2350226</guid>
-            <pubDate>Fri, 15 Oct 2021 14:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）要求加密货币交易平台BITFINEX和TETHER支付4250万美元的罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1682769.d.html</link>
-            <guid>2350225</guid>
-            <pubDate>Fri, 15 Oct 2021 14:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学消费者情绪调查显示，美国消费者预计明年通胀率将上升至4.8％，为2008年以来的最高水平，长期通胀预期略有下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzqtyu1682245.d.html</link>
-            <guid>2350224</guid>
-            <pubDate>Fri, 15 Oct 2021 14:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛CFO：高盛预计贷款增长将在2022年加速。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9917145.d.html</link>
-            <guid>2350223</guid>
-            <pubDate>Fri, 15 Oct 2021 14:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织-世界银行发展委员会：世界银行应该致力于增加私营部门气候融资的选择和机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9916847.d.html</link>
-            <guid>2350222</guid>
-            <pubDate>Fri, 15 Oct 2021 14:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.7068。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-15/detail-iktzscyx9916553.d.html</link>
-            <guid>2350221</guid>
-            <pubDate>Fri, 15 Oct 2021 14:46:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
