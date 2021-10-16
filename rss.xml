@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Oct 2021 20:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 21:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据英国观察家报援引机密文件报道，英国首相约翰逊和财政大臣苏纳克在走向零碳经济的潜在经济影响上存在严重分歧。该内部文件显示，尽管迅速而适当的气候行动可能给英国企业带来经济效益，但也存在经济活动可能转移到国外的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1860472.d.html</link>
+            <guid>2351143</guid>
+            <pubDate>Sat, 16 Oct 2021 20:26:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国际奥委会：国际运动员对北京冬奥会测试赛反应积极】国际奥委会执行委员会16日在希腊雅典举行会议。国际奥委会体育总监基特·麦康奈尔在会后的发布会上表示，北京冬奥会测试赛已经陆续展开，国际奥委会从参与测试赛的运动员收获的反馈是“一致的积极”，既包括对场地本身，也包括对赛事的组织工作以及运动员对即将参与北京冬奥会的期盼。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1858343.d.html</link>
@@ -337,12 +343,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyy0020176.d.html</link>
             <guid>2350908</guid>
             <pubDate>Sat, 16 Oct 2021 07:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京小客车租赁出新规：数量动态调控 提高新能源车比例】北京市贯彻《小微型客车租赁经营服务管理办法》的实施意见近日开始施行。根据实施意见，北京市对小微型客车租赁实行数量动态调控，对备案车辆统一发放租赁车辆备案电子证，促进市场供需关系基本保持平衡。同时，鼓励汽车租赁企业使用新能源车辆开展租赁运营，提高新能源车辆比例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1782735.d.html</link>
-            <guid>2350907</guid>
-            <pubDate>Sat, 16 Oct 2021 07:04:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
