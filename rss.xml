@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Oct 2021 21:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 22:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：10月17日05时42分在新疆阿克苏地区库车市（北纬41.25度，东经83.76度）发生3.4级地震，震源深度11千米。]]></title>
+            <guid>2351146</guid>
+            <pubDate>Sat, 16 Oct 2021 21:51:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据英国观察家报援引机密文件报道，英国首相约翰逊和财政大臣苏纳克在走向零碳经济的潜在经济影响上存在严重分歧。该内部文件显示，尽管迅速而适当的气候行动可能给英国企业带来经济效益，但也存在经济活动可能转移到国外的风险。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1860472.d.html</link>
@@ -325,24 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyy0021159.d.html</link>
             <guid>2350911</guid>
             <pubDate>Sat, 16 Oct 2021 07:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【截至2020年全国老年人口抚养比为19.7% 比10年前提高7.8%】从16日举行的第二届中国人口与发展论坛获悉，截至2020全国老年人口抚养比为19.7%，比2010年提高7.8个百分点。老年人口抚养比用来表明每100名劳动年龄人口要负担多少名老年人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1785572.d.html</link>
-            <guid>2350910</guid>
-            <pubDate>Sat, 16 Oct 2021 07:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国利率前景推升美债收益率】周五美债收益率走高，十年期美债收益率收报1.574%，因投资者担忧通胀上涨，可能会导致利率前景恶化。美国通胀预期目前已处于2005年以来最高水平。9月零售销售数据意外走强进一步强化了这种担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1785378.d.html</link>
-            <guid>2350909</guid>
-            <pubDate>Sat, 16 Oct 2021 07:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三峡库区新增逾1000亿元对口支援投资项目】第十三届全国对口支援三峡库区经贸洽谈会近日在重庆举行，依托此平台，三峡库区相关区县新签约102个对口支援投资项目，签约金额达1046.88亿元，这对三峡库区经济社会发展和产业转型升级将起到积极支撑作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyy0020176.d.html</link>
-            <guid>2350908</guid>
-            <pubDate>Sat, 16 Oct 2021 07:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
