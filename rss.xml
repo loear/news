@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Oct 2021 10:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 11:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2022年我国将全面进入空间站在轨建造阶段】在完成神舟十三号载人飞行任务及工程全系统综合评估后，工程将全面转入空间站建造阶段。建造阶段共规划实施6次飞行任务，对空间站状态全面评估后，转入空间站应用与发展阶段。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1817651.d.html</link>
+            <guid>2350941</guid>
+            <pubDate>Sat, 16 Oct 2021 11:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云原生批流融合数据平台StreamNative完成A轮融资】云原生批流融合数据平台 StreamNative发布消息表示，公司已正式获得2300万美元A轮融资。本轮融资由华泰证券旗下另类投资子公司华泰创新等机构联合领投，原股东红杉中国、源码资本继续加码。此前，StreamNative 于2020年8月完成了数百万美元的Pre-A轮融资，源码资本领投、红杉中国种子基金跟投；2019年团队创立初期时则获得红杉中国的种子基金天使轮投资。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1816155.d.html</link>
+            <guid>2350940</guid>
+            <pubDate>Sat, 16 Oct 2021 11:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿富汗临时政府代表团访问乌兹别克斯坦 双方商讨经贸等领域合作】据乌兹别克斯坦外交部消息，当地时间16日，乌兹别克斯坦政府官员与到访的阿富汗临时政府代表团举行会谈，主要涉及经贸与基础设施建设合作。两国政府代表团的会谈在乌兹别克斯坦南部城市铁尔梅兹举行。乌方代表团由副总理兼投资与外贸部长乌穆尔扎科夫率领，阿富汗代表团由临时政府副总理阿卜杜·萨拉姆·哈纳菲率领。会谈内容主要涉及加强经贸往来，扩大在交通、能源、金融和社会等领域的联系与合作。消息中强调，双方重点讨论了地区基础设施建设项目的规划和实施，其中包括“马扎里沙里夫-喀布尔-白沙瓦”跨国铁路和“苏尔汗-普利-胡姆里”输电线路。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1814946.d.html</link>
+            <guid>2350938</guid>
+            <pubDate>Sat, 16 Oct 2021 10:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国社民党总理候选人朔尔茨：力争在12月组建成新政府】当地时间15日晚间，德国社民党总理候选人朔尔茨在接受电视采访时表示，社民党、绿党和自民党的组阁谈判并非毫无困难，但三方已经在有分歧的问题上取得了决定性进展，目标是在12月底的传统节日前组建成新一届联邦政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyy0046099.d.html</link>
+            <guid>2350937</guid>
+            <pubDate>Sat, 16 Oct 2021 10:21:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【世界粮食计划署：全球平均气温上升将大幅增加饥饿群体】在2021年世界粮食日到来之际，联合国世界粮食计划署发布预警称，如果不立即采取全球行动，帮助脆弱社区适应气候冲击和压力，世界将面临由气候危机引发的饥饿呈指数型增长的问题。世界粮食计划署的一项分析显示，全球平均气温如果比工业化前的水平上升2摄氏度，将会增加1.89亿饥饿群体。绝大多数生活在脆弱社区的人们都依赖农业、渔业和畜牧业生存，他们对气候危机的影响最小，但却要在有限的缓冲手段下继续承受气候冲击。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzscyy0045416.d.html</link>
@@ -368,24 +392,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1724909.d.html</link>
             <guid>2350708</guid>
             <pubDate>Sat, 16 Oct 2021 00:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大努纳武特地区首府发生高浓度燃油污染饮用水事件】当地时间10月15日，加拿大努纳武特（Nunavut）地区政府举行新闻发布会，宣布该地区首府伊卡卢伊特（Iqaluit）12日发生的高浓度燃油污染饮用水事件已经造成医院暂停非紧急手术。该地区首席医疗官迈克尔·派特斯表示，奇克塔尼（Qikiqtani）综合医院的手术室目前只能安排紧急手术，非紧急手术暂停。这是因为手术消毒需要使用干净的水制成的蒸汽。水中的油膜也会影响消毒效果。他认为，这种情况可能还要持续数日。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1724567.d.html</link>
-            <guid>2350697</guid>
-            <pubDate>Sat, 16 Oct 2021 00:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信：治理低俗直播内容，处置超1.2万个直播间】微信安全团队表示，今年6月1日至今，平台对无下限博眼球的低俗直播内容持续进行处理，累计处置超过1.2万个直播间，对超过5900个主播账号扣除信用分并追加账号级别处罚。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1723537.d.html</link>
-            <guid>2350666</guid>
-            <pubDate>Sat, 16 Oct 2021 00:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台继续发布寒潮蓝色预警：北京明早最低气温降至0℃】中央气象台10月16日06时继续发布寒潮蓝色预警：冷空气影响过后，北方地区最低气温出现在17日早晨，最低气温0℃线将位于北京中部、河北中部、山东西北部、山西中南部、陕西中部一带；南方地区最低气温出现在18日早晨，江南北部和西部最低气温将降至10℃左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-16/detail-iktzqtyu1723446.d.html</link>
-            <guid>2350665</guid>
-            <pubDate>Sat, 16 Oct 2021 00:34:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
