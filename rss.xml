@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 17 Oct 2021 04:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【全球供应链危机持续 美国厂商改变包装尺寸应对】据美国有线电视新闻网（CNN）16日报道，为应对全球供应链危机，美国玩具厂商纷纷改变产品包装尺寸，优先运送质量轻且柔软的玩具，以便在年底节前的购物季获得最大利润。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1919258.d.html</link>
+            <guid>2351230</guid>
+            <pubDate>Sun, 17 Oct 2021 04:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本富豪12月将飞往太空旅行 计划在空间站打羽毛球】据美联社16日报道，当地时间15日，美国太空探险公司宣布，日本富豪前泽友作12月8日将乘坐联盟号载人飞船进入国际空间站，他将在空间站停留12天。前泽友作此前向公众征集意见，制作了一份清单，列出将在太空中做的100件事，其中包括在太空站打羽毛球。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1918277.d.html</link>
+            <guid>2351227</guid>
+            <pubDate>Sun, 17 Oct 2021 04:36:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【1603.9公斤！杂交水稻双季亩产创新纪录】10月17日，国家杂交水稻工程技术中心（湖南杂交水稻研究中心）在湖南省衡南县开展2021年南方稻区双季亩产1500公斤攻关测产验收，测得晚稻平均亩产为936.1公斤。加上此前测得的早稻平均亩产667.81公斤，由“杂交水稻之父”袁隆平团队研发的杂交水稻双季测产为1603.9公斤，成功突破亩产1500公斤目标并创造新的纪录。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1917164.d.html</link>
+            <guid>2351226</guid>
+            <pubDate>Sun, 17 Oct 2021 04:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【工信部正抓紧编制中小企业发展“十四五”规划】工业和信息化部部长肖亚庆表示，工信部正抓紧编制中小企业发展“十四五”规划，部署完善公平竞争环境、提高融资可得性、提升创新能力和专业化水平等7个方面重点任务。工信部将着力破除各类隐形壁垒，消除影响公平竞争、妨碍创新的各种制度束缚，切实保障中小企业公平参与市场竞争，并加大优质企业培育力度。“十四五”期间，孵化培育百万家创新型中小企业，十万家“专精特新”中小企业，一万家“小巨人”企业。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1915389.d.html</link>
@@ -312,18 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1852361.d.html</link>
             <guid>2351005</guid>
             <pubDate>Sat, 16 Oct 2021 17:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度前总理辛格患登革热 目前病情稳定】据印度印亚新闻社16日报道，全印医学研究所新德里分院的官员表示，印度前总理辛格确诊患上登革热，但他的健康状况正在逐渐好转，并已脱离危险。这名官员解释说，“辛格先生的血小板正在增加，现在已经脱离了危险。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzscyy0086355.d.html</link>
-            <guid>2351001</guid>
-            <pubDate>Sat, 16 Oct 2021 17:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列中部一购物中心发生火灾 致7人受轻伤】当地时间10月16日下午，以色列中部城镇加兰苏瓦一购物中心发生火灾，购物中心大楼顶层在大火中坍塌，包括1名警察在内的7人受轻伤。共有25支消防队的消防员赶到现场扑灭了大火，当地警察指挥疏散了所有购物者。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-17/detail-iktzqtyu1850583.d.html</link>
-            <guid>2351000</guid>
-            <pubDate>Sat, 16 Oct 2021 17:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
