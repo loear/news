@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 21 Oct 2021 20:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 21:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[澳大利亚总理莫里森：预计在下周左右与新加坡互相开放边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2826540.d.html</link>
+            <guid>2360119</guid>
+            <pubDate>Thu, 21 Oct 2021 21:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英特尔分析师电话会议：三季度的供应链环境存在挑战性，本公司在这样的背景之下业绩稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2826416.d.html</link>
+            <guid>2360117</guid>
+            <pubDate>Thu, 21 Oct 2021 21:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理莫里森希望与新加坡进一步开放边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2826337.d.html</link>
+            <guid>2360116</guid>
+            <pubDate>Thu, 21 Oct 2021 21:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  共享办公巨头WeWork（WE）美国IPO首日收涨逾13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1058337.d.html</link>
+            <guid>2360109</guid>
+            <pubDate>Thu, 21 Oct 2021 20:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snap第三季度营收10.7亿美元，市场预估11亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2822745.d.html</link>
@@ -168,77 +192,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2808919.d.html</link>
             <guid>2359900</guid>
             <pubDate>Thu, 21 Oct 2021 16:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：第二条北溪2号管道将在年底开始使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2808877.d.html</link>
-            <guid>2359899</guid>
-            <pubDate>Thu, 21 Oct 2021 16:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席维斯塔格：欧洲必须避免全球补贴竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2808872.d.html</link>
-            <guid>2359898</guid>
-            <pubDate>Thu, 21 Oct 2021 16:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：欧洲天然气市场面临700亿立方米的天然气短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1043149.d.html</link>
-            <guid>2359892</guid>
-            <pubDate>Thu, 21 Oct 2021 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由38名美国议员组成的跨党派团体敦促国会推进立法解决半导体短缺问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1043068.d.html</link>
-            <guid>2359891</guid>
-            <pubDate>Thu, 21 Oct 2021 16:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利9月石油消费量同比增长5.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2808203.d.html</link>
-            <guid>2359888</guid>
-            <pubDate>Thu, 21 Oct 2021 16:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟内部市场委员布雷顿：欧盟和美国将在明年就芯片短缺进行谈话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2808074.d.html</link>
-            <guid>2359887</guid>
-            <pubDate>Thu, 21 Oct 2021 16:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔(INTC.O)CEO：半导体短缺将持续到2023年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1042628.d.html</link>
-            <guid>2359886</guid>
-            <pubDate>Thu, 21 Oct 2021 16:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：外国军队在乌克兰的存在是对俄罗斯的真正威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1042419.d.html</link>
-            <guid>2359885</guid>
-            <pubDate>Thu, 21 Oct 2021 16:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：美国应该立即解除对阿富汗资产的冻结。]]></title>
-            <guid>2359883</guid>
-            <pubDate>Thu, 21 Oct 2021 16:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：美国应该立即解除对阿富汗资产的冻结。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1042109.d.html</link>
-            <guid>2359882</guid>
-            <pubDate>Thu, 21 Oct 2021 16:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯和美国正在按计划完成他们在6月峰会上商定的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2806730.d.html</link>
-            <guid>2359880</guid>
-            <pubDate>Thu, 21 Oct 2021 16:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌降低Play Store订阅和音乐流媒体等应用的费用】谷歌宣布，将所有基于订阅的应用程序的费用降低到15%，并表示电子书和点播音乐流媒体服务费用将有可能“低至10%”。此前谷歌的订阅费用规则是第一年收取30%，之后是15%。如今谷歌一开始就提供15%的优惠，可能是对开发者从一次性付款转为订阅的一个有力激励。谷歌表示，这一变化的原因之一是“客户流失使得订阅业务很难从这一降低的费率中获益”。而降低电子书和音乐流媒体服务费用则是由于“内容成本占销售的大部分”。另外，监管压力和来自Spotify(SPOT.N)等公司的影响也被认为是谷歌调整费用的原因之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1041015.d.html</link>
-            <guid>2359879</guid>
-            <pubDate>Thu, 21 Oct 2021 16:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
