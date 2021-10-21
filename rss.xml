@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 21 Oct 2021 18:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 19:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统副新闻发言人让·皮埃尔：没有为经济议程谈判安排时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1052680.d.html</link>
+            <guid>2360069</guid>
+            <pubDate>Thu, 21 Oct 2021 19:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登总统坚持他的要求，即不对年收入40万美元以下的人增税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1052534.d.html</link>
+            <guid>2360067</guid>
+            <pubDate>Thu, 21 Oct 2021 19:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登总统认为，所有高级官员都应该遵守最高标准，包括避免利益冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu2817512.d.html</link>
+            <guid>2360065</guid>
+            <pubDate>Thu, 21 Oct 2021 18:56:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国总理让·卡斯泰：为减轻消费者因高昂的能源成本而产生的负担，政府将决定对每月净收入低于2000欧元的人给予100欧元的通胀溢价（补贴）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1049818.d.html</link>
@@ -241,30 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-21/detail-iktzqtyu2801330.d.html</link>
             <guid>2359851</guid>
             <pubDate>Thu, 21 Oct 2021 15:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国两党参议员提出了关于利用人工智能收集数据的法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-21/detail-iktzscyy1034691.d.html</link>
-            <guid>2359841</guid>
-            <pubDate>Thu, 21 Oct 2021 15:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：预计土耳其CPI在年底将达到15.5%，证实2021年底里拉兑美元达到9.7的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-21/detail-iktzscyy1034483.d.html</link>
-            <guid>2359838</guid>
-            <pubDate>Thu, 21 Oct 2021 15:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[认养一头牛官方回复称，已于今年7月15日结束与李云迪的合作关系。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-21/detail-iktzqtyu2799784.d.html</link>
-            <guid>2359837</guid>
-            <pubDate>Thu, 21 Oct 2021 15:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：预计土耳其可能会在2021年剩余时间内降息最多100个基点，可能是在11月，但这之后，利率将在2022年保持在15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-21/detail-iktzscyy1034157.d.html</link>
-            <guid>2359833</guid>
-            <pubDate>Thu, 21 Oct 2021 14:56:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
