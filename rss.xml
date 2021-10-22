@@ -4,11 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Oct 2021 20:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 21:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：墨西哥西南海岸部分地区发布了飓风和热带风暴预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3026296.d.html</link>
+            <guid>2361236</guid>
+            <pubDate>Fri, 22 Oct 2021 20:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带低压已增强为热带风暴Rick。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1261635.d.html</link>
+            <guid>2361235</guid>
+            <pubDate>Fri, 22 Oct 2021 20:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：尽管最近有所改善，但仍认为土耳其的国际收支状况疲弱，其货币政策难以预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3024858.d.html</link>
+            <guid>2361231</guid>
+            <pubDate>Fri, 22 Oct 2021 20:23:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认土耳其外汇和本币评级，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1260227.d.html</link>
+            <guid>2361230</guid>
+            <pubDate>Fri, 22 Oct 2021 20:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：英国评级受限于英国金融服务业进入欧洲单一市场的不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1260152.d.html</link>
+            <guid>2361229</guid>
+            <pubDate>Fri, 22 Oct 2021 20:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：欧盟市场准入范围的缩小，以及英国与欧盟在北爱尔兰贸易安排问题上的持续争执，也仍是英国面临的一个风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1260144.d.html</link>
+            <guid>2361227</guid>
+            <pubDate>Fri, 22 Oct 2021 20:21:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普：确认英国评级为“AA/A-1+”，前景展望稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3024576.d.html</link>
@@ -251,12 +287,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1243999.d.html</link>
             <guid>2361135</guid>
             <pubDate>Fri, 22 Oct 2021 15:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：如果与英国的分歧加深，欧盟考虑终止英国脱欧贸易协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu3008595.d.html</link>
-            <guid>2361133</guid>
-            <pubDate>Fri, 22 Oct 2021 15:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
