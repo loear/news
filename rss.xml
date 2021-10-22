@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Oct 2021 18:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 19:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[淡水河谷：受火灾影响的Salobo铜矿已恢复运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1256417.d.html</link>
+            <guid>2361204</guid>
+            <pubDate>Fri, 22 Oct 2021 19:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大竞争局(Canadian Competition Bureau)已获得法院命令，推进对谷歌在线广告业务的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1255074.d.html</link>
+            <guid>2361200</guid>
+            <pubDate>Fri, 22 Oct 2021 18:37:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫新闻秘书珍·普萨基：拜登希望完成“历史性的一揽子计划”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3018291.d.html</link>
@@ -203,12 +215,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu3008595.d.html</link>
             <guid>2361133</guid>
             <pubDate>Fri, 22 Oct 2021 15:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚金融监管机构结束对力拓的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu3006017.d.html</link>
-            <guid>2361094</guid>
-            <pubDate>Fri, 22 Oct 2021 15:14:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
