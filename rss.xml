@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Oct 2021 19:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 20:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普：确认英国评级为“AA/A-1+”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3024576.d.html</link>
+            <guid>2361223</guid>
+            <pubDate>Fri, 22 Oct 2021 20:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：将意大利前景展望从稳定上调至正面，确认评级为“BBB/A-2”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3024195.d.html</link>
+            <guid>2361220</guid>
+            <pubDate>Fri, 22 Oct 2021 20:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月19日当周，美元投机性净多头押注降至218亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1258165.d.html</link>
+            <guid>2361215</guid>
+            <pubDate>Fri, 22 Oct 2021 19:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月19日当周，投机者将156042手CBOT美国10年期国债期货合约净多头持仓转为544手净空头持仓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3022827.d.html</link>
+            <guid>2361214</guid>
+            <pubDate>Fri, 22 Oct 2021 19:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月19日当周，COMEX铜期货投机性净多头头寸增加18466手至54030手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3022665.d.html</link>
+            <guid>2361213</guid>
+            <pubDate>Fri, 22 Oct 2021 19:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月19日当周，NYMEX、ICE市场的天然气期货净多头持仓减少29105手至170448手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1257981.d.html</link>
+            <guid>2361212</guid>
+            <pubDate>Fri, 22 Oct 2021 19:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月19日当周，WTI原油期货投机性净多头头寸增加23444手至363893手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1257975.d.html</link>
+            <guid>2361211</guid>
+            <pubDate>Fri, 22 Oct 2021 19:33:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[淡水河谷：受火灾影响的Salobo铜矿已恢复运营。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1256417.d.html</link>
