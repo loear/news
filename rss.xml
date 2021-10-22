@@ -4,13 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Oct 2021 16:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[评级机构标普：由于需求前景稳定且强劲，将特斯拉(TSLA.O)评级上调至“BB+”。]]></title>
+            <title><![CDATA[油服贝克休斯：美国钻井公司七周以来首次削减石油和天然气钻井平台数量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1249713.d.html</link>
+            <guid>2361167</guid>
+            <pubDate>Fri, 22 Oct 2021 17:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国至10月22日当周石油钻井总数443口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3014036.d.html</link>
+            <guid>2361162</guid>
+            <pubDate>Fri, 22 Oct 2021 17:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：我在几个月前就已将投资转向欧洲股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3013824.d.html</link>
+            <guid>2361159</guid>
+            <pubDate>Fri, 22 Oct 2021 16:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：2021年年底美国通胀将为5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1249035.d.html</link>
+            <guid>2361158</guid>
+            <pubDate>Fri, 22 Oct 2021 16:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：不认为美国明年通胀率会低于4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3013447.d.html</link>
+            <guid>2361155</guid>
+            <pubDate>Fri, 22 Oct 2021 16:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰已向俄罗斯提供更多天然气运输折扣。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3011720.d.html</link>
+            <guid>2361153</guid>
+            <pubDate>Fri, 22 Oct 2021 16:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普：将特斯拉(TSLA.O)评级从“BB”上调至“BB+”，前景展望积极】尽管存在半导体短缺和其他与供应有关的瓶颈，但与大多数汽车制造商相比，特斯拉(TSLA.O)似乎已将生产中断的程度降至最低。标普称对特斯拉的预期也反映了今年迄今为止全球电动汽车行业的出色表现。标普表示，未来的关键风险包含供应渠道方面的风险，因为特斯拉希望提高电池产能并完成生产升级以满足需求。尽管行业近期存在供应瓶颈，但我们预计特斯拉在未来几个季度的交付量和盈利将保持强劲。]]></title>
             <guid>2361152</guid>
             <pubDate>Fri, 22 Oct 2021 16:19:58 GMT</pubDate>
         </item>
@@ -90,65 +126,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1239537.d.html</link>
             <guid>2361070</guid>
             <pubDate>Fri, 22 Oct 2021 14:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Signal平台数据显示，在洛杉矶，船舶从锚地到泊位的等待时间周三升至13天的历史新高，比9月初增加了65%。目前创纪录220亿美元的货物被困在加利福尼亚州港口的集装箱船上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1239167.d.html</link>
-            <guid>2361063</guid>
-            <pubDate>Fri, 22 Oct 2021 14:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海指数创1月以来最差表现，因海岬型船运价指数大幅下挫】波罗的海干散货运价指数周五下跌243点或5.2%，至4410点，创1月以来最差表现；本周累跌9.1%。海岬型船运价指数下跌713点或10.3%，至6205点，为1月27日以来最大跌幅；日均获利减少5911美元至51463美元。巴拿马型船运价指数上涨23点或0.5%，至4327点；日均获利增加208美元至38945美元。超灵便型船运价指数下跌40点，至3584点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1239115.d.html</link>
-            <guid>2361062</guid>
-            <pubDate>Fri, 22 Oct 2021 14:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线拉升近10点，现报93.63。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1238624.d.html</link>
-            <guid>2361060</guid>
-            <pubDate>Fri, 22 Oct 2021 14:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国证券业协会发布《自律规则适用意见第3号—— 关于<注册制下首次公开发行股票网下投资者分类评价和管理指引>有关规定的适用意见（试行）》。]]></title>
-            <guid>2361058</guid>
-            <pubDate>Fri, 22 Oct 2021 14:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国方面支持经合组织禁止煤炭出口信贷的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1238173.d.html</link>
-            <guid>2361056</guid>
-            <pubDate>Fri, 22 Oct 2021 14:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据欧洲汽车制造商协会(ACEA)数据，今年前9个月，汽油和柴油汽车的注册量与上年同期相比分别下降了9%和8.5%，配备混合动力系统的车辆的注册量增加了8.8%。总体而言，替代动力系统汽车份额持续稳步上升，占今年前三季度欧盟新注册汽车的三分之一以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu3002919.d.html</link>
-            <guid>2361054</guid>
-            <pubDate>Fri, 22 Oct 2021 14:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线跌近20点，现报1.3771。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1237988.d.html</link>
-            <guid>2361053</guid>
-            <pubDate>Fri, 22 Oct 2021 14:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  惠誉：关注波音(BA.N)的巨额债务余额，这使其评级在债务减少之前面临不利的商业或经济状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1237739.d.html</link>
-            <guid>2361051</guid>
-            <pubDate>Fri, 22 Oct 2021 14:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西圣保罗证交所指数IBOVESPA跌3.2%，将陷入技术性熊市行情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzqtyu3002570.d.html</link>
-            <guid>2361049</guid>
-            <pubDate>Fri, 22 Oct 2021 14:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  惠誉：波音(BA.N)已经度过了债务高峰期，大部分时间都处于“现金燃烧”的低谷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-22/detail-iktzscyy1237369.d.html</link>
-            <guid>2361048</guid>
-            <pubDate>Fri, 22 Oct 2021 14:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
