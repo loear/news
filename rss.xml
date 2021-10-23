@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 23 Oct 2021 16:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 17:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非国家电力公司Eskom：因发电厂出现故障，将实施限电；本周六至下周一期间将切断供电。]]></title>
+            <guid>2362470</guid>
+            <pubDate>Sat, 23 Oct 2021 17:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国家石油公司负责人Mohsen Khojastehmehr表示，它需要大约110亿美元的投资，以提高与邻国伊拉克共享的西南边境油田的产量。Khojastehmehr称，如果获得了这笔资金，该油田的石油产量将能增加100多万桶/日。本月早些时候伊朗油长曾表示，欢迎“任何愿意为伊朗能源项目提供资金并接受原油或凝析油作为付款的投资者”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3168169.d.html</link>
+            <guid>2362468</guid>
+            <pubDate>Sat, 23 Oct 2021 16:24:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特能源部长：我们努力使沙特成为各种形式能源的可靠来源。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1400713.d.html</link>
@@ -360,24 +371,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3106207.d.html</link>
             <guid>2361693</guid>
             <pubDate>Sat, 23 Oct 2021 07:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源部长：2060年净零排放目标是基本情景，可以更早实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3106185.d.html</link>
-            <guid>2361692</guid>
-            <pubDate>Sat, 23 Oct 2021 07:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盒马预计“十四五”期间签约1000盒马村 采购1000亿元农产品】在商务部流通产业促进中心、中国蔬菜流通协会主办的“全国农产品产销对接助力乡村振兴会议”上，盒马产业发展中心主任原若凡表示，盒马将加强对农产品上游供应链的建设，在“十四五”期间，盒马预计签约1000个“盒马村”，在全国农业产地采购共计1000亿元优质农产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3104920.d.html</link>
-            <guid>2361688</guid>
-            <pubDate>Sat, 23 Oct 2021 06:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源部长：将通过碳捕捉减少排放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1339475.d.html</link>
-            <guid>2361687</guid>
-            <pubDate>Sat, 23 Oct 2021 06:48:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

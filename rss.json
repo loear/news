@@ -6,6 +6,19 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2362470,
+            "content_html": "",
+            "title": "南非国家电力公司Eskom：因发电厂出现故障，将实施限电；本周六至下周一期间将切断供电。",
+            "date_modified": "2021-10-23T17:03:37.000Z"
+        },
+        {
+            "id": 2362468,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3168169.d.html",
+            "title": "伊朗国家石油公司负责人Mohsen Khojastehmehr表示，它需要大约110亿美元的投资，以提高与邻国伊拉克共享的西南边境油田的产量。Khojastehmehr称，如果获得了这笔资金，该油田的石油产量将能增加100多万桶/日。本月早些时候伊朗油长曾表示，欢迎“任何愿意为伊朗能源项目提供资金并接受原油或凝析油作为付款的投资者”。",
+            "date_modified": "2021-10-23T16:24:59.000Z"
+        },
+        {
             "id": 2362465,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1400713.d.html",
@@ -415,27 +428,6 @@
             "url": "https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3106207.d.html",
             "title": "沙特能源部长：大多数减排所需的技术将在2040年成熟，因此我们需要时间来做正确的事情。",
             "date_modified": "2021-10-23T07:03:20.000Z"
-        },
-        {
-            "id": 2361692,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3106185.d.html",
-            "title": "沙特能源部长：2060年净零排放目标是基本情景，可以更早实现。",
-            "date_modified": "2021-10-23T07:03:12.000Z"
-        },
-        {
-            "id": 2361688,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3104920.d.html",
-            "title": "  【盒马预计“十四五”期间签约1000盒马村 采购1000亿元农产品】在商务部流通产业促进中心、中国蔬菜流通协会主办的“全国农产品产销对接助力乡村振兴会议”上，盒马产业发展中心主任原若凡表示，盒马将加强对农产品上游供应链的建设，在“十四五”期间，盒马预计签约1000个“盒马村”，在全国农业产地采购共计1000亿元优质农产品。",
-            "date_modified": "2021-10-23T06:52:48.000Z"
-        },
-        {
-            "id": 2361687,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1339475.d.html",
-            "title": "沙特能源部长：将通过碳捕捉减少排放。",
-            "date_modified": "2021-10-23T06:48:36.000Z"
         }
     ]
 }
