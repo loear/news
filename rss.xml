@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 23 Oct 2021 17:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 18:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特斯拉完全自动驾驶测试版10.3因"表现退步"而延迟推出】根据特斯拉CEO埃隆·马斯克上周的一条推文，特斯拉本应在昨晚推出他们的完全自动驾驶测试版10.3。今日马斯克在推文中解释称，当涉及到非常重要的交通灯左转时，10.3测试版实际上比10.2测试版表现更糟糕。这个问题是通过内部测试发现的，目前修复工作正在进行，10.3版本可能推迟到明天发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-24/detail-iktzqtyu3174898.d.html</link>
+            <guid>2362474</guid>
+            <pubDate>Sat, 23 Oct 2021 17:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非国家电力公司Eskom：因发电厂出现故障，将实施限电；本周六至下周一期间将切断供电。]]></title>
             <guid>2362470</guid>
@@ -359,18 +365,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3108744.d.html</link>
             <guid>2361752</guid>
             <pubDate>Sat, 23 Oct 2021 07:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源部长：2060年目标取决于许多情况，包括石油出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzscyy1342797.d.html</link>
-            <guid>2361697</guid>
-            <pubDate>Sat, 23 Oct 2021 07:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源部长：大多数减排所需的技术将在2040年成熟，因此我们需要时间来做正确的事情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-23/detail-iktzqtyu3106207.d.html</link>
-            <guid>2361693</guid>
-            <pubDate>Sat, 23 Oct 2021 07:03:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
