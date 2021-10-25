@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 25 Oct 2021 19:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 20:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)CEO马斯克在推特就有关“Rivian生产停滞”的报道发表评论时表示，与扩大生产和供应链的规模相比，汽车原型是微不足道的。如果这些问题都解决了，实现正毛利率就是下一个“噩梦”。（Rivian）在第一条汽车生产线运作起来之前就开设第二条新的生产线，这将分散资源并放大失败的概率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3528568.d.html</link>
+            <guid>2365611</guid>
+            <pubDate>Mon, 25 Oct 2021 20:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)CEO马斯克：很奇怪（赫兹租车的订单）导致了特斯拉估值的改变，但目前特斯拉的问题主要是产能问题而非需求问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1763981.d.html</link>
+            <guid>2365610</guid>
+            <pubDate>Mon, 25 Oct 2021 20:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉收涨12.66%，刷新收盘历史高位至1024.86美元，收盘市值站上1万亿美元.]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1763458.d.html</link>
+            <guid>2365608</guid>
+            <pubDate>Mon, 25 Oct 2021 20:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大多伦多S&P/TSX指数连续14个交易日上涨，为历史最长记录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3527827.d.html</link>
+            <guid>2365607</guid>
+            <pubDate>Mon, 25 Oct 2021 20:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国旧金山汽油价格因地区炼油厂关闭飙升】由于两家地区炼油厂因破纪录等级的降雨而关闭，旧金山现货汽油价格升至8月以来新高。供应给加州市场的标准等级汽油85.5 CARBOB较WTI原油期货的溢价已经上升12.5美分至32.5美分，为8月12日来最大溢价，这表明未来几天供应可能会收紧。目前一场强大的风暴正席卷美国西部，加州北部正在经历创纪录的降雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1762365.d.html</link>
+            <guid>2365604</guid>
+            <pubDate>Mon, 25 Oct 2021 19:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国旧金山地区炼油厂关闭导致汽油价格飙升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3526142.d.html</link>
+            <guid>2365603</guid>
+            <pubDate>Mon, 25 Oct 2021 19:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯总统与英国首相通电话 讨论气候变化等问题】鉴于英国正在为即将于11月1日至2日举行的格拉斯哥世界领导人气候峰会做准备，俄罗斯总统普京和英国首相约翰逊在通话中对气候问题进行了详细讨论。俄方强调会持续遵守国际承诺并逐步减少碳足迹。英方对俄罗斯不晚于2060年实现碳中和的计划表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3525277.d.html</link>
+            <guid>2365602</guid>
+            <pubDate>Mon, 25 Oct 2021 19:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党提议对石油和天然气生产商征收甲烷费，这一提议不太可能被包括在美国和解法案中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1760847.d.html</link>
+            <guid>2365601</guid>
+            <pubDate>Mon, 25 Oct 2021 19:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[河北石家庄新增一例新型冠状病毒无症状感染者。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1760702.d.html</link>
@@ -302,60 +350,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3505207.d.html</link>
             <guid>2365508</guid>
             <pubDate>Mon, 25 Oct 2021 14:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：外交的窗口永远不会关闭，问题是核协议能否恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740957.d.html</link>
-            <guid>2365505</guid>
-            <pubDate>Mon, 25 Oct 2021 14:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：如果对伊朗的外交努力失败，美国还有“其他工具”  。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504852.d.html</link>
-            <guid>2365504</guid>
-            <pubDate>Mon, 25 Oct 2021 14:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：美国越来越担心伊朗会继续拖延重启核谈判或提出过多要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504826.d.html</link>
-            <guid>2365503</guid>
-            <pubDate>Mon, 25 Oct 2021 14:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登的能源安全顾问表示，绿色能源转型并没有导致欧洲和其他地方的天然气危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504814.d.html</link>
-            <guid>2365502</guid>
-            <pubDate>Mon, 25 Oct 2021 14:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：未来几天或几周将就伊朗问题展开更密集的外交活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504695.d.html</link>
-            <guid>2365501</guid>
-            <pubDate>Mon, 25 Oct 2021 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：倾向于通过外交手段恢复核协议，并寻求与伊朗进行经济接触的途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740525.d.html</link>
-            <guid>2365499</guid>
-            <pubDate>Mon, 25 Oct 2021 14:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【指南针通过管理人初筛 与好买财富争夺网信证券重整投资人资格】继好买财富之后，指南针成为第二家官宣通过网信证券重整投资人初筛的上市公司。指南针25日发布公告称，公司已通过管理人的初步筛选，并与管理人签署了《保密协议》，后续公司将按照管理人的要求开展尽职调查与接受反向尽职调查事宜。 目前，官宣参与网信证券破产重整的上市公司中，仅有瑞达期货未发布通过初筛的公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740516.d.html</link>
-            <guid>2365498</guid>
-            <pubDate>Mon, 25 Oct 2021 14:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴西国家石油公司宣布上调柴油价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740271.d.html</link>
-            <guid>2365497</guid>
-            <pubDate>Mon, 25 Oct 2021 14:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻伊朗特使：核谈判处于“关键阶段”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1739802.d.html</link>
-            <guid>2365496</guid>
-            <pubDate>Mon, 25 Oct 2021 14:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

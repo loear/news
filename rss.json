@@ -6,6 +6,62 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2365611,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3528568.d.html",
+            "title": "  特斯拉(TSLA.O)CEO马斯克在推特就有关“Rivian生产停滞”的报道发表评论时表示，与扩大生产和供应链的规模相比，汽车原型是微不足道的。如果这些问题都解决了，实现正毛利率就是下一个“噩梦”。（Rivian）在第一条汽车生产线运作起来之前就开设第二条新的生产线，这将分散资源并放大失败的概率。",
+            "date_modified": "2021-10-25T20:13:22.000Z"
+        },
+        {
+            "id": 2365610,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1763981.d.html",
+            "title": "  特斯拉(TSLA.O)CEO马斯克：很奇怪（赫兹租车的订单）导致了特斯拉估值的改变，但目前特斯拉的问题主要是产能问题而非需求问题。",
+            "date_modified": "2021-10-25T20:13:10.000Z"
+        },
+        {
+            "id": 2365608,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1763458.d.html",
+            "title": "  特斯拉收涨12.66%，刷新收盘历史高位至1024.86美元，收盘市值站上1万亿美元.",
+            "date_modified": "2021-10-25T20:03:33.000Z"
+        },
+        {
+            "id": 2365607,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3527827.d.html",
+            "title": "加拿大多伦多S&P/TSX指数连续14个交易日上涨，为历史最长记录。",
+            "date_modified": "2021-10-25T20:01:04.000Z"
+        },
+        {
+            "id": 2365604,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1762365.d.html",
+            "title": "【美国旧金山汽油价格因地区炼油厂关闭飙升】由于两家地区炼油厂因破纪录等级的降雨而关闭，旧金山现货汽油价格升至8月以来新高。供应给加州市场的标准等级汽油85.5 CARBOB较WTI原油期货的溢价已经上升12.5美分至32.5美分，为8月12日来最大溢价，这表明未来几天供应可能会收紧。目前一场强大的风暴正席卷美国西部，加州北部正在经历创纪录的降雨。",
+            "date_modified": "2021-10-25T19:39:31.000Z"
+        },
+        {
+            "id": 2365603,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3526142.d.html",
+            "title": "市场消息：美国旧金山地区炼油厂关闭导致汽油价格飙升。",
+            "date_modified": "2021-10-25T19:23:45.000Z"
+        },
+        {
+            "id": 2365602,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzqtyu3525277.d.html",
+            "title": "  【俄罗斯总统与英国首相通电话 讨论气候变化等问题】鉴于英国正在为即将于11月1日至2日举行的格拉斯哥世界领导人气候峰会做准备，俄罗斯总统普京和英国首相约翰逊在通话中对气候问题进行了详细讨论。俄方强调会持续遵守国际承诺并逐步减少碳足迹。英方对俄罗斯不晚于2060年实现碳中和的计划表示欢迎。",
+            "date_modified": "2021-10-25T19:17:12.000Z"
+        },
+        {
+            "id": 2365601,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1760847.d.html",
+            "title": "市场消息：美国民主党提议对石油和天然气生产商征收甲烷费，这一提议不太可能被包括在美国和解法案中。",
+            "date_modified": "2021-10-25T19:16:11.000Z"
+        },
+        {
             "id": 2365600,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-10-26/detail-iktzscyy1760702.d.html",
@@ -348,69 +404,6 @@
             "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3505207.d.html",
             "title": "美国驻伊朗特使：对美国来说，伊朗遵守对国际原子能机构（IAEA）的承诺至关重要。",
             "date_modified": "2021-10-25T14:18:33.000Z"
-        },
-        {
-            "id": 2365505,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740957.d.html",
-            "title": "美国驻伊朗特使：外交的窗口永远不会关闭，问题是核协议能否恢复。",
-            "date_modified": "2021-10-25T14:16:54.000Z"
-        },
-        {
-            "id": 2365504,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504852.d.html",
-            "title": "美国驻伊朗特使：如果对伊朗的外交努力失败，美国还有“其他工具”  。",
-            "date_modified": "2021-10-25T14:14:00.000Z"
-        },
-        {
-            "id": 2365503,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504826.d.html",
-            "title": "美国驻伊朗特使：美国越来越担心伊朗会继续拖延重启核谈判或提出过多要求。",
-            "date_modified": "2021-10-25T14:13:35.000Z"
-        },
-        {
-            "id": 2365502,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504814.d.html",
-            "title": "美国总统拜登的能源安全顾问表示，绿色能源转型并没有导致欧洲和其他地方的天然气危机。",
-            "date_modified": "2021-10-25T14:13:29.000Z"
-        },
-        {
-            "id": 2365501,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzqtyu3504695.d.html",
-            "title": "美国驻伊朗特使：未来几天或几周将就伊朗问题展开更密集的外交活动。",
-            "date_modified": "2021-10-25T14:12:11.000Z"
-        },
-        {
-            "id": 2365499,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740525.d.html",
-            "title": "美国驻伊朗特使：倾向于通过外交手段恢复核协议，并寻求与伊朗进行经济接触的途径。",
-            "date_modified": "2021-10-25T14:11:55.000Z"
-        },
-        {
-            "id": 2365498,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740516.d.html",
-            "title": "  【指南针通过管理人初筛 与好买财富争夺网信证券重整投资人资格】继好买财富之后，指南针成为第二家官宣通过网信证券重整投资人初筛的上市公司。指南针25日发布公告称，公司已通过管理人的初步筛选，并与管理人签署了《保密协议》，后续公司将按照管理人的要求开展尽职调查与接受反向尽职调查事宜。 目前，官宣参与网信证券破产重整的上市公司中，仅有瑞达期货未发布通过初筛的公告。",
-            "date_modified": "2021-10-25T14:11:47.000Z"
-        },
-        {
-            "id": 2365497,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1740271.d.html",
-            "title": "市场消息：巴西国家石油公司宣布上调柴油价格。",
-            "date_modified": "2021-10-25T14:10:07.000Z"
-        },
-        {
-            "id": 2365496,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-10-25/detail-iktzscyy1739802.d.html",
-            "title": "美国驻伊朗特使：核谈判处于“关键阶段”。",
-            "date_modified": "2021-10-25T14:06:29.000Z"
         }
     ]
 }
