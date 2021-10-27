@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 27 Oct 2021 19:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 20:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国民主党议员Kildee：认为民主党投资法案的最终额度将低于2万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzscyy2167155.d.html</link>
+            <guid>2369546</guid>
+            <pubDate>Wed, 27 Oct 2021 20:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车：半导体供应仍然是一个挑战，但较第二季度明显改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzscyy2166816.d.html</link>
+            <guid>2369542</guid>
+            <pubDate>Wed, 27 Oct 2021 20:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特汽车（F）三季度调整后EPS为0.51美元，分析师预期0.27美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzqtyu3930493.d.html</link>
+            <guid>2369535</guid>
+            <pubDate>Wed, 27 Oct 2021 20:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能源分析师Vincent Piazza：预计天然气价格将在冬季来临前几周上涨】截至10月22日当周美国的天然气储量可能低于上周的920亿立方英尺，但远高于五年标准的620亿立方英尺。目前产量下降超过4.33亿立方英尺/日，这看起来相当不乐观，活动趋势表明在短期内产量应该会更高。尽管用于发电的天然气使用量有所下降，但由于住宅和商业需求受天气影响大幅上升，天然气消费量较前一周上涨逾5.57亿立方英尺/日。对液化天然气的需求依然强劲，日均净流量平均为107亿立方英尺，并可能随着冬季需求的增加而增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzqtyu3929235.d.html</link>
+            <guid>2369527</guid>
+            <pubDate>Wed, 27 Oct 2021 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：美国棉花期货每日价格限制扩大至5美分/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzscyy2164686.d.html</link>
+            <guid>2369516</guid>
+            <pubDate>Wed, 27 Oct 2021 19:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【调查显示美国民众假日消费计划受到通胀影响】世界大型企业研究会周三表示，消费者的假日消费意向略低于2020年，部分反映了物价上涨和供应链方面的挑战。食品、装饰和包装纸等非礼品类假日用品的支出预计将达到374美元，这可能解释了礼品支出的下降，因消费者转向更多社交活动。“这些消费意图可能会受到严重的供应链挑战和运输问题的阻碍，”世界大型企业研究会经济指标高级主管Lynn Franco表示，“如果这些问题持续存在，美国可能会面临货架缺货，从而导致更多购物者网购且无法及时收到产品。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzscyy2164449.d.html</link>
+            <guid>2369510</guid>
+            <pubDate>Wed, 27 Oct 2021 19:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数迅速下挫至日低，现跌0.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzqtyu3927636.d.html</link>
+            <guid>2369496</guid>
+            <pubDate>Wed, 27 Oct 2021 19:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Wyden：富人税还未（从拜登经济议程中）彻底排除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzqtyu3927605.d.html</link>
+            <guid>2369477</guid>
+            <pubDate>Wed, 27 Oct 2021 19:13:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[利比亚国家石油公司：利比亚Sidra油田产量降至7.7万桶/日，降幅为72%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-28/detail-iktzscyy2163463.d.html</link>
@@ -270,48 +318,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzscyy2146552.d.html</link>
             <guid>2369278</guid>
             <pubDate>Wed, 27 Oct 2021 14:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)首席财务官：公司明年将再次开始增加库存，但不会达到历史水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzscyy2146366.d.html</link>
-            <guid>2369276</guid>
-            <pubDate>Wed, 27 Oct 2021 14:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据London&Partners和Dealroom.co的数据，过去五年对全球气候技术的风险投资增长了五倍多，从2016年的66亿美元大幅攀升至今年的323亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3910378.d.html</link>
-            <guid>2369275</guid>
-            <pubDate>Wed, 27 Oct 2021 14:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：777X首次交付预计仍将在2023年底。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3910231.d.html</link>
-            <guid>2369274</guid>
-            <pubDate>Wed, 27 Oct 2021 14:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国将开始与印太伙伴就区域经济框架进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3910118.d.html</link>
-            <guid>2369271</guid>
-            <pubDate>Wed, 27 Oct 2021 14:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：波音已经交付了450架Max飞机的三分之一库存。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3909891.d.html</link>
-            <guid>2369268</guid>
-            <pubDate>Wed, 27 Oct 2021 14:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：复苏势头正在增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3909872.d.html</link>
-            <guid>2369267</guid>
-            <pubDate>Wed, 27 Oct 2021 14:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国上周汽油库存跌至2017年11月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-27/detail-iktzqtyu3909678.d.html</link>
-            <guid>2369265</guid>
-            <pubDate>Wed, 27 Oct 2021 14:37:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
