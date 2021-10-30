@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Oct 2021 18:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 19:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[叙利亚防空系统拦截了以色列发射的2枚导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4503393.d.html</link>
+            <guid>2375401</guid>
+            <pubDate>Sat, 30 Oct 2021 19:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国航空公司因人手不足取消了接近400个航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzscyy2738652.d.html</link>
+            <guid>2375400</guid>
+            <pubDate>Sat, 30 Oct 2021 18:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【责任·担当·行动——习近平主席在二十国集团领导人第十六次峰会第一阶段会议上的重要讲话解读】10月30日，国家主席习近平在北京以视频方式出席二十国集团领导人第十六次峰会第一阶段会议并发表重要讲话，立足当下，放眼长远，全面阐述中方对世界经济形势和全球卫生合作的鲜明立场，围绕全球抗疫、经济复苏提出一系列重大主张，为疫后经济发展和全球治理指明方向，彰显中国作为负责任大国的气魄与担当。高瞻远瞩，以中国主张凝聚全球共识；公平公正，以中国担当维护发展中国家共同利益；以行践言，以中国行动推动合作共赢。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4502450.d.html</link>
+            <guid>2375399</guid>
+            <pubDate>Sat, 30 Oct 2021 18:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国核酸检测机构超1.1万家 便民措施不断落地】国家卫生健康委医政医管局监察专员郭燕红30日在国务院联防联控机制新闻发布会上说，当前我国可开展核酸检测的机构数量已经达到11581家，比去年3月提高4.6倍。目前每天能够检测的数量达到单管单检2910万份，比去年3月提高22.1倍，通过混检的方法，整体检测效率和能力还能实现倍增。]]></title>
+            <guid>2375398</guid>
+            <pubDate>Sat, 30 Oct 2021 18:40:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【声援沙特 阿联酋宣布召回驻黎巴嫩外交官】当地时间10月30日晚，阿联酋外交和国际合作部宣布召回阿联酋驻黎巴嫩外交官。阿联酋国务部长哈利法·沙欣·马拉尔表示，鉴于近期个别黎巴嫩高级官员针对沙特阿拉伯发表令人难以接受的言论，阿联酋决定召回驻黎外交官以声援沙特。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4499378.d.html</link>
@@ -383,12 +406,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2704311.d.html</link>
             <guid>2374715</guid>
             <pubDate>Sat, 30 Oct 2021 11:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前三季度我国海洋生产总值6.2万亿元同比增长9.5%】 前三季度，我国海洋经济复苏进程稳健，市场需求逐步回升。初步核算，前三季度海洋生产总值6.2万亿元，同比增长9.5%，两年平均增长2.1%。海上风电新增并网容量215万千瓦，同比增长166.0%。海洋药物和生物制品业效益增势良好，有超过七成的重点联系企业营业收入实现同比增长，且有接近两成企业的营业收入增长率在30%以上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2701933.d.html</link>
-            <guid>2374710</guid>
-            <pubDate>Sat, 30 Oct 2021 10:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
