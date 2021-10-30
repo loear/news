@@ -4,15 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Oct 2021 01:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 02:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【快手CEO宿华职位调整，或因用户新增不利，未来发力社区】10月29日快手联合创始人宿华官宣职位调整，新京报贝壳财经独家获悉，调整原因或是快手大股东不满上市后用户新增。“主要原因是，股东对快手这两年在用户增长方面的数据不满意，更倾向于尝试做社区运营”，一位二级市场分析师告诉贝壳财经。两位快手离职中层告诉贝壳财经，快手应用的平均日活在赞助春晚后突破3亿，但随后一直在3亿上下波动，并未有明显增长，这成为快手高层的焦虑。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2626712.d.html</link>
+            <guid>2373668</guid>
+            <pubDate>Sat, 30 Oct 2021 02:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国棉花交易市场：调整2021年中央储备棉投放销售底价】据全国棉花交易市场消息，自2021年11月1日起，2021年投放储备棉中地产棉的销售底价计算方式调整为与国际市场棉花现货价格挂钩联动，即：本周地产储备棉销售底价（折标准级3128B）=上一周国际市场棉花现货价格指数算术平均值，其余储备棉的投放销售底价计算方式不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2625085.d.html</link>
+            <guid>2373665</guid>
+            <pubDate>Sat, 30 Oct 2021 02:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【六大行三季报出炉：平均日赚超35亿元 净利润均实现两位数增长】截至10月29日晚间，六大行2021年三季报悉数出炉。据统计，六大行前三季度实现归母净利润合计为9630.73亿元，同比增长13.16%。以270天计算，六大行前三季度平均日赚35.67亿元。不同于部分上市股份行净利润增速同比出现负增长，整体来看，六大行前三季度均实现营收、净利双升。与此同时，不良率均较上年末实现下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4388519.d.html</link>
+            <guid>2373663</guid>
+            <pubDate>Sat, 30 Oct 2021 02:02:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[铁路部门：停减涉疫地区旅客列车，停、限涉疫地区车站进京车票发售；对停开、停售前已售出的相关车票，实行免费退票。（央视）]]></title>
             <guid>2373660</guid>
             <pubDate>Sat, 30 Oct 2021 01:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅同意大利外交与国际合作部长迪马约举行会谈】当地时间2021年10月29日，国务委员兼外长王毅在罗马同意大利外交与国际合作部长迪马约举行会谈。王毅表示，中方愿继续扩大双方务实合作，推进能源、航空航天、通信、绿色、数字、农业等领域互利合作。希望意方为中资企业提供开放、公平、非歧视的营商环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2621807.d.html</link>
+            <guid>2373659</guid>
+            <pubDate>Sat, 30 Oct 2021 01:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【宏发股份：前三季度净利润同比增长37.44%】宏发股份(600885)披露2021年度三季度报告：1-9月实现营业收入75.64亿元，同比增长39.12%；实现归属上市公司股东的净利润8.21亿元，同比增长37.44%；基本每股收益为1.10元/股。季报显示，年初至报告期末营业收入大增，主要系报告期内通用、汽车、新能源继电器等产品销售收入增长所致。]]></title>
@@ -328,24 +352,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2589696.d.html</link>
             <guid>2373565</guid>
             <pubDate>Fri, 29 Oct 2021 20:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巨头扩产缓解芯片荒，存储市场价格松动】第三季度作为电子行业的传统旺季，但今年下游市场需求疲弱的担忧始终笼罩着整个行业，盘面上半导体板块出现了阶段性回调。其中，代表性的半导体存储供需出现拐点，行业预测DRAM、NAND Flash将进入跌价周期。另一方面，面对芯片短缺，国际巨头持续扩产，而国产存储头部梯队企业在第三季度业绩普遍向好，加快了产品迭代以及产业链的纵深联合，并积极布局汽车等市场。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2589689.d.html</link>
-            <guid>2373564</guid>
-            <pubDate>Fri, 29 Oct 2021 20:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿拉伯电视台：巴林命令黎巴嫩大使在48小时内离开该国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2589097.d.html</link>
-            <guid>2373561</guid>
-            <pubDate>Fri, 29 Oct 2021 20:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表办公室（USTR）：美国贸易代表戴琪将于11月访问日本、韩国和印度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2588966.d.html</link>
-            <guid>2373559</guid>
-            <pubDate>Fri, 29 Oct 2021 20:36:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
