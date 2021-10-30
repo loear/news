@@ -4,11 +4,102 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Oct 2021 08:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 09:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【芯片正式断供一年后 华为手机份额滑至第十 赚钱业务转向哪儿？】10月29日，华为发布2021年前三季度成绩单。今年前三季度，华为实现销售收4558亿元人民币，比2020年前三季度减少了2155亿元，下滑32%。但需要提及的是，今年前三季度华为10.2%的净利润率比去年同期高出了2.2百分点，也高于今年上半年的9.8%。（华夏时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2688807.d.html</link>
+            <guid>2374676</guid>
+            <pubDate>Sat, 30 Oct 2021 09:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前10月最高涨幅超过104%！这类基金又霸屏 能追高吗？】今年前10月业绩收官，多只主动权益类基金(普通股票型、偏股混合型、灵活配置型、平衡混合型)交出了亮丽的成绩单。数据显示，今年以来，主动权益类基金平均收益率近7.8%。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4452603.d.html</link>
+            <guid>2374675</guid>
+            <pubDate>Sat, 30 Oct 2021 09:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人在回应能源价格飙升时表示，他们将确保“稳定和不间断的能源供应”。]]></title>
+            <guid>2374672</guid>
+            <pubDate>Sat, 30 Oct 2021 09:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人表示，到2021年底，将停止对国外新建燃煤电厂的国际公共财政支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2687547.d.html</link>
+            <guid>2374671</guid>
+            <pubDate>Sat, 30 Oct 2021 09:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20集团领导人承诺采取具体措施，制止不受管制的捕鱼、非法伐木、非法采矿和非法野生动物贸易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2687112.d.html</link>
+            <guid>2374669</guid>
+            <pubDate>Sat, 30 Oct 2021 09:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【精锻科技：天津和重庆的齿轮项目今年已开始投产并释放产能】精锻科技在互动平台表示，现在建项目主要有江苏公司新能源汽车轻量化关键零部件生产项目，天津公司传动齿轮项目、模具及差速器总成项目，宁波公司新能源汽车燃油控制相关器及电磁阀项目，重庆公司高端精密齿轮制造项目。其中天津和重庆的齿轮项目今年已开始投产并释放产能，其它项目从2022年开始将陆续有项目建成投产，并释放产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2687067.d.html</link>
+            <guid>2374668</guid>
+            <pubDate>Sat, 30 Oct 2021 09:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人承诺在“中期”逐步取消低效的化石燃料补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2686899.d.html</link>
+            <guid>2374667</guid>
+            <pubDate>Sat, 30 Oct 2021 09:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人强调兑现到2025年每年为发展中国家筹集1000亿美元的承诺的“重要性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4450673.d.html</link>
+            <guid>2374666</guid>
+            <pubDate>Sat, 30 Oct 2021 08:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人认可“在本世纪中叶实现全球温室气体净零排放或碳中和具有关键意义”。]]></title>
+            <guid>2374665</guid>
+            <pubDate>Sat, 30 Oct 2021 08:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人表示，将继续致力于将全球变暖幅度控制在“远低于”2摄氏度的水平，并将“努力控制在1.5摄氏度以内”。]]></title>
+            <guid>2374664</guid>
+            <pubDate>Sat, 30 Oct 2021 08:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：二十国集团领导人将承诺在2030年之前确保全球至少30%的陆地和海洋得到保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4450409.d.html</link>
+            <guid>2374663</guid>
+            <pubDate>Sat, 30 Oct 2021 08:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内蒙古全区暂停铁路公路口岸客运功能】据内蒙古自治区口岸办副主任杜成福介绍，目前全区铁路、公路口岸客运功能全部暂停。满洲里铁路和公路口岸，二连浩特铁路和公路口岸，甘其毛都、策克、满都拉、珠恩嘎达布其、额布都格公路口岸保持货运通行。二连浩特公路、策克和珠恩嘎达布其口岸暂停通关业务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4450025.d.html</link>
+            <guid>2374662</guid>
+            <pubDate>Sat, 30 Oct 2021 08:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人认可“在本世纪中叶实现全球温室气体净零排放或碳中和具有关键意义”。]]></title>
+            <guid>2374661</guid>
+            <pubDate>Sat, 30 Oct 2021 08:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G20公报草案：G20领导人表示，将继续致力于将全球变暖幅度控制在“远低于”2摄氏度的水平，并将“努力控制在1.5摄氏度以内”。]]></title>
+            <guid>2374660</guid>
+            <pubDate>Sat, 30 Oct 2021 08:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西桂林临桂区政府与数字政通、通通易联战略合作签约】近日，广西省桂林市临桂区区长何兵一行莅临数字政通参观考察，并与数字政通及数字政通旗下专注于智慧停车的子公司通通易联签订战略合作协议。将进一步深化合作，打造智慧城市产业联盟，共同推动智慧城市产业升级，实现双方精诚合作、互相支持、共同发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2684474.d.html</link>
+            <guid>2374658</guid>
+            <pubDate>Sat, 30 Oct 2021 08:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【当上新能源电池概念股 湖北宜化三季度扣非净利大增852%】磷酸铁锂的爆发，令湖北宜化(000422.SZ)不止受益主营产品的涨价周期，也骤然有了新能源电池概念的想象空间，公司的股价也一路高歌猛进。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4448128.d.html</link>
+            <guid>2374657</guid>
+            <pubDate>Sat, 30 Oct 2021 08:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：斐济发生5.2级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2681085.d.html</link>
@@ -260,77 +351,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4397478.d.html</link>
             <guid>2373819</guid>
             <pubDate>Sat, 30 Oct 2021 02:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃兰州第四轮大规模核酸检测累计排查阳性5例】甘肃省兰州市副市长杨德智介绍，兰州市已全面完成第四轮大规模核酸检测。从28日8时起，28个小时内完成了主城区第四轮大规模核酸检测，共采样236.11万人，累计排查阳性5例，于今日开展城关区、七里河区、安宁区第五轮大规模核酸检测。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4396262.d.html</link>
-            <guid>2373775</guid>
-            <pubDate>Sat, 30 Oct 2021 02:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家电网辛保安董事长会见中国科学院院士潘建伟】昨日，国家电网有限公司董事长、党组书记辛保安在公司总部会见了中国科学院院士、合肥国家实验室主任、中国科技大学常务副校长潘建伟。辛保安表示，希望潘院士及团队充分发挥在量子科技领域的专业优势，积极参与公司智能量测、先进通信等领域重大科技攻关，持续提升电力系统安全控制水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4393778.d.html</link>
-            <guid>2373683</guid>
-            <pubDate>Sat, 30 Oct 2021 02:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微创集团投资控股阿格斯 加强泛血管领域精准医疗多维度布局】10月29日，微创医疗科学有限公司与苏州阿格斯医疗技术有限公司（简称“阿格斯”）及相关方签署协议，以总计人民币3.723亿元的代价通过直接投资阿格斯及收购现有股东部分股权，取得阿格斯51%控股权。微创将全权负责阿格斯产品的市场推广应用，此举将进一步加强微创在血管介入成像领域产品的多重布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2629019.d.html</link>
-            <guid>2373681</guid>
-            <pubDate>Sat, 30 Oct 2021 02:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快手CEO宿华职位调整，或因用户新增不利，未来发力社区】10月29日快手联合创始人宿华官宣职位调整，新京报贝壳财经独家获悉，调整原因或是快手大股东不满上市后用户新增。“主要原因是，股东对快手这两年在用户增长方面的数据不满意，更倾向于尝试做社区运营”，一位二级市场分析师告诉贝壳财经。两位快手离职中层告诉贝壳财经，快手应用的平均日活在赞助春晚后突破3亿，但随后一直在3亿上下波动，并未有明显增长，这成为快手高层的焦虑。（贝壳财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2626712.d.html</link>
-            <guid>2373668</guid>
-            <pubDate>Sat, 30 Oct 2021 02:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部：减少艺术类校考专业范围， 逐步提高文化课录取要求】教育部办公厅日前下发《关于做好2022年普通高等学校部分特殊类型招生工作的通知》。通知提出，高校要进一步减少艺术类校考专业范围。高校部分艺术类专业确需组织现场考试的，应积极采取线上考试或使用省级统考成绩进行初选等方式，严格控制现场考试规模。要按照相关改革文件要求，进一步提高相关考生的专项测试成绩和文化课成绩录取要求。实施高考综合改革及合并本科批次的省份，有关特殊类型招生录取文化课最低控制分数线不得低于改革前的相应要求。中央部门所属高校要发挥示范带头作用，逐步提高文化课成绩录取要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4390062.d.html</link>
-            <guid>2373666</guid>
-            <pubDate>Sat, 30 Oct 2021 02:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国棉花交易市场：调整2021年中央储备棉投放销售底价】据全国棉花交易市场消息，自2021年11月1日起，2021年投放储备棉中地产棉的销售底价计算方式调整为与国际市场棉花现货价格挂钩联动，即：本周地产储备棉销售底价（折标准级3128B）=上一周国际市场棉花现货价格指数算术平均值，其余储备棉的投放销售底价计算方式不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2625085.d.html</link>
-            <guid>2373665</guid>
-            <pubDate>Sat, 30 Oct 2021 02:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【六大行三季报出炉：平均日赚超35亿元 净利润均实现两位数增长】截至10月29日晚间，六大行2021年三季报悉数出炉。据统计，六大行前三季度实现归母净利润合计为9630.73亿元，同比增长13.16%。以270天计算，六大行前三季度平均日赚35.67亿元。不同于部分上市股份行净利润增速同比出现负增长，整体来看，六大行前三季度均实现营收、净利双升。与此同时，不良率均较上年末实现下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4388519.d.html</link>
-            <guid>2373663</guid>
-            <pubDate>Sat, 30 Oct 2021 02:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铁路部门：停减涉疫地区旅客列车，停、限涉疫地区车站进京车票发售；对停开、停售前已售出的相关车票，实行免费退票。（央视）]]></title>
-            <guid>2373660</guid>
-            <pubDate>Sat, 30 Oct 2021 01:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同意大利外交与国际合作部长迪马约举行会谈】当地时间2021年10月29日，国务委员兼外长王毅在罗马同意大利外交与国际合作部长迪马约举行会谈。王毅表示，中方愿继续扩大双方务实合作，推进能源、航空航天、通信、绿色、数字、农业等领域互利合作。希望意方为中资企业提供开放、公平、非歧视的营商环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2621807.d.html</link>
-            <guid>2373659</guid>
-            <pubDate>Sat, 30 Oct 2021 01:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宏发股份：前三季度净利润同比增长37.44%】宏发股份(600885)披露2021年度三季度报告：1-9月实现营业收入75.64亿元，同比增长39.12%；实现归属上市公司股东的净利润8.21亿元，同比增长37.44%；基本每股收益为1.10元/股。季报显示，年初至报告期末营业收入大增，主要系报告期内通用、汽车、新能源继电器等产品销售收入增长所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2620839.d.html</link>
-            <guid>2373658</guid>
-            <pubDate>Sat, 30 Oct 2021 01:39:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【统计局：前三季度全国规模以上文化及相关产业企业实现营业收入同比增长21.8%】国家统计局数据显示，前三季度，全国规模以上文化及相关产业企业实现营业收入84205亿元，比上年同期增长21.8%，两年平均增长10.0%，比2019年前三季度同比增速加快2.4个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzscyy2619659.d.html</link>
-            <guid>2373655</guid>
-            <pubDate>Sat, 30 Oct 2021 01:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【周期股三季报“惊艳” 高景气驱动业绩爆发】三季度最炙手可热的当属周期股。从业绩数据来看，煤炭、化工、有色金属等多个周期性行业在三季度迎来业绩大爆发，导致周期板块前三季度的总体净利润水平较去年同期增长超过130%；从市场表现来看，Wind二级行业中的能源和公用事业板块三季度的涨幅均超过30%，概念指数涨幅前10名的也大都与周期股相关，其中锂矿、盐湖提锂和磷化工三季度涨幅分别为110.34%、90.04%和85.05%。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-30/detail-iktzqtyu4381292.d.html</link>
-            <guid>2373653</guid>
-            <pubDate>Sat, 30 Oct 2021 01:18:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
