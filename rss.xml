@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 31 Oct 2021 02:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 03:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【兰州城关区对两个街道相关区域实行严格管控】当前，兰州市城关区东岗西路街道和团结新村街道部分区域发生多例确诊病例，兰州市城关区决定对以上两个街道相关区域实行严格管控。所有居民小区、楼、院实行封闭式管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzscyy2786965.d.html</link>
+            <guid>2376621</guid>
+            <pubDate>Sun, 31 Oct 2021 03:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自31日0时起，江西上饶市铅山县葛仙山镇被划定为中风险区域，区域内居民严格实施居家隔离。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4549032.d.html</link>
+            <guid>2376620</guid>
+            <pubDate>Sun, 31 Oct 2021 03:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中比科技交流研讨会在布鲁塞尔举行】第三届中比科技交流研讨会10月29日至30日一连两天在布鲁塞尔举行，与会嘉宾聚焦生命科学、人工智能、气候变化、绿色建筑等热门主题，力求拓展中比科技合作空间，争取双赢多赢。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4546434.d.html</link>
+            <guid>2376617</guid>
+            <pubDate>Sun, 31 Oct 2021 02:47:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【再创历史新高 美墨边境移民死亡人数达557人】据美国有线电视新闻网的报道，美国边境巡逻队28日公布的数据显示，在2021财年，美国西南部边境，也就是美墨边境移民死亡人数创新高，达到557人，比上一财年增长一倍还多。媒体称，这一数字并不能真实地反映美墨边境的情况，真实的移民死亡数字可能还会更高。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzscyy2779462.d.html</link>
@@ -356,24 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4495945.d.html</link>
             <guid>2375213</guid>
             <pubDate>Sat, 30 Oct 2021 17:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北交所发布上市与审核4件基本业务规则及6件配套细则和指引】北交所发布上市与审核4件基本业务规则及6件配套细则和指引，自11月15日起施行。公开发行并上市方面，总体平移精选层关于盈利能力、成长性、市场认可度、研发能力等晋层标准作为上市条件，保持包容性和精准性；发行承销制度保留询价、直接定价等多样化发行定价方式。上市公司融资并购方面，构建普通股、优先股、可转债并行的多元化融资工具体系。在发行机制上明确上市公司证券发行需由证券公司保荐承销，明确主承销商在发行定价、发售过程中责任，同时引入竞价发行机制；设立并购重组委员会，提高重组审核专业性和透明度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4495834.d.html</link>
-            <guid>2375212</guid>
-            <pubDate>Sat, 30 Oct 2021 16:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：美国总统拜登明天将与土耳其总统埃尔多安会面，讨论叙利亚、利比亚与S400导弹系统的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzscyy2731821.d.html</link>
-            <guid>2375206</guid>
-            <pubDate>Sat, 30 Oct 2021 16:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：拜登在G20峰会上表达了对能源成本的担忧，呼吁在能源转型过程中增加能源供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-10-31/detail-iktzqtyu4494728.d.html</link>
-            <guid>2375190</guid>
-            <pubDate>Sat, 30 Oct 2021 16:46:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
