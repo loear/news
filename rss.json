@@ -6,6 +6,27 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2379164,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu4852346.d.html",
+            "title": "【国际原油期货结算价涨约1%】国际原油期货结算价涨约1%，WTI 12月原油期货收涨0.48美元，涨幅0.57%，报84.05美元/桶。 布伦特1月原油期货收涨0.99美元，涨幅1.18%，报84.71美元/桶。 NYMEX 12月天然气期货收跌超4.42%，报5.1860美元/百万英热单位。",
+            "date_modified": "2021-11-01T19:09:44.000Z"
+        },
+        {
+            "id": 2379163,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu4852192.d.html",
+            "title": "【6个东盟国家已完成RCEP核准程序】泰国副总理兼商务部长朱林当地时间11月1日表示，泰国与新加坡、文莱、老挝、柬埔寨、越南共6个东盟国家已于10月28日提交了《区域全面经济伙伴关系协定》（RCEP）核准书。根据规定，该协定签署国中，10个东盟成员国中至少有6个国家、5个非东盟成员国中至少有3个国家核准通过，该协定即可正式生效。预计该协定将于2022年1月1日如期生效。（央视新闻）",
+            "date_modified": "2021-11-01T19:07:40.000Z"
+        },
+        {
+            "id": 2379158,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3087678.d.html",
+            "title": "电动汽车初创公司Rivian将美国IPO的估值目标设在略高于600亿美元。（道琼斯新闻）",
+            "date_modified": "2021-11-01T18:57:12.000Z"
+        },
+        {
             "id": 2379153,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu4848979.d.html",
@@ -337,48 +358,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzqtyu4833238.d.html",
             "title": "  希望教育(01765.HK)：截至2021年11月1日，今年新招生人数为82564，同比增长15.08%；在校生人数为23.2059万，同比增长19.28%。",
             "date_modified": "2021-11-01T14:37:15.000Z"
-        },
-        {
-            "id": 2379063,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzscyy3069163.d.html",
-            "title": "【俄将在国际空间站进行晶体生成实验】 俄罗斯国家航天集团官网11月1日发布消息说，将在国际空间站俄罗斯“科学”号多功能实验舱中进行微重力条件下的晶体生成实验。实验旨在利用太空中独特的微重力条件，探究晶体在旋转磁场中生成情况，并与陆地条件下生成的晶体进行性能比较。俄国家航天集团表示，在微重力条件下获得具有均匀电物理性能的晶体材料是可能的。旋转磁场能够改善晶体的径向和轴向均匀性。因此，预计在空间站中生成的晶体可能具有更好的轴对称性。实验所得的晶体材料可以用于微电子和医疗技术、计算机断层扫描以及标准晶体制造。（新华社）",
-            "date_modified": "2021-11-01T14:35:54.000Z"
-        },
-        {
-            "id": 2379062,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzqtyu4832828.d.html",
-            "title": "乌克兰总统泽连斯基与德国前总理默克尔讨论了顿巴斯冲突、欧洲能源危机。",
-            "date_modified": "2021-11-01T14:33:22.000Z"
-        },
-        {
-            "id": 2379060,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzqtyu4832763.d.html",
-            "title": "  韦德布什：将Coinbase(COIN.O)目标价从300美元上调至380美元。",
-            "date_modified": "2021-11-01T14:32:46.000Z"
-        },
-        {
-            "id": 2379058,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzqtyu4832362.d.html",
-            "title": "  美股激光雷达概念股全线上行。维视图像(MVIS.O)涨8%，Luminar(LAZR.O)、Velodyne(VLDR.O)涨超4%。",
-            "date_modified": "2021-11-01T14:29:16.000Z"
-        },
-        {
-            "id": 2379057,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzscyy3068361.d.html",
-            "title": "【标普500指数转跌，成分股苹果跌超0.8%】标普500指数其他成分股中，咨询公司Willis Towers Waston跌超3.0%，标普全球跌超2.6%，谷歌A跌超1.5%，微软跌1.3%，甲骨文跌超1.2%，英特尔、Visa、特斯拉、雪佛龙、麦当劳、波音、埃克森美孚、FISV等则维持超过1.0%的涨幅，Meta平台（FB，原Facebook）涨约2.6%，星巴克涨3.1%。",
-            "date_modified": "2021-11-01T14:28:15.000Z"
-        },
-        {
-            "id": 2379055,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-01/detail-iktzqtyu4832268.d.html",
-            "title": "巴西环境部长：巴西将在2050年达成碳中和目标。",
-            "date_modified": "2021-11-01T14:27:42.000Z"
         }
     ]
 }
