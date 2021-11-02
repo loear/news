@@ -6,6 +6,89 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2380728,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5046789.d.html",
+            "title": "  据CNBC：耐克已经提交了七项商标申请，准备进入元宇宙。",
+            "date_modified": "2021-11-02T16:10:01.000Z"
+        },
+        {
+            "id": 2380727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3282146.d.html",
+            "title": "意大利能源转型部长：未来几年我们无法想象没有天然气的日子。",
+            "date_modified": "2021-11-02T16:02:59.000Z"
+        },
+        {
+            "id": 2380718,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3281365.d.html",
+            "title": "消息人士：哈萨克斯坦10月份的石油产量比9月份增加了15%，达到159.8万桶/日，超过了欧佩克+的配额。",
+            "date_modified": "2021-11-02T15:50:17.000Z"
+        },
+        {
+            "id": 2380716,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5045147.d.html",
+            "title": "【北交所：新三板精选层平移北交所当日，其股票交易实施30%的涨跌幅限制】今天，11月2日，北京证券交易所发布了2件基本业务规则，加上此前发布的几项，至此北交所7件基本业务规则已全部发布完毕。明确了全国中小企业股份转让系统精选层挂牌公司平移为北交所上市公司。平移当日其股票交易实施30%的涨跌幅限制，以精选层最后一个交易日收盘价为其前收盘价。（央视网）",
+            "date_modified": "2021-11-02T15:47:10.000Z"
+        },
+        {
+            "id": 2380715,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5044898.d.html",
+            "title": "中国结算北京分公司发布关于修订并发布部分业务规则的通知。",
+            "date_modified": "2021-11-02T15:43:03.000Z"
+        },
+        {
+            "id": 2380713,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5044781.d.html",
+            "title": "英国能源监管机构（Ofgem）：Omni能源、MA能源、Zebra能源停止交易；上述供应商的客户将更换为由OFGEM选择的新能源供应商。",
+            "date_modified": "2021-11-02T15:41:13.000Z"
+        },
+        {
+            "id": 2380711,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3280531.d.html",
+            "title": "【北交所：投资者参与询价、申购时 每一个申购单位为100股】北交所和中国证券登记结算有限责任公司共同制定了《北京证券交易所股票向不特定合格投资者公开发行与承销业务实施细则》，提出，投资者参与询价、申购时，每一个申购单位为100股，申购数量应当为100股或其整数倍，且不得超过9999.99万股，如超过则该笔申报无效。",
+            "date_modified": "2021-11-02T15:36:29.000Z"
+        },
+        {
+            "id": 2380710,
+            "content_html": "",
+            "title": "  美股社交媒体板块下挫。Pinterest(PINS.N)跌3%，Snap(SNAP.N)、挚文集团(MOMO.O)跌超2%，推特(TWTR.N)跌1.7%。",
+            "date_modified": "2021-11-02T15:36:21.000Z"
+        },
+        {
+            "id": 2380709,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5044388.d.html",
+            "title": "市场计划：11月黑海CPC原油出口从初步计划的554万吨下调至532万吨。",
+            "date_modified": "2021-11-02T15:35:33.000Z"
+        },
+        {
+            "id": 2380708,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5044321.d.html",
+            "title": "北交所发布关于《北京证券交易所上市公司证券发行与承销业务指引》的公告。",
+            "date_modified": "2021-11-02T15:34:23.000Z"
+        },
+        {
+            "id": 2380705,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5044008.d.html",
+            "title": "  英伟达(NVDA.O)涨2%，续刷历史新高。",
+            "date_modified": "2021-11-02T15:29:54.000Z"
+        },
+        {
+            "id": 2380698,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5043105.d.html",
+            "title": "  恒天然：11月2日全球乳品贸易（GDT）拍卖价格指数上涨4.3%，奶粉各合同期FAS拍卖均价4207美元/吨。 批发奶粉价格指数上涨2.7%，批发奶粉均价3921美元/吨。",
+            "date_modified": "2021-11-02T15:18:12.000Z"
+        },
+        {
             "id": 2380696,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5042822.d.html",
@@ -308,111 +391,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3268846.d.html",
             "title": "美国总统拜登：就甲烷提出两项新提议，包括管道。",
             "date_modified": "2021-11-02T13:41:14.000Z"
-        },
-        {
-            "id": 2380628,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3268527.d.html",
-            "title": "美国总统拜登：目标是将甲烷排放量减少30%或更多。",
-            "date_modified": "2021-11-02T13:39:59.000Z"
-        },
-        {
-            "id": 2380626,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5032056.d.html",
-            "title": "野村：将福特汽车(F.N)评级下调至减持，目标价13美元。",
-            "date_modified": "2021-11-02T13:37:24.000Z"
-        },
-        {
-            "id": 2380625,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5031997.d.html",
-            "title": "欧盟委员会主席冯德莱恩：欧盟支持独立的甲烷监测实验室。",
-            "date_modified": "2021-11-02T13:37:07.000Z"
-        },
-        {
-            "id": 2380622,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3268081.d.html",
-            "title": "杜邦(DD.N)涨5%，此前公布第三季度业绩，并宣布将以52亿美元收购罗杰斯公司。",
-            "date_modified": "2021-11-02T13:35:57.000Z"
-        },
-        {
-            "id": 2380619,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5031617.d.html",
-            "title": "【日本首相：日本加入全球削减甲烷排放协议】当地时间11月2日，在英国苏格兰格拉斯哥举行的《联合国气候变化框架公约》第26次缔约方大会（COP26）上，日本首相岸田文雄表示，日本将加入削减甲烷排放的全球协议。日本首相岸田文雄表示，日本不仅将削减甲烷排放，而且将尽可能多地应用可再生能源。日本还将把对其他国家应对气候危机的援助资金增加一倍，达到148亿美元。（央视新闻）",
-            "date_modified": "2021-11-02T13:33:38.000Z"
-        },
-        {
-            "id": 2380618,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5031593.d.html",
-            "title": "英国石油(BP.N)跌3.7%，第三季度经调整后净利润超出市场预期，但因天然气价格上涨录得季度亏损。",
-            "date_modified": "2021-11-02T13:33:26.000Z"
-        },
-        {
-            "id": 2380617,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3267790.d.html",
-            "title": "高乐氏(CLX.N)涨2.7%，2022财年Q1业绩超出市场预期。",
-            "date_modified": "2021-11-02T13:33:17.000Z"
-        },
-        {
-            "id": 2380616,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3267732.d.html",
-            "title": "美国气候特使克里：超过100个国家已经加入了甲烷承诺计划。",
-            "date_modified": "2021-11-02T13:32:48.000Z"
-        },
-        {
-            "id": 2380612,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3266641.d.html",
-            "title": "【提价潮蔓延食品板块走强 机构建议关注明年提价行情】今日盘后，恒顺醋业、海欣食品宣布调价，安井食品、海天味业、安琪酵母、恰恰食品等多家食品公司也于近期宣布提价。东兴证券指出，从三季报来看，乳制品、调味品、休闲食品受上游成本上涨影响，毛利率环比有普遍下滑；肉制品毛利率有所恢复，主要是猪肉价格下行带来的成本下行；白酒整体毛利率稳定。受上游原材料上涨的影响，近期一些主流食品企业对商品进行调价，明年上游原材料价格上涨会进一步向下游传导，更多企业有涨价的预期，具有向下游传导价格的能力的企业会更多受益，关注明年提价行情。",
-            "date_modified": "2021-11-02T13:23:20.000Z"
-        },
-        {
-            "id": 2380611,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5030030.d.html",
-            "title": "贝莱德CEO芬克：相信需要一个碳定价工具。",
-            "date_modified": "2021-11-02T13:20:17.000Z"
-        },
-        {
-            "id": 2380610,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5029967.d.html",
-            "title": "GroupOn(GRPN.O)盘前涨7%，此前宣布与谷歌达成新的分销合作伙伴关系。",
-            "date_modified": "2021-11-02T13:19:53.000Z"
-        },
-        {
-            "id": 2380609,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3265938.d.html",
-            "title": "【浙江召开平台企业行政指导会，强调“五加强”“十不得”】11月2日，浙江省平台企业行政指导会召开，会议通报了此前浙江省平台企业自查整改情况，并就“双11”规范经营要求平台企业做到“五加强、十不得”，进一步推进平台经济治理。“五加强”即：加强规则公示、加强商品品控、加强价格监督、加强平台治理、加强售后保障。“十不得”即：不得实施“二选一”，不得进行商业诋毁，不得做引人误解的虚假宣传，不得进行刷单炒信，不得推销质次价高的假冒伪劣商品，不得进行价格欺诈，不得实施大数据杀熟，不得设置霸王条款，不得进行默认搭售，不得侵害消费者个人信息。（中新网）",
-            "date_modified": "2021-11-02T13:18:30.000Z"
-        },
-        {
-            "id": 2380608,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3265894.d.html",
-            "title": "【中国移动全球合作伙伴大会发布短信小程序2.0】记者获悉，11月2日，中移互联网有限公司在2021中国移动全球合作伙伴大会正式发布“短信小程序2.0”产品。在落地应用上，来自中移互联公司消息显示，其内部已有多个业务线的群发类场景接入短信小程序2.0。“短信小程序2.0”向行业展示了5G消息当前阶段的智慧解决方案，同时短信小程序在社交属性和功能上展现出的功能性有望为更多的行业伙伴、垂直客户提供巨大的市场探索空间。（e公司）",
-            "date_modified": "2021-11-02T13:17:56.000Z"
-        },
-        {
-            "id": 2380604,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3265458.d.html",
-            "title": "【石大胜华：参股子公司与关联方拟向盛创新材料合计增资2.96亿元】石大胜华公告，公司参股43.75%的子公司石大富华持有盛创新材料100%股权。投资人拟向盛创新材料合计增资2.957亿元。投资人的直接或间接出资人中包括公司的董事、监事和高级管理人员。本次增资完成后，公司关联方控制的持股平台将合计持有盛创新材料85.54%股权，对应注册资本为2.957亿元，石大富华将持有盛创新材料14.46%股权。",
-            "date_modified": "2021-11-02T13:13:29.000Z"
-        },
-        {
-            "id": 2380603,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3265286.d.html",
-            "title": "市场消息：美国总统拜登与日本首相岸田文雄进行了简短交谈。",
-            "date_modified": "2021-11-02T13:11:20.000Z"
         }
     ]
 }
