@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 02 Nov 2021 17:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 18:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国贸易代表办公室：根据新的金属贸易协定，美国和欧盟将对每年欧盟出口美国的钢铝产品进行分析，以将产品排除在非市场经济体之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3290951.d.html</link>
+            <guid>2380766</guid>
+            <pubDate>Tue, 02 Nov 2021 18:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：向美国总统拜登提出了电动汽车税收抵免的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5053608.d.html</link>
+            <guid>2380762</guid>
+            <pubDate>Tue, 02 Nov 2021 17:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间11月2日，阿富汗临时政府发言人扎比乌拉·穆贾希德发布声明表示，5名对喀布尔军事医院发动袭击的“极端组织”袭击者已被击毙。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5052937.d.html</link>
+            <guid>2380759</guid>
+            <pubDate>Tue, 02 Nov 2021 17:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：英国没有改变其在捕鱼许可证问题上的立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3288937.d.html</link>
+            <guid>2380758</guid>
+            <pubDate>Tue, 02 Nov 2021 17:39:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国首相约翰逊：发达国家在实现1000亿美元的气候融资目标方面仍将滞后。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3287883.d.html</link>
@@ -285,36 +309,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3273045.d.html</link>
             <guid>2380660</guid>
             <pubDate>Tue, 02 Nov 2021 14:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST柏龙：实控人将变更为新疆国资委】ST柏龙公告，公司实际控制人陈伟雄、陈娜娜夫妇将其持有的上市公司29%股份所对应的表决权委托给新疆中泰（集团）有限责任公司。本次表决权委托事项完成后，中泰集团适时将向公司董事会提名选举新的董事及监事。中泰集团将拥有公司单一最高比例表决权，新疆维吾尔自治区人民政府国有资产监督管理委员会将成为公司的实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5036472.d.html</link>
-            <guid>2380657</guid>
-            <pubDate>Tue, 02 Nov 2021 14:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gartner(IT.N)涨9.6%，第三季度营收和净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5036306.d.html</link>
-            <guid>2380656</guid>
-            <pubDate>Tue, 02 Nov 2021 14:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安飞士(CAR.O)日内触发第二次熔断，熔断前涨56.12%，第三季度利润创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5036088.d.html</link>
-            <guid>2380652</guid>
-            <pubDate>Tue, 02 Nov 2021 14:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新华医院已完成排查工作，今晚10时结束闭环管理，自11月3日早8时起，全面恢复各项诊疗服务。 (上观)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3272306.d.html</link>
-            <guid>2380651</guid>
-            <pubDate>Tue, 02 Nov 2021 14:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一起教育科技(YQ.O)涨近4%，该公司将开启一项股份回购计划，在未来12个月内，回购总价值不超过1000万美元的普通股（含美国存托股）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5035774.d.html</link>
-            <guid>2380650</guid>
-            <pubDate>Tue, 02 Nov 2021 14:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
