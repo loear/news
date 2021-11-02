@@ -6,6 +6,81 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2380754,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3287883.d.html",
+            "title": "英国首相约翰逊：发达国家在实现1000亿美元的气候融资目标方面仍将滞后。",
+            "date_modified": "2021-11-02T17:20:31.000Z"
+        },
+        {
+            "id": 2380752,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3287067.d.html",
+            "title": "  奈飞(NFLX.O)小幅走高，涨0.23%，此前一度跌超1%。",
+            "date_modified": "2021-11-02T17:05:55.000Z"
+        },
+        {
+            "id": 2380751,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5050960.d.html",
+            "title": "  奈飞(NFLX.O)：从周二开始，世界各地的用户都可以玩五款手机游戏。",
+            "date_modified": "2021-11-02T17:05:51.000Z"
+        },
+        {
+            "id": 2380750,
+            "content_html": "",
+            "title": "  奈飞(NFLX.O)：宣布推出移动端游戏，游戏可以在安卓平台找到；欢迎世界各地的玩家，会员可以在多个移动设备上玩，游戏对成人开放，而不是儿童。",
+            "date_modified": "2021-11-02T17:04:08.000Z"
+        },
+        {
+            "id": 2380749,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5050718.d.html",
+            "title": "Facebook公告：出于隐私方面的考虑，Facebook将不再使用人脸识别技术。",
+            "date_modified": "2021-11-02T17:03:04.000Z"
+        },
+        {
+            "id": 2380748,
+            "content_html": "",
+            "title": "据《国会山报》援引哈佛大学/哈里斯（Harvard CAPS/Harris Poll）的一项最新民调显示，美国总统拜登的支持率已经跌至43%。（央视新闻）",
+            "date_modified": "2021-11-02T16:59:12.000Z"
+        },
+        {
+            "id": 2380746,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3286380.d.html",
+            "title": "  美股区块链类股普遍上涨，MicroStrategy涨超13.1%，Marathon Digital涨超11.7%，RIOT涨9.4%，BTBT涨约6.3%，BTCM则跌约0.6%，Robinhood跌1.0%，嘉楠耘智跌2.7%，Ideanomics跌3.1%，第九城市跌7.0%。",
+            "date_modified": "2021-11-02T16:57:25.000Z"
+        },
+        {
+            "id": 2380745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3286154.d.html",
+            "title": "  【央地多策齐出 护航产业链供应链稳定畅通】近日工信部、国家发展改革委、商务部等多个部门密集发声，谋划以一揽子政策组合拳促进产业链供应链稳定畅通，包括加快布局建设国家和省级制造业创新中心，实施产业基础再造工程，开展关键产业链补链强链专项行动，进一步补齐产业链供应链短板。与此同时，围绕人工智能、集成电路、新材料等重点领域，新兴产业链布局将进一步加强，多地正加快谋划新一批新兴产业项目，培育产业链“链主”企业，提升产业链供应链现代化水平。",
+            "date_modified": "2021-11-02T16:54:04.000Z"
+        },
+        {
+            "id": 2380743,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3285906.d.html",
+            "title": "中国地震台网自动测定：11月03日00时43分在印尼塔宁巴尔群岛地区附近发生6.3级左右地震，最终结果以正式速报为准。",
+            "date_modified": "2021-11-02T16:51:02.000Z"
+        },
+        {
+            "id": 2380740,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5049399.d.html",
+            "title": "  ICE英国天然气期货收报173.28便士/千卡。",
+            "date_modified": "2021-11-02T16:45:05.000Z"
+        },
+        {
+            "id": 2380739,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzscyy3284756.d.html",
+            "title": "欧盟委员会主席冯德莱恩：希望在COP26峰会上作出更多承诺后，明年能够实现1000亿美元的气候融资目标。",
+            "date_modified": "2021-11-02T16:36:42.000Z"
+        },
+        {
             "id": 2380728,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-03/detail-iktzqtyu5046789.d.html",
@@ -288,109 +363,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5035774.d.html",
             "title": "一起教育科技(YQ.O)涨近4%，该公司将开启一项股份回购计划，在未来12个月内，回购总价值不超过1000万美元的普通股（含美国存托股）。",
             "date_modified": "2021-11-02T14:05:20.000Z"
-        },
-        {
-            "id": 2380647,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5035214.d.html",
-            "title": "联合包裹(UPS.N)：预计本周四到周六将招聘至少6万名季节性员工。",
-            "date_modified": "2021-11-02T14:01:11.000Z"
-        },
-        {
-            "id": 2380646,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5035186.d.html",
-            "title": "罗杰斯(ROG.N)涨近30%，此前杜邦(DD.N)宣布将以52亿美元收购该公司。",
-            "date_modified": "2021-11-02T14:01:03.000Z"
-        },
-        {
-            "id": 2380644,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3271168.d.html",
-            "title": "据国际文传电讯社：俄罗斯联邦安全会议秘书帕特鲁舍夫与美国中情局局长伯恩斯在莫斯科进行了会谈。",
-            "date_modified": "2021-11-02T13:58:11.000Z"
-        },
-        {
-            "id": 2380643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3271133.d.html",
-            "title": "【南岭民爆：披露重组预案 11月3日起复牌】南岭民爆11月2日晚披露发行股份购买资产并募集配套资金暨关联交易预案。公司拟通过发行股份的方式，购买交易对方合计持有的易普力100%股份。截至目前，标的公司的审计和评估工作尚未完成，标的资产评估值及交易作价尚未确定。公司拟向不超过35名符合条件的特定投资者，以询价方式非公开发行股份募集配套资金。本次交易完成后，公司的控股股东将变更为葛洲坝，实际控制人将变更为国务院国资委。本次交易构成重组上市。公司股票将于11月3日开市时起复牌。",
-            "date_modified": "2021-11-02T13:57:51.000Z"
-        },
-        {
-            "id": 2380642,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5034321.d.html",
-            "title": "欧盟委员会主席冯德莱恩：超过80个国家承诺2030年前将甲烷排放量减少30%。",
-            "date_modified": "2021-11-02T13:52:59.000Z"
-        },
-        {
-            "id": 2380641,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5034058.d.html",
-            "title": "美国证交会主席根斯勒：扩大消息的传播可能会增加债券流动性。",
-            "date_modified": "2021-11-02T13:50:52.000Z"
-        },
-        {
-            "id": 2380640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5033864.d.html",
-            "title": "【韩国总统候选人李在明：若当选，将大刀阔斧改革楼市政策】韩联社11月2日报道称，李在明首先提及房地产政策，就高房价向民众致歉。他表示，假使自己当选，绝不会放任房价继续高涨。李在明说，将在此次国会例会上首先推进加强开发利益回收制、预售价格上限制等制度改革，并同党政协商制定大规模房屋供应对策，切实打击通过房地产不劳而获的行为。",
-            "date_modified": "2021-11-02T13:49:57.000Z"
-        },
-        {
-            "id": 2380639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3270017.d.html",
-            "title": "市场消息：美国民主党人提议缩小药品价格谈判框架。",
-            "date_modified": "2021-11-02T13:49:15.000Z"
-        },
-        {
-            "id": 2380638,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3269971.d.html",
-            "title": "美国证交会主席根斯勒：还将发布规则，解决网络券商在向投资者进行线上营销时的潜在利益冲突。",
-            "date_modified": "2021-11-02T13:48:48.000Z"
-        },
-        {
-            "id": 2380637,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5033700.d.html",
-            "title": "【Nuro完成6亿美元D轮融资 Tiger Global Management领投】自动驾驶汽车公司Nuro宣布完成6亿美元D轮融资，由Tiger Global Management领投，Baillie Gifford、Fidelity Management & Research Company, LLC、高榕资本、Google、Kroger、软银愿景基金一期、T. Rowe Price Associates, Inc.旗下基金、丰田汽车旗下基金Woven Capital，以及其他现有股东参与投资。据悉，本轮融资将用于Nuro自动驾驶送货服务在美国社区的发展与部署。",
-            "date_modified": "2021-11-02T13:48:38.000Z"
-        },
-        {
-            "id": 2380636,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzqtyu5033635.d.html",
-            "title": "法拉利(RACE.N)：将于11月中旬推出Icona系列的新车型。",
-            "date_modified": "2021-11-02T13:48:03.000Z"
-        },
-        {
-            "id": 2380635,
-            "content_html": "",
-            "title": "【嘉应制药：股东提请罢免徐胜利非独董和肖义南独董职务议案】嘉应制药公告，股东大连东涛投资有限公司提出临时提案，鉴于非独立董事徐胜利作为专职律师却违规兼职担任公司非独立董事，且其违背董事忠实勤勉义务，提议罢免。独立董事肖义南不独立履行职责，且其履职行为给嘉应制药在公开市场上的声誉造成了严重负面影响，提议罢免。",
-            "date_modified": "2021-11-02T13:47:11.000Z"
-        },
-        {
-            "id": 2380634,
-            "content_html": "",
-            "title": "阿富汗首都喀布尔今天发生的爆炸和枪击事件已造成15人死亡，34人受伤。（央视新闻）",
-            "date_modified": "2021-11-02T13:46:28.000Z"
-        },
-        {
-            "id": 2380631,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3269251.d.html",
-            "title": "【嘉应制药：股东提请罢免徐胜利非独董和肖义南独董职务议案】嘉应制药公告，大连东涛投资有限公司提出临时提案，鉴于非独立董事徐胜利作为专职律师却违规兼职担任公司非独立董事，且其违背董事忠实勤勉义务，提议罢免。独立董事肖义南不独立履行职责，且其履职行为给嘉应制药在公开市场上的声誉造成了严重负面影响，提议罢免。",
-            "date_modified": "2021-11-02T13:43:53.000Z"
-        },
-        {
-            "id": 2380630,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-02/detail-iktzscyy3268846.d.html",
-            "title": "美国总统拜登：就甲烷提出两项新提议，包括管道。",
-            "date_modified": "2021-11-02T13:41:14.000Z"
         }
     ]
 }
