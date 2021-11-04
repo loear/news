@@ -6,6 +6,97 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2385411,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5465493.d.html",
+            "title": "市场消息：英伟达(NVDA.O)股价站上300美元关口，续刷历史高位，现涨超13%。",
+            "date_modified": "2021-11-04T17:18:11.000Z"
+        },
+        {
+            "id": 2385409,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3700266.d.html",
+            "title": "市场消息：加拿大工业部长下周将会见欧洲汽车电池制造商的高管们，以推动在加拿大建立工厂。",
+            "date_modified": "2021-11-04T17:10:38.000Z"
+        },
+        {
+            "id": 2385408,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5465011.d.html",
+            "title": "加拿大工业部长：美国汽车税收抵免将影响美国和加拿大的工人。如果美国国会通过新的电动汽车税收抵免提案，加拿大将做出适当的回应。",
+            "date_modified": "2021-11-04T17:10:28.000Z"
+        },
+        {
+            "id": 2385407,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3699742.d.html",
+            "title": "【英国方面希望美国取消进口商品关税】英国驻华盛顿大使Karen Pierce表示，英国方面希望美国取消所有对英商品关税，并希望尽快开始就降低钢铝关税展开谈判。“我们非常期待就这些问题与美国政府展开对话，”Pierce表示。“英国尚未就讨论设定时间表。我们希望看到所有关税都能被取消。”",
+            "date_modified": "2021-11-04T17:05:00.000Z"
+        },
+        {
+            "id": 2385405,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3698531.d.html",
+            "title": "  【报道称特斯拉与赫兹在10万辆电动汽车交付速度的问题上存在分歧】据《华尔街日报》最新报道，赫兹和特斯拉(TSLA.O)在交付时间上一直存在分歧。知情人士表示，特斯拉预计仍将按定价向赫兹供应10万辆汽车，两家公司正在敲定交易细节，以确定10万辆电动汽车交货时间。特斯拉显然不打算给赫兹任何特殊待遇，赫兹不仅将支付与普通客户相同的价格，而且特斯拉还计划在其常规时间表内交货。 最近，特斯拉将Model 3后轮驱动版（正是赫兹订购的车型）的新订单交付时间推迟到2022年底。",
+            "date_modified": "2021-11-04T16:51:40.000Z"
+        },
+        {
+            "id": 2385404,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3698192.d.html",
+            "title": "【年内第四次：原油涨势遇阻，国内油价调整大概率搁浅】11月5日24时(周六零点)，国内成品油新一轮调价窗口将正式开启。综合机构预测，本轮国内成品油价调整预计将搁浅。这是年内成品油价连续四次上调后面临搁浅预期，预计将成为第四次搁浅。据隆众资讯测算，截至11月4日，原油综合变化率为0.36%，对应上调幅度为15元/吨。目前为调价周期的第9个工作日，搁浅已是大概率事件。今年以来，国内成品油价格已进行二十轮调整，累计“十四涨三跌三搁浅”，汽油价格整体上调2000元/吨，柴油价格整体上调1925元/吨。若本次调整落地，则国内成品油将呈“十四涨三跌四搁浅”的调价格局。（中新经纬）",
+            "date_modified": "2021-11-04T16:47:42.000Z"
+        },
+        {
+            "id": 2385403,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3698061.d.html",
+            "title": "  哥伦比亚10月咖啡（豆）产量同比下滑13%，至101.2万袋。",
+            "date_modified": "2021-11-04T16:46:03.000Z"
+        },
+        {
+            "id": 2385402,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5462834.d.html",
+            "title": "  ICE英国天然气期货收报189.51便士/千卡。",
+            "date_modified": "2021-11-04T16:45:57.000Z"
+        },
+        {
+            "id": 2385401,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3697634.d.html",
+            "title": "俄罗斯副总理诺瓦克：今年全球需求可能会恢复500万至600万桶/日。",
+            "date_modified": "2021-11-04T16:41:34.000Z"
+        },
+        {
+            "id": 2385400,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3697049.d.html",
+            "title": "德国DAX 30指数初步收涨0.48%，报16036.38点。法国股指初步收涨0.52%，英国股指初步收涨0.48%，意大利股指初步收涨0.41%。",
+            "date_modified": "2021-11-04T16:35:04.000Z"
+        },
+        {
+            "id": 2385399,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5461880.d.html",
+            "title": "  Dish Network(DISH.O)盘中跌超9%，现报39.18美元，因公司的无线和付费电视业务用户减少。",
+            "date_modified": "2021-11-04T16:34:56.000Z"
+        },
+        {
+            "id": 2385398,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5461855.d.html",
+            "title": "英国12月份交付的天然气批发合约价格下跌5.5%，至186便士/撒姆。",
+            "date_modified": "2021-11-04T16:34:25.000Z"
+        },
+        {
+            "id": 2385397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzscyy3696724.d.html",
+            "title": "【白酒股或成年底资金共识】 散户持有人占比高达99.9%的鹏华酒基金日前发布暂停大额申购、转换转入和定期定额投资业务的公告，这是一周内第二家宣布限购的白酒指数基金。业内人士认为，白酒指数基金接二连三的限购公告，显示出当前散户资金借基抄底白酒的兴趣浓厚，而在此前披露的三季报就已显示鹏华酒基金的份额净申购规模迅速攀升。（券商中国）",
+            "date_modified": "2021-11-04T16:30:32.000Z"
+        },
+        {
             "id": 2385394,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5460995.d.html",
@@ -408,75 +499,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzscyy3686791.d.html",
             "title": "美国天然气期货短线波动不大。",
             "date_modified": "2021-11-04T14:32:18.000Z"
-        },
-        {
-            "id": 2385311,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5451908.d.html",
-            "title": "EIA天然气报告：美国天然气库存总量为36110亿立方英尺，较去年同期减少3130亿立方英尺，同时较5年均值高减少1010亿立方英尺。",
-            "date_modified": "2021-11-04T14:32:11.000Z"
-        },
-        {
-            "id": 2385310,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzscyy3686670.d.html",
-            "title": "美国至10月29日当周EIA天然气库存 630亿立方英尺，前值 870亿立方英尺，预期 630亿立方英尺。",
-            "date_modified": "2021-11-04T14:30:40.000Z"
-        },
-        {
-            "id": 2385308,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzscyy3686370.d.html",
-            "title": "媒体汇编图表显示，2005年全球市值最高的上市公司名单相当多样化，既有大型石油公司，也有跨国集团、分销公司以及金融和医疗保健公司。但如今除了沙特阿美之外，美国科技巨头占据了排行榜的主导地位。",
-            "date_modified": "2021-11-04T14:27:46.000Z"
-        },
-        {
-            "id": 2385307,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5451447.d.html",
-            "title": "  【袁隆平团队发布耐热超级稻 高温也能稳产】昨天，袁隆平杂交水稻创新团队带头人邓启云，在“科学嘉年华”农业科技论坛上发布超级杂交水稻创新品种。这款新品导入了非洲稻耐高温的基因，不仅高产、品质好，40℃高温也能稳产！可以降低全球气候变暖给粮食安全带来的影响。",
-            "date_modified": "2021-11-04T14:27:29.000Z"
-        },
-        {
-            "id": 2385305,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5451323.d.html",
-            "title": "英镑兑美元GBP/USD势创去年9月来最大单日跌幅，现跌1.3%，报1.3506。",
-            "date_modified": "2021-11-04T14:26:01.000Z"
-        },
-        {
-            "id": 2385304,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5450995.d.html",
-            "title": "  耐克(NKE.N)涨超1%，报174.445美元，股价创历史新高。",
-            "date_modified": "2021-11-04T14:22:47.000Z"
-        },
-        {
-            "id": 2385303,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzscyy3685874.d.html",
-            "title": "据法新社：英国表示解决英法捕鱼争端的谈判将于下周恢复。",
-            "date_modified": "2021-11-04T14:22:40.000Z"
-        },
-        {
-            "id": 2385301,
-            "content_html": "",
-            "title": "  美股大型科技股普涨。亚马逊(AMZN.O)涨2.1%，特斯拉(TSLA.O)涨1.4%，Meta Platforms(FB.O)涨0.9%，谷歌A(GOOGL.O)涨0.8%，微软(MSFT.O)、苹果(AAPL.O)跟涨。",
-            "date_modified": "2021-11-04T14:21:39.000Z"
-        },
-        {
-            "id": 2385299,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5450582.d.html",
-            "title": "  Nikola(NKLA.O)CFO：卡车可以在2022年更换零件。",
-            "date_modified": "2021-11-04T14:19:27.000Z"
-        },
-        {
-            "id": 2385298,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-04/detail-iktzqtyu5450574.d.html",
-            "title": "  Nikola(NKLA.O)CFO：一些卡车可能缺少零部件，包括半导体。",
-            "date_modified": "2021-11-04T14:19:22.000Z"
         }
     ]
 }
