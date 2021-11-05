@@ -6,6 +6,69 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2386825,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5684543.d.html",
+            "title": "媒体消息：英国要求卡塔尔成为英国天然气供应的“终极手段”。",
+            "date_modified": "2021-11-05T21:05:51.000Z"
+        },
+        {
+            "id": 2386821,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3920289.d.html",
+            "title": "波音公司的董事同意支付2.375亿美元针对737 Max和解费。",
+            "date_modified": "2021-11-05T20:55:38.000Z"
+        },
+        {
+            "id": 2386820,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3920078.d.html",
+            "title": "  电动汽车初创公司Rivian将美国IPO股票发行价指导区间提高至每股72-74美元。",
+            "date_modified": "2021-11-05T20:51:31.000Z"
+        },
+        {
+            "id": 2386819,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5683756.d.html",
+            "title": "市场消息：苹果公司聘请特斯拉自动驾驶软件主管，以加强自身的汽车业务。",
+            "date_modified": "2021-11-05T20:49:37.000Z"
+        },
+        {
+            "id": 2386818,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3919996.d.html",
+            "title": "  纽交所ARCA钢铁指数涨0.23%，报1539.54点，本周累跌1.81%。",
+            "date_modified": "2021-11-05T20:49:21.000Z"
+        },
+        {
+            "id": 2386807,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5682778.d.html",
+            "title": "当地时间11月5日，巴西经济部和外交部共同发表声明称，为遏制不断高企的通货膨胀率，决定调低该国87%的进口货品的进口税率，降幅达10%。这一政策将实施至2022年12月31日。（央视）",
+            "date_modified": "2021-11-05T20:26:16.000Z"
+        },
+        {
+            "id": 2386806,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5682748.d.html",
+            "title": "亚马逊创始人贝佐斯据悉依据10B5-1交易计划出售亚马逊股票。",
+            "date_modified": "2021-11-05T20:25:53.000Z"
+        },
+        {
+            "id": 2386803,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5682270.d.html",
+            "title": "【健身股Peloton暴跌逾35%，拖累纳斯达克100指数的表现】互动健身平台Peloton Interactive（PTON）周五（11月5日）收跌将近35.3%，报55.70美元，逼近2020年6月24日收盘位55.55美元。该公司猛砍业绩预期之后，宣布冻结招聘计划。在纳斯达克100指数的成分股中，莫德纳收盘跌超16.5%，仅次于Peloton，Zoom通讯跌6.2%，DOCU跌超5.8%，再生元制药跌约5.6%，思佳讯跌约4.3%，奈飞、拼多多、京东至少跌3.4%，星巴克则涨超4.2%，怪物饮料（MNST）和高通涨约4.4%，阿根廷电商Mercadolibre涨超4.7%，携程涨约5.6%，Booking涨约7.5%。",
+            "date_modified": "2021-11-05T20:19:50.000Z"
+        },
+        {
+            "id": 2386801,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3918437.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至11月2日当周，美元净多头仓位触及9月底以来最低水平。",
+            "date_modified": "2021-11-05T20:17:49.000Z"
+        },
+        {
             "id": 2386800,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3918391.d.html",
@@ -227,75 +290,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3907377.d.html",
             "title": "  市场消息：美国银行(BAC.N)将于22年1月19日公布2021年第四季度的业绩。",
             "date_modified": "2021-11-05T17:16:46.000Z"
-        },
-        {
-            "id": 2386724,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3907136.d.html",
-            "title": "【市场监管总局部署规范“双十一”促销经营活动】市场监管总局向全国互联网平台企业和各地市场监管部门下发《关于规范“双十一”网络促销经营活动的工作提示》，旨在规范促销经营行为，切实维护“双十一”期间网络交易市场秩序，保护消费者合法权益。市场监管部门提示，“双十一”期间，广大消费者应当理性消费，同时提高维权意识，遇到侵权行为应当及时向平台企业或市场监管部门投诉举报，运用法律武器维护自身合法权益。（央视）",
-            "date_modified": "2021-11-05T17:12:29.000Z"
-        },
-        {
-            "id": 2386723,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3906509.d.html",
-            "title": "油服贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台。",
-            "date_modified": "2021-11-05T17:04:38.000Z"
-        },
-        {
-            "id": 2386721,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5670087.d.html",
-            "title": "美国至11月5日当周石油钻井总数(口)：前值 444，预期 449，公布 450。",
-            "date_modified": "2021-11-05T17:02:34.000Z"
-        },
-        {
-            "id": 2386720,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5670041.d.html",
-            "title": "美国至11月5日当周总钻井总数(口)：前值 544，预期 548，公布 550。",
-            "date_modified": "2021-11-05T17:02:12.000Z"
-        },
-        {
-            "id": 2386718,
-            "content_html": "",
-            "title": "据监测网络状况的网站DownDetector：用户报告显示联邦快递(FDX.N)服务出现问题。",
-            "date_modified": "2021-11-05T16:57:53.000Z"
-        },
-        {
-            "id": 2386716,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5668784.d.html",
-            "title": "【北京市11月6日启动供暖】2022年采暖季正式供热时间提前至11月6日0时，确保温度按时达标。正式供热运行期间，供热单位加强服务保障，精细调节，在保障室温达标的同时落实各项节能降耗措施。（新华网）",
-            "date_modified": "2021-11-05T16:48:01.000Z"
-        },
-        {
-            "id": 2386714,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3904841.d.html",
-            "title": "【再套现20亿美元 贝佐斯抛售亚马逊股票，以兑现气候大会承诺】全球第二大富豪亚马逊创始人杰夫・贝佐斯已经出售了大约 20 亿美元（约 128 亿元人民币）亚马逊股票，以兑现其在联合国气候变化大会 COP26 上的承诺：通过其贝佐斯地球基金捐款 20 亿美元。",
-            "date_modified": "2021-11-05T16:46:49.000Z"
-        },
-        {
-            "id": 2386706,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3903599.d.html",
-            "title": "市场消息：特斯拉(TSLA.O)在一项硅基阳极电池的新专利中披露了对美国科罗拉多州电池初创公司SiILion的收购。除了此次收购，特斯拉还获得了SiILion最重要的专利之一，“包含硅颗粒的大型电池阳极”。",
-            "date_modified": "2021-11-05T16:30:23.000Z"
-        },
-        {
-            "id": 2386704,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzqtyu5666847.d.html",
-            "title": "【委内瑞拉将石油产量目标下调三分之一至100万桶/日】由于多年来长期管理不善，委内瑞拉国家石油公司将其石油产量目标削减了1/3至100万桶/日。自总统马杜罗在2020年1月设定了雄心勃勃的200万桶/日的产量目标以来，委内瑞拉政府被迫三次修改产量目标。文件显示，该公司目前正致力于在2022年至2025年期间“恢复和稳定产量”。该计划有两个关键目标：确保稳定的石油供应国内炼油厂，并将剩余原油转化为适合出口的商业等级原油。",
-            "date_modified": "2021-11-05T16:22:57.000Z"
-        },
-        {
-            "id": 2386703,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-06/detail-iktzscyy3902901.d.html",
-            "title": "花旗：下调澳博(00880.HK)目标价至6.5港元，评级买入。",
-            "date_modified": "2021-11-05T16:21:56.000Z"
         }
     ]
 }
