@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 Nov 2021 06:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 07:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克称花了7.5万美元买下特斯拉商标】特斯拉CEO埃隆・马斯克日前在一段自己的采访下评论，在该采访中，马斯克透露曾花费7.5万美元从一个人手中买下了特斯拉汽车商标。马斯克在评论中表示，如果当时无法获得特斯拉汽车商标，那可能就要叫“法拉第”了，不过那个名字已经被竞争对手用了。贾跃亭回应马斯克的这一评论称：我们是人类科学发展历程中的战友而不是竞争对手。一起让FARADAY和TESLA在21世纪继续伟大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4164588.d.html</link>
+            <guid>2388433</guid>
+            <pubDate>Sun, 07 Nov 2021 06:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗在伊南部海域开展“大规模”军事演习。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5927424.d.html</link>
+            <guid>2388432</guid>
+            <pubDate>Sun, 07 Nov 2021 06:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳大学通报一名密接者 现已隔离】深圳大学丽湖校区官方微信11月7日发布消息称，11月7日凌晨接到深圳市疾控中心通知，学校经济学院一名外聘教师被判定为密接者，现已隔离，核酸检测结果为阴性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5923509.d.html</link>
+            <guid>2388426</guid>
+            <pubDate>Sun, 07 Nov 2021 06:21:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海：加快发展离岸金融、离岸贸易等开放新业态】上海市委常委会6日举行会议。会议指出，对标高标准国际经贸规则，在电信、医疗等服务业扩大开放领域先行先试，在绿色低碳、数字经济等前沿领域率先开展高水平开放压力测试，在制度型开放上实现更大突破。发挥国家战略平台牵引作用，深入推动浦东高水平改革开放，依托上海自贸试验区临港新片区、虹桥国际开放枢纽等，加快发展离岸金融、离岸贸易等开放新业态，加快构建国际协同创新等开放新形态。（上观）]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5921740.d.html</link>
@@ -364,30 +382,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5867314.d.html</link>
             <guid>2388327</guid>
             <pubDate>Sun, 07 Nov 2021 00:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克总理呼吁所有人为了国家保持冷静和克制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5866776.d.html</link>
-            <guid>2388324</guid>
-            <pubDate>Sun, 07 Nov 2021 00:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克总理通过社交平台表示他（身体状况）很好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4102752.d.html</link>
-            <guid>2388323</guid>
-            <pubDate>Sun, 07 Nov 2021 00:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克军方称，伊拉克总理目前身体状况良好，未受到袭击的伤害。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4100747.d.html</link>
-            <guid>2388320</guid>
-            <pubDate>Sun, 07 Nov 2021 00:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊拉克军方表示，对伊拉克总理的暗杀行动未遂，一架载有炸药的无人机袭击了伊拉克总理在巴格达的住所。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5864428.d.html</link>
-            <guid>2388319</guid>
-            <pubDate>Sun, 07 Nov 2021 00:14:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
