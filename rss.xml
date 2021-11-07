@@ -4,11 +4,134 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 Nov 2021 02:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 03:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海关总署：中国10月未锻轧铝及铝材出口48万吨，9月为49.2万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892868.d.html</link>
+            <guid>2388391</guid>
+            <pubDate>Sun, 07 Nov 2021 03:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月钢材出口为449.7万吨，9月为492万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4129265.d.html</link>
+            <guid>2388390</guid>
+            <pubDate>Sun, 07 Nov 2021 03:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月稀土出口4330.4吨，9月为3920.2吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892779.d.html</link>
+            <guid>2388389</guid>
+            <pubDate>Sun, 07 Nov 2021 03:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月成品油出口394.6万吨，9月为413.6 万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892740.d.html</link>
+            <guid>2388388</guid>
+            <pubDate>Sun, 07 Nov 2021 03:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月大豆进口510.9万吨，9月为687.6万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892523.d.html</link>
+            <guid>2388387</guid>
+            <pubDate>Sun, 07 Nov 2021 03:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月铁矿砂及其精矿进口9160.6万吨，9月为9561.1万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4128910.d.html</link>
+            <guid>2388386</guid>
+            <pubDate>Sun, 07 Nov 2021 03:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月铜矿砂及其精矿进口179.7万吨，9月为211.1万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4128888.d.html</link>
+            <guid>2388385</guid>
+            <pubDate>Sun, 07 Nov 2021 03:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月未锻轧铜及铜材进口40.1万吨，9月为40.6万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4128854.d.html</link>
+            <guid>2388384</guid>
+            <pubDate>Sun, 07 Nov 2021 03:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月煤及褐煤进口2694.3万吨，9月为3288.3万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892393.d.html</link>
+            <guid>2388383</guid>
+            <pubDate>Sun, 07 Nov 2021 03:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月天然气进口937.7万吨，9月为1062.4万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5892250.d.html</link>
+            <guid>2388382</guid>
+            <pubDate>Sun, 07 Nov 2021 03:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：中国10月成品油进口215.5万吨，9月为221.8万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4128629.d.html</link>
+            <guid>2388381</guid>
+            <pubDate>Sun, 07 Nov 2021 03:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国10月出口总额-人民币计价：19408.2亿元；前值：19830.3亿元。中国10月进口总额-人民币计价： 13948.7亿元；前值：15498.4亿元。]]></title>
+            <guid>2388378</guid>
+            <pubDate>Sun, 07 Nov 2021 03:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：铁矿砂、原油、大豆等商品进口量减价扬，煤、天然气进口量价齐升。前10个月，我国进口铁矿砂9.33亿吨，减少4.2%，进口均价每吨1139元，上涨61%；原油4.25亿吨，减少7.2%，进口均价每吨3128.3元，上涨35.6%；煤2.57亿吨，增加1.9%，进口均价每吨621.2元，上涨27.1%；天然气9907.4万吨，增加22.3%，进口均价每吨2584.4元，上涨11.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5891659.d.html</link>
+            <guid>2388377</guid>
+            <pubDate>Sun, 07 Nov 2021 03:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国10月份以美元计价出口同比增长27.1%，预估为22.8%；中国10月份以美元计价进口同比增长20.6%，预估为26.2%。]]></title>
+            <guid>2388376</guid>
+            <pubDate>Sun, 07 Nov 2021 03:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国10月出口年率-人民币计价：20.30%；预期：17.1%；前值：19.9%。中国10月进口年率-人民币计价：14.50%；预期：20.4%；前值：10.1%。]]></title>
+            <guid>2388375</guid>
+            <pubDate>Sun, 07 Nov 2021 03:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：对东盟、欧盟和美国等主要贸易伙伴进出口均增长。前10个月，东盟为我第一大贸易伙伴，我与东盟贸易总值4.55万亿元，增长20.4%，占我外贸总值的14.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5891403.d.html</link>
+            <guid>2388374</guid>
+            <pubDate>Sun, 07 Nov 2021 03:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：一般贸易进出口增长、比重提升。前10个月，我国一般贸易进出口19.54万亿元，同比（下同）增长25.1%，占我外贸总值的61.7%，比去年同期提升1.4个百分点。其中，出口10.64万亿元，增长25.3%；进口8.9万亿元，增长24.9%。同期，加工贸易进出口6.81万亿元，增长11.9%，占21.5%，下滑2个百分点。其中，出口4.26万亿元，增长10.5%；进口2.55万亿元，增长14.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5891379.d.html</link>
+            <guid>2388373</guid>
+            <pubDate>Sun, 07 Nov 2021 03:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：据海关统计，今年前10个月，我国进出口总值31.67万亿元人民币，同比增长22.2%，比2019年同期增长23.4%。其中，出口17.49万亿元，同比增长22.5%，比2019年同期增长25%；进口14.18万亿元，同比增长21.8%，比2019年同期增长21.4%；贸易顺差3.31万亿元，同比增加25.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5891350.d.html</link>
+            <guid>2388372</guid>
+            <pubDate>Sun, 07 Nov 2021 03:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克总理卡迪米发表电视讲话 证实其遭刺杀但未受伤】当地时间11月7日凌晨，伊拉克总理穆斯塔法·卡迪米发表电视讲话，确认自己成为一起刺杀图谋的目标，但他安然无恙。卡迪米称，他的住所遭到袭击，而这种行径对建设国家没有丝毫意义。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5890582.d.html</link>
+            <guid>2388368</guid>
+            <pubDate>Sun, 07 Nov 2021 02:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃三地调整为低风险地区】甘肃省卫健委副主任张浩介绍，自即日起，将兰州市城关区东湖小区、张掖市甘州区锦绣嘉苑（梁家墩镇六号村）、张掖市甘州区龙王庙小区调整为低风险区。目前，甘肃省有中风险区5个，封控小区69个。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5888693.d.html</link>
+            <guid>2388365</guid>
+            <pubDate>Sun, 07 Nov 2021 02:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽埃安：工信部公告首款超1000KM续航车型AION LX】据广汽埃安消息，工信部公告首款超1000km续航车型AION LX；续航里程1008km，电池系统能量密度205wh/kg。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4123418.d.html</link>
+            <guid>2388362</guid>
+            <pubDate>Sun, 07 Nov 2021 02:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中核集团福清核电6号机组开始装料】继华龙一号海外示范工程巴基斯坦卡拉奇3号机组热试成功之后，11月6日，随着第1组燃料组件入堆，华龙一号示范工程第2台机组——中核集团福清核电6号机首炉燃料装载正式开始，标志着该机组进入主系统带核调试阶段，向建成投产迈出了重要一步。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5885699.d.html</link>
@@ -287,89 +410,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5849397.d.html</link>
             <guid>2388066</guid>
             <pubDate>Sat, 06 Nov 2021 20:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴万达继续向东缓慢移动，预计今晚和周日将加速向东北方向移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4084915.d.html</link>
-            <guid>2388018</guid>
-            <pubDate>Sat, 06 Nov 2021 20:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印尼哥伦打洛省东南偏东154千米处发生6.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4084746.d.html</link>
-            <guid>2388008</guid>
-            <pubDate>Sat, 06 Nov 2021 20:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【债市短期“抬头” 基金经理最新后市研判来了】11月以来，债市在经历了一轮快速下跌后有所回稳。公募人士认为，市场对于前期货币政策边际预期出现扭转，恐慌情绪释放后长债利率随之回落。展望后市，市场已基本消化基本面、政策面和资金面的利多预期，叠加通胀因素扰动，未来利率债收益率将在底部宽幅震荡。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5848425.d.html</link>
-            <guid>2387994</guid>
-            <pubDate>Sat, 06 Nov 2021 20:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[    【巴菲特手握1492亿美元现金储备，规模创纪录新高】沃伦·巴菲特麾下的伯克希尔现在有创纪录的资金可供投资。伯克希尔周六公布的财报显示，第三季度的现金储备达到1492亿美元的新高，超过2020年初创下的纪录高点。尽管在此期间，巴菲特还投入76亿美元回购本公司股票，创出2018年董事会调整回购政策以来纪录第三高水平。巴菲特一直面临着伯克希尔钱太多但可供投资的高回报率资产欠缺的问题。由于最近几个季度没有重大交易，这位伯克希尔首席执行官经常将回购作为用掉现金的一种方式。但即便是第三季度的回购水平上升，仍不足以阻止伯克希尔的资金量膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5847780.d.html</link>
-            <guid>2387940</guid>
-            <pubDate>Sat, 06 Nov 2021 20:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克在推特发起投票:我应该卖掉我的特斯拉10%的股票吗？】埃隆·马斯克周六在推特上提议出售他的特斯拉公司10%的股票，并在社交网络上进行了民意调查，看他们是否支持这一提议。马斯克表示，无论结果如何，他都将“遵守投票结果”。截至纽约下午3点38分，284,404人中超过55%的人投票支持马斯克出售股票。马斯克是世界上最富有的人，他以半开玩笑的推文闻名，他提到了最近关于富人囤积未实现收益以逃避纳税的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5846092.d.html</link>
-            <guid>2387868</guid>
-            <pubDate>Sat, 06 Nov 2021 19:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿拉伯半岛电视台：利比亚暂停外交部长纳吉拉·曼古什（Najla Mangoush）的行程。]]></title>
-            <guid>2387866</guid>
-            <pubDate>Sat, 06 Nov 2021 19:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：最近有很多人认为未实现收益是一种避税手段，所以我建议出售10%的特斯拉股票；无论结果如何，我都将遵守这次投票的结果。要注意的是，我没有从任何地方拿现金工资或奖金；我只有股票，所以我个人纳税的唯一方法就是卖出股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5845603.d.html</link>
-            <guid>2387865</guid>
-            <pubDate>Sat, 06 Nov 2021 19:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克在社交媒体发问，是否有人支持他出售10%的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5845461.d.html</link>
-            <guid>2387864</guid>
-            <pubDate>Sat, 06 Nov 2021 19:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站Fxstreet：欧元兑美元EUR/USD连续第二周下跌】或将延续跌势欧元兑美元EUR/USD连续第二周下跌，处于2020年7月以来的最低水平。技术指标的跌势扩大至负值，暗示该货币对未来还会达到更低的低点。从日线图来看，该货币对将延续跌势。该指数本周在20日SMA移动均线附近徘徊，周四跌破该均线，延续本周收盘前的跌势。与此同时，技术指标在负值区间内稳步走低，反映出强烈的抛售兴趣。主要支撑区域现在在1.1460-70左右。至少在首次尝试跌破该水平时，这一水平应该会吸引买家。如果价格区域退让，该货币对可能将跌势扩大至1.1400-20。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5844678.d.html</link>
-            <guid>2387838</guid>
-            <pubDate>Sat, 06 Nov 2021 19:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿尔及利亚、意大利加强各领域合作的联合声明】阿尔及利亚总统特本和来访的意大利总统马塔雷拉16日发表联合声明称，阿尔及利亚和意大利将加强在各个领域的合作。 在两国司法、教育和文化领域合作协议的签字仪式上，特本表示，希望意大利帮助阿尔及利亚发展其中小产业平台。马塔雷拉表示，他期待发展两国合作，即将举行的高级别政府间委员会将是加强双边伙伴关系的一个机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4079959.d.html</link>
-            <guid>2387817</guid>
-            <pubDate>Sat, 06 Nov 2021 19:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国不少超市已买不到薯片】英国供应链危机仍在持续，在经历了加油站的恐慌性抢购和取暖费飙升后，现在，供应链危机已经蔓延到了薯片、这一许多英国人十分喜爱的零食上。不少超市甚至已经买不到薯片了。据了解，薯片是英国人最喜爱的零食之一。市场研究公司凯度的数据显示，英国每年的薯片销量达到14.1万吨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4079142.d.html</link>
-            <guid>2387798</guid>
-            <pubDate>Sat, 06 Nov 2021 18:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长:如果西方放弃2015年协议后的要求，核谈判将快速进展】伊朗外交部长侯赛因·阿米尔·阿卜杜拉希安周六表示，如果美国和欧洲各方放弃2015年协议之外的任何要求，并采取建设性的方式，即将到来的核谈判将迅速取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5840690.d.html</link>
-            <guid>2387775</guid>
-            <pubDate>Sat, 06 Nov 2021 18:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗和巴基斯坦同意到2023年将双边贸易额提高到50亿美元】伊朗工业、矿山和贸易部部长礼萨·法特米·阿明周六表示，伊朗和巴基斯坦同意到2023年将双边贸易额增加到50亿美元。伊朗准备消除与巴基斯坦的贸易壁垒，以改善两国之间的经济关系，”法特米·阿明在伊朗-巴基斯坦联合贸易委员会在首都德黑兰举行的第9次会议上说。他说，两国都强调有必要制定一个精确的计划，为巴基斯坦企业家在伊朗的投资提供便利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4076128.d.html</link>
-            <guid>2387760</guid>
-            <pubDate>Sat, 06 Nov 2021 18:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴菲特对伯克希尔的兴趣超过对苹果股票的投资 】近年来，沃伦•巴菲特花在回购伯克希尔哈撒韦公司股票上的钱，超过了他在苹果公司积累的最大一笔股权投资。自2018年年中以来，伯克希尔回购自己股票的花费，比截至去年年底积累苹果股份的花费多出近200亿美元。自三年多前政策调整以来，巴菲特总计投入了约510亿美元进行股票回购，自9月底以来，他似乎还在继续买进至少17亿美元的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5839726.d.html</link>
-            <guid>2387757</guid>
-            <pubDate>Sat, 06 Nov 2021 17:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
