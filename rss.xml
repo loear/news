@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 Nov 2021 17:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 18:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“宇宙级机械臂转接头”打通中国空间站机械臂“任督二脉”】11月8日，中国航天员翟志刚、王亚平安全返回天和核心舱，神舟十三号航天员乘组第一次出舱活动取得圆满成功。此次出舱活动中，航天员顺利完成机械臂级联装置安装工作，为后续实现“擎天巨臂”组合打下基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzqtyu5996440.d.html</link>
+            <guid>2389299</guid>
+            <pubDate>Sun, 07 Nov 2021 18:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：赞扬伊拉克总理呼吁保持冷静、克制和进行对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzscyy4231682.d.html</link>
+            <guid>2389297</guid>
+            <pubDate>Sun, 07 Nov 2021 18:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：强烈谴责针对伊拉克总理官邸的恐怖袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzqtyu5995563.d.html</link>
+            <guid>2389296</guid>
+            <pubDate>Sun, 07 Nov 2021 18:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿拉比亚电视台当地时间11月7日消息，在阿拉伯联盟（阿盟）高级代表团与苏丹武装部队总司令布尔汉的会面中，代表团强调了苏丹各方进行对话的重要性，代表团重视苏丹的民主转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzqtyu5995389.d.html</link>
+            <guid>2389295</guid>
+            <pubDate>Sun, 07 Nov 2021 17:56:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【航天员圆满完成出舱活动全部既定任务】据中国载人航天工程办公室消息，神舟十三号航天员乘组密切协同，圆满完成出舱活动全部既定任务，航天员翟志刚、王亚平安全返回天和核心舱，出舱活动取得圆满成功。这是中国航天史上首次有女航天员参加的出舱活动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzscyy4230815.d.html</link>
+            <guid>2389293</guid>
+            <pubDate>Sun, 07 Nov 2021 17:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家铁路10月电煤发送量 实现强劲增长】近日从中国国家铁路集团有限公司获悉，10月份以来，国铁集团扎实开展今冬明春发电供暖用煤运输保供专项行动，电煤发送量实现强劲增长，有力保障了人民群众生产生活需要和国民经济平稳运行。据统计，10月份，国家铁路发送电煤1.22亿吨，同比增长25%，环比增长21%。截至10月底，全国363家铁路直供电厂存煤平均可耗天数达到19.1天，较9月末增加5.1天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzscyy4230796.d.html</link>
+            <guid>2389292</guid>
+            <pubDate>Sun, 07 Nov 2021 17:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【稳价格 稳预期 稳定菜篮子】在当前降温降雪原因作用下，预计蔬菜运输及储存成本有上涨压力，部分蔬菜售价短期内可能再次出现不同程度的波动。有关部门应迅速行动起来，密切关注各类生活必需品市场供需情况，即时指导大型商超和蔬菜批发市场等重点商贸流通企业加大货源组织，增加市场有效供给。各地要千方百计稳价格、稳市场、稳预期，保障市场供应，确保市民菜篮子不受影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzqtyu5993906.d.html</link>
+            <guid>2389291</guid>
+            <pubDate>Sun, 07 Nov 2021 17:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保供电取得阶段性成效 我国电力供需恢复常态】从供电业务覆盖我国绝大多数区域的国家电网、南方电网两家公司了解到，经过各方共同努力，目前我国保供电保民生取得阶段性成效，电力供需形势恢复常态。截至11月6日，除个别省份、局部时段对高耗能、高污染企业采取有序用电措施外，国家电网公司全网有序用电规模接近清零。11月4日起，南方电网全网连续三天未实施有序用电。这是自今年5月全面启动有序用电以来，南方电网全网首次没有实施有序用电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzscyy4229377.d.html</link>
+            <guid>2389290</guid>
+            <pubDate>Sun, 07 Nov 2021 17:22:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【10月末我国外汇储备环比上升0.53%】根据国家外汇管理局11月7日发布的数据，截至10月末，我国外汇储备规模为32176亿美元，较9月末上升170亿美元，升幅为0.53%。业内人士表示，本月外汇储备规模上升，主要由估值因素导致。与此同时，真实贸易和跨境资本流动也对外汇储备规模形成贡献。展望未来，我国外汇储备规模将继续保持稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-08/detail-iktzqtyu5992856.d.html</link>
@@ -336,54 +384,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4186031.d.html</link>
             <guid>2388475</guid>
             <pubDate>Sun, 07 Nov 2021 09:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【川发龙蟒：拟推1759.63万股的2021年限制性股票激励计划】川发龙蟒发布2021年限制性股票激励计划(草案)，拟授予激励对象的限制性股票数量为1759.63万股，约占草案公告日公司股本总额的1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4184381.d.html</link>
-            <guid>2388472</guid>
-            <pubDate>Sun, 07 Nov 2021 09:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江世宝：华为与公司在汽车转向领域有商谈合作】浙江世宝日前在互动平台回复投资者，华为与公司在汽车转向领域有商谈合作，目前没有需要披露的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5947602.d.html</link>
-            <guid>2388471</guid>
-            <pubDate>Sun, 07 Nov 2021 09:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[郑州发布：自2021年11月7日起，将新密市新华路办事处新惠街社区调整为中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5945118.d.html</link>
-            <guid>2388469</guid>
-            <pubDate>Sun, 07 Nov 2021 08:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兴发集团：拟与华友钴业共建50万吨/年磷酸铁、50万吨/年磷酸铁锂及相关配套项目】兴发集团公告，公司与华友钴业在湖北省宜昌市签署了《合作框架协议》，围绕新能源锂电材料全产业链进行合作。在湖北宜昌合作投资磷矿采选、磷化工、湿法磷酸、磷酸铁及磷酸铁锂材料的一体化产业，计划建设50万吨/年磷酸铁、50万吨/年磷酸铁锂及相关配套项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5944974.d.html</link>
-            <guid>2388468</guid>
-            <pubDate>Sun, 07 Nov 2021 08:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东多地提前启动供暖】受强冷空气影响，7日山东多地出现强降温、大风和降雪天气，7—8日烟台将出现寒潮天气，最低气温局部降至-5℃左右。为保障城市平稳运行和群众温暖过冬，山东多地提前供暖。与此同时，济南、德州、淄博、潍坊、东营等城市也提前开启了供暖工作应对此次寒潮降雪天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4180160.d.html</link>
-            <guid>2388467</guid>
-            <pubDate>Sun, 07 Nov 2021 08:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄外交部：希望美英澳三国对核潜艇计划相关问题进行答复】今年9月，美英澳三国宣布组建新安全联盟，美英将向澳方提供核潜艇技术，助其组建核潜艇编队。就此问题，俄罗斯外交部6日再次表示关切。俄方已经就美英澳核潜艇交易提出相关问题，希望相关方就这些问题给出答复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzscyy4180076.d.html</link>
-            <guid>2388466</guid>
-            <pubDate>Sun, 07 Nov 2021 08:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计热带风暴“旺达”将加速向东北移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5943642.d.html</link>
-            <guid>2388465</guid>
-            <pubDate>Sun, 07 Nov 2021 08:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天邦股份：10月份商品猪销售收入7.9亿元 环比增长70.24%】天邦股份公告， 10月份销售商品猪53.64万头，销售收入7.9亿元，销售均价12.56元/公斤，环比变动分别为67.02%、70.24%、6.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-07/detail-iktzqtyu5943609.d.html</link>
-            <guid>2388464</guid>
-            <pubDate>Sun, 07 Nov 2021 08:45:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
