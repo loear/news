@@ -6,6 +6,103 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2390864,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6188455.d.html",
+            "title": "【Roth Capital：将Peloton(PTON.O)目标价从125美元下调至70美元 维持买入评级】Roth Capital分析师George Kelly认为，在需求环境和财务模式出现变化之前，Peloton可能会维持区间震荡。长期来看，分析师仍然相信，随着Peloton推出具有吸引力的价格点的新产品，该公司可以实质性地扩大用户基础。",
+            "date_modified": "2021-11-08T19:56:53.000Z"
+        },
+        {
+            "id": 2390863,
+            "content_html": "",
+            "title": "中国地震台网正式测定：11月09日03时35分在青海海西州茫崖市（北纬38.18度，东经93.79度）发生3.8级地震，震源深度6千米。",
+            "date_modified": "2021-11-08T19:55:58.000Z"
+        },
+        {
+            "id": 2390861,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6188265.d.html",
+            "title": "电动汽车初创公司Rivian：2022年开始，将接受除亚马逊（AMZN）之外的客户预定本公司电动厢式车产品，预计将从2023年前期开始交货。",
+            "date_modified": "2021-11-08T19:51:46.000Z"
+        },
+        {
+            "id": 2390859,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6188113.d.html",
+            "title": "摩根大通：10年期美债名义收益率小幅回升至近期区间，可能会在今年剩余时间内将金价拖回1700美元/盎司左右。",
+            "date_modified": "2021-11-08T19:48:30.000Z"
+        },
+        {
+            "id": 2390856,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6187974.d.html",
+            "title": "摩根大通：预计2021年铂金价格平均为1103美元/盎司，2022年为1038美元/盎司。",
+            "date_modified": "2021-11-08T19:45:09.000Z"
+        },
+        {
+            "id": 2390853,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6187920.d.html",
+            "title": "美国国务院：美国认为针对伊拉克总理的袭击是对伊拉克国家主权和稳定的攻击。",
+            "date_modified": "2021-11-08T19:44:00.000Z"
+        },
+        {
+            "id": 2390852,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6187863.d.html",
+            "title": "市场消息：DraftKings(DKNG.O)获得纽约体育博彩执照。",
+            "date_modified": "2021-11-08T19:42:49.000Z"
+        },
+        {
+            "id": 2390851,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6187837.d.html",
+            "title": "道明证券全球策略主管Bart Melek：金价有望突破，价格势将挑战数月以来始于历史高点的下行趋势。",
+            "date_modified": "2021-11-08T19:42:15.000Z"
+        },
+        {
+            "id": 2390848,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4423930.d.html",
+            "title": "美国商务部长雷蒙多：注意到部分领域供应链缺乏透明度，提高透明度将有助于供应链。",
+            "date_modified": "2021-11-08T19:33:54.000Z"
+        },
+        {
+            "id": 2390846,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6187091.d.html",
+            "title": "【蒙特利尔银行：将英伟达(NVDA.O)目标价从250美元上调至375美元 维持跑赢大市评级】BMO Capital分析师Ambrish Srivastava表示，Meta Platforms最近的声明已经引起了人们对“元宇宙”的关注，但英伟达一直在“走在前面”，创造了一个“全能平台”，使多个行业实现元宇宙成为可能。",
+            "date_modified": "2021-11-08T19:27:12.000Z"
+        },
+        {
+            "id": 2390845,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4423537.d.html",
+            "title": "伊朗首席核谈判代表卡尼在推特上表示，他将在未来几天会见几位欧洲谈判代表。",
+            "date_modified": "2021-11-08T19:24:49.000Z"
+        },
+        {
+            "id": 2390842,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4423210.d.html",
+            "title": "【Truist：将爱彼迎(ABNB.O)目标价从160美元上调至180美元 维持持有评级】Truist分析师Naved Khan对爱彼迎计划推出新功能以在短期内实现增量增长，以及城市和跨境旅游复苏等其他一些积极举措持乐观态度，但他也认为该公司股票的估值“饱和”。",
+            "date_modified": "2021-11-08T19:20:26.000Z"
+        },
+        {
+            "id": 2390841,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6186627.d.html",
+            "title": "  【日本制造业“国宝”要分家？ 东芝正考虑拆成三家公司】据日经亚洲报道，东芝最早将在2023年将自己拆分成三家公司，分别专注于基础设施、仪器设备和半导体业务。东芝称分拆公司是考虑的选项之一，尚未做出最终决定。此举是东芝公司战略的一部分，通过创建不同利润结构和不同增长型战略的独立公司，为股东创造价值。市场预计这三家公司都将在未来某个时候上市，东芝股东将获得分拆后的独立公司的股份。",
+            "date_modified": "2021-11-08T19:20:03.000Z"
+        },
+        {
+            "id": 2390839,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4422980.d.html",
+            "title": "  华特迪士尼(DIS.N)：《永恒族》全球首映票房为1.617亿美元。",
+            "date_modified": "2021-11-08T19:14:46.000Z"
+        },
+        {
             "id": 2390838,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6186346.d.html",
@@ -168,97 +265,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4415096.d.html",
             "title": "负责监督美国国债市场的机构间工作组正在研究一系列改善市场的政策措施。",
             "date_modified": "2021-11-08T17:03:48.000Z"
-        },
-        {
-            "id": 2390766,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6178417.d.html",
-            "title": "市场消息：美国监管机构公布对美国国债的市场改革研究。",
-            "date_modified": "2021-11-08T17:01:33.000Z"
-        },
-        {
-            "id": 2390761,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6178202.d.html",
-            "title": "据德国《法兰克福汇报》：德国总理的顾问预计，德国经济在2022年将增长4.6%。",
-            "date_modified": "2021-11-08T16:58:21.000Z"
-        },
-        {
-            "id": 2390759,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4414276.d.html",
-            "title": "【四季度以来信托发行不足1400亿元】随着行业强监管政策持续加码，我国信托发行持续“遇冷”。用益信托最新数据显示，截至11月8日，四季度以来我国68家信托公司，共发行2438只1334.1亿元的集合信托产品，相较于去年同期的2822只2466.6亿元的规模，在融资金额上同比锐减了45.9%。“整体来看，近来标品信托的产品发行数量比重持稳。”用益信托研究员喻智表示，标品信托作为信托公司业务转型的重点领域，在发行市场的地位越来越重要。在喻智看来，本周集合信托发行市场行情转冷，目前发行规模在300亿元上下波动。非标产品的萎靡是目前集合信托市场的症结所在，行业转型的影响仍在持续。（经参）",
-            "date_modified": "2021-11-08T16:52:37.000Z"
-        },
-        {
-            "id": 2390757,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4414176.d.html",
-            "title": "泛欧交易所：将支付分手费，以结束对位于巴黎的伦敦清算所集团（LCH）的依赖。",
-            "date_modified": "2021-11-08T16:51:21.000Z"
-        },
-        {
-            "id": 2390755,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4414043.d.html",
-            "title": "【农村产业振兴划重点，一系列支持政策将落地】近日，农业农村部等部门连续发声，进一步强调推动农村产业发展。一系列聚焦乡村产业集群建设、推进全产业链发展、加大资金支持、让农民更多分享产业增值收益等的新政策将加快落地。（经参）",
-            "date_modified": "2021-11-08T16:49:34.000Z"
-        },
-        {
-            "id": 2390754,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4414007.d.html",
-            "title": "意大利电力价格在上周下跌10.2％。",
-            "date_modified": "2021-11-08T16:49:02.000Z"
-        },
-        {
-            "id": 2390752,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6177251.d.html",
-            "title": "泛欧交易所：到2024年，泛欧交易所将放弃伦敦证券交易所进行清算。",
-            "date_modified": "2021-11-08T16:46:25.000Z"
-        },
-        {
-            "id": 2390746,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6176727.d.html",
-            "title": "  AMD(AMD.O)：将针对云市场提供Zen4芯片版本产品。",
-            "date_modified": "2021-11-08T16:40:19.000Z"
-        },
-        {
-            "id": 2390745,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4413242.d.html",
-            "title": "  AMD(AMD.O)：EPYC Genoa处理器将有96个核心，有望在2022年推出。",
-            "date_modified": "2021-11-08T16:40:14.000Z"
-        },
-        {
-            "id": 2390744,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6176704.d.html",
-            "title": "  AMD(AMD.O)：下一个版本的EPYC芯片将基于台积电(TSM.N)的5纳米芯片。",
-            "date_modified": "2021-11-08T16:40:10.000Z"
-        },
-        {
-            "id": 2390743,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4413003.d.html",
-            "title": "  亚马逊(AMZN.O)云服务(AWS)：计划在加拿大开设第二个区域，将在2023年年末或2024年年初投入使用。",
-            "date_modified": "2021-11-08T16:36:19.000Z"
-        },
-        {
-            "id": 2390740,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6175617.d.html",
-            "title": "【经参头版：聚焦重点领域，一批民生工程将加紧开建】年末将至，地方纷纷披露最新民生工程建设进度单，“提前完成”“有序推进”成为关键词。与此同时，有关部门加紧部署，将民生补短板工作列为要务，聚力攻坚。除老旧小区改造、公共基础设施建设外，养老、托育、医疗等也被列入重点投资清单。",
-            "date_modified": "2021-11-08T16:25:28.000Z"
-        },
-        {
-            "id": 2390739,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4412013.d.html",
-            "title": "【百亿私募宁泉资产持续\"扫货\"券商股】11月8日晚间港交所披露易信息显示，杨东掌舵的百亿私募宁泉资产于11月4日增持东方证券37万股H股股份，耗资约226万港元。目前市场来看，港股上市券商估值整体偏低，宁泉资产年内已经持续买入东方证券、中原证券、国泰君安证券、中信建投证券等券商股。整体来看，财富管理是券商估值提升的主逻辑，东方证券等公司出色的财富管理业务已经在A股吸引了投资者的目光，而港股券商目前普遍处于低谷，这给一些机构投资者带来了更好的布局机会。（券商中国）",
-            "date_modified": "2021-11-08T16:23:19.000Z"
         }
     ]
 }
