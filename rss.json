@@ -6,6 +6,54 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2390838,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6186346.d.html",
+            "title": "【富国银行：将AMD(AMD.O)目标价从145美元上调至180美元 维持增持评级】AMD此前举办加速数据中心首映式，富国银行分析师Aaron Rakers认为，这次活动进一步证明了AMD数据中心的“强大”。该公司不断扩张定位和路线图，还宣布了Facebook现在是AMD EPYC芯片的客户。",
+            "date_modified": "2021-11-08T19:11:36.000Z"
+        },
+        {
+            "id": 2390837,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6186108.d.html",
+            "title": "  美国白宫新闻发言人JEAN-PIERRE：白宫继续监控能源价格。",
+            "date_modified": "2021-11-08T19:07:23.000Z"
+        },
+        {
+            "id": 2390836,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4422619.d.html",
+            "title": "美国白宫新闻发言人JEAN-PIERRE：当国会重新开会时，拜登将签署基础设施法案。",
+            "date_modified": "2021-11-08T19:07:15.000Z"
+        },
+        {
+            "id": 2390834,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6186060.d.html",
+            "title": "美国商务部长雷蒙多：美国已经暴露了供应链的脆弱性。",
+            "date_modified": "2021-11-08T19:06:26.000Z"
+        },
+        {
+            "id": 2390832,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4422535.d.html",
+            "title": "恒指期货夜盘收涨0.59%，报24882点，高水118点。",
+            "date_modified": "2021-11-08T19:06:11.000Z"
+        },
+        {
+            "id": 2390831,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6185978.d.html",
+            "title": "  COMEX 12月黄金期货收涨0.6%，连续第三个交易日上涨，报1828.00美元/盎司，在“非农夜”后一个交易日创9月初以来收盘新高，最近三天接连站上50日均线、100日均线、以及200日均线。",
+            "date_modified": "2021-11-08T19:05:56.000Z"
+        },
+        {
+            "id": 2390818,
+            "content_html": "",
+            "title": "美股新能源车板块涨幅扩大。康迪车业(KNDI.O)、Nikola(NKLA.O)涨超10%，Lucid Group(LCID.O)涨8.3%，Workhorse(WKHS.O)、Lordstown Motors(RIDE.O)涨超6%，图森未来(TSP.O)、福特汽车(F.N)涨超5%。",
+            "date_modified": "2021-11-08T18:28:12.000Z"
+        },
+        {
             "id": 2390817,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6183253.d.html",
@@ -211,82 +259,6 @@
             "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4412013.d.html",
             "title": "【百亿私募宁泉资产持续\"扫货\"券商股】11月8日晚间港交所披露易信息显示，杨东掌舵的百亿私募宁泉资产于11月4日增持东方证券37万股H股股份，耗资约226万港元。目前市场来看，港股上市券商估值整体偏低，宁泉资产年内已经持续买入东方证券、中原证券、国泰君安证券、中信建投证券等券商股。整体来看，财富管理是券商估值提升的主逻辑，东方证券等公司出色的财富管理业务已经在A股吸引了投资者的目光，而港股券商目前普遍处于低谷，这给一些机构投资者带来了更好的布局机会。（券商中国）",
             "date_modified": "2021-11-08T16:23:19.000Z"
-        },
-        {
-            "id": 2390737,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4411976.d.html",
-            "title": "【A50 ETF成交火爆：全天累计成交突破百亿元】上市首日，A50 ETF成交火爆，全天累计成交突破百亿元。其中，华夏A50 ETF全天共成交36.17亿元，不仅成为当天股票ETF产品成交第一的品种，也打破了此前华泰柏瑞沪深300ETF上市当日32.86亿元的纪录。（券商中国）",
-            "date_modified": "2021-11-08T16:22:54.000Z"
-        },
-        {
-            "id": 2390734,
-            "content_html": "",
-            "title": "  微软(MSFT.O)将在Azure中使用新的AMD(AMD.O)“米兰-X”芯片。",
-            "date_modified": "2021-11-08T16:19:50.000Z"
-        },
-        {
-            "id": 2390732,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4411414.d.html",
-            "title": "日本气象厅JMA：日本福岛发布地震预警。",
-            "date_modified": "2021-11-08T16:15:47.000Z"
-        },
-        {
-            "id": 2390731,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4411292.d.html",
-            "title": "  AMD(AMD.O)公布了新的超级计算芯片，旨在与英伟达(NVDA.O)竞争。AMD表示该芯片将用于美国橡树岭国家实验室的Frontier系统。",
-            "date_modified": "2021-11-08T16:13:39.000Z"
-        },
-        {
-            "id": 2390730,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6174561.d.html",
-            "title": "  AMD(AMD.O)：为数据中心处理器提供新的3D内存芯片。",
-            "date_modified": "2021-11-08T16:11:06.000Z"
-        },
-        {
-            "id": 2390729,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4411115.d.html",
-            "title": "  【二手在售房源突破3万套，过户套数创9年新低，深圳10月楼市依然冷清】中原研究中心数据统计，10月深圳新房住宅成交4712套——创今年新高，环比上升41.0%；成交面积48.6万平，环比上升48.1%。10月，深圳新房市场共网签5570套商品房，环比上涨19.8%；成交面积为53.82万平，环比上涨26.0%。10月深圳二手房在售房源数量环比上升2.0%至30168套。但二手住宅过户套数为1605套——为2012年3月以来的最低值，环比下滑9.1%。业内专家认为，政策不断向刚需倾斜，楼市调控空间明显收窄。中长期看，深圳发展前景好，需求充足，房产价值凸显，但房价上涨速度将放慢，长期投资收益下降，市场将回归到以刚需自住为主导的理性市场。",
-            "date_modified": "2021-11-08T16:10:48.000Z"
-        },
-        {
-            "id": 2390728,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4411049.d.html",
-            "title": "  AMD(AMD.O)：十大数据中心都已采用EPYC（霄龙）服务器芯片。",
-            "date_modified": "2021-11-08T16:10:11.000Z"
-        },
-        {
-            "id": 2390726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6174288.d.html",
-            "title": "市场消息：Meta Platforms(FB.O)的Facebook数据中心将使用AMD(AMD.O)芯片。",
-            "date_modified": "2021-11-08T16:08:08.000Z"
-        },
-        {
-            "id": 2390725,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4410730.d.html",
-            "title": "摩根大通：以历史标准来看，预计全球实际GDP增长温和。",
-            "date_modified": "2021-11-08T16:06:27.000Z"
-        },
-        {
-            "id": 2390724,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzqtyu6173999.d.html",
-            "title": "摩根大通：将我们对全球长期通胀的预测提高到2.4%。",
-            "date_modified": "2021-11-08T16:05:30.000Z"
-        },
-        {
-            "id": 2390721,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-11-09/detail-iktzscyy4410446.d.html",
-            "title": "俄罗斯天然气公司Gazprom在周二没有预定额外的天然气管道产能。",
-            "date_modified": "2021-11-08T16:03:56.000Z"
         }
     ]
 }
