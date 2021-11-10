@@ -4,13 +4,245 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[中汽协：1-10月新能源汽车销量同比增长177%。]]></title>
+            <title><![CDATA[港股恒腾网络跌超10%，报1.93港元，此前中国恒大再减持恒腾网络股份，持股比例降至20.82%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6494235.d.html</link>
+            <guid>2393128</guid>
+            <pubDate>Wed, 10 Nov 2021 07:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称恒驰5已开始试生产，将在天津投产】近日，在工信部发布的第350批《道路机动车辆生产企业及产品公告》新产品公示中，恒大汽车申报首款车型――恒驰5 LX。恒大汽车内部人士表示，目前恒驰5 LX已经开始试生产工作。恒驰5 LX将在恒大新能源汽车（天津）有限公司进行生产。恒大天津前身为国能新能源汽车有限公司，该公司拥有国家发改委批准的新建纯电动汽车生产资质牌照，同时还是工信部核准的纯电动乘用车生产企业，拥有“双资质”。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6494144.d.html</link>
+            <guid>2393127</guid>
+            <pubDate>Wed, 10 Nov 2021 07:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建：到2025年新一代信息技术产业增加值力争达到3500亿】福建省人民政府办公厅印发福建省“十四五”战略性新兴产业发展专项规划。规划提出，深化新时代“数字福建”建设，聚焦高性能集成电路、超高清视频显示、光电等电子核心产业，扩大下一代信息网络及高端信息服务多元优质供给，将福建省打造成为国内领先的新一代信息技术产业高地。到2025年，新一代信息技术产业增加值力争达到3500亿元，年均增长10.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4731636.d.html</link>
+            <guid>2393126</guid>
+            <pubDate>Wed, 10 Nov 2021 07:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海南省人民政府办公厅发布关于印发《海南省“十四五”建设国际旅游消费中心规划》的通知。 目标到2025年，国际旅游消费中心基本建成。消费供给侧结构性改革成效显著，消费进一步提质扩容，消费型经济迈上新台阶，消费在稳增长、促改革、调结构、惠民生中的作用显著增强。免税购物、国际医疗、留学海南三大品牌建设加快推进，到2025年，吸引境外就医回流50万人次，吸引国际教育消费300亿元、回流5万人，离岛免税品贸易实现倍增。]]></title>
+            <guid>2393125</guid>
+            <pubDate>Wed, 10 Nov 2021 07:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国气候变化大会（COP26）协议最终草案：到2022年底各项计划应与巴黎会议的目标一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6493699.d.html</link>
+            <guid>2393124</guid>
+            <pubDate>Wed, 10 Nov 2021 07:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国气候变化大会（COP26）协议最终草案敦促各国加强2030年的气候目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6493682.d.html</link>
+            <guid>2393123</guid>
+            <pubDate>Wed, 10 Nov 2021 07:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国气候变化大会（COP26）协议最终草案：呼吁联合国每年就气候计划进行报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6493651.d.html</link>
+            <guid>2393122</guid>
+            <pubDate>Wed, 10 Nov 2021 07:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：卡塔尔将12月陆地石油官方售价定为升水2.55美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6493093.d.html</link>
+            <guid>2393120</guid>
+            <pubDate>Wed, 10 Nov 2021 07:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大帝国商业银行三季度持仓：风格稳健 小幅减持科技股】加拿大帝国商业银行三季度13F文件显示，其三季度五大买入股分别为Kirkland Lake Gold、安桥、Brookfield资管、宏利金融、加拿大太平洋铁路，其中，增持幅度排名前三的个股公司均涉及能源、天然气业务。加拿大皇家银行、多伦多道明银行、Brookfield资管为其前三重仓股。值得一提的是，其对苹果、Shopify、微软均进行了小幅减持。整体风格稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6492213.d.html</link>
+            <guid>2393116</guid>
+            <pubDate>Wed, 10 Nov 2021 07:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本前财务大臣麻生太郎：有信心实现中期目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4729520.d.html</link>
+            <guid>2393112</guid>
+            <pubDate>Wed, 10 Nov 2021 07:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：三大指数午后探底回升创指跌0.3% 元宇宙概念持续活跃】11月10日消息，三大指数低开低走，盘中指数一度集体大跌近2%。板块方面，元宇宙概念股再度活跃，数字货币、消费电子等板块走强；盐湖提锂、绿电等新能源板块持续下挫，煤炭、汽车等板块走弱。午后指数探底回升，跌幅大幅收窄。医药医疗股异动拉升，保险、房地产板块回暖；食品加工、白酒、猪肉等消费板块低迷。总体而言，市场情绪有所回暖，个股涨多跌少，赚钱效应一般，成交连续第14个交易日破万亿。截至收盘，沪指跌0.41%，深证成指跌0.38%，创业板指跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6491464.d.html</link>
+            <guid>2393106</guid>
+            <pubDate>Wed, 10 Nov 2021 07:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10月CPI同比终值 4.5%，预期 4.5%，初值 4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4728706.d.html</link>
+            <guid>2393102</guid>
+            <pubDate>Wed, 10 Nov 2021 07:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10月调和CPI环比终值 0.5%，预期 0.5%，初值 0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4728632.d.html</link>
+            <guid>2393101</guid>
+            <pubDate>Wed, 10 Nov 2021 07:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【临港新片区又一产业园开园 弥费科技等一批集成电路项目签约】11月10日，上海自贸区临港新片区产业区钻石园开园，10家企业“开园即入驻”，另有弥费集成电路半导体自动物料传送系统（AMHS）研发及产业化项目等一批重点项目签约。（e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6490529.d.html</link>
+            <guid>2393100</guid>
+            <pubDate>Wed, 10 Nov 2021 06:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杭萧钢构：中标黄河国家博物馆项目钢结构工程】记者从杭萧钢构获悉，公司近日成功中标黄河国家博物馆项目钢结构工程。该项目位于河南省郑州市，总建筑面积102050㎡，其中地上建筑面积72050㎡、地下建筑面积30000㎡。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4727850.d.html</link>
+            <guid>2393095</guid>
+            <pubDate>Wed, 10 Nov 2021 06:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股融创中国拉升，涨超10%，报15.26港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4727798.d.html</link>
+            <guid>2393094</guid>
+            <pubDate>Wed, 10 Nov 2021 06:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米消金首次发生高管变更】11月10日，重庆银保监局发布多则批复公告，核准了重庆小米消费金融有限公司部分新任高管的任职资格，赵文龙副总裁、项锟首席信息官与王剑总裁助理任职资格同时获批。这是自小米消金自开业以来首次发生高管变动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6490004.d.html</link>
+            <guid>2393093</guid>
+            <pubDate>Wed, 10 Nov 2021 06:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工业母机板块持续拉升，宇晶股份此前涨停，华明装备、恒锋工具、浙海德曼跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4726840.d.html</link>
+            <guid>2393092</guid>
+            <pubDate>Wed, 10 Nov 2021 06:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【巴克莱三季度持仓：加仓大型科技股】巴克莱三季度13F文件显示，三季度五大买入股为特斯拉、微软、谷歌、亚马逊及iShares罗素2000 ETF。苹果持仓比例从2.46%升至2.67%，微软持仓比例从2.19%升至2.63%。亚马逊持仓比例从1.62%升至1.99%。截至第三季度，巴克莱五大持仓股为标普500ETF-SPDR看跌期权，纳斯达克100指数ETF看跌期权、iShares罗素2000 ETF看跌期权、标普500ETF-SPDR看涨期权以及苹果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4726763.d.html</link>
+            <guid>2393091</guid>
+            <pubDate>Wed, 10 Nov 2021 06:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农业农村部：全国农产品批发市场猪肉均价比昨天下降0.5%】据农业农村部监测，11月10日“农产品批发价格200指数”为131.32，比昨天上升0.45个点，“菜篮子”产品批发价格200指数为134.84，比昨天上升0.52个点。截至今日14：00时，全国农产品批发市场猪肉平均价格为24.06元/公斤，比昨天下降0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4726570.d.html</link>
+            <guid>2393090</guid>
+            <pubDate>Wed, 10 Nov 2021 06:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小鹏汽车于银川成立销售服务公司 经营范围含新能源汽车销售】数据显示，近日，银川小鹏汽车销售服务有限公司成立，法定代表人为李初旭，注册资本1000万，经营范围包括汽车及零配件批发；新能源汽车整车销售；电动汽车充电基础设施运营；充电桩销售；二手车经纪等，股东信息显示，该公司由小鹏汽车销售有限公司全资控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6488451.d.html</link>
+            <guid>2393088</guid>
+            <pubDate>Wed, 10 Nov 2021 06:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高通推出头戴式AR开发套件骁龙Spaces XR开发者平台，预计于2022年春季面市】高通推出头戴式AR开发套件骁龙Spaces XR开发者平台，为开发者提供实现创意的工具，并将变革头戴式AR的可能性。骁龙Spaces现已面向部分开发者提供，并预计将于2022年春季面市。骁龙Spaces主要环境理解特性包括空间映射与空间网格、遮挡、平面探测、物体与图像识别和追踪、具备用户理解能力的机器感知特性包括定位追踪和手势识别。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4726099.d.html</link>
+            <guid>2393087</guid>
+            <pubDate>Wed, 10 Nov 2021 06:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[房地产开发板块持续拉升，京投发展涨超7%，保利发展、金地集团、金科股份跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4725951.d.html</link>
+            <guid>2393086</guid>
+            <pubDate>Wed, 10 Nov 2021 06:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将虎牙(HUYA.N)目标价从13.2美元下调至11.8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4725203.d.html</link>
+            <guid>2393084</guid>
+            <pubDate>Wed, 10 Nov 2021 06:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将腾讯音乐(TME.N)目标价从9美元下调至8.5美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4725144.d.html</link>
+            <guid>2393083</guid>
+            <pubDate>Wed, 10 Nov 2021 06:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德银：将BioNTech SE(BNTX.O)目标价从250美元下调至225美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4725018.d.html</link>
+            <guid>2393082</guid>
+            <pubDate>Wed, 10 Nov 2021 06:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canaccord：将Coinbase(COIN.O)目标价从325美元上调至342美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4724943.d.html</link>
+            <guid>2393081</guid>
+            <pubDate>Wed, 10 Nov 2021 06:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中汽协：10月我国动力电池装车量15.4GWh 同比上升162.8%】中汽协：10月，我国动力电池装车量15.4GWh，同比上升162.8%，环比下降1.8%。其中三元电池共计装车7GWh，同比上升104.3%，环比上升13.5%；磷酸铁锂电池共计装车8.4GWh，同比上升249.5%，环比下降11.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4724449.d.html</link>
+            <guid>2393080</guid>
+            <pubDate>Wed, 10 Nov 2021 06:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中汽协：10月新能源汽车产销再创新高】中汽协：10月，新能源汽车产销分别完成39.7万辆和38.3万辆，同比均增长1.3倍。其中纯电动汽车产销分别完成32.9万辆和31.6万辆，同比均增长1.3倍；插电式混合动力汽车产销均完成6.8万辆，同比分别增长1.7倍和1.5倍；燃料电池汽车产销分别完成59辆和47辆，同比分别下降23.4%和40.5%。本月新能源产销继续刷新记录。10月新能源汽车市场渗透率继续维持历史高位，为16.4%，新能源乘用车市场渗透率达到18.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6486456.d.html</link>
+            <guid>2393078</guid>
+            <pubDate>Wed, 10 Nov 2021 06:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿迪达斯第三季度营收57.5亿欧元，市场预估58.4亿欧元；第三季度营业利润6.72亿欧元，市场预估6.794亿欧元。]]></title>
+            <guid>2393074</guid>
+            <pubDate>Wed, 10 Nov 2021 06:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高通在进博会展示第3代骁龙汽车数字座舱平台】高通在进博会上展示搭载第3代骁龙汽车数字座舱平台的豪华智能旗舰SUV——领克09，支持语音交互，实现开关、高度、亮度均可语音调控，全车可实现四音区精准拾音以及六屏支持多联动。此外，高通还演示了5G毫米波大上行帧结构的8K视频回传业务应用案例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6486036.d.html</link>
+            <guid>2393073</guid>
+            <pubDate>Wed, 10 Nov 2021 06:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[磷化工板块反弹拉升，创业板股清水源涨停，湖北宜化、川金诺、六国化工、新农股份等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6485931.d.html</link>
+            <guid>2393072</guid>
+            <pubDate>Wed, 10 Nov 2021 06:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云铝股份：公司当前氧化铝自供率约为27%、阳极炭块自供率约为90%】云铝股份11月10日在互动平台表示，以在产电解铝产能计算，公司当前氧化铝自供率约为27%左右、阳极炭块自供率约为90%左右，根据公司生产经营情况会有相应变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4723311.d.html</link>
+            <guid>2393070</guid>
+            <pubDate>Wed, 10 Nov 2021 06:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中汽协：新能源汽车产销连创新高，月产销已接近40万辆水平，1—10月渗透率继续提升至12.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6485450.d.html</link>
+            <guid>2393068</guid>
+            <pubDate>Wed, 10 Nov 2021 06:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【晨星：Palantir商业增长加速，上调目标价至31美元】晨星分析师Mark Cash表示，将Palantir的目标价从28美元上调至31美元，Palantir第三季度绩后，尽管其规模不断扩大，Cash对其强劲增长前景仍更加确信。在Palantir绩后股价一度下跌10%，Cash认为，这是因为政府收入连续下降6%，尽管去年同期状况艰难，第四季度的前景可能较为保守。强劲的销售增长来自商业增长加速至37%，商业交易总额增长同比增长101%。虽然预计未来几年政府订单的稳定积压和新合同将占销售的一半以上，但相信商业可能会成为更大的长期贡献者。 分析师积极看待商业和通过新模块扩展其用例的势头，长期来看这将带来稳定的营业利润率增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4722671.d.html</link>
+            <guid>2393065</guid>
+            <pubDate>Wed, 10 Nov 2021 06:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中汽协：中国10月份乘用车销量同比下降5.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6484698.d.html</link>
+            <guid>2393063</guid>
+            <pubDate>Wed, 10 Nov 2021 06:26:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云游戏板块午后走弱，凯撒文化跌超3%，天舟文化、中青宝、新元科技跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4722221.d.html</link>
+            <guid>2393062</guid>
+            <pubDate>Wed, 10 Nov 2021 06:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康拓红外：子公司轩宇智能参与国家重点研发计划项目正式立项】日前，科技部正式下发通知，国家重点研发计划“数字诊疗装备研发”重点专项“巡诊查房智能化机器人研发”项目正式获批立项。康拓红外子公司轩宇智能作为研发团队之一，主要负责巡诊查房智能化机器人核心部件及系统性能验证。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6484100.d.html</link>
+            <guid>2393060</guid>
+            <pubDate>Wed, 10 Nov 2021 06:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天猫于浙江成立新公司 注册资本8000万】数据显示，11月9日，浙江猫享电子商务有限公司成立，法定代表人为吴迪，注册资本8000万人民币，经营范围包括餐饮服务；食品互联网销售；药品批发；药品零售等，股东信息显示，该公司由浙江天猫技术有限公司全资控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4721067.d.html</link>
+            <guid>2393058</guid>
+            <pubDate>Wed, 10 Nov 2021 06:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中汽协：1-10月新能源汽车累计销量254.2万辆，同比增长176.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4720461.d.html</link>
             <guid>2393057</guid>
             <pubDate>Wed, 10 Nov 2021 06:19:02 GMT</pubDate>
@@ -103,289 +335,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6475580.d.html</link>
             <guid>2393023</guid>
             <pubDate>Wed, 10 Nov 2021 05:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[钛白粉概念午后持续走弱，攀钢钒钛跌近5%，安纳达、天原股份、安宁股份跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4712876.d.html</link>
-            <guid>2393022</guid>
-            <pubDate>Wed, 10 Nov 2021 05:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股海运板块午后走低，中国外运跌超4%，太平洋航运跌超3%，东方海外国际跌近3%，中远海控跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6474655.d.html</link>
-            <guid>2393018</guid>
-            <pubDate>Wed, 10 Nov 2021 05:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股内险股午后走低，众安在线(06060.HK)跌5.19%，中国财险(02328.HK)跌2.73%，中国平安(02318.HK)跌2.14%、中国人寿(02628.HK)跌2.05%。]]></title>
-            <guid>2393017</guid>
-            <pubDate>Wed, 10 Nov 2021 05:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房地产板块午后走强，金地集团涨超5%，金科股份、保利发展、高新发展、荣盛发展、招商蛇口等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4711734.d.html</link>
-            <guid>2393016</guid>
-            <pubDate>Wed, 10 Nov 2021 05:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电：10月销售额1345.4亿台币，同比增长13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4711469.d.html</link>
-            <guid>2393015</guid>
-            <pubDate>Wed, 10 Nov 2021 05:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本出现今冬首例禽流感 14.3万只鸡将被扑杀】据日本共同社报道，日本秋田县政府10日宣布在横手市的养鸡场确认到高致病性禽流感，已开始对14.3万只蛋鸡进行扑杀。9日的简易检测出现阳性反应，基因检测结果也呈阳性。报道称，这是日本的养鸡场今冬出现的首例禽流感。秋田县已限制该养鸡场方圆10公里以内的养鸡场外运鸡和蛋等，并要求自卫队实施灾害派遣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6473676.d.html</link>
-            <guid>2393014</guid>
-            <pubDate>Wed, 10 Nov 2021 05:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东最大氢燃料电池供氢项目建成】记者从中国石化获悉，近日由中国石化所属青岛炼化承建的山东省最大氢燃料电池供氢项目——青岛市氢能资源基地项目建成。该项目氢气年产能力为2250吨，预计今年12月底投产。投产后，将彻底解决青岛市燃料电池用氢来源问题，有效提高山东省氢气生产和供应能力，促进山东氢能产业快速发展，助力打造“东方氢岛”。 (中证网)]]></title>
-            <guid>2393011</guid>
-            <pubDate>Wed, 10 Nov 2021 05:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海利得：目前公司聚酯产能为30万吨 已实现自给自足】海利得(002206)11月10日在互动平台表示，目前公司聚酯产能为30万吨，已实现自给自足。公司车用产品采用原材料价格加成的定价模式，原材料价格的波动长期来看不会对盈利产生重大影响，普通产品价格随行就市，跟随原材料价格等因素涨跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6471937.d.html</link>
-            <guid>2393009</guid>
-            <pubDate>Wed, 10 Nov 2021 05:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[抗癌“神药”PD-1抑制剂国家医保谈判今日举行，国产PD-1四大家午后齐升，君实生物(01877.HK)涨8.59%，信达生物(01801.HK)、百济神州(06160.HK)涨超3%，恒瑞医药A股涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4709385.d.html</link>
-            <guid>2393008</guid>
-            <pubDate>Wed, 10 Nov 2021 05:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【恩捷股份：已有替代PVDF的其他粘结剂方案 已在部分客户处开始电池评估】恩捷股份 (002812)今日在互动平台表示，公司已有替代PVDF的其他粘结剂方案，已在部分客户处开始了电池评估，以应对后续PVDF的持续涨价或供应不上的情况出现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6471360.d.html</link>
-            <guid>2393007</guid>
-            <pubDate>Wed, 10 Nov 2021 05:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物制品板块午后异动拉升，沃森生物午后直线拉升涨超8%，君实生物、神州细胞、长春高新、艾迪药业、康希诺等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4708862.d.html</link>
-            <guid>2393006</guid>
-            <pubDate>Wed, 10 Nov 2021 05:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股核电板块走低，中广核新能源跌超8%，中广核矿业跌超6%，东方电气、哈尔滨电气跌近5%，中广核电力跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6470546.d.html</link>
-            <guid>2393004</guid>
-            <pubDate>Wed, 10 Nov 2021 05:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“国谈”次日：恒瑞进场接近2小时，各方焦灼等待】明星抗癌“神药”PD-1抑制剂国家医保谈判被安排在今天（10日）。据现场人士反馈，上午已经见到国产PD-1四大家（信达、百济、君实和恒瑞）陆续入场。其中恒瑞于上午10:40左右入场，直到接近下午1点才见公司出谈判现场。相比上午信达、百济、君实等其他谈判企业（进场时间均在1小时左右），恒瑞的进场时间貌似更久。据了解，企业进场之后可能需要等候一段时间才会开始正式的谈判，谈判之后还会有签约环节。而谈判时间可能是统一为半小时。今年恒瑞PD-1预计将进行两个适应症的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4707732.d.html</link>
-            <guid>2393003</guid>
-            <pubDate>Wed, 10 Nov 2021 05:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[煤炭概念午后持续低迷，特变电工跌超6%，晋控煤业、潞安环能、兰花科创跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4707672.d.html</link>
-            <guid>2393002</guid>
-            <pubDate>Wed, 10 Nov 2021 05:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股电力股午后持续下挫，华润电力(00836.HK)跌8.44%，华能国际电力(00902.HK)跌5.68%，华电国际电力(01071.HK)跌4.18%，大唐发电(00991.HK)跌3.76%，中国电力(02380.HK)跌3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4707627.d.html</link>
-            <guid>2393001</guid>
-            <pubDate>Wed, 10 Nov 2021 05:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒瑞医药午后直线飙升，现涨近6%。消息面，医保谈判正在进行中，近20款创新药首次谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4707602.d.html</link>
-            <guid>2393000</guid>
-            <pubDate>Wed, 10 Nov 2021 05:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机场航运板块午后持续走弱，中国国航跌近4%，吉祥航空、春秋航空、上海机场跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4707546.d.html</link>
-            <guid>2392999</guid>
-            <pubDate>Wed, 10 Nov 2021 05:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半导体及元件板块午后持续拉升，科翔股份涨近13%，力合微、华天科技、银河微电跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4706847.d.html</link>
-            <guid>2392996</guid>
-            <pubDate>Wed, 10 Nov 2021 05:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江天化学：公司及全资子公司拟签署搬迁补偿合同，总价款约5.54亿元（不含土地使用权补偿），土地使用权补偿等价等面积置换；同时公司拟与南通市经开区管委会签署投资协议，投资新建迁出长江一公里安全环保提升项目（甲醇下游新材料及中间体一体化项目）。]]></title>
-            <guid>2392992</guid>
-            <pubDate>Wed, 10 Nov 2021 04:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥士康：拟推2021年限制性股票激励计划及股票期权激励计划，授予约289.63万股限制性股票、1272.72万股股票期权，股票来源均为向激励对象定向发行新股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4702774.d.html</link>
-            <guid>2392991</guid>
-            <pubDate>Wed, 10 Nov 2021 04:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铜陵有色：控股子公司铜冠铜箔首发并在创业板上市申请提交证监会注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4702755.d.html</link>
-            <guid>2392990</guid>
-            <pubDate>Wed, 10 Nov 2021 04:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国民技术与浦项化学签署增资协议 推动新能源负极材料行业发展】国民技术午间公告称，公司及控股孙公司内蒙古斯诺与浦项化学、华友钴业签增资协议，公司控股子公司深圳斯诺将所持内蒙古斯诺95%及5%股权分别转让给国民技术和华友钴业。其后，协议约定，浦项化学以1.41亿元现金认购重组后的内蒙古斯诺新增注册资本，取得内蒙古斯诺15%的股权，国民技术和华友钴业放弃行使优先认购权，此次交易有利于合作推动内蒙古斯诺在新能源负极材料行业的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6464959.d.html</link>
-            <guid>2392989</guid>
-            <pubDate>Wed, 10 Nov 2021 04:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南洋浦港再迎一条远洋洲际航线】据海南港航消息，11月9日，中远海运FCE印度洋航线“新温州”轮缓缓靠泊海南港航所辖的洋浦国际集装箱码头。这是洋浦继2020年9月开通海南自贸港首条洲际越洋航线后迎来的又一条远洋洲际航线，标志着洋浦国际集装箱码头扩能改造后承接区域远洋干线的能力取得实质性提升，为洋浦下一步从近洋挺进“深蓝”，推动远洋国际干线布局和运力大型化升级奠定了实践基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4699087.d.html</link>
-            <guid>2392985</guid>
-            <pubDate>Wed, 10 Nov 2021 04:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【蔚来高管：探索了在港上市多种可能性，会做出正确选择】蔚来汽车今日发布了该公司截至9月30日的2021年第三季度财报。在财报会议上 ，有分析师问到蔚来汽车赴港上市的问题，对此，公司CEO李斌和其他蔚来高管也进行了回答。当被问及蔚来港股上市计划时，CFO奉玮称蔚来探索了在港上市的多种可能性，在未来也会做出必要的评估与交涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4697570.d.html</link>
-            <guid>2392983</guid>
-            <pubDate>Wed, 10 Nov 2021 04:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东最大氢燃料电池供氢项目建成】据中国石化微博11月10月消息，近日，由中国石化所属青岛炼化承建的山东省最大氢燃料电池供氢项目——青岛市氢能资源基地项目建成。该项目氢气年产能力为2250吨，预计今年12月底投产。投产后，将彻底解决青岛市燃料电池用氢来源问题，有效提高山东省氢气生产和供应能力，促进山东氢能产业快速发展，助力打造“东方氢岛”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6459584.d.html</link>
-            <guid>2392981</guid>
-            <pubDate>Wed, 10 Nov 2021 04:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度斯坦锌公司CEO：全球关注可持续发展可以推动锌需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6459358.d.html</link>
-            <guid>2392980</guid>
-            <pubDate>Wed, 10 Nov 2021 04:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【舟山市市长何中伟：鱼山石化基地二期将于年底投产】舟山市市长何中伟在2021第四届世界油商大会上表示，鱼山石化基地一期已达产，二期将于年底投产。二期达产后，鱼山石化基地炼油产能为4000万吨/年、乙烯产能为280万吨/年、芳烃产能为1180万吨/年。根据规划，到2025年，舟山核心区石化产值目标为3000亿元以上，届时其乙烯产能为420万吨/年；同期，舟山拓展区域规划项目将新增投资约1000亿元，年新增产值约3000亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6457423.d.html</link>
-            <guid>2392979</guid>
-            <pubDate>Wed, 10 Nov 2021 03:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海期货交易所理事长姜岩：今年前三季浙江自贸区油气贸易额达5452.5亿元】上海期货交易所理事长姜岩在2021第四届世界油商大会上发表主旨演讲表示，“今年前3季度，上期所（含上期能源）已累计成交161.51万亿元，同比增长53%；浙江自贸区油气贸易额已达5452.5亿元，同比增长33 %。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6457312.d.html</link>
-            <guid>2392978</guid>
-            <pubDate>Wed, 10 Nov 2021 03:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧拉开源社区理事长江大勇：将在海外同步建立生态】 在今日openEuler Summit 2021上，欧拉开源社区理事长江大勇表示，希望把欧拉系统打造成为最繁荣的数字基础设施的开源操作系统生态，而生态发展得好不好，关键看社区伙伴市场商业化是否成功。欧拉系统将在海外同步建立生态，通过部署国外的镜像站，建立推广海外社区以及海外开源基金会，并启动拓展海外技术生态，为合作伙伴开拓市场空间奠定基础。后续社区将支持不同类型的合作伙伴多路径拓展海外市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4694644.d.html</link>
-            <guid>2392976</guid>
-            <pubDate>Wed, 10 Nov 2021 03:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新型高超音速飞机首次曝光 投产后纽约到伦敦将从7小时缩短至90分钟】 美国一家航空公司近日首次公开展示了其研发的新型高超音速飞机原型机，声称这种飞机能以5马赫的速度飞行，并希望最快能在明年首飞。该公司表示，以这样的速度飞行，从纽约到伦敦只需要90分钟，而不是现在的7个小时。美国媒体注意到，美国空军也在这一高超音速飞机项目上进行了投资，并认为该机的技术“肯定还有其他方面的应用”。 (环球时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4694374.d.html</link>
-            <guid>2392975</guid>
-            <pubDate>Wed, 10 Nov 2021 03:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日经：电脑液晶面板价格2年半以来首降】据日经新闻，用于个人电脑的液晶面板价格在约2年半以来首次下跌，指标产品的10月大单优惠价比上月下跌约2%。随着此前因宅家需求而表现强劲的全球电视销售告一段落，电视面板持续降价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6456755.d.html</link>
-            <guid>2392974</guid>
-            <pubDate>Wed, 10 Nov 2021 03:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陆金所控股：前三季度净利润同比增长28%】美股上市公司陆金所控股11月10日公布2021年第三季度财报。报告期内，陆金所控股营业总收入同比增21.8%，达159.24亿元；实现净利润41.15亿元，剔除去年同期一次性费用影响，净利润同比增18.1%。截至9月30日，陆金所控股前三季度累计实现净利润138亿元，同比增28%。陆金所控股还披露了分红政策，计划自2022年起，按其上一会计年度净利润20%至40%的比例派发经常性现金分红回馈股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4693555.d.html</link>
-            <guid>2392971</guid>
-            <pubDate>Wed, 10 Nov 2021 03:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国石化在广东首批3座充换电站投营 与蔚来合作建设】从中国石化获悉，近日，中国石化与蔚来在广东合作建设的首批充换电站正式投营，分别是位于广东深圳的沙井综合能源服务站，以及位于珠三角环线高速东莞段的黄江南站和黄江北站。这是双方共建智能电动汽车出行新生态的具体举措，将促进广东省汽车电动化发展，助力绿色交通。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6455629.d.html</link>
-            <guid>2392970</guid>
-            <pubDate>Wed, 10 Nov 2021 03:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沈阳：11月7日（含）起大连市来（返）沈阳人员一律实施集中隔离医学观察】沈阳市11月7日起将大连市全域纳入重点管控地区（庄河市已于11月4日纳入重点管控地区）。沈阳市疾控中心紧急提醒广大市民朋友：11月7日（含）起，大连市来（返）沈人员一律实施集中隔离医学观察，隔离期限至来（返）沈后满14天，其间进行2次核酸检测；庄河市管控不变，即10月23日从庄河来（返）沈人员一律实施集中隔离医学观察，隔离期限至来（返）沈后满14天，其间进行2次核酸检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6453948.d.html</link>
-            <guid>2392968</guid>
-            <pubDate>Wed, 10 Nov 2021 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国台办回应武统台湾的猜测：台独意味着和平丧失】国台办10日举行新闻发布会，有记者提问，据报道，台防务部门预计明年3月完成制作“战时民众求生避难手册”，引发台湾民众对“武统”的猜测。对此，国台办发言人朱凤莲表示，两岸民众都非常清楚，“台独”意味着和平的丧失和灾难的降临。民进党当局为了一己私利顽固进行谋“独”挑衅，不惜将台湾民众绑上“台独”战车。这种胁迫民意、背离大势的倒行逆施，将极大损害台湾同胞福祉，也必然遭到台湾同胞的反对和抵制。我们希望广大台湾同胞擦亮眼睛，不要成为“ 台独”分裂势力的牺牲品，共同维护同胞切身利益，维护台海和平稳定。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4690033.d.html</link>
-            <guid>2392966</guid>
-            <pubDate>Wed, 10 Nov 2021 03:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上证综指午盘收跌1.20%，报3464.80点。 贵州茅台对指数下跌拖累最大，下跌2.2%。 赛轮轮胎跌幅最大，下跌9.3%。午盘交易中，1,711支股票中1,162支下跌，482支上涨；5个类股中4个类股走低，以工业股为首。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6452356.d.html</link>
-            <guid>2392964</guid>
-            <pubDate>Wed, 10 Nov 2021 03:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江省经信厅与省电力公司达成战略合作 推动产业数据与能源数据深度融合】11月9日，浙江省经信厅与国网浙江省电力公司在杭州签署《关于推动产业数据与能源数据深度融合 助推经济领域整体智治的战略合作协议》。双方决定强化系统互联、数据共享、业务协同，促进产业数据与能源数据融合，创新业务协同模式，强化企业精准服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6450889.d.html</link>
-            <guid>2392961</guid>
-            <pubDate>Wed, 10 Nov 2021 03:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西下发三份文件加快推进新型城镇化建设】近日，广西壮族自治区政府办公厅印发《广西新型城镇化规划（2021—2035年）》《广西支持推进新型城镇化若干政策措施的通知》《广西推进新型城镇化三年行动计划（2021—2023年）》三份文件，进一步加快推进新型城镇化。据悉，到2035年，广西将实现以人为核心的新型城镇化深入推进，常住人口城镇化率达到68%左右，农业转移人口市民化总体完成，基本公共服务实现均等化，城乡区域发展差距和居民生活水平差距显著缩小，更多人享有更高品质的城市生活。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6450466.d.html</link>
-            <guid>2392960</guid>
-            <pubDate>Wed, 10 Nov 2021 03:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国首次实现超越No-go定理的超辐射相变模拟】近日，中国科学技术大学彭新华研究组和华中科技大学吕新友教授合作，通过引入反压缩操作，借助于高精度的量子控制技术，首次成功地在核磁共振量子模拟器上实现了超越No-go定理的平衡态超辐射相变，推动了量子相变理论和量子模拟领域的发展，为量子精密测量提供了新的途径。相关研究成果日前在线发表于国际学术期刊《自然·通讯》上。  （科技日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4686543.d.html</link>
-            <guid>2392959</guid>
-            <pubDate>Wed, 10 Nov 2021 03:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  光伏板块持续走低，捷佳伟创跌超10%，晶科科技、特变电工、双杰电气、海源复材、天能重工、银星能源、林洋能源等跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4686429.d.html</link>
-            <guid>2392958</guid>
-            <pubDate>Wed, 10 Nov 2021 03:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办回应美联邦参议员乘军机抵台：民进党当局倚美谋独注定失败】国务院台湾事务办公室10日举行例行新闻发布会，国台办发言人朱凤莲表示，我们坚决反对美国同中国台湾地区进行任何形式的官方往来和军事联系。我们敦促美国一些国会议员恪守一个中国原则和中美三个联合公报有关规定，不要向“台独”势力发出错误信号，否则只会给台海和平稳定带来进一步损害。 民进党当局“倚美谋独”注定失败。任何人都不要低估中国人民捍卫国家主权和领土完整的坚强决心、坚定意志、强大能力！  （人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6448504.d.html</link>
-            <guid>2392955</guid>
-            <pubDate>Wed, 10 Nov 2021 03:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[创业板指下挫跌逾2％，沪指跌1.6％，深成指跌1.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4685305.d.html</link>
-            <guid>2392953</guid>
-            <pubDate>Wed, 10 Nov 2021 03:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国台办：希望广大台湾同胞擦亮眼睛 不要成为“台独”分裂势力的牺牲品】国台办发言人朱凤莲表示， 民进党当局为了一己私利顽固进行谋“独”挑衅，不惜将台湾民众绑上“台独”战车。这种胁迫民意、背离大势的倒行逆施，将极大损害台湾同胞福祉，也必然遭到台湾同胞的反对和抵制。我们希望广大台湾同胞擦亮眼睛，不要成为“台独”分裂势力的牺牲品，共同维护同胞切身利益，维护台海和平稳定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4685254.d.html</link>
-            <guid>2392952</guid>
-            <pubDate>Wed, 10 Nov 2021 03:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办：台独挑衅一日不止台海紧张一日难缓】台防务部门日前宣称，今年以来解放军军机进入台西南空域已超过700架次，两岸军事对峙难缓，未来台湾将承受更大军事压力。对此，国台办发言人朱凤莲表示，我们愿意以最大诚意、尽最大努力争取和平统一的前景，但绝不为各种形式的“台独”分裂活动留下任何空间。当前台海形势紧张的根源，是民进党当局和“台独”势力赤裸裸地贩卖“两国论”，勾连外部势力不断谋“独”挑衅。解放军举行相关演训活动，是坚决捍卫国家主权和领土完整，是有力针对“台独”分裂活动和外部势力干涉，是从根本上维护中华民族整体利益和两岸同胞切身利益。“台独”挑衅一日不止，台海紧张一日难缓。  （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4685000.d.html</link>
-            <guid>2392949</guid>
-            <pubDate>Wed, 10 Nov 2021 03:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办回应两岸是否快要开战】国台办10日举行例行发布会，会上，有记者提问，商务部近日发布一则通知，鼓励家庭根据需要准备一定生活必需品，引发大陆民众猜测两岸是否快要开战。另外，据报道，台防务部门预计明年3月完成制作“战时民众求生避难手册”，引发台湾民众对“武统”的猜测。发言人对两岸民间的种种猜测以及当前台海氛围有何回应？“第一个问题，商务部已经对此作了回应。希望大家不信谣、不传谣。”朱凤莲称。此外，朱凤莲指出，两岸民众都非常清楚，“台独”意味着和平的丧失和灾难的降临。  （中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzscyy4684866.d.html</link>
-            <guid>2392948</guid>
-            <pubDate>Wed, 10 Nov 2021 03:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净卖出额超73亿元]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-10/detail-iktzqtyu6446774.d.html</link>
-            <guid>2392947</guid>
-            <pubDate>Wed, 10 Nov 2021 03:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  隔夜SHIBOR报1.8330%，下降30.40个基点；7天SHIBOR报2.1420%，下降4.90个基点。]]></title>
-            <guid>2392946</guid>
-            <pubDate>Wed, 10 Nov 2021 03:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【医药健康产业力争2023年规模破3000亿元，北京启动产业创新发展“双引擎】今年上半年北京医药产业规模同比翻番，预计北京医药健康产业到2023年营收规模将突破3000亿元，新增上市企业25家，创新药和创新医疗器械提交上市申请将达到90个。作为北京市构建高精尖经济结构的坚实支撑，医药健康、信息技术正成为推动北京产业创新发展的“双引擎”。（北京日报）]]></title>
-            <guid>2392945</guid>
-            <pubDate>Wed, 10 Nov 2021 03:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
