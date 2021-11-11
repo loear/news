@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 11 Nov 2021 18:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 19:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  “特斯拉劲敌”Rivian美国IPO次日盘中涨幅扩大至超过24.0%，刷新历史高位至125.00美元，盘中市值突破1000亿美元——超越通用汽车（GM）。通用汽车目前涨3.4%，暂报61.27美元，市值889.68亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-12/detail-iktzscyy5030938.d.html</link>
+            <guid>2395965</guid>
+            <pubDate>Thu, 11 Nov 2021 18:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班临时政府敦促前政府飞行员返回阿富汗】据黎明新闻11日报道，阿富汗塔利班临时政府官员已要求所有前政府空军飞行员返回阿富汗。阿富汗塔利班临时政府发言人穆贾希德表示，这些飞行员回到阿富汗将不会受到任何安全威胁，临时政府已经宣布对他们进行大赦，他们可以回到阿富汗服役。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-12/detail-iktzscyy5028860.d.html</link>
+            <guid>2395957</guid>
+            <pubDate>Thu, 11 Nov 2021 18:21:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[财经网站Fxstreet分析师Valencia：现货白银在周三攀升，涨超2%。市场风险偏好情绪改善。尽管美元全面走强，但白银仍在持续上涨。美国通胀数据上涨，10月CPI年率三十年来首次超过6%，刺激资金流向贵金属。长期以来贵金属一直是一种通胀对冲工具，这就是白银价格在过去两天上涨4.90%的原因。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-12/detail-iktzqtyu6792223.d.html</link>
@@ -335,30 +347,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-11/detail-iktzscyy5009197.d.html</link>
             <guid>2395864</guid>
             <pubDate>Thu, 11 Nov 2021 14:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国警告沙特王国称，税收争端可能会迫使公司离开沙特。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-11/detail-iktzqtyu6771511.d.html</link>
-            <guid>2395856</guid>
-            <pubDate>Thu, 11 Nov 2021 14:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大常委会对主要国资管理情况实现专项报告全覆盖】随着十三届全国人大常委会第三十一次会议首次听取和审议国有自然资源资产管理情况专项报告，全国人大常委会实现对主要国有资产管理情况专项报告全覆盖。自然资源部自然资源所有者权益司司长廖永林在接受采访时说，专项报告系统总结了自然资源管理近年来的进展和成效，同时对资源约束趋紧和利用粗放并存、自然资源产权制度还不健全、管理法律法规体系还不完善等方面的问题进行反映。通过加强人大监督，一方面将促进国有自然资源资产管理迈上新台阶，有利于进一步夯实摸清“家底”；另一方面有利于强化自然资源保护、提高自然资源利用效率、优化国土空间开发保护格局、提升生态系统质量和稳定性、建立健全国有自然资源资产管理制度体系，不断提高国有自然资源资产管理的透明度和公信力，持续推进自然资源管理体系和治理能力现代化。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-11/detail-iktzscyy5007539.d.html</link>
-            <guid>2395853</guid>
-            <pubDate>Thu, 11 Nov 2021 14:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：塑料泡沫制造商裕河控股向港交所递交上市申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-11/detail-iktzqtyu6770853.d.html</link>
-            <guid>2395851</guid>
-            <pubDate>Thu, 11 Nov 2021 13:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝钢股份武钢有限5G+铁钢界面智慧平台铁水调度模块成功上线】11月9日20点18分，历时半年筹备的国内首创5G+铁钢界面智慧平台在宝钢股份武钢有限成功上线。这标志着宝钢股份武钢有限首次实现“铁、运、钢”5G扁平化管控及铁水智能调度。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-11/detail-iktzscyy5006906.d.html</link>
-            <guid>2395844</guid>
-            <pubDate>Thu, 11 Nov 2021 13:54:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
