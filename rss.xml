@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 13 Nov 2021 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 20:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩国展出空中出租车 首尔计划2025年商用化】Volocopter 2X空中出租车在韩国首尔的演示活动中亮相。韩国国土交通部表示，为了缓解首尔的交通拥堵状况，计划最早在2025年底实现“无人机出租车”的商用化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5393628.d.html</link>
+            <guid>2398272</guid>
+            <pubDate>Sat, 13 Nov 2021 20:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京不赞同白俄罗斯向欧洲“断气” 称要和卢卡申科聊一聊】在面临欧盟更多制裁的白俄罗斯总统卢卡申科威胁要切断对欧洲天然气供应后，俄罗斯总统普京表示，他会与卢卡申科讨论此事。]]></title>
+            <guid>2398271</guid>
+            <pubDate>Sat, 13 Nov 2021 19:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【柏林的第二家Apple Store可能"在未来几周内"开业】8年前，苹果公司在柏林开设了第一家Apple Store。现在，自2021年开始，关于第二家零售店的传言越来越多，因为施工似乎已经完成。德国网站iFun说，在关注柏林“一个有趣的物业”的施工进展近五年后，他们预计苹果将在未来几周内对外公布第二家商店开张。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7156859.d.html</link>
+            <guid>2398269</guid>
+            <pubDate>Sat, 13 Nov 2021 19:37:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒：打了八年官司，美国苹果公司终于同意向员工支付2990万美元补偿】打了八年官司，美国苹果公司终于同意向加州门店员工支付2990万美元，作为和解补偿。据彭博社13日报道，加州苹果商店员工于2013年对苹果公司提起集体诉讼，理由是这些员工在工作或下班期间被迫接受公司的背包检查，苹果公司却未就此进行赔偿，这违反了加州法律。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5391299.d.html</link>
@@ -322,18 +339,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-13/detail-iktzqtyu7091423.d.html</link>
             <guid>2397674</guid>
             <pubDate>Sat, 13 Nov 2021 07:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：西班牙加那利群岛发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-13/detail-iktzqtyu7087542.d.html</link>
-            <guid>2397669</guid>
-            <pubDate>Sat, 13 Nov 2021 07:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【到2025年黑龙江省快递业全面禁用不可降解塑料包装】 日前，黑龙江省八部门联合印发《黑龙江省加快推进快递包装绿色转型的意见》。到2025年，快递包装领域全面建立与绿色理念相适应的法规、标准和政策体系，形成贯穿快递包装生产、使用、回收、处置全链条的治理长效机制；电商快件基本实现不再二次包装，可循环快递包装规模化应用，全面禁用不可降解的塑料包装物。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-13/detail-iktzqtyu7086613.d.html</link>
-            <guid>2397667</guid>
-            <pubDate>Sat, 13 Nov 2021 07:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
