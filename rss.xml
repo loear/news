@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Nov 2021 15:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 16:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国工资涨幅创20年新高却现罢工潮】美国劳工部数据显示， 2021年第三季度的工资增幅创下了近20年来的新高。尤其是餐厅、酒吧和酒店员工等低收入人群，他们的薪酬同比上涨了8.1%。然而十月以来，全美却掀起了一阵罢工热潮，涉及餐饮业、制造业、医疗业在内的多个行业。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7294162.d.html</link>
+            <guid>2399879</guid>
+            <pubDate>Sun, 14 Nov 2021 15:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰九成国有热电厂停工】据俄罗斯卫星通讯社报道，近日，乌克兰电力集团发布的数据显示，乌克兰约90%的国有热电厂处于停工状态。据乌克兰独立新闻社报道，由于缺乏煤炭，约有三分之二的发电机组无法正常工作，14个发电机组完全不能工作，另有6个机组正在进行设备维修。现在，国有热电厂的23个机组中只有3个在正常运行。乌克兰今年秋天出现能源资源短缺，而能源资源是生产电力所必需的。目前的情况尤其与天然气成本急剧增加和煤炭短缺有关。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5529382.d.html</link>
+            <guid>2399878</guid>
+            <pubDate>Sun, 14 Nov 2021 15:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【鹏辉能源：今年以来储能业务营收占比大幅提升 达到28%】鹏辉能源(300438)在接受调研时表示，今年以来，公司的储能业务非常理想，营收占比大幅提升，达到了28%，收入增长超预期；储能业务的收入结构也实现了向毛利率高业务方向倾斜的转型。公司承接了大量需求主要在海外的家庭储能和便携式储能订单，这部分大约占到储能业务总收入的一半；公司还拿下了国内光伏电力储能大客户阳光电源、天合光能等企业的诸多大型储能项目订单；公司还中标了中国移动通讯基站储能电池项目。目前储能电池的相关产线正满产赶交期，后续的扩产的产线也在加紧安装调试中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7291068.d.html</link>
@@ -394,24 +406,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5481311.d.html</link>
             <guid>2399140</guid>
             <pubDate>Sun, 14 Nov 2021 07:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联瑞新材：拟使用自有资金2.5亿元人民币向全资子公司连云港联瑞进行增资，用于连云港联瑞投资年产15000吨高端芯片封装用球形粉体生产线建设项目等项目的建设和运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7244736.d.html</link>
-            <guid>2399064</guid>
-            <pubDate>Sun, 14 Nov 2021 07:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联瑞新材：拟2.5亿元对子公司增资 投建高端芯片封装材料等项目】联瑞新材公告，拟使用自有资金2.5亿元人民币向全资子公司连云港联瑞进行增资，用于连云港联瑞投资年产15000吨高端芯片封装用球形粉体生产线建设项目等项目的建设和运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5479640.d.html</link>
-            <guid>2399052</guid>
-            <pubDate>Sun, 14 Nov 2021 07:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白云电器：“白电转债”转股价格调整为9.06元/股】白云电器公告，11月16日起“白电转债”转股价格由8.83元/股调整为9.06元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5479383.d.html</link>
-            <guid>2399030</guid>
-            <pubDate>Sun, 14 Nov 2021 07:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
