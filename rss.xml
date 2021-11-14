@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Nov 2021 18:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 19:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新股首日破发接连出现 发行定价更趋市场化】继中自科技后，10月25日可孚医疗也遭遇上市首日破发，A股连续两个交易日出现新股首日破发。自9月18日注册制下新股询价新规落地以来已有一个多月，市场化询价定价发生积极变化，IPO市场环境进一步优化，注册制下的新股发行市场化程度不断提升。业内人士表示，市场化定价原则之下，投资者“打新稳赚”的固有思维将逐渐被打破。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7307439.d.html</link>
+            <guid>2399890</guid>
+            <pubDate>Sun, 14 Nov 2021 19:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际金价七连阳 距罗杰斯“万元胃口”尚远 虚拟币取代黄金资产配置地位仍是传说】自2020年8月份纽约商品交易所(COMEX)国际金价创出2089.2美元/盎司的历史新高后，至今已有一年有余。在此期间，很多国际金融大鳄对黄金的青睐度有所降低，投资热情转向虚拟币，导致国际金价很久没有出现较大幅度反弹，直到今年11月份之后才由弱转强。近期，国际金价连续7个交易日收阳，重新逼近1900美元/盎司关口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7306157.d.html</link>
+            <guid>2399889</guid>
+            <pubDate>Sun, 14 Nov 2021 18:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沙特王储称沙特将启动建设全球首个“非营利性”城市】沙特阿拉伯王储穆罕默德·本·萨勒曼当地时间11月14日下午宣布，将启动穆罕默德·本·萨勒曼王子城项目，按照穆罕默德在一份书面声明中的说法，这一项目建成后，将出现世界上第一个“非营利性”城市。声明中透露，穆罕默德·本·萨勒曼王子城项目位于沙特首都利雅得西部的阿尔加区，面积约3.4平方公里，项目内将重点利用人工智能和物联网等先进科技，建设多个学院、会议中心、博物馆和创新中心等项目，另有超过44%的面积为开放绿地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7305920.d.html</link>
+            <guid>2399888</guid>
+            <pubDate>Sun, 14 Nov 2021 18:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【马斯克与桑德斯口水战 暗示可能卖出更多特斯拉股票】世界首富伊隆·马斯克周日与美国参议员伯尼·桑德斯爆发口水战并提到卖出更多特斯拉股票，一天前桑德斯在推特上写道：“我们必须要求那些最富有的人缴纳税款”。过去一周，马斯克出售了价值近70亿美元的特斯拉股票，推动该公司股价一周内下跌了约15%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5538982.d.html</link>
@@ -400,12 +418,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7250576.d.html</link>
             <guid>2399372</guid>
             <pubDate>Sun, 14 Nov 2021 08:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue Line Futures首席市场策略师Streible：本周金价突破此前的下降趋势。美国CPI同比上涨6.2%，为30多年来最高水平，通胀担忧再度主导市场。黄金只是回归本质，那就是保护投资者不受通胀影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7250185.d.html</link>
-            <guid>2399362</guid>
-            <pubDate>Sun, 14 Nov 2021 08:26:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
