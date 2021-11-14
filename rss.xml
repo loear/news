@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 18:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克与桑德斯口水战 暗示可能卖出更多特斯拉股票】世界首富伊隆·马斯克周日与美国参议员伯尼·桑德斯爆发口水战并提到卖出更多特斯拉股票，一天前桑德斯在推特上写道：“我们必须要求那些最富有的人缴纳税款”。过去一周，马斯克出售了价值近70亿美元的特斯拉股票，推动该公司股价一周内下跌了约15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5538982.d.html</link>
+            <guid>2399886</guid>
+            <pubDate>Sun, 14 Nov 2021 18:05:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多地筹建北交所上市“种子库” 200余家创新型公司欲抢先机】据悉，截至2021年11月12日，已有200多家公司公告表达北交所上市意向。同时，多地制定政策鼓励企业在北交所上市，同时积极挖掘北交所上市后备军资源，培育北交所“种子库”，鼓励、引导“种子企业”走“专精特新”发展道路。业内专家表示，北交所作为为创新型中小企业量身打造的专属阵地，上市后备军资源充足，同时，多地政府出台政策鼓励企业去北交所上市，能够帮助企业从间接融资变成直接融资，实现规范化治理，解决诸多核心问题。 (经济参考报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5535777.d.html</link>
@@ -400,18 +406,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7250185.d.html</link>
             <guid>2399362</guid>
             <pubDate>Sun, 14 Nov 2021 08:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北新路桥：子公司中标8.99亿元项目施工总承包】北新路桥公告，全资子公司中标彭州市城投新居一期建设项目施工总承包，中标金额8.99亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7247536.d.html</link>
-            <guid>2399255</guid>
-            <pubDate>Sun, 14 Nov 2021 08:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东南网架：非公开发行股票获证监会核准批复】东南网架公告，非公开发行股票获得中国证监会核准批复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7247362.d.html</link>
-            <guid>2399243</guid>
-            <pubDate>Sun, 14 Nov 2021 08:05:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
