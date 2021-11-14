@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Nov 2021 19:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 20:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[舒默呼吁拜登政府释放战略石油储备来降低天然气价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7310436.d.html</link>
+            <guid>2399894</guid>
+            <pubDate>Sun, 14 Nov 2021 20:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CPI创近31年最大涨幅 美国面临前所未有的通货膨胀危机】据美国《国会山报》当地时间11月14日的报道，美国劳工统计局的消费者价格指数（CPI）数据显示，美国经济几乎每个方面都受到通货膨胀的影响。消费者价格指数显示，消费品和服务行业的价格在2020年10月至2021年10月上涨了6.2%，这是近31年来12个月期间的最大涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7309871.d.html</link>
+            <guid>2399893</guid>
+            <pubDate>Sun, 14 Nov 2021 20:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新股首日破发接连出现 发行定价更趋市场化】继中自科技后，10月25日可孚医疗也遭遇上市首日破发，A股连续两个交易日出现新股首日破发。自9月18日注册制下新股询价新规落地以来已有一个多月，市场化询价定价发生积极变化，IPO市场环境进一步优化，注册制下的新股发行市场化程度不断提升。业内人士表示，市场化定价原则之下，投资者“打新稳赚”的固有思维将逐渐被打破。（经济参考报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7307439.d.html</link>
@@ -28,7 +40,7 @@
             <pubDate>Sun, 14 Nov 2021 18:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【马斯克与桑德斯口水战 暗示可能卖出更多特斯拉股票】世界首富伊隆·马斯克周日与美国参议员伯尼·桑德斯爆发口水战并提到卖出更多特斯拉股票，一天前桑德斯在推特上写道：“我们必须要求那些最富有的人缴纳税款”。过去一周，马斯克出售了价值近70亿美元的特斯拉股票，推动该公司股价一周内下跌了约15%。]]></title>
+            <title><![CDATA[【马斯克回怼美国参议员 暗示卖出更多特斯拉股票】美国参议员桑德斯在社交平台上表示：“ 我们必须要求那些最富有的人缴纳的税款”；特斯拉CEO埃隆·马斯克对此回复：“要我多卖点股票吗? 直接说就行了…”。过去一周，马斯克出售了价值70亿美元的特斯拉股票，推动该公司股价一周内下跌了约15%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5538982.d.html</link>
             <guid>2399886</guid>
             <pubDate>Sun, 14 Nov 2021 18:05:02 GMT</pubDate>
@@ -400,24 +412,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5487675.d.html</link>
             <guid>2399505</guid>
             <pubDate>Sun, 14 Nov 2021 08:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【酷特智能：股东瑞哲恒益拟减持3%股份】酷特智能公告，持股12.14%股东瑞哲恒益计划3个月内减持3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5486667.d.html</link>
-            <guid>2399431</guid>
-            <pubDate>Sun, 14 Nov 2021 08:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【润建股份：中标农业银行电气火灾智能监测采购项目】润建股份公告，近日中标中国农业银行股份有限公司广西壮族自治区分行《全行电气火灾智能监测采购项目》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7251262.d.html</link>
-            <guid>2399429</guid>
-            <pubDate>Sun, 14 Nov 2021 08:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科翔股份：拟1.4亿元参设公司 从事柔性印制线路板研发等】科翔股份公告，与高盛达控股等签署《投资意向协议》，拟共同投资设立一家有限责任公司，从事柔性印制线路板的研发、生产和销售。公司拟以现金出资1.4亿元，认缴目标公司7000万元注册资本，持股比例70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7250576.d.html</link>
-            <guid>2399372</guid>
-            <pubDate>Sun, 14 Nov 2021 08:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
