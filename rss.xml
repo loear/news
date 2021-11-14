@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Nov 2021 20:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 21:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5547168.d.html</link>
+            <guid>2399897</guid>
+            <pubDate>Sun, 14 Nov 2021 20:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗6.2级地震已致1死27伤 并发生多次余震】综合伊朗多家媒体报道，当地时间14日15时30分左右，在伊朗波斯湾沿岸的霍尔木兹甘省阿巴斯港附近发生了6.2级地震，震中位于距离阿巴斯港95公里的费恩地区（FIN）。地震已造成1人死亡和27人受伤，其中大部分民众是从家里撤离时受伤的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzscyy5547155.d.html</link>
+            <guid>2399896</guid>
+            <pubDate>Sun, 14 Nov 2021 20:39:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[舒默呼吁拜登政府释放战略石油储备来降低天然气价格。]]></title>
             <link>https://finance.sina.cn/7x24/2021-11-15/detail-iktzqtyu7310436.d.html</link>
@@ -395,23 +407,6 @@
             <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzqtyu7253335.d.html</link>
             <guid>2399576</guid>
             <pubDate>Sun, 14 Nov 2021 08:50:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SIA Wealth Management首席市场策略师Cieszynski：预计金价将继续走高，因为突破1835美元/盎司是一个重大信号。白银和铂金的反弹也会巩固黄金的新升势。加拿大和英国即将公布通胀数据，金价上涨趋势至少会延续至下周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5488249.d.html</link>
-            <guid>2399554</guid>
-            <pubDate>Sun, 14 Nov 2021 08:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【本周新三板挂牌公司成交金额超125亿元】根据全国中小企业股份转让系统（新三板）数据，截至11月12日收盘时，本周（11月8日至12日）新三板挂牌公司成交超125亿元，其中精选层成交超82亿元。截至11月12日，新三板挂牌公司总计7173家。]]></title>
-            <guid>2399519</guid>
-            <pubDate>Sun, 14 Nov 2021 08:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国发股份：控股股东朱蓉娟拟减持不超1%股份】国发股份公告，持股20.05%控股股东朱蓉娟计划3个月内集中竞价减持不超过1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-11-14/detail-iktzscyy5487675.d.html</link>
-            <guid>2399505</guid>
-            <pubDate>Sun, 14 Nov 2021 08:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
