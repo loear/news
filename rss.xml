@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 18:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2023年世界科幻大会落户成都】北京时间12月18日晚，在华盛顿举办的第79届世界科幻大会上，成都获得2023年第81届世界科幻大会举办权，将成为中国第一个举办世界科幻大会的城市。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9843176.d.html</link>
+            <guid>2452108</guid>
+            <pubDate>Sat, 18 Dec 2021 18:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首款灵活可水洗的电池问世】近日，加拿大不列颠哥伦比亚大学的研究人员创造出可能是全球首个既灵活又可清洗的电池。即便是被扭曲或拉伸到正常长度的两倍，或者扔进洗衣机清洗后，依然能够工作。所使用的材料成本非常低，如果量产会更便宜，预计成本和标准可充电电池相似。目前已经引起了商业兴趣，除了能用于测量生命体征的手表和贴片外，还能与可以主动改变颜色或温度的衣服集成在一起。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9841665.d.html</link>
+            <guid>2452106</guid>
+            <pubDate>Sat, 18 Dec 2021 18:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马骏：中国绿色信贷规模全球最大、增长最快】中国金融学会绿色金融专业委员会主任、北京绿色金融与可持续发展研究院院长马骏表示：“截至今年年中，我国的绿色信贷达到14万亿元，最近达到了15万亿元，这个增长非常高，这个数字是全球最高的，中国是全球最大的绿色信贷市场。”此外，中国过去5年累计发行了1.3万亿元绿色债券，加上今年前10个月的3000亿元，累计达到1.6万亿元。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9840826.d.html</link>
+            <guid>2452104</guid>
+            <pubDate>Sat, 18 Dec 2021 17:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家医保局：25种罕见病救命药纳入医保】为破解罕见病患者用药难题，有关部门在行动。北京青年报记者从18日在京举行的2021年中国罕见病大会上了解到，截至目前，国内共有60余种罕见病用药获批上市，其中已有40余种被纳入国家医保药品目录，涉及25种疾病。国家医疗保障局自2018年成立以来，连续4年每年一次动态调整医保药品目录，累计将507种新药、好药纳入了目录。]]></title>
+            <guid>2452103</guid>
+            <pubDate>Sat, 18 Dec 2021 17:36:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【长城汽车魏牌拿铁DHT上市】近日，长城汽车旗下魏牌拿铁DHT正式上市。据了解，拿铁DHT此次上市共三款车型，1.5TDHT中杯、1.5TDHT大杯，以及1.5TDHT超大杯，售价分别为15.98万元、16.98万元和17.98万元。（中证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5013049.d.html</link>
@@ -376,12 +399,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyakumx4947762.d.html</link>
             <guid>2451798</guid>
             <pubDate>Sat, 18 Dec 2021 07:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【京东正式上线灵稀数字藏品交易平台 首款数字藏品发售】京东现已正式上线灵稀数字藏品交易平台，该平台所有数字藏品将由京东云提供的区块链技术服务 —— 京东智臻链进行唯一标识。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyamrmy9771658.d.html</link>
-            <guid>2451793</guid>
-            <pubDate>Sat, 18 Dec 2021 07:27:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
