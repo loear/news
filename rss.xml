@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Dec 2021 19:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 20:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2022年国资央企工作划定重点 这些领域将有新动作】稳字当头抓经营，稳中有进作贡献；高质量完成三年行动任务；加快现代产业体系建设；加快建设世界一流企业……12月18日下午召开的中央企业负责人会议勾勒出2022年国资央企工作的重点任务，并提出了“两增一控三提高”的年度经营目标。（经参）]]></title>
+            <guid>2452116</guid>
+            <pubDate>Sat, 18 Dec 2021 20:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Steam实验室上线全新商店设计：全面重做、动效拉满】今天，Steam正式宣布推出013号实验功能，该功能对Steam的商店页面进行了重新设计，新的商店设计经过了完全重做，并加入了大量动态效果。新的商店页面主要针对顶端的游戏轮播区进行了再设计，重新设计后该区域在定位上依旧保持不变，但是UI设计进行了大规模的调整，封面图片搭配视频播片的形式更有利于玩家进行选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9847970.d.html</link>
+            <guid>2452115</guid>
+            <pubDate>Sat, 18 Dec 2021 19:50:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贷款利率宣称7.2% 实际18%！还向未成年人推销基金 这家银行被通报】近日，银保监会官网发布《中国银保监会消费者权益保护局关于华夏银行侵害消费者权益情况的通报》。《通报》指出，该行存在互联网贷款利率宣传不规范，向“一老一小”等个人客户销售高于其风险承受能力的产品，违规查询、存储、传输和使用个人客户信息以及违规向贷款客户转嫁成本等7类违法违规问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5019057.d.html</link>
@@ -405,12 +416,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyakumx4957255.d.html</link>
             <guid>2451805</guid>
             <pubDate>Sat, 18 Dec 2021 08:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国务院联防联控机制综合组向广东、陕西派出工作组指导防疫。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyakumx4953025.d.html</link>
-            <guid>2451801</guid>
-            <pubDate>Sat, 18 Dec 2021 08:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
