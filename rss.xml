@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Dec 2021 16:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 17:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【长城汽车魏牌拿铁DHT上市】近日，长城汽车旗下魏牌拿铁DHT正式上市。据了解，拿铁DHT此次上市共三款车型，1.5TDHT中杯、1.5TDHT大杯，以及1.5TDHT超大杯，售价分别为15.98万元、16.98万元和17.98万元。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5013049.d.html</link>
+            <guid>2452102</guid>
+            <pubDate>Sat, 18 Dec 2021 17:25:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国新政府外交初试啼音】随着“铁娘子”默克尔告别政治舞台，以总理朔尔茨为首的德国“交通灯”新政府正式走上前台。上台伊始，德国总理朔尔茨先后对法国、欧盟总部、北约总部和波兰进行访问，与美国总统拜登通电话，绿党联席主席、外长贝尔伯克也在国际舞台上穿梭访问，展现出对俄罗斯的强硬面孔。德国新政府外交初试啼音，大概率延续前任政府的务实外交风格，但总理与外长在外交主导权的把控上似有隐患。（北青报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5012145.d.html</link>
+            <guid>2452100</guid>
+            <pubDate>Sat, 18 Dec 2021 17:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秦刚：中美应携手应对全球性问题 共同管控新兴技术风险】中国驻美国大使秦刚17日接受《科学与外交》杂志执行主编、国际事务与科学外交部主任蒙哥马利采访时表示，中美应携手应对全球性问题，共同管控新兴技术带来的风险。合作能为两国人民创造更大福祉，也能使全人类更好应对充满未知的未来。阻碍合作，包括对中国科学家和留学生的种种限制，将损害双方的利益。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9837836.d.html</link>
+            <guid>2452099</guid>
+            <pubDate>Sat, 18 Dec 2021 16:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【快递公司靠双11成功回血 单量受电商成交额增速放缓影响】12月18日，申通、韵达和圆通三家快递公司发布了11月经营数据。数据显示，11月快递公司的收入、单量和单票收入三个关键指标都呈增长趋势。双11不仅是电商旺季，也是物流旺季。双11让快递公司11月的单票收入止跌，但随着电商平台双11成交额增速放缓，11月快递公司的单量同比也出现增速放缓。（一财）]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9836219.d.html</link>
@@ -364,12 +382,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyamrmy9771658.d.html</link>
             <guid>2451793</guid>
             <pubDate>Sat, 18 Dec 2021 07:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿里公布碳中和目标：不晚于2030年实现自身运营碳中和】12月17日，阿里巴巴发布《阿里巴巴碳中和行动报告》，提出三大目标：不晚于2030年实现自身运营碳中和；不晚于2030年实现上下游价值链碳排放强度减半，率先实现云计算的碳中和，成为绿色云；用15年时间，以平台之力带动生态减碳15亿吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyamrmy9769398.d.html</link>
-            <guid>2451788</guid>
-            <pubDate>Sat, 18 Dec 2021 07:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
