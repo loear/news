@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Dec 2021 18:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 19:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【贷款利率宣称7.2% 实际18%！还向未成年人推销基金 这家银行被通报】近日，银保监会官网发布《中国银保监会消费者权益保护局关于华夏银行侵害消费者权益情况的通报》。《通报》指出，该行存在互联网贷款利率宣传不规范，向“一老一小”等个人客户销售高于其风险承受能力的产品，违规查询、存储、传输和使用个人客户信息以及违规向贷款客户转嫁成本等7类违法违规问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5019057.d.html</link>
+            <guid>2452111</guid>
+            <pubDate>Sat, 18 Dec 2021 19:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海外巨头A股策略出炉！贝莱德、高盛等力捧中国资产 对A股维持“超配”判断】近期，贝莱德、高盛、摩根士丹利等海外资管巨头纷纷发布2022年策略观点，多数机构认为，全球投资者对中国资产的配置偏低，预期未来几年中国在全球及新兴市场指数中的权重还将上升，推动整体新兴市场投资者扩大对A股股票的配置。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5018245.d.html</link>
+            <guid>2452110</guid>
+            <pubDate>Sat, 18 Dec 2021 18:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能够降低85%的能耗 IBM 和三星在半导体设计上再取得新进展】IBM 和三星在半导体设计上再取得新进展！据这两家公司称，他们研发出了一种在芯片上垂直堆叠晶体管的新设计。而在之前的设计中，晶体管是被平放在半导体表面上的。新的垂直传输场效应晶体管 (VTFET) 设计旨在取代当前用于当今一些最先进芯片的 FinFET 技术，并能够让芯片上的晶体管分布更加密集。英特尔和三星两家公司指出 VTFET 芯片可以让设备“性能提高两倍或能源使用减少 85%”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9844241.d.html</link>
+            <guid>2452109</guid>
+            <pubDate>Sat, 18 Dec 2021 18:43:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2023年世界科幻大会落户成都】北京时间12月18日晚，在华盛顿举办的第79届世界科幻大会上，成都获得2023年第81届世界科幻大会举办权，将成为中国第一个举办世界科幻大会的城市。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9843176.d.html</link>
@@ -393,12 +411,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyakumx4953025.d.html</link>
             <guid>2451801</guid>
             <pubDate>Sat, 18 Dec 2021 08:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：中、高风险地区所在地市的其他县（市、区、旗）人员非必要不出行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-18/detail-ikyakumx4947762.d.html</link>
-            <guid>2451798</guid>
-            <pubDate>Sat, 18 Dec 2021 07:42:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
