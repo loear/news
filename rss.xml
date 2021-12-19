@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Dec 2021 15:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 16:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：“经济独立战争”将继续取得成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmy9996399.d.html</link>
+            <guid>2452820</guid>
+            <pubDate>Sun, 19 Dec 2021 16:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安重申高利率引发高通胀的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmy9995283.d.html</link>
+            <guid>2452819</guid>
+            <pubDate>Sun, 19 Dec 2021 16:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其总统埃尔多安：我此前曾将通胀率降到4%，不久后我也将能再次做到这一点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5165966.d.html</link>
+            <guid>2452814</guid>
+            <pubDate>Sun, 19 Dec 2021 15:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[土耳其总统埃尔多安：不会允许公民“被利率压垮”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9991697.d.html</link>
@@ -343,24 +361,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9946080.d.html</link>
             <guid>2452263</guid>
             <pubDate>Sun, 19 Dec 2021 08:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海湾地区国家股指周日开盘普跌】沙特、阿联酋和科威特基准股指周日开盘普遍走低，纷纷追随上周五全球股市下跌的脚步。其中，迪拜金融市场综合指数以1.8%的幅度领跌，阿布扎比ADX综合指数以1.3%的跌幅位居第二。Nasser Saidi&Associates宏观经济主管Aathira Prasad表示，由于奥密克戎毒株持续扩散，几个国家宣布了限制措施，石油需求可能会有所下降，这一切都将对油价产生持久的影响。而油价保持在低位意味着海湾地区国家的私营部门活动可能受到负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5117591.d.html</link>
-            <guid>2452258</guid>
-            <pubDate>Sun, 19 Dec 2021 08:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四维图新：与沃尔沃汽车签署自动驾驶相关服务协议】四维图新公告，近日，公司与沃尔沃汽车签署自动驾驶相关的服务协议。未来三年内，公司将为沃尔沃汽车的自动驾驶功能开发验证平台进行环境搭建，并为其提供自动驾驶相关数据的采集、处理和合规服务。具体金额取决于上述期限内量产的沃尔沃汽车的相关车型在国内的销量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9943729.d.html</link>
-            <guid>2452256</guid>
-            <pubDate>Sun, 19 Dec 2021 08:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两连板赛摩智能：未涉“元宇宙”等热点概念范围内的收入】赛摩智能公告，公司认为“元宇宙”还处于早期概念阶段，其定义范围与应用领域尚需进一步论证；“数字孪生”、“虚拟现实”虽然处于研究应用阶段，该技术的发展仍具有不确定性。截至目前，公司未涉及且未形成上述热点概念范围内的产品/技术销售收入；公司现有技术及未来技术研究方向等仍将围绕公司主营业务工厂智能化解决方案展开，不会因无关于主营业务的市场热点而调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9943022.d.html</link>
-            <guid>2452255</guid>
-            <pubDate>Sun, 19 Dec 2021 08:17:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
