@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Dec 2021 19:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 20:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【谷歌网盘开始审查用户文件，不正当内容将禁止传播】近日，谷歌宣布了其专有云存储Google Drive的新使用条款，根据该条款，谷歌将开始限制违规文件的访问。根据谷歌官方博客，当Google Drive文件被认定为违反服务条款或计划政策时，它可能会受到限制。用户会在文件名旁边看到一个标志，将无法共享该文件，并且文件将不再可供公开访问，即使是知道链接的人也一样。据悉，该审查从2021年12月14日开始逐步推出，适用于所有Google Workspace用户以及G Suite Basic和Business用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0011851.d.html</link>
+            <guid>2452944</guid>
+            <pubDate>Sun, 19 Dec 2021 20:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国首相约翰逊任命英国外交大臣特拉接替英国“脱欧”谈判首席代表弗罗斯特在脱欧谈判中的职位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0011140.d.html</link>
+            <guid>2452943</guid>
+            <pubDate>Sun, 19 Dec 2021 20:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其通胀危机爆发 房价两天一涨】土耳其通货膨胀率一直居高不下，11月的消费者价格指数较去年同期已经飙升超过21%。而今年以来，土耳其里拉对美元已经累计贬值约55%。随着里拉的快速贬值，建筑成本也在持续攀升。分析人士指出，在这样的经济形势下，预计未来几个月土耳其房价还将继续上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0008739.d.html</link>
+            <guid>2452940</guid>
+            <pubDate>Sun, 19 Dec 2021 19:26:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【航空业低迷，波音以1亿美元出售其商用飞机总部】波音公司已完成其位于西雅图郊区的商用飞机总部园区的出售。买方是位于西雅图的私募股权房地产投资公司的子公司 Unico Properties。知情人士透露此次交易的金额为 1 亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0007862.d.html</link>
@@ -331,12 +349,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9955368.d.html</link>
             <guid>2452292</guid>
             <pubDate>Sun, 19 Dec 2021 09:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国每日电讯报：英国考虑为酒店业和旅游业提供紧急援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9953151.d.html</link>
-            <guid>2452283</guid>
-            <pubDate>Sun, 19 Dec 2021 09:29:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
