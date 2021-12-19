@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Dec 2021 18:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 19:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【航空业低迷，波音以1亿美元出售其商用飞机总部】波音公司已完成其位于西雅图郊区的商用飞机总部园区的出售。买方是位于西雅图的私募股权房地产投资公司的子公司 Unico Properties。知情人士透露此次交易的金额为 1 亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0007862.d.html</link>
+            <guid>2452939</guid>
+            <pubDate>Sun, 19 Dec 2021 19:10:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非国家传染病研究所周日报告表示，南非医院目前有7,951例Covid-19患者，其中6.7%在重症监护病房。该所表示，在重症监护的535名患者中，212人使用呼吸机。在收治的病人中，3,286人在豪登省（约翰内斯堡和比勒陀利亚所在省）。前一天，住院人数7,915人，ICU有532人。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0000997.d.html</link>
@@ -331,18 +337,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9953151.d.html</link>
             <guid>2452283</guid>
             <pubDate>Sun, 19 Dec 2021 09:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年以来内地与香港进出口值突破2万亿元】据海关统计，今年前11个月，内地与香港进出口值突破2万亿元，其中，深港货物贸易达6340.7亿元，占内地与香港进出口值的三成，同比增长17.6%。随着粤港澳大湾区开放交流和跨境贸易便利程度的进一步提升，深港贸易已超过去年总量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9951410.d.html</link>
-            <guid>2452275</guid>
-            <pubDate>Sun, 19 Dec 2021 09:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江哈尔滨两地调整为低风险地区】根据国务院联防联控机制有关规定，经专家咨询组综合评估研判，哈尔滨市指挥部决定，自2021年12月19日24时起，将南岗区华鸿金色柏林小区8号楼，道里区恒祥城小区二期（14号楼、15号楼、16号楼围合区域）调整为低风险地区。其他地区风险等级不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9949453.d.html</link>
-            <guid>2452273</guid>
-            <pubDate>Sun, 19 Dec 2021 09:03:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
