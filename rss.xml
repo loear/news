@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Dec 2021 16:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非国家传染病研究所周日报告表示，南非医院目前有7,951例Covid-19患者，其中6.7%在重症监护病房。该所表示，在重症监护的535名患者中，212人使用呼吸机。在收治的病人中，3,286人在豪登省（约翰内斯堡和比勒陀利亚所在省）。前一天，住院人数7,915人，ICU有532人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmz0000997.d.html</link>
+            <guid>2452840</guid>
+            <pubDate>Sun, 19 Dec 2021 17:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国股转公司融资并购部总监蔡慧：做好四个“更加” 打造创新型中小企业主阵地】对于如何打造创新型中小企业的主阵地，蔡慧认为，打造主阵地要做好四个“更加”：一是更加包容，二是更加精准，三是更加创新，四是更加具有活力。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmy9999785.d.html</link>
+            <guid>2452827</guid>
+            <pubDate>Sun, 19 Dec 2021 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海通证券：岁末年初的跨年行情值得期待】海通证券策略团队表示，节奏上，岁末年初行情仍值得期待。原因有三：一是稳增长政策发力；二是根据历史规律，A股以ROE刻画的盈利周期尚处在回升中；三是回顾历次岁末年初躁动行情，跨年行情通常每年都有。今年7至10月，市场表现较弱，叠加当前阶段估值尚可，流动性较为充裕，岁末年初的跨年行情值得期待。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyakumx5171591.d.html</link>
+            <guid>2452822</guid>
+            <pubDate>Sun, 19 Dec 2021 16:48:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[土耳其总统埃尔多安：“经济独立战争”将继续取得成功。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-20/detail-ikyamrmy9996399.d.html</link>
@@ -343,24 +361,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyakumx5121959.d.html</link>
             <guid>2452269</guid>
             <pubDate>Sun, 19 Dec 2021 09:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东方铁塔公告，合计中标约9356.08万元的国家电网项目，约占公司2020年经审计的营业收入的3.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9948270.d.html</link>
-            <guid>2452268</guid>
-            <pubDate>Sun, 19 Dec 2021 08:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【四天三板龙泉股份：新峰管业产品尚未应用于氢能源等领域】龙泉股份公告，公司全资子公司新峰管业主营业务为石化、核电用金属管件的加工、销售，其高压临氢管件产品，主要应用于炼油企业油品加工与质量升级等领域，目前新峰管业的产品尚未应用于氢能源等领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9947572.d.html</link>
-            <guid>2452267</guid>
-            <pubDate>Sun, 19 Dec 2021 08:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【七天六板中锐股份：目前公司以包装科技业务为主】中锐股份发布股价异动公告，目前公司主要业务以包装科技业务为主，生产经营状态正常，内外部经营环境未发生重大变化，近期公司基本面未发生重大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-19/detail-ikyamrmy9946080.d.html</link>
-            <guid>2452263</guid>
-            <pubDate>Sun, 19 Dec 2021 08:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
