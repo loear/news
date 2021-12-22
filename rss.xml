@@ -4,11 +4,69 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 22 Dec 2021 17:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 18:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【德国商报：大众汽车品牌负责人希望将更多开发技术从欧洲转移到中国】大众汽车乘用车品牌负责人Ralf Brandstaetter接受《德国商报》采访时称，未来五年将在电动汽车、混合动力和数字化等未来领域投资约180亿欧元。大约30亿欧元将用于产品和流程的数字化。作为中国业务未来的负责人，Brandstaetter希望确保大众汽车将更多开发技术从欧洲转移到中国“未来绝对有必要在中国开发更多技术解决方案”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0609622.d.html</link>
+            <guid>2456894</guid>
+            <pubDate>Wed, 22 Dec 2021 18:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰取消对七个非洲国家的特别旅行规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0608978.d.html</link>
+            <guid>2456890</guid>
+            <pubDate>Wed, 22 Dec 2021 18:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股芯片股走高，奇景光电(HIMX.O)涨3.9%，赛灵思(XLNX.O)涨3.68%，台积电(TSM.N)涨3%，博通(AVGO.O)涨1.55%，恩智浦半导体(NXPI.O)涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5782381.d.html</link>
+            <guid>2456888</guid>
+            <pubDate>Wed, 22 Dec 2021 18:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：不同地区的学校将做出自己的决定，总统拜登希望学校继续开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0608313.d.html</link>
+            <guid>2456875</guid>
+            <pubDate>Wed, 22 Dec 2021 18:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：由于投票权立法尚未完成，共和党人仍在进行阻挠。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5781150.d.html</link>
+            <guid>2456863</guid>
+            <pubDate>Wed, 22 Dec 2021 17:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登政府相信美国民主党参议员曼钦一直在本着诚意行事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5781049.d.html</link>
+            <guid>2456862</guid>
+            <pubDate>Wed, 22 Dec 2021 17:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫表示，已经购买了1000万剂辉瑞(PFE.N)和300万剂默沙东(MRK.N)抗病毒药物。]]></title>
+            <guid>2456861</guid>
+            <pubDate>Wed, 22 Dec 2021 17:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：大众汽车将投资180亿欧元用于电动汽车数字化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5781025.d.html</link>
+            <guid>2456860</guid>
+            <pubDate>Wed, 22 Dec 2021 17:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  探索频道A(DISCA.O)：宣布欧盟委员会无条件批准收购AT&T(T.N)的华纳媒体业务的提议。]]></title>
+            <guid>2456838</guid>
+            <pubDate>Wed, 22 Dec 2021 17:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股邮轮概念股涨幅居前， 嘉年华邮轮(CCL.N)涨3.72%，皇家加勒比邮轮(RCL.N)涨3.32%，挪威邮轮(NCLH.N)涨1.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5779377.d.html</link>
+            <guid>2456826</guid>
+            <pubDate>Wed, 22 Dec 2021 17:32:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大高级医疗卫生官员：奥密克戎变异株传播极为迅速，加拿大任何地方的形势都可能迅速失控。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0605758.d.html</link>
@@ -293,71 +351,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594946.d.html</link>
             <guid>2456740</guid>
             <pubDate>Wed, 22 Dec 2021 15:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA报告：上周美国国内原油产量减少10万桶至1160万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594865.d.html</link>
-            <guid>2456738</guid>
-            <pubDate>Wed, 22 Dec 2021 15:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Maria：我们还没有完全了解奥密克戎毒株是否比德尔塔毒株更严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyakumx5768241.d.html</link>
-            <guid>2456736</guid>
-            <pubDate>Wed, 22 Dec 2021 15:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Maria：现在确认奥密克戎毒株的严重性还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594638.d.html</link>
-            <guid>2456735</guid>
-            <pubDate>Wed, 22 Dec 2021 15:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车板块多数上扬，Sono Group(SEV.O)涨近6%，Lucid Group(LCID.O)涨3%，福特汽车(F.N)涨2.6%，通用汽车(GM.N)涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594627.d.html</link>
-            <guid>2456734</guid>
-            <pubDate>Wed, 22 Dec 2021 15:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国11月二手房销量环比增长1.9%，折合年率达646万套，为连续第三个月增长，创下1月以来最大增幅。二手房售价中值同比上涨13.9%至353900美元，部分反映了高端物业销量上升的影响，售价低于50万美元的二手房供应依然紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594487.d.html</link>
-            <guid>2456732</guid>
-            <pubDate>Wed, 22 Dec 2021 15:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Maria：因Alpha，Beta和Gamma变异株不再进行传播，组织正在讨论是否对其进行重新分类。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594412.d.html</link>
-            <guid>2456731</guid>
-            <pubDate>Wed, 22 Dec 2021 15:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄自然资源和环境部部长表示，据初步估计，2021年俄罗斯石油和凝析油储量增加6.28亿吨，天然气储量增加1.017万亿立方米。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0594352.d.html</link>
-            <guid>2456730</guid>
-            <pubDate>Wed, 22 Dec 2021 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财务研究与分析中心：给予Okta(OKTA.O)买入的初始评级，目标价257美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyakumx5767397.d.html</link>
-            <guid>2456729</guid>
-            <pubDate>Wed, 22 Dec 2021 15:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大港油田陆相页岩油年产量首次超十万吨】大港油田陆相页岩油勘探开发获新突破。12月22日从地处天津的大港油田获悉，该油田2021年页岩油产量已达10万吨，目前日产量稳定在300吨以上。“这是大港油田在渤海湾盆地3套主要页岩层系全面获得工业化开发突破后，在陆相页岩油规模效益勘探开发中取得的又一项具有里程碑意义的成果。”大港油田公司新项目事业部经理陈长伟说。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyamrmz0593358.d.html</link>
-            <guid>2456726</guid>
-            <pubDate>Wed, 22 Dec 2021 15:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  fuboTV(FUBO.N)今天回调跌3%，该股昨日收涨6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-22/detail-ikyakumx5766778.d.html</link>
-            <guid>2456725</guid>
-            <pubDate>Wed, 22 Dec 2021 15:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股内地教育板块多数下挫，高途(GOTU.N)跌5.33%，网易有道(DAO.N)跌3.37%，新东方(EDU.N)跌2.11%，好未来(TAL.N)跌近2%。]]></title>
-            <guid>2456724</guid>
-            <pubDate>Wed, 22 Dec 2021 15:10:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
