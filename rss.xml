@@ -4,22 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 23 Dec 2021 18:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 19:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[芝加哥期权交易所（CBOE）将于1月24日开始上市金融产品Ameribor（美国银行拆借利率） 90天期期货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz0834508.d.html</link>
+            <guid>2458083</guid>
+            <pubDate>Thu, 23 Dec 2021 19:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约市新年前夜庆祝活动只允许15000人参加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6007912.d.html</link>
+            <guid>2458082</guid>
+            <pubDate>Thu, 23 Dec 2021 19:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约市市长宣布缩减新年前夜的庆祝活动规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6007834.d.html</link>
+            <guid>2458079</guid>
+            <pubDate>Thu, 23 Dec 2021 18:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：金融技术解决方案的提供商StoneCo(STNE.O)盘中直线拉升，现涨12.5%，有报道称，StoneCo聘请摩根大通评估期权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz0833689.d.html</link>
+            <guid>2458077</guid>
+            <pubDate>Thu, 23 Dec 2021 18:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司11月原油出口为102.5万桶/日，环比增长9.6％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz0833607.d.html</link>
+            <guid>2458076</guid>
+            <pubDate>Thu, 23 Dec 2021 18:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：据悉淡水河谷(VALE.N)正在考虑收购英美资源集团巴西铁矿的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6006822.d.html</link>
+            <guid>2458074</guid>
+            <pubDate>Thu, 23 Dec 2021 18:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股高开高走，纳指涨幅达1%，标普500指数涨0.74%，道指涨0.64%。美股新能源车股持续走高，特斯拉、Lordstown Motors涨近6%，Workhorse涨5.22%，法拉第未来、蔚来汽车涨超3%，康迪车业涨超2%，本田汽车、Fisker涨1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz0832515.d.html</link>
+            <guid>2458073</guid>
+            <pubDate>Thu, 23 Dec 2021 18:32:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  美股充电桩板块持续走高，EVGO(EVGO.O)涨4.71%，Beam Global(BEEM.O)涨4.3%，Blink Charging(BLNK.O)涨3.78%，Chargepoint Holdings(CHPT.O)涨2.74%，Volta(VLTA.N)涨1.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6005982.d.html</link>
             <guid>2458070</guid>
             <pubDate>Thu, 23 Dec 2021 18:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国太阳报：英国首相约翰逊的声明仍然预计将在新年前发布，因为英国首相府担心圣诞节的人员流动会导致病例激增。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6005610.d.html</link>
-            <guid>2458067</guid>
-            <pubDate>Thu, 23 Dec 2021 18:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国至12月24日当周石油钻井总数(口) ：前值 475，公布480 。]]></title>
@@ -288,41 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5991271.d.html</link>
             <guid>2457975</guid>
             <pubDate>Thu, 23 Dec 2021 15:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国12月密歇根大学消费者信心指数终值：前值70.4，预期70.4，公布70.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0816988.d.html</link>
-            <guid>2457970</guid>
-            <pubDate>Thu, 23 Dec 2021 15:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股WSB概念股走弱，AMC院线(AMC.N)跌超5%，ContextLogic (WISH.O)跌近4%，Roblox(RBLX.N)、游戏驿站(GME.N)、SOS(SOS.N)跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0816672.d.html</link>
-            <guid>2457969</guid>
-            <pubDate>Thu, 23 Dec 2021 14:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF：美元在第三季度已知全球储备中占59.15%，人民币占比上升】国际货币基金组织(IMF)发布季度全球外汇储备数据，欧元在第三季度全球储备中的占比持平于20.48%。人民币在第三季度全球储备中占比升至2.66%。英镑在第三季度全球储备中占比持平于4.78%。日元在第三季度全球储备中占比保持在5.83%。加元的全球储备占比在第三季度降至2.19%。澳元在第三季度全球储备中占比降至1.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyakumx5990427.d.html</link>
-            <guid>2457967</guid>
-            <pubDate>Thu, 23 Dec 2021 14:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CAC40指数日内涨幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0816469.d.html</link>
-            <guid>2457966</guid>
-            <pubDate>Thu, 23 Dec 2021 14:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动汽车公司Nikola（NKLA）涨超10%，该公司宣布首次交付电动汽车产品到用户手中，称后续将交付更多车辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-23/detail-ikyamrmz0816435.d.html</link>
-            <guid>2457965</guid>
-            <pubDate>Thu, 23 Dec 2021 14:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯ADR(TCEHY)涨4.32%，此前腾讯公布以实物分派京东(JD.O)A类普通股的方式宣派中期股息。]]></title>
-            <guid>2457964</guid>
-            <pubDate>Thu, 23 Dec 2021 14:51:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
