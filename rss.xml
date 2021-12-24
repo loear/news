@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 24 Dec 2021 16:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国电力集团EDF：12月24-26日，将把Paluel 3号法国核反应堆的发电量从1,330MW压缩至10MW。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyakumx6229404.d.html</link>
+            <guid>2459402</guid>
+            <pubDate>Fri, 24 Dec 2021 17:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉假期更新V11.0】①灯光秀功能：可以让特斯拉车主设计属于自己的灯光秀；当然没车，光靠软件你也可以设计专属灯光秀；可以使用免费开源软件xLights创建灯光秀，跟随音乐变幻；② 新的用户界面：全新的数字外观，功能包括可定制的应用程序启动器、简化的控制菜单和对暗模式外观的支持；③导航更新：新导航允许您隐藏地图详细信息，获得干净、简化的外观，可添加并快速重新排序路线上的多个停靠点；④可以在触摸屏上使用TikTok；车主可在车上玩更多游戏，数独也被加入Tesla Arcade中；⑤盲区摄像头：当收到转向指示时，它会向车辆提供视频，显示盲区；⑥哨兵模式：在车辆锁闭后，哨兵模式会通过前视摄像头、两侧翼子板摄像头和后视摄像头持续监控周围环境；⑦应对寒冷天气的改进：在电池处于较低充电状态时通过特斯拉移动应用程序对驾驶室进行预处理；⑧自动座椅加热器：（Model 3 和 Y）第一排座椅加热器将根据座舱条件和气候控制设置自动调节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyamrmz1055528.d.html</link>
+            <guid>2459401</guid>
+            <pubDate>Fri, 24 Dec 2021 17:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【曝苹果A16处理器无缘3nm 台积电首批产能被Intel分走一半】有消息曝出iPhone 14在影像系统上将有跨越式升级，让果粉们更为期待，然而最新消息爆料，iPhone 14系列将不会全系升级到新的A16处理器， iPhone 14继续沿用今年的iPhone 13的A15芯片。更令人失望的是，A16处理器似乎也将无缘3nm了。消息称台积电3nm的量产时间预计明年四季度启动，且首批产能被苹果和Intel均分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyakumx6227455.d.html</link>
+            <guid>2459398</guid>
+            <pubDate>Fri, 24 Dec 2021 16:51:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【CDR个人投资者门槛拟定为50万元 企业境外上市需满3年】配套规则明确，参与中国存托凭证业务(CDR)的个人投资者适当性标准为开通前20个交易日证券账户及资金账户内的日均资产达50万元、允许境外发行人使用外币编制定期报告等。同时，《暂行办法》将境外上市年限的要求规定为“在境外证券交易所市场上市满3年及中国证监会与境外证券监管机构根据境外基础证券上市地市场分层情况约定的其他上市年限条件”。（中国证券报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyamrmz1051510.d.html</link>
@@ -354,41 +372,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz1033675.d.html</link>
             <guid>2459306</guid>
             <pubDate>Fri, 24 Dec 2021 13:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会有关负责人答记者问：完善企业境外上市监管制度，并不是对境外上市监管政策的收紧。我们将继续坚持在开放中谋发展、在规范中促发展，保持境外融资渠道畅通，为企业境外上市活动提供清晰、透明和可操作的规则，构建更加稳定、可预期的制度环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz1032813.d.html</link>
-            <guid>2459302</guid>
-            <pubDate>Fri, 24 Dec 2021 13:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【随着更多液化天然气进入欧洲地区，欧洲天然气市场继续低迷】欧洲天然气价格连续第三天大幅下跌，因为越来越多的天然气从美国运往欧洲。荷兰近月交付的天然气价格两周来首次跌至100欧元/兆瓦时下方，跌幅高达26%。不过，供应方面的担忧在最近几天变得更加严重，原因是来自最大天然气供应国俄罗斯的天然气输送量下降，再加上法国的核反应堆停止运行，以及德国的风力发电量减少。欧洲仍深陷数十年来最严重的能源危机，汽油价格今年已飙升逾五倍，推动电力成本升至纪录高位，并推高通胀。这迫使各行业限制产量，并引发了供应商的崩溃。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6206366.d.html</link>
-            <guid>2459299</guid>
-            <pubDate>Fri, 24 Dec 2021 13:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世茂服务：6个月内不会与母公司发生重大资产出售或收购交易】世茂服务在港交所发布公告称，为增强投资者的信心，公司将继续及进一步审慎考虑此前拟与上海世茂股份之间的关连交易，公司将适时刊发进一步公告；未来6个月内，公司及其附属公司将不会与本公司母公司或本公司关连人士发生重大资产出售或收购交易（除本公司与上海世茂的须予披露及关连交易及其他已批准的关连交易外）；公司在符合合规要求的前提下，将结合资金使用情况，考虑回购本公司股份，未来六个月内将不会在市场上公开配售新股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz1031558.d.html</link>
-            <guid>2459298</guid>
-            <pubDate>Fri, 24 Dec 2021 13:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周大涨40%，传闻涉足元宇宙？博士眼镜回应】最近5个交易日，博士眼镜股价大涨39.48%。特别是12月24日，公司股价大涨16.56%。消息面上，市场传闻公司涉足元宇宙领域。对此，博士眼镜证券部工作人员回应记者，公司目前有零售华为的智能眼镜，但没有实际生产，也没有参与设计。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyakumx6205115.d.html</link>
-            <guid>2459297</guid>
-            <pubDate>Fri, 24 Dec 2021 13:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【股市收盘】法国CAC40指数12月24日（周五）收盘下跌19.57点，跌幅0.28%，报7086.58点。]]></title>
-            <guid>2459295</guid>
-            <pubDate>Fri, 24 Dec 2021 13:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【云南部分鲜花价格暴涨超2倍】新年临近，云南昆明的鲜切花销售非常热闹，据了解，年底花卉价格普遍上升，有的甚至翻了几倍。市场花商告诉记者，红色系的花都涨得很高，比如卡罗拉、香槟系列，前段时间在30块钱一扎，现在涨到100块钱，每天都以10块钱的波动持续上涨。据花商介绍，年底鲜花价格大涨，主要是云南今冬气温偏低，影响了鲜花产量所致。虽然鲜花价格上涨不少，但国内市场对于鲜花的消费需求并没有消减。数据显示，近期鲜花销量稳定在每日300万支左右，预计这一趋势将一直持续到春节结束。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-24/detail-ikyamrmz1030407.d.html</link>
-            <guid>2459293</guid>
-            <pubDate>Fri, 24 Dec 2021 13:04:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
