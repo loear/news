@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 Dec 2021 17:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 18:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【债券执业谁家强？中证协放榜 24家券商获A类 开源从C升至A 财通从A掉至C】12月24日晚，中国证券业协会披露2021年证券公司公司债券业务执业能力评价结果。根据券商中国记者统计，今年共有90家券商参评，相比上一年度少了6家。今年共有24家券商评为A类，48家评为B类，18家评为C类。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-26/detail-ikyakumx6404695.d.html</link>
+            <guid>2459878</guid>
+            <pubDate>Sat, 25 Dec 2021 17:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金融机构入驻北京大兴最高奖励6000万元】12月24日，大兴区组织召开2021年金融工作座谈会，介绍了大兴区“十四五”期间营商环境及金融业发展政策，并重点强调了已经发布的《大兴金融发展新六条》中的亮点。《大兴金融发展新六条》明确，对内外资持牌金融机构一次性入区奖励最高6000万元；对地方金融组织给予入区奖励，丰富区域金融业态；鼓励企业上市融资，最高奖励1000万元，北交所上市奖励600万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-26/detail-ikyakumx6403068.d.html</link>
+            <guid>2459876</guid>
+            <pubDate>Sat, 25 Dec 2021 17:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄“苏沃洛夫大元帅”号战略核潜艇正式下水】当地时间25日，俄罗斯“苏沃洛夫大元帅”号战略核潜艇在北德文斯克造船厂举行下水仪式。据介绍，“苏沃洛夫大元帅”号为俄罗斯955A型战略核潜艇，这也是俄罗斯第6艘“北风之神”系列核潜艇，未来将会在俄罗斯太平洋舰队服役。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-26/detail-ikyamrmz1228451.d.html</link>
@@ -397,18 +409,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyamrmz1176312.d.html</link>
             <guid>2459726</guid>
             <pubDate>Sat, 25 Dec 2021 08:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡集团三个海上风电项目同日并网发电】中国三峡集团消息，12月25日，三峡集团广东阳江沙扒、江苏如东和大丰H8-2海上风电项目宣布实现全容量并网发电目标，年均发电量将达80亿千瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyamrmz1174778.d.html</link>
-            <guid>2459705</guid>
-            <pubDate>Sat, 25 Dec 2021 08:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王伟中同志任广东省政府党组书记，马兴瑞同志不再担任】12月25日消息，近日，根据中央有关通知精神，广东省委决定：王伟中同志任省政府党组书记，马兴瑞同志不再担任省政府党组书记职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-25/detail-ikyamrmz1174428.d.html</link>
-            <guid>2459702</guid>
-            <pubDate>Sat, 25 Dec 2021 08:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
