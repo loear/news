@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 27 Dec 2021 20:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 21:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股大类资产ETF多数收涨，美国布伦特原油基金涨超2.2%，美国房地产ETF涨1.7%，大豆基金、纳指100ETF涨超1.6%，恐慌指数做多跌约2.4%，日元做多跌超0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6788094.d.html</link>
+            <guid>2462913</guid>
+            <pubDate>Mon, 27 Dec 2021 21:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF几乎全线收涨，半导体ETF涨约2.7%，能源业ETF涨约2.2%，科技行业ETF涨超2.1%，只有全球航空业ETF跌约0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6788015.d.html</link>
+            <guid>2462912</guid>
+            <pubDate>Mon, 27 Dec 2021 21:08:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指收涨逾350点，成分股微软涨超2.3%领跑，苹果收涨2.3%，突破12月10日收盘位，刷新收盘历史高位至180.33美元；雪佛龙和Salesforce.com也涨超2.0%，威瑞森收平，波音和迪士尼则收跌逾0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1614303.d.html</link>
+            <guid>2462911</guid>
+            <pubDate>Mon, 27 Dec 2021 21:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至发稿，道指成交量报2.341亿股（上一交易日为2.509亿股），纳指成交量报32.915亿股（上一交易日为35.294亿股），标普500指数成交量报13.974亿股（上一交易日为16.127亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1613838.d.html</link>
+            <guid>2462910</guid>
+            <pubDate>Mon, 27 Dec 2021 21:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【光大证券：首予远洋服务(06677.HK)买入评级 目标价5.55港元】日前，光大证券发布研究报告称，鉴于远洋服务(06677.HK)享有大股东资源优势，一、二线城市布局构建了优质优价体系，以及增值服务板块带动业绩快速增长，首予其买入评级，目标价5.55港元。该行指，远洋服务专注中高端物业，依托大股东资源优势，有望实现跨越式发展。在管面积高质量增长，一二线多业态布局构建核心竞争力，同时在增值服务板块发力，结构优化助推盈利能力提升。该行预测公司2021-23年营业收入分别为28.2亿元、38.1亿元、51.3亿元；EPS分别为0.32元、0.46元、0.67元。根据绝对估值法，该行认为公司合理股价为5.55港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6786796.d.html</link>
+            <guid>2462906</guid>
+            <pubDate>Mon, 27 Dec 2021 20:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【花旗：予中国建筑国际(03311.HK)买入评级 目标价升18.2%至13港元】近日，花旗发布研究报告称，予中国建筑国际(03311.HK)买入评级，估计2021年实现订单目标1400亿元人民币将有利盈利增长前景，仍为该行在中国工业股的首选之一，目标价由11港元上调至13港元。报告中称，2018年建筑业占中国碳排放总量51.3%，而地方政府为完成年度碳排放配额目标，最近已增加对投标上环境、社会与管治(ESG)评分的权重，因此，装配式建筑(PC)方式将取代传统建筑而成为减少碳排放的主流ESG举措，相信中国建筑在PC的先进技术上，可成为有关方面的关键主题股份。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1611586.d.html</link>
@@ -191,47 +221,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6766058.d.html</link>
             <guid>2462814</guid>
             <pubDate>Mon, 27 Dec 2021 15:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股民基民2021收益大比拼：买基金胜率更高】Choice数据显示，截至12月24日，在2021年前成立的主动权益基金（包括普通股票型基金、偏股混合型基金、灵活配置型基金）中，超七成基金今年以来实现正收益。主动权益基金（2021年前成立）中位数收益与个股（2021年前上市）中位数涨幅相差不大，分别为6.6%、6.62%，但仔细分析发现，基金可以避免投资者受伤过重。从个股涨幅情况来看，买到大牛股赚得盆满钵满。截至12月24日，湖北宜化今年涨幅高达535.94%，但中公教育、华夏幸福等多只个股今年来股价跌幅超过70%。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1592069.d.html</link>
-            <guid>2462813</guid>
-            <pubDate>Mon, 27 Dec 2021 15:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陕西省西安市新增35个中风险地区，目前共有高中风险地区1+150个。（西安发布）]]></title>
-            <guid>2462811</guid>
-            <pubDate>Mon, 27 Dec 2021 15:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Vuzix(VUZI.O)短线拉升，现涨6.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1591645.d.html</link>
-            <guid>2462810</guid>
-            <pubDate>Mon, 27 Dec 2021 15:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Vuzix宣布与Verizon(VZ.N)达成协议，将利用5G和移动边缘计算发布增强现实技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6765395.d.html</link>
-            <guid>2462808</guid>
-            <pubDate>Mon, 27 Dec 2021 15:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【林郑月娥：期待香港与深圳共同推动国家科技发展】香港特区行政长官林郑月娥27日以视频方式参加首届西丽湖论坛开幕式暨主论坛时表示，香港可以与深圳协同合作，力争在科技领域为国家发展作出新贡献。林郑月娥指出，香港希望发挥在生命健康科技的优势，回应国家所需。此外，香港也将继续完善创科产业生态圈，全面覆盖科研、融资、生产、人才等领域，以期推动创科成为新经济引擎，带动经济转型，创造更多元化和多层面的就业机会。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1591456.d.html</link>
-            <guid>2462807</guid>
-            <pubDate>Mon, 27 Dec 2021 15:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股半导体概念股拉升，英伟达(NVDA.O)涨4%，AMD(AMD.O)涨3.71%，安森美半导体(ON.O)涨3.08%，迈威尔科技集团(MRVL.O)涨2.47%，台积电(TSM.N)涨1.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6765045.d.html</link>
-            <guid>2462804</guid>
-            <pubDate>Mon, 27 Dec 2021 15:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达100指数涨超1.0%，成分股英伟达涨超3.8%、AMD涨超3.6%领跑芯片类股，特斯拉、阿根廷电商Mercadolibre、元宇宙公司Meta Platform（原Facebook）、应用材料、迈威尔科技、CRWD、TEAM涨超2.0%，Zoom通讯则跌1.9%，Peloton跌2.9%。标普500指数目前涨0.6%，道指涨约120点，纳斯达克综合指数（纳指）涨0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1590743.d.html</link>
-            <guid>2462801</guid>
-            <pubDate>Mon, 27 Dec 2021 15:13:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
