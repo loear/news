@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 27 Dec 2021 18:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 19:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国民主党参议员沃伦敦促打击金融部门对气候的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6781938.d.html</link>
+            <guid>2462880</guid>
+            <pubDate>Mon, 27 Dec 2021 19:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国泰君安：数字货币试点稳步推进，关注2022年的投资机会】数字货币再迎政策利好，据悉，2022年中国人民银行工作会议12月27日召开，提出要稳妥有序推进数字人民币研发试点。国泰君安建议，关注2022年数字货币的投资机会。冬奥会临近，数字货币或受进一步催化。此外，数字货币的推广建设过程来看，分为系统建设、软硬件钱包、支付、收单等等环节，涉及的玩家较多，有传统ATM厂商、有银行IT厂商等；而拥有整体解决方案，和银行服务较为紧密的头部玩家更有机会拿到更多份额。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6781929.d.html</link>
+            <guid>2462879</guid>
+            <pubDate>Mon, 27 Dec 2021 19:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝壳研究院：告别高增长，房地产将进入新发展周期】贝壳研究院近日发布的房地产市场2021年度回顾专题报告认为，此轮行业风险出清后，房企的经营逻辑将继续发生转变，在告别了高增长预期、放下包袱后，房地产行业将会进入新一轮的稳定发展周期。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1608040.d.html</link>
+            <guid>2462878</guid>
+            <pubDate>Mon, 27 Dec 2021 19:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股航空股普遍下挫，Sun Country Airlines(SNCY.O)跌2.36%，夏威夷航空(HA.O)跌近2%，美国联合航空(UAL.O)、达美航空(DAL.N)、美国航空集团(AAL.O)跌近1%。]]></title>
+            <guid>2462872</guid>
+            <pubDate>Mon, 27 Dec 2021 18:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国：将安排每周三天居家办公，1月3日生效，持续三周时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1606167.d.html</link>
+            <guid>2462871</guid>
+            <pubDate>Mon, 27 Dec 2021 18:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总理让·卡斯泰：暂时没有宵禁计划，不会推迟明年1月学校重新开放的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1606087.d.html</link>
+            <guid>2462870</guid>
+            <pubDate>Mon, 27 Dec 2021 18:32:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股区块链概念股走高，Coinbase(COIN.O)涨5%，MicroStrategy(MSTR.O)涨近4%，SOFI(SOFI.O)涨2%，Riot Blockchain(RIOT.O)涨近2%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1604967.d.html</link>
@@ -63,7 +98,7 @@
             <pubDate>Mon, 27 Dec 2021 16:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.70%，报485.91点。富时泛欧绩优300指数初步收涨0.62%，欧元区STOXX 50指数初步收涨0.80%。德国DAX 30指数初步收涨0.61%，报15850.53点。法国股指初步收涨0.86%，英国股指休市，意大利股指初步收涨0.81%。]]></title>
+            <title><![CDATA[【欧股收涨逾0.6%，科技板块涨超1.2%领跑】富时泛欧绩优300指数收涨0.59%，报1883.33点。欧洲STOXX 600指数收涨0.62%，报485.49点。欧元区STOXX 50指数收涨0.77%，报4287.98点。德国DAX 30指数收涨0.50%，报15835.23点。法国CAC 40指数收涨0.76%，报7140.39点。英国和爱尔兰股市休市。意大利富时MIB指数收涨0.80%，报27231.20点，富时意大利综合股价银行指数收涨0.57%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1597825.d.html</link>
             <guid>2462833</guid>
             <pubDate>Mon, 27 Dec 2021 16:32:21 GMT</pubDate>
@@ -177,60 +212,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6761081.d.html</link>
             <guid>2462784</guid>
             <pubDate>Mon, 27 Dec 2021 14:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞思教育(REDU.O)涨15.85%，此前公司召开临时股东大会，批准出售瑞思（天津）教育信息咨询有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1586788.d.html</link>
-            <guid>2462780</guid>
-            <pubDate>Mon, 27 Dec 2021 14:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部部长王文涛：做好“五个进一步”】在“进”的方面，王文涛指出，重点是在高质量发展上下功夫，做好“五个进一步”，即进一步加快消费升级，释放消费潜力；进一步推动外贸创新发展，增强外贸综合竞争力；进一步提升双向投资水平，扩大科技、数字、绿色等领域投资合作；进一步深化多双边经贸关系，营造有利外部环境；进一步统筹发展和安全，准确识别预判、妥善防范化解各类风险挑战。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6760785.d.html</link>
-            <guid>2462779</guid>
-            <pubDate>Mon, 27 Dec 2021 14:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫德纳开盘下跌2.8％，有望连跌五个交易日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6760726.d.html</link>
-            <guid>2462777</guid>
-            <pubDate>Mon, 27 Dec 2021 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  荔枝(LIZI.O)涨4.34%，此前宣布与豪华智能纯电品牌高合汽车达成车载音频方向合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6760612.d.html</link>
-            <guid>2462776</guid>
-            <pubDate>Mon, 27 Dec 2021 14:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小康股份：与华为战略合作关系没有任何变化】小康股份表示，公司与华为全面深入的战略合作关系没有任何变化。小康股份拥有行业领先的增程技术，掌握电动汽车的核心技术，拥有工业4.0的智能制造能力，并积累了丰富的汽车供应链管理和质量管理经验。华为在消费者洞察、消费者需求预测、产品定义、流程管理以及销售与营销渠道方面具有独特地位。双方深度跨界合作，从新车生产制造到用户用车的全价值链中，致力于为消费者提供更优质的产品和出行体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1586034.d.html</link>
-            <guid>2462774</guid>
-            <pubDate>Mon, 27 Dec 2021 14:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白云机场年货邮吞吐量首次突破200万吨】据白云机场消息，12月25日，广州白云国际机场实现了当年累计货邮吞吐量200万吨的新突破。其中，国际及地区货邮吞吐量同比增幅超过20%，为货邮总量的高速增长提供了有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6759508.d.html</link>
-            <guid>2462772</guid>
-            <pubDate>Mon, 27 Dec 2021 14:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  燃料电池能源(FCEL.O)盘前涨超10%，此前宣布与POSCO Energy达成了和解协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1584645.d.html</link>
-            <guid>2462770</guid>
-            <pubDate>Mon, 27 Dec 2021 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州土拍市场回暖：24家房企抢一宗地，近七成地块触顶摇号】 全国第三轮土拍已进入尾声，杭州上周刚刚结束了35宗地块出让，与其他城市相对清淡的土地市场不同，杭州此次走出了反转行情，土拍市场明显“回暖”。上周，杭州第三轮共35宗涉宅地块全部成交，成交总额超762亿元，其中24宗地块达到封顶价格，并首次启用了摇号方式。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6758705.d.html</link>
-            <guid>2462769</guid>
-            <pubDate>Mon, 27 Dec 2021 14:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中成药集体涨价 部分贵细药材价格上涨10%到50%】最近，国内几大知名药企的中成药上调了价格，上涨幅度为10%到20%，其中不乏一些常见品种。业内人士表示，中成药涨价的原因主要是中药材价格的普遍上涨。以安宫牛黄丸为例，其11种成分中药材价格全部出现上涨，涨幅在20%到50%之间。记者在我国北方最大的中药材交易中心河北安国了解到，进入12月以来，近八成中药材价格出现上涨，很多客商抱有观望的态度，因此交易量出现下滑。比如常见的黄连、金银花、黄芩等价格都有不同程度的上涨。除了常见品种，一些原本价格不菲的贵细药材涨价更为明显：藏红花、鹿茸、燕窝、西洋参、虫草等多个品种的价格全部出现上涨，涨价幅度在10%到50%。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1583777.d.html</link>
-            <guid>2462768</guid>
-            <pubDate>Mon, 27 Dec 2021 14:09:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
