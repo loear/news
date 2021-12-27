@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 27 Dec 2021 17:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 18:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股区块链概念股走高，Coinbase(COIN.O)涨5%，MicroStrategy(MSTR.O)涨近4%，SOFI(SOFI.O)涨2%，Riot Blockchain(RIOT.O)涨近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1604967.d.html</link>
+            <guid>2462862</guid>
+            <pubDate>Mon, 27 Dec 2021 18:12:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：全电动船开发商Forza X1递交IPO申请，寻求在纳斯达克上市，代码为FRZA。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1601727.d.html</link>
@@ -225,47 +231,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1583777.d.html</link>
             <guid>2462768</guid>
             <pubDate>Mon, 27 Dec 2021 14:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【正邦科技：2022年度拟向银行等金融机构申请总额不超600亿元综合授信】正邦科技公告，为保证2022年度经营目标的顺利完成，公司在2022年度拟向银行等金融机构申请总额不超过人民币600亿元的综合授信。同日公告，2022年拟获控股股东及其一致行动人提供借款不超50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6756319.d.html</link>
-            <guid>2462765</guid>
-            <pubDate>Mon, 27 Dec 2021 13:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：俄罗斯已向塔吉克斯坦提供武器以加强其边界安全】当地时间12月27日，俄罗斯总统普京在圣彼得堡与塔吉克斯坦总统拉赫蒙举行了会谈。普京指出，塔吉克斯坦与阿富汗边境的局势令人担忧。他表示，为加强塔吉克斯坦武装力量，近期俄方根据协议为塔方提供了必要的武器设备，使塔吉克斯坦能够有效地抵御来自外部的任何威胁。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6754591.d.html</link>
-            <guid>2462744</guid>
-            <pubDate>Mon, 27 Dec 2021 13:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股IPO市场有望延续繁荣】展望2022年，不少市场人士认为，A股新股市场有望在上海科创板、创业板及北交所的新股数量攀升的支持下持续增长。根据记者统计，德勤中国资本市场服务部预计，A股市场的大部份的新股将会来自中小型制造及科技企业。在2022年，上海科创板预计有170至200只新股融资2100至2500亿元人民币；或另有210至240只新股于创业板上市融资1600至1800亿元人民币。上海及深圳主板预计将有120至150只新股融资2000至2300亿元人民币。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1579910.d.html</link>
-            <guid>2462718</guid>
-            <pubDate>Mon, 27 Dec 2021 13:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：12月27日21时31分在克什米尔西北部附近（北纬35.43度，东经74.96度）发生5.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2462698</guid>
-            <pubDate>Mon, 27 Dec 2021 13:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国船舶黄埔文冲完成年度目标316%】 在中国船舶集团船海项目签约仪式上，黄埔文冲联合中船贸易与塞浦路斯SCHOELLER HOLDING集团签订4+2艘32000载重吨多用途重吊船订单。至此，黄埔文冲2021年累计承接14型、共71艘民品船舶的建造合同，实现船海产品经营承接158亿元，完成年度经营承接目标的316%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1578963.d.html</link>
-            <guid>2462659</guid>
-            <pubDate>Mon, 27 Dec 2021 13:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏：到2025年全省体育产业总规模超过7200亿元】 江苏省体育局、江苏省发展改革委近日联合印发《江苏省“十四五”体育产业发展规划》，提出到2025年，全省体育产业总规模超过7200亿元，增加值占全省地区生产总值2%以上，城乡居民体育消费总规模超过3000亿元，人均体育消费达到3500元，并新增3至5家体育类上市公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyamrmz1578956.d.html</link>
-            <guid>2462658</guid>
-            <pubDate>Mon, 27 Dec 2021 13:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  *ST索菱公告，深圳中级法院裁定批准公司重整计划，并终止公司重整程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-27/detail-ikyakumx6752383.d.html</link>
-            <guid>2462623</guid>
-            <pubDate>Mon, 27 Dec 2021 13:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
