@@ -4,11 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 28 Dec 2021 21:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 22:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：本周未与美国民主党参议员曼钦进行对话。]]></title>
+            <guid>2463901</guid>
+            <pubDate>Tue, 28 Dec 2021 22:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫桑比克石墨生产商Syrah：若本公司2024年5月末前没有产出，特斯拉可以终止合约。]]></title>
+            <guid>2463900</guid>
+            <pubDate>Tue, 28 Dec 2021 22:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫桑比克石墨生产商Syrah：与特斯拉的合约需就天然石墨活性阳极材料（AAM）规格在2022年末前达成协议。]]></title>
+            <guid>2463899</guid>
+            <pubDate>Tue, 28 Dec 2021 22:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【支持政策加码，中医药企业经营有望改善】近日，国内几大知名药企的中成药价格上调，上涨幅度为10%到20%，其中不乏一些常见品种。业内人士表示，中成药涨价的原因主要是中药材价格上涨。券商分析认为，在政策支持、提价催化下，估值较低、品牌影响力强的中医药企业受到重视。近两年，多项鼓励政策发布，中医药行业迎来发展新机遇，企业经营有望改善。（中证报）]]></title>
+            <guid>2463894</guid>
+            <pubDate>Tue, 28 Dec 2021 22:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【物业管理行业大额并购频现】据中指研究院统计数据，截至12月28日，物业管理行业今年以来已披露交易信息的并购案交易额达353.2亿元，较2020年全年增长约234.15%，并呈现大额交易频现、上市公司收购为主等特征。业内人士指出，政策推动物业管理行业健康发展，未来国资物业公司收购活跃度料提升。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1833856.d.html</link>
+            <guid>2463891</guid>
+            <pubDate>Tue, 28 Dec 2021 21:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西圣保罗证交所指数收跌0.65%，报10.5万点。加拿大股市效仿英国继续休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7007884.d.html</link>
+            <guid>2463890</guid>
+            <pubDate>Tue, 28 Dec 2021 21:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股中概股多数收跌】亿邦国际跌超10%，途牛跌超9.4%，一起教育科技跌9.3%，掌门教育跌8%，趣头条跌超7.9%，爱奇艺跌6.1%，唯品会跌超5.3%，好未来跌超4.7%，网易有道跌超3.9%，腾讯跌约3.8%，雾芯科技、达达跌超3.3%，小赢科技、知乎跌超3.1%，金山云、百度跌超2%，拼多多跌超1.6%，小鹏汽车跌约1.5%，蔚来跌1.1%，贝壳涨约1%，百济神州涨2.1%，荔枝涨超3.6%，满帮涨超4.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7006879.d.html</link>
+            <guid>2463885</guid>
+            <pubDate>Tue, 28 Dec 2021 21:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股大类资产ETF多数收跌，恐慌指数做多跌约2.7%，农产品基金跌超0.9%，巴克莱美国可转债ETF跌超0.6%，美国房地产ETF涨超0.3%，美国布伦特原油基金涨约0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1831643.d.html</link>
@@ -256,53 +294,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6985095.d.html</link>
             <guid>2463798</guid>
             <pubDate>Tue, 28 Dec 2021 16:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有车型直接贵30万元，业内人士：涉嫌违法】在走访中，奥迪4S店销售人员宣称，像RS（车型）都得加钱，基本上5-10万不等；6、7、8（车型）加30万元也是定死的，因为它的资源太少了，没有车，全年的配额也没多少。中国汽车流通协会汽车市场研究分会秘书长崔东树认为很多企业选择的方式，都是生产更多的高价和高配的车型，这样确保同样一辆车、同样的芯片，能够获得更大的利润跟相对的销售额。目前经销商加价销售的现象比较多，“这是一个严重违法的行为。”法律人士建议，消费者在选购车辆的时候，可以要求销售者明示价格，重视销售合同中的价格条款、交付周期以及车辆的产品型号和配置等。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6984601.d.html</link>
-            <guid>2463797</guid>
-            <pubDate>Tue, 28 Dec 2021 16:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果(AAPL.O)快速拉升，现涨0.5%，此前曾跌近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1809585.d.html</link>
-            <guid>2463793</guid>
-            <pubDate>Tue, 28 Dec 2021 16:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉年华邮轮(CCL.N)：有几个选定的目的地正在根据新的病毒变异株病例情况审查他们的协议和程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6982993.d.html</link>
-            <guid>2463792</guid>
-            <pubDate>Tue, 28 Dec 2021 16:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉年华邮轮(CCL.N)：我们大部分船舶的行程至今仍保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6982716.d.html</link>
-            <guid>2463791</guid>
-            <pubDate>Tue, 28 Dec 2021 15:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股航空股普涨，西南航空(LUV.N)涨2.38%，美国联合航空(UAL.O)涨2.19%，美国航空集团(AAL.O)涨2.04%，达美航空(DAL.N)涨1.73%。]]></title>
-            <guid>2463788</guid>
-            <pubDate>Tue, 28 Dec 2021 15:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)涨2.67%，印尼解除对波音旗下机型737 Max的飞行禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6980624.d.html</link>
-            <guid>2463783</guid>
-            <pubDate>Tue, 28 Dec 2021 15:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【云南安宁两地实施封闭管理】安宁政府发布公告称，对安宁市昆明冶金高等专科学校7号和8号宿舍楼、宁湖九号香缇花园小区2幢实施封闭管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1805372.d.html</link>
-            <guid>2463781</guid>
-            <pubDate>Tue, 28 Dec 2021 15:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股白银股拉升，Silvercorp Metals(SVM)涨2.69%，Fortuna Silver(FSM.N)涨2%，First Majestic(AG.O)涨1.92%，Endeavour Silver(EXK.N)涨1.72%，泛美白银(PAAS.O)涨1.35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1804956.d.html</link>
-            <guid>2463779</guid>
-            <pubDate>Tue, 28 Dec 2021 15:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
