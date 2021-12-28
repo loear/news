@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 18:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股充电桩板块下挫，Beam Global(BEEM.O)跌5.51%，Blink Charging(BLNK.O)跌4.63%，EVGO(EVGO.O)跌3.58%，Chargepoint Holdings(CHPT.O)跌2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1822364.d.html</link>
+            <guid>2463841</guid>
+            <pubDate>Tue, 28 Dec 2021 18:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国抗疫概念股持续走低，iBio(IBIO.O)跌6.42%，BioNTech SE(BNTX.O)跌5%，辉瑞(PFE.N)跌超3%，Moderna(MRNA.O)跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6994845.d.html</link>
+            <guid>2463834</guid>
+            <pubDate>Tue, 28 Dec 2021 17:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国方面取消了对8个南非国家旅游限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1819609.d.html</link>
+            <guid>2463832</guid>
+            <pubDate>Tue, 28 Dec 2021 17:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股下行，纳指跌0.6%，标普500指数转跌0.2%，道指涨幅收窄至约40点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1819542.d.html</link>
+            <guid>2463831</guid>
+            <pubDate>Tue, 28 Dec 2021 17:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：苹果(AAPL.O)将限制纽约市门店的进店人数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6993962.d.html</link>
+            <guid>2463830</guid>
+            <pubDate>Tue, 28 Dec 2021 17:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美银证券：重申香港交易所(00388.HK)买入评级 目标价529港元】近日沪深港交易所及中国结算就ETF纳入互联互通标的整体方案达成共识，美银证券发表研究报告指，料ETF纳入互联互通标的将在7月初推出，相信将成北向及南向成交额的新动力，亦有助香港的整体成交额，从长远来看，这也是国内资金流向香港支持市场流动性的关键一步，港交所是香港证券及衍生品市场的主要营运者及监管者，重申买入评级，目标价529港元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx6993095.d.html</link>
@@ -256,72 +286,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6968874.d.html</link>
             <guid>2463737</guid>
             <pubDate>Tue, 28 Dec 2021 14:11:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰田、马自达等日本车企2022年将为主要车型配备自动驾驶技术】据日经新闻报道，包括丰田汽车和马自达在内的日本车企，到2022年左右将为其主要车型配备自动驾驶技术。这些车企将安装Level 2和以上的功能，比如在公路上仍由司机来主要操作的自动驾驶。报道援引Yano Research Institute称，到2030年，将有62%的自动驾驶汽车配置Level 2。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1793311.d.html</link>
-            <guid>2463733</guid>
-            <pubDate>Tue, 28 Dec 2021 14:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月S&P/CS20座大城市房价指数年率录得18.41%，创2021年5月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792423.d.html</link>
-            <guid>2463732</guid>
-            <pubDate>Tue, 28 Dec 2021 14:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资国企综合改革试验（深圳）基金正式签约落地】国资国企综合改革试验（深圳）基金签约暨基金管理公司揭牌仪式今日在深圳举行。该基金首期规模50亿元，由中国国新、中国电信、鲲鹏资本、特区建发、深国际和坪山城投共同出资设立，基金的执行事务合伙人由中国国新、鲲鹏资本、鲲鹏展翼设立的合资公司担任。该基金的设立将通过央地协同推动深圳区域性国资国企综改试验，在重要领域和关键环节实现更大成效，加快投资落地一批重点项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6967108.d.html</link>
-            <guid>2463731</guid>
-            <pubDate>Tue, 28 Dec 2021 14:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月S&P/CS20座大城市房价指数同比 18.41%，预期 18.5%，前值 19.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792411.d.html</link>
-            <guid>2463730</guid>
-            <pubDate>Tue, 28 Dec 2021 14:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月FHFA房价指数环比 1.1%，预期 0.9%，前值 0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792404.d.html</link>
-            <guid>2463729</guid>
-            <pubDate>Tue, 28 Dec 2021 14:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital Turbine盘前涨超7%，Digital Turbine宣布与谷歌建立战略合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6967086.d.html</link>
-            <guid>2463728</guid>
-            <pubDate>Tue, 28 Dec 2021 13:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米真无线降噪耳机3售价为499元，小米真无线降噪耳机3 Pro售价为699元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792391.d.html</link>
-            <guid>2463727</guid>
-            <pubDate>Tue, 28 Dec 2021 13:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥国家石油公司CEO：预计本公司在2022年的原油产量为150.9万桶/日，2024年将达到200万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6967069.d.html</link>
-            <guid>2463726</guid>
-            <pubDate>Tue, 28 Dec 2021 13:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥国家石油公司CEO：预计墨西哥将在2023年停止出口原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792377.d.html</link>
-            <guid>2463725</guid>
-            <pubDate>Tue, 28 Dec 2021 13:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米小尺寸准旗舰手机小米12X系列手机起售价为3199元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792375.d.html</link>
-            <guid>2463724</guid>
-            <pubDate>Tue, 28 Dec 2021 13:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥国家石油公司CEO：公司的原油出口量将在2022年降至43.5万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1792367.d.html</link>
-            <guid>2463723</guid>
-            <pubDate>Tue, 28 Dec 2021 13:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
