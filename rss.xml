@@ -4,11 +4,87 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 28 Dec 2021 20:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 21:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股大类资产ETF多数收跌，恐慌指数做多跌约2.7%，农产品基金跌超0.9%，巴克莱美国可转债ETF跌超0.6%，美国房地产ETF涨超0.3%，美国布伦特原油基金涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1831643.d.html</link>
+            <guid>2463884</guid>
+            <pubDate>Tue, 28 Dec 2021 21:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF涨跌各异，公用事业ETF涨0.9%，日常消费品ETF、全球航空业ETF涨超0.5%，网络股指数ETF跌超0.9%，半导体ETF跌约1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1831626.d.html</link>
+            <guid>2463883</guid>
+            <pubDate>Tue, 28 Dec 2021 21:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股芯片股普遍收跌】Wolfspeed收跌逾3.3%，迈威尔科技跌超3.1%，MPWR跌超2.5%，TER跌超2.3%，安森美跌约2.1%，英伟达跌超2.0%，应用材料跌约1.9%，科磊和莱迪思半导体（LSCC）跌约1.8%，SLAB、微芯科技、CYBE、赛灵思、拉姆研究、ENTG、MKSI至少跌1.0%，AMKR则涨超0.9%，格罗方德半导体（格芯）涨超2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1831558.d.html</link>
+            <guid>2463882</guid>
+            <pubDate>Tue, 28 Dec 2021 21:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场对于奥密克戎拖累经济复苏的忧虑轻微缓解，风险情绪随之回温。道指周二上扬超200点，逼近11月8日刷新的历史高位，标普500指数续刷记录新高，随后三大股指涨幅收窄，纳指、标指转跌。盘面上，航空股反弹，保险股、核电股上扬、氢能源、中概股下挫。个股方面，普普文化(CPOP.O)收涨35%，逸仙电商(YSG.N)收涨7.69%，宏桥高科(PBTS.O)收跌23.88%，Takung Art(TKAT.N)收跌11.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1831392.d.html</link>
+            <guid>2463880</guid>
+            <pubDate>Tue, 28 Dec 2021 21:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特汽车市值超过通用汽车】福特汽车收跌将近0.2%，报20.76美元，收盘市值829.62亿美元，通用汽车（GM）收跌逾0.5%，报57.11美元，收盘市值829.16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7005800.d.html</link>
+            <guid>2463879</guid>
+            <pubDate>Tue, 28 Dec 2021 21:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至发稿，道指成交量报2.293亿股（上一交易日为2.503亿股），纳指成交量报31.674亿股（上一交易日为33.648亿股），标普500指数成交量报13.496亿股（上一交易日为15.051亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7005583.d.html</link>
+            <guid>2463877</guid>
+            <pubDate>Tue, 28 Dec 2021 21:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Tigress Financial：将星巴克(SBUX.O)目标价从130美元上调至136美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7005160.d.html</link>
+            <guid>2463875</guid>
+            <pubDate>Tue, 28 Dec 2021 20:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科文：将马拉松石油(MRO.N)目标价从72美元上调至75美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1830100.d.html</link>
+            <guid>2463873</guid>
+            <pubDate>Tue, 28 Dec 2021 20:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：AMD(AMD.O)取消现场出席2022年1月份消费者电子展（CES）的计划。]]></title>
+            <guid>2463871</guid>
+            <pubDate>Tue, 28 Dec 2021 20:42:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科文：将瓦莱罗能源(VLO.N)目标价从85美元下调至82美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1829883.d.html</link>
+            <guid>2463870</guid>
+            <pubDate>Tue, 28 Dec 2021 20:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国连续8年成为全球最大工业机器人消费国】12月28日，由工业和信息化部等15个部门起草的《“十四五”机器人产业发展规划》正式发布，工信部举行新闻发布会作了介绍。“我国已经连续8年成为全球最大的工业机器人消费国，2020年制造业机器人密度达到246台/万人，是全球平均水平的近2倍。”工信部装备工业一司司长王卫明介绍，2020年机器人产业营业收入首次突破1000亿元；“十三五”期间年均复合增长率约15%，其中工业机器人产量从7.2万套增长到21.2万套，年均增长31%（人民日报海外版）]]></title>
+            <guid>2463869</guid>
+            <pubDate>Tue, 28 Dec 2021 20:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【资管新规三年过渡期收官在即，28万亿元银行理财市场已重塑】今年是资管新规3年过渡期收官之年。过渡期结束在即，意味着占据资管市场规模最大的银行理财市场（约为28万亿元），挥别过去运行10多年的规则，市场完全重塑——行业打破“刚兑”，产品真净值化，彻底回归资管业务本源；监管标准统一，行业藩篱得以拆除，银行理财子公司与其他资管机构同台竞技。大资管角逐暗流涌动。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyamrmz1829519.d.html</link>
+            <guid>2463868</guid>
+            <pubDate>Tue, 28 Dec 2021 20:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【光大海外：维持快手(01024.HK)买入评级 目标价145.5港元】光大海外发布研究报告称，维持快手(01024.HK)买入评级，有望借力美团(03690.HK)打通本地生活服务商业循环，中长期受益于视频化深入推进，看好公司商业化潜力，维持2021-23年营收预测为801/1104/1404亿元人民币，目标价145.5港元。光大海外指，本地生活市场仍有可观潜力，短视频和本地生活有较高用户契合度。快手长期布局本地生活，快手和美团是能力圈的强强联合，协同效应打开快手本地生活商业化想象空间。该行认为，快手强内容、强流量，美团强履约、商家资源丰富，双方有望在用户流量、平台生态、商业化等方面互相增强势能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7004009.d.html</link>
+            <guid>2463867</guid>
+            <pubDate>Tue, 28 Dec 2021 20:27:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  科文：将菲利普斯66(PSX.N)目标价从77美元上调至78美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-12-29/detail-ikyakumx7003521.d.html</link>
@@ -227,64 +303,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1804956.d.html</link>
             <guid>2463779</guid>
             <pubDate>Tue, 28 Dec 2021 15:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳上市公司发展报告（2021）：466家深圳上市公司总市值达到16.33万亿元，同比增长33.74%】12月28日发布的最新一期《深圳上市公司发展报告（2021）》指出，深圳上市公司“科技+金融”双轮驱动特征显著。截至2020年底，466家深圳上市公司总市值达到16.33万亿元，同比增长33.74%。其中信息技术行业上市公司市值和金融行业上市公司市值合计占深圳上市公司总市值比重达到68.04%。此外，深圳上市公司2020年整体发展高于A股平均水平。2020年深圳上市公司总资产、净资产、营业收入、净利润均实现两位数快速增长。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6978839.d.html</link>
-            <guid>2463778</guid>
-            <pubDate>Tue, 28 Dec 2021 15:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  越秀地产(00123.HK)：于2021年12月28日，公司(作为借款人)与一家银行订立一份融资协议，贷款人在融资协议的条款及条件的规限下提供3.9亿港元的定期贷款融资，贷款期由首次提款日起计12个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6977665.d.html</link>
-            <guid>2463773</guid>
-            <pubDate>Tue, 28 Dec 2021 15:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年打新“黑名单”，券商、保险、上市公司股东、百亿量化私募赫然在列】今年以来新股弃购案例不断出现。对于未全额缴款的投资者而言，弃购不仅会损失新股上市后可能的丰厚收益，更有可能被列入打新限制名单，从而在相当一段时间内与新股无缘。据中国证券报·中证金牛座记者统计，截至12月28日，2021年中国证券业协会已开出13份打新限制名单及黑名单，累计有513名对象因存在违规行为被限制参与打新半年至一年不等；除个人投资者外，券商、险企、上市公司股东及百亿量化私募也赫然在列。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1802760.d.html</link>
-            <guid>2463772</guid>
-            <pubDate>Tue, 28 Dec 2021 15:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ROKU(ROKU.O)涨幅扩大至5%，领涨流媒体概念股。华特迪士尼(DIS.N)涨2.12%，AT&T(T.N)涨0.9%，奈飞(NFLX.O)涨0.5%。]]></title>
-            <guid>2463771</guid>
-            <pubDate>Tue, 28 Dec 2021 15:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微创医疗建议分拆微创脑科学于联交所主板独立上市】微创医疗在香港交易所发布公告称，公司建议分拆微创脑科学有限公司的股份于联交所主板独立上市。微创脑科学拟透过全球发售方式发售其股份。全球发售的规模及条款尚未落实。上市完成后，微创脑科学仍将是微创医疗的子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6976700.d.html</link>
-            <guid>2463770</guid>
-            <pubDate>Tue, 28 Dec 2021 15:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度市场监管机构收紧上市规范：将提高主要投资者出售股票的锁定要求，以及要求信用评级机构监督IPO资金的使用情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1802084.d.html</link>
-            <guid>2463769</guid>
-            <pubDate>Tue, 28 Dec 2021 15:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【砍掉7000多亿元“两高”项目 “能源重镇”陕西榆林探索低碳转型】作为我国重要能源基地，陕西榆林市在“双碳”背景下面临着巨大的转型压力。为实现“双碳”和“双控”目标，榆林市不仅要求一批能化项目停产、整顿，还主动压减7000多亿元投资的 “两高”项目。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1801534.d.html</link>
-            <guid>2463766</guid>
-            <pubDate>Tue, 28 Dec 2021 14:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：润迈德医疗有限公司-B向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyamrmz1801151.d.html</link>
-            <guid>2463764</guid>
-            <pubDate>Tue, 28 Dec 2021 14:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概在线教育概念股走低，掌门教育(ZME.N)跌6.86%，高途(GOTU.N)跌4.1%，一起教育科技(YQ.O)跌2.9%，好未来(TAL.N)跌2.88%，有道(DAO.N)跌1.19%。]]></title>
-            <guid>2463763</guid>
-            <pubDate>Tue, 28 Dec 2021 14:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(FB.O)涨1.63%，Meta VR应用Oculus在圣诞节登顶美国App Store排行榜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-28/detail-ikyakumx6975174.d.html</link>
-            <guid>2463759</guid>
-            <pubDate>Tue, 28 Dec 2021 14:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
