@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 31 Dec 2021 21:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 22:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【印度反垄断机构对苹果抬高App市场准入门槛进行调查】印度竞争委员会（Competition Commission of India，简称CCI）周五（12月31日）正式下令对苹果公司在该国的商业行为进行调查，该机构初步认定苹果违反了反垄断法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7667574.d.html</link>
+            <guid>2468139</guid>
+            <pubDate>Fri, 31 Dec 2021 22:12:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大阿尔伯塔省电力系统运营商（AESO）：12月阿尔伯塔省批发电价均值达到约123加元/MWH（折合97.30美元），创2000年以来同期新高。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2488591.d.html</link>
@@ -264,29 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyamrmz2466413.d.html</link>
             <guid>2468034</guid>
             <pubDate>Fri, 31 Dec 2021 15:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔能源部长：预计明年2月份石油产量将恢复到正常水平】厄瓜多尔预计明年2月份石油产量将恢复到正常水平，此前该国两条主要出口管道已恢复运营，两条管道曾几度受到土地侵蚀的威胁。厄瓜多尔能源部长表示，厄瓜多尔石油公司重启了日产量36万桶的SOTE原油管道，此前为了防止侵蚀造成的破坏，该管道停工20天。另一管道——OCP原油管道定于今日重启，产油量为45万桶/日。根据监管数据，12月25日厄瓜多尔原油产量降至3.6万桶/日的最低点，比2021年1月至11月的平均日产量47.1万桶下降了92%，12月27日，产量恢复到4.8万桶/日。]]></title>
-            <guid>2468027</guid>
-            <pubDate>Fri, 31 Dec 2021 15:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.3550元，较周四夜盘收盘涨181点。成交量289.27亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyamrmz2464954.d.html</link>
-            <guid>2468026</guid>
-            <pubDate>Fri, 31 Dec 2021 15:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航班大减 香港邮政寄往美澳加墨空邮服务暂停】香港邮政今日（31日）宣布，由于航空公司大幅削减飞往若干目的地的航机班次甚或停飞，寄往澳洲、加拿大、墨西哥及美国的所有空邮服务（包括特快专递）明日（1月1日）起暂停，直至另行通知。香港邮政会继续与空运承办商紧密联系，以期尽快恢复受影响的服务。另外，因寄往伯利兹、圣诞岛、科科斯群岛、古巴、萨尔瓦多、危地马拉、尼加拉瓜及诺褔克岛的空邮服务经由澳洲和墨西哥转运，其服务亦需暂停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyakumx7637920.d.html</link>
-            <guid>2468025</guid>
-            <pubDate>Fri, 31 Dec 2021 15:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：俄罗斯航天局局长表示，一旦“球体”(Sfera)多功能卫星系统开始部署，俄罗斯计划在未来几年内每年发射50-75枚火箭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyamrmz2464465.d.html</link>
-            <guid>2468024</guid>
-            <pubDate>Fri, 31 Dec 2021 15:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
