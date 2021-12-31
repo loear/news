@@ -4,11 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 31 Dec 2021 17:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 18:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将在周日与乌克兰总统泽连斯基进行谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7652477.d.html</link>
+            <guid>2468081</guid>
+            <pubDate>Fri, 31 Dec 2021 18:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至12月31日当周石油钻井总数480口 ，预期为483口；当周总钻井总数586口，预期为589口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2478041.d.html</link>
+            <guid>2468077</guid>
+            <pubDate>Fri, 31 Dec 2021 18:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股网易有道盘中上涨10.49%，现报12.850美元，当前市值为16.19亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2477916.d.html</link>
+            <guid>2468076</guid>
+            <pubDate>Fri, 31 Dec 2021 18:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰卫生部：爱尔兰将从1月2日起对16岁以上的人群提供加强针接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2476983.d.html</link>
+            <guid>2468073</guid>
+            <pubDate>Fri, 31 Dec 2021 17:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率跌至日低，报1.4895%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7649011.d.html</link>
+            <guid>2468070</guid>
+            <pubDate>Fri, 31 Dec 2021 17:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国科罗拉多州“马歇尔”大火已烧毁6200英亩土地】截至当地时间2021年12月31日上午，最先于美国科罗拉多州苏必利尔市西北部出现的野火“马歇尔”已经烧毁了6200英亩（2509公顷）土地。美国国家气象局办公室于2021年12月31日上午发布公告称，一股“可产生更大范围降雪”的冷锋已经进入科罗拉多州北部。美国国家气象局预计，这将为科罗拉多州北部丘陵地区带来大量降雪，有助于控制“马歇尔”大火。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7648952.d.html</link>
+            <guid>2468069</guid>
+            <pubDate>Fri, 31 Dec 2021 17:31:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国国务卿布林肯与加拿大外长就俄罗斯问题进行了交谈。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7648406.d.html</link>
@@ -263,30 +299,6 @@
             <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyamrmz2454139.d.html</link>
             <guid>2467968</guid>
             <pubDate>Fri, 31 Dec 2021 13:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST德威：豁免债务3.29亿元 将增加2021年度公司净资产】*ST德威公告，公司当日收到中海外城开、华融资产江苏分公司、信达资产江苏分公司关于豁免公司债务的函，上述三家公司合计豁免公司债务3.29亿元的偿还义务，自通知函出具之日起生效。中海外城开、华融资产江苏分公司、信达资产江苏分公司为公司的潜在股东，此次债务豁免作为权益性交易，将豁免的债务金额计入公司资本公积，将增加2021年度公司净资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyakumx7627337.d.html</link>
-            <guid>2467967</guid>
-            <pubDate>Fri, 31 Dec 2021 13:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国外汇投资研究院：预计2022年纽约石油期货价格将直指90-100美元】2022年全球商品价格上涨将继续，经济基础向好必然使商品需求上升，目前世界经济4%-5%的增长率依然意味商品原材料价格具有10%以上的上涨动力和潜力可能，其中包括商品之间产能过剩、供给不足以及结构失衡等不对称或极致关系的影响，预计2022年国际石油价格上涨是主趋势，预计纽约石油期货价格将直指90-100美元。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyamrmz2453429.d.html</link>
-            <guid>2467962</guid>
-            <pubDate>Fri, 31 Dec 2021 13:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Digitimes：2021年全球智能手机出货约为13.2亿部，三星苹果小米排前三】据DIGITIMES Research研究与统计，2021年下半全球智能手机出货不见上半年的年成长气势，反而连两季皆年减，合计不及7亿部，全年出货则约为13.2亿部，年增仅6.1%。具体来看，2021年下半年及全年智能手机出货前六大品牌依序皆为三星 (Samsung)、苹果 (Apple)、小米、OPPO、vivo及传音。就2021全年来看，小米、OPPO、vivo及传音四大国产品牌，出货年成长率皆达2位数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyakumx7625340.d.html</link>
-            <guid>2467958</guid>
-            <pubDate>Fri, 31 Dec 2021 13:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【崔宸龙包揽2021年公募基金冠亚军 最高收益达119.42%】今日，2021年A股行情正式收官，公募基金年度业绩排名大战也尘埃落定。截至发稿，已有部分基金净值公布。数据显示，2021年，崔宸龙执掌的前海开源公用事业和前海开源新经济两只基金，分别以119.42%和109.36%的收益率，成为了2021年公募基金行业业绩榜单的冠亚军。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-12-31/detail-ikyakumx7624803.d.html</link>
-            <guid>2467957</guid>
-            <pubDate>Fri, 31 Dec 2021 13:36:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
