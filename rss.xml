@@ -4,11 +4,51 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 Jan 2022 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 07:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【浙江宁波市新增三个中风险地区】自2022年1月1日15时起，宁波市北仑区启动I级应急响应，实施临时封闭管理，北仑区新碶街道沿海村、申州公司三部厂区、男工宿舍、女工宿舍列为中风险地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2573735.d.html</link>
+            <guid>2468707</guid>
+            <pubDate>Sat, 01 Jan 2022 07:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳首个 龙华区上线房地产全链条监管平台】深圳市龙华区住房建设局盯紧行业痛点、难点，利用区块链等智慧化、数字化科技手段，建设打造了全市首个房地产全链条监管平台，选取19个房地产项目进行全链条数据贯通试点，试点项目覆盖土地出让、规划报建、销售等多个阶段，包含居住用地、商业用地、工业用地等不同性质土地。（深圳特区报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7745436.d.html</link>
+            <guid>2468706</guid>
+            <pubDate>Sat, 01 Jan 2022 07:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本考虑将碳排放造成的影响纳入GDP测算】据日本《产经新闻》报道，日本政府正在审议一项“绿色GDP”计划，即在衡量经济增长时将碳排放的影响考虑在内。报道称，该计划将以货币形式衡量碳排放量，将碳排放对经济的负面影响以及减少碳排放的成本计算在内。政府将在新财年开始与私人机构开展联合研究，预计将需要约3400万日元(约合187万人民币)的预算来资助这项研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7744245.d.html</link>
+            <guid>2468705</guid>
+            <pubDate>Sat, 01 Jan 2022 07:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《求是》杂志发表习近平总书记重要讲话 《以史为鉴、开创未来，埋头苦干、勇毅前行》】2022年1月1日出版的今年第1期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平在党的十九届六中全会第二次全体会议上的重要讲话《以史为鉴、开创未来，埋头苦干、勇毅前行》。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7744065.d.html</link>
+            <guid>2468704</guid>
+            <pubDate>Sat, 01 Jan 2022 07:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海港集装箱吞吐量突破4700万标箱 连续12年全球第一】上海国际港务集团透露，2021年，上海港集装箱吞吐量突破4700万标准箱，已连续12年位居全球第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7743497.d.html</link>
+            <guid>2468703</guid>
+            <pubDate>Sat, 01 Jan 2022 07:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据土耳其媒体HT：土耳其上调电价，上调幅度在52%至130%之间；土耳其将于今日开始实行渐进式电价制度。]]></title>
+            <guid>2468699</guid>
+            <pubDate>Sat, 01 Jan 2022 06:47:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国政府将把国际空间站的运行时间延长至2030年】美国国家航空航天局局长比尔·纳尔逊宣布，拜登政府承诺将国际空间站的运行延长6年至2030年，并将继续与欧洲航天局、日本宇宙航空研究开发机构、加拿大航天局和俄罗斯联邦航天局合作。据悉，美国原计划将国际空间站运营到2024年，届时，美国国家航空航天局准备将空间站的日常运营移交给商业实体，以便腾出资金用于“阿尔忒弥斯”登月计划。]]></title>
+            <guid>2468697</guid>
+            <pubDate>Sat, 01 Jan 2022 06:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：土耳其将面向家庭、发电厂和工厂的天然气价格分别上调25%、15%、50%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7738810.d.html</link>
@@ -332,12 +372,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2498138.d.html</link>
             <guid>2468145</guid>
             <pubDate>Fri, 31 Dec 2021 22:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度反垄断机构对苹果抬高App市场准入门槛进行调查】印度竞争委员会（Competition Commission of India，简称CCI）周五（12月31日）正式下令对苹果公司在该国的商业行为进行调查，该机构初步认定苹果违反了反垄断法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7667574.d.html</link>
-            <guid>2468139</guid>
-            <pubDate>Fri, 31 Dec 2021 22:12:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
