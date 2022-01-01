@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 Jan 2022 13:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 14:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021百强房企销售额10年首现负增长 融资触及5年最低值】12月31日，第三方机构克而瑞发布的销售数据显示，百强房企12月单月实现11223.1亿元，环比11月大幅上涨逾3成，但同比仍下挫近35%，全年累计销售额同比下降3%。这是自2010年以来，规模房企销售业绩增速首次出现负值。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7797745.d.html</link>
+            <guid>2469161</guid>
+            <pubDate>Sat, 01 Jan 2022 14:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股新年见！五大金牛基金经理把脉2022 研判新能源、医药、消费等热点】金牛基金经理认为，2022年中国经济将是从“调结构”到“稳增长”的一年，稳增长政策的相继出台将托底经济逐渐企稳，流动性也会随着经济的企稳而边际收紧；A股市场极致分化行情有所收敛，市场风格走向均衡，投资机会聚焦新能源、消费与低估值三条主线；关注没有基本面支撑的中小市值股票估值回归合理区间等风险。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2624936.d.html</link>
+            <guid>2469160</guid>
+            <pubDate>Sat, 01 Jan 2022 14:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：土耳其正在考虑推出通货膨胀保值里拉债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7797203.d.html</link>
+            <guid>2469159</guid>
+            <pubDate>Sat, 01 Jan 2022 14:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列警察因驱逐巴勒斯坦人与抗议者发生冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2623540.d.html</link>
+            <guid>2469157</guid>
+            <pubDate>Sat, 01 Jan 2022 14:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰总统：俄罗斯提出的安全保障条件与欧洲安全模式相悖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2623378.d.html</link>
+            <guid>2469156</guid>
+            <pubDate>Sat, 01 Jan 2022 14:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟开始就一些涉及核、天然气活动的法案进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7795255.d.html</link>
+            <guid>2469155</guid>
+            <pubDate>Sat, 01 Jan 2022 13:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年最后一天访澳旅客人次重上4万水平】记者1日从澳门特区政府旅游局获悉，2021年12月31日录得访澳旅客42341人次，是当年按单日入境旅客排名第二高位，重上单日客流量4万人次水平。统计显示，访澳旅客人次过去一星期的日均旅客达30230人次，酒店入住率62.8%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7794101.d.html</link>
+            <guid>2469154</guid>
+            <pubDate>Sat, 01 Jan 2022 13:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【灯塔专业版：元旦档首日票房4.6亿】据灯塔专业版数据，截至1月1日晚21时30分，2021元旦档首日票房超4.6亿，位列中国影史元旦档首日票房第二，总人次1115.3万，总场次46.84万。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2620784.d.html</link>
+            <guid>2469151</guid>
+            <pubDate>Sat, 01 Jan 2022 13:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：阿富汗兴都库什地区发生5.2级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2620039.d.html</link>
@@ -347,54 +395,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7750162.d.html</link>
             <guid>2468790</guid>
             <pubDate>Sat, 01 Jan 2022 07:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车：在2021年12月交付了10489辆汽车，同比增长49.7％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7749682.d.html</link>
-            <guid>2468781</guid>
-            <pubDate>Sat, 01 Jan 2022 07:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车：截至2021年12月31日，ES8、ES6和EC6的累计交付量达到167070辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2577214.d.html</link>
-            <guid>2468769</guid>
-            <pubDate>Sat, 01 Jan 2022 07:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿曼预计2022年赤字为39亿美元，该预期是以油价为50美元/桶为基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2575917.d.html</link>
-            <guid>2468739</guid>
-            <pubDate>Sat, 01 Jan 2022 07:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【RCEP国际货运班列在广西发出】记者从中国铁路南宁局集团有限公司获悉，1月1日0时05分，满载800多吨货物的X9101次集装箱班列从广西南宁国际铁路港开出，预计28小时后运抵越南河内。这是区域全面经济伙伴关系协定（RCEP）生效实施后，广西发出的开往RCEP成员国的国际货运班列。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2574727.d.html</link>
-            <guid>2468710</guid>
-            <pubDate>Sat, 01 Jan 2022 07:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江宁波市新增三个中风险地区】自2022年1月1日15时起，宁波市北仑区启动I级应急响应，实施临时封闭管理，北仑区新碶街道沿海村、申州公司三部厂区、男工宿舍、女工宿舍列为中风险地区。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2573735.d.html</link>
-            <guid>2468707</guid>
-            <pubDate>Sat, 01 Jan 2022 07:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳首个 龙华区上线房地产全链条监管平台】深圳市龙华区住房建设局盯紧行业痛点、难点，利用区块链等智慧化、数字化科技手段，建设打造了全市首个房地产全链条监管平台，选取19个房地产项目进行全链条数据贯通试点，试点项目覆盖土地出让、规划报建、销售等多个阶段，包含居住用地、商业用地、工业用地等不同性质土地。（深圳特区报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7745436.d.html</link>
-            <guid>2468706</guid>
-            <pubDate>Sat, 01 Jan 2022 07:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本考虑将碳排放造成的影响纳入GDP测算】据日本《产经新闻》报道，日本政府正在审议一项“绿色GDP”计划，即在衡量经济增长时将碳排放的影响考虑在内。报道称，该计划将以货币形式衡量碳排放量，将碳排放对经济的负面影响以及减少碳排放的成本计算在内。政府将在新财年开始与私人机构开展联合研究，预计将需要约3400万日元(约合187万人民币)的预算来资助这项研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7744245.d.html</link>
-            <guid>2468705</guid>
-            <pubDate>Sat, 01 Jan 2022 07:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《求是》杂志发表习近平总书记重要讲话 《以史为鉴、开创未来，埋头苦干、勇毅前行》】2022年1月1日出版的今年第1期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平在党的十九届六中全会第二次全体会议上的重要讲话《以史为鉴、开创未来，埋头苦干、勇毅前行》。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7744065.d.html</link>
-            <guid>2468704</guid>
-            <pubDate>Sat, 01 Jan 2022 07:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
