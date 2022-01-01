@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 Jan 2022 03:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 04:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021年普通股票型基金平均业绩回报9.98%】 Wind数据显示，截至2021年12月31日，按照Wind开放式基金分类，2021年主要基金类型平均业绩如下：普通股票型基金收益率9.98%，被动和增强型指数基金收益率8.88%，混合型基金收益率8.69%，债券型基金收益率4.91%，货币市场基金收益率2.19%。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2548026.d.html</link>
+            <guid>2468670</guid>
+            <pubDate>Sat, 01 Jan 2022 04:10:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韩国2021年CPI上涨2.5% 系10年来最高】韩国统计厅数据显示，韩国2021年全年居民消费价格指数（CPI）同比上涨2.5%，为102.50，涨幅创下自2011年（4%）以来的最高值。韩媒分析称，今年涨幅超过2%的原因是国际原材料价格上升、需求回暖。石油类、加工食品等工业品以及个人服务、农副产品价格上涨，也拉高了今年的CPI涨幅。]]></title>
             <guid>2468665</guid>
@@ -300,12 +306,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7656933.d.html</link>
             <guid>2468113</guid>
             <pubDate>Fri, 31 Dec 2021 19:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：如果俄罗斯进一步对乌克兰采取行动，俄罗斯总统普京将受到制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2483428.d.html</link>
-            <guid>2468110</guid>
-            <pubDate>Fri, 31 Dec 2021 19:43:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
