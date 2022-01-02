@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 06:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据中证报：华为门店销售人员透露，作为首款搭载HarmonyOS智能座舱的智能汽车，2021年12月23日AITO问界M5发布后96小时预定量就有6500多台。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyakumx7896667.d.html</link>
+            <guid>2469897</guid>
+            <pubDate>Sun, 02 Jan 2022 06:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：南非开普敦议会大厦发生火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2722991.d.html</link>
+            <guid>2469895</guid>
+            <pubDate>Sun, 02 Jan 2022 06:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国天然气出口业务大增，未来价格波动性料被放大】去年12月，海外买家购买了美国13%的天然气产量，较五年前购买数量增长了七倍。在美国天然气出口业务出现之前，美国和加拿大的天然气市场是一个地方性市场，价格仅受匹兹堡和芝加哥等地的寒流和墨西哥湾的飓风影响。但这样的日子已一去不复返了，因为韩国和荷兰的经纪商会给出创纪录的报价，吸引装载美国天然气的油轮驶往他们的航线。摩根大通大宗商品研究和战略主管Natasha Kaneva称，“海外天然气市场的波动幅度较大，尽管冬季过去之后价格波动会放缓，但对于此前长期平稳的美国市场而言，未来天然气波动性还是相对较大。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyakumx7893394.d.html</link>
+            <guid>2469894</guid>
+            <pubDate>Sun, 02 Jan 2022 05:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南重点（重大）项目完成年度投资801亿元，完成率103%】从海南省发展改革委获悉，截至2021年12月中旬，海南省重点（重大）项目累计完成年度投资801亿元，年度投资完成率103%，超额完成年度投资任务。2021年，海南共安排省重点（重大）项目128个，总投资3781亿元，年度计划投资778亿元。项目类别涵盖三大主导产业（旅游业、现代服务业、高新技术产业）等五大类，“五网”基础设施提质升级和产业发展类项目年度投资体量最大。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2720643.d.html</link>
+            <guid>2469893</guid>
+            <pubDate>Sun, 02 Jan 2022 05:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[猫眼专业版数据显示，2022年1月2日13时29分，2022元旦档新片总票房（含预售）破10亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2719623.d.html</link>
+            <guid>2469892</guid>
+            <pubDate>Sun, 02 Jan 2022 05:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯12月石油产量为1090.3万桶/日，同比增长8.4%；天然气产量为690.25亿立方米，同比增长3.3%。]]></title>
+            <guid>2469891</guid>
+            <pubDate>Sun, 02 Jan 2022 05:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全球招展工作基本完成 2022消博会倒计时100天启动】据海南国际经济发展局消息，2022年1月2日，由商务部和海南省人民政府共同主办的2022年中国国际消费品博览会倒计时100天正式启动。截至目前，2022消博会全球招展工作基本完成。据了解，2022消博会展览总面积将从首届的8万平方米扩至10万平方米。其中，国际展区从首届的6万平方米增加到8万平方米，境外品牌参展面积占比从首届的75%增至80%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2707961.d.html</link>
@@ -307,24 +342,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2638740.d.html</link>
             <guid>2469190</guid>
             <pubDate>Sat, 01 Jan 2022 17:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年海南10家离岛免税店总销售额超600亿 同比增84%】海南省商务厅指出，继2020年海南离岛免税销售额同比实现翻番后，2021年海南离岛免税销售保持快速增长态势。据统计，2021年海南10家离岛免税店总销售额601.73亿元，同比增长84%。其中，免税销售额504.9亿元，同比增长83%；免税购物人数967.66万人次，同比增长73%；免税购买件数5349.25万件，同比增长71%。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyakumx7810415.d.html</link>
-            <guid>2469188</guid>
-            <pubDate>Sat, 01 Jan 2022 17:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行在一份报告中表示，在一个“供应充足”的市场中，2022年天然气期货平均价格为3.45美元/百万英热，次年为3.10美元/百万英热。相比之下，12月份的平均价格略低于4美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyakumx7808841.d.html</link>
-            <guid>2469185</guid>
-            <pubDate>Sat, 01 Jan 2022 16:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国第二台华龙一号核电机组并网成功】2022年1月1日22时35分38秒，我国自主三代核电华龙一号迎来新年“开门红”：中核集团福清核电6号机组首次并网成功，开始向电网送出第一度电，成为全球第三台、我国第二台华龙一号并网发电机组。经现场确认，各项技术指标均符合设计要求，机组状态良好，为后续正式投入商业运行奠定坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2633935.d.html</link>
-            <guid>2469180</guid>
-            <pubDate>Sat, 01 Jan 2022 16:16:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
