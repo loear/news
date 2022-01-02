@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 02 Jan 2022 01:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 02:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【宁波两区开展大规模核酸检测】据宁波发布官微1月2日消息，1月2日8时-12时，北仑全区组织开展大规模核酸检测，共设置301个采样点。1月2日上午07:30起至11:00止，大榭开发区开展全员核酸检测，共设置27个采样点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2683298.d.html</link>
+            <guid>2469655</guid>
+            <pubDate>Sun, 02 Jan 2022 01:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极端天气再次袭来 美国肯塔基州进入紧急状态】当地时间1月1日，强降雨、雷暴和龙卷风等极端天气再次席卷美国肯塔基州。肯塔基州州长安迪·贝希尔当天宣布该州进入紧急状态。2021年12月10日至11日期间，肯塔基州等多地曾遭到龙卷风等极端天气袭击，造成上百人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2680718.d.html</link>
+            <guid>2469599</guid>
+            <pubDate>Sun, 02 Jan 2022 01:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国联合参谋本部：韩方有1人越过军事分界线前往朝鲜】当地时间1月2日，韩国联合参谋本部称，韩方有1人越过军事分界线前往朝鲜。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2677950.d.html</link>
+            <guid>2469542</guid>
+            <pubDate>Sun, 02 Jan 2022 01:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本电信巨头NTT：计划在2025年大阪世博会上发布6G技术】 日本电信巨头NTT西部公司总裁小林充佳表示，NTT公司计划在2025年大阪世博会上发布目前开发中的试验性6G网络。据悉，NTT已开始设计6G网络的基础设施，细节将在下一个财年确定。报道称，NTT计划在本世纪末将其6G技术商业化。（日经）]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-02/detail-ikyamrmz2674619.d.html</link>
@@ -324,36 +342,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2624936.d.html</link>
             <guid>2469160</guid>
             <pubDate>Sat, 01 Jan 2022 14:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其正在考虑推出通货膨胀保值里拉债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7797203.d.html</link>
-            <guid>2469159</guid>
-            <pubDate>Sat, 01 Jan 2022 14:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列警察因驱逐巴勒斯坦人与抗议者发生冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2623540.d.html</link>
-            <guid>2469157</guid>
-            <pubDate>Sat, 01 Jan 2022 14:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芬兰总统：俄罗斯提出的安全保障条件与欧洲安全模式相悖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyamrmz2623378.d.html</link>
-            <guid>2469156</guid>
-            <pubDate>Sat, 01 Jan 2022 14:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟开始就一些涉及核、天然气活动的法案进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7795255.d.html</link>
-            <guid>2469155</guid>
-            <pubDate>Sat, 01 Jan 2022 13:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年最后一天访澳旅客人次重上4万水平】记者1日从澳门特区政府旅游局获悉，2021年12月31日录得访澳旅客42341人次，是当年按单日入境旅客排名第二高位，重上单日客流量4万人次水平。统计显示，访澳旅客人次过去一星期的日均旅客达30230人次，酒店入住率62.8%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-01/detail-ikyakumx7794101.d.html</link>
-            <guid>2469154</guid>
-            <pubDate>Sat, 01 Jan 2022 13:42:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
