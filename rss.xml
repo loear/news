@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Jan 2022 18:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 19:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[作为增加储备、支持本币的最新举措，土耳其将要求出口商将收入的25%转换为土耳其里拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-04/detail-ikyamrmz2969021.d.html</link>
+            <guid>2471552</guid>
+            <pubDate>Mon, 03 Jan 2022 18:33:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股半导体板块走高，台积电(TSM.N)涨6.5%，AMD(AMD.O)涨4.35%，赛灵思(XLNX.O)涨3.64%，英伟达(NVDA.O)涨2.8%，英特尔(INTC.O)涨2.52%，美光科技(MU.O)涨2.29%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-04/detail-ikyakumx8140425.d.html</link>
@@ -216,30 +222,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-03/detail-ikyamrmz2951089.d.html</link>
             <guid>2471458</guid>
             <pubDate>Mon, 03 Jan 2022 14:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股跳水，道指、标普500指数转跌，纳指涨幅缩窄至0.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-03/detail-ikyamrmz2951004.d.html</link>
-            <guid>2471457</guid>
-            <pubDate>Mon, 03 Jan 2022 14:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股抗疫概念股多数下挫，Moderna(MRNA.O)跌7.5%，BioNTech SE(BNTX.O)跌近7%，Vir Biotechnology(VIR.O)跌6%，诺瓦瓦克斯医药(NVAX.O)跌4.86%，辉瑞(PFE.N)跌3.6%，礼来(LLY.N)跌3%，Ocugen(OCGN.O)跌2%，吉利德科学(GILD.O)跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-03/detail-ikyakumx8123135.d.html</link>
-            <guid>2471456</guid>
-            <pubDate>Mon, 03 Jan 2022 14:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月Markit制造业输入价格指数为去年6月来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-03/detail-ikyamrmz2950905.d.html</link>
-            <guid>2471455</guid>
-            <pubDate>Mon, 03 Jan 2022 14:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列银行行长：我们目前没有通胀爆发的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-03/detail-ikyamrmz2950736.d.html</link>
-            <guid>2471452</guid>
-            <pubDate>Mon, 03 Jan 2022 14:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
