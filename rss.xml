@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Jan 2022 18:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 19:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  百思买(BBY.N)涨3.5%，此前推出新的广告业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyakumx8354046.d.html</link>
+            <guid>2473396</guid>
+            <pubDate>Tue, 04 Jan 2022 18:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果即将推出的AR/VR头显将包含三个显示屏 索尼有望操刀】根据显示器分析师Ross Young今天分享的一份研究报告，苹果(AAPL.O)将于2022年推出的混合现实头显将配备三个显示器。显示器的配置将包括两个微型OLED显示器和一个AMOLED面板，索尼(SONY.N)或将提供苹果将使用的微型OLED显示器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyamrmz3180216.d.html</link>
+            <guid>2473394</guid>
+            <pubDate>Tue, 04 Jan 2022 18:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【12月芯片交付时间创下2017年以来最长 供应短缺问题仍然存在】Susquehanna Financial Group研究显示，上个月的交货时间比11月增加了六天，达到约25.8周，为该公司自2017年开始跟踪数据以来的最长时间。Susquehanna最近改变了计算交货时间的方法，增加了更多数据来源，并基于新系统修订了先前的估值。“交货期延长的情况一直波动较大，但12月时间再次拉长，” Susquehanna分析师Chris Rolland周二在一份研究报告中表示。“几乎所有产品类别的交货期都创下历史新高，电源管理和微控制器(MCU)最为突出”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyakumx8353397.d.html</link>
+            <guid>2473393</guid>
+            <pubDate>Tue, 04 Jan 2022 18:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股SaaS概念股走低，Shopify(SHOP.N)跌超10%，CrowdStrike(CRWD.O)跌6.8%，Twilio(TWLO.N)跌6.44%，Zoom(ZM.O)跌5.6%，DocuSign(DOCU.O)跌4.75%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyakumx8352028.d.html</link>
@@ -234,24 +252,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyamrmz3166399.d.html</link>
             <guid>2473303</guid>
             <pubDate>Tue, 04 Jan 2022 16:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD(AMD.O)发布全新的Ryzen处理器，将“ZEN 3+”核心架构与RDNA 2图形架构相结合。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyakumx8339780.d.html</link>
-            <guid>2473299</guid>
-            <pubDate>Tue, 04 Jan 2022 16:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉(TSLA.O)盘中跌幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-05/detail-ikyamrmz3166059.d.html</link>
-            <guid>2473298</guid>
-            <pubDate>Tue, 04 Jan 2022 16:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达(NVDA.O)将参加1月5日-1月8日举办的CES 2022，并将在1月5日凌晨0点（北京时间）举办特别专场。英伟达 GeForce 高级副总裁 Jeff Fisher 和英伟达汽车部门副总裁Ali Kani将展示加速计算在设计、仿真、游戏和自动驾驶汽车方面的新突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-04/detail-ikyakumx8338609.d.html</link>
-            <guid>2473285</guid>
-            <pubDate>Tue, 04 Jan 2022 15:50:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
