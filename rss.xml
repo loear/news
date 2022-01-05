@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 05 Jan 2022 20:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 21:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恐慌指数VIX收于19.73，为去年12月21日以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8574794.d.html</link>
+            <guid>2475527</guid>
+            <pubDate>Wed, 05 Jan 2022 21:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯与以色列同行讨论了俄罗斯、伊朗问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8574702.d.html</link>
+            <guid>2475524</guid>
+            <pubDate>Wed, 05 Jan 2022 21:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：叙利亚西南部的库奈特拉省传出爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8574499.d.html</link>
+            <guid>2475521</guid>
+            <pubDate>Wed, 05 Jan 2022 21:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：目击者称哈萨克斯坦阿拉木图市发生枪战，抗议者手持突击步枪。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3400899.d.html</link>
+            <guid>2475519</guid>
+            <pubDate>Wed, 05 Jan 2022 21:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特军队在也门附近收到一艘油轮发出的求救信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3399953.d.html</link>
+            <guid>2475515</guid>
+            <pubDate>Wed, 05 Jan 2022 20:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫港口特使John Porcari：供应链“存在许多薄弱环节”。美国港口的情况正在改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3399942.d.html</link>
+            <guid>2475514</guid>
+            <pubDate>Wed, 05 Jan 2022 20:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫港口事务专员John Porcari：港口形势正在改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3399633.d.html</link>
+            <guid>2475511</guid>
+            <pubDate>Wed, 05 Jan 2022 20:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美元指数DXY日内转涨，现报92.23。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8572225.d.html</link>
@@ -139,66 +181,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3389142.d.html</link>
             <guid>2475427</guid>
             <pubDate>Wed, 05 Jan 2022 17:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：关注哈萨克斯坦发生的状况，敦促各方保持冷静和克制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3388082.d.html</link>
-            <guid>2475423</guid>
-            <pubDate>Wed, 05 Jan 2022 17:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国将在下周的美俄会谈中提出对俄罗斯在欧洲的安全行动的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3387736.d.html</link>
-            <guid>2475422</guid>
-            <pubDate>Wed, 05 Jan 2022 17:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美军官员称，巴格达以西的阿萨德空军基地附近发生了五轮间接交火，没有人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3386767.d.html</link>
-            <guid>2475419</guid>
-            <pubDate>Wed, 05 Jan 2022 17:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CEO：将在2023年春季开始销售第二款全电动皮卡雪佛兰Silverado，起售价略低于4万美元。联邦快递将在未来几年内购买超过2000辆电动货车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3386651.d.html</link>
-            <guid>2475418</guid>
-            <pubDate>Wed, 05 Jan 2022 17:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫供应链应对小组港口代表称，奥密克戎毒株对供应链的冲击将在接下来的几天，几周内显现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8559431.d.html</link>
-            <guid>2475416</guid>
-            <pubDate>Wed, 05 Jan 2022 17:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫供应链应对小组港口代表称，正在寻求优先确保医疗用品供应。很难说供应链问题是否已经达到顶峰。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3385588.d.html</link>
-            <guid>2475415</guid>
-            <pubDate>Wed, 05 Jan 2022 17:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫供应链应对小组港口代表称，奥密克戎毒株或继续冲击供应链，正在密切观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3385409.d.html</link>
-            <guid>2475413</guid>
-            <pubDate>Wed, 05 Jan 2022 17:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：瓦努阿图岛东北偏北72公里处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8558854.d.html</link>
-            <guid>2475410</guid>
-            <pubDate>Wed, 05 Jan 2022 17:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据伊拉克电视台Al-Sumaria：伊拉克西部的美国空军基地遭到火箭弹袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8558662.d.html</link>
-            <guid>2475405</guid>
-            <pubDate>Wed, 05 Jan 2022 17:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国对土耳其铝箔征收关税面临法律挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8558433.d.html</link>
-            <guid>2475402</guid>
-            <pubDate>Wed, 05 Jan 2022 17:03:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
