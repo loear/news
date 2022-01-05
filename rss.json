@@ -6,6 +6,34 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2475508,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8572225.d.html",
+            "title": "美元指数DXY日内转涨，现报92.23。",
+            "date_modified": "2022-01-05T20:15:08.000Z"
+        },
+        {
+            "id": 2475494,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3396883.d.html",
+            "title": "当地时间1月6日，哈萨克斯坦总统托卡耶夫签署法令，免去马西莫夫国家安全委员会（安全部）主席一职，任命国家安全局局长萨基姆巴耶夫担任哈萨克斯坦国家安全委员会主席。（央视新闻）",
+            "date_modified": "2022-01-05T19:41:46.000Z"
+        },
+        {
+            "id": 2475490,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8569991.d.html",
+            "title": "恐慌指数VIX涨幅扩大至近10%，报18.51。",
+            "date_modified": "2022-01-05T19:36:18.000Z"
+        },
+        {
+            "id": 2475488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8569332.d.html",
+            "title": "  高通(QCOM.O)CEO莫伦科夫：苹果(AAPL.O)进军ARM芯片市场有助于高通的发展。芯片供不应求，需求持续上升。",
+            "date_modified": "2022-01-05T19:22:45.000Z"
+        },
+        {
             "id": 2475478,
             "content_html": "",
             "title": "欧元兑美元EUR/USD短线走低超20点，现报1.1314,；美元指数DXY走强拉升近20点。",
@@ -199,55 +227,6 @@
             "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8558433.d.html",
             "title": "美国对土耳其铝箔征收关税面临法律挑战。",
             "date_modified": "2022-01-05T17:03:45.000Z"
-        },
-        {
-            "id": 2475398,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3384155.d.html",
-            "title": "荷兰议员、欧盟碳税关键支持者Mohammed Chahim：欧盟应当将氢、有机化学、（高分子）聚合物纳入碳边界调整机制（CBAM）这一新版税收政策，欧盟的碳税立法视野太狭窄、立法进程太慢。",
-            "date_modified": "2022-01-05T16:56:01.000Z"
-        },
-        {
-            "id": 2475394,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8557171.d.html",
-            "title": "【中国天眼FAST发现脉冲星约500颗】1月5日，中国科学院举行新闻发布会，发布了中国天眼FAST的运行情况和取得的一系列重要科学成果。中国天眼FAST自建成以来，运行效率和质量不断提高，年观测时长超过5300小时。截至目前，FAST共发现脉冲星约500颗，成为自其运行以来世界上发现脉冲星效率最高的设备。（央视）",
-            "date_modified": "2022-01-05T16:46:48.000Z"
-        },
-        {
-            "id": 2475393,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3383388.d.html",
-            "title": "据俄新社：哈萨克斯坦全国进入紧急状态。",
-            "date_modified": "2022-01-05T16:45:37.000Z"
-        },
-        {
-            "id": 2475388,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3382352.d.html",
-            "title": "Meta：无意暂停VR和AR操作系统。",
-            "date_modified": "2022-01-05T16:33:17.000Z"
-        },
-        {
-            "id": 2475386,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyamrmz3382052.d.html",
-            "title": "亚美尼亚和土耳其特别代表将在1月14日会面。",
-            "date_modified": "2022-01-05T16:29:07.000Z"
-        },
-        {
-            "id": 2475384,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8555305.d.html",
-            "title": "美国国家过敏症和传染病研究所所长福奇：尽管有迹象表明奥密克戎毒株的严重程度较低，但不能就此感到自满。",
-            "date_modified": "2022-01-05T16:25:01.000Z"
-        },
-        {
-            "id": 2475379,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-01-06/detail-ikyakumx8554830.d.html",
-            "title": "【房价下跌城市数量增加，多个省会城市新房不到1万/㎡，深圳二手房价环比跌幅最大】 中指研究院的数据显示，2021年12月，全国100个城市新房和二手房均价均环比下跌，并且下跌城市数量均有增加。其中，二手房均价跌幅扩大，十大城市中，深圳二手房均价跌幅最大。另外，沈阳长春、哈尔滨等多个省会城市新房均价每平方米不到一万元。业内人士认为，受“二手房成交参考价”等政策叠加影响，深圳二手房市场持续低迷，市场进入深度调整阶段。展望2022年，在坚持“房住不炒”定位、实现“三稳”目标下，各地方政府预计将进一步落实“因城施策”，部分市场降温过快的城市或将加快扶持类政策的出台。（券商中国）",
-            "date_modified": "2022-01-05T16:19:34.000Z"
         }
     ]
 }
