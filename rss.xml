@@ -4,16 +4,93 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 06 Jan 2022 21:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 22:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[雅宝宣布：在全球范围内对催化剂产品涨价，立即生效、或根据后续合同涨价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3614447.d.html</link>
-            <guid>2477466</guid>
-            <pubDate>Thu, 06 Jan 2022 21:18:58 GMT</pubDate>
+            <title><![CDATA[【暴风雪持续影响美国东北部，多地发出极端天气预警】据报道，受持续暴风雪影响，美国东北部各地纷纷发出极端天气预警。波士顿6日当天发出了冬季风暴警告，华盛顿特区也发出警告称6日晚间将开始降雪，7日将急速降温。根据美国国家气象局发出的预警，纽约州7日早上还可能出现重大交通中断的情况。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8789802.d.html</link>
+            <guid>2477511</guid>
+            <pubDate>Thu, 06 Jan 2022 22:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去产能步入关键阶段，机构激辩猪周期拐点】2021年价格大幅下跌带来的生猪行业去产能仍在延续，然而资本市场的资金却已经先知先觉，近期A股猪肉板块持续走强。分析人士表示，当前生猪行业正处于过剩产能去化的关键阶段，2022年有望迎来新一轮的周期反转。然而，也有观点认为，在猪肉总体供大于求的背景下，即使2022年下半年猪肉价格有所回升，猪企也难以获得较高的养殖利润。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3616208.d.html</link>
+            <guid>2477508</guid>
+            <pubDate>Thu, 06 Jan 2022 21:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX进行了2022年首次星链发射任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3616065.d.html</link>
+            <guid>2477507</guid>
+            <pubDate>Thu, 06 Jan 2022 21:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛下调澳大利亚2022年一季度GDP环比预期至增长2.0%（之前料增2.6%），称奥密克戎变异毒株的迅猛扩散干扰到澳洲经济活动；下调2022年全年GDP预期至增长4.0%，之前料增4.2%。]]></title>
+            <guid>2477506</guid>
+            <pubDate>Thu, 06 Jan 2022 21:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spacex：星链卫星互联网服务拥有14.5万名用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3615730.d.html</link>
+            <guid>2477505</guid>
+            <pubDate>Thu, 06 Jan 2022 21:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：一季度料成货币政策发力“重要窗口”】在海外市场不确定因素增加的背景下，有机构认为，今后一段时间，我国宏观调控“以我为主”特征将进一步凸显，政策发力适度靠前也进一步明确，一季度有望成为政策发力重要窗口期。此间，人民币汇率或成为内外均衡的重要平衡器，汇率弹性料进一步加大。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8789076.d.html</link>
+            <guid>2477504</guid>
+            <pubDate>Thu, 06 Jan 2022 21:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业内人士：部分消费品“滞后涨价”，物价有望保持温和态势】新年伊始，多个消费品牌发布调价通知，引发市场对物价上涨担忧。业内人士认为，这是部分消费品受上游生产成本抬升影响出现的滞后上涨效应，从整体上看，其对物价影响不大。2022年全年CPI涨幅将有所扩大，但整体料保持温和态势。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788880.d.html</link>
+            <guid>2477503</guid>
+            <pubDate>Thu, 06 Jan 2022 21:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地重大项目批量开工，投资发力“开门红”】新年伊始，多地重大项目火热开工。据不完全统计，1月4日至6日，已公布的重大项目总投资额已超3万亿元。从各地已出炉的政府工作报告以及各地发改委公布的2022年工作计划来看，积极推进项目开工建设，确保一季度投资实现“开门红”已成为重点任务。业内人士指出，今年一季度基建投资将显著放量，主因在于财政结转和专项债提前下达量超过往年，预计约有万亿规模专项债在一季度形成支出，一季度基建将实现高个位数增长，全年基建增速也将有亮眼表现。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3615385.d.html</link>
+            <guid>2477502</guid>
+            <pubDate>Thu, 06 Jan 2022 21:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果：2021年CEO（与员工）薪酬比为1447:1。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788612.d.html</link>
+            <guid>2477494</guid>
+            <pubDate>Thu, 06 Jan 2022 21:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果将于3月4日举行2022年线上股东大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788454.d.html</link>
+            <guid>2477487</guid>
+            <pubDate>Thu, 06 Jan 2022 21:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNN恐惧与贪婪指数周四(1月6日)读数50，表明市场处在恐惧状态，较开盘下降2。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788443.d.html</link>
+            <guid>2477486</guid>
+            <pubDate>Thu, 06 Jan 2022 21:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站正进入NFT和加密货币市场，其将建立电子游戏NFT市场。该公司计划与2个加密货币公司合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3614914.d.html</link>
+            <guid>2477480</guid>
+            <pubDate>Thu, 06 Jan 2022 21:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股中概股多数大反弹】人人网涨超11%，贝壳涨超10%，富途控股涨超9.5%，雾芯科技涨超8.7%，途牛涨超7.7%，拼多多涨超7.4%，唯品会涨超6.2%，京东涨超5.9%，瑞幸咖啡涨超5.5%，百度涨超4.7%，知乎涨超4%，斗鱼、老虎证券、新东方涨超3.3%，B站涨约2.8%，腾讯涨2.7%，好未来涨超2.6%，小鹏汽车涨约1.2%，迅雷、森淼科技涨超1%，蔚来跌超1.9%，理想汽车跌超2.7%，蘑菇街、叮咚买菜跌超7.9%，掌门教育跌15.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788151.d.html</link>
+            <guid>2477477</guid>
+            <pubDate>Thu, 06 Jan 2022 21:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块多数收跌，原材料和医疗保健板块跌超1.2%，公用事业板块跌超1.0%，信息技术板块跌约0.5%，金融板块则涨超1.5%，能源板块涨约2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8788046.d.html</link>
+            <guid>2477471</guid>
+            <pubDate>Thu, 06 Jan 2022 21:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美股大类资产ETF涨跌各异，美国布伦特原油基金涨2.3%，恐慌指数做多涨超0.6%，罗素2000指数ETF涨超0.5%，通胀债券指数ETF、道指ETF跌超0.4%，黄金ETF跌超1.2%。]]></title>
@@ -195,28 +272,6 @@
             <title><![CDATA[  美股黄金、白银股普跌，哈莫尼黄金(HMY.N)跌5.66%，金田(GFI.N)跌2.82%，金罗斯黄金(KGC.N)跌2.77%，Fortuna Silver(FSM.N)、泛美白银(PAAS.O)跌3.1%，迈力达电子(MAG.A)跌近3%。]]></title>
             <guid>2477315</guid>
             <pubDate>Thu, 06 Jan 2022 17:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力集团EDF：2月11日，将把Chooz 1号法国核反应堆的发电量从1,500MW下调至100MW。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyakumx8774059.d.html</link>
-            <guid>2477302</guid>
-            <pubDate>Thu, 06 Jan 2022 17:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[老挝报告发现首例奥密克戎毒株感染病例，为从印度出发的外籍女性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-07/detail-ikyamrmz3599274.d.html</link>
-            <guid>2477297</guid>
-            <pubDate>Thu, 06 Jan 2022 17:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国供应链管理咨询服务商沁弘(QinHong International Group)已申请在纳斯达克上市，计划发行375万股股票，预期发行价为每股4.00美元，股票代码为“QHI”。簿记行包括Benchmark、Axiom Capital Management。]]></title>
-            <guid>2477292</guid>
-            <pubDate>Thu, 06 Jan 2022 16:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概券商概念股涨幅扩大，富途控股(FUTU.O)涨超10%，老虎证券(TIGR.O)涨5.4%。]]></title>
-            <guid>2477289</guid>
-            <pubDate>Thu, 06 Jan 2022 16:53:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
