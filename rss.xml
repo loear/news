@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 07 Jan 2022 19:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 20:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月08日04时18分在青海海北州门源县（北纬37.71度，东经101.45度）发生3.1级地震，震源深度12千米。]]></title>
+            <guid>2479873</guid>
+            <pubDate>Fri, 07 Jan 2022 20:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国外储规模创近6年新高，2021年上升约336亿美元】国家外汇管理局1月7日发布的数据显示，截至2021年12月末，我国外汇储备规模为32502亿美元，创下2016年以来新高。这也是外汇储备规模连续第3个月回升。纵观2021年全年，我国外汇储备规模上升约336亿美元。专家表示，估值因素是导致外汇储备规模回升的主要原因。后续来看，以经济韧性强、基本面长期向好为支撑，外汇储备规模有望保持总体稳定。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx9003312.d.html</link>
+            <guid>2479872</guid>
+            <pubDate>Fri, 07 Jan 2022 20:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国11月消费信贷变动 399.91亿美元，预期 200亿美元，前值 168.97亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3828610.d.html</link>
+            <guid>2479869</guid>
+            <pubDate>Fri, 07 Jan 2022 20:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行（BAC）态度发生转变，在2021年大幅增发奖金，该公司高管们计划将投行部门行长们的奖金池扩大超过40%，并计划对股票和固收员工增发奖金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx9001884.d.html</link>
+            <guid>2479868</guid>
+            <pubDate>Fri, 07 Jan 2022 19:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兰州铁路局启动应急预案：部分路段封锁 车辆就近停留】青海门源地震发生后，为保证列车运行安全，兰州铁路局立即启动应急预案，对兰新普速铁路高台至永登段、兰新高铁浩门至清水北区段进行封锁。受地震影响，沿途多趟旅客列车受影响进入附近车站停留。铁路部门第一时间安排车务、供电、工务等单位利用轨道车、视频盯控、徒步巡查等多种方式，对有震感地段铁路线路、桥梁、隧道、信号等设备进行全面检查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3827998.d.html</link>
+            <guid>2479867</guid>
+            <pubDate>Fri, 07 Jan 2022 19:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃张掖启动地震应急二级响应】甘肃张掖抗震救灾指挥部办公室发布关于启动地震应急二级响应的通告（第1号），主要内容如下：据中国地震台网测定，北京时间2022年1月8日01时55分，在青海省门源县（北纬37.77°、东经101.26°）发生6.9级地震，本次距张掖市甘州区148公里，山丹县114公里、民乐县84公里，张掖市距震中最近的乡镇为肃南县皇城镇，震中距54km。按照《张掖市地震应急预案》，市委、市政府决定启动地震应急预案二级响应，请各成员单位迅速集结，按要求落实抗震救灾职责。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3827183.d.html</link>
+            <guid>2479864</guid>
+            <pubDate>Fri, 07 Jan 2022 19:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉跌幅扩大至5%，报1010美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3826521.d.html</link>
+            <guid>2479860</guid>
+            <pubDate>Fri, 07 Jan 2022 19:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海门源县发生6.9级地震，消防集结准备救援】接到震情通报后，青海省消防救援总队第一时间启动地震灾害应急救援预案。经前方速报员汇报，震区震感强烈，据目前排查情况了解，群众屋内有物品掉落，没有人员伤亡和房屋倒塌情况。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3826155.d.html</link>
+            <guid>2479858</guid>
+            <pubDate>Fri, 07 Jan 2022 19:17:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据卫星通讯社报道，哈萨克斯坦总统托卡耶夫将于11日提出新的总理人选。7日下午，托卡耶夫在发表全国电视讲话时曾表示，他将于11日出席议会会议并提出改善经济民生方面的政策和措施。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3825125.d.html</link>
@@ -208,65 +255,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx8985536.d.html</link>
             <guid>2479771</guid>
             <pubDate>Fri, 07 Jan 2022 16:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大皇家银行：将Affirm Holdings(AFRM.O)目标价从175美元下调至127美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3811921.d.html</link>
-            <guid>2479769</guid>
-            <pubDate>Fri, 07 Jan 2022 16:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心主管Walensky：还没有数据表明感染奥密克戎毒株后可以防止再次感染。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3811683.d.html</link>
-            <guid>2479766</guid>
-            <pubDate>Fri, 07 Jan 2022 16:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股去年回购规模创最近20年新高，机构认为出现抄底机会】Wind数据显示，截至2021年12月31日，港股共有191家上市公司进行回购，累计回购金额达382.46亿港元，创近20年来规模最大的回购潮。从行业上看，2021年资讯科技、地产建筑和消费等股价调整明显的行业，也是这波回购潮的主力。进入2022年，回购潮仍在延续，腾讯和京东都有动作。兴业证券研究显示，大规模的公司回购往往预示着阶段性底部，并且后续均伴随着一波上涨行情。招商港股通核心精选基金经理王超认为，2022年内房股和内银股估值有望修复，同时互联网的产业政策环境改善，配置吸引力也在提升，将“在规范中发展”。（中国基金报）]]></title>
-            <guid>2479765</guid>
-            <pubDate>Fri, 07 Jan 2022 16:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股去年回购规模创最近20年新高，机构认为出现抄底机会】Wind数据显示，截至2021年12月31日，港股共有191家上市公司进行回购，累计回购金额达382.46亿港元，创近20年来规模最大的回购潮。从行业上看，2021年资讯科技、地产建筑和消费等股价调整明显的行业，也是这波回购潮的主力。进入2022年，回购潮仍在延续，腾讯和京东都有动作。兴业证券研究显示，大规模的公司回购往往预示着阶段性底部，并且后续均伴随着一波上涨行情。招商港股通核心精选基金经理王超认为，2022年内房股和内银股估值有望修复，同时互联网的产业政策环境改善，配置吸引力也在提升，将“在规范中发展”。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3811439.d.html</link>
-            <guid>2479764</guid>
-            <pubDate>Fri, 07 Jan 2022 16:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克罗地亚政府敦促人们在家办公，将户外聚集人数限制从100人下降到50人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3811388.d.html</link>
-            <guid>2479762</guid>
-            <pubDate>Fri, 07 Jan 2022 16:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：俄罗斯在乌克兰附近的军事集结仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3811213.d.html</link>
-            <guid>2479761</guid>
-            <pubDate>Fri, 07 Jan 2022 16:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：俄罗斯不能对北约施加单方面的限制，也不能建立无法防御的“二等”北约国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx8984376.d.html</link>
-            <guid>2479759</guid>
-            <pubDate>Fri, 07 Jan 2022 16:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年首家银行理财子公司：浦银理财获准开业，注册资本50亿元】1月7日，浦发银行公告称，旗下全资子公司浦银理财获准开业，注册资本50亿元人民币。据悉，浦银理财董事长将由刘长江出任，此外，曹江涛、詹定国分别担任公司总经理、监事长职务。据了解，三人均在浦发银行任职多年。其中，刘长江就职于该行超过18年，曾任总行资产托管部总经理、金融机构部总经理等职；曹江涛曾任浦发银行南京分行副行长、西安分行行长、总行公司业务总监兼投行与大客户部总经理等职；詹定国曾任浦发银行苏州分行行长。 (券商中国)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3810741.d.html</link>
-            <guid>2479758</guid>
-            <pubDate>Fri, 07 Jan 2022 16:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(FB.O)：计划在未来几个月内在更多的应用程序上向用户推出隐私中心，隐私中心将有助于了解更多关于应用程序和技术方面的对隐私信息的获取情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx8984194.d.html</link>
-            <guid>2479757</guid>
-            <pubDate>Fri, 07 Jan 2022 16:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(FB.O)：推出隐私中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3810059.d.html</link>
-            <guid>2479754</guid>
-            <pubDate>Fri, 07 Jan 2022 16:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
