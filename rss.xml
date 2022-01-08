@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 08 Jan 2022 20:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 21:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021年疆电外送电量1220亿千瓦时 满足1.5亿人口一年用电需求】新疆省间外送电量结算最新数据显示，2021年全年疆电外送电量1220亿千瓦时，同比增长超16%，送达北京、河南、安徽、广东等全国20个省市，规模再创新高。1220亿千瓦时电能可以满足5000万户家庭1.5亿人口一年的生活用电需求，相当于燃烧标准煤3600多万吨。]]></title>
+            <guid>2480250</guid>
+            <pubDate>Sat, 08 Jan 2022 21:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迈入“千亿件时代” 快递行业再启新程】在快递行业集体迈入“千亿件时代”的同时，监管风暴乍起，行业外部环境加速演变，各方力量此消彼长，息战言和，快递业已然呈现出另一番模样。这一年，快递企业抽身“价格战”泥潭，“反内卷”成为行业新声。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyakumx9177076.d.html</link>
+            <guid>2480249</guid>
+            <pubDate>Sat, 08 Jan 2022 20:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西气东输年输气量首超千亿立方米】日前从国家管网集团获悉：西气东输管道系统2021年累计输送天然气超过1000亿立方米，这是此管道系统年输气量首次超过千亿立方米。西气东输管道自投产以来，累计输送天然气超7000亿立方米，惠及我国西部、长三角、珠三角、华中等地区的400多个城市、3000余家大中型企业和近5亿人口。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz4002069.d.html</link>
+            <guid>2480248</guid>
+            <pubDate>Sat, 08 Jan 2022 20:34:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：01月09日03时56分在塔吉克斯坦（北纬38.57度，东经73.69度）发生4.8级地震，震源深度110千米。]]></title>
             <guid>2480246</guid>
@@ -312,12 +329,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3926652.d.html</link>
             <guid>2480056</guid>
             <pubDate>Sat, 08 Jan 2022 07:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：今年节日期间，粮油肉蛋奶鱼果蔬等供应充足】农业农村部市场与信息化司副司长刘涵8日在国务院联防联控机制新闻发布会上表示，“米袋子”“菜篮子”是重要民生商品，与老百姓生活息息相关，新春佳节将至，综合各方面情况看，今年节日期间，粮油肉蛋奶鱼果蔬等供应充足，完全可以满足城乡居民消费需求。“米袋子”方面，2021年我国粮食再获丰收，产量13657亿斤，比上年增加267亿斤。“菜篮子”方面，当前全国蔬菜在田面积达8000多万亩，同比增加200多万亩，预计未来3个月蔬菜供应总量1.7亿吨，同比增加350万吨，加上冬储蔬菜，可供每人每天约3斤菜。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx9097697.d.html</link>
-            <guid>2480053</guid>
-            <pubDate>Sat, 08 Jan 2022 07:40:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
