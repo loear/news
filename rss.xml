@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 08 Jan 2022 17:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 18:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证监会首席律师焦津洪：资本市场法律体系四梁八柱基本建成】焦津洪表示，目前，已经形成了以《公司法》、《证券法》、《证券投资基金法》等法律为核心，以《刑法》、《企业破产法》为支撑，以行政法规、司法解释、部门规章、规范性文件为主干，以证券期货交易所、登记结算公司、行业协会自律规则为配套的有中国特色的中国资本市场法律体系。]]></title>
+            <guid>2480238</guid>
+            <pubDate>Sat, 08 Jan 2022 18:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国上月新增就业岗位远逊预期 工资涨幅输给通胀】美国劳工部数据显示，2021年12月美国非农部门新增就业人数仅为19.9万，远逊于此前经济学家的预期。此外，2021年全年工资涨幅虽高，但仍不足以抵消通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz3991057.d.html</link>
+            <guid>2480235</guid>
+            <pubDate>Sat, 08 Jan 2022 17:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【公司年收入好几亿 正冲刺上市 近半员工竟“自愿放弃五险一金” 原来有玄机】从数据上看，天键股份2018年和2019年的净利润并不高，并且公司这两个年度均存在一半员工未缴纳“五险一金”的情况。对此，公司解释称：“报告期内，公司存在因部分员工为退休返聘、当月新入职员工、外籍人员或自愿放弃缴纳等原因，未为部分员工缴纳社会保险及住房公积金。”]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz3987685.d.html</link>
@@ -268,30 +279,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx9097697.d.html</link>
             <guid>2480053</guid>
             <pubDate>Sat, 08 Jan 2022 07:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月08日14时30分在青海海北州门源县发生4.0级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3915509.d.html</link>
-            <guid>2480040</guid>
-            <pubDate>Sat, 08 Jan 2022 06:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：要适应和把握全球气候变化下水旱灾害新特点新规律】水利部党组书记、部长李国英近日在出席2022年全国水利工作会议时指出，2022年各级水利部门要准确把握当前水利工作面临的形势和任务，从极端天气变化风险看，要主动适应和把握全球气候变化下水旱灾害的新特点新规律，强化预报、预警、预演、预案措施，有力有序有效应对极端天气事件风险。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3913320.d.html</link>
-            <guid>2480039</guid>
-            <pubDate>Sat, 08 Jan 2022 06:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万达地产再次“动刀”组织架构 四大区域合并为两大区域】王健林旗下的万达地产集团近日再次调整组织架构，将原来的东区、西区、南区和北区四大区域，整合为南区和北区两大区域，伴随组织架构的调整，人员将有所优化。知情人士透露，“万达地产计划在春节之前完成整体架构调整，将管理权进一步集中。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyakumx9086405.d.html</link>
-            <guid>2480038</guid>
-            <pubDate>Sat, 08 Jan 2022 06:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦前总理、前国家安全委员会主席（安全部）马西莫夫因涉嫌叛国罪被捕。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-08/detail-ikyamrmz3911160.d.html</link>
-            <guid>2480037</guid>
-            <pubDate>Sat, 08 Jan 2022 06:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
