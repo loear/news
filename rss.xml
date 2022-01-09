@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 Jan 2022 15:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 16:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月10日00时10分在新疆阿克苏地区沙雅县（北纬40.49度，东经83.58度）发生3.3级地震，震源深度17千米。]]></title>
+            <guid>2481112</guid>
+            <pubDate>Sun, 09 Jan 2022 16:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 浙江永康全市中小学（幼儿园）除高三年级外10日起暂停线下教学。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyakumx9322788.d.html</link>
+            <guid>2481110</guid>
+            <pubDate>Sun, 09 Jan 2022 15:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据报道：美国国务卿布林肯表示，美、俄可能会在会谈中为恢复中短程导弹协议奠定基础。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz4144791.d.html</link>
@@ -329,12 +340,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz4105015.d.html</link>
             <guid>2480892</guid>
             <pubDate>Sun, 09 Jan 2022 09:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【春光科技：公司老厂区配件仓库发生火灾事故 未造成重大影响】春光科技公告，2022年01月08日18时25分左右，公司位于浙江省金华市安文路420号老厂区配件仓库发生火灾事故。火情发生后，公司立即启动应急处置预案，第一时间进行抢险自救并及时报警，经消防救援人员全力处置，明火被扑灭。公司金华生产基地主要生产经营场所是以位于金华市金磐新区的新厂区为主，因此此次事故对公司经营未造成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-09/detail-ikyamrmz4102632.d.html</link>
-            <guid>2480887</guid>
-            <pubDate>Sun, 09 Jan 2022 08:59:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
