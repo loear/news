@@ -4,11 +4,98 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Jan 2022 19:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 20:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股特朗普概念股拉升，数字世界收购集团(DWAC.O)涨超10%，Phunware(PHUN.O)涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9584104.d.html</link>
+            <guid>2482920</guid>
+            <pubDate>Mon, 10 Jan 2022 20:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：斐济群岛南部发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9584032.d.html</link>
+            <guid>2482918</guid>
+            <pubDate>Mon, 10 Jan 2022 20:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德意志银行(DB.N)以12.06欧元的价格发行2100万股欧股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9583981.d.html</link>
+            <guid>2482916</guid>
+            <pubDate>Mon, 10 Jan 2022 20:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（1月10日），欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨1.71%，报281.75欧元/吨。油菜籽期货跌1.22%，报749.25欧元/吨。]]></title>
+            <guid>2482914</guid>
+            <pubDate>Mon, 10 Jan 2022 20:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织任命Pierre Oltvier Gourinchas接替IMF首席经济学家戈皮纳特。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4408296.d.html</link>
+            <guid>2482909</guid>
+            <pubDate>Mon, 10 Jan 2022 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州：燃油税延迟上调导致州政府收入减少5.23亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4407989.d.html</link>
+            <guid>2482903</guid>
+            <pubDate>Mon, 10 Jan 2022 19:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄杜马议员：美俄日内瓦会谈没有取得任何突破】当地时间1月10日，俄罗斯国家杜马（议会下院）国际事务委员会主席列昂尼德·斯卢茨基表示，俄美双方在本次日内瓦会谈上都开诚布公，但是这一轮谈判没有取得任何突破，本轮会谈中取得的积极结果是双方重申了核战争打不得也打不赢的立场。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4407935.d.html</link>
+            <guid>2482902</guid>
+            <pubDate>Mon, 10 Jan 2022 19:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：美国加州将推迟每年依据通胀情况的燃油税上调。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4407905.d.html</link>
+            <guid>2482901</guid>
+            <pubDate>Mon, 10 Jan 2022 19:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：预计拜登将在周二解决国会阻挠议事的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4407892.d.html</link>
+            <guid>2482900</guid>
+            <pubDate>Mon, 10 Jan 2022 19:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：大众汽车金融部门主管预计芯片短缺将持续，预计通胀将有所缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4407635.d.html</link>
+            <guid>2482898</guid>
+            <pubDate>Mon, 10 Jan 2022 19:40:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家火电企业预亏超10亿】从已披露的业绩预告情况看，2021年上市公司整体业绩持续向好，不过也有个别板块业绩欠佳，电力板块就有多家公司预计2021年度首亏，且亏损额预计超10亿元。同花顺数据显示，截至1月10日发稿时，共有198家A股上市公司对2021年度业绩进行了预告，其中预喜的公司有164家、占比82.83%，包括94家预增、52家略增、12家续盈、6家首亏。同时，还有6家公司预计首亏，2家预计增亏。值得注意的是，6家预计首亏的公司中3家为火电企业。（经参）]]></title>
+            <guid>2482896</guid>
+            <pubDate>Mon, 10 Jan 2022 19:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登的经济议程法案谈判仍在继续；拜登将继续施压，以更好地完成重建美好法案。]]></title>
+            <guid>2482895</guid>
+            <pubDate>Mon, 10 Jan 2022 19:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国通胀数据来袭：CPI或奔7%，续创40年新高】本周三，美国将公布12月CPI数据，市场普遍预期通胀将持续高烧不退，预计CPI同比增速将升至7%左右，维持在40年来的最高水平。此前11月美国CPI高达6.8%，创下近40年新高；环比上涨0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9582270.d.html</link>
+            <guid>2482894</guid>
+            <pubDate>Mon, 10 Jan 2022 19:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指跌幅均收窄至1%以内。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4406950.d.html</link>
+            <guid>2482890</guid>
+            <pubDate>Mon, 10 Jan 2022 19:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长访问阿曼 与阿曼外交大臣举行政治会谈】伊朗外长访问阿曼与阿曼外交大臣举行政治会谈。在会谈中，双方回顾了两国在多领域合作所取得的成果，讨论了双边合作前景与机遇，并就共同关心的地区和国际问题交换了意见。此外，双方还谈到了近期关于伊核协议的维也纳会谈，并强调伊核协议对于实现地区安全与稳定所起的重要作用。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4406880.d.html</link>
+            <guid>2482886</guid>
+            <pubDate>Mon, 10 Jan 2022 19:22:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【重大项目密集开工，机构看好“大基建”行情】开年以来，资本市场“大基建”相关板块再度活跃。中央经济工作会议明确提出，2022年经济工作要“稳字当头、稳中求进”。而基于此，当前市场对年初基建稳增长的预期持续升温。机构普遍预计，2022年基建项目落地速度较2021年将明显加快，看好年初“大基建”行情。其中，“新基建”或将成为新一年的重要增长点。未来光伏、风电、储能或将成为绿电资产的主要投资领域。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4405619.d.html</link>
@@ -223,122 +310,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4397837.d.html</link>
             <guid>2482787</guid>
             <pubDate>Mon, 10 Jan 2022 17:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：乌克兰加入北约的问题没有进展，与美国谈判的进一步进展取决于这个问题；俄罗斯关于北约不扩张的要求没有进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4397560.d.html</link>
-            <guid>2482779</guid>
-            <pubDate>Mon, 10 Jan 2022 17:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：耐克(NKE.N)称阿迪达斯抄袭了其针织物专利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9572401.d.html</link>
-            <guid>2482774</guid>
-            <pubDate>Mon, 10 Jan 2022 17:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：耐克(NKE.N)申请阻止阿迪达斯进入美国，美国国际贸易委员会将对其进行审议。]]></title>
-            <guid>2482766</guid>
-            <pubDate>Mon, 10 Jan 2022 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在阿联酋支持下的也门军队称从亲伊朗的胡塞武装手中完全控制了能源生产省舍卜沃省。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4397219.d.html</link>
-            <guid>2482763</guid>
-            <pubDate>Mon, 10 Jan 2022 17:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[必和必拓提出申请，要求解除智利铜矿的禁水令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9571600.d.html</link>
-            <guid>2482755</guid>
-            <pubDate>Mon, 10 Jan 2022 17:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Mobile US(TMUS.O)盘中跌逾4%，此前消息称其将收购骑行共享广告网络公司Octopus Interactive。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9571444.d.html</link>
-            <guid>2482754</guid>
-            <pubDate>Mon, 10 Jan 2022 16:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德意志银行(DB.N)盘中直线走低，跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4396467.d.html</link>
-            <guid>2482753</guid>
-            <pubDate>Mon, 10 Jan 2022 16:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空客：2021年向88家客户交付了611架商用飞机，2021年交付量比2020年度高出8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4396379.d.html</link>
-            <guid>2482749</guid>
-            <pubDate>Mon, 10 Jan 2022 16:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[默沙东CEO：预计molnupiravir能够对抗未来的变种病毒。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4396237.d.html</link>
-            <guid>2482748</guid>
-            <pubDate>Mon, 10 Jan 2022 16:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：西欧企业信用将在2022年继续恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9570512.d.html</link>
-            <guid>2482739</guid>
-            <pubDate>Mon, 10 Jan 2022 16:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯国防部副部长详细阐述了俄罗斯的立场；会谈后更加乐观，但关键问题仍未解决，我们需要看到北约迈出一步。]]></title>
-            <guid>2482734</guid>
-            <pubDate>Mon, 10 Jan 2022 16:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副国务卿：美国欢迎通过外交手段取得真正的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4395366.d.html</link>
-            <guid>2482733</guid>
-            <pubDate>Mon, 10 Jan 2022 16:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：将根据本星期在布鲁塞尔和维也纳举行的其他会谈的结果，决定未来可能举行的会谈，到那时就会清楚是否值得继续谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4395136.d.html</link>
-            <guid>2482728</guid>
-            <pubDate>Mon, 10 Jan 2022 16:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副国务卿：美国和俄罗斯都认为，核战争永远不会赢，也不应该打。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4395072.d.html</link>
-            <guid>2482726</guid>
-            <pubDate>Mon, 10 Jan 2022 16:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：经济复苏将推动2022年全球金融行业的前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9569916.d.html</link>
-            <guid>2482725</guid>
-            <pubDate>Mon, 10 Jan 2022 16:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副国务卿：与俄罗斯外长进行了坦率的讨论，美国提出不久将与俄罗斯再次会晤。]]></title>
-            <guid>2482724</guid>
-            <pubDate>Mon, 10 Jan 2022 16:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯告诉美国，没有必要担心局势升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4394965.d.html</link>
-            <guid>2482721</guid>
-            <pubDate>Mon, 10 Jan 2022 16:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯没有攻击乌克兰的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4394949.d.html</link>
-            <guid>2482720</guid>
-            <pubDate>Mon, 10 Jan 2022 16:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯和美国的会谈很复杂，也很专业；俄罗斯详细解释了对北约扩张的担忧。]]></title>
-            <guid>2482716</guid>
-            <pubDate>Mon, 10 Jan 2022 16:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉转涨，此前一度跌4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4394790.d.html</link>
-            <guid>2482715</guid>
-            <pubDate>Mon, 10 Jan 2022 16:33:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
