@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Jan 2022 20:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 21:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英特尔任命美光科技的高管David Zinsner为其首席财务官。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4410979.d.html</link>
+            <guid>2482937</guid>
+            <pubDate>Mon, 10 Jan 2022 21:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF多数收跌，全球航空业ETF跌1.4%，日常消费品ETF跌约0.8%，公用事业ETF跌超0.6%，医疗业ETF涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9585862.d.html</link>
+            <guid>2482935</guid>
+            <pubDate>Mon, 10 Jan 2022 21:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块多数收跌，工业板块跌超1.1%，原材料板块跌约1.0%，日用消费品板块跌超0.7%，公用事业和可选消费板块至少跌0.6%，通信和信息技术板块最多涨0.1%，医疗保健板块涨超1.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4410711.d.html</link>
+            <guid>2482934</guid>
+            <pubDate>Mon, 10 Jan 2022 21:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉(TSLA.O)与金属公司Talon Metals Corp.签署了为期六年的7.5万吨镍供应合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9585118.d.html</link>
+            <guid>2482927</guid>
+            <pubDate>Mon, 10 Jan 2022 20:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将中国平安(02318.HK)评级从超配下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4409886.d.html</link>
+            <guid>2482925</guid>
+            <pubDate>Mon, 10 Jan 2022 20:46:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股特朗普概念股拉升，数字世界收购集团(DWAC.O)涨超10%，Phunware(PHUN.O)涨近5%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9584104.d.html</link>
@@ -33,7 +63,7 @@
             <pubDate>Mon, 10 Jan 2022 20:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际货币基金组织任命Pierre Oltvier Gourinchas接替IMF首席经济学家戈皮纳特。]]></title>
+            <title><![CDATA[【IMF总裁宣布任命新任首席经济学家】国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃当地时间10日宣布，将任命皮埃尔·奥利维尔·古林查斯（Pierre-Olivier Gourinchas）为国际货币基金组织的首席经济学家兼研究部（RES）主任。古林查斯将接替吉塔·戈皮纳特（Gita Gopinath），戈皮纳特将加入国际货币基金组织的管理团队，担任第一副总裁。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4408296.d.html</link>
             <guid>2482909</guid>
             <pubDate>Mon, 10 Jan 2022 19:58:52 GMT</pubDate>
@@ -245,71 +275,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9574989.d.html</link>
             <guid>2482833</guid>
             <pubDate>Mon, 10 Jan 2022 17:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：半导体公司AXT Inc.宣布正式申请上市，其第四季度营收初步数据为3600万至3700万美元，此前预期为3400万至3600万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9574730.d.html</link>
-            <guid>2482830</guid>
-            <pubDate>Mon, 10 Jan 2022 17:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【研究表明西式快餐诱发免疫疾病】据统计，自身免疫性疾病的全球发病率每年增长3%至9%，最新研究表明，这和西方饮食和快餐文化在更多国家中的普及有关。英国专家指出，快餐因缺乏如纤维等重要营养成分而会导致人体内微生物群发生改变，而这种变化会诱发自身免疫性疾病。不过，科学家也强调个体遗传基因在此类疾病中仍然有着相当大的影响。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9574455.d.html</link>
-            <guid>2482826</guid>
-            <pubDate>Mon, 10 Jan 2022 17:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈萨克斯坦总统：恐怖分子在哈造成经济损失或达30亿美元】哈萨克斯坦总统托卡耶夫当地时间10日与欧盟理事会主席米歇尔进行视频通话时表示，近期恐怖分子在哈萨克斯坦的暴力行动造成执法人员和平民的大量伤亡，大约1300个商业设施遭到破坏，有100多个购物中心和银行被袭击，大约500辆警车被烧毁，初步估计的经济损失可能达到20亿至30亿美元。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4399333.d.html</link>
-            <guid>2482825</guid>
-            <pubDate>Mon, 10 Jan 2022 17:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空客销售主管：看到了清晰而强劲的复苏迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9574235.d.html</link>
-            <guid>2482824</guid>
-            <pubDate>Mon, 10 Jan 2022 17:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河南安阳市对部分区域实行分类管理。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9573928.d.html</link>
-            <guid>2482808</guid>
-            <pubDate>Mon, 10 Jan 2022 17:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Exane：将Visa(V.N)评级下调至中性，目标价210美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9573544.d.html</link>
-            <guid>2482804</guid>
-            <pubDate>Mon, 10 Jan 2022 17:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长里亚布科夫：俄罗斯对谈判失败的任何反应都是军事技术层面的；在进行外交工作时不会透露细节，我们需要美国和北约的紧急回应。]]></title>
-            <guid>2482803</guid>
-            <pubDate>Mon, 10 Jan 2022 17:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：保持学校开放是意大利政府的首要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9573411.d.html</link>
-            <guid>2482799</guid>
-            <pubDate>Mon, 10 Jan 2022 17:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南南阳调整中小学幼儿园考试、放假时间】河南南阳市教育局紧急调整中小学幼儿园考试、放假时间，具体安排如下：全市幼儿园自2022年1月12日正式放假。义务教育阶段学校期终考试时间调整为1月13日至14日，普通高中一、二年级期终考试时间调整为1月13日至15日。考试结束后，学生全部离校，不再返校。高三年级原则上1月25日放假，待高一、高二年级学生离校后实行校园封闭式管理。2022年春期开学时间按市教育局下发的《关于做好2022年普通中小学校（幼儿园）寒假工作的通知》（教基一〔2021〕406号）执行，如有调整，另行通知。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyakumx9573338.d.html</link>
-            <guid>2482795</guid>
-            <pubDate>Mon, 10 Jan 2022 17:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河南郑州：除主干线路外途经封控区、管控区、防范区公交线路暂停运营，地铁跳站运营。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4397870.d.html</link>
-            <guid>2482788</guid>
-            <pubDate>Mon, 10 Jan 2022 17:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登与埃塞俄比亚总理进行了交谈，讨论了埃塞俄比亚持续不断的冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-11/detail-ikyamrmz4397837.d.html</link>
-            <guid>2482787</guid>
-            <pubDate>Mon, 10 Jan 2022 17:18:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
