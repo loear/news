@@ -4,11 +4,71 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 11 Jan 2022 20:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 21:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯与乌克兰外长就俄罗斯问题进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4627320.d.html</link>
+            <guid>2485771</guid>
+            <pubDate>Tue, 11 Jan 2022 21:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国地震台网正式测定：01月12日05时06分在青海海北州门源县发生3.6级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4627314.d.html</link>
+            <guid>2485770</guid>
+            <pubDate>Tue, 11 Jan 2022 21:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：通胀压力将有所缓解，但可能在更长时间内仍保持高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9802990.d.html</link>
+            <guid>2485767</guid>
+            <pubDate>Tue, 11 Jan 2022 21:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook母公司Meta Platform任命“美版饿了么”的CEO Tony Xu为董事会成员，其他董事保持不变，即董事会扩容至10人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9802894.d.html</link>
+            <guid>2485766</guid>
+            <pubDate>Tue, 11 Jan 2022 21:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：劳动力市场的复苏支撑美国的GDP增长前景和货币政策正常化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4626847.d.html</link>
+            <guid>2485765</guid>
+            <pubDate>Tue, 11 Jan 2022 21:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团将在墨西哥市场退出零售银行业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9802704.d.html</link>
+            <guid>2485762</guid>
+            <pubDate>Tue, 11 Jan 2022 21:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外长勒德里昂：伊核谈判在12月底已经取得了进展，但讨论过程过于缓慢。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9802645.d.html</link>
+            <guid>2485760</guid>
+            <pubDate>Tue, 11 Jan 2022 21:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外长勒德里昂：距离恢复伊核协议还很遥远。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4626627.d.html</link>
+            <guid>2485759</guid>
+            <pubDate>Tue, 11 Jan 2022 21:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西米纳斯吉拉斯州大雨成灾，24小时内致10人丧生】 当地时间1月11日，巴西东南部米纳斯吉拉斯州（简称米纳斯州）民防部门的最新数据显示，在过去的24小时内，共有10人因大雨丧生。从2021年10月1日该州进入雨季起，已有19人因大雨丧生。截至1月11日，该州超过17000人流离失所，145座城市进入紧急状态。此外，大雨还对米纳斯州的地面交通造成了重大影响。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4626081.d.html</link>
+            <guid>2485754</guid>
+            <pubDate>Tue, 11 Jan 2022 20:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党参议员桑德斯提交法案，旨在给美国人分发N95口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9801612.d.html</link>
+            <guid>2485749</guid>
+            <pubDate>Tue, 11 Jan 2022 20:38:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：法官驳回了Facebook要求撤销美国联邦贸易委员会反垄断诉讼的请求。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4624415.d.html</link>
@@ -150,89 +210,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4612225.d.html</link>
             <guid>2485668</guid>
             <pubDate>Tue, 11 Jan 2022 17:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年美国天然气（干气）产量为960.4亿立方英尺/日，此前预期为959.7亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9787764.d.html</link>
-            <guid>2485665</guid>
-            <pubDate>Tue, 11 Jan 2022 17:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年天然气价格为3.94美元/千立方英尺，此前预期为4.13美元/千立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4611897.d.html</link>
-            <guid>2485663</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年美国原油需求增速为84万桶/日，此前为70万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9787629.d.html</link>
-            <guid>2485662</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰：下调2022年黄金价格预期至1723美元/盎司（之前预计为1740美元），因全球经济增长、且收益率上扬。]]></title>
-            <guid>2485661</guid>
-            <pubDate>Tue, 11 Jan 2022 17:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年美国原油产量将增加20万桶/日，此前预计为增加67万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4611775.d.html</link>
-            <guid>2485660</guid>
-            <pubDate>Tue, 11 Jan 2022 17:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年美国原油产量将为1180万桶/日，此前预期为1185万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4611754.d.html</link>
-            <guid>2485659</guid>
-            <pubDate>Tue, 11 Jan 2022 17:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年全球原油总消费量为1.0052亿桶/日，此前预期为1.0046亿桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9787491.d.html</link>
-            <guid>2485658</guid>
-            <pubDate>Tue, 11 Jan 2022 17:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：2022年全球原油需求增速预期为362万桶/日，此前预计为355万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9787461.d.html</link>
-            <guid>2485656</guid>
-            <pubDate>Tue, 11 Jan 2022 17:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨1.13%，沪铜收涨0.98%，沪铝收涨1.78%，沪锌收涨2.44%，沪铅收涨0.16%，沪镍收涨3.28%，沪锡收涨3.52%。不锈钢夜盘收涨2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4611476.d.html</link>
-            <guid>2485654</guid>
-            <pubDate>Tue, 11 Jan 2022 17:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：将在存款机构牌照（SPDIS）方面取得进展巨大的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4611191.d.html</link>
-            <guid>2485653</guid>
-            <pubDate>Tue, 11 Jan 2022 16:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：最近法国对谷歌的裁决是尊重知识产权的“美好胜利”，但还有很长的路要走。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9786967.d.html</link>
-            <guid>2485651</guid>
-            <pubDate>Tue, 11 Jan 2022 16:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大自然能源公司：最近阿尔伯塔省的极端寒冷意味着天然气产量下降，预计本周将恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4610497.d.html</link>
-            <guid>2485648</guid>
-            <pubDate>Tue, 11 Jan 2022 16:47:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：奥密克戎变异株可能会扰乱供应链，但这次时间更短。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9785908.d.html</link>
-            <guid>2485646</guid>
-            <pubDate>Tue, 11 Jan 2022 16:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基和加拿大总理特鲁多讨论了顿巴斯局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyakumx9785864.d.html</link>
-            <guid>2485645</guid>
-            <pubDate>Tue, 11 Jan 2022 16:42:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
