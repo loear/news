@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 12 Jan 2022 21:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 22:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国得克萨斯州在1月初因寒潮而损失大约1.3GW的发电产能，这在当地冬季产能中占比大约为1.5%，众多火电站运营机构面临一些列与天然气相关的燃料问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyamrmz4850411.d.html</link>
+            <guid>2486839</guid>
+            <pubDate>Wed, 12 Jan 2022 22:23:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在2.80%及以上的银行人民币理财产品共4款。理财非存款、产品有风险、投资须谨慎！]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyamrmz4850366.d.html</link>
+            <guid>2486838</guid>
+            <pubDate>Wed, 12 Jan 2022 22:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：日本预计将在2026财年实现基本预算/财政盈余。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyamrmz4849753.d.html</link>
+            <guid>2486836</guid>
+            <pubDate>Wed, 12 Jan 2022 22:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.3626元，较周二纽约尾盘涨148点，盘中整体交投于6.3776-6.3605元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0024575.d.html</link>
+            <guid>2486833</guid>
+            <pubDate>Wed, 12 Jan 2022 22:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[（美国-荷兰）搜索公司Elastic NV（ESTC）美股盘后跌6.6%，最低触及103.73美元，该公司委任杀毒软件公司McAfee前高管Kulkarni为新任CEO，以取代联合创始人Banon；该公司为搜索、日志记录、安全性、可观察性和分析用例构建自我管理的SaaS产品。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0022328.d.html</link>
@@ -199,54 +223,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyamrmz4827252.d.html</link>
             <guid>2486737</guid>
             <pubDate>Wed, 12 Jan 2022 16:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国方面表示，可以限制向俄罗斯能源部门出售技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0002798.d.html</link>
-            <guid>2486736</guid>
-            <pubDate>Wed, 12 Jan 2022 16:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月13日00时17分在青海海北州门源县发生4.0级地震，震源深度8千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0002280.d.html</link>
-            <guid>2486734</guid>
-            <pubDate>Wed, 12 Jan 2022 16:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南沙自贸试验区单次汽车出口量创历史新高】据统计，2021年全年南沙汽车口岸出口量达到2.5万辆，为2020年出口量的12倍，创下南沙汽车口岸历年出口最好成绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0002215.d.html</link>
-            <guid>2486733</guid>
-            <pubDate>Wed, 12 Jan 2022 16:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辽宁大连：已排查出28名密切接触者，核酸检测均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0000411.d.html</link>
-            <guid>2486726</guid>
-            <pubDate>Wed, 12 Jan 2022 16:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：物价上涨仍然太高，挤压了家庭预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0000290.d.html</link>
-            <guid>2486724</guid>
-            <pubDate>Wed, 12 Jan 2022 16:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国在降低物价上涨速度方面取得了进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyamrmz4824480.d.html</link>
-            <guid>2486723</guid>
-            <pubDate>Wed, 12 Jan 2022 16:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华晨中国：法院受理华晨雷诺金杯汽车的重整申请】华晨中国港股公告称，沈阳市中级人民法院已受理其与雷诺合资公司的重整申请。重整委员会将由辽宁省人民政府国有资产监督管理委员会综合法规处处长领导。华晨中国股票继续停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-13/detail-ikyakumy0000069.d.html</link>
-            <guid>2486722</guid>
-            <pubDate>Wed, 12 Jan 2022 16:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼将于当地时间周三晚间放行37艘煤炭货船。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-12/detail-ikyamrmz4823885.d.html</link>
-            <guid>2486718</guid>
-            <pubDate>Wed, 12 Jan 2022 15:51:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
