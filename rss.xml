@@ -4,11 +4,71 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 14 Jan 2022 19:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 20:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯天然气公司Gazprom：公司正寻求针对波兰石油天然气公司的国际仲裁，以调整合同价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0448767.d.html</link>
+            <guid>2489957</guid>
+            <pubDate>Fri, 14 Jan 2022 20:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行首席财务长：预计贷款“全面”增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5274335.d.html</link>
+            <guid>2489956</guid>
+            <pubDate>Fri, 14 Jan 2022 20:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登宣布拨款400亿美元修缮桥梁】当地时间1月14日，美国总统拜登就其签署的两党基础设施法案实施进展发表公开讲话，并宣布一项新计划，说明如何通过法案提供资金，修复、更换美国的桥梁。拜登表示，美国全国有约45000座桥梁需要修复或者更换，政府将拨款400亿美元作为换修桥梁的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0448572.d.html</link>
+            <guid>2489955</guid>
+            <pubDate>Fri, 14 Jan 2022 20:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Politico：美国两党参议员小组将前往乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5273826.d.html</link>
+            <guid>2489954</guid>
+            <pubDate>Fri, 14 Jan 2022 20:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：奈飞(NFLX.O)表示，从今天开始提高美国和加拿大的月度定价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5273074.d.html</link>
+            <guid>2489951</guid>
+            <pubDate>Fri, 14 Jan 2022 20:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KLX能源(KLXE.O)成交量大增，盘中涨幅达6.6%，现报4.51美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0446969.d.html</link>
+            <guid>2489950</guid>
+            <pubDate>Fri, 14 Jan 2022 19:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行分析师Joseph Spak：将特斯拉(TSLA.O)目标价从1005美元上调至1045美元，维持“与行业一致”的评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0446245.d.html</link>
+            <guid>2489948</guid>
+            <pubDate>Fri, 14 Jan 2022 19:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于Oculus的反垄断调查据悉已于去年开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0445841.d.html</link>
+            <guid>2489946</guid>
+            <pubDate>Fri, 14 Jan 2022 19:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）官员们表示，要询问Oculus是否扼杀了竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0445771.d.html</link>
+            <guid>2489943</guid>
+            <pubDate>Fri, 14 Jan 2022 19:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行将摩根大通评级下调至平配，目标价180美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0444976.d.html</link>
+            <guid>2489938</guid>
+            <pubDate>Fri, 14 Jan 2022 19:19:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智利法院同意暂停审理新的锂矿开采合同。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5270332.d.html</link>
@@ -152,64 +212,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0438120.d.html</link>
             <guid>2489858</guid>
             <pubDate>Fri, 14 Jan 2022 17:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登不会让伊朗拥有核武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5263663.d.html</link>
-            <guid>2489857</guid>
-            <pubDate>Fri, 14 Jan 2022 17:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大金融机构监理总署：分析侧重于转型风险，而非实体风险；未来的工作将着眼于气候变化的物理风险。]]></title>
-            <guid>2489854</guid>
-            <pubDate>Fri, 14 Jan 2022 17:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大金融机构监理总署：重点将放在金融机构的气候风险管理上，而不是提高气候相关风险的资本金要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5262522.d.html</link>
-            <guid>2489852</guid>
-            <pubDate>Fri, 14 Jan 2022 17:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  江苏地震台网正式测定：2022年1月15日0时41分在江苏南京市雨花台区（北纬31.94度、东经118.64度）发生2.6级地震，震源深度13公里。]]></title>
-            <guid>2489849</guid>
-            <pubDate>Fri, 14 Jan 2022 17:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团CFO：预计银行卡支付率将在2022年下半年正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0436808.d.html</link>
-            <guid>2489847</guid>
-            <pubDate>Fri, 14 Jan 2022 17:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟方面表示，5月25日将是英伟达收购ARM审查的最后期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0436801.d.html</link>
-            <guid>2489846</guid>
-            <pubDate>Fri, 14 Jan 2022 17:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经纪顾问Boushey：美国不能推迟基础设施投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0436550.d.html</link>
-            <guid>2489844</guid>
-            <pubDate>Fri, 14 Jan 2022 17:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经纪顾问Boushey：气候变化对经济成果产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5261854.d.html</link>
-            <guid>2489842</guid>
-            <pubDate>Fri, 14 Jan 2022 17:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经纪顾问Boushey：政府着眼于解决供应链问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0436169.d.html</link>
-            <guid>2489840</guid>
-            <pubDate>Fri, 14 Jan 2022 17:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国及其盟友对乌克兰遭受的网络攻击感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5261680.d.html</link>
-            <guid>2489838</guid>
-            <pubDate>Fri, 14 Jan 2022 17:05:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
