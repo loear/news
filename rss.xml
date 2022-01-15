@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 18:29:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【元宇宙世界的“入场券”？市场规模将达2700亿元！这类人才太紧缺】2021年被称为“元宇宙元年”，而通向元宇宙这个“大世界”的“小切口”便是“虚拟人”。正是他们在慢慢推开元宇宙的大门。随着“虚拟人”概念的火热，目前相关领域的软硬件工程师已成为热门职缺。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0603227.d.html</link>
+            <guid>2490977</guid>
+            <pubDate>Sat, 15 Jan 2022 18:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拼多多砍价永远差一刀？拼多多法庭上回复：小数点后有6位】1月14日，“拼多多砍价，但始终差0.9%”，这一话题再次登上知乎热搜。去年3月，上海律师刘宇航参加了拼多多的“砍价免费拿”活动，领取了一张“超级免单卡”，但邀请多人砍价后，始终差“0.9%”。为何次次第一名却总是无法砍价成功？觉得平台数据不真实后，刘宇航以拼多多在提供网络服务时涉嫌违背诚实信用原则，使用虚假数据隐瞒规则已构成欺诈为由，向法院递交了起诉材料。在案件审理中，针对刘宇航的起诉以及由此引发的质疑，拼多多表示，因页面显示百分比位数有限，所以他们把一个至少小数点后有6位数以上的百分比，省略显示为0.9%，砍价页面显示的0.9%不是0.9%，而是0.9996427%。当法庭问为什么不在页面显示完整百分比时，拼多多称是因为显示屏有限，而且这个数是除不尽的所以做了省略。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5428909.d.html</link>
+            <guid>2490976</guid>
+            <pubDate>Sat, 15 Jan 2022 17:53:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【800块钱买RTX 3090/RX 6900 XT？日本商家开卖显卡盲盒】盲盒是现在很流行的玩法，万一开出超预期的东西就赚大了，所以吸引了大量年轻人去开盲盒，而在日本市场上也有人玩起了显卡盲盒。在日本亚马逊上就有商家推出了名为Lucky Box幸运盒子的产品，里面随机搭售一款AMD或者NVIDIA的显卡，宣传页面上列举的就有RTX 3090、RTX 3080、RTX 3070及RX 6900 XT、RTX 6600 XT等显卡，只要800元左右就有可能开出RTX 3090或者RTX 6900 XT显卡。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0600453.d.html</link>
@@ -294,18 +306,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5374221.d.html</link>
             <guid>2490180</guid>
             <pubDate>Sat, 15 Jan 2022 08:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国最大天然气生产基地日产天然气突破1.5亿立方米】记者15日从中国石油长庆油田了解到，作为我国最大的天然气生产基地，长庆油田日产天然气攀上1.5亿立方米以上水平，占冬供高峰期全国每天使用天然气总量的七分之一，相当于可保障3亿个三口之家日常做饭用气需求。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0547534.d.html</link>
-            <guid>2490177</guid>
-            <pubDate>Sat, 15 Jan 2022 08:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津津南区增加三个封控区】天津市卫生健康委副主任杜洪印介绍，津南区调整原封控区辛庄镇华远波士顿为华远波士顿上东苑；增加划定咸水沽镇惠裕里、金才园、众祥里为封控区。其他封（管）控区及防范区范围不变。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5373224.d.html</link>
-            <guid>2490175</guid>
-            <pubDate>Sat, 15 Jan 2022 08:36:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
