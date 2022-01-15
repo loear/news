@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Jan 2022 12:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 13:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【银保监会副主席曹宇：保本理财、不合规短期理财产品实现清零】1月15日，银保监会党委委员、副主席曹宇在“全球财富管理论坛上海苏河湾峰会”上表示，截至2021年末，保本理财、不合规短期理财产品实现清零，绝大部分银行如期完成理财存量整改任务，特别是中小银行已按时完成整改工作，为银行理财业务健康发展奠定了坚实基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5409043.d.html</link>
+            <guid>2490768</guid>
+            <pubDate>Sat, 15 Jan 2022 13:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据宁德时代微信公众号消息，1月18日15:30将举行宁德时代EVOGO换电品牌发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0579806.d.html</link>
+            <guid>2490640</guid>
+            <pubDate>Sat, 15 Jan 2022 12:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北京海淀已排查密接15人 对确诊病例在京居住地和办公场所人员开展核酸检测】北京市海淀区副区长林航表示，截至15日18时，排查新增病例的密接人员15人，均已落实管控。对该病例在京居住地和办公场所工作人员进行核酸检测和重点部位环境检测。截至18时，累计采集人员样本2430件、环境样本32件，采样结果待出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5404642.d.html</link>
+            <guid>2490567</guid>
+            <pubDate>Sat, 15 Jan 2022 12:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副国务卿：美国希望通过与俄罗斯的外交实现乌克兰周边局势的缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0578600.d.html</link>
+            <guid>2490564</guid>
+            <pubDate>Sat, 15 Jan 2022 12:47:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广州市第十二人民医院发布停诊通知。（南方Plus）]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5399856.d.html</link>
@@ -234,24 +258,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyamrmz5360176.d.html</link>
             <guid>2490137</guid>
             <pubDate>Sat, 15 Jan 2022 07:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海啸监测机构：目前的观察结果表明，海啸对美属萨摩亚的影响大于此前预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0532314.d.html</link>
-            <guid>2490133</guid>
-            <pubDate>Sat, 15 Jan 2022 06:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：去年全球App相关消费增长19%至1700亿美元，中美日位居前三】韩国移动数据分析平台App Annie近日发布的数据显示，去年全球App相关消费同比增长19%，为1700亿美元。按国家来看，中国居首，其后依次为美国、日本和韩国。使用时间方面，去年全球App使用时间同比增长6%，为3.8万亿个小时。中国、印度和美国分列第一到第三。下载量方面，去年全球同比增加5%，为2300亿次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0530865.d.html</link>
-            <guid>2490131</guid>
-            <pubDate>Sat, 15 Jan 2022 06:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所官网显示，宁德时代向特定对象发行证券事项已于1月12日获审核通过，预计融资450亿元，目前尚未提交注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0530637.d.html</link>
-            <guid>2490130</guid>
-            <pubDate>Sat, 15 Jan 2022 06:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
