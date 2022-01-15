@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Jan 2022 19:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 20:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【看好中国核心资产 外资加速布局A股】在机构看来，近期A股市场连续调整，主要原因在于年初恰逢机构配置调整的节点，叠加市场流动性预期发生了变化，市场结构开始由高估值向低估值切换。不过，市场仍然对“春季躁动”行情抱有一定期待。同时，着眼全年来看，外资普遍看好中国资本市场的投资机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0609719.d.html</link>
+            <guid>2491003</guid>
+            <pubDate>Sat, 15 Jan 2022 20:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【未来世界上房价最贵的地方 原来是这里？】2021年被称为元宇宙元年，或者说是元宇宙地产元年。去年12月，香港房地产巨头郑志刚买下了Sandbox中最大的数字地块之一，花费约500万美元，称要打造“创新中心”。社交、短视频、共享经济，当互联网的发展步入瓶颈期，热钱总需要新的风口，元宇宙可能是，但在元宇宙里炒房不会是。（北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0609403.d.html</link>
+            <guid>2490990</guid>
+            <pubDate>Sat, 15 Jan 2022 20:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收购终止！青岛国信68亿收购国融证券折戟 要价过高、还是迁址不易？】近日，青岛国信宣布终止收购国融证券。据称，此次收购计划告吹的主要原因包括此次交易价格过高、国融证券大股东长安投资IPO对赌遗留压力、国融证券迁址难等问题。此前有消息称，“国融证券注册地迁址青岛”是青岛国信在收购国融证券的过程中十分重视的一环。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0608476.d.html</link>
+            <guid>2490984</guid>
+            <pubDate>Sat, 15 Jan 2022 19:41:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[数据显示，上一交易日大市沽空比例为20.20%，过去两个月大市日均沽空比例为18.08%。其中，标智上证50(03024)、恒生中国企业-R(82828)、中金金瑞中网(03186)沽空比率排名前三位，分别为100.00%、100.00%、100.00%。腾讯控股(00700)、盈富基金(02800)、恒生中国企业(02828)的沽空金额排名前三位，分别为14.10亿、12.22亿、11.04亿。华领医药-B(02552)、乐享集团(06988)、思捷环球(00330)的偏离值排名前三位，分别为8.28、7.78、7.39。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0607453.d.html</link>
@@ -312,12 +330,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0551960.d.html</link>
             <guid>2490194</guid>
             <pubDate>Sat, 15 Jan 2022 09:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会曹宇：积极探索中小银行设立理财公司的模式路径】 银保监会副主席曹宇在“全球财富管理论坛 • 上海苏河湾峰会”上表示，从银行业保险业来看，已有29家理财公司获批筹建，23家开业运营，保险资管公司达33家。银保监会将继续坚持“成熟一家、批准一家”的原则，稳步推进理财公司和保险资管公司批设工作，做好已开业机构的运行评估，积极探索中小银行设立理财公司的模式路径，落实扩大对外开放和引进外资政策，建设各展所长，有机合作、同生共存的生态体系。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-15/detail-ikyakumy0549538.d.html</link>
-            <guid>2490184</guid>
-            <pubDate>Sat, 15 Jan 2022 08:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
