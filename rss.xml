@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 16 Jan 2022 21:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 22:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[媒体消息： 日本内阁支持率上升4个百分点至66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-17/detail-ikyamrmz5605182.d.html</link>
+            <guid>2492469</guid>
+            <pubDate>Sun, 16 Jan 2022 22:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冬季风暴持续侵袭美国 4700多个航班被取消】据美国有线电视新闻网（CNN）当地时间1月16日报道，冬季风暴持续侵袭美国，从东南部至东北部，将有多达8000万人收到冬季风暴警报。据航班追踪数据公司FlightAware的报告，仅在1月16日，就有近5700个航班延误，4700多个航班被取消。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-17/detail-ikyakumy0777083.d.html</link>
+            <guid>2492465</guid>
+            <pubDate>Sun, 16 Jan 2022 21:56:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[澳大利亚国际发展与太平洋事务部长：初步报告显示海啸和火山爆发后汤加没有大规模人员伤亡。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-17/detail-ikyamrmz5601102.d.html</link>
@@ -286,48 +298,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5553318.d.html</link>
             <guid>2492368</guid>
             <pubDate>Sun, 16 Jan 2022 11:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社：美国操弄舆论只会导致信誉破产】一段时间以来，美国一些政客在新疆、香港、人权、病毒溯源等问题上罔顾事实，持续向中国泼脏水，企图通过无下限的舆论攻击，在国际上歪曲中国形象、制造“中国威胁”，以达到其维护霸权私利、遏制中国发展的目的。然而，美国越是不遗余力颠倒黑白、信口雌黄，越是费尽心机摇唇鼓舌、渲染炒作，就越是让国际社会看清其信誉账户的累累赤字。正如《纽约时报》所言，“美国已经失去信誉”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0726320.d.html</link>
-            <guid>2492367</guid>
-            <pubDate>Sun, 16 Jan 2022 11:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西全面启动焦化行业熄焦工艺升级改造 下一步将把全干法熄焦作为焦化行业的准入门槛】1月15日，省生态环境厅与临汾市委、市政府共同在曲沃县立恒焦化有限公司举行全省熄焦工艺升级改造启动仪式。立恒焦化有限公司率先开展全干熄焦改造，现场拆除湿法熄焦塔，标志着全省焦化行业干熄焦改造全面启动。据悉，目前全省建成干熄焦的焦化企业31户，涉及产能5598万吨，干熄焦占比约为44.7%，仍有一半以上的焦炭企业采用湿法熄焦。省生态环境厅表示，下一步，将把全干法熄焦作为焦化行业的准入门槛，对改造项目要实施项目化、清单化、台账管理，一抓到底，尽早见效，并将对焦化行业超低排放改造项目特别是对引领示范作用强、环境绩效高、改造速度快的干熄焦改造项目给予重点支持。（山西日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5552280.d.html</link>
-            <guid>2492366</guid>
-            <pubDate>Sun, 16 Jan 2022 11:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间1月16日，泰国报告了首例感染奥密克戎变异毒株的死亡病例，为一名86岁女性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0725734.d.html</link>
-            <guid>2492365</guid>
-            <pubDate>Sun, 16 Jan 2022 11:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软：在乌克兰政府系统中发现“破坏性恶意软件”】微软发布声明称，在乌克兰政府机构以及与当局合作组织的系统中发现了“破坏性恶意软件”。微软指出，该恶意软件被伪装成勒索软件。软件一旦被攻击方激活，将使受感染的计算机系统无法运行。1月14日，乌克兰政府网站遭遇大规模网络攻击。除了外交部外，还有其他数个这个服部门网站受到影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5551764.d.html</link>
-            <guid>2492364</guid>
-            <pubDate>Sun, 16 Jan 2022 10:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本2022年度将正式研发电磁炮】据日本时事通讯社16日报道，防卫省在2022年度预算案中提出投入65亿日元（约合5700万美元）用于电磁炮研发，打算7年后实现实用化，主要用于拦截速度为音速5倍及以上的高超音速导弹，也可用于攻击舰船。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5551117.d.html</link>
-            <guid>2492362</guid>
-            <pubDate>Sun, 16 Jan 2022 10:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发行价5元 全球光伏组件龙头明日打新】根据新股发行安排，下周有8只新股发行，均为注册制新股，包括科创板3只、创业板5只。下周一申购的晶科能源，是全球光伏组件龙头，其发行价为5元/股，是科创板第十低价新股。根据过往经验，低价新股上市后往往涨幅较大，晶科能源的上市表现值得期待。招股书显示，晶科能源成立于2006年，主营业务涵盖太阳能光伏组件、电池片、硅片的研发、生产和销售，是全球知名的光伏产品制造商，2016-2019年连续4年位居全球光伏组件出货量第一名。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyamrmz5551086.d.html</link>
-            <guid>2492361</guid>
-            <pubDate>Sun, 16 Jan 2022 10:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息称三星2月9日举行Galaxy S22系列发布会，另外，三星荷兰官网已经上线了新款45W充电器。（IT之家）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-16/detail-ikyakumy0723854.d.html</link>
-            <guid>2492359</guid>
-            <pubDate>Sun, 16 Jan 2022 10:45:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
