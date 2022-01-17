@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 17 Jan 2022 21:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 22:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本东京考虑对酒精类饮品和酒吧等营业场所的营业时间设限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5814216.d.html</link>
+            <guid>2493965</guid>
+            <pubDate>Mon, 17 Jan 2022 22:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国首个地理标志五年规划发布】1月17日，国家知识产权局有关负责人对近日印发的《地理标志保护和运用“十四五”规划》予以解读。据介绍，作为我国首个地理标志五年规划，该《规划》提出地理标志认定数量保持稳定合理增长，使用地理标志专用标志的市场主体达到1.8万家以上。]]></title>
+            <guid>2493961</guid>
+            <pubDate>Mon, 17 Jan 2022 21:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：日本寻求东京及其他地区进入为期三周的准紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5812946.d.html</link>
+            <guid>2493958</guid>
+            <pubDate>Mon, 17 Jan 2022 21:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交银国际：将大唐新能源(01798.HK)目标价由2.4港元升至3.44港元 维持中性评级】交银国际发研报指，2021年大唐新能源总发电量同比增长23.6%，其中风电发电量和交银预测基本一致，而光伏发电量比交银预期高约10%。下半年由于风资源变差导致风电发电量增速比上半年明显下降。交银维持2021年公司新增装机预测不变，即风电500兆瓦、光伏800兆瓦，并预计2022及2023年新增装机速度将明显加快，但项目收益率有下降隐忧。交银略调整公司未来三年的盈利预测。由于行业估值水平整体上移，交银调高目标价，基于2022年预测市盈率14倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5812664.d.html</link>
+            <guid>2493956</guid>
+            <pubDate>Mon, 17 Jan 2022 21:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对于1月20日即将发布的新一期LPR，受访分析人士普遍认为，本月LPR将大概率跟进MLF下调的步伐，这将有助于促进实体经济融资成本稳中有降。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyakumy0986834.d.html</link>
+            <guid>2493955</guid>
+            <pubDate>Mon, 17 Jan 2022 21:39:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[交银国际：维持中国信达(01359.HK)买入评级，目标价1.9港元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5811833.d.html</link>
@@ -191,42 +220,6 @@
             <title><![CDATA[【总量突破110万亿元 开局之年中国经济韧性十足】国内生产总值达114.4万亿元，突破110万亿元……1月17日出炉的中国经济年报显示，2021年，我国主要预期目标全面实现，经济增长国际领先，彰显经济强大韧性和巨大潜力。展望2022年，围绕把稳增长放在突出位置，一系列新举措将加快落地。据悉，扩大有效投资方面，适度超前开展基础设施投资等政策正在发力，还将出台一系列有利于制造业投资、企业R&D投入、技改投入等政策措施。业内表示，我国经济持续恢复发展的态势没有变，新的经济增长点将不断涌现，全年经济仍有望实现稳中求进。（经参）]]></title>
             <guid>2493760</guid>
             <pubDate>Mon, 17 Jan 2022 17:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克：FSD Beta 10.9将于本周晚些时候发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyakumy0969552.d.html</link>
-            <guid>2493738</guid>
-            <pubDate>Mon, 17 Jan 2022 17:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江温州一企业发生火灾，明火已扑灭 无人员伤亡报告】1月17日晩上8点左右，浙江温州龙港市国鸿智造园一企业发生火灾，火势很大，接警后，温州消防救援支队立即派出20余辆消防车赶往现场救援。截至1月18日凌晨0点30分，明火已基本扑灭，无人员伤亡报告。据初步了解，着火的为这家企业的仓库，仓库中堆满了大量纸制品，具体起火原因正在调查中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyakumy0968309.d.html</link>
-            <guid>2493735</guid>
-            <pubDate>Mon, 17 Jan 2022 16:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电厂煤炭库存充足，春节用电有保障】据了解，我国每年开采的煤炭资源中60%用于发电领域，12月和1月是电煤消耗阶段，电厂存煤会逐步下降。但去冬今春供暖季却明显不同，自去年12月7日以来，全国统调电厂存煤持续保持在1.6亿吨以上。1月12日，电煤库存超过1.62亿吨，可用21天，较去年同期高4000万吨，为电力和供热提供了有力保障。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5791952.d.html</link>
-            <guid>2493732</guid>
-            <pubDate>Mon, 17 Jan 2022 16:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员：胡塞武装是阿布扎比袭击的幕后黑手。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyamrmz5790882.d.html</link>
-            <guid>2493729</guid>
-            <pubDate>Mon, 17 Jan 2022 16:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰卫生部长：感染奥密克戎变异株的人数比例正在增加，周二新增病例数可能超过2万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyakumy0965328.d.html</link>
-            <guid>2493728</guid>
-            <pubDate>Mon, 17 Jan 2022 16:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据市场研究机构IHS MARKIT，乌克兰5年期信贷违约掉期较上周五上涨76个基点，收于918个基点，俄罗斯5年期信贷违约掉期上涨34个基点，收于215个基点，均为2020年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-18/detail-ikyakumy0965212.d.html</link>
-            <guid>2493727</guid>
-            <pubDate>Mon, 17 Jan 2022 16:17:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
