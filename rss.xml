@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 19 Jan 2022 18:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 19:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[西班牙国家石油公司：石油泄漏后，正在采取措施修复秘鲁海岸。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6255473.d.html</link>
+            <guid>2495953</guid>
+            <pubDate>Wed, 19 Jan 2022 18:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登同意与国会密切合作应对乌克兰问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1429473.d.html</link>
+            <guid>2495951</guid>
+            <pubDate>Wed, 19 Jan 2022 18:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[媒体消息：欧盟高级外交官邀请美国国务卿参加1月24日外交事务委员会关于俄罗斯、乌克兰的讨论。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1428289.d.html</link>
