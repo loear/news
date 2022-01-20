@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 20 Jan 2022 16:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 17:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据消息人士：高盛(GS.N)2021年投资银行家奖金总额增长了40-50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyakumy1650286.d.html</link>
+            <guid>2497764</guid>
+            <pubDate>Thu, 20 Jan 2022 17:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大宗商品分析公司Kpler：石油保持上涨，尽管EIA报告显示库存增加】WTI原油期货继续走高，站上88美元/桶，刷新2014年以来新高。尽管美国能源信息署（EIA）每周报告显示，美国原油库存略微增加，而汽油需求疲软。Kpler公司的马特·史密斯表示：“美国原油库存8周以来首次增加，炼油厂产量降至1545万桶/日，为自去年11月中旬以来的最低水平，同时进口强劲反弹。汽油库存又一次大幅增加，在过去的八周内增加了3500万桶，增幅为17%。馏分油库存连续五周下降。美国石油市场仍接近平衡。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyakumy1649620.d.html</link>
+            <guid>2497762</guid>
+            <pubDate>Thu, 20 Jan 2022 17:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌公司正在打造一款AR头戴设备。（The Verge）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyamrmz6474610.d.html</link>
+            <guid>2497756</guid>
+            <pubDate>Thu, 20 Jan 2022 17:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据汽车新闻网站Electrek：特斯拉申请了一个新商标来销售自己的音频设备，比如耳机等等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyamrmz6474144.d.html</link>
+            <guid>2497754</guid>
+            <pubDate>Thu, 20 Jan 2022 17:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX30指数1月20日（周四）收盘上涨100.59点，涨幅0.64%，报15910.31点；英国富时100指数1月20日（周四）收盘下跌7.05点，跌幅0.09%，报7582.61点；法国CAC40指数1月20日（周四）收盘上涨21.18点，涨幅0.30%，报7194.16点；欧洲斯托克50指数1月20日（周四）收盘上涨31.57点，涨幅0.74%，报4299.85点；西班牙IBEX35指数1月20日（周四）收盘上涨40.35点，涨幅0.46%，报8815.25点；意大利富时MIB指数1月20日（周四）收盘上涨189.15点，涨幅0.69%，报27560.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyamrmz6472785.d.html</link>
+            <guid>2497748</guid>
+            <pubDate>Thu, 20 Jan 2022 16:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百亿元级私募去年最高收益率近80%，今年开年偏爱中小盘股】 2021年，虽然A股市场波动加大，但证券类私募仍取得不错的战绩。一方面，私募市场管理资产规模正式迈上6万亿元关口，百亿元级阵营再度扩容；另一方面，私募赚钱能力依然明显，在百亿元级私募中，全年最高收益率近80%。进入2022年以来，虽然多数私募基金的净值遭遇回撤，但私募产品的备案数量仍在增长。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyakumy1646764.d.html</link>
+            <guid>2497746</guid>
+            <pubDate>Thu, 20 Jan 2022 16:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院发表了一份声明，其中列举了“俄罗斯撒谎的例子”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyamrmz6472236.d.html</link>
+            <guid>2497743</guid>
+            <pubDate>Thu, 20 Jan 2022 16:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国方面表示，北约从未承诺不接纳新成员。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-21/detail-ikyakumy1646386.d.html</link>
@@ -220,82 +262,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1639159.d.html</link>
             <guid>2497665</guid>
             <pubDate>Thu, 20 Jan 2022 15:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟议会就针对美国科技巨头的新规提案达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6464263.d.html</link>
-            <guid>2497661</guid>
-            <pubDate>Thu, 20 Jan 2022 14:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国三大股指涨幅均扩大至1%，道指涨约350点，纳指涨1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6464218.d.html</link>
-            <guid>2497659</guid>
-            <pubDate>Thu, 20 Jan 2022 14:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛、花旗等银行要求伦敦员工重返办公室】高盛按照英国政府周三的声明要求员工返回办公室。花旗也已向伦敦员工发送电邮，要求他们至少一周前往办公室三天。另外，富达国际CEO Anne Richards和渣打集团董事会主席Jose Vinals周四表示，鼓励英国员工返回办公室。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1638169.d.html</link>
-            <guid>2497656</guid>
-            <pubDate>Thu, 20 Jan 2022 14:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，卡尔-伊坎拥有国际香料香精公司(International Flavors & Fragrances,IFF) 4%的股权。]]></title>
-            <guid>2497655</guid>
-            <pubDate>Thu, 20 Jan 2022 14:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中概股周四美股盘初普遍上涨】满帮涨11.9%，森淼涨9.9%，趣头条涨8.7%，达达涨8.3%，携程涨7.6%，人人网和知乎涨约7.0%，360数科、京东、涂鸦智能、贝壳涨超6.0%，腾讯ADR涨5.9%，B站、斗鱼、拼多多涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6463273.d.html</link>
-            <guid>2497653</guid>
-            <pubDate>Thu, 20 Jan 2022 14:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中科飞测科创板IPO进入“已问询”状态】中科飞测是一家国内领先的高端半导体质量控制设备公司，从公布的招股书中可以看到，公司持续高研发投入，维持相对稳健的资产状况，并获得四大巨头的战略持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1637423.d.html</link>
-            <guid>2497652</guid>
-            <pubDate>Thu, 20 Jan 2022 14:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车板块普涨，蔚来汽车(NIO.N)涨近5%，法拉第未来(FFIE.O)涨4.77%，Lucid Group(LCID.O)涨4.53%，理想汽车(LI.O)涨3.23%，Rivian(RIVN.O)涨3.17%，小鹏汽车(XPEV.N)涨2.53%，特斯拉(TSLA.O)涨2.4%。]]></title>
-            <guid>2497651</guid>
-            <pubDate>Thu, 20 Jan 2022 14:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信通过首批适老化及无障碍水平评测】“微信派”微信公众号1月20日消息，今天，工业和信息化部“互联网应用适老化及无障碍改造专项行动”，公布了首批通过适老化及无障碍水平评测的200多家网站和APP。其中，微信及微信支付（内置于微信APP）均首批通过评测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6462241.d.html</link>
-            <guid>2497647</guid>
-            <pubDate>Thu, 20 Jan 2022 14:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨幅盘初超过200点，成分股Travelers Companies Inc.涨超3.2%领跑，微软、Salesforce.com、联合健康至多涨1.7%，苹果涨超0.7%，沃尔玛则跌超0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1636481.d.html</link>
-            <guid>2497646</guid>
-            <pubDate>Thu, 20 Jan 2022 14:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股盘初，网络股指数ETF涨超1.3%，全球航空业ETF涨超1%，科技行业ETF涨约1%，能源业ETF跌超0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6461930.d.html</link>
-            <guid>2497645</guid>
-            <pubDate>Thu, 20 Jan 2022 14:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞幸咖啡美股粉单市场（LKNCY）美股盘初涨0.8%，媒体报道称，该公司考虑重回纳斯达克上市，官方回应称报道不实。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1636128.d.html</link>
-            <guid>2497644</guid>
-            <pubDate>Thu, 20 Jan 2022 14:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国铝业（AA）美股盘初涨4.13%，该公司四季度营收创2018年第四季度以来新高，调整后净利润增至4.75亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyamrmz6461749.d.html</link>
-            <guid>2497643</guid>
-            <pubDate>Thu, 20 Jan 2022 14:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广深房贷利率降了，额度充裕，有经理放话：今天抵押，明天就放款】走访深圳多家银行网点了解到，已经有部分国有大行抢先一步，按照最新利率标准执行，下调了5个基点。目前，国有大行深圳分支机构首套房贷利率为4.95%-5.1%，而不少股份行则表示“尚未收到房贷利率下调的通知”，目前深圳不少股份行房贷利率在4.9%-4.75%之间。与去年额度收紧相比，去年中下旬监管多次发声后，叠加“宽信用”政策环境，目前广深地区各家银行额度充裕，仅需要半个月到一个月就能完成放款。甚至有某国有大行个贷经理表示：“只要今天完成住房抵押，明天就可放款。”不过，广州一家股份行个贷人士提醒：“上半年，银行额度普遍都会比较宽松，市场二手房的交易量也会有所回升，但下半年额度紧张的情况也会再度出现，毕竟，‘两条红线’等限制条件依旧存在，还有今年新房市场供应充足等多种因素影响。”（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-20/detail-ikyakumy1635953.d.html</link>
-            <guid>2497642</guid>
-            <pubDate>Thu, 20 Jan 2022 14:30:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
