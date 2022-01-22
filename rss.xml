@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Jan 2022 20:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 21:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【科创板首家ST公司是个案？大客户依赖之殇 恒誉环保命悬“一单”？】在开市约2年半时间后，科创板出现首家即将被ST的公司。1月21日晚间，恒誉环保发布业绩预亏公告，根据相关规定，公司或将面临退市风险。值得注意的是，恒誉环保受大客户影响较大。资深投行人士王骥跃分析称，恒誉环保亏损主因是单个定单金额很大，“多一单少一单就是营收能否过亿的差距”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2032299.d.html</link>
+            <guid>2500842</guid>
+            <pubDate>Sat, 22 Jan 2022 21:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【碳排放统一测算“尺子”】在广东省十三届人大五次会议上，碳达峰、碳中和成为热议词。不少深圳团的省人大代表建言，呼吁广东率先建立统一规范的碳排放标准计量体系，促进新型储能产业发展等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6858624.d.html</link>
+            <guid>2500833</guid>
+            <pubDate>Sat, 22 Jan 2022 21:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国基民盟：默克尔无意担任该党名誉主席】当地时间22日，德国最大在野党基督教民主联盟（基民盟）表示，前联邦总理、前基民盟主席默克尔无意担任基民盟名誉主席。默克尔认为，“这样的职位是过去的传统，现在在联邦层面上并不存在。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2030686.d.html</link>
+            <guid>2500809</guid>
+            <pubDate>Sat, 22 Jan 2022 20:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【魅族将“卖身”吉利？市场份额仅剩0.1% 能否迎来新生？】据报道，吉利集团旗下手机公司“星纪时代”正与手机厂商魅族接触洽谈收购事宜，目前处于尽职调查阶段。据BCI公布的数据，2020年12月28日至2021年1月31日，魅族的市场份额仅剩0.1%。如今若此次洽购属实，表明魅族复活面临困境，并期待迎来“新生”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6856914.d.html</link>
+            <guid>2500791</guid>
+            <pubDate>Sat, 22 Jan 2022 20:24:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【结束调整期 北汽蓝谷欲靠“技术”翻身？】由于北汽蓝谷之前一直处于战略蛰伏期，销量下滑则成为了被业内质疑的重要问题。数据显示，新能源汽车2021年销量已达352.1万辆，同比增长1.6倍，市场占有率达到 13.4%，高于上年8个百分点。可以说，新能源汽车发展已走入全新拐点，在这个时刻，北汽蓝谷能否打破桎梏冲出重围，尤为关键。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2029752.d.html</link>
@@ -360,18 +384,6 @@
             <title><![CDATA[北京：大兴区对病例租住的祥龙大院实行“人不出区、严禁聚集”措施。（央视新闻）]]></title>
             <guid>2500377</guid>
             <pubDate>Sat, 22 Jan 2022 08:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：大兴区确诊病例初步判定密切接触者8人、次密接者6人，均已采取集中隔离医学观察措施，落实人员及环境核酸检测，目前结果均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6793453.d.html</link>
-            <guid>2500375</guid>
-            <pubDate>Sat, 22 Jan 2022 08:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃达丰据悉近期已研究收购英国电信运营商Three UK。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6792046.d.html</link>
-            <guid>2500372</guid>
-            <pubDate>Sat, 22 Jan 2022 08:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
