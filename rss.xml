@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Jan 2022 04:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 05:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【CINNO：今年全球折叠屏智能手机销量有望达1569万部 同比增长107%】CINNOResearch发布报告称，预计2022年全球市场折叠屏智能手机销量有望达1569万部，同比增长107%。其中，三星仍将占据主导地位，市场份额预估超七成。报告指出，未来随着折叠机成本的持续下降、技术的革新、产品的逐渐丰富以及软件不断升级，市场规模将持续扩大，2025年全球折叠屏智能手机销量有望达5,740万部，年均复合增长率CAGR达66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6763401.d.html</link>
+            <guid>2500314</guid>
+            <pubDate>Sat, 22 Jan 2022 05:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛地区发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6762582.d.html</link>
+            <guid>2500313</guid>
+            <pubDate>Sat, 22 Jan 2022 05:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民币成全球第四大活跃货币】国家外汇管理局最新数据显示，2018年至2021年间，外资累计净增持境内债券和股票超过7000亿美元，年均增速34%。与此同时，人民币全球活跃度再上新台阶。环球银行金融电信协会（SWIFT）最新数据显示，2021年12月，在基于金额统计的全球支付货币排名中，人民币在国际支付中的份额占比升至第四。这也是自2015年8月以来，人民币国际支付全球排名首次超越日元，跻身全球前四大活跃货币。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6761711.d.html</link>
+            <guid>2500312</guid>
+            <pubDate>Sat, 22 Jan 2022 05:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【1月23日起宁波恢复往返北京、深圳航班】据宁波栎社国际机场发布消息，1月23日起，宁波往返北京、深圳的航班将恢复运行。机场提醒广大旅客，当前乘飞机进（返）京人员，须持48小时内核酸阴性证明和“北京健康宝”绿码。从2022年1月22日零时起至3月底，进（返）京人员在抵京后72小时内需进行一次核酸检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6760599.d.html</link>
+            <guid>2500311</guid>
+            <pubDate>Sat, 22 Jan 2022 04:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白酒行业分化严重 茅台非标产品价格飙升】据证券时报，近段时间茅台频频出手，非标新品密集发布，市场出现量升价涨之势。据悉，茅台高端新品珍品茅台酒仅发布不到一周就涨价，由原先的4499元/瓶上涨至4599元/瓶。一位成都白酒经销商表示，目前很多经销商还没有拿到珍品和虎茅，因为珍品是新产品，首批量更是稀少，有人在市场喊价6000元起。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyakumy1934067.d.html</link>
+            <guid>2500310</guid>
+            <pubDate>Sat, 22 Jan 2022 04:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今年首次沪牌拍卖结果公布，中标率5.9%】1月沪牌拍卖结果刚刚出炉：个人额度投放10300辆，个人在用车有效额度委托拍卖1550辆，合计拍卖总数11850辆，参加拍卖人数201873人，比上月减少了2990人，中标率5.9%。最低成交价93100元，平均成交价为93190元，比上个月的91021元增加了2169元。最低成交价的截止时间是11:29:56第2118位。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyakumy1930614.d.html</link>
@@ -318,18 +348,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6708505.d.html</link>
             <guid>2499745</guid>
             <pubDate>Fri, 21 Jan 2022 23:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国调查奥密克戎毒株新变种 已发现53例感染病例】当地时间1月21日，英国卫生安全局表示，正在调查奥密克戎毒株新变种BA.2亚型毒株在英国的传播情况，目前感染该毒株的病例所占比例还比较低。英国卫生安全局表示，会对该变种毒株进行进一步的分析研究。截至1月10日，英国发现了53例感染BA.2亚型毒株病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyamrmz6705804.d.html</link>
-            <guid>2499738</guid>
-            <pubDate>Fri, 21 Jan 2022 22:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南新增境外输入确诊病例1例】1月21日0-24时，全省新增确诊病例1例，为境外输入（缅甸1例）。（云南发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-22/detail-ikyakumy1879222.d.html</link>
-            <guid>2499734</guid>
-            <pubDate>Fri, 21 Jan 2022 22:49:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
