@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Jan 2022 20:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 21:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[亚美尼亚总统萨尔基相23日在国家元首官方网站发表声明，宣布递交辞呈。（中新网）]]></title>
+            <guid>2501943</guid>
+            <pubDate>Sun, 23 Jan 2022 20:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特债务管理中心表示，2022年全年，沙特政府可能会考虑通过国内或国际可用渠道开展额外的融资活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyakumy2185202.d.html</link>
+            <guid>2501941</guid>
+            <pubDate>Sun, 23 Jan 2022 20:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯外交部发言人：围绕乌克兰局势西方国家在策划发起一系列严重挑衅。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyamrmz7011117.d.html</link>
@@ -289,36 +300,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6952941.d.html</link>
             <guid>2501472</guid>
             <pubDate>Sun, 23 Jan 2022 09:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【珍宝岛：小儿热速清糖浆获批国家中药二级保护品种】珍宝岛公告，近日，国家药监局批准公司生产的小儿热速清糖浆为首家中药二级保护品种，保护期限自公告日期七年。小儿热速清糖浆临床用于小儿外感风热所致的感冒，症见高热、头痛、咽喉肿痛、鼻塞流涕、咳嗽、大便干结的治疗，对小儿上呼吸道感染引起的一系列症状疗效显著。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2124936.d.html</link>
-            <guid>2501470</guid>
-            <pubDate>Sun, 23 Jan 2022 08:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市丰台区全域为防范区】北京丰台：丰台区全域为防范区，暂停聚集性活动。轨道交通和地面公交满载率调整为75％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2124646.d.html</link>
-            <guid>2501469</guid>
-            <pubDate>Sun, 23 Jan 2022 08:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证通电子：2021年净利同比预增100%-150%】证通电子披露业绩预告，预计2021年实现净利润3633.34万元-4541.68万元，同比增长100%-150%。2021年公司IDC及云计算业务稳健增长，IDC订单效益加速释放，带动了公司整体盈利能力提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2123707.d.html</link>
-            <guid>2501468</guid>
-            <pubDate>Sun, 23 Jan 2022 08:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗宣布恢复联合国大会投票权】据伊朗伊斯兰共和国通讯社23日报道，伊朗常驻联合国代表马吉德·塔赫特-拉万希22日宣布，伊朗已恢复此前因未缴纳联合国会费而失去的联合国大会投票权。据报道，此次伊朗缴纳的联合国会费约1800万美元，是韩国用冻结在该国的伊朗资金代为缴纳。塔赫特-拉万希此前表示，由于美国对伊朗实施单边制裁，伊朗连续第二年难以正常支付联合国会费。美国对伊朗施加的限制不仅阻碍了伊朗获得药品和医疗设备等人道主义物资，也阻碍了联合国的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2122773.d.html</link>
-            <guid>2501467</guid>
-            <pubDate>Sun, 23 Jan 2022 08:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京丰台区：计划于今日完成全员核酸检测。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6950066.d.html</link>
-            <guid>2501466</guid>
-            <pubDate>Sun, 23 Jan 2022 08:42:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
