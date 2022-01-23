@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Jan 2022 12:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 13:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多家银行涉足金融元宇宙 数字员工、数字藏品存噱头嫌疑】记者梳理发现，目前包括浙商银行、江南农商银行、百信银行、微众银行等商业银行已经出现布局“元宇宙”的动作。业内人士表示，作为下一代互联网，元宇宙很可能影响银行与客户的交互方式，虚拟数字人、数字藏品将成为各银行业务创新的关键因素。也有分析人士指出，从严格意义上来讲，当下银行业参与元宇宙，不排除有“噱头”的因素。目前元宇宙仍是“雏形中的雏形”，无论是应用还是技术都处于初级阶段，银行业探索元宇宙仍旧比较困难。（华夏时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6982885.d.html</link>
+            <guid>2501529</guid>
+            <pubDate>Sun, 23 Jan 2022 13:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：01月23日20时24分在贵州毕节市纳雍县附近发生3.2级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6978613.d.html</link>
@@ -331,18 +337,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2108160.d.html</link>
             <guid>2501423</guid>
             <pubDate>Sun, 23 Jan 2022 06:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【农业农村部：雨雪天气对蔬菜生产供应影响总体有限】农业农村部最新调度表明，此次雨雪天气对蔬菜等经济作物生产造成阶段性不利影响。但由于雨雪强度较小，没有造成蔬菜明显受灾，对蔬菜生产供应影响总体有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6932931.d.html</link>
-            <guid>2501420</guid>
-            <pubDate>Sun, 23 Jan 2022 06:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：菲律宾群岛区域发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6932092.d.html</link>
-            <guid>2501418</guid>
-            <pubDate>Sun, 23 Jan 2022 06:28:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
