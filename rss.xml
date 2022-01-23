@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Jan 2022 17:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 18:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【经参头版：多地重大项目集中开工 “稳投资”快马加鞭】今年以来，多地重大项目集中开工，投资规模力度明显加大。河南、安徽等地提出了10%及以上的投资增长目标。专家表示，2022年固定资产投资仍会成为经济平稳运行的“压舱石”，其中基建投资和制造业投资将成为主要推动力，共同支撑固定资产投资平稳增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyamrmz7002760.d.html</link>
+            <guid>2501755</guid>
+            <pubDate>Sun, 23 Jan 2022 17:31:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【资本市场高水平双向开放有序推进 年内北向资金累计净流入428亿元】回顾2021年，资本市场对外开放成效凸显，外资保持稳步流入。据证监会官网信息，去年外资净流入A股市场3846亿元，为过去五年最高水平。进入2022年，外资热情不减。数据显示，截至1月23日，年内北向资金累计净买入金额达428.46亿元。其中，沪股通累计净买入340.54亿元，深股通累计净买入87.92亿元。业内专家认为，高水平双向开放意味着我国资本市场走向成熟。监管部门出台的一系列举措，为高水平双向开放提供了方向性指引，保障了其稳定有序进行。此外，开放带来的竞争将进一步完善监管机制，同时也应注重防范风险。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyakumy2173154.d.html</link>
@@ -314,18 +320,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2119418.d.html</link>
             <guid>2501451</guid>
             <pubDate>Sun, 23 Jan 2022 08:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快克股份：2021年净利同比预增47%-63%】快克股份披露业绩预告，预计2021年实现净利润2.6亿元–2.88亿元，同比增长46.74%到62.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyamrmz6946034.d.html</link>
-            <guid>2501448</guid>
-            <pubDate>Sun, 23 Jan 2022 08:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【长春高新：集采对公司影响和影响程度尚未确定】长春高新发布股价异动公告，广东省药品集中带量采购尚未正式开始招投标程序，对于公司业绩具体影响还将取决于金赛药业实际参与投标情况、中选结果和中选价格等，本次集采对公司影响和影响程度尚未确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2117688.d.html</link>
-            <guid>2501445</guid>
-            <pubDate>Sun, 23 Jan 2022 08:07:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
