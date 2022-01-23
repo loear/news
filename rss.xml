@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Jan 2022 16:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【资本市场高水平双向开放有序推进 年内北向资金累计净流入428亿元】回顾2021年，资本市场对外开放成效凸显，外资保持稳步流入。据证监会官网信息，去年外资净流入A股市场3846亿元，为过去五年最高水平。进入2022年，外资热情不减。数据显示，截至1月23日，年内北向资金累计净买入金额达428.46亿元。其中，沪股通累计净买入340.54亿元，深股通累计净买入87.92亿元。业内专家认为，高水平双向开放意味着我国资本市场走向成熟。监管部门出台的一系列举措，为高水平双向开放提供了方向性指引，保障了其稳定有序进行。此外，开放带来的竞争将进一步完善监管机制，同时也应注重防范风险。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyakumy2173154.d.html</link>
+            <guid>2501662</guid>
+            <pubDate>Sun, 23 Jan 2022 16:56:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【欧洲渡轮运营商：脱欧令英国威尔士港口货运量大幅缩减】当地时间23日，欧洲渡轮运营商Stena Line表示，英国脱欧后，威尔士地区的港口货运量大幅缩减，其中霍利黑德（Holyhead）和菲什加德（Fishguard）港口的货运量在2021年均下降30%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-24/detail-ikyamrmz6998267.d.html</link>
@@ -320,18 +326,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2117688.d.html</link>
             <guid>2501445</guid>
             <pubDate>Sun, 23 Jan 2022 08:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[目前济南市已完成相关场所和公交车辆环境标本采集和消毒工作，检测结果全部阴性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2116401.d.html</link>
-            <guid>2501443</guid>
-            <pubDate>Sun, 23 Jan 2022 07:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[济南两例病例均为省外确诊病例关联病例，传播链清晰，初步测序结果为德尔塔变异株。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-23/detail-ikyakumy2116213.d.html</link>
-            <guid>2501442</guid>
-            <pubDate>Sun, 23 Jan 2022 07:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
