@@ -4,317 +4,419 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  【国家市场监管总局：全国市场主体突破1.5亿户 其中个体工商户突破1亿户】国家市场监督管理总局副局长蒲淳27日在国新办发布会上表示，目前，全国市场主体已突破1.5亿户，其中个体工商户突破1亿户，亿万市场主体的磅礴力量推动了我国经济总量迈上百万亿元大关、国家财力和社会财富稳定增长，承载7亿多人的就业基本盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2885137.d.html</link>
+            <guid>2508525</guid>
+            <pubDate>Thu, 27 Jan 2022 02:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港金管局：将密切关注市场动态；香港货币市场继续保持平稳运行。]]></title>
+            <guid>2508509</guid>
+            <pubDate>Thu, 27 Jan 2022 02:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北向资金净卖额达60亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2884034.d.html</link>
+            <guid>2508508</guid>
+            <pubDate>Thu, 27 Jan 2022 02:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深300指数日内跌幅达1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7713201.d.html</link>
+            <guid>2508507</guid>
+            <pubDate>Thu, 27 Jan 2022 02:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场监管总局：加强和改进反垄断执法，防止资本无序扩张】国家市场监督管理总局副局长蒲淳表示，加强公平公正监管上持续发力，营造竞争有序市场环境。发挥信用监管基础性作用，丰富信用监管工具箱，参与事前信用培育、规范事中监管行为、强化事后失信惩戒。大力推进“双随机、一公开”监管和企业信用风险分类管理，强化重点领域信用监管，提高监管覆盖面和有效性。着力强化竞争政策基础地位，加强和改进反垄断执法，防止资本无序扩张。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2882663.d.html</link>
+            <guid>2508476</guid>
+            <pubDate>Thu, 27 Jan 2022 02:24:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股互联网医疗股走低，麦迪卫康(02159.HK)跌5.4%，平安好医生(01833.HK)跌超4%，众安在线(06060.HK)跌2.88%。]]></title>
+            <guid>2508462</guid>
+            <pubDate>Thu, 27 Jan 2022 02:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股烟草板块走低，华宝国际跌超5%，思摩尔国际跌超3%，比亚迪电子、中烟香港、中国波顿跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2881811.d.html</link>
+            <guid>2508459</guid>
+            <pubDate>Thu, 27 Jan 2022 02:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格力集团成立兴格管理咨询公司 经营范围含房地产经纪】格力集团日前成立珠海兴格管理咨询有限公司，法定代表人为闵明，注册资本2000万元人民币，经营范围包含：工程管理服务；企业管理咨询；工程造价咨询业务；招投标代理服务；信息系统集成服务；政府采购代理服务；采购代理服务；软件开发；软件销售；计算机软硬件及辅助设备批发；计算机软硬件及辅助设备零售；软件外包服务；房地产经纪；房地产咨询；信息技术咨询服务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2881056.d.html</link>
+            <guid>2508457</guid>
+            <pubDate>Thu, 27 Jan 2022 02:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  元宇宙、传媒股持续走低，岭南股份、安妮股份、视觉中国跌停，果麦文化、新文化、东方国信、正元智慧跌超10%，首都在线、风语筑等跌超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2880176.d.html</link>
+            <guid>2508453</guid>
+            <pubDate>Thu, 27 Jan 2022 02:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  时代中国控股日内重挫30%，报2.87港元，公司拟先旧后新折价17.07%配售1.177亿股，净筹3.94亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2879979.d.html</link>
+            <guid>2508452</guid>
+            <pubDate>Thu, 27 Jan 2022 02:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谱尼测试：北京、上海、深圳和苏州四家公司化妆品在手订单充足】谱尼测试在机构调研时表示，公司上市之后向毛利率更高、人均产值更高的领域延伸，其中CRO/CDMO业务作为公司新发力重点板块。此外，公司表示，现在北京、上海、深圳和苏州四家公司化妆品在手订单比较充足。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2879684.d.html</link>
+            <guid>2508451</guid>
+            <pubDate>Thu, 27 Jan 2022 02:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深成指跌幅扩大至1%，上证指数跌0.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7708500.d.html</link>
+            <guid>2508450</guid>
+            <pubDate>Thu, 27 Jan 2022 02:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  指数走弱，创业板指下挫跌逾1%，沪指跌0.55%，深成指跌0.81%，两市近4000股处于下跌状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2878952.d.html</link>
+            <guid>2508449</guid>
+            <pubDate>Thu, 27 Jan 2022 02:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【传媒板块大幅走低 多股跌超9%】果麦文化、掌趣科技、新文化、安妮股份、视觉中国、浙数文化、读客文化、引力传媒等多股跌超9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2878231.d.html</link>
+            <guid>2508435</guid>
+            <pubDate>Thu, 27 Jan 2022 02:06:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股手游股齐挫，哔哩哔哩跌超9%，心动公司跌近8%，网易跌超5%，火岩控股、创梦天地跌超4%，腾讯控股跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2877805.d.html</link>
+            <guid>2508428</guid>
+            <pubDate>Thu, 27 Jan 2022 02:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股远东酒店实业今日复牌涨超100%】港股远东酒店实业今日复牌涨超100%，报0.58港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2877746.d.html</link>
+            <guid>2508423</guid>
+            <pubDate>Thu, 27 Jan 2022 02:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾第四季度GDP同比增长7.7% ，预估为6.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7706291.d.html</link>
+            <guid>2508403</guid>
+            <pubDate>Thu, 27 Jan 2022 02:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【何雄任郑州市副市长、代理市长】今日上午，郑州市十五届人大常委会第三十一次会议举行，决定任命何雄为郑州市人民政府副市长、代理市长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7706206.d.html</link>
+            <guid>2508402</guid>
+            <pubDate>Thu, 27 Jan 2022 02:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日新股申购提醒】粤海饲料，申购代码001313，发行价5.38元，申购上限3.00万股，顶格申购需配市值30.00万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7705992.d.html</link>
+            <guid>2508400</guid>
+            <pubDate>Thu, 27 Jan 2022 02:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【892股2021年全年业绩预增】统计显示，截至1月27日，已经有1431家上市公司公布了2021年度业绩预告。业绩预告类型显示，预增公司892家、预盈135家；业绩预降、预亏公司分别有162家、161家。业绩预喜公司中，以预计净利润增幅中值统计，共有515家公司净利润增幅超100%；净利润增幅在50%~100%之间的有336家。具体到个股看，和邦生物预计净利润增幅最高。公司预计全年实现净利润增幅中值为7593.73%；远兴能源、天际股份预计全年净利润同比增幅中值分别为7169.15%、6825.5%。（证券时报网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2876542.d.html</link>
+            <guid>2508398</guid>
+            <pubDate>Thu, 27 Jan 2022 02:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股教育板块持续下挫，新东方在线跌超10%，思考乐教育跌超6%，新东方跌4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2876412.d.html</link>
+            <guid>2508397</guid>
+            <pubDate>Thu, 27 Jan 2022 01:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【动漫堂股东变更：B站退出，腾讯加码】天眼查App显示，1月26日，天津动漫堂艺术发展有限公司发生工商变更，上海幻电信息科技有限公司等多位股东退出；新增腾讯关联公司广西腾讯创业投资有限公司为股东，持股33%。此前，该公司股东已包括腾讯关联公司林芝利创信息技术有限公司。天津动漫堂艺术发展有限公司成立于2013年6月，法定代表人为王鹏，注册资本约1957万人民币，经营范围包括广播电视节目制作、发行；电视剧、电影摄制及发行；动漫产品设计、制作及技术咨询服务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2875897.d.html</link>
+            <guid>2508376</guid>
+            <pubDate>Thu, 27 Jan 2022 01:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【张一鸣再退出多家字节关联公司职务】天眼查App显示，近日，张一鸣退出北京字跳网络技术有限公司、北京字节跳动网络技术有限公司、北京石贝科技有限公司法定代表人，以及北京石贝科技有限公司经理、执行董事职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2875843.d.html</link>
+            <guid>2508371</guid>
+            <pubDate>Thu, 27 Jan 2022 01:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股创新奇智今日上市破发】港股创新奇智今日上市破发跌超5％，发行定价26.3港元，昨日暗盘涨跌不一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2875533.d.html</link>
+            <guid>2508363</guid>
+            <pubDate>Thu, 27 Jan 2022 01:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国证监会将提出措施 大幅提高对私募股权投资基金等监管力度】据报道，美国联邦监管机构将提出措施，大幅提高对私募股权投资基金和部分对冲基金的监管力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7704208.d.html</link>
+            <guid>2508355</guid>
+            <pubDate>Thu, 27 Jan 2022 01:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股物业管理板块走低，融创服务跌近7%，世茂服务跌超6%，恒大物业跌超5%，碧桂园服务、绿城服务、旭辉永升服务跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7703479.d.html</link>
+            <guid>2508350</guid>
+            <pubDate>Thu, 27 Jan 2022 01:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数日内跌幅达2.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2873814.d.html</link>
+            <guid>2508338</guid>
+            <pubDate>Thu, 27 Jan 2022 01:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股中国恒大跌6.78%，恒腾网络跌4.4%，恒大汽车跌3.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7702721.d.html</link>
+            <guid>2508334</guid>
+            <pubDate>Thu, 27 Jan 2022 01:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至目前，北向资金净流出超20亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2873678.d.html</link>
+            <guid>2508332</guid>
+            <pubDate>Thu, 27 Jan 2022 01:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股内房股齐挫，时代中国控股(01233.HK)跌超20%，世茂集团(00813.HK)、融创中国(01918.HK)、合景泰富集团(01813.HK)跌超5%，雅居乐集团(03383.HK)、富力地产(02777.HK)跌4.46%，远洋集团(03377.HK)、宝龙地产(01238.HK)跌4.3%，碧桂园(02007.HK)跌近4%，佳兆业集团(01638.HK)、中骏集团控股(01966.HK)跌超3%。]]></title>
+            <guid>2508324</guid>
+            <pubDate>Thu, 27 Jan 2022 01:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX 200指数日内跌幅达2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2873200.d.html</link>
+            <guid>2508321</guid>
+            <pubDate>Thu, 27 Jan 2022 01:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股教育板块持续走低，民生教育一度跌近18%，中教控股跌超17%，希望教育跌超6%，新东方跌近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7702125.d.html</link>
+            <guid>2508318</guid>
+            <pubDate>Thu, 27 Jan 2022 01:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[煤炭概念持续走强，晋控煤业涨超4%，盘江股份、平煤股份、天原股份跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2872747.d.html</link>
+            <guid>2508314</guid>
+            <pubDate>Thu, 27 Jan 2022 01:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米(01810.HK)投资至盛半导体 后者经营范围含集成电路制造】企查查APP显示，1月26日，苏州至盛半导体科技有限公司发生工商变更，新增小米关联公司海南极目创业投资有限公司为股东，同时注册资本由340万元增至378.24万。至盛半导体成立于2021年，经营范围包含：集成电路制造；集成电路芯片及产品制造；集成电路设计；集成电路芯片设计及服务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7701380.d.html</link>
+            <guid>2508302</guid>
+            <pubDate>Thu, 27 Jan 2022 01:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数从7月高点下跌20%，势将进入熊市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2872324.d.html</link>
+            <guid>2508301</guid>
+            <pubDate>Thu, 27 Jan 2022 01:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  数字经济概念股开盘走低，城地香江、浪潮软件、亚联发展跌停，中科信息跌超10%，远望谷、东方国信等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2871866.d.html</link>
+            <guid>2508300</guid>
+            <pubDate>Thu, 27 Jan 2022 01:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股低开低走，恒指跌幅扩大至2%，科技股、医药股、教育股跌幅居前。恒生科技指数跌约3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2871606.d.html</link>
+            <guid>2508292</guid>
+            <pubDate>Thu, 27 Jan 2022 01:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  旅游酒店板块大幅走低，曲江文旅跌停，金陵饭店、云南旅游、西藏旅游、华天酒店、西安旅游等跌超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2871256.d.html</link>
+            <guid>2508290</guid>
+            <pubDate>Thu, 27 Jan 2022 01:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股时代中国控股宣布配股后股价下跌超20％，创下纪录最大跌幅。此前宣布折让配售募资3.94亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2871117.d.html</link>
+            <guid>2508284</guid>
+            <pubDate>Thu, 27 Jan 2022 01:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  龙光集团(03380.HK)跌超13%，此前公告称拟发行19.5亿港元2026年到期股本挂钩证券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7699833.d.html</link>
+            <guid>2508276</guid>
+            <pubDate>Thu, 27 Jan 2022 01:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科创板新股臻镭科技开盘破发。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2870633.d.html</link>
+            <guid>2508272</guid>
+            <pubDate>Thu, 27 Jan 2022 01:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  数字货币概念股开盘领跌，南天信息、证通电子、金财互联跌停，雄帝科技、翠微股份、正元智慧等跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2870484.d.html</link>
+            <guid>2508268</guid>
+            <pubDate>Thu, 27 Jan 2022 01:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家统计局：去年高技术制造业引领作用较为突出】国家统计局工业司高级统计师朱虹指出，2021年，高技术制造业利润较上年增长48.4%，两年平均增长31.4%，增速分别高于规模以上工业平均水平14.1和13.2个百分点，占规模以上工业利润的比重较2020年、2019年分别提高2.1和4.2个百分点，展现较强发展活力。分行业看，医药、电子及通信设备制造业利润增势强劲，较上年分别增长77.9%、44.0%，对高技术制造业利润增长贡献较大；航空航天器及设备、信息化学品制造行业利润增长较快，分别增长76.2%、52.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2870394.d.html</link>
+            <guid>2508265</guid>
+            <pubDate>Thu, 27 Jan 2022 01:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金净流出超10亿元】数据显示，按余额规模口径统计，截至目前北向资金净流出超10亿元，其中沪股通流出超6亿元，深股通流出超4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2870270.d.html</link>
+            <guid>2508263</guid>
+            <pubDate>Thu, 27 Jan 2022 01:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指跌近2%，恒生科技指数跌幅扩大至3%。美团(03690.HK)跌4.5%，腾讯控股(00700.HK)跌2.4%，此前南下资金已连续17日净买入美团，累计约119.6亿港元；连续5日净买入腾讯，累计约47.52亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2870032.d.html</link>
+            <guid>2508258</guid>
+            <pubDate>Thu, 27 Jan 2022 01:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  曲江文旅跌停，云南旅游、长白山、西藏旅游等都跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869973.d.html</link>
+            <guid>2508257</guid>
+            <pubDate>Thu, 27 Jan 2022 01:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[统计局：2021年，全国规模以上工业企业实现利润总额87092.1亿元，比上年增长34.3％，比2019年增长39.8％，两年平均增长18.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7699011.d.html</link>
+            <guid>2508256</guid>
+            <pubDate>Thu, 27 Jan 2022 01:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白酒股开盘走强，中锐股份涨近7%，贵州茅台涨近3%，天虹股份、岩石股份、水井坊跟涨，消息上，国务院发文支持贵州白酒生产基地建设；茅台拟再投41亿元扩产系列酒。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7698982.d.html</link>
+            <guid>2508255</guid>
+            <pubDate>Thu, 27 Jan 2022 01:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国12月规模以上工业企业利润(亿元)：前值 8059.6，公布 7342。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869776.d.html</link>
+            <guid>2508253</guid>
+            <pubDate>Thu, 27 Jan 2022 01:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国12月规模以上工业企业利润年率：前值 9.00%，公布 4.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869623.d.html</link>
+            <guid>2508252</guid>
+            <pubDate>Thu, 27 Jan 2022 01:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国民办教育协会等发布倡议书：规范非学科类校外培训 坚决抵制应试应考培训等行为】今天，中国民办教育协会和68家非学科类校外培训机构，以及北京等各地方民办教育协会联合发布倡议书。倡议所有非学科类校外培训机构积极发挥育人重要功能，成为学校教育有益补充。依法依规开展培训活动，诚信经营杜绝虚假宣传。公开收费范围项目标准，保障资金安全按约退费。坚决抵制应试应考培训，切实促进学生健康成长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869434.d.html</link>
+            <guid>2508244</guid>
+            <pubDate>Thu, 27 Jan 2022 01:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  索尼在日本市场股价一度下跌5.8%，跌至去年10月8日以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869242.d.html</link>
+            <guid>2508242</guid>
+            <pubDate>Thu, 27 Jan 2022 01:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国奥园(03883.HK)高开5.6%，此前出售加拿大一物业，代价合共约人民币10.8亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869211.d.html</link>
+            <guid>2508238</guid>
+            <pubDate>Thu, 27 Jan 2022 01:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家广电总局发文规范电视剧市场 常规剧集正片时长不能少于41分钟】近日，国家广播电视总局发布了《电视剧母版制作规范》，作为中华人民共和国广播电视和网络视听推荐性行业标准，自2022年4月1日起施行。《规范》对电视剧正片、片头片尾以及“前情回顾”“下集预告”等附加内容的时长进行了规范，常规剧集正片时长不少于41分钟。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2869136.d.html</link>
+            <guid>2508233</guid>
+            <pubDate>Thu, 27 Jan 2022 01:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贵州本地股开盘强势，高鸿股份、保利联合、贵广网络涨停开盘，贵州三力、泰永长征、贵州百灵、贵绳股份等涨幅居前，消息上，国务院印发《关于支持贵州在新时代西部大开发上闯新路的意见》。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2868945.d.html</link>
+            <guid>2508226</guid>
+            <pubDate>Thu, 27 Jan 2022 01:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场焦点股证通电子（4板）平开，大数据板块新炬网络（4板）低开1.67%、京蓝科技（4板）平开、深南股份（3天2板）高开1.71%，房地产产业链的阳光股份（2板）高开4.17%、名雕股份（2板）低开1.66%，电子雷管概念壶化股份（2板）低开1.52%，黄金股金一文化（2板）低开7.58%，商汤科技概念股英飞拓（2板）平开，基建板块建研设计（创业板首板）高开3.02%，数字货币板块恒宝股份（3天2板）平开。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7697914.d.html</link>
+            <guid>2508225</guid>
+            <pubDate>Thu, 27 Jan 2022 01:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰豪科技：公司军工装备产业从事有舰载作战辅助系统相关业务 在海军舰艇均有应用】泰豪科技在互动平台表示，公司军工装备产业从事有舰载作战辅助系统相关业务，相关产品在海军舰艇均有应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2868794.d.html</link>
+            <guid>2508224</guid>
+            <pubDate>Thu, 27 Jan 2022 01:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  掌趣科技跳空低开跌8.31%，公司预计2021年亏损10亿元-14亿元，上年同期盈利3.17亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2868619.d.html</link>
+            <guid>2508222</guid>
+            <pubDate>Thu, 27 Jan 2022 01:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：苹果(AAPL.O)即将推出将iPhone变成付费终端的服务，2020年苹果以1亿美元收购了支付初创公司Mobeewave，以建立这项功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7697676.d.html</link>
+            <guid>2508221</guid>
+            <pubDate>Thu, 27 Jan 2022 01:26:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创50指数开盘报1274.63点，跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2868570.d.html</link>
+            <guid>2508220</guid>
+            <pubDate>Thu, 27 Jan 2022 01:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指开盘涨跌不一，沪指涨0.01％，深成指跌0.17％，创业板跌0.35％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2868314.d.html</link>
+            <guid>2508219</guid>
+            <pubDate>Thu, 27 Jan 2022 01:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI亚太指数继续下挫，跌幅1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7697027.d.html</link>
+            <guid>2508205</guid>
+            <pubDate>Thu, 27 Jan 2022 01:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX200指数较去年8月高点下跌10％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7696991.d.html</link>
+            <guid>2508204</guid>
+            <pubDate>Thu, 27 Jan 2022 01:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本东证指数跌幅达1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2867739.d.html</link>
+            <guid>2508200</guid>
+            <pubDate>Thu, 27 Jan 2022 01:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股开盘，恒指低开1.39%，恒生科技指数开跌2.24%；科技股、汽车股普遍低开；时代中国控股(01233.HK)跌近15%，拟先旧后新配售1.177亿股净筹3.94亿港元。]]></title>
+            <guid>2508197</guid>
+            <pubDate>Thu, 27 Jan 2022 01:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数下跌2％，至2654.06点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2866624.d.html</link>
+            <guid>2508189</guid>
+            <pubDate>Thu, 27 Jan 2022 01:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【卧龙电驱：公司订单增速比前几年有明显的提升】卧龙电驱在互动平台表示，公司订单增速比前几年有明显的提升。采埃孚近期也获得了知名的车厂定点，公司也会努力对接。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7695574.d.html</link>
+            <guid>2508187</guid>
+            <pubDate>Thu, 27 Jan 2022 01:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国务院新闻办公室将于2022年1月28日（星期五）发布《2021中国的航天》白皮书，并于当日上午10时举行新闻发布会，请国家航天局副局长吴艳华，新闻发言人许洪亮，探月与航天工程中心主任刘继忠，对地观测与数据中心主任赵坚和国务院新闻办公室新闻发言人出席，介绍白皮书有关情况并答记者问。]]></title>
+            <guid>2508173</guid>
+            <pubDate>Thu, 27 Jan 2022 01:16:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[人民币中间价报6.3382，下调136点，上一交易日中间价报6.3246，在岸人民币上一交易日收报6.3219。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7694983.d.html</link>
             <guid>2508165</guid>
             <pubDate>Thu, 27 Jan 2022 01:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数日内跌幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7694889.d.html</link>
-            <guid>2508160</guid>
-            <pubDate>Thu, 27 Jan 2022 01:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迪普科技成为华为云（鲲鹏）生态合作伙伴】迪普科技官微消息，近日，迪普科技防火墙系统软件（简称：DPtech FW1000软件）通过了“华为云Stack 8.0（鲲鹏）”及“华为云鲲鹏云服务”的双兼容技术认证，获得了KUNPENG COMPATIBLE证书，成为华为云（鲲鹏）生态合作伙伴，将与华为携手为用户提供更具价值的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7694650.d.html</link>
-            <guid>2508152</guid>
-            <pubDate>Thu, 27 Jan 2022 01:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  药明生物(02269.HK)股票通过大宗交易以每股79.665港元成交360万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2865114.d.html</link>
-            <guid>2508144</guid>
-            <pubDate>Thu, 27 Jan 2022 01:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  信义玻璃(00868.HK)股票通过大宗交易以每股21.089港元成交320万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2864837.d.html</link>
-            <guid>2508143</guid>
-            <pubDate>Thu, 27 Jan 2022 01:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股股指期货走低，道指期货跌0.67%，标普500指数期货跌0.6%，纳指期货跌0.56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7693571.d.html</link>
-            <guid>2508141</guid>
-            <pubDate>Thu, 27 Jan 2022 01:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【运达股份与浙江大学共建“智慧能源联合研究中心”】1月25日下午，运达股份与浙江大学在杭州签署战略合作协议，并举行共建“智慧能源联合研究中心”揭牌仪式。中国工程院院士、浙江大学教授孙优贤表示，该中心的成立具有重要意义，有利于双方在产业、技术、人才等多方面的优势互补，能促进双方在智慧能源领域的科技创新和成果转化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2864086.d.html</link>
-            <guid>2508140</guid>
-            <pubDate>Thu, 27 Jan 2022 01:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富时中国A50指数期货盘初跌0.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2862728.d.html</link>
-            <guid>2508137</guid>
-            <pubDate>Thu, 27 Jan 2022 01:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者55例，其中境外输入38例，本土17例（黑龙江11例，其中牡丹江市10例、绥化市1例；新疆3例，均在伊犁哈萨克自治州；兵团2例，均在建设兵团第四师；江西1例，在上饶市）；当日转为确诊病例8例（境外输入6例）；当日解除医学观察41例（境外输入36例）；尚在医学观察的无症状感染者784例（境外输入680例）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2862357.d.html</link>
-            <guid>2508135</guid>
-            <pubDate>Thu, 27 Jan 2022 00:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥海科技：不排除通过研发或投并购布局新能源汽车充电桩等产品】奥海科技在互动平台表示，公司已关注新能源汽车应用领域的市场机会，2021年已并购智新控制35%的股权；如未来条件适合，公司不排除通过研发或投并购布局新能源汽车充电桩等产品，公司会审慎对待有关事宜，后续如有进展，公司将根据相关规定进行信息披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7690038.d.html</link>
-            <guid>2508124</guid>
-            <pubDate>Thu, 27 Jan 2022 00:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金杜、信永中和、中德证券均遭立案调查！华大九天等超40家企业IPO因中介机构问题被暂停，重启需提交复核报告】1月26日，监管层正式官宣三家中介机构因涉乐视网财务造假案，而被正式立案调查，包括金杜律师事务所，信永中和会计师事务所和中德证券。这三家中介机构参与的IPO项目全部中止审核，其中就包括了1月20日上会前被临时取消审核的兴禾股份。根据不完全统计，受三大中介机构牵连的IPO项目达到48个，其中包括了不少明星项目，如华大九天，中集安瑞科，土巴兔装修，八马茶业、天津同仁堂等。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7689418.d.html</link>
-            <guid>2508116</guid>
-            <pubDate>Thu, 27 Jan 2022 00:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【投资人重新押注房企美元债：融资政策纠偏 部分公司有望回血】在叠加了LPR利率降低、空头回补等多重利好的消息下，房企美元债出现了大幅反弹。在采访了多位美元债的分析师及投资人后发现，部分投资人对地产美元债后续走势的上涨抱有期待。从少数几家私募基金公司了解到，他们近期开始购入地产美元债。 (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7689175.d.html</link>
-            <guid>2508115</guid>
-            <pubDate>Thu, 27 Jan 2022 00:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【字节4款新产品齐发：元宇宙社交“派对岛”、悟空搜索、游戏社区“灵选”和机器人】字节跳动密集布局多个新业务，将推出元宇宙社交App“派对岛”，上线新搜索产品“悟空搜索”，打造游戏社区产品“灵选”，此外还正在测试短距离配送机器人。（Tech星球）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2859975.d.html</link>
-            <guid>2508114</guid>
-            <pubDate>Thu, 27 Jan 2022 00:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家广电总局发文规范电视剧市场 常规剧集正片时长不得少于41分钟】近日，国家广播电视总局发布了《电视剧母版制作规范》，作为中华人民共和国广播电视和网络视听推荐性行业标准，自2022年4月1日起施行。《规范》对电视剧正片、片头片尾以及“前情回顾”“下集预告”等附加内容的时长进行了规范，常规剧集正片时长不少于41分钟。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2859920.d.html</link>
-            <guid>2508113</guid>
-            <pubDate>Thu, 27 Jan 2022 00:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩媒：韩军称朝鲜向东部海域发射不明飞行物】据韩联社首尔1月27日报道，韩国联合参谋本部27日上午8时5分许向记者团发送短信称，朝鲜当天向东部海域发射不明飞行物。 报道称，这是朝鲜自年初以来第6次射弹，也是25日发射疑似巡航导弹的两枚导弹后时隔两天再次进行武力示威。 报道称，据悉，韩国联合参谋本部正在分析该飞行器的射程和射高等参数。   （参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7688164.d.html</link>
-            <guid>2508110</guid>
-            <pubDate>Thu, 27 Jan 2022 00:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东卫健委：1月26日0-24时，全省新增境外输入确诊病例3例（其中1例为无症状感染者转确诊），广州报告2例，分别来自新加坡和伊朗；深圳报告1例，来自新加坡。 新增境外输入无症状感染者10例。]]></title>
-            <guid>2508109</guid>
-            <pubDate>Thu, 27 Jan 2022 00:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特朗普打高尔夫球时称自己是下任总统】据今日俄罗斯网26日报道，特朗普在跟朋友打高尔夫球时称，自己将成为美国第47任总统。26日，一段在社交媒体上流传的视频显示，特朗普与一群人在打高尔夫，其中一个人说：“现在开球的是美国第45任总统”。特朗普马上接话：“是第45和47任”。说完周围人爆发出欢呼声。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7687724.d.html</link>
-            <guid>2508107</guid>
-            <pubDate>Thu, 27 Jan 2022 00:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【马斯克：特斯拉人形机器人业务未来或比汽车业务更重要】马斯克周三告诉投资者称，开发Optimus人型机器人是特斯拉今年最重要的工作之一。马斯克还说，人型机器人可以帮助美国解决劳工短缺问题，它首先会应用于特斯拉工厂。马斯克称：“随着时间的推移，Optimus有可能会变得比汽车业务更重要。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2858441.d.html</link>
-            <guid>2508106</guid>
-            <pubDate>Thu, 27 Jan 2022 00:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两市融资余额减少72.97亿元】截至1月26日，上交所融资余额报8726.93亿元，较前一交易日减少30.69亿元；深交所融资余额报7848.65亿元，较前一交易日减少42.28亿元；两市合计16575.58亿元，较前一交易日减少72.97亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2858145.d.html</link>
-            <guid>2508105</guid>
-            <pubDate>Thu, 27 Jan 2022 00:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【马斯克称特斯拉今年不推新车 否认开发2.5万美元低价车型】特斯拉CEO埃隆·马斯克（Elon Musk）周三在公司的第四季度财报电话会议上表示，特斯拉今年不会发布任何新车型，目前也没有在开发售价2.5万美元的车型。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2858118.d.html</link>
-            <guid>2508104</guid>
-            <pubDate>Thu, 27 Jan 2022 00:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民日报：警惕抢票软件背后的风险】由于春运期间客流量大，部分热门路线和热门日期的车票，也出现了“抢手”的现象。面对这些五花八门的“加速包”“助力包”，以及所谓的“优先购票”等噱头，广大乘客应该保持足够的警惕和清醒的认识。除了诱导消费、存在各种收费陷阱、部分车票无法在网上办理退改签等问题，还值得警惕的是，抢票软件存在个人隐私的泄露风险。]]></title>
-            <guid>2508102</guid>
-            <pubDate>Thu, 27 Jan 2022 00:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额下跌0.4%至8726.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2857268.d.html</link>
-            <guid>2508101</guid>
-            <pubDate>Thu, 27 Jan 2022 00:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  山东路桥：2021年度实现中标额1010.4亿元，同比增44.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7684329.d.html</link>
-            <guid>2508092</guid>
-            <pubDate>Thu, 27 Jan 2022 00:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英飞拓：2021年净利润预亏9亿至13.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2855406.d.html</link>
-            <guid>2508091</guid>
-            <pubDate>Thu, 27 Jan 2022 00:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 浩丰科技：2021年预亏2800万元-3900万元；拟3.5亿元收购山东华软金科信息技术有限公司100%股权，丰富公司金融IT解决方案种类，提升盈利能力。]]></title>
-            <guid>2508090</guid>
-            <pubDate>Thu, 27 Jan 2022 00:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大禹节水：向特定对象发行股票申请获深交所受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2855373.d.html</link>
-            <guid>2508089</guid>
-            <pubDate>Thu, 27 Jan 2022 00:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北美半导体设备制造商去年总出货金额达到创纪录的429.92亿美元】国际半导体产业协会（SEMI）昨日公布去年12月北美半导体设备制造商出货金额报告，虽然呈现小幅月减，但仍为历史次高，去年总出货金额来到创纪录的429.92亿美元，年增44.3％。据SEMI统计，去年12月北美半导体设备制造商出货金额为39.2亿美元，月减0.5％，不过年增率仍高达46.1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7684023.d.html</link>
-            <guid>2508088</guid>
-            <pubDate>Thu, 27 Jan 2022 00:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大基因1月26日现6笔大宗交易】华大基因1月26日大宗交易平台共发生6笔成交，合计成交量46.10万股，成交金额3583.81万元。进一步统计，近3个月内该股累计发生74笔大宗交易，合计成交金额为5.95亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7683639.d.html</link>
-            <guid>2508086</guid>
-            <pubDate>Thu, 27 Jan 2022 00:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白宫：拜登或提名非裔女性出任大法官】白宫新闻发言人普萨基当地时间1月26日表示，出于对布雷耶法官的尊重，在其本人给出正式声明前，白宫不会对其退休相关事宜进行任何说明。但如有机会，拜登将履行提名一位非洲裔女性法官出任大法官的承诺。此外，普萨基表示，26日早些时候，拜登本人也表达了类似的立场。拜登在2020年大选期间曾经做出过承诺，一旦获得机会，他将提名一位非裔女性出任最高法院大法官。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2854282.d.html</link>
-            <guid>2508084</guid>
-            <pubDate>Thu, 27 Jan 2022 00:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[龙光集团发行1,950,000,000港元二零二六年到期6.95%的股本挂钓证券，将所得款项净额用于现有债务的再融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2854062.d.html</link>
-            <guid>2508082</guid>
-            <pubDate>Thu, 27 Jan 2022 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韩国LG能源开盘涨99％，报59.7万韩元/股，此前发行价为30.48万韩元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2853565.d.html</link>
-            <guid>2508079</guid>
-            <pubDate>Thu, 27 Jan 2022 00:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日韩股市小幅高开】日经225指数高开0.5%，报27139.88点；东证指数高开0.5%，报1902.24点。韩国KOSPI指数开盘上涨0.32%，报2718.04点。]]></title>
-            <guid>2508075</guid>
-            <pubDate>Thu, 27 Jan 2022 00:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英飞拓：股价涨幅异常。截止到2021年12月31日，各子公司商誉余额合计7.15亿元，2021年度被收购子公司业绩大幅下滑，商誉减值迹象凸显，公司进行了初步评估和测算，预计将会产生较大金额的商誉减值损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2852021.d.html</link>
-            <guid>2508072</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京昨天新增5例本土确诊病例】北京新增5例本土确诊病例，部分病例已通报，无新增疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2851304.d.html</link>
-            <guid>2508067</guid>
-            <pubDate>Wed, 26 Jan 2022 23:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[九安医疗公告，美国子公司与美国ACC就原《采购合同》签署了《变更合同》，在原合同2.5亿人份iHealth试剂盒产品的采购基础上，再追加采购iHealth试剂盒产品104,166,665人份，总合同金额从12.75亿美元增加至17.75亿美元约合人民币112.26亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7679699.d.html</link>
-            <guid>2508065</guid>
-            <pubDate>Wed, 26 Jan 2022 23:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：猪周期反转预期提升将持续加速】国泰君安研报称，生猪产能去化加速将在春节后展开，重申“第二波已开启”、“一季度为黄金配置期”、“上半年比下半年好”的观点判断，维持前期对板块反转的判断，猪周期反转预期提升将持续加速。继续推荐生猪养殖板块贝塔机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2850580.d.html</link>
-            <guid>2508064</guid>
-            <pubDate>Wed, 26 Jan 2022 23:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星电子第四季度营业利润低于预期】三星电子第四季度营业利润13.87万亿韩元，市场预估14.85万亿韩元。第四季度销售额76.57万亿韩元，市场预估75.56万亿韩元。第四季度净利润10.64万亿韩元，市场预估11.1万亿韩元。]]></title>
-            <guid>2508061</guid>
-            <pubDate>Wed, 26 Jan 2022 23:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光伏发电去年新增装机规模5297万千瓦，业内分析今年或将进一步加速】国家能源局1月25日发布的最新数据显示，2021年我国光伏发电新增5297万千瓦。与之相对应的，目前已有通威股份、特变电工、昌盛机电等多家光伏行业的上市公司发布了业绩大幅预增的公告。“2021年是户用光伏补贴的最后一年。在硅料价格超高的情况下，主要安装量达2160万千瓦，与此同时，工商业电价提升、光伏整县推进政策、国家风光大基地建设等政策背景下，我国光伏发电大幅增长。”泓达光伏创始人刘继茂表示，预计2022年全国装机规模将达到7000万千瓦至8000万千瓦。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2849593.d.html</link>
-            <guid>2508060</guid>
-            <pubDate>Wed, 26 Jan 2022 23:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【个人养老金制度落地倒计时，各方加速布局】作为养老保险第三支柱，个人养老金制度落地已进入倒计时。不久前召开的中央全面深化改革委员会第二十三次会议审议通过了《关于推动个人养老金发展的意见》。记者了解到，有关部门正在紧锣密鼓部署，研究完善配套政策。与此同时，多个银行、保险、基金公司也在积极布局，抢滩个人养老金巨大市场。业内预计，未来第三支柱有望迎来大扩容，在提高国民养老金待遇水平的同时，将促进资本市场的完善和发展。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2849358.d.html</link>
-            <guid>2508059</guid>
-            <pubDate>Wed, 26 Jan 2022 23:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【逾百家锂电概念公司去年业绩预喜 占比近九成】作为2021年最热门的行业之一，受益于新能源汽车产销量爆发式增长，锂电池产业相关上市公司的业绩预告表现亮眼。据记者统计，截至1月26日，逾百家锂电上市公司2021年业绩预喜。其中，锂电原料上游企业利润增长幅度最大，中下游材料厂和整车端利润承压。随着比亚迪、特斯拉等企业先后宣布涨价，上游成本压力有望获得疏解。市场机构认为，新能源汽车产销量高增长，电池厂商产能将得以释放，有望迎来量价齐升的良好局面。预计2022年动力电池全球装机量将达到450GWh，国内装机量将达到230GWh。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2848842.d.html</link>
-            <guid>2508057</guid>
-            <pubDate>Wed, 26 Jan 2022 23:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【市场调整或临近尾声 超七成私募选择持股过节】经过前一个交易日的调整后，1月26日A股市场迎来缩量反弹。在春节假期进入倒计时的背景下，私募机构对于假期“持股”还是“持币”的问题，普遍给出了偏向乐观的选择。某第三方机构26日发布的调查显示，超过七成的受访私募机构表示将“持股”过节。与此同时，受访私募普遍认为，市场调整或已进入尾声，当前优质品种的估值性价比明显提升，可重点关注“结构性机会”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2848680.d.html</link>
-            <guid>2508056</guid>
-            <pubDate>Wed, 26 Jan 2022 23:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚12月西太平洋领先指标环比 -0.03%，前值 0.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2848120.d.html</link>
-            <guid>2508054</guid>
-            <pubDate>Wed, 26 Jan 2022 23:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“造车新势力”入局，新能源车险“群雄逐鹿”】保险领域迎来一重磅“玩家”。继特斯拉之后，近日蔚来也涉足保险经纪领域，蔚来保险经纪有限公司已正式成立，该公司由蔚来控股有限公司100%控股。业内人士认为，车企进入新能源车险市场是对保险公司的挑战，同时是险企加速改革新能源专属车险的机遇，险企需要回归车生态中，精准切入新能源汽车产业链的发展。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2846907.d.html</link>
-            <guid>2508053</guid>
-            <pubDate>Wed, 26 Jan 2022 23:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：希望Cybertruck年产量达到25万辆，但这需要一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7674560.d.html</link>
-            <guid>2508051</guid>
-            <pubDate>Wed, 26 Jan 2022 23:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国副财相Lee：韩国将在必要时采取行动来稳定金融市场。韩国将设法分批发行政府债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2845599.d.html</link>
-            <guid>2508049</guid>
-            <pubDate>Wed, 26 Jan 2022 23:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚S&P/ASX 200指数悉尼盘初涨1.1%，报7035.30点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2845356.d.html</link>
-            <guid>2508048</guid>
-            <pubDate>Wed, 26 Jan 2022 23:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【聚焦半导体产业 默克拟追加在华投资10亿元】中国对外资正在显示出越来越强大的吸引力。1月26日下午，全球领先的科技公司默克就宣布了“投资中国倍增计划”，将于2025年前在中国追加投资至少10亿元（约1.3亿欧元），新增投资主要投向电子科技业务，聚焦半导体制造领域。默克表示，持续秉持投资中国战略，默克不仅仅视中国为销售市场，更将中国视为其未来的人才高地、创新之源。过去10年，默克已在中国电子市场累计投资约10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7673841.d.html</link>
-            <guid>2508047</guid>
-            <pubDate>Wed, 26 Jan 2022 23:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多方位捕捉海外投资机遇 QDII基金规模持续增长】在刚刚过去的2021年，投资海外的QDII基金规模持续增长。天相投顾数据显示，截至去年四季度末，QDII基金规模为2594亿元，相较于2020年年末的1293.5亿元大幅增加1300亿元。从业绩表现来看，随着国际油价高歌猛进，原油类QDII成为去年QDII基金的大赢家，多只产品全年收益率在50%以上。此外，投资越南、美国、欧洲、日本等股市的QDII基金也为投资者交上了满意的答卷。在多位基金经理看来，虽然2022年开年以来全球股市剧烈震荡，但随着经济稳步复苏，越南、欧洲、日本等海外市场仍存在显著的投资机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7673763.d.html</link>
-            <guid>2508046</guid>
-            <pubDate>Wed, 26 Jan 2022 23:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：今年可能宣布新工厂位置。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2844717.d.html</link>
-            <guid>2508043</guid>
-            <pubDate>Wed, 26 Jan 2022 23:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO马斯克表示，现在没有在推进开发2.5万美元的电动车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7672914.d.html</link>
-            <guid>2508041</guid>
-            <pubDate>Wed, 26 Jan 2022 23:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：Optimus机器人的首次使用将是运用在特斯拉工厂里的移动零部件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyamrmz7672812.d.html</link>
-            <guid>2508039</guid>
-            <pubDate>Wed, 26 Jan 2022 22:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：特斯拉的工厂将首次使用人形机器人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-27/detail-ikyakumy2843966.d.html</link>
-            <guid>2508038</guid>
-            <pubDate>Wed, 26 Jan 2022 22:58:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
