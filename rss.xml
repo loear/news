@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jan 2022 12:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 13:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【澳门励骏：控股股东陈荣炼遭拘捕与其个人事务有关 不会对集团产生重大不利影响】澳门励骏在港交所公告，董事会知悉本公司执行董事、董事会联席主席兼行政总裁及控股股东陈荣炼遭澳门司法警察局逮捕及拘留。董事会认为，鉴于本集团由管理人员团队经营，而上述事件与陈先生的个人事务有关，与本集团无关，董事会预期上述事件不会对本集团日常经营产生重大不利影响。董事会将密切监视及检讨该情况，并于适当时候刊发进一步公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8368547.d.html</link>
+            <guid>2513267</guid>
+            <pubDate>Sun, 30 Jan 2022 13:18:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【三部门联合印发《京张体育文化旅游带建设规划》】文化和旅游部、国家发展改革委、国家体育总局联合印发《京张体育文化旅游带建设规划》。规划范围包括北京市东城区、西城区、朝阳区、海淀区、石景山区、昌平区、延庆区等7个市辖区和张家口市桥东区、桥西区、宣化区、下花园区、万全区、崇礼区、张北县、怀来县、涿鹿县、赤城县等10个区（县），总面积2.48万平方公里，辐射北京市和张家口市全域范围。《规划》包括规划背景、总体要求、空间布局、加强奥运场馆赛后利用、共筑文化发展高地、推动旅游业高质量发展、深化区域协同发展、规划实施保障八部分内容，全面对接京津冀协同发展等重大国家战略，推动奥运场馆综合利用和低碳运行，推进体育文化旅游融合发展，努力建成奥运场馆赛后利用国际典范、国际冰雪运动与休闲旅游胜地、全民健身公共服务体系建设示范区和体育文化旅游融合发展样板。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3531978.d.html</link>
@@ -319,12 +325,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3473677.d.html</link>
             <guid>2513159</guid>
             <pubDate>Sun, 30 Jan 2022 04:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，2022春节档新片预售(含点映)总票房已突破5亿。目前预售票房前三名为《长津湖之水门桥》《奇迹·笨小孩》和《四海》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8301682.d.html</link>
-            <guid>2513158</guid>
-            <pubDate>Sun, 30 Jan 2022 04:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
