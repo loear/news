@@ -4,11 +4,18 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jan 2022 16:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 17:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【59家A股房企发布2021年业绩预告：12家首次亏损】
+截至1月29日，A股已经有59家房企发布了2021年的业绩预告。受市场环境变化等因素影响，上述房企中，有12家企业预计2021年净利润首次出现亏损，另有12家为继续亏损。其中，华夏幸福、蓝光发展归属于上市公司股东的净利润均亏损超百亿元人民币。（中新经纬）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3556278.d.html</link>
+            <guid>2513286</guid>
+            <pubDate>Sun, 30 Jan 2022 17:04:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰局势升温 “北溪-2”项目引起德国能源供应争议】随着乌克兰冲突升温，德国是否应以“北溪-2”天然气管道项目作为对俄罗斯可能的制裁手段之一引起多方争议，经济界和政界均对此有不同声音。德国工业联合会主席鲁斯沃姆1月29日在接受采访时表示，德国能源供应并不依赖“北溪-2”项目：“德国需要安全的能源供应，但它不依赖于某个单一项目，也不依赖“北溪-2”管道。”目前，德国大约50%的天然气供应来自俄罗斯，但鲁斯沃姆认为，德国不存在过度依赖俄罗斯的现象。他强调，短期内找到俄罗斯天然气替代方案并不容易，但是到目前为止，俄罗斯一直在正常供气，“俄罗斯天然气便宜且可靠”。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3550803.d.html</link>
@@ -284,12 +291,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3486245.d.html</link>
             <guid>2513180</guid>
             <pubDate>Sun, 30 Jan 2022 06:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家发改委：2021年全国十种有色金属产量6454万吨 同比增长5.4%】国家发改委发布2021年有色金属行业运行情况，2021年，全国十种有色金属产量6454万吨，同比增长5.4%，增速同比回落0.1个百分点。其中，铜产量1049万吨，增长7.4%，增速与上年基本持平；电解铝产量3850万吨，增长4.8%，回落0.1个百分点；铅产量737万吨，增长11.2%，提高1.8个百分点；锌产量656万吨，增长1.7%，回落1个百分点。氧化铝产量7748万吨，增长5%，提高4.7个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8314778.d.html</link>
-            <guid>2513179</guid>
-            <pubDate>Sun, 30 Jan 2022 05:59:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
