@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【RCEP即将对韩国生效 出口服装、进口汽车零件享受降税】韩国是中国的第五大贸易伙伴，中国则是韩国的第一大贸易伙伴。从2月1日起，《区域全面经济伙伴关系协定》（RCEP）将对韩国生效。中韩在2015年签署了自由贸易协定，中韩双方在RCEP中都有超出自贸协定关税减让承诺的产品。据了解，RCEP对韩国生效以后，中国企业出口韩国的部分服装、淀粉糊精、起酥油等产品可以享受更低的税率，而从韩国进口的电动机、车辆零件等也会实现更大幅度降税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3546794.d.html</link>
+            <guid>2513275</guid>
+            <pubDate>Sun, 30 Jan 2022 14:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国东北部地区暴风雪导致超过10万用户断电】截至当地时间1月30日早上，肆虐美国东北部地区的强暴风雪已导致超过10万用户断电。美国东北部、阿巴拉契亚山脉和佛罗里达州南部有超过1500万人正处于极寒天气警报之下。据统计，在当地时间29日，马萨诸塞州部分地区降雪量已超过76厘米。马萨诸塞州科德角的阵风达到134公里每小时。波士顿市创下了单日最大降雪量的记录，达到约60厘米。根据马萨诸塞州紧急事务管理局 ( MEMA )的数据，截至30日早上，该州仍有超过6万名用户没有恢复电力。强暴风雪还导致美国大量航班被取消。根据航班追踪数据公司FlightAware的报告，截至美东时间1月30日上午8时45分，美国当天大约有1292个境内或者境外往返美国的航班被取消，另有424趟航班延误。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3546416.d.html</link>
+            <guid>2513274</guid>
+            <pubDate>Sun, 30 Jan 2022 14:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【中国女足3：1战胜越南女足 进军女足亚洲杯4强】在刚刚结束的2022女足亚洲杯1/4决赛上，中国女足3:1战胜越南女足。取得本届赛事三连胜的同时，顺利晋级半决赛。本场比赛结束后，北京时间2月3日，中国女足将在半决赛对阵日本女足，争夺最终决赛名额。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8373330.d.html</link>
@@ -302,18 +314,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8310060.d.html</link>
             <guid>2513172</guid>
             <pubDate>Sun, 30 Jan 2022 05:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总统发言人：总统Herzog出发前往阿联酋进行首次访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8308258.d.html</link>
-            <guid>2513171</guid>
-            <pubDate>Sun, 30 Jan 2022 05:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部副部长任鸿斌出任中国贸促会会长、党组书记】中国国际贸易促进委员会官网1月30日发布的消息显示，此前担任商务部副部长的任鸿斌已于2022年1月起任中国国际贸易促进委员会会长、党组书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3477787.d.html</link>
-            <guid>2513166</guid>
-            <pubDate>Sun, 30 Jan 2022 04:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
