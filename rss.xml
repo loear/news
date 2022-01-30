@@ -4,11 +4,18 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jan 2022 17:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 18:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【RCEP生效满月 红利几何】
+历经8年谈判，《区域全面经济伙伴协定》(RCEP)于2020年11月15日签署。2022年元旦当天，RCEP对文莱、柬埔寨、中国、日本、新西兰等10国正式生效。进入生效阶段的RCEP受到各方的期待。RCEP生效近一个月来，成员国企业已经在RCEP框架下运转往来。这份全球最大的自由贸易协定，带来新的市场空间，也同样带来更强的竞争（国际金融报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3561780.d.html</link>
+            <guid>2513288</guid>
+            <pubDate>Sun, 30 Jan 2022 18:16:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【59家A股房企发布2021年业绩预告：12家首次亏损】
 截至1月29日，A股已经有59家房企发布了2021年的业绩预告。受市场环境变化等因素影响，上述房企中，有12家企业预计2021年净利润首次出现亏损，另有12家为继续亏损。其中，华夏幸福、蓝光发展归属于上市公司股东的净利润均亏损超百亿元人民币。（中新经纬）]]></title>
@@ -279,18 +286,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8316648.d.html</link>
             <guid>2513182</guid>
             <pubDate>Sun, 30 Jan 2022 06:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华为成功注册多个“超聚变”商标】天眼查显示，近日，华为技术有限公司多个“超聚变”商标申请进度变更为已注册，这些商标申请于2021年7月，国际分类涉及科学仪器、通讯服务、广告销售等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyamrmz8315093.d.html</link>
-            <guid>2513181</guid>
-            <pubDate>Sun, 30 Jan 2022 06:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家发改委：2021年全国粗钢产量10.4亿吨 同比下降3%】国家发改委发布2021年钢铁行业运行情况，2021年，全国粗钢产量103279万吨，同比下降3%，上年为增长5.2%；钢材产量133667万吨，增长0.6%，增速同比回落7.1个百分点。焦炭产量46446万吨，下降2.2%，上年为增长0.04%。铁合金产量3476万吨，下降4.4%，降幅扩大1.7个百分点。据海关统计，钢材出口6690万吨，增长24.6%；进口1427万吨，下降29.5%。铁矿砂进口112432万吨，下降3.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-30/detail-ikyakumy3486245.d.html</link>
-            <guid>2513180</guid>
-            <pubDate>Sun, 30 Jan 2022 06:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
