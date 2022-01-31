@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 31 Jan 2022 13:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 14:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[高盛：随着财政支持消退，（美国）经济增长可能在2022年突然放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8513752.d.html</link>
+            <guid>2513987</guid>
+            <pubDate>Mon, 31 Jan 2022 14:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛将美国2022年GDP增长预期从市场预期的3.8%下调至3.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3684150.d.html</link>
+            <guid>2513986</guid>
+            <pubDate>Mon, 31 Jan 2022 14:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄敦促美欧放弃加剧乌克兰紧张局势路线】俄罗斯1月31日敦促美国及其欧洲盟友放弃加剧乌克兰紧张局势的路线，采取建设性立场。俄总统新闻秘书佩斯科夫当天在莫斯科对俄媒体说，美国媒体近几个月围绕乌克兰边境局势公布大量“未经证实的、歪曲的和挑衅性的信息”。他建议人们对此保持清醒头脑。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8513156.d.html</link>
+            <guid>2513983</guid>
+            <pubDate>Mon, 31 Jan 2022 13:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国联邦金融监管局将逆周期资本缓冲比率上调至0.75%，从2月1日起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3683060.d.html</link>
+            <guid>2513982</guid>
+            <pubDate>Mon, 31 Jan 2022 13:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利10年期政府债券收益率涨4.5个基点至1.393%，早盘一度下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3682721.d.html</link>
+            <guid>2513980</guid>
+            <pubDate>Mon, 31 Jan 2022 13:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果供应商伯恩光学再次提交香港IPO申请】苹果供应商伯恩光学再次提交香港IPO申请，文件显示，摩根大通、汇丰和中金公司是此次发行的联席保荐人。该公司截至9月30日的六个月净利润为15.2亿港元，营收为150亿港元，上年同期净利润为13.4亿港元，营收为135亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8511811.d.html</link>
+            <guid>2513979</guid>
+            <pubDate>Mon, 31 Jan 2022 13:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大12月工业品物价指数月率：前值 0.8%，预期 0.5%，公布 0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8511329.d.html</link>
+            <guid>2513978</guid>
+            <pubDate>Mon, 31 Jan 2022 13:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【受泄漏油污污染的泰国罗勇府部分海域已基本清理干净】负责清理泰国罗勇府海域海上油污的泰国海军军方负责人当地时间1月31日表示，经过连续6天的清理工作，目前空中拍摄的照片显示，该府东部最早受到油污污染的梅兰蓬海滩及附近海域，已经一整天都看不到聚集的油污。自1月25日晚罗勇府海域发生海底输油管道原油泄漏事故以来，泰国政府调集包括空军和海军等多方力量，对海面漂浮油污喷洒大量化学分解剂，并配合使用生物制剂加速油污分解，以尽快阻止油污带漂向海岸。但环保部门担忧，分解后的油污依然会沉降到海底，对海洋生态环境造成长期影响。]]></title>
             <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8510427.d.html</link>
@@ -281,66 +323,6 @@
             <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8487020.d.html</link>
             <guid>2513881</guid>
             <pubDate>Mon, 31 Jan 2022 09:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港金管局：截至去年12月底，港交所基金资产为4.58万亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3653360.d.html</link>
-            <guid>2513875</guid>
-            <pubDate>Mon, 31 Jan 2022 08:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国香港12月零售销售额年率：前值 7.10%，预期 12.5%，公布 6.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3652602.d.html</link>
-            <guid>2513874</guid>
-            <pubDate>Mon, 31 Jan 2022 08:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本大型银行10年期固定贷款利率触及6年新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3652319.d.html</link>
-            <guid>2513873</guid>
-            <pubDate>Mon, 31 Jan 2022 08:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY失守97，日内小幅下跌0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8481635.d.html</link>
-            <guid>2513872</guid>
-            <pubDate>Mon, 31 Jan 2022 08:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年ESG资产规模将达到41万亿美元】根据全球可持续投资联盟的数据，2020年的ESG资产规模逾35万亿美元，高于2018年的30.6万亿美元和2016年的22.8万亿美元，目前占全球总资产管理规模的三分之一。假设增速为15%（过去五年增速的三分之一），那么到2022年和2025年，ESG资产规模或分别突破41万亿美元和50万亿美元。2018年之前，欧洲占全球ESG资产规模的一半以上，但美国后来居上，过去两年的增速超过40%，目前占据主导地位。即使增速减半，美国的ESG资产规模在2022年也应能突破20万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8479135.d.html</link>
-            <guid>2513869</guid>
-            <pubDate>Mon, 31 Jan 2022 08:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙1月CPI月率：前值 1.20%，预期 -1.2%，公布 -0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8478876.d.html</link>
-            <guid>2513868</guid>
-            <pubDate>Mon, 31 Jan 2022 08:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股开盘，德国DAX指数涨1.1%，英国富时100指数涨0.7%，法国CAC40指数涨1.06%，欧洲斯托克50指数涨1.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8478486.d.html</link>
-            <guid>2513867</guid>
-            <pubDate>Mon, 31 Jan 2022 08:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中老铁路抢运“年货” 进出口量超7000吨】春节将至，大米、啤酒、瓜子等“年货”通过中老铁路进出口总量已超7000吨。1月31日，满载“年货”的中老铁路国际货物列车抵达中铁联集昆明中心站，这批来自老挝的“年货”将由汽车转运至云南省内或周边市场。目前，中老铁路进口“年货”超3000吨，主要以大米、啤酒等为主，出口“年货”超4000吨，主要以瓜子、蔬菜等为主。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyamrmz8477731.d.html</link>
-            <guid>2513864</guid>
-            <pubDate>Mon, 31 Jan 2022 07:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【险资头牌涉“老鼠仓”案：泰康资管前投资经理累计交易1.17亿元获刑2年】保险系资管圈也不乏“老鼠仓”，这次发生在泰康资管。裁判文书网近日披露的一则判决文书显示，泰康资产管理有限公司权益部原投资经理王广群涉嫌利用职务便利，向他人提供未公开信息进行趋同交易，涉及66只股票共计约1.17亿元成交额，盈利超过346万元。法院指出，王广群身为金融机构从业人员，利用因职务便利获取的未公开信息，违反规定，暗示李锡峰等人从事与该信息相关的证券交易活动，情节严重，其行为均已构成利用未公开信息交易罪，考虑到有自首情节等因素，最终判处其有期徒刑二年，缓刑二年，并处罚金85万元。 (一财)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3647546.d.html</link>
-            <guid>2513863</guid>
-            <pubDate>Mon, 31 Jan 2022 07:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国前商务大臣克拉克：不认为削减能源消费增值税是（降低能源价格的）正确干预手段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-01-31/detail-ikyakumy3647419.d.html</link>
-            <guid>2513862</guid>
-            <pubDate>Mon, 31 Jan 2022 07:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
