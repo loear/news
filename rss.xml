@@ -4,11 +4,89 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 01 Feb 2022 12:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 13:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：阿斯顿·马丁将在2026年前淘汰纯内燃机汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3816484.d.html</link>
+            <guid>2515537</guid>
+            <pubDate>Tue, 01 Feb 2022 13:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：利息支出非常高，因为我们正在用货币政策对抗通货膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3815854.d.html</link>
+            <guid>2515483</guid>
+            <pubDate>Tue, 01 Feb 2022 13:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：预计奥密克戎毒株将冲击到1月就业数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8644491.d.html</link>
+            <guid>2515467</guid>
+            <pubDate>Tue, 01 Feb 2022 13:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  MicroStrategy盘前上涨，上涨逾3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8644294.d.html</link>
+            <guid>2515459</guid>
+            <pubDate>Tue, 01 Feb 2022 13:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股盘前汽车股走势良好，Lucid Group上涨3.7%，理想汽车上涨2.4%，小鹏汽车涨近2%，蔚来汽车、特斯拉、Rivian均录得微涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3814926.d.html</link>
+            <guid>2515444</guid>
+            <pubDate>Tue, 01 Feb 2022 13:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴克莱：将Shopify目标价从1800美元下调至1200美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3814475.d.html</link>
+            <guid>2515433</guid>
+            <pubDate>Tue, 01 Feb 2022 13:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东罗定报告1例本土确诊病例、3例无症状感染者。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3813903.d.html</link>
+            <guid>2515429</guid>
+            <pubDate>Tue, 01 Feb 2022 12:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃克森美孚石油盘前上涨1.8%。该公司2021年录得自2012年以来最大的营运现金流。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3813881.d.html</link>
+            <guid>2515428</guid>
+            <pubDate>Tue, 01 Feb 2022 12:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线盘前涨势迅速上扬，涨超11%。此前该公司公布四季度财报预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8642684.d.html</link>
+            <guid>2515427</guid>
+            <pubDate>Tue, 01 Feb 2022 12:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃克森美孚石油：四季度化工业务盈利19.21亿美元，去年同期为6.91亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8641950.d.html</link>
+            <guid>2515412</guid>
+            <pubDate>Tue, 01 Feb 2022 12:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃克森美孚石油：四季度下游业务盈利14.67亿美元，去年同期亏损12.11亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8641896.d.html</link>
+            <guid>2515409</guid>
+            <pubDate>Tue, 01 Feb 2022 12:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃克森美孚石油：四季度上游业务盈利为60.85亿美元，去年同期为亏损185.32亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8641859.d.html</link>
+            <guid>2515408</guid>
+            <pubDate>Tue, 01 Feb 2022 12:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚第四季度化工主要产品销量6701千吨，同比增加0.9%，预期6692千吨；下游石油产品销量5391千桶/日，同比增加12%，预期5291千桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3812288.d.html</link>
+            <guid>2515361</guid>
+            <pubDate>Tue, 01 Feb 2022 12:40:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  埃克森美孚石油2021年Q4 净利润（亿美元）：前值 -200.7，预期 80.37，公布 88.7。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8640587.d.html</link>
@@ -287,66 +365,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3792782.d.html</link>
             <guid>2515038</guid>
             <pubDate>Tue, 01 Feb 2022 09:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场研究机构IHS Markit主管Rob Dobson：英国制造业在2022年开局良好，在奥密克戎毒株面前表现出令人鼓舞的韧性，企业报告供应延迟减少，产出增长加快。然而，令人担忧的因素依然存在，新订单增长放缓，出口几乎没有增长，员工缺勤率居高不下，制造商对供应链中断的持续谨慎导致安全库存增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8620692.d.html</link>
-            <guid>2515034</guid>
-            <pubDate>Tue, 01 Feb 2022 09:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  理想汽车美股盘前上涨1.15%，此前公布1月交付量数据，理想ONE交付12268辆，同比上涨128.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8620649.d.html</link>
-            <guid>2515033</guid>
-            <pubDate>Tue, 01 Feb 2022 09:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：2025年二级及以上综合医院设置老年医学科的比例不低于60%】国家卫生健康委日前印发《医疗机构设置规划指导原则（2021-2025年）》，指出医疗机构的设置以医疗服务需求、医疗服务能力、千人口床位数（千人口中医床位数）、千人口医师数（千人口中医师数）和千人口护士数等主要指标进行宏观调控，具体指标值由各省、自治区、直辖市根据实际情况确定。其中明确，2025年全国医疗机构设置规划主要指标中，二级及以上综合医院设置老年医学科的比例不低于60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3791661.d.html</link>
-            <guid>2515030</guid>
-            <pubDate>Tue, 01 Feb 2022 09:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银预计未来几年美国将在科技领域投资2-2.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8619432.d.html</link>
-            <guid>2515027</guid>
-            <pubDate>Tue, 01 Feb 2022 09:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Palantir盘前涨近2%。昨日遭“木头姐”旗下基金大幅减持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8619391.d.html</link>
-            <guid>2515026</guid>
-            <pubDate>Tue, 01 Feb 2022 09:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银美股盘前涨逾5%，该公司四季度净利润超过市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3790278.d.html</link>
-            <guid>2515025</guid>
-            <pubDate>Tue, 01 Feb 2022 09:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小鹏汽车1月交付12922台 连续5个月交付破万】2022年1月小鹏汽车交付12,922台，同比增长115%，连续五个月交付破万。单车型交付上，小鹏P7交付6,707台，历史累计交付突破8万台；小鹏P5交付4,029台，连续两月交付超过4000台；小鹏G3系列交付2,186台。截至2022年1月底，小鹏汽车历史累计交付量已突破15万台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3789946.d.html</link>
-            <guid>2515024</guid>
-            <pubDate>Tue, 01 Feb 2022 09:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利12月失业率初值：前值 9.20%，预期 9.20%，公布 9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8617193.d.html</link>
-            <guid>2515020</guid>
-            <pubDate>Tue, 01 Feb 2022 09:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小鹏汽车：自上市以来累计交付量超过15万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyakumy3788190.d.html</link>
-            <guid>2515019</guid>
-            <pubDate>Tue, 01 Feb 2022 09:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场研究机构IHS Markit联席主管Phil Smith：德国制造业在2022年伊始就处于领先地位，制造业PMI显示出在去年下半年大部分时间经济出现放缓之后，人们期待已久的好转来到。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-01/detail-ikyamrmz8616892.d.html</link>
-            <guid>2515016</guid>
-            <pubDate>Tue, 01 Feb 2022 09:01:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
