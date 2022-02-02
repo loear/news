@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 02 Feb 2022 18:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 19:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国总统马克龙：不排除会见俄罗斯总统普京的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy3979275.d.html</link>
+            <guid>2516862</guid>
+            <pubDate>Wed, 02 Feb 2022 19:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意欲进军NFT领域？迪士尼发布信息招聘NFT专家】随着对非同质化代币（NFT）的兴趣日益浓厚，迪士尼近期发布了一个新的职位空缺，以招聘NFT专家来领导公司在该领域方面的努力。据迪士尼网站，该业务发展经理将帮助领导迪士尼在NFT领域的工作，包括监控不断发展的市场、制定品类战略和管理关键合作伙伴。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8807288.d.html</link>
+            <guid>2516860</guid>
+            <pubDate>Wed, 02 Feb 2022 18:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：英国财政大臣苏纳克将在当地时间周四在唐宁街召开新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy3978239.d.html</link>
+            <guid>2516859</guid>
+            <pubDate>Wed, 02 Feb 2022 18:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：大众汽车将在2023年提高中国电动车产量至1百万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy3977854.d.html</link>
+            <guid>2516858</guid>
+            <pubDate>Wed, 02 Feb 2022 18:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC股价短线上行，跌幅收窄至不到3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy3977578.d.html</link>
+            <guid>2516856</guid>
+            <pubDate>Wed, 02 Feb 2022 18:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月03日02时26分在青海海北州门源县（北纬37.75度，东经101.41度）发生3.7级地震，震源深度10千米。]]></title>
+            <guid>2516855</guid>
+            <pubDate>Wed, 02 Feb 2022 18:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC将美元垃圾债发行量提高至9.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8805987.d.html</link>
+            <guid>2516854</guid>
+            <pubDate>Wed, 02 Feb 2022 18:34:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国总统马克龙：我对乌克兰局势感到忧心忡忡。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8804938.d.html</link>
@@ -167,24 +208,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3965930.d.html</link>
             <guid>2516769</guid>
             <pubDate>Wed, 02 Feb 2022 15:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2164.3万桶/日，较去年同期增加11.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3965671.d.html</link>
-            <guid>2516759</guid>
-            <pubDate>Wed, 02 Feb 2022 15:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口708.5万桶/日，较前一周增加84.9万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3965666.d.html</link>
-            <guid>2516758</guid>
-            <pubDate>Wed, 02 Feb 2022 15:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022年势将成为视频游戏行业动荡的一年，主要行业参与者纷纷扩大版图并提升内部工作室专业性。如图所示，若成功完成动视暴雪的收购将使微软拥有的游戏工作室数量达到32家（动视暴雪本身就是9个工作室的母公司），其中17家是在过去两年被收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8793814.d.html</link>
-            <guid>2516752</guid>
-            <pubDate>Wed, 02 Feb 2022 15:23:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
