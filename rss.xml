@@ -4,11 +4,188 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 02 Feb 2022 09:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 10:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)推送FSD Beta V10.10。最大的更新就是应美国国家公路交通安全管理局（NHTSA）的要求，增加了在需要完全停止的交通路口彻底停下的设定；同时也增加了一些有趣的功能：比如，可以在对向无车的情况下借道，以绕过静态的障碍物。还增加了在十字路口的预判性，更警觉在穿越十字路口加速的车辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8765217.d.html</link>
+            <guid>2516583</guid>
+            <pubDate>Wed, 02 Feb 2022 10:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪:对非洲银行体系的前景仍持负面看法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8765009.d.html</link>
+            <guid>2516582</guid>
+            <pubDate>Wed, 02 Feb 2022 10:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄汽车市场分析机构：哈弗公司将于今年2月在俄推出其畅销车型更新版。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8764811.d.html</link>
+            <guid>2516581</guid>
+            <pubDate>Wed, 02 Feb 2022 10:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：普京称对安全会谈感到“非常谨慎乐观”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3936567.d.html</link>
+            <guid>2516580</guid>
+            <pubDate>Wed, 02 Feb 2022 10:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯有计划来将潜在制裁的影响降到最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3936514.d.html</link>
+            <guid>2516579</guid>
+            <pubDate>Wed, 02 Feb 2022 10:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄方对美国的制裁威胁感到“担忧”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8764526.d.html</link>
+            <guid>2516578</guid>
+            <pubDate>Wed, 02 Feb 2022 10:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：诺和诺德(NVO.N)2022年财务指引好于预期，料将受到投资者欢迎。但四季度肥胖护理领域的销售额不及预期，恐令全年表现略有缓和。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3936281.d.html</link>
+            <guid>2516576</guid>
+            <pubDate>Wed, 02 Feb 2022 10:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯希望北约移除东欧基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3936264.d.html</link>
+            <guid>2516575</guid>
+            <pubDate>Wed, 02 Feb 2022 10:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺和诺德(NVO.N) ：财务指引显示，按本币计算，2022年销售额增长6-10%，营业利润率增长4-8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8764146.d.html</link>
+            <guid>2516573</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月CPI年率初值意外录得5.1，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8763828.d.html</link>
+            <guid>2516571</guid>
+            <pubDate>Wed, 02 Feb 2022 10:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行：将通用汽车(GM.N)目标价从75美元上调至83美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8763568.d.html</link>
+            <guid>2516570</guid>
+            <pubDate>Wed, 02 Feb 2022 10:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大型科技股盘前普涨，谷歌(GOOG.O、GOOGL.O)涨超10%，AMD(AMD.O)涨近11%，英伟达(NVDA.O)涨5.5%，Meta Platforms(FB.O)涨3.7%，亚马逊(AMZN.O)上涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3935114.d.html</link>
+            <guid>2516569</guid>
+            <pubDate>Wed, 02 Feb 2022 10:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月份核心CPI同比上升2.3%；预期为1.9%。]]></title>
+            <guid>2516567</guid>
+            <pubDate>Wed, 02 Feb 2022 10:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月份CPI环比上升0.3%；预期为-0.4%。]]></title>
+            <guid>2516566</guid>
+            <pubDate>Wed, 02 Feb 2022 10:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月调和CPI同比 5.1%，预期 4.4%，前值 5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3934824.d.html</link>
+            <guid>2516565</guid>
+            <pubDate>Wed, 02 Feb 2022 10:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典将向应对乌克兰危机的合作基金提供5000万瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3934734.d.html</link>
+            <guid>2516564</guid>
+            <pubDate>Wed, 02 Feb 2022 09:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺华制药(NVS.N) ：四季度归属于公司的净利润为163.08亿美元，去年同期为20.94亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3934487.d.html</link>
+            <guid>2516563</guid>
+            <pubDate>Wed, 02 Feb 2022 09:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺华制药(NVS.N) ：四季度每股盈利为7.24美元，去年同期为0.92美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3934330.d.html</link>
+            <guid>2516562</guid>
+            <pubDate>Wed, 02 Feb 2022 09:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺华制药(NVS.N) ：四季度营收132.29亿美元，去年同期为127.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3934313.d.html</link>
+            <guid>2516561</guid>
+            <pubDate>Wed, 02 Feb 2022 09:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳宝安：KTV、电影院等非生活必需密闭场所暂停开放，快递外卖不进小区。（读特）]]></title>
+            <guid>2516560</guid>
+            <pubDate>Wed, 02 Feb 2022 09:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟拟向乌克兰提供12亿欧元长期优惠贷款】欧盟委员会当地时间2月1日宣布，拟向乌克兰提供12亿欧元长期优惠贷款，这笔贷款是应乌克兰方面的请求，由欧盟委员会主席冯德莱恩和乌克兰总统泽连斯基在此前的直接会谈中商定的。贷款将主要用于帮助乌克兰保持宏观经济稳定和整体的经济活力。贷款计划分两期拨付，首期6亿欧元将在欧洲议会批准后尽快拨付。第二期将视首期贷款的使用情况和效果考虑拨付时间。据了解，自2014年以来，欧盟和欧洲其他金融机构已向乌克兰提供了总额170亿欧元的贷款和援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8761582.d.html</link>
+            <guid>2516558</guid>
+            <pubDate>Wed, 02 Feb 2022 09:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伯恩斯坦：将AMD(AMD.O)目标价从130美元上调至150美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8761128.d.html</link>
+            <guid>2516556</guid>
+            <pubDate>Wed, 02 Feb 2022 09:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伯恩斯坦：将谷歌(GOOG.O、GOOGL.O)目标价从3250美元上调至3500美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3932973.d.html</link>
+            <guid>2516555</guid>
+            <pubDate>Wed, 02 Feb 2022 09:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伯恩斯坦：将联合包裹(UPS.N)目标价从267美元上调至272美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3932953.d.html</link>
+            <guid>2516554</guid>
+            <pubDate>Wed, 02 Feb 2022 09:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1月31日，国家主席习近平分别复信美国华盛顿州塔科马市市长伍达德斯、斯特拉孔市市长穆里。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8760705.d.html</link>
+            <guid>2516553</guid>
+            <pubDate>Wed, 02 Feb 2022 09:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士将于2024年取消工业产品的进口关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8760005.d.html</link>
+            <guid>2516551</guid>
+            <pubDate>Wed, 02 Feb 2022 09:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Paypal盘前下跌17％ 季度支出放缓】PayPal股价在美股盘前交易中下跌17％，此前该公司发布的财报显示，在线支出进一步放缓。PayPal今天凌晨公布了该公司的2021财年第四季度及全年财报。报告显示，PayPal第四季度净营收为69.18亿美元，与上年同期的61.16亿美元相比增长13%，不计入汇率变动的影响同样为同比增长13%；净利润为8.01亿美元，与上年同期的15.67亿美元相比下降49%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3931221.d.html</link>
+            <guid>2516548</guid>
+            <pubDate>Wed, 02 Feb 2022 09:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士信贷：将通用汽车(GM.N)目标价从78美元下调至75美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3931099.d.html</link>
+            <guid>2516547</guid>
+            <pubDate>Wed, 02 Feb 2022 09:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[松下CEO：4680电池的商业化上市计划按步骤推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3930673.d.html</link>
+            <guid>2516546</guid>
+            <pubDate>Wed, 02 Feb 2022 09:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  松下CEO：特斯拉对4680电池的需求强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8758802.d.html</link>
+            <guid>2516545</guid>
+            <pubDate>Wed, 02 Feb 2022 09:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美股科技股盘前普涨，谷歌A涨超10%，AMD涨超11%】美股科技股盘前普涨，谷歌A涨超10%，谷歌Q4财报全面超预期，净利新高，宣布20比1拆股；AMD涨超11%，公司四季度每股收益和营收超预期。英伟达涨超5%，亚马逊涨近3%，推特涨1.6%，特斯拉涨超1%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8758603.d.html</link>
@@ -222,146 +399,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3911696.d.html</link>
             <guid>2516482</guid>
             <pubDate>Wed, 02 Feb 2022 06:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月2日全国预计发送旅客1447万人次】据国务院联防联控机制春运工作专班，春运第17天（2月2日），全国预计发送旅客1447万人次。其中铁路预计发送旅客310万人次，公路1050万人次，水路35万人次，民航52万人次。全国高速公路预计流量3209.06万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8739261.d.html</link>
-            <guid>2516480</guid>
-            <pubDate>Wed, 02 Feb 2022 06:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：也门袭击阿联酋后，美国将往阿联酋派遣军舰和战斗机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8738926.d.html</link>
-            <guid>2516479</guid>
-            <pubDate>Wed, 02 Feb 2022 06:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯提高石油产量，但仍达不到欧佩克+配额  】俄罗斯1月份提高了石油产量，但仍可能连续第二个月低于其欧佩克+的产量配额，尽管该国的生产商已经在努力应对闲置产能不足的问题。欧佩克+将于周三召开会议，大约一半与会代表表示，预计该组织将再次批准40万桶/日的增产幅度。然而，由于缺乏闲置产能，欧佩克+成员国可能无法达到配额产量。随着石油消费增加，石油市场吃紧，分析师目前认为，油价今年有可能触及100美元/桶，将加大通胀压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3909902.d.html</link>
-            <guid>2516478</guid>
-            <pubDate>Wed, 02 Feb 2022 06:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“木头姐”进一步增持特斯拉和小鹏汽车，今年第三次买入】凯茜-伍德的方舟投资公司周二进一步增持了特斯拉和中概股小鹏汽车的股票，这是该公司今年第三次买入这两家电动汽车制造商的股票。方舟投资当天买入了7132股特斯拉股票，按收盘价计算价值664万美元。特斯拉股价周二下跌了0.58%，收于931.25美元，今年迄今下跌了22.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8738066.d.html</link>
-            <guid>2516477</guid>
-            <pubDate>Wed, 02 Feb 2022 06:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【索尼集团公司第三季度经营利润4,651.8亿日元 超出预期】索尼集团公司第三季度经营利润4,651.8亿日元，预估3,420.9亿日元；预计全年净利润8,600亿日元，此前预计7,300亿日元；预测全年销售净额9.9万亿日元，预估9.96万亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3907114.d.html</link>
-            <guid>2516471</guid>
-            <pubDate>Wed, 02 Feb 2022 06:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索尼：由于芯片短缺，预计PS5游戏机的销量将低于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8735093.d.html</link>
-            <guid>2516470</guid>
-            <pubDate>Wed, 02 Feb 2022 06:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索尼：仍然预测全年半导体业务运营利润1500亿日元。预测基于113的日元/美元汇率假设。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3906435.d.html</link>
-            <guid>2516469</guid>
-            <pubDate>Wed, 02 Feb 2022 06:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，2022年2月2日13时42分，2022年度大盘票房(含预售)破50亿。《长津湖之水门桥》年度票房达10.10亿，位居首位。]]></title>
-            <guid>2516467</guid>
-            <pubDate>Wed, 02 Feb 2022 06:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比尔盖茨注资碳捕捉技术初创公司】碳捕捉技术初创公司 Verdox宣布，已从投资者那里筹集了8000万美元，其中包括比尔-盖茨(Bill gates)领导的突破能源基金（Breakthrough Energy Ventures）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8734334.d.html</link>
-            <guid>2516466</guid>
-            <pubDate>Wed, 02 Feb 2022 05:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：克马迪克群岛地区发生5.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3904777.d.html</link>
-            <guid>2516465</guid>
-            <pubDate>Wed, 02 Feb 2022 05:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国去年电动汽车注册量首超10万辆 同比增115%】据韩国国土交通部2日发布的数据，截至去年12月，韩国累计注册登记机动车2491.1万辆，同比增加2.2%（55万辆）。新能源汽车中，纯电动车保有量为23.1万辆，增长71.5%；混动车型保有量90.8万辆，增加34.7%；氢能源车1.9万辆，增长77.9%。新能源汽车在全体机动车中占比从2014年底（0.7%）起持续上升，去年底升至4.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3904558.d.html</link>
-            <guid>2516463</guid>
-            <pubDate>Wed, 02 Feb 2022 05:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯1月石油产量达1100.2万桶/日，同比增长8.2%，环比增长0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8732914.d.html</link>
-            <guid>2516462</guid>
-            <pubDate>Wed, 02 Feb 2022 05:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其发起“冬鹰行动” 打击伊拉克和叙利亚的库尔德武装】土耳其国防部当地时间2月2日发布声明称，土耳其空军在伊拉克北部和叙利亚北部部分地区发起空袭，轰炸了藏匿于这些地区的库尔德武装军事目标。声明称，此次行动为“冬鹰行动”，以库尔德武装在这些地区的藏身地点、洞穴或是弹药库为打击目标。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8732392.d.html</link>
-            <guid>2516461</guid>
-            <pubDate>Wed, 02 Feb 2022 05:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非再度面临“电荒”窘境 呼吁民众减少用电】针对近期频繁出现的大规模限电，南非国家电力公司2日凌晨发布声明称，当前南非发、供电系统正面临巨大压力，并号召南非民众减少不必要用电，以防止更大范围限电的出现。（中新社）]]></title>
-            <guid>2516460</guid>
-            <pubDate>Wed, 02 Feb 2022 05:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【中国海油助力乌干达阿尔伯特湖油田建设】记者从中国海油获悉，乌干达当地时间2月1日，由中国海油担任作业者之一的乌干达阿尔伯特湖油田项目全面启动建设。此项目是深化中非合作的重要成果之一，对推动 “一带一路”建设和国际能源合作具有重要意义。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3902418.d.html</link>
-            <guid>2516451</guid>
-            <pubDate>Wed, 02 Feb 2022 05:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌英领导人举行会晤讨论乌克兰局势】乌克兰总统泽连斯基2月1日在乌首都基辅会见到访的英国首相约翰逊，双方讨论了乌安全局势、加强双边经贸和军事合作等问题。据乌克兰总统网站消息，在会晤结束后举行的联合新闻发布会上，泽连斯基说，近期乌俄边境紧张局势有所缓和，他期待俄方能早日从乌俄边境撤军。泽连斯基感谢英方向乌提供17亿英镑（1英镑约合1.35美元）贷款用于加强乌海军建设，乌英两国将在确保黑海地区和平安全方面开展联合行动。此外，双方还将在网络安全领域加强合作并启动自由贸易谈判。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8729134.d.html</link>
-            <guid>2516410</guid>
-            <pubDate>Wed, 02 Feb 2022 05:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【现代汽车1月在美国销量创历史新高 同比增10%】现代汽车美国法人（HMA）表示，公司1月在美国市场售出新车47872辆，同比增加10%，创历史记录。起亚同期销售量减少5.5%，为4.2488万辆。但包括极睿（Niro）在内，所有电动车型销量刷新纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8728256.d.html</link>
-            <guid>2516397</guid>
-            <pubDate>Wed, 02 Feb 2022 05:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国商业集团：尽管受奥密克戎变异株的影响，今年的GDP增长预期仍维持在3.0%至4.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8726580.d.html</link>
-            <guid>2516367</guid>
-            <pubDate>Wed, 02 Feb 2022 04:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼2021年12月入境外国游客人数同比下跌0.28%，为163600人；2021年全年入境外国游客人数同比下跌61.57%，为156万人。]]></title>
-            <guid>2516349</guid>
-            <pubDate>Wed, 02 Feb 2022 04:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰的奥克兰群岛发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8724979.d.html</link>
-            <guid>2516337</guid>
-            <pubDate>Wed, 02 Feb 2022 04:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，土耳其空军在伊拉克和叙利亚北部对库尔德武装分子实施了打击行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3896575.d.html</link>
-            <guid>2516335</guid>
-            <pubDate>Wed, 02 Feb 2022 04:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼2021年12月入境外国游客人数同比下跌0.28%，为163600人；2021年全年入境外国游客人数同比下跌61.57%，为156万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8724489.d.html</link>
-            <guid>2516329</guid>
-            <pubDate>Wed, 02 Feb 2022 04:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快手：除夕红包活动互动总次数达114.6亿次】快手发布的《2021快手春节数据报告》显示，快手除夕红包活动互动总次数达114.6亿次，80后是领取除夕红包数最多的人群；领取红包次数最多的用户共领取1261次，“摇现金”活动中PK次数最多的用户共PK 1029次；截至除夕当日，“跳一跳”活动累计跳跃次数超过404亿次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyamrmz8724078.d.html</link>
-            <guid>2516320</guid>
-            <pubDate>Wed, 02 Feb 2022 04:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国新一代数字高程模型全面建成】我国新一代数字高程模型（DEM）历时两年全面建成，实现了新一代数字高程模型对陆地国土全覆盖。截至目前，新一代数字高程模型已应用于自然资源管理相关工作。（新华社）]]></title>
-            <guid>2516236</guid>
-            <pubDate>Wed, 02 Feb 2022 03:53:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
