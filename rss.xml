@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家安全委员会（NSC）：美国国家安全顾问沙利文与土耳其总统府首席顾问进行了谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3882098.d.html</link>
+            <guid>2516090</guid>
+            <pubDate>Wed, 02 Feb 2022 02:59:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2月1日24时起，广东惠州暂停前往北京航班，停售进京火车票。（北京日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-02/detail-ikyakumy3878772.d.html</link>
