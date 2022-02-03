@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 03 Feb 2022 13:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 14:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲斯托克600指数继续刷新日低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4096710.d.html</link>
+            <guid>2518223</guid>
+            <pubDate>Thu, 03 Feb 2022 14:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利-德国10年期国债收益率息差扩大7个基点至146个基点，为2020年以来之最。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4096411.d.html</link>
+            <guid>2518221</guid>
+            <pubDate>Thu, 03 Feb 2022 14:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳斯达克100指数期货跌幅扩大至2.4％，标普500指数期货下跌1.3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8923488.d.html</link>
+            <guid>2518211</guid>
+            <pubDate>Thu, 03 Feb 2022 13:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亚马逊(AMZN.O)盘前跌近4%，今日盘后将公布四季度业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8922754.d.html</link>
+            <guid>2518201</guid>
+            <pubDate>Thu, 03 Feb 2022 13:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Spotify(SPOT.N)盘前进一步下挫，跌逾11%，季度用户增长放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8922653.d.html</link>
+            <guid>2518199</guid>
+            <pubDate>Thu, 03 Feb 2022 13:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拉加德：薪资增长总体放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4094405.d.html</link>
+            <guid>2518197</guid>
+            <pubDate>Thu, 03 Feb 2022 13:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财经网站Forexlive分析师Greg Michalowski评初请数据：初请失业金人数数据受到奥密克戎毒株传播的影响。随着威胁的消散，数据应该开始恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4094387.d.html</link>
+            <guid>2518196</guid>
+            <pubDate>Thu, 03 Feb 2022 13:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8921814.d.html</link>
+            <guid>2518187</guid>
+            <pubDate>Thu, 03 Feb 2022 13:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用航空和波音将合作进行混合电动飞行测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4093489.d.html</link>
+            <guid>2518185</guid>
+            <pubDate>Thu, 03 Feb 2022 13:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[爱尔兰外长科夫尼：英国外交大臣特拉斯与欧盟委员会副主席谢夫乔维奇有关脱欧的谈判取得进展。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8920653.d.html</link>
@@ -56,138 +110,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4088331.d.html</link>
             <guid>2518141</guid>
             <pubDate>Thu, 03 Feb 2022 12:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线下挫14点，现报96.10。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4086692.d.html</link>
-            <guid>2518132</guid>
-            <pubDate>Thu, 03 Feb 2022 12:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场曲线显示，到2024年第二季度，英国通胀率将低于目标水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8914631.d.html</link>
-            <guid>2518129</guid>
-            <pubDate>Thu, 03 Feb 2022 12:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  霍尼韦尔(HON.O)2021年Q4 EPS：前值$1.91，预期$2.08，公布$2.05。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8913216.d.html</link>
-            <guid>2518109</guid>
-            <pubDate>Thu, 03 Feb 2022 11:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  霍尼韦尔(HON.O)2021年Q4 净利润（亿美元）：前值 13.59，预期 14.55，公布 14.28。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8913190.d.html</link>
-            <guid>2518108</guid>
-            <pubDate>Thu, 03 Feb 2022 11:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  霍尼韦尔(HON.O)2021年Q4 营收（亿美元）：前值 89，预期 87.29，公布 86.57。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4085124.d.html</link>
-            <guid>2518107</guid>
-            <pubDate>Thu, 03 Feb 2022 11:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会称，本周晚些时候将恢复伊朗会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8913087.d.html</link>
-            <guid>2518106</guid>
-            <pubDate>Thu, 03 Feb 2022 11:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  默沙东(MRK.N)：第四季度调整后的研发费用为27亿美元，预测为26.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4084791.d.html</link>
-            <guid>2518104</guid>
-            <pubDate>Thu, 03 Feb 2022 11:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  默沙东(MRK.N)：第四季度全球持续运营销售额为135.2亿美元，同比增长24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8912816.d.html</link>
-            <guid>2518103</guid>
-            <pubDate>Thu, 03 Feb 2022 11:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  默沙东(MRK.N)2021年Q4 EPS：前值$-1.03，预期$1.33，公布$1.51。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8912647.d.html</link>
-            <guid>2518101</guid>
-            <pubDate>Thu, 03 Feb 2022 11:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国将为大多数家庭补偿一半的能源价格上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4084161.d.html</link>
-            <guid>2518098</guid>
-            <pubDate>Thu, 03 Feb 2022 11:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  诺瓦瓦克斯医药(NVAX.O)盘前上涨1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8912095.d.html</link>
-            <guid>2518097</guid>
-            <pubDate>Thu, 03 Feb 2022 11:44:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛交易员加入摩根大通行列，做空德国房地产集团阿德勒的债券，买入相关CDS。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8911569.d.html</link>
-            <guid>2518094</guid>
-            <pubDate>Thu, 03 Feb 2022 11:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣苏纳克：政府将全额支付相关成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8911528.d.html</link>
-            <guid>2518093</guid>
-            <pubDate>Thu, 03 Feb 2022 11:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣苏纳克：能源供应商将从10月起提供折扣。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8911520.d.html</link>
-            <guid>2518092</guid>
-            <pubDate>Thu, 03 Feb 2022 11:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣苏纳克：计划通过较长时期分散价格上涨压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4083518.d.html</link>
-            <guid>2518091</guid>
-            <pubDate>Thu, 03 Feb 2022 11:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  默沙东(MRK.N)：预计2022年全球销售额在561亿-576亿美元之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8911212.d.html</link>
-            <guid>2518088</guid>
-            <pubDate>Thu, 03 Feb 2022 11:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  礼来(LLY.N)：预计2022年营收278亿美元至283亿美元，预估为280.9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4082353.d.html</link>
-            <guid>2518087</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  礼来(LLY.N)：预计2022年营业利润率为32％左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4082347.d.html</link>
-            <guid>2518086</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Meta Platforms(FB.O)：估计重复帐户可能占全球月活的11%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4082316.d.html</link>
-            <guid>2518085</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Meta Platforms(FB.O)：预计全球约有3%的月活人口是由违规账户组成。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8910291.d.html</link>
-            <guid>2518084</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  礼来(LLY.N)：第四季度调整后每股收益为2.49美元，市场预期为2.48美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4082290.d.html</link>
-            <guid>2518083</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  礼来(LLY.N)2021年Q4 营收（亿美元）：前值 74.4，预期 77.31，公布 80。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8910260.d.html</link>
-            <guid>2518082</guid>
-            <pubDate>Thu, 03 Feb 2022 11:27:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
