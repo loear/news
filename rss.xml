@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 03 Feb 2022 17:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 18:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国防部发言人柯比：俄罗斯可能会计划制造乌克兰先发动攻击的假象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4112756.d.html</link>
+            <guid>2518409</guid>
+            <pubDate>Thu, 03 Feb 2022 18:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国政府就能源价格上涨召开新闻发布会 宣布政府补偿计划】当地时间2月3日，英国政府宣布从4月起，英格兰、威尔士和苏格兰家庭使用的生活能源价格涨幅最高将提升54%。英国财政大臣苏纳克随后主持新闻发布会并宣布政府补偿计划。补偿计划包括英国约五分之四的家庭先在2022年得到200英镑的能源折扣后，再分5年偿还这笔款项，以及每户家庭可获得150英镑的市政税退税等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8940394.d.html</link>
+            <guid>2518406</guid>
+            <pubDate>Thu, 03 Feb 2022 18:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：将在2月11日与英国外交大臣特拉斯会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4109996.d.html</link>
+            <guid>2518396</guid>
+            <pubDate>Thu, 03 Feb 2022 17:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟Sefcovic：英国脱欧团队下周将继续磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8937929.d.html</link>
+            <guid>2518394</guid>
+            <pubDate>Thu, 03 Feb 2022 17:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：东芝将通过新工厂将功率芯片的产量翻倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4109435.d.html</link>
+            <guid>2518392</guid>
+            <pubDate>Thu, 03 Feb 2022 17:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得克萨斯州：当用电需求于周五达到峰值时，得州将出现10GW额外供应能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8937430.d.html</link>
+            <guid>2518391</guid>
+            <pubDate>Thu, 03 Feb 2022 17:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康菲石油：关注美国石油产量增长情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4109381.d.html</link>
+            <guid>2518390</guid>
+            <pubDate>Thu, 03 Feb 2022 17:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[康菲石油：预计2022年美国石油产量将增加80-90万桶/日。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8936726.d.html</link>
@@ -186,12 +228,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyamrmz8929370.d.html</link>
             <guid>2518285</guid>
             <pubDate>Thu, 03 Feb 2022 15:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：乌克兰与土耳其签署贸易协定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-03/detail-ikyakumy4101276.d.html</link>
-            <guid>2518283</guid>
-            <pubDate>Thu, 03 Feb 2022 15:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
