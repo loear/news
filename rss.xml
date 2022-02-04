@@ -4,11 +4,234 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Feb 2022 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 10:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克的整车减税请求遭拒 特斯拉进军印度受挫】印度政府拒绝了特斯拉CEO埃隆·马斯克关于对进口电动汽车减税的要求，称规定已经允许以较低税率进口未完全装配的车辆并在当地组装生产。当前，印度的电动汽车进口税为：价格低于4万美元的汽车，税率为60%；价格高于4万美元的汽车，税率为100%，相当于价格翻番。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4214906.d.html</link>
+            <guid>2518811</guid>
+            <pubDate>Fri, 04 Feb 2022 10:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：东芝将以8.7亿美元的价格出售东芝开利股份】东芝计划以1000亿日元的价格（约合8.69亿美元）将空调业务东芝开利公司（Toshiba Carrier）的股份出售给美国开利公司（Carrier Corp）。据悉，东芝集团拥东芝开利60%的股份。东芝此举意在消除非核心业务，并专注于利润更高的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4214773.d.html</link>
+            <guid>2518810</guid>
+            <pubDate>Fri, 04 Feb 2022 10:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：印尼爪哇岛发生5.7级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4214725.d.html</link>
+            <guid>2518809</guid>
+            <pubDate>Fri, 04 Feb 2022 10:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄石油公司：与中国石油天然气集团签署1亿吨石油供应协议】俄罗斯石油公司2月4日发布声明称，俄罗斯石油公司和中国石油天然气集团（CNPC）签署过境哈萨克斯坦向中国供应1亿吨石油的协议，协议期为10年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9042215.d.html</link>
+            <guid>2518806</guid>
+            <pubDate>Fri, 04 Feb 2022 10:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms(FB.O)盘前上涨1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9042050.d.html</link>
+            <guid>2518805</guid>
+            <pubDate>Fri, 04 Feb 2022 10:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行：将福特汽车(F.N)目标价从25美元下调至24美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9042033.d.html</link>
+            <guid>2518804</guid>
+            <pubDate>Fri, 04 Feb 2022 10:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms(FB.O)：将支付英国公平竞争及市场管理局的罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4213791.d.html</link>
+            <guid>2518802</guid>
+            <pubDate>Fri, 04 Feb 2022 10:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员：印度将债券交易时间再延长30分钟至当地时间下午4:30。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4213778.d.html</link>
+            <guid>2518801</guid>
+            <pubDate>Fri, 04 Feb 2022 10:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms(FB.O)：对CMA有关我司收购Giphy的交易实施新罚款的决定，感到失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4213743.d.html</link>
+            <guid>2518800</guid>
+            <pubDate>Fri, 04 Feb 2022 10:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国竞争和市场管理局(CMA)：MetaPlatforms(FB.O)未能在关键员工离开公司之前向CMA发出警报，这是CMA的初始执法令所要求的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9041326.d.html</link>
+            <guid>2518798</guid>
+            <pubDate>Fri, 04 Feb 2022 10:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国竞争和市场管理局：Meta Platforms(FB.O)未遵守初始执法令对其要求，处以罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4213382.d.html</link>
+            <guid>2518797</guid>
+            <pubDate>Fri, 04 Feb 2022 10:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国竞争和市场管理局：对Facebook所有者Meta Platforms(FB.O)罚款150万英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4213376.d.html</link>
+            <guid>2518796</guid>
+            <pubDate>Fri, 04 Feb 2022 10:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国竞争和市场管理局：对Meta Platforms(FB.O)、TABBY ACQUISITION 附属公司和FACEBOOK英国有限公司进行处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9041202.d.html</link>
+            <guid>2518795</guid>
+            <pubDate>Fri, 04 Feb 2022 10:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：普京将于2月15日在莫斯科会见德国总理朔尔茨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4212760.d.html</link>
+            <guid>2518794</guid>
+            <pubDate>Fri, 04 Feb 2022 10:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区12月零售销售月率录得-3%，为去年4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9040473.d.html</link>
+            <guid>2518793</guid>
+            <pubDate>Fri, 04 Feb 2022 10:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区12月份零售销售环比-3.0%;预期为-0.9%。]]></title>
+            <guid>2518792</guid>
+            <pubDate>Fri, 04 Feb 2022 10:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区12月份零售销售同比增长2.0%；预期为5.0%。]]></title>
+            <guid>2518791</guid>
+            <pubDate>Fri, 04 Feb 2022 10:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：伊拉克有望向土耳其供应天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4212486.d.html</link>
+            <guid>2518790</guid>
+            <pubDate>Fri, 04 Feb 2022 10:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：俄方愿同中方继续深化经贸、能源、科技、金融、交通等各领域合作】国家主席习近平2月4日下午在北京钓鱼台国宾馆同俄罗斯总统普京举行会谈。普京表示，俄中深化全面战略协作有助于实现两国各自发展，有助于维护两国共同利益，对维护世界战略安全稳定也具有重要意义。俄方愿同中方进一步密切战略沟通协作，坚定相互支持彼此维护主权和领土完整，坚定维护联合国的核心协调作用，坚定维护国际法和国际公平正义，推动构建更加公正合理的国际秩序。俄方愿同中方继续深化经贸、能源、科技、金融、交通等各领域合作，共同办好俄中体育交流年活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4212457.d.html</link>
+            <guid>2518789</guid>
+            <pubDate>Fri, 04 Feb 2022 10:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【习近平同俄罗斯总统普京会谈】普京表示，俄中深化全面战略协作有助于实现两国各自发展，有助于维护两国共同利益，对维护世界战略安全稳定也具有重要意义。俄方愿同中方进一步密切战略沟通协作，坚定相互支持彼此维护主权和领土完整，坚定维护联合国的核心协调作用，坚定维护国际法和国际公平正义，推动构建更加公正合理的国际秩序。俄方愿同中方继续深化经贸、能源、科技、金融、交通等各领域合作，共同办好俄中体育交流年活动。（新华社）]]></title>
+            <guid>2518786</guid>
+            <pubDate>Fri, 04 Feb 2022 09:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【习近平同俄罗斯总统普京会谈】习近平强调，推进中俄科技创新合作，推动人工智能、物联网、国际月球科研站等前沿领域合作。深化两国财政金融政策沟通，增强抵御金融风险的合力。深化共建“一带一路”和欧亚经济联盟对接合作。（新华社）]]></title>
+            <guid>2518785</guid>
+            <pubDate>Fri, 04 Feb 2022 09:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员：印度将债券交易时间延长30分钟至当地时间下午4点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4211634.d.html</link>
+            <guid>2518782</guid>
+            <pubDate>Fri, 04 Feb 2022 09:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【习近平同俄罗斯总统普京会谈】习近平强调，中方愿同俄方一道，充分发挥两国关系政治优势，推动两国全方位务实合作取得更多成果。要落实好中俄货物贸易和服务贸易高质量发展路线图，深化农业、绿色贸易、医药健康、数字经济等领域合作，推动双方交通基础设施联通，畅通欧亚大陆物流，维护全球产业链供应链稳定。（新华社）]]></title>
+            <guid>2518781</guid>
+            <pubDate>Fri, 04 Feb 2022 09:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BMO：将百健(BIIB.O)评级从跑赢大市下调至与同业一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4211496.d.html</link>
+            <guid>2518780</guid>
+            <pubDate>Fri, 04 Feb 2022 09:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将森科能源(SU.N)评级从超配下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4211439.d.html</link>
+            <guid>2518779</guid>
+            <pubDate>Fri, 04 Feb 2022 09:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汤臣集团(00258.HK)将于4月1日没收未领取的2015年度中期股息】汤臣集团(00258.HK)公布，根据公司《公司组织章程细则》的规定，未领取的2015年度中期股息将于2022年4月1日(星期五)被没收及复归公司。2015年度中期股息为每股0.21港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4211148.d.html</link>
+            <guid>2518778</guid>
+            <pubDate>Fri, 04 Feb 2022 09:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：02月04日17时30分在西藏阿里地区改则县发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9038878.d.html</link>
+            <guid>2518777</guid>
+            <pubDate>Fri, 04 Feb 2022 09:47:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)盘前涨幅扩大至13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4210632.d.html</link>
+            <guid>2518776</guid>
+            <pubDate>Fri, 04 Feb 2022 09:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄气与中石油签署天然气长期供应协议】俄罗斯天然气工业股份公司（俄气）2月4日发布声明称，俄气公司与中石油新签一份天然气长期供应协议，将对华天然气出口增加100亿立方米至480亿立方米/年，这些增加的天然气将通过远东天然气管道运输。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9037851.d.html</link>
+            <guid>2518775</guid>
+            <pubDate>Fri, 04 Feb 2022 09:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非农来袭 警惕数据异常糟糕】美国1月非农就业报告将于21:30公布，市场预期增加15万人。此前两次非农尽管预期较好，但最终数据都令人大跌眼镜。在1月非农就业报告调查数据收集中，有整整900万人因为感染奥密克戎毒株而离开工作岗位，因此，需警惕本月公布的数据重蹈覆辙。若数据异常，或将引发市场的剧烈波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9037745.d.html</link>
+            <guid>2518773</guid>
+            <pubDate>Fri, 04 Feb 2022 09:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国航天今年发射次数有望再超40次】今年中国航天再迎高密度发射，发射次数将有望再超40次！春节期间，在中国卫星海上测控部，远望号船员们坚守岗位。远望3号船利用有利时机施放标定球，开展测控设备标校试验，完成多种设备的数据修正，检查了设备状态，为后续执行海上测控任务打下坚实基础。（国资小新）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4209922.d.html</link>
+            <guid>2518772</guid>
+            <pubDate>Fri, 04 Feb 2022 09:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股美股盘前普涨，京东、哔哩哔哩涨超2%，蔚来涨3%，理想汽车、小鹏汽车涨超2%，爱奇艺、雾芯科技涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4209899.d.html</link>
+            <guid>2518771</guid>
+            <pubDate>Fri, 04 Feb 2022 09:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atlantic Equities：将Snap(SNAP.N)目标价从85美元下调至70美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9037457.d.html</link>
+            <guid>2518770</guid>
+            <pubDate>Fri, 04 Feb 2022 09:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港科技探索(01137.HK)：本公司于2022年1月26日发现其电脑系统出现不正常及可疑的活动。有位于其他亚洲地区的伺服器未经授权取览HKTVmall的客户资料。根据现时的调查显示，HKTVmall之438万登记客户资料中，仅有小部份资料被取览。本公司已立即采取行动阻截事件，于2022年1月27日聘用两家具行业领导地位之网络保安公司进行调查，并进一步加强HKTVmall的网络及系统之保安措施。现时没有证据显示客户的资料被滥用或引致客户的任何财务损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9037440.d.html</link>
+            <guid>2518769</guid>
+            <pubDate>Fri, 04 Feb 2022 09:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟官员：欧盟财政规则改革不太可能在2023年底前达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9036836.d.html</link>
+            <guid>2518767</guid>
+            <pubDate>Fri, 04 Feb 2022 09:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国1月建筑业PMI：前值 54.3，预期 54.3，公布 56.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4209067.d.html</link>
+            <guid>2518766</guid>
+            <pubDate>Fri, 04 Feb 2022 09:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：东芝有可能分拆为两家公司并出售部分业务，而不是分拆为三家公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4208704.d.html</link>
+            <guid>2518765</guid>
+            <pubDate>Fri, 04 Feb 2022 09:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：在截至周三的一周内，有218亿美元的资金流入股市，4亿美元流入黄金，116亿美元流出债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9035910.d.html</link>
+            <guid>2518764</guid>
+            <pubDate>Fri, 04 Feb 2022 09:22:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股盘前，Snap大涨52%，Pinterest涨近18%，亚马逊涨超12%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4206940.d.html</link>
@@ -133,126 +356,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4191219.d.html</link>
             <guid>2518708</guid>
             <pubDate>Fri, 04 Feb 2022 07:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家发展改革委主任何立峰与巴基斯坦总理伊姆兰·汗举行视频会谈】今天上午，国家发展改革委主任何立峰应约与来华出席北京冬奥会开幕式的巴基斯坦总理伊姆兰·汗举行视频会谈，唐登杰、宁吉喆副主任陪同。会上，双方视频签署了关于产业、瓜达尔港的合作文件。中巴经济走廊已经进入拓展充实的高质量发展新阶段，两国领导人就推动走廊高质量运行达成重要共识。发展改革委作为中巴经济走廊联委会中方牵头单位，将与巴方一道，认真落实两国元首的重要指示精神，紧扣“1+4”合作布局，务实推动中巴经济走廊高质量运行，扎实推进健康走廊、产业走廊、贸易走廊、数字走廊、绿色走廊建设，打造“一带一路”高质量发展的示范工程，携手构建新时代更加紧密的中巴命运共同体。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4189370.d.html</link>
-            <guid>2518705</guid>
-            <pubDate>Fri, 04 Feb 2022 06:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国KOSPI指数2月4日（周五）收盘上涨42.44点，涨幅1.57%，报2750.26点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9015712.d.html</link>
-            <guid>2518704</guid>
-            <pubDate>Fri, 04 Feb 2022 06:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国铁路直供电厂存煤可耗天数皆达18天以上】据中国国家铁路集团有限公司（以下简称国铁集团）消息，国铁集团持续推进电煤保供专项行动，取得积极成效，截至2月3日，全国363家铁路直供电厂存煤6695万吨，同比增加2796万吨、增长72%，存煤可耗天数皆达18天以上，创造历史最好成绩，为确保国民经济平稳运行、能源供应安全稳定和人民群众温暖过冬提供了更为有力的保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9014530.d.html</link>
-            <guid>2518701</guid>
-            <pubDate>Fri, 04 Feb 2022 06:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：预计美国1月非农人口将下降21.5万人，此前预期将被大幅下修，这将是美国月度就业报告自2020年12月以来首次下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9014316.d.html</link>
-            <guid>2518700</guid>
-            <pubDate>Fri, 04 Feb 2022 06:21:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗分析师Veronica Clark：非农就业人口的下行风险已充分显露，若1月就业人口大幅下滑，且未来数月可能反弹，我们不会感到意外，也不必担心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4186213.d.html</link>
-            <guid>2518698</guid>
-            <pubDate>Fri, 04 Feb 2022 06:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国科学家在干细胞治疗糖尿病研究中获得重要进展】我国科学家在干细胞治疗糖尿病研究中获得重要进展，由北京大学邓宏魁研究团队、中国医学科学院彭小忠研究团队和天津市第一中心医院沈中阳研究团队合作，解决了高效诱导人多能干细胞（IPS）分化成为功能成熟的胰岛细胞的难题，有望在将来成为治愈1型糖尿病更为理想的治疗方案。研究团队利用临床前期灵长类糖尿病动物模型，系统性评价了IPS来源的胰岛移植治疗糖尿病的安全性和有效性，为进一步规范化实施IPS来源的胰岛移植治疗糖尿病临床研究奠定了坚实的基础。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4185944.d.html</link>
-            <guid>2518697</guid>
-            <pubDate>Fri, 04 Feb 2022 06:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数收涨0.73%，报27439.99点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4184310.d.html</link>
-            <guid>2518695</guid>
-            <pubDate>Fri, 04 Feb 2022 06:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富瑞：下调华虹半导体(01347.HK)目标价至55.2港元 评级买入】华虹半导体(01347.HK)2021年全年纯利2.12亿美元，升113.3%；去年末季纯利按年升92.9%至8,412.7万美元。富瑞发表报告，表示华虹末季业绩胜预期，管理层预期平均售价进一步提高，其仍然是中国半导体生产本地化和行业上升周期延长的受惠者。该行维持其买入评级，目标价由56.28港元下调至55.2港元。富瑞表示，华虹几乎所有产品主要使用平台的需求均强劲，半导体生产本地化仍是一大投资主题，其12寸晶圆产能如期扩张。该行下调华虹对12寸晶圆毛利率预测，以反映在2022或2023年需要建造新晶圆厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4184207.d.html</link>
-            <guid>2518694</guid>
-            <pubDate>Fri, 04 Feb 2022 06:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年日本农产品出口额达1.2万亿日元创新高】据日本农林水产省数据，2021年日本农林水产品与食品出口额较上年增长25.6%，达1.2385万亿日元（约合人民币686亿元），连续9年创新高。这也是此类出口额首次突破1万亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9009963.d.html</link>
-            <guid>2518689</guid>
-            <pubDate>Fri, 04 Feb 2022 05:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚洲首富换人：印度富豪阿达尼超安巴尼成首富】据福布斯实时富豪榜，印度富豪高塔姆-阿达尼（Gautam Adani ）的身价达到901亿美元，超过信实集团董事长穆克什-安巴尼，成为亚洲首富，也是全球第十大富豪。不过，阿达尼目前身价仅比安巴尼的900亿美元多出1亿美元，在这一位置上能坐多久还有待观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9007784.d.html</link>
-            <guid>2518684</guid>
-            <pubDate>Fri, 04 Feb 2022 05:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【今日下午浙江杭州富阳区将在特定区域组织开展全员核酸检测】浙江杭州市富阳区新型冠状病毒感染的肺炎防控工作应急指挥部通告称，2月4日14时至16时，将在特定区域组织开展全员核酸检测。采样检测对象为富春街道、银湖街道、新登镇、上官乡、洞桥镇区域范围内2月4日未参加过核酸检测的所有市民。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9007687.d.html</link>
-            <guid>2518683</guid>
-            <pubDate>Fri, 04 Feb 2022 05:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【携程：春节假期滑雪度假酒店订单量同比增长52%】携程数据显示，春节前三天的滑雪门票订单与去年同期相比增长33%，滑雪酒店的订单量同比增长52%，酒店人均花费同比去年春节上涨13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4176022.d.html</link>
-            <guid>2518676</guid>
-            <pubDate>Fri, 04 Feb 2022 04:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息称土耳其将放宽汽车贷款限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9002639.d.html</link>
-            <guid>2518673</guid>
-            <pubDate>Fri, 04 Feb 2022 04:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其1月CPI同比涨幅创近20年新高】土耳其统计局3日公布的数据显示，该国1月消费者价格指数（CPI）同比上涨近50%，创下近20年同比最大涨幅。数据显示，土耳其1月CPI同比上涨48.69%，为2002年4月以来同比最大涨幅。尽管通胀数据惊人，但土耳其总统埃尔多安反对提高基准利率，认为低利率政策有助于稳定物价。他日前表示，土耳其政府将“逐月降低螺旋上升的高通胀”，并“在一段时间后”彻底消除高通胀。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9000540.d.html</link>
-            <guid>2518670</guid>
-            <pubDate>Fri, 04 Feb 2022 04:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其议会批准与阿塞拜疆的军事合作宣言。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4172480.d.html</link>
-            <guid>2518668</guid>
-            <pubDate>Fri, 04 Feb 2022 04:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本机场因边境管制放宽而跳升7.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8998421.d.html</link>
-            <guid>2518667</guid>
-            <pubDate>Fri, 04 Feb 2022 04:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东芝拟建新厂将功率半导体产能提高逾一倍】东芝公司周五宣布，计划建设一个新的300毫米晶圆制造厂，到2025年将其功率半导体的产能提高逾一倍。该公司表示，这座位于日本西部石川县的新工厂将分两阶段建设。当第一阶段全面投入运营时，东芝的功率半导体产能将是2021财年的2.5倍。较早时有报道称，东芝将投资约1，000亿日元（约8.7亿美元）建设该工厂。东芝在声明中表示，汽车电气化和工业设备自动化是推动功率调节芯片需求上升的两大趋势。该公司表示，新工厂的目标是100%依赖可再生能源。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8996402.d.html</link>
-            <guid>2518665</guid>
-            <pubDate>Fri, 04 Feb 2022 04:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国联邦法院裁定苹果没有因iPhone防水宣传误导用户】据外媒报道，美国一名联邦法官驳回了一项拟议的集体诉讼，该诉讼指控苹果在iPhone的防水性的宣传有误导嫌疑。自iPhone‌ 7推出以来，苹果在其营销中广泛宣传iPhone‌的防水性，包括声称某些型号可以在4米深的水中坚持30分钟。美国地方法官丹尼斯·科特裁定，虽然原告合理地声称苹果的广告可能会误导一些客户，但他们并没有证明他们的iPhone因苹果承诺的“液体接触”而损坏。法官没有发现任何欺诈证据，缺乏证据表明苹果公司有意夸大其防水声明以谋取商业利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz8995311.d.html</link>
-            <guid>2518664</guid>
-            <pubDate>Fri, 04 Feb 2022 03:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【辽港股份1月集装箱装卸量创三年同期新高】从辽港股份获悉，辽港股份集装箱运输生产迎来“开门红”，公司码头1月装卸箱量创近三年同期最高水平。 (中证网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4167446.d.html</link>
-            <guid>2518663</guid>
-            <pubDate>Fri, 04 Feb 2022 03:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来汽车斥资5000万杀入保险经纪领域 新能源车险不要中介？】2021年底，随着新能源汽车商业保险专属条款的正式实施，不少新能源汽车的保费大幅增长。随着蔚来入局保险经纪领域，业界开始更加期待新能源车企与保险公司推出专属保险产品。行业人士普遍认为，相对于传统保险公司，新能源车企在车辆的出行数据方面优势明显，更容易对用户的用车行为进行风险监测。如果车企设立保险机构可以节约风险管理成本和中介费用。同时可以借助保险增强与用户的连接，从而拓展更多综合服务，实现服务闭环。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4165048.d.html</link>
-            <guid>2518660</guid>
-            <pubDate>Fri, 04 Feb 2022 03:35:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
