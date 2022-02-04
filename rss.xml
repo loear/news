@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Feb 2022 16:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国总统拜登：肉类包装行业遭受了竞争力下降的不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9077486.d.html</link>
+            <guid>2519406</guid>
+            <pubDate>Fri, 04 Feb 2022 17:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：许多人的薪资有所上升，我们需要更多高薪的工作岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9077473.d.html</link>
+            <guid>2519405</guid>
+            <pubDate>Fri, 04 Feb 2022 17:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车将在2月7日当周暂停美国芝加哥和怀俄明工厂的运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4249349.d.html</link>
+            <guid>2519403</guid>
+            <pubDate>Fri, 04 Feb 2022 16:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国就业机器运作比以前更强。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076835.d.html</link>
+            <guid>2519402</guid>
+            <pubDate>Fri, 04 Feb 2022 16:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【石油市场继续走强，油价触及93美元】当前石油价格已经飙升至七年新高，在美国寒流来袭之际，美国汽车协会的数据显示汽油零售价格升至2014年以来最高水平，主要储油中心库存正显著下降，重要价格指标反映供应紧张的局面将会持续。与此同时，利比亚、厄瓜多尔与尼日利亚均出现局部供应中断的情况，限制了轻质原油的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076692.d.html</link>
+            <guid>2519401</guid>
+            <pubDate>Fri, 04 Feb 2022 16:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】德国DAX30指数2月4日（周五）收盘下跌265.70点，跌幅1.73%，报15102.77点；英国富时100指数2月4日（周五）收盘下跌11.14点，跌幅0.15%，报7517.70点；法国CAC40指数2月4日（周五）收盘下跌54.25点，跌幅0.77%，报6951.38点；欧洲斯托克50指数2月4日（周五）收盘下跌54.37点，跌幅1.31%，报4086.65点；西班牙IBEX35指数2月4日（周五）收盘下跌97.37点，跌幅1.12%，报8592.03点；意大利富时MIB指数2月4日（周五）收盘下跌476.96点，跌幅1.76%，报26612.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248761.d.html</link>
+            <guid>2519398</guid>
+            <pubDate>Fri, 04 Feb 2022 16:44:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国司法部正收集数十家投资公司和研究机构涉嫌参与做空的信息，这是美国政府调查潜在滥用交易优势的行动之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076277.d.html</link>
+            <guid>2519396</guid>
+            <pubDate>Fri, 04 Feb 2022 16:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国金融稳定监督委员会（FSOC）：已经研究Archegos资本管理爆仓事件作为对冲基金的风险案例；Archegos资本管理并不是一个对冲基金，但事实上却发生了类似对冲基金的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248370.d.html</link>
+            <guid>2519395</guid>
+            <pubDate>Fri, 04 Feb 2022 16:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌1.52%，报461.49点。富时泛欧绩优300指数初步收跌1.31%，欧元区STOXX 50指数初步收跌1.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248269.d.html</link>
+            <guid>2519391</guid>
+            <pubDate>Fri, 04 Feb 2022 16:35:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[惠誉：确认迪尔股份(DE.N)评级为'A'/'F1'，前景展望稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9073429.d.html</link>
@@ -198,30 +252,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9064020.d.html</link>
             <guid>2519231</guid>
             <pubDate>Fri, 04 Feb 2022 13:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国劳工部：1月就业数据中，有360万人因生病没有参加就业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9063186.d.html</link>
-            <guid>2519219</guid>
-            <pubDate>Fri, 04 Feb 2022 13:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债实际收益率升至0以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9063042.d.html</link>
-            <guid>2519213</guid>
-            <pubDate>Fri, 04 Feb 2022 13:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工部：去年12月非农就业人数从19.9万人上修至51万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4235191.d.html</link>
-            <guid>2519211</guid>
-            <pubDate>Fri, 04 Feb 2022 13:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工局：美国休闲和酒店业、专业和服务业、零售贸易、交通运输和仓储行业的就业岗位录得增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4235053.d.html</link>
-            <guid>2519208</guid>
-            <pubDate>Fri, 04 Feb 2022 13:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

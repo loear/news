@@ -6,6 +6,69 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2519406,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9077486.d.html",
+            "title": "  美国总统拜登：肉类包装行业遭受了竞争力下降的不利影响。",
+            "date_modified": "2022-02-04T17:02:54.000Z"
+        },
+        {
+            "id": 2519405,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9077473.d.html",
+            "title": "  美国总统拜登：许多人的薪资有所上升，我们需要更多高薪的工作岗位。",
+            "date_modified": "2022-02-04T17:02:48.000Z"
+        },
+        {
+            "id": 2519403,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4249349.d.html",
+            "title": "福特汽车将在2月7日当周暂停美国芝加哥和怀俄明工厂的运营。",
+            "date_modified": "2022-02-04T16:54:10.000Z"
+        },
+        {
+            "id": 2519402,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076835.d.html",
+            "title": "美国总统拜登：美国就业机器运作比以前更强。",
+            "date_modified": "2022-02-04T16:52:07.000Z"
+        },
+        {
+            "id": 2519401,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076692.d.html",
+            "title": "  【石油市场继续走强，油价触及93美元】当前石油价格已经飙升至七年新高，在美国寒流来袭之际，美国汽车协会的数据显示汽油零售价格升至2014年以来最高水平，主要储油中心库存正显著下降，重要价格指标反映供应紧张的局面将会持续。与此同时，利比亚、厄瓜多尔与尼日利亚均出现局部供应中断的情况，限制了轻质原油的产量。",
+            "date_modified": "2022-02-04T16:49:51.000Z"
+        },
+        {
+            "id": 2519398,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248761.d.html",
+            "title": "【股市收盘】德国DAX30指数2月4日（周五）收盘下跌265.70点，跌幅1.73%，报15102.77点；英国富时100指数2月4日（周五）收盘下跌11.14点，跌幅0.15%，报7517.70点；法国CAC40指数2月4日（周五）收盘下跌54.25点，跌幅0.77%，报6951.38点；欧洲斯托克50指数2月4日（周五）收盘下跌54.37点，跌幅1.31%，报4086.65点；西班牙IBEX35指数2月4日（周五）收盘下跌97.37点，跌幅1.12%，报8592.03点；意大利富时MIB指数2月4日（周五）收盘下跌476.96点，跌幅1.76%，报26612.00点。",
+            "date_modified": "2022-02-04T16:44:07.000Z"
+        },
+        {
+            "id": 2519396,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9076277.d.html",
+            "title": "市场资讯：美国司法部正收集数十家投资公司和研究机构涉嫌参与做空的信息，这是美国政府调查潜在滥用交易优势的行动之一。",
+            "date_modified": "2022-02-04T16:42:03.000Z"
+        },
+        {
+            "id": 2519395,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248370.d.html",
+            "title": "美国金融稳定监督委员会（FSOC）：已经研究Archegos资本管理爆仓事件作为对冲基金的风险案例；Archegos资本管理并不是一个对冲基金，但事实上却发生了类似对冲基金的问题。",
+            "date_modified": "2022-02-04T16:37:29.000Z"
+        },
+        {
+            "id": 2519391,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248269.d.html",
+            "title": "欧洲STOXX 600指数初步收跌1.52%，报461.49点。富时泛欧绩优300指数初步收跌1.31%，欧元区STOXX 50指数初步收跌1.44%。",
+            "date_modified": "2022-02-04T16:35:32.000Z"
+        },
+        {
             "id": 2519383,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9073429.d.html",
@@ -226,34 +289,6 @@
             "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9064020.d.html",
             "title": "分析师Bill Holobowski：奥密克戎毒株对工作产生了显著影响。然而，这也是一个重要的迹象，即不要把高于共识的平均时薪数据看得太过真实，因为低薪工人生病会导致劳动力成本压力向上扭曲。",
             "date_modified": "2022-02-04T13:48:49.000Z"
-        },
-        {
-            "id": 2519219,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9063186.d.html",
-            "title": "  美国劳工部：1月就业数据中，有360万人因生病没有参加就业。",
-            "date_modified": "2022-02-04T13:39:22.000Z"
-        },
-        {
-            "id": 2519213,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9063042.d.html",
-            "title": "美国30年期国债实际收益率升至0以上。",
-            "date_modified": "2022-02-04T13:36:54.000Z"
-        },
-        {
-            "id": 2519211,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4235191.d.html",
-            "title": "美国劳工部：去年12月非农就业人数从19.9万人上修至51万人。",
-            "date_modified": "2022-02-04T13:35:33.000Z"
-        },
-        {
-            "id": 2519208,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4235053.d.html",
-            "title": "美国劳工局：美国休闲和酒店业、专业和服务业、零售贸易、交通运输和仓储行业的就业岗位录得增加。",
-            "date_modified": "2022-02-04T13:33:55.000Z"
         }
     ]
 }
