@@ -6,6 +6,40 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2519616,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9093335.d.html",
+            "title": "互动健身平台Peloton美股盘后涨22%，道琼斯新闻报道称，该公司引起亚马逊等公司的兴趣。",
+            "date_modified": "2022-02-04T22:16:03.000Z"
+        },
+        {
+            "id": 2519614,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4265040.d.html",
+            "title": "  惠誉确认乌克兰评级在B，将其评级展望从正面下修为稳定。",
+            "date_modified": "2022-02-04T22:06:27.000Z"
+        },
+        {
+            "id": 2519610,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4264142.d.html",
+            "title": "汇丰银行外汇策略主管Daragh Maher：“非农”数据中薪资环比上涨0.7%最鹰派，这有助于抵消对美元利空的实际收益受挤压的担忧和滞胀主题，并可能激励联邦公开市场委员会(FOMC)的鹰派人士。",
+            "date_modified": "2022-02-04T21:50:24.000Z"
+        },
+        {
+            "id": 2519607,
+            "content_html": "",
+            "title": "  【亚马逊周五大涨13% 跻身全球股市单日市值增幅榜第二】美国当地时间周五，科技巨头亚马逊经历开盘震荡后最终收涨13.54%，漂亮的四季报令公司市值单日上涨逾1900亿美元，这个数字也能在全球股市历史上排在第二。需要说明的是，即便在周五两位数大涨后，亚马逊也仅收复了1月底至今的跌幅。在周五美国非农数据大幅好于预期的影响下，美元货币紧缩周期不可避免地会对科技成长股构成压力。",
+            "date_modified": "2022-02-04T21:41:58.000Z"
+        },
+        {
+            "id": 2519606,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9091415.d.html",
+            "title": "【欧盟宣布制裁马里过渡总理等高官】欧盟4日宣布，鉴于马里局势和近期事态发展，欧盟决定制裁马里过渡总理、全国过渡理事会主席等5名高官。",
+            "date_modified": "2022-02-04T21:40:40.000Z"
+        },
+        {
             "id": 2519562,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9089812.d.html",
@@ -187,41 +221,6 @@
             "url": "https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4248269.d.html",
             "title": "欧洲STOXX 600指数初步收跌1.52%，报461.49点。富时泛欧绩优300指数初步收跌1.31%，欧元区STOXX 50指数初步收跌1.44%。",
             "date_modified": "2022-02-04T16:35:32.000Z"
-        },
-        {
-            "id": 2519383,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9073429.d.html",
-            "title": "惠誉：确认迪尔股份(DE.N)评级为'A'/'F1'，前景展望稳定。",
-            "date_modified": "2022-02-04T15:58:08.000Z"
-        },
-        {
-            "id": 2519381,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9073007.d.html",
-            "title": "Snap(SNAP.N)目前位居美股知名社区Stocktwits热股排行首位，积极情绪占比为73.33%。截至目前，Snap大涨45%。",
-            "date_modified": "2022-02-04T15:48:48.000Z"
-        },
-        {
-            "id": 2519377,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4244841.d.html",
-            "title": "联合国粮农组织食品价格指数1月份环比上涨1.1%，达到2011年以来新高。其中植物油因供应紧张价格环比上涨4%，为指数上涨的主要推动力。飞涨的食品价格将继续不成比例地打击最低收入家庭，因食品在其收入中所占的比例要大得多。",
-            "date_modified": "2022-02-04T15:40:19.000Z"
-        },
-        {
-            "id": 2519376,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4244824.d.html",
-            "title": "市场消息：阿联酋将恢复与法国的联合防御协议，以应对袭击。",
-            "date_modified": "2022-02-04T15:40:08.000Z"
-        },
-        {
-            "id": 2519374,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4244670.d.html",
-            "title": "美国1月份非农就业人数增加46.7万人，为去年10月以来最大增幅，意外大幅超出预期，失业率小幅上升至4%。1月份平均时薪跃升，同比增长5.7%，为2020年5月以来的最快增幅。总工作时间意外从34.7下降到34.5，足以解释收入激增的原因。",
-            "date_modified": "2022-02-04T15:36:55.000Z"
         }
     ]
 }
