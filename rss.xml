@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Feb 2022 19:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 20:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷在当地时间周五向国际货币基金组织支付了3.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4258638.d.html</link>
+            <guid>2519458</guid>
+            <pubDate>Fri, 04 Feb 2022 19:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登签署命令，旨在对基建岗位涨薪。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4258412.d.html</link>
+            <guid>2519452</guid>
+            <pubDate>Fri, 04 Feb 2022 19:32:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国首相府骨干成员接连辞职 约翰逊：改变是好的】当地时间2月4日，英国首相府政策部门的成员纳洛赞斯基辞职，她也是一天中从唐宁街10号离职的第五位骨干成员。之前辞职的还包括与英国首相鲍里斯·约翰逊共事14年的政策负责人、首相首席私人秘书、通信主管、幕僚长等人。英国首相府发言人证实，首相约翰逊随后召集了所有工作人员进行谈话。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9083135.d.html</link>
@@ -179,35 +191,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9071771.d.html</link>
             <guid>2519365</guid>
             <pubDate>Fri, 04 Feb 2022 15:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riot Blockchain(RIOT.O)涨幅进一步扩大至7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4243500.d.html</link>
-            <guid>2519356</guid>
-            <pubDate>Fri, 04 Feb 2022 15:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国欧盟事务部长Beaune：金融市场需要明确信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9070878.d.html</link>
-            <guid>2519354</guid>
-            <pubDate>Fri, 04 Feb 2022 15:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法国呼吁欧盟阻止伦敦金融城2025年后继续保留清算中心地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyamrmz9070789.d.html</link>
-            <guid>2519353</guid>
-            <pubDate>Fri, 04 Feb 2022 15:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WallStreetBets社区热股排行：目前亚马逊(AMZN.O)热度排行首位，其次为Meta Platforms(FB.O)、Snap(SNAP.N)、Rivian(RIVN.O)、特斯拉(TSLA.O)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-04/detail-ikyakumy4242748.d.html</link>
-            <guid>2519347</guid>
-            <pubDate>Fri, 04 Feb 2022 15:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克综合指数上涨1.0%，报14017.95点。]]></title>
-            <guid>2519346</guid>
-            <pubDate>Fri, 04 Feb 2022 15:06:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
