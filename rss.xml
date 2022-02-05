@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 05 Feb 2022 12:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 13:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【中国队晋级短道速滑混合团体接力半决赛 创造奥运纪录】中国队2月5日在北京冬奥会短道速滑混合团体接力比赛中出战，向金牌发起冲击。中国队在混合团体接力比赛1/4决赛中发挥出色，以2分37秒535成绩，小组第一晋级半决赛，创造奥运纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4370689.d.html</link>
+            <guid>2519936</guid>
+            <pubDate>Sat, 05 Feb 2022 12:47:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【习近平会见阿联酋阿布扎比王储穆罕默德】习近平强调，中方坚定支持阿方维护国家主权、安全、稳定，愿同阿方继续坚定相互支持彼此在核心利益问题上的立场，深化抗疫合作。中方愿同阿方加强发展战略对接，支持阿方实施“面向未来50年发展战略”，积极参与阿方重大发展项目，推进高质量共建“一带一路”，就落实全球发展倡议保持密切沟通。中方愿同阿方在加强传统能源合作基础上，拓展新能源、可再生能源、航空航天等领域合作，进一步提升两国务实合作含金量。双方应加强反恐等领域合作，维护两国共同安全。中方支持阿方成功举办迪拜世博会，愿同海合会国家一道，加快自由贸易协定谈判进程，为双方和世界经济注入新动力。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4365779.d.html</link>
@@ -321,24 +327,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9127836.d.html</link>
             <guid>2519694</guid>
             <pubDate>Sat, 05 Feb 2022 03:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【有金刚线企业春节期间产能翻3倍】金刚线行业人士表示，近段时间以来，金刚线企业的出货量普遍翻了一倍，有的翻两三倍。数据显示，一年间岱勒新材的金刚线产能翻了3倍。即便如此，下游光伏硅片龙头企业的催单仍然凶猛。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9127471.d.html</link>
-            <guid>2519690</guid>
-            <pubDate>Sat, 05 Feb 2022 03:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【AppleMusic免费试用期缩短至1个月】自2015年推出以来，苹果音乐Apple Music为首次订购的用户提供了三个月的免费试用期，但现在试用期已经缩短。从本周开始，苹果音乐向美国、加拿大、澳大利亚、英国、日本和其他国家地区的首次订购者提供更短的一个月免费试用期。日本博客Mac Otakara首先发现了这一变化。Apple Music继续向购买符合条件的 AirPods、Beats或HomePod型号的客户提供为期六个月的免费试用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9126524.d.html</link>
-            <guid>2519689</guid>
-            <pubDate>Sat, 05 Feb 2022 02:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国-俄罗斯AEO互认安排签署】记者5日从海关总署获悉，中国-俄罗斯AEO（“经认证的经营者”）互认安排日前签署。据介绍，中俄海关实现AEO互认后，一方面，两国AEO企业间直接进出口的货物将在通关中享受相关便利措施，显著降低企业的仓储、物流等贸易成本；另一方面，得益于AEO制度对贸易安全的严格要求，中俄AEO互认将进一步促进两国供应链的安全顺畅，为两国巩固能源合作基础、持续扩大贸易和投资规模营造更加安全便利的环境。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4298935.d.html</link>
-            <guid>2519688</guid>
-            <pubDate>Sat, 05 Feb 2022 02:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
