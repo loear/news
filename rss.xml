@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Feb 2022 16:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 17:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【德国防长再次强调不会向乌克兰提供武器】德国国防部长兰布雷希特对于日益紧张的乌克兰局势再次强调，德国不会向乌克兰提供武器。兰布雷希特说，北约-俄罗斯理事会和“诺曼底模式”四方会谈都在作出努力，“现在我们的任务是缓和局势，希望和平地解决这场冲突”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-07/detail-ikyamrmz9358819.d.html</link>
+            <guid>2521492</guid>
+            <pubDate>Sun, 06 Feb 2022 16:58:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【 方正中期期货：供应偏紧叠加地缘局势紧张 原油维持强势 】 
 春节假期，欧美原油整体延续涨势，WTI原油累计涨5.3%，Brent原油累计涨4.1%，并不断刷新近7年多以来新高，全球地缘局势持续紧张以及原油供应整体偏紧支撑油市，同时机构方面继续维持看涨气氛。当前东欧局势仍无缓和迹象，而伊朗核谈仍处僵局，全球地缘局势持续紧张，此外，由于OPEC+产量恢复不及预期，同时美国页岩油维持低景气度，原油供应端持续偏紧。在此背景下，油价短线预计维持强势格局，国内SC原油节后预计将高开并进一步走高。操作上，建议短线维持多头思路，期权策略方面建议卖出虚值看涨期权 。]]></title>
@@ -318,12 +324,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9300109.d.html</link>
             <guid>2521131</guid>
             <pubDate>Sun, 06 Feb 2022 07:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2月6日全国预计发送旅客2645万人次】据国务院联防联控机制春运工作专班消息，春运第21天，全国预计发送旅客2645万人次。其中，铁路预计发送旅客820万人次，公路1650万人次，水路52万人次，民航123万人次。全国高速公路流量共4881.94万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9299189.d.html</link>
-            <guid>2521129</guid>
-            <pubDate>Sun, 06 Feb 2022 07:08:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
