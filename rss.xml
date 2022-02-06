@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Feb 2022 19:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 20:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【八省市发布2022年重大项目投资清单 总投资额至少超15.6万亿元】各地正陆续印发2022年重大项目清单。截至2月6日，已有山东、北京、河北、江苏、上海、广东、浙江、四川等八个省市发布了2022年重大项目投资清单，共6501个项目，总投资额合计至少超15.6万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-07/detail-ikyakumy4542451.d.html</link>
+            <guid>2521511</guid>
+            <pubDate>Sun, 06 Feb 2022 19:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果考虑将FaceID引入到iMac】据称，苹果第一款真正考虑在Mac中使用Face ID的机型不是MacBook Pro，而是24英寸iMac。据称“原始M1 iMac本身就包含Face ID”，这呼应了此前有关该问题的爆料，去年7月，就有人预测Face ID将在几年内转移到Mac系列中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-07/detail-ikyamrmz9369390.d.html</link>
+            <guid>2521510</guid>
+            <pubDate>Sun, 06 Feb 2022 19:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【稳增长发力见效 虎年经济稳中向好新图景加速绘就】在宏观经济基本面持续向好、市场流动性有望保持充裕的战略定力下，壬寅虎年经济平稳健康发展可期。稳增长政策的发力见效与良好的资金面环境也说明资本市场长期向好趋势不会改变。整体来看，支撑虎年中国发展的有利因素和条件仍然不少，虎年开市新局面值得期待，经济发展稳中向好的新图景正在加快绘就。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-07/detail-ikyamrmz9368279.d.html</link>
+            <guid>2521508</guid>
+            <pubDate>Sun, 06 Feb 2022 19:23:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【1月基金发行遇冷 份额环比下降近六成】1月基金发行市场遇冷。以基金成立日作为统计标准，1月新发基金总数为148只，发行份额为1188.20亿份，相比去年12月的245只、3036.57亿份分别下降39.59%、60.87%。单只基金的平均发行份额为8.03亿份，不足10亿份，也创下了自2021年1月以来的新低。]]></title>
             <guid>2521507</guid>
@@ -314,18 +332,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4480143.d.html</link>
             <guid>2521146</guid>
             <pubDate>Sun, 06 Feb 2022 08:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆啤酒业绩快报：2021年净利11.66亿元 同比增长38.82%】重庆啤酒公告，2021年实现营业总收入131.19亿元，同比增长19.9%；归属于上市公司股东的净利润11.66亿元，同比增长38.82%（对比上年同期备考报表数据）。主营业务持续健康增长，实现啤酒销量比上年同期增长约15%，得益于“扬帆 22”项目的精耕和拓展；持续推动产品高端化经营策略；持续推进组织结构优化项目并开展运营成本管理项目带来的节约，抵消了成本上涨带来的部分不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4479435.d.html</link>
-            <guid>2521145</guid>
-            <pubDate>Sun, 06 Feb 2022 08:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东安动力：1月发动机销量同比增长4.8% 东安汽发发动机销量同比下降18.73%】东安动力披露2022年1月份产销数据快报，公司实现发动机产量38374台，同比增长10.06%；实现发动机销量42216台，同比增长4.8%。2022年1月，东安汽发实现发动机产量16358台，同比减少2.87%；实现发动机销量13,860台，同比减少18.73%。另外，实现变速器产量7646台，同比增长332.47%；实现变速器销量7296台，同比增长90.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9306110.d.html</link>
-            <guid>2521143</guid>
-            <pubDate>Sun, 06 Feb 2022 08:03:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
