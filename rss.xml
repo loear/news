@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Feb 2022 12:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 13:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【鸿海与泰石油巨擘PTT合资电动车预计2024年量产，首期投资规划10亿美元】鸿海集团布局电动车传新进展，泰国国家石油集团（PTT）2月6日透露，与鸿海集团合资泰国电动车厂，最快2024年第1季量产，双方将在今年上半年敲定最后投资细节。产业人士透露，PTT与鸿海集团双方首期投资总金额规划10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9337973.d.html</link>
+            <guid>2521404</guid>
+            <pubDate>Sun, 06 Feb 2022 12:41:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【侨银股份：预中标4.89亿元环卫市场化服务项目】侨银股份公告，公司近日预中标江西省南昌市东湖区环卫市场化服务项目，中标(成交)金额约4717.64万元/年；根据项目调价机制，参照每年CPI上涨及燃油价格调整幅度，从项目运营起，每三年在上三年基础上，年合同金额增加3%，中标总金额约4.89亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4508119.d.html</link>
@@ -323,24 +329,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4455913.d.html</link>
             <guid>2521018</guid>
             <pubDate>Sun, 06 Feb 2022 04:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州地铁三号线大石站2月6日12时起暂停服务。（南方Plus）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9280391.d.html</link>
-            <guid>2520933</guid>
-            <pubDate>Sun, 06 Feb 2022 04:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平会见新加坡总统哈莉玛】国家主席习近平6日上午在人民大会堂会见来华出席北京2022年冬奥会的新加坡总统哈莉玛。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4453290.d.html</link>
-            <guid>2520932</guid>
-            <pubDate>Sun, 06 Feb 2022 04:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自2022年2月6日12时起,安定镇后辛房村、单县羊汤馆（安定商业街店）、西域美食兰州老马牛肉拉面（青礼路店）解除封控。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4452907.d.html</link>
-            <guid>2520917</guid>
-            <pubDate>Sun, 06 Feb 2022 04:33:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
