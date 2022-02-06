@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Feb 2022 02:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 03:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【电影《狙击手》自2月7日起下调票价】电影《狙击手》宣布自2月7日起下调最低结算价格至A类35元，B类30元（各降5元）。这也是今年春节档8部新片里首部降低限价的影片。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9268969.d.html</link>
+            <guid>2520678</guid>
+            <pubDate>Sun, 06 Feb 2022 03:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据灯塔专业版，截至2月6日11时10分，2022春节档新片(含预售)总票房已突破55亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9267835.d.html</link>
+            <guid>2520633</guid>
+            <pubDate>Sun, 06 Feb 2022 03:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州卫健委：建议中高风险地区所在县（区、市）的人员暂缓返工返岗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9266801.d.html</link>
+            <guid>2520628</guid>
+            <pubDate>Sun, 06 Feb 2022 03:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年我国发放失业保险稳岗返还资金230亿元】记者近日从人力资源和社会保障部获悉，2021年，我国延续实施包括普惠性失业保险稳岗返还政策在内的8项减负稳岗扩就业的政策，全年支出就业补助资金近千亿元，共向406万户企业发放失业保险稳岗返还资金230亿元。（新华社）]]></title>
+            <guid>2520627</guid>
+            <pubDate>Sun, 06 Feb 2022 03:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国将加快废旧物资循环利用体系建设】国家发展改革委等部门近日发布关于加快废旧物资循环利用体系建设的指导意见，提出到2025年，我国废旧物资循环利用政策体系进一步完善，资源循环利用水平进一步提升。根据意见，到2025年，废旧物资回收网络体系基本建立，建成绿色分拣中心1000个以上。再生资源加工利用行业“散乱污”状况明显改观，集聚化、规模化、规范化、信息化水平大幅提升。废钢铁、废铜、废铝、废铅、废锌、废纸、废塑料、废橡胶、废玻璃等9种主要再生资源循环利用量达到4.5亿吨。二手商品流通秩序和交易行为更加规范，交易规模明显提升。60个左右大中城市率先建成基本完善的废旧物资循环利用体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9265362.d.html</link>
+            <guid>2520626</guid>
+            <pubDate>Sun, 06 Feb 2022 02:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京丰台区一地降为低风险地区 现有高中风险区3+5个】根据国务院客户端小程序消息，截至2月6日7时，北京市丰台区南苑街道南庭新苑由中风险地区降为低风险地区。目前北京市有3个高风险地区和5个中风险地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4436703.d.html</link>
+            <guid>2520611</guid>
+            <pubDate>Sun, 06 Feb 2022 02:45:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节假期前5天 网联平台共处理交易金额4.2万亿元】网联清算平台的数据显示，春节假期前五天，网联平台共处理跨机构网络支付交易62.36亿笔，金额4.20万亿元，同比增长5.30%和11.58%。其中，部分品牌餐饮商家日均交易金额同比增长12.65%。零售行业部分国有品牌日均交易金额同比增长13.76%。影视娱乐相关网络支付日均交易金额同比增长6.87%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4432770.d.html</link>
@@ -293,36 +328,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4389150.d.html</link>
             <guid>2520088</guid>
             <pubDate>Sat, 05 Feb 2022 16:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国2021年熟练技术人才缺口急剧扩大】德国经济研究所的最新数据显示，由于符合资质的应聘人员数量不足，德国全国岗位缺口在2021年1月达21.3万个，到同年12月则倍增至46.5万个。2021年熟练技术人才缺口从年初到年底猛增一倍多，其中建筑业、养老产业和计算机科学领域岗位空缺最严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9213293.d.html</link>
-            <guid>2520043</guid>
-            <pubDate>Sat, 05 Feb 2022 16:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中储粮、中粮开展储备加工领域分类改革股权合作】根据公益类、商业类企业不同功能定位，中储粮集团与中粮集团将通过股权合作，组建中储粮集团控股的粮食仓储业务合资公司和中粮集团控股的油脂油料加工合资公司。此次股权合作对于“以点带面”深化国有企业分类改革、促进专业化整合具有重要意义，有利于推动资源向优势企业集中、向主业企业集中。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9212724.d.html</link>
-            <guid>2520025</guid>
-            <pubDate>Sat, 05 Feb 2022 15:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【喀麦隆称法国将提供2.62亿美元支持】喀麦隆表示，法国已经签署了一项价值1500亿非洲金融共同体法郎（2.62亿美元）的协议，以支持其预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9212351.d.html</link>
-            <guid>2520015</guid>
-            <pubDate>Sat, 05 Feb 2022 15:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冬奥会来了！数字人民币热了】2月4日，北京冬奥会开幕式在国家体育场举行。当天，在国家体育场2022年冬奥会特许商品售卖店，不少观众使用数字人民币购买“冰墩墩”。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyakumy4384200.d.html</link>
-            <guid>2520000</guid>
-            <pubDate>Sat, 05 Feb 2022 15:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冬奥会推动冰雪旅游升温 重庆列全国热门目的地和客源地第四】冬奥会带动了冰雪旅游升温。春节前六天，冰雪旅游相关商品订单量同比去年增长超30%。数据显示，北京、广州、吉林、重庆、哈尔滨、成都、湖州、阿坝、白山、长春依次排在冰雪旅游热门目的地城市前十。其中，冰雪运动是吸引人们玩雪的关键因素。北方冰雪游以户外场地为主，广州、重庆、成都等南方城市的冰雪运动爱好者则热衷于室内滑雪场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-05/detail-ikyamrmz9211060.d.html</link>
-            <guid>2519995</guid>
-            <pubDate>Sat, 05 Feb 2022 15:17:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
