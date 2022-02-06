@@ -4,11 +4,64 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Feb 2022 11:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 12:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【侨银股份：预中标4.89亿元环卫市场化服务项目】侨银股份公告，公司近日预中标江西省南昌市东湖区环卫市场化服务项目，中标(成交)金额约4717.64万元/年；根据项目调价机制，参照每年CPI上涨及燃油价格调整幅度，从项目运营起，每三年在上三年基础上，年合同金额增加3%，中标总金额约4.89亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4508119.d.html</link>
+            <guid>2521391</guid>
+            <pubDate>Sun, 06 Feb 2022 12:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【开山股份：控股子公司拟6000万美元收购7个印尼地热项目】开山股份公告，公司设立在新加坡的控股子公司KS Orka Renewables Pte. Ltd.拟6000万美元收购Inter Investment Pte. Ltd.公司100%股权。印尼项目公司拥有在印度尼西亚独家勘探、开发7个地热项目的权利。此次收购的7个印尼地热项目均列入《国家电力采购计划(RUPTL)2021-2030》，保障了公司及买方在印度尼西亚后续的优质地热能源勘探开发，使买方成为印度尼西亚项目资源规模最大的地热独立开发商之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4507998.d.html</link>
+            <guid>2521388</guid>
+            <pubDate>Sun, 06 Feb 2022 12:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【福龙马：1月预中标1.2亿元环卫服务项目】福龙马公告，公司2022年1月预中标了辽宁省沈阳市，福建省龙岩市、厦门市，浙江省舟山市，安徽省当涂县等地的环卫服务项目，预中标的环卫服务项目中标数共5个，合计首年服务费金额为4196.01万元(占公司2020年度经审计营业收入的0.77%)，合同总金额约为1.2亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9334925.d.html</link>
+            <guid>2521382</guid>
+            <pubDate>Sun, 06 Feb 2022 12:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[习近平致电祝贺马塔雷拉连任当选意大利总统。（央视新闻）]]></title>
+            <guid>2521377</guid>
+            <pubDate>Sun, 06 Feb 2022 12:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【习近平会见蒙古国总理奥云额尔登】国家主席习近平6日下午在人民大会堂会见来华出席北京2022年冬奥会的蒙古国总理奥云额尔登。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9333036.d.html</link>
+            <guid>2521363</guid>
+            <pubDate>Sun, 06 Feb 2022 11:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据灯塔专业版实时数据，截至2月6日19时37分，影片《长津湖之水门桥》票房突破25亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4505194.d.html</link>
+            <guid>2521357</guid>
+            <pubDate>Sun, 06 Feb 2022 11:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【携程：三四五线城市酒店订单量较2019年春节期间增长34%】携程2月6日发布《2022年春节旅游总结报告》。报告显示，截至2月5日，春节期间，来自三线、四线、五线城市的住宿客群占比同比增长13%，较2019年春节期间增长34%。订单量同比增长30%。在小镇青年返乡过年的同时，乡村酒店的订单量较去年春节期间增长1倍以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9331213.d.html</link>
+            <guid>2521347</guid>
+            <pubDate>Sun, 06 Feb 2022 11:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会规范“隔离险”，不得片面宣传和恶意渲染炒作】据悉，银保监会财险部近日向各银保监局、财险公司下发《关于规范“隔离”津贴保险业务经营有关问题的紧急通知》，针对近段时间火出圈的“隔离险”存在的不如实宣传、理赔困难等问题，提出了多项规范性要求。通知要求，在宣传销售产品的过程中，保险公司不得通过欺骗、隐瞒或者诱导等方式，对保险产品的保障责任等重要情况作出容易引人误解的宣传或者说明，不得以博取消费者眼球为目的，进行片面宣传和恶意渲染炒作。保险公司要加强对合作机构、平台、渠道的管理，持续监测其宣传行为，一旦发现有片面宣传和渲染炒作的，立即制止并终止与其业务合作。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9331045.d.html</link>
+            <guid>2521346</guid>
+            <pubDate>Sun, 06 Feb 2022 11:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州三力：拟2.32亿元收购德昌祥95%股权】贵州三力公告，拟成为德昌祥的破产重整投资人，一次性出资2.32亿元取得德昌祥95%股权。“德昌祥”品牌为百年老字号，具备较大的影响力，其前身为贵阳中药厂，具有众多优质药品批文。公司投资德昌祥是基于拓展产品种类，解决公司产品相对集中的风险，提升公司行业竞争力的角度考虑，对公司市场竞争发展能力具有积极意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4502927.d.html</link>
+            <guid>2521345</guid>
+            <pubDate>Sun, 06 Feb 2022 11:24:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节假期全国国内出游2.51亿人次 同比减少2%】根据文化和旅游部数据中心测算，2022年春节假期7天，全国国内旅游出游2.51亿人次，同比减少2.0%，按可比口径恢复至2019年春节假日同期的73.9%；实现国内旅游收入2891.98亿元，同比减少3.9%，恢复至2019年春节假日同期的56.3%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4500983.d.html</link>
@@ -288,46 +341,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyakumy4452907.d.html</link>
             <guid>2520917</guid>
             <pubDate>Sun, 06 Feb 2022 04:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国与厄瓜多尔正式启动自由贸易协定谈判】中国商务部与厄瓜多尔生产、外贸、投资和渔业部于近日签署《中华人民共和国商务部与厄瓜多尔共和国生产、外贸、投资和渔业部关于启动中国—厄瓜多尔自由贸易协定谈判的谅解备忘录》，正式启动中厄自由贸易协定谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9277557.d.html</link>
-            <guid>2520885</guid>
-            <pubDate>Sun, 06 Feb 2022 04:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京冬奥组委：昨日入境涉奥人员复检阳性4人，闭环内复检阳性6人。（北京日报）]]></title>
-            <guid>2520682</guid>
-            <pubDate>Sun, 06 Feb 2022 03:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《狙击手》自2月7日起下调票价】电影《狙击手》宣布自2月7日起下调最低结算价格至A类35元，B类30元（各降5元）。这也是今年春节档8部新片里首部降低限价的影片。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9268969.d.html</link>
-            <guid>2520678</guid>
-            <pubDate>Sun, 06 Feb 2022 03:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版，截至2月6日11时10分，2022春节档新片(含预售)总票房已突破55亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9267835.d.html</link>
-            <guid>2520633</guid>
-            <pubDate>Sun, 06 Feb 2022 03:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州卫健委：建议中高风险地区所在县（区、市）的人员暂缓返工返岗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9266801.d.html</link>
-            <guid>2520628</guid>
-            <pubDate>Sun, 06 Feb 2022 03:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年我国发放失业保险稳岗返还资金230亿元】记者近日从人力资源和社会保障部获悉，2021年，我国延续实施包括普惠性失业保险稳岗返还政策在内的8项减负稳岗扩就业的政策，全年支出就业补助资金近千亿元，共向406万户企业发放失业保险稳岗返还资金230亿元。（新华社）]]></title>
-            <guid>2520627</guid>
-            <pubDate>Sun, 06 Feb 2022 03:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国将加快废旧物资循环利用体系建设】国家发展改革委等部门近日发布关于加快废旧物资循环利用体系建设的指导意见，提出到2025年，我国废旧物资循环利用政策体系进一步完善，资源循环利用水平进一步提升。根据意见，到2025年，废旧物资回收网络体系基本建立，建成绿色分拣中心1000个以上。再生资源加工利用行业“散乱污”状况明显改观，集聚化、规模化、规范化、信息化水平大幅提升。废钢铁、废铜、废铝、废铅、废锌、废纸、废塑料、废橡胶、废玻璃等9种主要再生资源循环利用量达到4.5亿吨。二手商品流通秩序和交易行为更加规范，交易规模明显提升。60个左右大中城市率先建成基本完善的废旧物资循环利用体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-06/detail-ikyamrmz9265362.d.html</link>
-            <guid>2520626</guid>
-            <pubDate>Sun, 06 Feb 2022 02:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
