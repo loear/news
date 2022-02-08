@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 08 Feb 2022 15:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 16:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧股收盘涨跌不一，英国富时指数收跌0.14%，德国DAX指数收涨0.19%，法国CAC指数收涨0.24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9726948.d.html</link>
+            <guid>2524671</guid>
+            <pubDate>Tue, 08 Feb 2022 16:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[浙江杭州市西湖区部分地区解除封控管理。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy4898612.d.html</link>
+            <guid>2524670</guid>
+            <pubDate>Tue, 08 Feb 2022 16:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿富汗临时政府与乌克兰技术团队会谈 讨论在阿富汗修建铁路问题】阿富汗临时政府公共事业部官员与乌克兰技术团队围绕在阿富汗建设铁路进行了会谈。阿富汗临时政府公共事业部发言人哈米杜拉·米斯巴表示，一个代表多家乌克兰公司的技术团队已经抵达喀布尔并会见了该部门官员，乌方对在阿富汗修建铁路表现出浓厚的兴趣。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9725936.d.html</link>
+            <guid>2524669</guid>
+            <pubDate>Tue, 08 Feb 2022 16:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国、法国为培养欧洲科技领军企业各提供10亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy4897987.d.html</link>
+            <guid>2524668</guid>
+            <pubDate>Tue, 08 Feb 2022 16:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：波音(BA.N)1月份交付了32架喷气客机，波音1月份交付了27架MAX喷气机，1月份共接到77架飞机的订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy4897779.d.html</link>
+            <guid>2524667</guid>
+            <pubDate>Tue, 08 Feb 2022 16:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：世贸组织专家组建议美国在韩国案中采取符合全球贸易规则的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy4897000.d.html</link>
+            <guid>2524662</guid>
+            <pubDate>Tue, 08 Feb 2022 16:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【法国电力公司再停运三座核反应堆】法国电力公司发表声明称，由于之前在同类型机组发现安全系统腐蚀问题，法国电力公司决定再停运三座核反应堆，以进行相应的检测。法国已经在至少四座核反应堆上发现了安全系统腐蚀问题。为此，法国电力公司调低了其核电产能的预期。这一举措很可能加剧法国目前的电力供应紧张问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4895502.d.html</link>
+            <guid>2524656</guid>
+            <pubDate>Tue, 08 Feb 2022 15:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Peloton(PTON.O)涨幅扩大至20%，现报35.75美元，成交额超24亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4895232.d.html</link>
+            <guid>2524655</guid>
+            <pubDate>Tue, 08 Feb 2022 15:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国共和党参议员Mchenry：稳定币发行商不应该像银行一样被监管。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4894163.d.html</link>
@@ -300,77 +348,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4882713.d.html</link>
             <guid>2524571</guid>
             <pubDate>Tue, 08 Feb 2022 13:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相办公室：英国议员Jacob Rees-Mogg被任命为英国脱欧事务大臣。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4882702.d.html</link>
-            <guid>2524570</guid>
-            <pubDate>Tue, 08 Feb 2022 13:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：已经为乌克兰的新项目筹集了近12亿欧元，以确保国家安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9710230.d.html</link>
-            <guid>2524569</guid>
-            <pubDate>Tue, 08 Feb 2022 13:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：我相信乌克兰危机可以有具体的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9709791.d.html</link>
-            <guid>2524566</guid>
-            <pubDate>Tue, 08 Feb 2022 13:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：乌克兰局势存在升级风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9709705.d.html</link>
-            <guid>2524565</guid>
-            <pubDate>Tue, 08 Feb 2022 13:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：乌克兰总统泽连斯基也确认愿意执行明斯克协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4881895.d.html</link>
-            <guid>2524564</guid>
-            <pubDate>Tue, 08 Feb 2022 13:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：明斯克协议是保护乌克兰领土完整的最佳方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4881866.d.html</link>
-            <guid>2524563</guid>
-            <pubDate>Tue, 08 Feb 2022 13:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：普京昨天重申将遵守明斯克协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4881830.d.html</link>
-            <guid>2524561</guid>
-            <pubDate>Tue, 08 Feb 2022 13:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：与法国签署了9亿欧元的协议，法国将向乌克兰提供巡逻艇及130辆机车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9709526.d.html</link>
-            <guid>2524560</guid>
-            <pubDate>Tue, 08 Feb 2022 13:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国联邦金融监管局主席：房地产市场是我们对稳定的首要和核心担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyakumy4881291.d.html</link>
-            <guid>2524559</guid>
-            <pubDate>Tue, 08 Feb 2022 13:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰总统泽连斯基在与法国总统马克龙会面后表示，预计“诺曼底模式”会谈将在不久的将来举行。]]></title>
-            <guid>2524558</guid>
-            <pubDate>Tue, 08 Feb 2022 13:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海警方：确认死者为私募基金失踪经理高某 初步排除刑案可能】据媒体报道，2022年1月10日，上海某私募机构实控人、基金经理高杉在滨江夜跑时失踪。该媒体报道称，近期，上海警方称从黄浦江里打捞出一具尸体，已联系高杉家属进行DNA对比，另外高杉的同事表示，警方已介入调查，公司在1月中旬前后已减仓应对客户赎回。2月8日晚，记者从上海警方获悉，2022年2月2日13时许，边防港航分局在浦东滨江水域打捞起一具男性尸体。经法医勘验，符合溺水死亡特征，体表未见外来暴力损伤，初步排除刑案可能。经比对及死者家属辨认，确认死者系高某（40岁）。相关调查工作还在进一步开展中。 (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9707880.d.html</link>
-            <guid>2524555</guid>
-            <pubDate>Tue, 08 Feb 2022 13:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西知名对冲基金VERDE：巴西有关削减燃油税的提议是“非常疯狂的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-08/detail-ikyamrmz9707582.d.html</link>
-            <guid>2524552</guid>
-            <pubDate>Tue, 08 Feb 2022 12:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
