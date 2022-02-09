@@ -4,11 +4,83 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 09 Feb 2022 16:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国能源信息署（EIA）：2月4日当周，美国总体石油产品供应四周均值激增至将近2200万桶/日，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9923277.d.html</link>
+            <guid>2525794</guid>
+            <pubDate>Wed, 09 Feb 2022 17:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国伊利诺伊州州长表示，本州将于2月28日部分取消强制佩戴口罩的要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9923270.d.html</link>
+            <guid>2525793</guid>
+            <pubDate>Wed, 09 Feb 2022 17:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD短线拉升十余点，现报1.2680，日内涨0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9922146.d.html</link>
+            <guid>2525792</guid>
+            <pubDate>Wed, 09 Feb 2022 17:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国监管机构：基于中国核电技术建造设施适合在英国建设】英国核监管办公室和环境署发布联合声明，确认中国自主三代核电技术“华龙一号”通过英国通用设计审查，基于该技术建造的英国华龙压水堆（HPR1000）适合在英国建设，但须经过深入评估并获得必要的规划及环境许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5095080.d.html</link>
+            <guid>2525791</guid>
+            <pubDate>Wed, 09 Feb 2022 17:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际铜夜盘收涨2.72%，沪铜收涨2.56%，沪铝收涨2.01%，沪锌收涨1.49%，沪铅收涨1.11%，沪镍收涨1.34%，沪锡收涨0.57%。 不锈钢夜盘收跌0.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9921947.d.html</link>
+            <guid>2525789</guid>
+            <pubDate>Wed, 09 Feb 2022 17:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国农业部（USDA）：预计美国棉花期末库存350亿蒲式耳，分析师预期329万捆，USDA之前预计为320万捆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9921935.d.html</link>
+            <guid>2525788</guid>
+            <pubDate>Wed, 09 Feb 2022 17:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国农业部（USDA）：预计美国小麦期末总库存6.48亿蒲式耳，分析师预期6.3381亿蒲式耳，USDA之前预计为6.28亿蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5094932.d.html</link>
+            <guid>2525787</guid>
+            <pubDate>Wed, 09 Feb 2022 17:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国大豆期末库存3.25亿蒲式耳，分析师预期3.1567亿蒲式耳，USDA之前预计为3.50亿蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9921914.d.html</link>
+            <guid>2525786</guid>
+            <pubDate>Wed, 09 Feb 2022 17:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国玉米期末库存15.40亿蒲式耳，分析师预期14.9819亿蒲式耳，USDA之前预计为15.40亿蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5094917.d.html</link>
+            <guid>2525785</guid>
+            <pubDate>Wed, 09 Feb 2022 17:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货抹去此前涨幅，现转跌，最新报89.25美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9921389.d.html</link>
+            <guid>2525783</guid>
+            <pubDate>Wed, 09 Feb 2022 16:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恐慌指数VIX创1月14日以来最低水平，跌约5%，报20.39。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5093921.d.html</link>
+            <guid>2525782</guid>
+            <pubDate>Wed, 09 Feb 2022 16:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股集体收涨 三大股指均涨超1%】欧股集体收涨，德国DAX指数涨1.57%，法国CAC40指数涨1.46%，英国富时100指数涨1.01%，意大利富时MIB指数涨2.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9920493.d.html</link>
+            <guid>2525781</guid>
+            <pubDate>Wed, 09 Feb 2022 16:43:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统气候问题特使约翰·克里：美国准备通过美国国际开发署帮助墨西哥获得清洁能源。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5092829.d.html</link>
@@ -281,54 +353,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9909293.d.html</link>
             <guid>2525690</guid>
             <pubDate>Wed, 09 Feb 2022 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔CEO：预计芯片供应将在2023年前保持紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5081866.d.html</link>
-            <guid>2525687</guid>
-            <pubDate>Wed, 09 Feb 2022 14:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中期协：2021年12月期货公司总体及分辖区经营情况】截至2021年12月末，全国共有150家期货公司，分布在31个辖区。2021年12月交易额44.62万亿元，交易量5.70亿手，营业收入54.71亿元，净利润14.88亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9908861.d.html</link>
-            <guid>2525684</guid>
-            <pubDate>Wed, 09 Feb 2022 14:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：现在说乌克兰问题已解决还为时尚早，仍需要充分重视该问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5081078.d.html</link>
-            <guid>2525679</guid>
-            <pubDate>Wed, 09 Feb 2022 14:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部发言人：美国主张重新修订明斯克条约，这使顿巴斯局势升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5080876.d.html</link>
-            <guid>2525677</guid>
-            <pubDate>Wed, 09 Feb 2022 14:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：俄罗斯方面已经明白，任何制裁都将是统一和有效的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9908172.d.html</link>
-            <guid>2525676</guid>
-            <pubDate>Wed, 09 Feb 2022 14:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥国家石油公司CEO：墨西哥国家石油公司1月石油产量为176万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9908157.d.html</link>
-            <guid>2525675</guid>
-            <pubDate>Wed, 09 Feb 2022 14:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【唐人神：公司推出“不增收请走人”的激励考核机制】唐人神披露投资者关系活动记录表公告，公司2022年规划出栏生猪200万头。在公司激励员工的措施方面，公司本着高工资、高效率、高业绩就是低成本的原则，以6000万股（占总股本4.98%）实施股权激励，并对养殖一线员工加薪10%；另一方面，公司推出“不增收请走人”的激励考核机制，对饲料、肉品业板块员工提出薪酬包、效率分享奖、利润分享奖的三大收入来源方案，对养殖业务板块员工提出薪酬包、效率分享奖、成本分享奖的三大收入来源方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9907998.d.html</link>
-            <guid>2525674</guid>
-            <pubDate>Wed, 09 Feb 2022 14:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：印度洋岛国马达加斯加遭飓风“巴特西莱”侵袭，东北部地区100多人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9907689.d.html</link>
-            <guid>2525672</guid>
-            <pubDate>Wed, 09 Feb 2022 13:59:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
