@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 09 Feb 2022 18:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 19:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：据悉意大利认为美国PE巨头KKR对意大利电信集团的收购要约报价太低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5104224.d.html</link>
+            <guid>2525822</guid>
+            <pubDate>Wed, 09 Feb 2022 18:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：在拜登担任参议员时，他从未交易股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrmz9931162.d.html</link>
+            <guid>2525821</guid>
+            <pubDate>Wed, 09 Feb 2022 18:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概在线教育板块涨幅扩大，高途(GOTU.N)涨10.85%，哔哩哔哩(BILI.O)现涨6.8%，掌门教育(ZME.N)、新东方(EDU.N)涨约5%，网易有道(DAO.N)涨4.3%，好未来(TAL.N)涨3.1%。]]></title>
+            <guid>2525819</guid>
+            <pubDate>Wed, 09 Feb 2022 18:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国参议员敦促美国证交会优先考虑网络安全披露。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5102806.d.html</link>
+            <guid>2525816</guid>
+            <pubDate>Wed, 09 Feb 2022 18:27:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国10年期国债拍卖中，一级交易商获配比例为7.4%，创纪录新低。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5101351.d.html</link>
@@ -275,48 +298,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9912503.d.html</link>
             <guid>2525720</guid>
             <pubDate>Wed, 09 Feb 2022 14:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：汤加地区发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9912261.d.html</link>
-            <guid>2525719</guid>
-            <pubDate>Wed, 09 Feb 2022 14:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英特尔CEO：预计芯片供应紧张情况会持续2023年全年】英特尔首席执行官Pat Gelsinger表示，公司预计芯片供应至少到2023年末都将保持紧张，2025-2030年供应形势才会有所好转，届时英特尔和其他制造商的晶圆工厂产量将增加，满足不断增长的需求和向技术的更新换代。Gelsinger称，“随着我们进入这个十年的下半叶，每年生产的先进光刻晶圆数量预计将翻番并继续保持增长。当汽车变得更加智能，晶圆行业必须摆脱对老技术的极端依赖，转向更现代的技术，通过产能扩张来解决供应链问题。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9911925.d.html</link>
-            <guid>2525717</guid>
-            <pubDate>Wed, 09 Feb 2022 14:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻叙利亚大使：以美国为首的国际联盟没有合法理由在叙利亚停留，应该立即离开这个国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5084309.d.html</link>
-            <guid>2525713</guid>
-            <pubDate>Wed, 09 Feb 2022 14:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市副市长张为：希望上海联交所聚焦环境能源、知识产权、区域性股权等专业平台】上海市副市长张为赴上海联交所调研，察看上海环交所交易大厅，了解全国碳市场建设运行情况，张为指出，上海联交所作为我国资本市场基础性的非标市场，近年来积极推动改革创新发展，通过与标准化市场加强协同、相互呼应，提升服务能级、拓展服务领域，承担越来越多资本市场体系基础功能，值得充分肯定。对下阶段工作，张为表示，希望上海联交所在今后工作中，要加大交易运行保障体系和市场信用体系建设力度，积极推动非标市场长足发展；要深入实施“一体两翼多平台”发展战略，聚焦环境能源、知识产权、区域性股权等专业平台，持续推动相关业务做大做强。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5084187.d.html</link>
-            <guid>2525709</guid>
-            <pubDate>Wed, 09 Feb 2022 14:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国国家恐怖主义威胁等级已从“严重”下调至“显著”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9911244.d.html</link>
-            <guid>2525708</guid>
-            <pubDate>Wed, 09 Feb 2022 14:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄外交部：俄罗斯敦促西方停止在围绕乌克兰局势问题上火上浇油的行径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyamrmz9911238.d.html</link>
-            <guid>2525707</guid>
-            <pubDate>Wed, 09 Feb 2022 14:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车板块盘初普涨，理想汽车(LI.O)涨超4%，福特汽车(F.N)涨超3%，通用汽车(GM.N)涨2.81%，蔚来汽车(NIO.N)涨2.7%，特斯拉(TSLA.O)涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-09/detail-ikyakumy5083935.d.html</link>
-            <guid>2525706</guid>
-            <pubDate>Wed, 09 Feb 2022 14:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
