@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 10 Feb 2022 20:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 21:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【贝莱德四季度13F持仓披露：稳健加仓大型科技股】四季度13F文件显示，贝莱德四季度五大买入股为微软、英伟达、特斯拉、高通以及博通，减持Paypal、华特迪士尼、摩根大通等。第一重仓股为苹果，持股比例4.61%，第二重仓股为微软，持股比例4.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5304739.d.html</link>
+            <guid>2527213</guid>
+            <pubDate>Thu, 10 Feb 2022 21:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理朔尔茨向波罗的海三国领导人承诺提供支持】 当地时间2月10日，德国总理朔尔茨在位于柏林的总理府会见了到访的立陶宛总统瑙塞达、爱沙尼亚总理卡拉斯和拉脱维亚总理卡林斯，重点就乌克兰危机展开磋商。这三个波罗的海国家均与俄罗斯接壤。朔尔茨向三国领导人承诺，德国会提供支持：“我们非常重视盟友的担忧，也和你们站在同一边。”（央视）]]></title>
+            <guid>2527199</guid>
+            <pubDate>Thu, 10 Feb 2022 20:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其国防部称年初至今已消灭316名库尔德武装分子】土耳其国防部2月10日宣布，自2022年1月1日至今，土耳其武装部队通过5次大型和13次中型军事行动，共消灭316名库尔德武装分子。自2015年7月24日至今，在包括伊拉克和叙利亚北部等地区消灭包括库尔德武装分子在内的武装分子33584人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5303772.d.html</link>
+            <guid>2527194</guid>
+            <pubDate>Thu, 10 Feb 2022 20:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现货金银均转跌，分别报1829.98美元/盎司、23.26美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5301308.d.html</link>
@@ -263,30 +280,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5281277.d.html</link>
             <guid>2527044</guid>
             <pubDate>Thu, 10 Feb 2022 15:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Guggenheim首席投资官：市场应该为3月加息50基点做好准备】Guggenheim的首席投资官Scott Minerd周四发推文称，市场应该为3月加息50个基点做准备。Minerd说，“如果只有25个基点，预计5月份会再加一次”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5281225.d.html</link>
-            <guid>2527043</guid>
-            <pubDate>Thu, 10 Feb 2022 15:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率升至3.69％，为2020年1月以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrna0107279.d.html</link>
-            <guid>2527038</guid>
-            <pubDate>Thu, 10 Feb 2022 15:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富途控股拉升涨超3%，子公司富途证券（新加坡）获得新加坡交易所全部会员资质原则性批准及“新加坡财顾豁免资质”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrna0107023.d.html</link>
-            <guid>2527037</guid>
-            <pubDate>Thu, 10 Feb 2022 14:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  陆金所控股涨超15%，明晟公司此前宣布，将陆金所控股纳入MSCI中国全股票指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrna0106988.d.html</link>
-            <guid>2527036</guid>
-            <pubDate>Thu, 10 Feb 2022 14:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
