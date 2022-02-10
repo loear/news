@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 10 Feb 2022 21:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 22:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国务院建议在乌克兰的美国人现在应该离境。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0134278.d.html</link>
+            <guid>2527262</guid>
+            <pubDate>Thu, 10 Feb 2022 22:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【1月银行理财产品发行量环比下跌近三成】1月以来已有多只理财产品业绩跌破净值，银行理财产品的发行量未能延续增长态势，环比下跌近三成。业绩方面，除了混合类产品，固收和权益型产品的平均业绩基准均环比下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5306879.d.html</link>
+            <guid>2527258</guid>
+            <pubDate>Thu, 10 Feb 2022 21:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【反对能源价格上涨 意大利约三千城镇地标建筑物熄灯】为了抵抗能源价格高企所导致的地方开支增加，在意大利全国城镇协会的组织下，约3000个意大利城镇参与反对高能源价格的熄灯活动，关闭当地地标性建筑物照明设施半小时或一小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5306390.d.html</link>
+            <guid>2527257</guid>
+            <pubDate>Thu, 10 Feb 2022 21:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚三年期国债收益率涨16个基点，至2019年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5306356.d.html</link>
+            <guid>2527256</guid>
+            <pubDate>Thu, 10 Feb 2022 21:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西淡水河谷四季度铁矿石产量8247万吨，之前一个季度为8942万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0132000.d.html</link>
+            <guid>2527235</guid>
+            <pubDate>Thu, 10 Feb 2022 21:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贝莱德四季度13F持仓披露：稳健加仓大型科技股】四季度13F文件显示，贝莱德四季度五大买入股为微软、英伟达、特斯拉、高通以及博通，减持Paypal、华特迪士尼、摩根大通等。第一重仓股为苹果，持股比例4.61%，第二重仓股为微软，持股比例4.44%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5304739.d.html</link>
@@ -246,40 +276,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrna0109318.d.html</link>
             <guid>2527052</guid>
             <pubDate>Thu, 10 Feb 2022 15:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫表示，预计通胀到2022年年底将有所回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyamrna0109133.d.html</link>
-            <guid>2527051</guid>
-            <pubDate>Thu, 10 Feb 2022 15:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走高32点，现报1.3582；欧元兑美元EUR/USD短线走高35点，现报1.1436，均收复美国CPI数据公布来的跌幅。]]></title>
-            <guid>2527048</guid>
-            <pubDate>Thu, 10 Feb 2022 15:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨幅达1%，现报23.52美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5281450.d.html</link>
-            <guid>2527047</guid>
-            <pubDate>Thu, 10 Feb 2022 15:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股WSB概念股造好，AMC院线(AMC.N)涨近6%，Tilray(TLRY.O)、游戏驿站(GME.N)涨近3%，Robinhood(HOOD.O)涨2.5%，ContextLogic (WISH.O)涨2.17%。]]></title>
-            <guid>2527046</guid>
-            <pubDate>Thu, 10 Feb 2022 15:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线下挫25点，抹去CPI公布来的涨幅，报95.55。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5281303.d.html</link>
-            <guid>2527045</guid>
-            <pubDate>Thu, 10 Feb 2022 15:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【法国电力签署独家协议 收购通用电气旗下部分核电业务】法国电力表示，已经与通用电气公司签署了一项独家协议，收购后者旗下GE Steam Power的部分核电业务。本次交易预计将于2023年上半年完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5281277.d.html</link>
-            <guid>2527044</guid>
-            <pubDate>Thu, 10 Feb 2022 15:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
