@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 10 Feb 2022 18:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 19:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美国证券交易委员会拟要求对冲基金加快披露持有5%权益】根据美国证券交易委员会(SEC)提议的新规定，对冲基金和其他投资者需要更快披露他们已购入一家公司的大量股权。如果持有一家公司5%及以上股权，目前的规定是10天内披露，而根据SEC周四宣布的计划，这个窗口将缩短到5天。此外，对申报文件的修订必须在一个工作日内提交。拟议的调整是SEC在主席Gary Gensler领导下提高私募基金行业透明度的最新举措。另外，SEC在周四还宣布了对举报规定的拟议调整，可能允许举报人获得更多奖励。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0124656.d.html</link>
+            <guid>2527115</guid>
+            <pubDate>Thu, 10 Feb 2022 18:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Affirm Holdings(AFRM.O)盘中涨超10%，报81.4美元，将于今日美股盘后公布Q2业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0124494.d.html</link>
+            <guid>2527114</guid>
+            <pubDate>Thu, 10 Feb 2022 18:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股AI板块走低，英伟达(NVDA.O)跌2.25%，C3.ai(AI.N)跌1.4%，Veritone(VERI.O)、Palantir(PLTR.N)跌1.1%。]]></title>
+            <guid>2527112</guid>
+            <pubDate>Thu, 10 Feb 2022 18:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货转跌，现报91.38美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyakumy5297593.d.html</link>
+            <guid>2527111</guid>
+            <pubDate>Thu, 10 Feb 2022 18:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Lyft(LYFT.O)盘中跌超5%，此前一度涨超3%，现报41.74美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0123717.d.html</link>
+            <guid>2527110</guid>
+            <pubDate>Thu, 10 Feb 2022 18:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：联合国计划在2月启动新的阿富汗现金通道。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-11/detail-ikyamrna0123449.d.html</link>
@@ -257,59 +286,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5279305.d.html</link>
             <guid>2527022</guid>
             <pubDate>Thu, 10 Feb 2022 14:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高近7美元，报1831.59美元/盎司；现货白银短线走高0.16美元，报23.41美元/盎司。]]></title>
-            <guid>2527019</guid>
-            <pubDate>Thu, 10 Feb 2022 14:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中融信托回应华夏幸福债务重组：已聘请律师团队，将尽快发起诉讼】 由于对华夏幸福债务重组方案的不满，继拒绝加入债委会后，中融信托采取了进一步行动。2月10日获悉，中融信托当日已聘请律师团队，称“将尽快发起诉讼，坚决保护委托人权益。”（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5279081.d.html</link>
-            <guid>2527018</guid>
-            <pubDate>Thu, 10 Feb 2022 14:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线回弹23点，报1.3554。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278924.d.html</link>
-            <guid>2527015</guid>
-            <pubDate>Thu, 10 Feb 2022 14:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期与10年期国债收益率息差突破50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278815.d.html</link>
-            <guid>2527013</guid>
-            <pubDate>Thu, 10 Feb 2022 14:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布油短线上扬近1美元，现报90.48美元/桶，涨0.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278641.d.html</link>
-            <guid>2527012</guid>
-            <pubDate>Thu, 10 Feb 2022 14:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走低近20点，此前一度上破96关口，现回落至95.82。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278632.d.html</link>
-            <guid>2527011</guid>
-            <pubDate>Thu, 10 Feb 2022 14:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉美股盘初跌1.57%，该公司在美国召回将近58万辆汽车，因其行人警告系统的声音可能被掩盖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278384.d.html</link>
-            <guid>2527008</guid>
-            <pubDate>Thu, 10 Feb 2022 14:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西厨用天然气价格两年内上涨约50%】巴西国家石油、天然气和生物燃料局当地时间2月10日公布的数据显示，该国零售市场厨用13公斤罐装天然气价格从2020年1月的69.74雷亚尔（约合85元人民币）上涨至2022年1月的102.40雷亚尔（约合125元人民币），涨幅约50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278371.d.html</link>
-            <guid>2527007</guid>
-            <pubDate>Thu, 10 Feb 2022 14:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陆金所美股盘初涨超6.2%，周三（2月9日）美股盘后，明晟公司宣布，将陆金所ADR等五只股票至MSCI中国全股票指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-10/detail-ikyakumy5278360.d.html</link>
-            <guid>2527006</guid>
-            <pubDate>Thu, 10 Feb 2022 14:36:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
