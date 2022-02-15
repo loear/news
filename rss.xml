@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 15 Feb 2022 19:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 20:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨幅扩大至2.3%，刷新盘中高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyamrna0985117.d.html</link>
+            <guid>2536179</guid>
+            <pubDate>Tue, 15 Feb 2022 20:23:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒再次敦促加密交易所在美国证交会进行注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6158885.d.html</link>
+            <guid>2536178</guid>
+            <pubDate>Tue, 15 Feb 2022 20:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：加密货币投资者需要得到更多保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyamrna0985113.d.html</link>
+            <guid>2536177</guid>
+            <pubDate>Tue, 15 Feb 2022 20:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊1月通货膨胀率为6.2%，达25年最高】希腊统计局发布的最新数据显示，希腊在2022年1月的通货膨胀率为6.2%，超过2021年12月的5.1%，达到25年来的最高水平。去年同期，这一数字为-2%。希腊统计局预计，希腊的通胀压力在今年上半年将继续加大。希腊统计局分析指出，通胀率高企主要是由于电力、天然气等能源价格持续飙升以及房租价格明显上涨。其中住房成本上升22.6%，天然气价格上涨154%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6157969.d.html</link>
+            <guid>2536175</guid>
+            <pubDate>Tue, 15 Feb 2022 20:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国宣布竞争性拨款计划以促进出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6157184.d.html</link>
+            <guid>2536173</guid>
+            <pubDate>Tue, 15 Feb 2022 19:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫提出帮助乌克兰应对网络事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6156734.d.html</link>
+            <guid>2536171</guid>
+            <pubDate>Tue, 15 Feb 2022 19:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货收跌3.55%，报92.07美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6156434.d.html</link>
+            <guid>2536170</guid>
+            <pubDate>Tue, 15 Feb 2022 19:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多路资金加持，央地联动力推科技成果加快落地】新年伊始，促科技成果转移转化再次迎来政策红利。从科技部门获悉，截至目前，我国国家级科技成果转化引导基金累计超40只，规模达700亿元。多只子基金顺利“毕业”后，再次布局先进制造、电子信息等战略新兴产业。未来国家将优化政府引导基金支持研发机制，支持国家、地方及行业各类基金设立科技型中小企业子基金。除了资金链，北京、重庆、广东等十余个省市密集出台细则方案，着力从产业链、服务链和人才链全面打通科技成果转化“最后一公里”。（经参）]]></title>
+            <guid>2536169</guid>
+            <pubDate>Tue, 15 Feb 2022 19:31:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法制日报评论：以价格差异化调和快递送件矛盾】送货上门固然让消费者感受到便利，但客观来说并不是兼顾效率与便利最好的方式。一方面要完善快递柜等服务设施，让快递随到随投，用户得空自取；另一方面，对一些大件、重件等特殊商品，可以事先通过协议等方式来明确约定提供上门送件服务。当然，费用要与服务的价值相匹配。总之，调和好快递送货是否上门的矛盾，归根到底还是要不断细化投送服务，如此才能更好地打通快递服务“最后一公里”。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-16/detail-ikyakumy6154835.d.html</link>
@@ -264,60 +311,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6138220.d.html</link>
             <guid>2536078</guid>
             <pubDate>Tue, 15 Feb 2022 14:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：莫斯科担心若有关安全问题的谈判被拖延，则接下来将做出恶化俄罗斯立场的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137967.d.html</link>
-            <guid>2536074</guid>
-            <pubDate>Tue, 15 Feb 2022 14:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：不会允许推迟谈判损害俄罗斯的安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137929.d.html</link>
-            <guid>2536073</guid>
-            <pubDate>Tue, 15 Feb 2022 14:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞幸咖啡(LKNCY)涨6.34%，瑞幸内部信显示1月新增约360家门店，春节黄金周交易额同比增3倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137922.d.html</link>
-            <guid>2536072</guid>
-            <pubDate>Tue, 15 Feb 2022 14:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“元宇宙公司”Meta Platform（原Facebook）同意支付0.9亿美元，以和解一宗旷日持久的消费者追踪官司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyamrna0964032.d.html</link>
-            <guid>2536071</guid>
-            <pubDate>Tue, 15 Feb 2022 14:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：30年来我们一直被告知北约不会扩张，而现在北约就在我们家门口。对俄罗斯来说，推迟乌克兰加入北约并没有改变任何事情，我们现在想解决这个问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137662.d.html</link>
-            <guid>2536070</guid>
-            <pubDate>Tue, 15 Feb 2022 14:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传台积电美国建厂计划将至多推迟半年】台积电在美国亚利桑那州的第一家先进芯片厂的兴建比原计划晚了3到6个月，显示这家全球最大的代工制造商在海外扩展所面对的挑战性比在台湾还大。知情人士透露，台积电最初计划在今年 9 月左右开始搬入芯片生产设备，但该公司已告知供货商，这将推迟到2023年2月或3月左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137544.d.html</link>
-            <guid>2536068</guid>
-            <pubDate>Tue, 15 Feb 2022 14:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨表示，俄罗斯承认顿涅茨克和卢甘斯克共和国会是场政治灾难，这也违反就乌克兰问题达成的明斯克协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyamrna0963631.d.html</link>
-            <guid>2536062</guid>
-            <pubDate>Tue, 15 Feb 2022 14:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯将根据局势发展采取行动。俄罗斯将寻求外交解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyamrna0963547.d.html</link>
-            <guid>2536060</guid>
-            <pubDate>Tue, 15 Feb 2022 14:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHS Market高级副总裁Pascual：如果俄罗斯因乌克兰问题受到制裁，价格对全球消费者的影响将是巨大的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-15/detail-ikyakumy6137053.d.html</link>
-            <guid>2536057</guid>
-            <pubDate>Tue, 15 Feb 2022 14:41:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
