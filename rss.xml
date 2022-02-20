@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 20 Feb 2022 02:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 03:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[北京证券交易所日前发布的报告指出，截至2021年底，新三板挂牌公司6932家，符合北交所上市财务条件的挂牌公司超过千家。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4346643.d.html</link>
+            <guid>2542990</guid>
+            <pubDate>Sun, 20 Feb 2022 03:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代上海临港项目正式开工】2月19日，宁德时代（上海）智能科技一体化电动底盘研制项目及瑞庭时代上海智能动力系统项目（二期）开工仪式在上海临港举行。2021年8月，宁德时代与上海临港签订合作协议，拟投资28亿元，项目将依托宁德时代全球领先的极限制造体系和全球灯塔工厂的建设经验，在临港新片区打造绿色、高效智能工厂，优化新能源产业布局，同时还将围绕里程焦虑、快充等行业痛点展开技术攻坚，实现行业关键技术升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwiwss1904476.d.html</link>
+            <guid>2542989</guid>
+            <pubDate>Sun, 20 Feb 2022 02:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟：来自乌东部地区有关“乌政府军发动袭击”的指控没有根据】欧盟外交与安全政策高级代表博雷利2月19日在一份声明中表示，欧盟认为，来自由非乌克兰政府控制的顿涅茨克和卢甘斯克地区有关乌克兰政府军可能发动了袭击的指控“没有根据”。欧盟敦促俄罗斯进行有意义的对话，开展外交活动，表现出克制并缓和局势。]]></title>
+            <guid>2542988</guid>
+            <pubDate>Sun, 20 Feb 2022 02:54:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟外交官呼吁俄罗斯从俄乌边境撤军，同时赞扬乌克兰“保持克制姿态”】欧盟外交与安全政策高级代表博雷利2月19日在一份声明中表示，欧盟呼吁俄罗斯缓和局势并从俄乌边境地区撤出军事力量，同时赞扬乌克兰“在面对持续的挑衅和破坏稳定的努力时保持克制的姿态”。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwiwss1902894.d.html</link>
+            <guid>2542987</guid>
+            <pubDate>Sun, 20 Feb 2022 02:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：在欧洲地下储存设施中还剩下不到5%夏季输送的天然气。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4342898.d.html</link>
+            <guid>2542986</guid>
+            <pubDate>Sun, 20 Feb 2022 02:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国前总统特朗普的独家社交应用“真相”将于2月21日在苹果应用商店发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4342614.d.html</link>
+            <guid>2542985</guid>
+            <pubDate>Sun, 20 Feb 2022 02:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟：来自乌东部地区有关“乌政府军发动袭击”的指控没有根据】欧盟外交与安全政策高级代表博雷利2月19日在一份声明中表示，欧盟认为，来自由非乌克兰政府控制的顿涅茨克和卢甘斯克地区有关乌克兰政府军可能发动了袭击的指控“没有根据”。欧盟敦促俄罗斯进行有意义的对话，开展外交活动，表现出克制并缓和局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwiwss1901536.d.html</link>
+            <guid>2542984</guid>
+            <pubDate>Sun, 20 Feb 2022 02:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【三星电子连续16年位居全球电视市场冠军】据市场调研机构奥姆迪亚（Omdia）20日发布的数据，2021年三星电子以销售额为准的全球市场份额为29.5%，以数量为准的市场份额19.8%，连续16年获得冠军。三星电子分析认为，在瞬息万变的电视市场环境中，以QLED为主的高档产品营销战略取得成效。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4340186.d.html</link>
@@ -410,30 +451,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4300110.d.html</link>
             <guid>2542886</guid>
             <pubDate>Sat, 19 Feb 2022 18:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  内蒙古包头昆都仑区20日将开展重点区域人员核酸检测，核酸检测时间：2022年2月20日上午7:30。核酸检测范围：昆都仑区重点区域（居民区）内所有居民群众，密接人员不在此次检测范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwiwss1859035.d.html</link>
-            <guid>2542884</guid>
-            <pubDate>Sat, 19 Feb 2022 18:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【虎年第一“妖股” 10天9涨停！交易所火速出手：是否存在内幕交易？】虎年第一“妖股”降临，浙江建投本月涨幅接近150%。自2月7日至18日的10个交易日，有9个交易日涨停。俗话说妖股“是非多”，浙江建投不只在股价异常波动公告中提示应收账款风险，还提示负债率风险。然而这一切也难阻走牛趋势，就在2月18日，交易所也发函关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4298014.d.html</link>
-            <guid>2542880</guid>
-            <pubDate>Sat, 19 Feb 2022 17:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰总理：波兰准备向乌克兰提供更多的防御武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwipih4297529.d.html</link>
-            <guid>2542879</guid>
-            <pubDate>Sat, 19 Feb 2022 17:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外交部长：如果我们看到与伊朗在区域问题上取得实质性进展，那么和解是可能的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-20/detail-imcwiwss1856769.d.html</link>
-            <guid>2542878</guid>
-            <pubDate>Sat, 19 Feb 2022 17:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
