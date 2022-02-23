@@ -4,11 +4,76 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 23 Feb 2022 20:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 21:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  澳大利亚航空上半年基本税前亏损12.8亿澳元，预估亏损13.6亿澳元，每股中期派息0.0澳元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2584500.d.html</link>
+            <guid>2547570</guid>
+            <pubDate>Wed, 23 Feb 2022 21:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMAX 第四季度调整后每股收益0.31美元，预估0.14美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5025642.d.html</link>
+            <guid>2547568</guid>
+            <pubDate>Wed, 23 Feb 2022 21:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  支付公司eBay第四季度净度收入26.1亿美元，第四季度调整后持续运营EPS为1.05美元，分析师预期0.99美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5025598.d.html</link>
+            <guid>2547567</guid>
+            <pubDate>Wed, 23 Feb 2022 21:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  BATH & BODY WORKS 第四季度每股收益2.28美元，上年同期3.03美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5025439.d.html</link>
+            <guid>2547564</guid>
+            <pubDate>Wed, 23 Feb 2022 21:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块周三几乎全军覆没，可选消费板块跌超3.4%表现最差——成分股特斯拉跌7.0%领跌，信息技术板块跌超2.5%，工业板块跌约1.9%，金融、通信、公用事业板块跌超1.7%，原材料和房地产板块跌超1.3%，能源板块则涨超1.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5025299.d.html</link>
+            <guid>2547560</guid>
+            <pubDate>Wed, 23 Feb 2022 21:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  克宫发言人表示，顿巴斯两地区领导人请求普京协助抗击乌克兰军队的袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5024872.d.html</link>
+            <guid>2547556</guid>
+            <pubDate>Wed, 23 Feb 2022 21:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：北溪2号“目前已死在海底”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2583324.d.html</link>
+            <guid>2547546</guid>
+            <pubDate>Wed, 23 Feb 2022 21:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ESET研究人员称在乌克兰发现新的破坏性恶意软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5024219.d.html</link>
+            <guid>2547529</guid>
+            <pubDate>Wed, 23 Feb 2022 20:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：预计美国不会在北约东侧建立更永久的基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2582817.d.html</link>
+            <guid>2547526</guid>
+            <pubDate>Wed, 23 Feb 2022 20:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日前，两名曾为美国驻也门大使馆新闻部门工作的也门籍当地雇员被胡塞武装逮捕。据悉，两人曾为美国驻也门大使馆工作多年。截至目前，胡塞武装并未就此事作出任何正式表态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2582809.d.html</link>
+            <guid>2547525</guid>
+            <pubDate>Wed, 23 Feb 2022 20:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国务卿与英国外交大臣通话讨论乌俄关系】 美国国务卿布林肯当地时间2月23日与英国外交大臣特拉斯通话，共同针对俄罗斯宣布乌东两地区独立，以及在乌克兰东部入驻“维和部队”的行动表示谴责。据悉，双方还讨论了广泛的双边协调行动，以及如何制定和执行“快速和严厉的”对俄经济制裁措施。（央视）]]></title>
+            <guid>2547514</guid>
+            <pubDate>Wed, 23 Feb 2022 20:44:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国务院：伊朗核谈判中仍有许多棘手问题没有解决，达成协议的时间所剩无几。]]></title>
             <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2581551.d.html</link>
@@ -270,65 +335,6 @@
             <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5010412.d.html</link>
             <guid>2547390</guid>
             <pubDate>Wed, 23 Feb 2022 17:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  当地时间2月23日，土耳其总统埃尔多安表示，就土方为F-35战机支付的14亿美金该如何处理的问题，土耳其与美国军方高层一直保持沟通，持续进行会面，目前相关谈判进展积极。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2568763.d.html</link>
-            <guid>2547386</guid>
-            <pubDate>Wed, 23 Feb 2022 16:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，沙特主权财富基金已开始讨论如何将其所持有的约4%沙特阿美股份（约合860亿美元）变现，因该基金正寻求为其雄心勃勃的投资目标筹集资金。知情人士称，潜在顾问正在提出一系列可能性，包括全部或部分出售这些股份，或通过发行可转换债券工具或贷款来抵押这些股票来筹集资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2568313.d.html</link>
-            <guid>2547385</guid>
-            <pubDate>Wed, 23 Feb 2022 16:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在伦敦上市的俄罗斯企业存托凭证普遍下跌，俄罗斯联邦储蓄银行跌15%至2020年3月以来的最低水平；俄罗斯天然气公司Gazprom跌4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2567724.d.html</link>
-            <guid>2547384</guid>
-            <pubDate>Wed, 23 Feb 2022 16:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士正在审查欧盟对俄罗斯所实施的制裁，以确保瑞士不会被用作规避欧盟对俄罗斯制裁的平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5008827.d.html</link>
-            <guid>2547383</guid>
-            <pubDate>Wed, 23 Feb 2022 16:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘 主要指数多数下跌】欧股收盘主要指数多数下跌，德国DAX30指数跌0.4%，英国富时100指数涨0.09%，法国CAC40指数跌0.1%，欧洲斯托克50指数跌0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5008177.d.html</link>
-            <guid>2547382</guid>
-            <pubDate>Wed, 23 Feb 2022 16:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际货币基金组织表示，与突尼斯的谈判取得了良好进展，并将继续谈判“在未来数周”考虑可能的财政支持。]]></title>
-            <guid>2547380</guid>
-            <pubDate>Wed, 23 Feb 2022 16:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟能源官员Marquez：欧盟天然气储存水平不到容量的三分之一】欧盟能源事务专员Kadri Simson的部门成员Tatiana Marquez表示，欧盟储气水平已降至满载容量的31%左右，俄罗斯天然气工业公司(Gazprom)运营的设施储气量在16%。Marquez在一个视频小组会议上表示，输欧盟的管道有最高达44%的闲置容量。今年面临的状况确实不同寻常，仍然非常依赖化石燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwipih5007552.d.html</link>
-            <guid>2547377</guid>
-            <pubDate>Wed, 23 Feb 2022 16:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克称很高兴看到司法部正在调查卖空者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2566518.d.html</link>
-            <guid>2547376</guid>
-            <pubDate>Wed, 23 Feb 2022 16:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗核谈判特使将于今晚返回德黑兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2566176.d.html</link>
-            <guid>2547372</guid>
-            <pubDate>Wed, 23 Feb 2022 16:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉沙特主权财富基金为860亿美元沙特阿美持股寻求若干选项。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-02-24/detail-imcwiwss2566172.d.html</link>
-            <guid>2547371</guid>
-            <pubDate>Wed, 23 Feb 2022 16:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
