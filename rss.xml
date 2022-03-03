@@ -4,218 +4,259 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 03 Mar 2022 16:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[市场资讯：中银航空租赁已同意向波音(BA.N)购买11架新737 MAX 8飞机，未披露财务条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4036233.d.html</link>
+            <guid>2562784</guid>
+            <pubDate>Thu, 03 Mar 2022 17:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 媒体消息：英国钢铁大亨Gupta寻求解除与俄罗斯天然气公司Gazprom的贸易关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4036091.d.html</link>
+            <guid>2562780</guid>
+            <pubDate>Thu, 03 Mar 2022 17:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰和俄罗斯的会谈需要在一些问题上进行妥协，但不是在所有问题上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6478316.d.html</link>
+            <guid>2562778</guid>
+            <pubDate>Thu, 03 Mar 2022 17:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：对3家与乌克兰有关的矿业和金属生产商（Ferrexpo、Interpipe holdings和Metinvest）采取了负面评级措施。]]></title>
+            <guid>2562776</guid>
+            <pubDate>Thu, 03 Mar 2022 17:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：预计到2025年家庭宽带用户总数将达1100万。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6478154.d.html</link>
+            <guid>2562774</guid>
+            <pubDate>Thu, 03 Mar 2022 17:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫官员当被问及伊核协议是否达成时表示：这“不会改变”，各方都在努力弄清最棘手的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4035476.d.html</link>
+            <guid>2562767</guid>
+            <pubDate>Thu, 03 Mar 2022 17:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：预计2022年第一季度仅固定无线接入就将创下超15万的净增量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477685.d.html</link>
+            <guid>2562763</guid>
+            <pubDate>Thu, 03 Mar 2022 17:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：通过与奈飞(NFLX.O)、Peloton(PTON.O)等达成新伙伴关系，该中心将为Verizon客户提供获得内容服务的独家交易途径。]]></title>
+            <guid>2562760</guid>
+            <pubDate>Thu, 03 Mar 2022 17:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯负责伊核谈判的代表：悬而未决的问题相对较小，但尚未解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477614.d.html</link>
+            <guid>2562759</guid>
+            <pubDate>Thu, 03 Mar 2022 17:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻伊朗谈判特使：在举行部长级会议之前，事情仍需最后敲定。]]></title>
+            <guid>2562756</guid>
+            <pubDate>Thu, 03 Mar 2022 17:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：计划通过增加固定无线用户来提高宽带的渗透率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4035112.d.html</link>
+            <guid>2562755</guid>
+            <pubDate>Thu, 03 Mar 2022 17:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻伊朗谈判特使：在举行部长级会议之前，事情仍需最后敲定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4035093.d.html</link>
+            <guid>2562754</guid>
+            <pubDate>Thu, 03 Mar 2022 17:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：推出专属于Verizon客户的新平台+PLAY。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477456.d.html</link>
+            <guid>2562752</guid>
+            <pubDate>Thu, 03 Mar 2022 17:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“今日俄罗斯”在欧洲播出平台被封杀】当地时间3月3日，“今日俄罗斯”电视新闻频道（RT）已在英国和其他欧盟国家的播出平台被封杀。当天，英国文化大臣娜丁·多里斯在议会称，不希望“今日俄罗斯”电视台节目以任何形式重新出现在英国。此外，位于卢森堡和法国的两家卫星公司因向欧洲播出平台提供“今日俄罗斯”的节目信号而遭到欧盟制裁。“今日俄罗斯”回应道：“欧洲新闻自由的假象终于崩塌。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4035025.d.html</link>
+            <guid>2562751</guid>
+            <pubDate>Thu, 03 Mar 2022 17:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沃尔玛百货(WMT.N)：沃尔玛加拿大公司是当地第一家实现最后一英里配送碳中和的主要零售商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034998.d.html</link>
+            <guid>2562750</guid>
+            <pubDate>Thu, 03 Mar 2022 17:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统普京召开俄罗斯联邦安全会议】当地时间3月3日，俄罗斯总统普京召开俄罗斯联邦安全会议。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034993.d.html</link>
+            <guid>2562749</guid>
+            <pubDate>Thu, 03 Mar 2022 17:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本当地时间3日夜间，日本、美国、澳大利亚、印度四国首脑举行了线上会议。这次会议主要围绕当前俄乌局势进行商讨。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034940.d.html</link>
+            <guid>2562748</guid>
+            <pubDate>Thu, 03 Mar 2022 17:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：预计在2024年将资本密集度降低到12%以下。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477332.d.html</link>
+            <guid>2562747</guid>
+            <pubDate>Thu, 03 Mar 2022 17:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：乌克兰的民族主义者把平民聚集在公寓大楼中间，把武器置放在楼下和楼上——就像纳粹那样。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477281.d.html</link>
+            <guid>2562746</guid>
+            <pubDate>Thu, 03 Mar 2022 17:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)：概述了多种增长途径，以期在2024年及以后使服务业务和其他收入实现4%的增长率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034805.d.html</link>
+            <guid>2562745</guid>
+            <pubDate>Thu, 03 Mar 2022 17:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：我们正在与包括核武器在内的威胁作斗争。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6477031.d.html</link>
+            <guid>2562740</guid>
+            <pubDate>Thu, 03 Mar 2022 17:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：所有受伤的俄罗斯军人也将得到补偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476912.d.html</link>
+            <guid>2562737</guid>
+            <pubDate>Thu, 03 Mar 2022 16:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：承诺向阵亡军人家属提供金钱补偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476902.d.html</link>
+            <guid>2562736</guid>
+            <pubDate>Thu, 03 Mar 2022 16:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：如果俄罗斯与乌克兰在平等的基础上进行对话，所有问题都可以得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476898.d.html</link>
+            <guid>2562735</guid>
+            <pubDate>Thu, 03 Mar 2022 16:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：俄罗斯Sovcomflot旗下油轮SCF Neva离开位于加拿大John的目的地，前往加勒比海域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476842.d.html</link>
+            <guid>2562733</guid>
+            <pubDate>Thu, 03 Mar 2022 16:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：我们的军人为平民撤离提供了人道主义通道，但这些通道被乌克兰民族主义者封锁了。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034283.d.html</link>
+            <guid>2562730</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：乌克兰军队劫持了数千名外国公民作为人质，其中包括学生。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034272.d.html</link>
+            <guid>2562729</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：我们在乌克兰与“新纳粹”和外国兵作战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034263.d.html</link>
+            <guid>2562728</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯总统普京：俄罗斯人和乌克兰人属于一个民族。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476775.d.html</link>
+            <guid>2562727</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：Illumina(ILMN.O)针对收购癌症筛查初创公司Gral提出的补救措施 "尚未说服 "欧洲反垄断监管机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034248.d.html</link>
+            <guid>2562726</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：普京开始与俄罗斯安全理事会成员会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034230.d.html</link>
+            <guid>2562724</guid>
+            <pubDate>Thu, 03 Mar 2022 16:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰军方：相信白俄罗斯军队已经接到穿越乌克兰边境的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476737.d.html</link>
+            <guid>2562723</guid>
+            <pubDate>Thu, 03 Mar 2022 16:56:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大总理特鲁多：加拿大和其他亲密伙伴呼吁暂停俄罗斯在国际刑警组织中的职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6476733.d.html</link>
+            <guid>2562722</guid>
+            <pubDate>Thu, 03 Mar 2022 16:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)CEO：一旦达到债务杠杆目标就会计划回购股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4034167.d.html</link>
+            <guid>2562718</guid>
+            <pubDate>Thu, 03 Mar 2022 16:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特CEO：将于3月15日开始重新开放办公室。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4033506.d.html</link>
+            <guid>2562717</guid>
+            <pubDate>Thu, 03 Mar 2022 16:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：国际社会在帮助乌克兰方面犹豫不决。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4033280.d.html</link>
+            <guid>2562713</guid>
+            <pubDate>Thu, 03 Mar 2022 16:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：如果盟国不设立禁飞区，他们就应该给我们飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6475765.d.html</link>
+            <guid>2562712</guid>
+            <pubDate>Thu, 03 Mar 2022 16:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟金融服务主管Mcguinness：欧盟不排除任何制裁俄罗斯的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6475519.d.html</link>
+            <guid>2562707</guid>
+            <pubDate>Thu, 03 Mar 2022 16:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Bumble(BMBL.O)跌超16%，创去年11月以来最大盘中跌幅，股价续刷历史新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4032952.d.html</link>
+            <guid>2562706</guid>
+            <pubDate>Thu, 03 Mar 2022 16:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国计划最快于当地时间3月3日对俄罗斯寡头实施制裁】据消息人士透露，拜登政府计划最快于3日当天对俄罗斯寡头及其家人实施新的制裁。知情人士称，预计制裁将大致遵循欧盟于本周早些时候针对俄罗斯寡头制定的制裁，但不会完全相同。一些被欧盟制裁的人员将再次受到美国的制裁，但是美国的制裁范围会更广泛，将包括旅行禁令和针对家庭成员的制裁。目前，美国总统拜登已经对一些与俄政府关系密切的俄罗斯高层人士及其成年子女实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4032914.d.html</link>
+            <guid>2562705</guid>
+            <pubDate>Thu, 03 Mar 2022 16:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国副国务卿努兰德表示，如果俄罗斯有意从乌克兰撤军，美国对谈判持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4032841.d.html</link>
+            <guid>2562703</guid>
+            <pubDate>Thu, 03 Mar 2022 16:37:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[贝莱德集团：已于2月28日停止购买俄罗斯证券，影响到本公司业务活动和一系列指数基金。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4032580.d.html</link>
             <guid>2562697</guid>
             <pubDate>Thu, 03 Mar 2022 16:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌与法国报纸协会达成新授权协议】本周四，谷歌和包括近300家法国报纸在内的行业协会表示，双方就内容出版权问题达成了新的协议。联合声明称，这项协议意味着从去年9月开始的有关如何为在谷歌搜索结果中使用其内容的报纸付费的谈判取得了成功。最新协议“阐明了谷歌与联盟成员就个人许可协议和报酬条款进行谈判的原则”。今年1月，谷歌和法国出版商游说团表示，他们已就一项版权框架达成一致，谷歌将为在线内容向新闻出版商付费，这在欧洲尚是首例，为单独授权协议铺平了道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6474714.d.html</link>
-            <guid>2562687</guid>
-            <pubDate>Thu, 03 Mar 2022 16:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【1个月暴增1万亿份 公募规模再创新高】继去年12月份单月“吸金”2414亿后，2022年首月公募基金继续逆势勇攀高峰。据中国基金业协会最新公布的数据，截至2022年1月末，境内公募基金资产净值规模达25.87万亿元，较上月环比增加3115亿元，总份额增量超万亿份。开年首月市场震荡中，债券基金、货币基金等中低风险产品成为资金“避风港”，也是公募基金规模增长的主力军。其中货币基金份额与规模双双突破10亿大关，在权益市场波动时尽显避险价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6474619.d.html</link>
-            <guid>2562686</guid>
-            <pubDate>Thu, 03 Mar 2022 16:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  基辅市长：我们不会投降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6474426.d.html</link>
-            <guid>2562682</guid>
-            <pubDate>Thu, 03 Mar 2022 16:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：美国将继续向乌克兰提供情报和信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4031925.d.html</link>
-            <guid>2562680</guid>
-            <pubDate>Thu, 03 Mar 2022 16:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：一致支持对乌克兰难民采取保护措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4031915.d.html</link>
-            <guid>2562678</guid>
-            <pubDate>Thu, 03 Mar 2022 16:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乌兹别克斯坦总统访问巴基斯坦】乌兹别克斯坦总统米尔济约耶夫抵达巴基斯坦，在为期两天的访问期间，双方将签署双边特惠贸易协定，对近30种产品降低关税，降幅为20%至100%之间，以提振双边贸易合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6474345.d.html</link>
-            <guid>2562677</guid>
-            <pubDate>Thu, 03 Mar 2022 16:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国内政部长：欧盟同意对乌克兰难民采取保护措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6474121.d.html</link>
-            <guid>2562675</guid>
-            <pubDate>Thu, 03 Mar 2022 16:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯对外情报局局长纳雷什金：美国知道乌克兰正在发展核武器，并准备提供帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4031600.d.html</link>
-            <guid>2562674</guid>
-            <pubDate>Thu, 03 Mar 2022 16:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：美国方面认为俄罗斯面临的一个可能结果可能是从赫尔松转向尼古拉耶夫。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4031283.d.html</link>
-            <guid>2562667</guid>
-            <pubDate>Thu, 03 Mar 2022 16:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：美国方面认为赫尔松仍在战斗，不能说其已经落入俄罗斯之手。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4031104.d.html</link>
-            <guid>2562665</guid>
-            <pubDate>Thu, 03 Mar 2022 16:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰外交部长库勒巴：与美国国务卿布林肯讨论了加强乌克兰防空的方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6473446.d.html</link>
-            <guid>2562661</guid>
-            <pubDate>Thu, 03 Mar 2022 16:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国白宫要求国会批准追加100亿美元用于乌克兰相关援助】当地时间3月3日，美国白宫正式要求国会授权向乌克兰及其中欧地区国家盟友提供100亿美元的额外人道主义、经济和安全援助，以应对俄罗斯对乌克兰发起的特别军事行动。 预计美国国会将在3月11日为政府提供资金的最后期限前批准该法案。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030965.d.html</link>
-            <guid>2562660</guid>
-            <pubDate>Thu, 03 Mar 2022 16:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩尔多瓦总统：摩尔多瓦正在申请加入欧盟。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030714.d.html</link>
-            <guid>2562652</guid>
-            <pubDate>Thu, 03 Mar 2022 16:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴基斯坦海军拦截企图进入巴海域的印度潜艇】巴基斯坦三军公共关系部表示，巴海军反潜战部队拦截了一艘企图进入巴基斯坦海域的印度潜艇，并发布了相关视频。印度潜艇于3月1日被巴海军发现并跟踪。巴基斯坦三军公共关系部还表示，当前正值巴基斯坦海军演习期间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6473141.d.html</link>
-            <guid>2562651</guid>
-            <pubDate>Thu, 03 Mar 2022 16:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  克里姆林宫：俄罗斯和沙特将继续在欧佩克+协议中进行协调。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030469.d.html</link>
-            <guid>2562646</guid>
-            <pubDate>Thu, 03 Mar 2022 16:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：泽连斯基称与普京直接对话对停战很重要】据俄新社当地时间3月3日报道，乌克兰总统泽连斯基称，与俄罗斯总统普京直接对话对停止战争很重要。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6472851.d.html</link>
-            <guid>2562645</guid>
-            <pubDate>Thu, 03 Mar 2022 16:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：美国在乌克兰没有地面部队。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030363.d.html</link>
-            <guid>2562644</guid>
-            <pubDate>Thu, 03 Mar 2022 16:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外国情报负责人表示，对我们来说，这不再是与西方的冷战，而是热战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6472761.d.html</link>
-            <guid>2562643</guid>
-            <pubDate>Thu, 03 Mar 2022 16:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫称，普京告诉沙特王储，将全球能源供应问题政治化是不可接受的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030308.d.html</link>
-            <guid>2562642</guid>
-            <pubDate>Thu, 03 Mar 2022 16:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据美国官方评估，到目前为止，俄罗斯共发射了480枚导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030198.d.html</link>
-            <guid>2562637</guid>
-            <pubDate>Thu, 03 Mar 2022 16:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：美国无法证实俄罗斯是否在乌克兰使用或部署了温压武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6472643.d.html</link>
-            <guid>2562636</guid>
-            <pubDate>Thu, 03 Mar 2022 16:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：乌克兰导弹防御系统仍然是完整和有效的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030162.d.html</link>
-            <guid>2562635</guid>
-            <pubDate>Thu, 03 Mar 2022 16:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰总统泽连斯基：德国应该成为乌克兰安全的保证人之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6472609.d.html</link>
-            <guid>2562634</guid>
-            <pubDate>Thu, 03 Mar 2022 16:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：马里乌波尔仍在乌克兰控制之下，但俄罗斯军队似乎试图包围这座城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4030149.d.html</link>
-            <guid>2562633</guid>
-            <pubDate>Thu, 03 Mar 2022 16:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：美国评估普京在乌克兰投入了集结军队的90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwipih6472554.d.html</link>
-            <guid>2562630</guid>
-            <pubDate>Thu, 03 Mar 2022 16:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亚马逊将启动和未来零售谈判 探讨出售印度资产的庭外解决方案】据外媒报道，亚马逊(AMZN.O)将与印度合作伙伴未来零售(Future Retail Ltd.)举行谈判，以解决未来零售向信实工业(Reliance Industries)出售零售资产的争议。在周四的最高法院听证会上，未来零售的律师同意了亚马逊律师提出的探索庭外解决方案的建议，信实工业也将参与这场谈判。此前现金紧张的未来零售试图以34亿美元的价格将部分资产(包括商店和仓库)出售给信实工业。亚马逊表示，该交易违反了其与另一家未来集团公司的合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-04/detail-imcwiwss4029975.d.html</link>
-            <guid>2562629</guid>
-            <pubDate>Thu, 03 Mar 2022 16:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大代表、中上协执行副会长柳磊建议：为上市公司实施股权激励提供制度保障】全国人大代表、中国上市公司协会执行副会长柳磊将在今年全国两会期间提交多件建议，内容主要涉及上市公司股权激励、上市公司低碳发展、基金法修改等内容。柳磊的建议包括《关于为上市公司实施股权激励提供制度保障的建议》《关于进一步完善上市公司低碳发展规划与政策引导的建议》《关于修改<中国证券投资基金法>的建议》等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwiwss4029309.d.html</link>
-            <guid>2562621</guid>
-            <pubDate>Thu, 03 Mar 2022 15:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国金融行为监管局（FCA）：俄罗斯对乌克兰采取军事行动对金融市场产生了重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwipih6471460.d.html</link>
-            <guid>2562613</guid>
-            <pubDate>Thu, 03 Mar 2022 15:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯方面表示，俄罗斯和欧盟关系的发展取决于布鲁塞尔是否认识到乌克兰“去纳粹化”的必要性。]]></title>
-            <guid>2562612</guid>
-            <pubDate>Thu, 03 Mar 2022 15:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：美国总统拜登对俄罗斯寡头的制裁将于欧盟措施保持一致，但凡为更广；将禁止寡头前往美国，并将针对他们的家人。]]></title>
-            <guid>2562611</guid>
-            <pubDate>Thu, 03 Mar 2022 15:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：美国总统拜登周四准备对数个俄罗斯寡头及其家人实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwiwss4028872.d.html</link>
-            <guid>2562607</guid>
-            <pubDate>Thu, 03 Mar 2022 15:46:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺基亚下跌 6.2%. 该公司看涨期权的交易量达到均值水平的5倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwiwss4028716.d.html</link>
-            <guid>2562602</guid>
-            <pubDate>Thu, 03 Mar 2022 15:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【泽连斯基签署法令确保欧盟和国际复兴开发银行向其提供财政支持】乌克兰总统泽连斯基签署一项法令，以确保乌克兰与欧盟和国际复兴开发银行达成协议，为乌克兰提供财政支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwiwss4028600.d.html</link>
-            <guid>2562599</guid>
-            <pubDate>Thu, 03 Mar 2022 15:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰总统泽连斯基签署一项法令，以确保乌克兰与欧盟和国际复兴开发银行达成协议，为乌克兰提供财政支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-03/detail-imcwiwss4028520.d.html</link>
-            <guid>2562596</guid>
-            <pubDate>Thu, 03 Mar 2022 15:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
