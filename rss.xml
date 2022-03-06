@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Mar 2022 18:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 19:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  乌克兰推出小麦、玉米、家禽、肉、鸡、蛋和葵花籽油出口许可证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-07/detail-imcwiwss4556664.d.html</link>
+            <guid>2567417</guid>
+            <pubDate>Sun, 06 Mar 2022 18:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会主席：乌克兰加入欧盟需要时间】欧盟委员会主席冯德莱恩在德国柏林接受媒体采访时再次就乌克兰加入欧盟一事阐述了自己的观点。她表示，欢迎乌克兰提出加入欧盟的申请，“毫无疑问，勇敢的乌克兰人民属于欧洲大家庭”。但与此同时，冯德莱恩指出，加入欧盟有明确的规定和流程“无法绕过”，并不是一朝一夕的事情。她也并没有就这一进程最早何时能取得成果给出明确答复。冯德莱恩强调，眼下，最重要的是在当前的冲突中尽可能多地向乌克兰提供支持。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-07/detail-imcwipih6998926.d.html</link>
+            <guid>2567416</guid>
+            <pubDate>Sun, 06 Mar 2022 18:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  丹麦首相表示立法者同意增加国防预算。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-07/detail-imcwiwss4553624.d.html</link>
@@ -407,18 +419,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6957543.d.html</link>
             <guid>2566391</guid>
             <pubDate>Sun, 06 Mar 2022 10:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿根廷发生5.5级地震 震源深度150千米】中国地震台网正式测定：03月06日17时35分在阿根廷（南纬28.55度，西经68.75度）发生5.5级地震，震源深度150千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4513516.d.html</link>
-            <guid>2566390</guid>
-            <pubDate>Sun, 06 Mar 2022 10:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间3月6日，土耳其总统埃尔多安与俄罗斯总统普京通电话，讨论乌克兰局势问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4513308.d.html</link>
-            <guid>2566389</guid>
-            <pubDate>Sun, 06 Mar 2022 10:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
