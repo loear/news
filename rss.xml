@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【卡塔尔外交大臣会见意大利外长 两国将加强能源合作】卡塔尔副首相兼外交大臣穆罕默德在卡塔尔首都多哈会见来访的意大利外交与国际合作部长迪马约，双方重点就两国关系以及在各领域的合作，特别是能源合作进行了商讨。随着乌克兰局势持续恶化，欧盟希望卡塔尔出口更多的天然气，以缓解欧盟面临的天然气短缺问题。卡塔尔能源事务国务大臣萨阿德·卡比日前表示，欧洲的能源安全需各方面共同努力，任何一个国家无力单独“拯救”欧洲，卡塔尔也没有足够产能可以替代俄罗斯向欧洲提供天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-07/detail-imcwipih6988781.d.html</link>
+            <guid>2567406</guid>
+            <pubDate>Sun, 06 Mar 2022 16:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄乌谈判乌方代表团成员：双方满意目前谈判进程】俄乌谈判乌方代表团成员、乌克兰人民公仆党议会党团主席阿拉哈米亚表示，双方均满意能够互相听取对方的立场，并开展积极讨论。他表示，目前唯一无法同俄方达成一致的是克里米亚问题以及承认卢甘斯克和顿涅茨克独立。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-07/detail-imcwipih6988647.d.html</link>
+            <guid>2567405</guid>
+            <pubDate>Sun, 06 Mar 2022 16:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯表示接近达成伊朗核协议，但仍有几个非常具有挑战性的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6987744.d.html</link>
+            <guid>2567403</guid>
+            <pubDate>Sun, 06 Mar 2022 15:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【壳牌石油公司誓言制裁俄罗斯 结果“反转”了】尽管壳牌石油公司在2月28日宣布对俄罗斯发起制裁，但在3月5日，壳牌说因“别无选择”所以购买了一批俄罗斯的原油。据悉，壳牌当天以每桶较布伦特原油价格低28.5美元（约合人民币180元）的价格，购买了72.5万桶俄罗斯原油。壳牌公司表示，该公司要努力维持燃料的供应，替代供应源没有及时到位，不得已才购买了俄罗斯原油以便及时满足欧洲市场需求。该公司强调，如果不能向炼油厂连续供应原油，能源行业就无法保证在未来几周内向欧洲各地提供基本产品。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6987677.d.html</link>
+            <guid>2567402</guid>
+            <pubDate>Sun, 06 Mar 2022 15:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【明日8时起仁济医院南院恢复门诊、发热门诊和核酸检测服务】上海仁济医院晚间发布消息：2022年3月7日（周一）8时起，南院区（江月路2000号）恢复门诊、发热门诊和核酸检测服务。急诊仍然暂停服务，开放时间敬请关注医院官方通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4543607.d.html</link>
+            <guid>2567401</guid>
+            <pubDate>Sun, 06 Mar 2022 15:41:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美国称正与欧洲盟友商谈禁止进口俄罗斯石油】美国国务卿布林肯3月6日表示，美国正在与欧洲盟友合作，共同研究禁止进口俄罗斯石油的可能性。布林肯表示，已与美国总统拜登和内阁其他成员就禁止进口俄罗斯石油的问题进行了通话。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6986072.d.html</link>
@@ -401,35 +431,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4510330.d.html</link>
             <guid>2566378</guid>
             <pubDate>Sun, 06 Mar 2022 09:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海排查新增感染者相关人员核酸检测已出结果均为阴性】上海卫健委通报，截至3月6日16时，除已报告的阳性感染者之外，上海市累计排查到3月6日新增感染者10人在沪密切接触者401人，均已落实管控，核酸检测结果均为阴性。已排查到在沪密接的密接444人，均已落实管控，其中143人核酸检测结果为阴性，其余正在检测中。累计排查到筛查人员70442人，其中48772人核酸检测结果为阴性，其余正在采样检测中。累计采集环境样本308件，其中24件阳性（为隔离点环境样本），其余均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6953818.d.html</link>
-            <guid>2566376</guid>
-            <pubDate>Sun, 06 Mar 2022 09:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间6日，乌克兰总统办公室顾问奥列克西·阿列斯托维奇（Oleksiy Arestovych）发布消息说，乌俄双方正在就位于基辅州的戈斯托梅尔和布查市的人道主义撤离进行协商。（央视新闻）]]></title>
-            <guid>2566375</guid>
-            <pubDate>Sun, 06 Mar 2022 09:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“顿涅茨克人民共和国”领导人：马里乌波尔已经接近发生人道主义灾难，没有水、没有食物、没有药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4509344.d.html</link>
-            <guid>2566374</guid>
-            <pubDate>Sun, 06 Mar 2022 09:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国国防部长：希望将获批的额外资金主要用于优化士兵个人装备】当地时间6日，德国联邦国防部长兰布雷希特在接受媒体采访时表示，希望将联邦国防军获批的额外资金主要用于优化士兵的个人装备。兰布雷希特透露，她已经向国防军最高长官下达“将改善部队的个人装备作为优先事项”的指示。此前，德国联邦政府宣布将额外从今年的财政预算中一次性拨款1000亿欧元设立特别基金，以支持军备项目，包括对联邦国防军进行现代化升级等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwipih6953261.d.html</link>
-            <guid>2566373</guid>
-            <pubDate>Sun, 06 Mar 2022 09:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕西西安已排查确诊病例密接1148人】西安市卫生健康委主任刘顺智介绍，截至3月6日12时，西安市共流调排查两名确诊病例的密接1148人、次密接3282人。密接人员核酸检测已出结果939人，均为阴性；次密接人员3154人已落实管控，3118人已完成核酸检测，已出结果2399人，均为阴性。对离开西安市的密接、次密接，均已发协查函。3月5日以来，西安在重点区域扩大范围核酸筛查累计60.26万人，47.08万人结果已出均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-06/detail-imcwiwss4508955.d.html</link>
-            <guid>2566372</guid>
-            <pubDate>Sun, 06 Mar 2022 09:24:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
