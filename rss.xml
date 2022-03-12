@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 12 Mar 2022 15:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 16:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  乌克兰农业部副部长称，乌克兰将于3月中旬开始2022年春季谷物播种。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-13/detail-imcwiwss5693041.d.html</link>
+            <guid>2578207</guid>
+            <pubDate>Sat, 12 Mar 2022 16:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【断臂止血！“连锁火锅第一股”关店230家 股价暴跌86%】餐饮界又现关店潮。继海底捞此前宣布关店300家后，3月11日，“连锁火锅第一股”呷哺呷哺发布公告，2021年公司关闭了230家门店。同时，呷哺呷哺预计2021年净亏损人民币2.75亿元至2.95亿元，原因主要是关店所致。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-13/detail-imcwipih8138596.d.html</link>
+            <guid>2578198</guid>
+            <pubDate>Sat, 12 Mar 2022 16:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【法德领导人呼吁俄立即停火 与俄立场冲突明显】法国总统马克龙，德国总理朔尔茨和俄罗斯总统普京当地时间12日进行了电话沟通。法国总统府对外表示，通话进行了一个半小时。法国和德国认为俄罗斯指责乌克兰军队严重侵犯人权是谎言。同时法德两国首脑再次呼吁俄罗斯立即停火和解除对马里乌波尔的围困。此前，根据克里姆林宫发布的消息，普京在通话中指控乌克兰军队公然侵犯人权，他要求法国总统马克龙和德国总理朔尔茨向基辅施压，杜绝这种行为。普京表示，这其中包括非法暗杀反对派，绑架平民并用他们作为人体盾牌以及在居民区、医院和学校等地方部署重武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-13/detail-imcwiwss5692541.d.html</link>
+            <guid>2578189</guid>
+            <pubDate>Sat, 12 Mar 2022 16:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【林郑月娥：香港跨境鲜活食品供应大致恢复正常】香港特区行政长官林郑月娥12日表示，在各方努力下，香港跨境鲜活食品供应已大致恢复平日水平，价格也大幅回落。她强调，特区政府致力做到信息发布公开透明，避免市民产生误解、慌张。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-13/detail-imcwipih8137555.d.html</link>
+            <guid>2578175</guid>
+            <pubDate>Sat, 12 Mar 2022 16:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在乌克兰总统泽连斯基表示西方国家应该更多地参与结束战争的谈判之后，美国国务院表示，准备采取有助于乌克兰的外交措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8136800.d.html</link>
+            <guid>2578170</guid>
+            <pubDate>Sat, 12 Mar 2022 15:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京冬奥会、冬残奥会所有场馆赛后将对公众开放】12日，北京冬奥组委遗产项目负责人刘兴华在新闻发布会上介绍，北京冬奥会、冬残奥会所有场馆赛后将对公众开放。刘兴华举例，延庆国家高山滑雪中心部分场地将持续举办高水平高山滑雪赛事，为专业队伍提供培训基地，部分区域也会开放给公众，供全民健身使用。]]></title>
+            <guid>2578163</guid>
+            <pubDate>Sat, 12 Mar 2022 15:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登授权向乌克兰提供多达2亿美元的援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5690429.d.html</link>
+            <guid>2578158</guid>
+            <pubDate>Sat, 12 Mar 2022 15:36:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国总统府官员表示，法国和德国呼吁停火，将其作为进行结构性谈判的条件。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8135302.d.html</link>
@@ -353,89 +394,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5669309.d.html</link>
             <guid>2578041</guid>
             <pubDate>Sat, 12 Mar 2022 11:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：31个俄罗斯营战术小组已经失去了战斗能力。俄罗斯军队损失是几十年来最大的。俄罗斯向乌克兰派遣了新的军队，乌克兰没有权利降低战斗强度。乌克兰军队完全支持马里乌波尔走廊的停火，并呼吁俄罗斯也这样做。乌克兰正在与欧盟委员会合作，以加快乌克兰加入欧盟的步伐。在等待欧盟对俄罗斯的新制裁方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8114601.d.html</link>
-            <guid>2578040</guid>
-            <pubDate>Sat, 12 Mar 2022 11:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：法国总统马克龙、德国总理朔尔茨正在与俄罗斯总统普京通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8114464.d.html</link>
-            <guid>2578038</guid>
-            <pubDate>Sat, 12 Mar 2022 11:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基要求立即释放被绑架的梅利托波尔市市长，并表示已经与德国和法国领导人进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8114420.d.html</link>
-            <guid>2578037</guid>
-            <pubDate>Sat, 12 Mar 2022 11:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统办公室副主任表示，总统泽连斯基目前仍在基辅的办公地点工作。]]></title>
-            <guid>2578035</guid>
-            <pubDate>Sat, 12 Mar 2022 11:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆与11家央企签约38个项目，总投资逾6000亿元人民币】 新疆与中央企业产业兴疆恳谈会3月12日在北京召开，国务院国资委与23家中央企业出席会议。会上，新疆维吾尔自治区与11家中央企业签约了38个重大合作项目，总投资约6117.06亿元。据悉，这11家央企2022年计划完成投资1086.2亿元，主要涉及石油化工、煤电煤化工、清洁能源、装备制造、基础设施建设等领域。签约央企表示，未来将进一步加大关键核心技术攻关力度，加大投资力度，依托新疆特有资源持续深化合作，推进成果落地，培植壮大特色支柱产业，形成合作共赢的产业振兴新模式。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5667756.d.html</link>
-            <guid>2578034</guid>
-            <pubDate>Sat, 12 Mar 2022 11:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄乌冲突持续，我国这种肥料市场或将出现拐点】钾肥市场供应紧张，甚至有小企业拿不到货。面对这样的局面，一些化肥企业已经开始研发对钾肥原材料需求相对更少的新产品，以降低成本，缓解钾肥供不应求的难题。山东烟台某化肥集团总经理王巍翰表示：“在目前国际钾肥价格高涨的情况下，我们跟德国钾盐集团合作推出了钾镁肥系列，这款肥料可以减少钾肥的使用，这样可以使我们国内的需求得到满足。”（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5667350.d.html</link>
-            <guid>2578032</guid>
-            <pubDate>Sat, 12 Mar 2022 11:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国经济部：德国计划在秋季前摆脱对俄罗斯煤炭的依赖，在年底前几乎放弃俄罗斯石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5666670.d.html</link>
-            <guid>2578031</guid>
-            <pubDate>Sat, 12 Mar 2022 11:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第二批国家中医药服务出口基地今天公布】商务部今天（12日）公布第二批国家中医药服务出口基地名单和第一批国家中医药服务出口基地复审结果。第二批国家中医药服务出口基地共14家，涵盖北京、天津、河北、内蒙古、吉林、上海、浙江、福建、河南、湖南、广西、重庆、甘肃13个省区市。第一批国家中医药服务出口基地于2019年11月29日确立，共17家，涵盖北京、天津、河北、辽宁等12个省区市。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665998.d.html</link>
-            <guid>2578030</guid>
-            <pubDate>Sat, 12 Mar 2022 11:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体：俄罗斯外交部官员称，如果芬兰、瑞典加入北约，俄罗斯将采取报复措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665946.d.html</link>
-            <guid>2578029</guid>
-            <pubDate>Sat, 12 Mar 2022 11:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德商银行：将停止在俄罗斯开展新业务。正在逐步结束在俄罗斯的现有交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665896.d.html</link>
-            <guid>2578028</guid>
-            <pubDate>Sat, 12 Mar 2022 11:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌方称俄首次向乌西部发起进攻 俄国防部证实已摧毁两机场】据乌克兰官员和军事情报部门的消息，当地时间11日，俄罗斯武装力量首次向乌克兰西部发起进攻，乌西部多座城市的机场遭到打击。与此同时，乌首都基辅周边战事趋紧。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665852.d.html</link>
-            <guid>2578027</guid>
-            <pubDate>Sat, 12 Mar 2022 11:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及工业部：埃及将禁止出口玉米和植物油，为期三个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665475.d.html</link>
-            <guid>2578026</guid>
-            <pubDate>Sat, 12 Mar 2022 10:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部官员：如有必要 俄方将在能源领域对抗欧盟】 据国际文传电讯社12日报道，俄罗斯外交部欧洲合作司司长科布里涅茨表示，如有必要，俄罗斯已准备好在能源领域与欧盟展开对抗。俄罗斯始终保持着可靠的能源供应，保障世界能源安全，俄方十分重视这一点。但如有必要，俄罗斯也做好了在能源领域展开强硬抗衡的准备。科布里涅茨强调，若真走到这一步，欧盟将不会从中受益。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwipih8110981.d.html</link>
-            <guid>2578025</guid>
-            <pubDate>Sat, 12 Mar 2022 10:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体：俄罗斯外交部表示，莫斯科尚未准备好与华盛顿就美国强加的议题进行对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-12/detail-imcwiwss5665132.d.html</link>
-            <guid>2578024</guid>
-            <pubDate>Sat, 12 Mar 2022 10:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
