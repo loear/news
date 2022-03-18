@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 18 Mar 2022 19:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 20:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[意大利总理德拉吉：意大利针对能源价格问题批准44亿欧元一揽子计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9318205.d.html</link>
+            <guid>2588490</guid>
+            <pubDate>Fri, 18 Mar 2022 20:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司（MSCI）：就俄罗斯相关公司的可投资性征求意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6871097.d.html</link>
+            <guid>2588489</guid>
+            <pubDate>Fri, 18 Mar 2022 20:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国纽约联邦法官拒绝冻结俄罗斯银行机构Sberbank的资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9318109.d.html</link>
+            <guid>2588485</guid>
+            <pubDate>Fri, 18 Mar 2022 20:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车将以21.0亿美元收购日本软银集团对通用汽车旗下自动驾驶部门Cruise的持股，软银当年投资了13.5亿美元。通用汽车（GM）美股盘后涨0.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6870874.d.html</link>
+            <guid>2588483</guid>
+            <pubDate>Fri, 18 Mar 2022 20:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统顾问Podolyak：乌克兰不会放弃任何领土。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6868645.d.html</link>
+            <guid>2588448</guid>
+            <pubDate>Fri, 18 Mar 2022 19:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统顾问Podolyak：与俄罗斯的谈判进展困难，可能会持续数周。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6868619.d.html</link>
+            <guid>2588447</guid>
+            <pubDate>Fri, 18 Mar 2022 19:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月09日20时22分在台湾台东县海域（北纬23.21度，东经121.58度）发生5.1级地震，震源深度30千米。（人民日报）]]></title>
+            <guid>2588440</guid>
+            <pubDate>Fri, 18 Mar 2022 19:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网自动测定：03月19日03时04分在中国台湾东北附近（北纬25.56度，东经123.94度）发生6.0级左右地震，最终结果以正式速报为准。]]></title>
             <guid>2588435</guid>
@@ -169,88 +210,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9305077.d.html</link>
             <guid>2588372</guid>
             <pubDate>Fri, 18 Mar 2022 17:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰总统顾问Podolyak：乌克兰希望停火，俄罗斯撤军以及得到有力的安全保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6857657.d.html</link>
-            <guid>2588366</guid>
-            <pubDate>Fri, 18 Mar 2022 16:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统顾问Podolyak：乌克兰在谈判中的立场保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6857611.d.html</link>
-            <guid>2588365</guid>
-            <pubDate>Fri, 18 Mar 2022 16:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：俄罗斯总统普京和法国总统马克龙通了电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6857523.d.html</link>
-            <guid>2588364</guid>
-            <pubDate>Fri, 18 Mar 2022 16:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【卢卡申科：不会在白俄罗斯部署核武器】当地时间3月17日，白俄罗斯总统卢卡申科在接受媒体采访时表示，没有在白俄罗斯部署和生产核武器的计划，也没有制造和使用核武器来攻击任何人的计划。卢卡申科强调，白俄罗斯领导层从来没有过此类计划，他本人也没有过类似计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9304475.d.html</link>
-            <guid>2588362</guid>
-            <pubDate>Fri, 18 Mar 2022 16:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：03月19日00时45分在甘肃陇南市宕昌县（北纬33.77度，东经104.63度）发生3.6级地震，震源深度14千米。]]></title>
-            <guid>2588361</guid>
-            <pubDate>Fri, 18 Mar 2022 16:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：03月19日00时45分在甘肃陇南市宕昌县附近（北纬33.77度，东经104.67度）发生3.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2588358</guid>
-            <pubDate>Fri, 18 Mar 2022 16:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛法务总顾问Kathryn Ruemmler上任一年，其律师费/总薪酬将近1270万美元，包括790万美元现金支付（含150万美元基本薪酬和640万美元奖金）及超过470万美元股票奖励。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6856872.d.html</link>
-            <guid>2588357</guid>
-            <pubDate>Fri, 18 Mar 2022 16:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场各方看好公募REITs试点新征程，上交所抓紧制定REITs扩募规则】证监会官方网站18日发布消息表示，当前证监会正会同相关部委深入推进公募REITs试点，进一步促进投融资良性循环。市场各方对此消息颇为振奋，看好我国公募REITs市场发展前景。记者从上交所获悉，正在抓紧制定形成REITs扩募规则，拟近期对市场征求意见。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6856651.d.html</link>
-            <guid>2588355</guid>
-            <pubDate>Fri, 18 Mar 2022 16:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国常驻联合国代表：中方将继续劝和促谈，支持联合国和各方大力开展斡旋努力】当地时间3月18日，联合国安理会审议乌克兰生物安全问题。中国常驻联合国代表张军表示，中方已多次就乌克兰问题阐明立场。当前形势下，国际社会普遍希望尽快实现停火，避免更多平民伤亡，避免更大规模人道危机，这也是中方的期待。当事方直接谈判是解决问题的根本出路。俄罗斯同乌克兰已经举行四轮谈判，能够保持谈判就有实现停火的希望，就能开辟和平的未来。中方将继续劝和促谈，我们支持联合国和各方大力开展斡旋努力，也希望各方都能多做有利于促进和谈而不是火上浇油的事情。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6856472.d.html</link>
-            <guid>2588353</guid>
-            <pubDate>Fri, 18 Mar 2022 16:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会议员针对涨价问题向众多汽车租赁公司索要信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9302476.d.html</link>
-            <guid>2588346</guid>
-            <pubDate>Fri, 18 Mar 2022 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉林梅河口市新增1例本土无症状感染者】2022年3月17日，吉林梅河口市在对隔离管控的域外确诊病例密切接触者核酸检测中，发现1例初筛阳性感染者。3月18日，经医疗专家组会诊，诊断为无症状感染者，已转至定点医院治疗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9302394.d.html</link>
-            <guid>2588345</guid>
-            <pubDate>Fri, 18 Mar 2022 16:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3月19日0时起福建泉州石狮全市域（除封控区外）划定为管控区。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9302151.d.html</link>
-            <guid>2588343</guid>
-            <pubDate>Fri, 18 Mar 2022 16:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：日本将公布420亿美元的印度投资计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwipih9301830.d.html</link>
-            <guid>2588342</guid>
-            <pubDate>Fri, 18 Mar 2022 16:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：日本首相岸田文雄在会见印度总理期间同意了大约3000亿日元的贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-19/detail-imcwiwss6854528.d.html</link>
-            <guid>2588341</guid>
-            <pubDate>Fri, 18 Mar 2022 16:15:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
