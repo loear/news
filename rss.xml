@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 20 Mar 2022 18:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 19:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【金融委重磅发声100小时：监管各方纷纷响应 机构频频传递信心】3月16日13时左右，新华社发布消息，国务院金融稳定发展委员会召开专题会议，研究当前经济形势和资本市场问题。截至3月20日17时左右的100个小时里，一系列利好政策强势“助攻”，金融机构也火速向投资者传递信心，全力维护资本市场平稳运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-21/detail-imcwiwss7164512.d.html</link>
+            <guid>2591062</guid>
+            <pubDate>Sun, 20 Mar 2022 19:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发挥市场内生稳定机制作用 关键在提升上市公司质量】专家认为，发挥资本市场内生稳定机制作用，有助于平滑股市非理性剧烈波动。其关键在于提高上市公司质量，优化市场生态，积极引导不同类型的中长期机构投资者进入资本市场，让各类投资者“百花齐放”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-21/detail-imcwiwss7163361.d.html</link>
+            <guid>2591061</guid>
+            <pubDate>Sun, 20 Mar 2022 18:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：03月21日02时10分在新西兰克马德克群岛（南纬28.97度，西经176.84度）发生5.8级地震，震源深度10千米。]]></title>
+            <guid>2591059</guid>
+            <pubDate>Sun, 20 Mar 2022 18:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈萨克斯坦一热电厂烟囱因大风倒塌】当地时间3月20日，哈萨克斯坦彼得罗巴甫洛夫斯克市第2热电厂的一座烟囱因当地风力过大而发生倒塌。当地紧急情况部门和消防部门均已派人员前往现场。截至目前没有人员伤亡的报告，但救援人员正在寻找一名工人的下落。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-21/detail-imcwiwss7161963.d.html</link>
+            <guid>2591058</guid>
+            <pubDate>Sun, 20 Mar 2022 18:29:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：03月21日02时10分在新西兰克马德克群岛地区附近（南纬28.73度，西经177.32度）发生6.1级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-21/detail-imcwiwss7161624.d.html</link>
@@ -318,23 +341,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-20/detail-imcwiwss7135540.d.html</link>
             <guid>2590858</guid>
             <pubDate>Sun, 20 Mar 2022 12:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特能源部谴责也门胡塞武装袭击沙特能源设施】沙特阿拉伯能源部当地时间20日下午发表书面声明，谴责也门胡塞武装袭击沙特境内的能源设施。声明中显示，当地时间3月19日23时30分左右，沙特南部省份吉赞的一处石油产品配送站遭遇无人机袭击。20日凌晨5时30分左右，位于沙特西部城市延布的天然气厂和炼油厂遭遇无人机袭击，其中炼油厂生产水平因袭击短时间内出现下降，但相关产品短缺已通过库存来弥补。上述袭击事件没有造成人员伤亡。（央视新闻）]]></title>
-            <guid>2590856</guid>
-            <pubDate>Sun, 20 Mar 2022 12:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔埃米尔会见韩国国务总理 重点讨论能源合作】卡塔尔埃米尔（国家元首）塔米姆在该国首都多哈会见韩国国务总理金富谦，双方就两国关系、在能源等领域的合作以及共同关心的地区和国际问题交换了意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-20/detail-imcwiwss7134798.d.html</link>
-            <guid>2590854</guid>
-            <pubDate>Sun, 20 Mar 2022 12:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：联合国官员欢迎也门冲突各方在利雅得举行磋商的倡议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-20/detail-imcwipih9581193.d.html</link>
-            <guid>2590852</guid>
-            <pubDate>Sun, 20 Mar 2022 12:13:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
