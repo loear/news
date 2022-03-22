@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[STOXX：那些在俄罗斯莫斯科证交所MOEX/MICEX交易的股票不再符合于INAV交易的资格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipii0000797.d.html</link>
+            <guid>2594676</guid>
+            <pubDate>Tue, 22 Mar 2022 21:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[网红券商Robinhood推出现金卡（Robinhood Cash Card）。]]></title>
+            <guid>2594675</guid>
+            <pubDate>Tue, 22 Mar 2022 21:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韩国2月生产者物价指数(PPI)较上年同期增长8.4%，前月为8.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7554225.d.html</link>
+            <guid>2594667</guid>
+            <pubDate>Tue, 22 Mar 2022 21:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收涨0.30%，连续第六个交易日上涨，报22074.35点，创收盘历史新高，并站稳2.2万点。巴西圣保罗证交所指数收涨0.96%，报11.7万点，逼近2021年9月16日收盘位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7553909.d.html</link>
+            <guid>2594665</guid>
+            <pubDate>Tue, 22 Mar 2022 20:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：俄罗斯军舰参与了在马里乌波尔的轰炸行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9999633.d.html</link>
+            <guid>2594661</guid>
+            <pubDate>Tue, 22 Mar 2022 20:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国台湾花莲县附近发生5.5级左右地震】中国地震台网自动测定：03月23日04时30分在台湾花莲县附近（北纬23.56度，东经121.25度）发生5.5级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7553078.d.html</link>
+            <guid>2594659</guid>
+            <pubDate>Tue, 22 Mar 2022 20:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国知名投资人卡尔·伊坎（Carl Icahn）：通胀飙升，对美国经济构成严重威胁，相比之下，乌克兰危机只会加重我对美国经济前景所面临的不确定性的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9999220.d.html</link>
+            <guid>2594657</guid>
+            <pubDate>Tue, 22 Mar 2022 20:30:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【15家银行理财子公司年内调研上市公司374次 招银理财最积极】今年以来，银行理财子公司调研上市公司频率明显加快。根据Wind资讯数据不完全梳理，今年以来，截至3月22日，15家银行理财子公司调研上市公司的次数达374次，而去年上半年的次数为350余次。从参与调研的银行理财子公司而言，今年以来招银理财、兴银理财等理财子公司调研积极性较高。其中，招银理财调研次数已累计达到100次，共调研了86家上市公司；其次是兴银理财，调研次数达到93次。此外，汇华理财、杭银理财、宁银理财、中邮理财、光大理财、华夏理财等调研次数均达到10次以上。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9998698.d.html</link>
@@ -44,6 +85,12 @@
             <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9997779.d.html</link>
             <guid>2594644</guid>
             <pubDate>Tue, 22 Mar 2022 19:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯与北约秘书长斯托尔滕贝格就北约东部屏障和北约峰会进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7551463.d.html</link>
+            <guid>2594643</guid>
+            <pubDate>Tue, 22 Mar 2022 19:55:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[市场消息：美国参议员将于3月30日接受有关乌克兰的机密简报。]]></title>
@@ -196,78 +243,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7546043.d.html</link>
             <guid>2594579</guid>
             <pubDate>Tue, 22 Mar 2022 18:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：将在未来几天就制裁问题发布更多信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9992337.d.html</link>
-            <guid>2594575</guid>
-            <pubDate>Tue, 22 Mar 2022 18:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：拜登将与盟国合作，对北约部队态势进行长期调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7545943.d.html</link>
-            <guid>2594574</guid>
-            <pubDate>Tue, 22 Mar 2022 18:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：拜登将与合作伙伴一道，对俄罗斯实施更多制裁，加强现有制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9992309.d.html</link>
-            <guid>2594573</guid>
-            <pubDate>Tue, 22 Mar 2022 18:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：拜登将宣布美国新一轮针对乌克兰难民的援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7545545.d.html</link>
-            <guid>2594572</guid>
-            <pubDate>Tue, 22 Mar 2022 18:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登与波兰总统杜达举行双边会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7545532.d.html</link>
-            <guid>2594571</guid>
-            <pubDate>Tue, 22 Mar 2022 18:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台湾台东县成功山区停电 恢复时间尚待确认】在23日凌晨1时41分台湾台东县海域发生6.6级地震后，台东县成功山区随即传出停电消息，目前一片漆黑。至于何时复电，仍待电力部门进一步确认。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7545363.d.html</link>
-            <guid>2594570</guid>
-            <pubDate>Tue, 22 Mar 2022 18:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国台湾花莲县发生5.7级地震 震源深度20千米】中国地震台网正式测定：03月23日01时43分在台湾花莲县（北纬23.50度，东经121.40度）发生5.7级地震，震源深度20千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7544922.d.html</link>
-            <guid>2594569</guid>
-            <pubDate>Tue, 22 Mar 2022 18:11:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：我们相信俄罗斯的伤亡人数达数千人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7544853.d.html</link>
-            <guid>2594566</guid>
-            <pubDate>Tue, 22 Mar 2022 18:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯成功发射“子午线-M”通信卫星】俄国防部当地时间22日15时48分在普列谢茨克航天发射场成功发射了一枚载有“子午线-M”通信卫星的“联盟2.1a”火箭。15时57分，星箭分离，携带“子午线-M”通信卫星的“弗雷加特”上面级顺利将卫星送入了预定轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7544679.d.html</link>
-            <guid>2594564</guid>
-            <pubDate>Tue, 22 Mar 2022 18:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：星期一和拜登举行了两次在社交场合保持距离的会议，不被认为是密切接触者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7543385.d.html</link>
-            <guid>2594558</guid>
-            <pubDate>Tue, 22 Mar 2022 17:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：俄乌冲突增加欧洲结构性融资和担保债券的回报风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwiwss7543096.d.html</link>
-            <guid>2594556</guid>
-            <pubDate>Tue, 22 Mar 2022 17:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：西方国家限制俄罗斯获取天气数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-23/detail-imcwipih9989361.d.html</link>
-            <guid>2594554</guid>
-            <pubDate>Tue, 22 Mar 2022 17:34:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
