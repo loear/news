@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 27 Mar 2022 16:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【法国大型连锁超市欧尚集团表示不会退出俄罗斯市场】法国大型连锁超市欧尚集团（Auchan）总裁克洛德（Yves Claude）当地时间3月27日表示，停止在俄罗斯的业务是不人道的，公司不会退出俄罗斯市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-28/detail-imcwiwss8468122.d.html</link>
+            <guid>2601764</guid>
+            <pubDate>Sun, 27 Mar 2022 17:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽部分高速公路出口封闭或实施管制】根据安徽省高速公路管理部门发布的信息，按地方政府要求，安徽省部分高速公路出口封闭或实施管制。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-28/detail-imcwiwss8467433.d.html</link>
+            <guid>2601763</guid>
+            <pubDate>Sun, 27 Mar 2022 17:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄国防部：阿塞拜疆撤回进入纳卡地区的部队】俄罗斯国防部当地时间3月27日发布消息说，经过谈判，阿塞拜疆方面撤回了进入纳卡地区夫鲁赫居民点的部队。26日，俄国防部表示，阿塞拜疆军队进入了纳卡地区俄方维和部队负责的区域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-28/detail-imcwipii0909335.d.html</link>
+            <guid>2601761</guid>
+            <pubDate>Sun, 27 Mar 2022 16:35:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【江西银行原董事长落马】3月25日，据江西省纪委监委消息，江西银行股份有限公司原党委书记、董事长陈晓明涉嫌严重违纪违法，目前正接受江西省纪委省监委纪律审查和监察调查。随后，江西银行官网公布了江西银行党委坚决拥护对陈晓明进行纪律审查和监察调查的决定，表示全力配合省纪委省监委对陈晓明涉嫌严重违纪违法问题的纪律审查和监察调查，按照要求积极做好相关工作。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-28/detail-imcwipii0908447.d.html</link>
@@ -337,24 +355,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-27/detail-imcwiwss8421156.d.html</link>
             <guid>2601663</guid>
             <pubDate>Sun, 27 Mar 2022 09:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其投资办公室负责人表示，土耳其没有驱逐俄罗斯公司或资本在土耳其进行投资，尽管一些（俄罗斯）公司正在搬迁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-27/detail-imcwipii0864076.d.html</link>
-            <guid>2601662</guid>
-            <pubDate>Sun, 27 Mar 2022 08:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒瑞医药公告，公司药品钆布醇注射液获得药品注册证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-27/detail-imcwiwss8420377.d.html</link>
-            <guid>2601661</guid>
-            <pubDate>Sun, 27 Mar 2022 08:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【众源新材：2021年净利同比增长119.4% 拟10派2元】众源新材披露2021年年度报告，报告期内，公司实现营业收入67.80亿元，同比增长76.74%；归母净利润1.38亿元，同比增长119.40%；基本每股收益0.56元，拟每10股派发现金红利2元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-27/detail-imcwiwss8419999.d.html</link>
-            <guid>2601659</guid>
-            <pubDate>Sun, 27 Mar 2022 08:52:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
