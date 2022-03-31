@@ -4,11 +4,77 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 31 Mar 2022 18:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 19:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HSBC将华泰证券A股评级上调至买进，目标价18元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275043.d.html</link>
+            <guid>2608661</guid>
+            <pubDate>Thu, 31 Mar 2022 19:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：微软(MSFT.O)收购流程挖掘供应商Minit以发展其自动化产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9274989.d.html</link>
+            <guid>2608660</guid>
+            <pubDate>Thu, 31 Mar 2022 19:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Robinhood(HOOD.O)拉升，跌幅收窄至3.8%，Robinhood将在应用中支持退休投资账户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9274647.d.html</link>
+            <guid>2608659</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：一些俄罗斯军队可能会前往白俄罗斯，可能会返回。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718083.d.html</link>
+            <guid>2608655</guid>
+            <pubDate>Thu, 31 Mar 2022 18:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：一些俄罗斯军队离开了切尔诺贝利地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718060.d.html</link>
+            <guid>2608654</guid>
+            <pubDate>Thu, 31 Mar 2022 18:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北约：俄军正在乌克兰进行重新部署和集结】北约秘书长斯托尔滕贝格3月31日说，在乌克兰的俄罗斯军队正在重新部署和集结，准备在顿巴斯地区发动新的攻势。斯托尔滕贝格在当天举行的2021年度报告新闻发布会上说，俄罗斯最近宣布将减少在基辅周边和乌克兰北部的军事活动，根据北约的情报，俄军不是在撤退，而是在重新部署。俄军正试图重新集结并获得补给，以加强其在顿巴斯地区的攻势。与此同时，俄军仍保持着对基辅等城市的压力，这意味着俄军可能发动更多进攻。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718047.d.html</link>
+            <guid>2608653</guid>
+            <pubDate>Thu, 31 Mar 2022 18:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴克莱：将霍顿房屋(DHI.N)目标价从125美元下调至104美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718041.d.html</link>
+            <guid>2608652</guid>
+            <pubDate>Thu, 31 Mar 2022 18:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞：将广汽集团(02238.HK)评级下调至持有，目标价6.95港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1717511.d.html</link>
+            <guid>2608650</guid>
+            <pubDate>Thu, 31 Mar 2022 18:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄国防部：将重新开放从马里乌波尔经别尔江斯克到扎波罗热的人道主义走廊】当地时间3月31日晚，俄罗斯国防部发布公告称，应法国总统和德国总理亲自向俄罗斯总统普京提出的请求，俄罗斯武装力量从莫斯科时间4月1日上午10时开始，重新开放从马里乌波尔经别尔江斯克到扎波罗热的人道主义走廊。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9272949.d.html</link>
+            <guid>2608649</guid>
+            <pubDate>Thu, 31 Mar 2022 18:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱：将AMD(AMD.O)评级从超配降至持股观望 目标价由148美元下调至115美元】巴克莱分析师Blayne Curtis将AMD(AMD.O)评级从超配下调至持股观望，目标价由148美元下调至115美元。Curtis在一份研究报告中告诉投资者，随着2023年周期性风险的到来，该公司的增长故事 “需要暂停”。分析师说，AMD今年在客户端和服务器市场上仍有能力获得市场份额，但其几个终端市场的周期性风险将在2023年到来，包括PC、游戏和广泛市场。他认为这三个领域的运营水平都在上升，这将延缓AMD增长轨迹的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9272922.d.html</link>
+            <guid>2608648</guid>
+            <pubDate>Thu, 31 Mar 2022 18:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：佳士得拍卖行禁止向位于俄罗斯和白俄罗斯的客户出售奢侈品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1716590.d.html</link>
+            <guid>2608647</guid>
+            <pubDate>Thu, 31 Mar 2022 18:32:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国际原子能机构：负责人格罗西将于周五返回维也纳总部，并在下午晚些时候举行新闻发布会。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1716379.d.html</link>
@@ -307,66 +373,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1709757.d.html</link>
             <guid>2608562</guid>
             <pubDate>Thu, 31 Mar 2022 16:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：格罗西将于周五上午抵达加里宁格勒，与俄罗斯高级官员举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1709653.d.html</link>
-            <guid>2608561</guid>
-            <pubDate>Thu, 31 Mar 2022 16:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：俄罗斯空天军行动战术部队在白天击中28个乌克兰军事目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1709589.d.html</link>
-            <guid>2608559</guid>
-            <pubDate>Thu, 31 Mar 2022 16:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车据称为旗下保时捷品牌的IPO遴选簿记行，高盛、美国银行、以及摩根大通赫然在列；届时，保时捷有望通过公开发行股票获得高达900亿欧元（折合1000亿美元）估值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9265303.d.html</link>
-            <guid>2608558</guid>
-            <pubDate>Thu, 31 Mar 2022 16:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[五角大楼高层代表表示，美国计划在4月中旬之前结束对乌克兰提供价值8亿美元防御援助的项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1709269.d.html</link>
-            <guid>2608553</guid>
-            <pubDate>Thu, 31 Mar 2022 16:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外长恰武什奥卢：埃尔多安计划与普京通电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1708950.d.html</link>
-            <guid>2608552</guid>
-            <pubDate>Thu, 31 Mar 2022 16:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖北：所有来（返）鄂人员需提前申领湖北健康码 提供48小时内核酸检测阴性证明并在抵鄂后24小时内完成“落地检”】湖北省强化省外来（返）鄂人员核酸“落地检”措施，所有来（返）鄂人员需提前申领湖北健康码，提供48小时内核酸检测阴性证明并在抵鄂后24小时内完成“落地检”，行程码带*号人员需在核酸检测“落地检”的基础上，第3天再做一次核酸检测。进入湖北交通道口和重点场所必须查验湖北健康码，遇有健康码弹窗的，应按弹窗提示如实填报个人行程等信息，并主动向社区报备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9264613.d.html</link>
-            <guid>2608551</guid>
-            <pubDate>Thu, 31 Mar 2022 16:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯国家原子能公司：俄罗斯放弃了对切尔诺贝利的控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9264569.d.html</link>
-            <guid>2608550</guid>
-            <pubDate>Thu, 31 Mar 2022 16:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国广核集团旗下东南亚最大规模燃气发电项目全面投产】中国广核集团3月31日发布消息称，该集团旗下马来西亚EMPP电厂当天全面投产，成为东南亚规模最大的联合循环燃气发电厂。该电厂采用全球最先进高效的燃机技术，配备联合循环发电机组，发电效率超过60%，可满足马来西亚半岛约12%的总电力需求，为该国400万户家庭提供清洁、稳定电力。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1708372.d.html</link>
-            <guid>2608548</guid>
-            <pubDate>Thu, 31 Mar 2022 16:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛公司给予法拉电子中性的初始评级，目标价203元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1708355.d.html</link>
-            <guid>2608547</guid>
-            <pubDate>Thu, 31 Mar 2022 16:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西抵达俄罗斯，与俄罗斯官员进行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1708328.d.html</link>
-            <guid>2608546</guid>
-            <pubDate>Thu, 31 Mar 2022 16:34:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
