@@ -6,6 +6,61 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2616108,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2401269.d.html",
+            "title": "明晟公司（MSCI）：将把PetroPavlovsk剔除出MSCI英国小盘股指数。",
+            "date_modified": "2022-04-04T21:08:40.000Z"
+        },
+        {
+            "id": 2616104,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2401222.d.html",
+            "title": "加拿大标普/TSX综合指数收涨0.60%，报22085.60点，逼近3月29日所创收盘历史最高位22087.22点。巴西圣保罗证交所指数收跌0.24%，报12.1万点。",
+            "date_modified": "2022-04-04T21:07:43.000Z"
+        },
+        {
+            "id": 2616103,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2401182.d.html",
+            "title": "  韩国截至3月底外汇储备为4,578.1亿美元，前月底为4,617.7亿美元。",
+            "date_modified": "2022-04-04T21:07:11.000Z"
+        },
+        {
+            "id": 2616099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9954413.d.html",
+            "title": "4月4日0-18时，天津新增2例阳性感染者。（天津发布）",
+            "date_modified": "2022-04-04T20:45:21.000Z"
+        },
+        {
+            "id": 2616093,
+            "content_html": "",
+            "title": "【券商系公募成绩单曝光：10家净利破10亿，9家营收超50亿！中小公募\"杀出\"两大黑马】随着A股进入年报密集披露期，多家上市券商的2021年成绩单出炉，券商系公募的经营数据也随之曝光。整体来看，券商系公募的经营数据普遍十分亮眼，不仅有易方达基金、广发基金、汇添富基金、华夏基金、富国基金等头部公募的遥遥领先，也有华泰柏瑞基金、国海富兰克林基金、创金合信基金等中小型基金公司的突飞猛进，10家券商系公募净利润突破10亿元大关，6家净利同比增速超50%。而由于券商系公募发展迅猛，深度布局公募业务的券商也将从多个维度受益。对于母公司券商的业绩来说，公募基金贡献颇多，俨然成为券商提升业绩的“杠把子”，头部券商与头部公募已深度绑定，互为战略布局的重要组成部分。（券商中国）",
+            "date_modified": "2022-04-04T20:43:22.000Z"
+        },
+        {
+            "id": 2616092,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9953648.d.html",
+            "title": "美国大类资产类ETF周一多数收涨，美国布伦特原油基金（BNO）涨约3.1%，大豆基金涨约2.2%，纳指100 ETF涨超2.0%，新兴市场ETF涨超1.0%，标普500 ETF涨超0.8%，美国高收益债券ETF和农产品基金涨约0.7%，日元做多则跌约0.2%，美国房地产ETF跌约0.5%，美国国债20+年ETF和欧元做多跌约0.7%，恐慌指数做多跌2.4%。",
+            "date_modified": "2022-04-04T20:33:30.000Z"
+        },
+        {
+            "id": 2616091,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9953607.d.html",
+            "title": "美股行业ETF周一收盘涨跌各异，网络股指数ETF涨超3.4%，可选消费ETF涨超2.2%，科技行业ETF涨1.9%，全球科技股ETF涨约1.8%，生物科技指数ETF涨约1.3%，金融业ETF则跌超0.4%，银行业ETF和区域银行ETF至少跌0.5%，公用事业ETF和医疗业ETF跌约0.8%。",
+            "date_modified": "2022-04-04T20:32:43.000Z"
+        },
+        {
+            "id": 2616089,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9953205.d.html",
+            "title": "方舟基金创始人Cathie Wood：马斯克的持股足以让他推动推特更换管理层。",
+            "date_modified": "2022-04-04T20:26:29.000Z"
+        },
+        {
             "id": 2616087,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2398208.d.html",
@@ -303,89 +358,6 @@
             "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944278.d.html",
             "title": "欧元集团主席多诺霍：许多经济体仍在寻找积极的增长。",
             "date_modified": "2022-04-04T18:06:55.000Z"
-        },
-        {
-            "id": 2616011,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944269.d.html",
-            "title": "欧元集团主席多诺霍：受不确定性影响，2022年经济增长将放缓。",
-            "date_modified": "2022-04-04T18:06:47.000Z"
-        },
-        {
-            "id": 2616010,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2389859.d.html",
-            "title": "欧元集团主席多诺霍：欧盟27国将在周二讨论俄罗斯的进一步行动。",
-            "date_modified": "2022-04-04T18:06:36.000Z"
-        },
-        {
-            "id": 2616009,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944246.d.html",
-            "title": "欧元集团主席多诺霍：欧洲国家准备加强对俄罗斯的制裁。",
-            "date_modified": "2022-04-04T18:06:21.000Z"
-        },
-        {
-            "id": 2616007,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9943527.d.html",
-            "title": "  【法国准备驱逐30多名俄罗斯外交身份人士】法国外交部当地时间4月4日发表公告称，法国已经决定驱逐多名俄罗斯外交身份人士，并认为这些人对法国安全不利。法国媒体表示，这次的驱逐将涉及30多人。",
-            "date_modified": "2022-04-04T17:55:35.000Z"
-        },
-        {
-            "id": 2616006,
-            "content_html": "",
-            "title": "高盛：一年前，两年期美国国债收益率低至0.15%，目前涨至近2.4%；一年前，联邦公开市场委员会预计，到2023年底，联邦基金利率将为0%，今天的点阵图显示，他们预计到2023年底将达到2.75%。",
-            "date_modified": "2022-04-04T17:53:12.000Z"
-        },
-        {
-            "id": 2616003,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9943069.d.html",
-            "title": "美国民主党参议员Leahy：对全球援助资金表示担忧。",
-            "date_modified": "2022-04-04T17:48:06.000Z"
-        },
-        {
-            "id": 2616002,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2388664.d.html",
-            "title": "俄罗斯外交部：莫斯科将就法国驱逐俄外交官的决定作出回应。",
-            "date_modified": "2022-04-04T17:47:54.000Z"
-        },
-        {
-            "id": 2616000,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9943009.d.html",
-            "title": "俄罗斯外交部召见捷克大使，就俄罗斯外交官被驱逐出布拉格一事提出抗议。",
-            "date_modified": "2022-04-04T17:47:16.000Z"
-        },
-        {
-            "id": 2615999,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2388576.d.html",
-            "title": "  加拿大政府支持阿尔伯塔省的新兴清洁技术。",
-            "date_modified": "2022-04-04T17:46:33.000Z"
-        },
-        {
-            "id": 2615994,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2387276.d.html",
-            "title": "  【俄外长：谈判成功的机会永远存在 乌方应以本国利益为导向】俄罗斯外交部长拉夫罗夫当地时间4月4日回答记者关于俄乌谈判的问题时表示，谈判成功的机会永远存在，俄方的出发点就是让这些机会得以实现。拉夫罗夫介绍说，俄罗斯和乌克兰之间的谈判进行得相当密集，俄方希望乌克兰方面能以自己国家和人民的利益为导向，而不是听从外界顾问的意见。一旦出现成果，就很可能召开两国领导人的峰会来巩固这一成果。",
-            "date_modified": "2022-04-04T17:27:34.000Z"
-        },
-        {
-            "id": 2615991,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9941589.d.html",
-            "title": "乌克兰马里乌波尔市议会：俄罗斯已经任命了自己的马里乌波尔市长。",
-            "date_modified": "2022-04-04T17:25:38.000Z"
-        },
-        {
-            "id": 2615990,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9941512.d.html",
-            "title": "加拿大方面表示，将对俄罗斯和白俄罗斯实施额外制裁。",
-            "date_modified": "2022-04-04T17:24:38.000Z"
         }
     ]
 }
