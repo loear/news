@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 04 Apr 2022 21:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 22:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[花旗银行据悉将暂停发行新的特殊目的收购公司（SPAC），因美国证交会发出了打击信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2406302.d.html</link>
+            <guid>2616124</guid>
+            <pubDate>Mon, 04 Apr 2022 22:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：周二将在联合国安理会发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9958880.d.html</link>
+            <guid>2616120</guid>
+            <pubDate>Mon, 04 Apr 2022 22:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯将向安理会提交布查事件相关证据】俄罗斯常驻联合国代表涅边贾当地时间4月4日在纽约联合国总部举行的记者会上表示，俄方将于4月5日向安理会提交证据，证明布查事件是由乌克兰方面策划的宣传活动。他还称，联合国安理会轮值主席英国拒绝俄罗斯要求召开紧急会议的请求，这一举动破坏了安理会议事规则。乌克兰媒体4月3日公布了一系列布查市平民死亡的视频和图片，乌方指责俄军对这些平民犯下了暴行。布查事件发酵后，俄方请求联合国安理会就事件举行会议，但遭轮值主席英国拒绝。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9957449.d.html</link>
+            <guid>2616116</guid>
+            <pubDate>Mon, 04 Apr 2022 21:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[明晟公司（MSCI）：将把PetroPavlovsk剔除出MSCI英国小盘股指数。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2401269.d.html</link>
@@ -282,35 +300,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9945062.d.html</link>
             <guid>2616022</guid>
             <pubDate>Mon, 04 Apr 2022 18:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：将加强与其他伙伴的供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9945047.d.html</link>
-            <guid>2616021</guid>
-            <pubDate>Mon, 04 Apr 2022 18:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾病控制与预防中心将加拿大的旅行风险建议从“4级：非常高”下调至“3级：高”。]]></title>
-            <guid>2616016</guid>
-            <pubDate>Mon, 04 Apr 2022 18:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元集团主席多诺霍：计划在5月初再次举行欧元集团会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2390309.d.html</link>
-            <guid>2616015</guid>
-            <pubDate>Mon, 04 Apr 2022 18:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰副总理：周一有3376人通过人道主义通道撤离。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944289.d.html</link>
-            <guid>2616013</guid>
-            <pubDate>Mon, 04 Apr 2022 18:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元集团主席多诺霍：许多经济体仍在寻找积极的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944278.d.html</link>
-            <guid>2616012</guid>
-            <pubDate>Mon, 04 Apr 2022 18:06:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

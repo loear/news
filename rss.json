@@ -6,6 +6,27 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2616124,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2406302.d.html",
+            "title": "花旗银行据悉将暂停发行新的特殊目的收购公司（SPAC），因美国证交会发出了打击信号。",
+            "date_modified": "2022-04-04T22:21:26.000Z"
+        },
+        {
+            "id": 2616120,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9958880.d.html",
+            "title": "乌克兰总统泽连斯基：周二将在联合国安理会发表讲话。",
+            "date_modified": "2022-04-04T22:00:35.000Z"
+        },
+        {
+            "id": 2616116,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9957449.d.html",
+            "title": "  【俄罗斯将向安理会提交布查事件相关证据】俄罗斯常驻联合国代表涅边贾当地时间4月4日在纽约联合国总部举行的记者会上表示，俄方将于4月5日向安理会提交证据，证明布查事件是由乌克兰方面策划的宣传活动。他还称，联合国安理会轮值主席英国拒绝俄罗斯要求召开紧急会议的请求，这一举动破坏了安理会议事规则。乌克兰媒体4月3日公布了一系列布查市平民死亡的视频和图片，乌方指责俄军对这些平民犯下了暴行。布查事件发酵后，俄方请求联合国安理会就事件举行会议，但遭轮值主席英国拒绝。",
+            "date_modified": "2022-04-04T21:36:00.000Z"
+        },
+        {
             "id": 2616108,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2401269.d.html",
@@ -324,40 +345,6 @@
             "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9945062.d.html",
             "title": "巴西2021年税收负担占GDP比重达到33.9%，之前一年为31.8%。",
             "date_modified": "2022-04-04T18:20:29.000Z"
-        },
-        {
-            "id": 2616021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9945047.d.html",
-            "title": "欧盟经济委员真蒂洛尼：将加强与其他伙伴的供应链。",
-            "date_modified": "2022-04-04T18:20:14.000Z"
-        },
-        {
-            "id": 2616016,
-            "content_html": "",
-            "title": "美国疾病控制与预防中心将加拿大的旅行风险建议从“4级：非常高”下调至“3级：高”。",
-            "date_modified": "2022-04-04T18:14:25.000Z"
-        },
-        {
-            "id": 2616015,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwipii2390309.d.html",
-            "title": "欧元集团主席多诺霍：计划在5月初再次举行欧元集团会议。",
-            "date_modified": "2022-04-04T18:14:11.000Z"
-        },
-        {
-            "id": 2616013,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944289.d.html",
-            "title": "乌克兰副总理：周一有3376人通过人道主义通道撤离。",
-            "date_modified": "2022-04-04T18:07:04.000Z"
-        },
-        {
-            "id": 2616012,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-05/detail-imcwiwss9944278.d.html",
-            "title": "欧元集团主席多诺霍：许多经济体仍在寻找积极的增长。",
-            "date_modified": "2022-04-04T18:06:55.000Z"
         }
     ]
 }
