@@ -4,11 +4,255 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[乌克兰国防部副部长：东部地区仍在激烈战斗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4040813.d.html</link>
+            <guid>2628907</guid>
+            <pubDate>Wed, 13 Apr 2022 06:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣苏纳克：我知道这对许多家庭来说是一个令人担忧的时刻，这就是我们采取行动的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1594960.d.html</link>
+            <guid>2628906</guid>
+            <pubDate>Wed, 13 Apr 2022 06:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣苏纳克：看到供应链和能源市场的全球压力导致成本上升，而俄乌局势可能会进一步加剧这种压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4040645.d.html</link>
+            <guid>2628904</guid>
+            <pubDate>Wed, 13 Apr 2022 06:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部副部长：尽管俄罗斯向乌克兰发射了大量导弹，但俄罗斯仍然拥有庞大的军火库。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4040404.d.html</link>
+            <guid>2628901</guid>
+            <pubDate>Wed, 13 Apr 2022 06:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部副部长：在乌克兰使用化学武器的风险很高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4040227.d.html</link>
+            <guid>2628900</guid>
+            <pubDate>Wed, 13 Apr 2022 06:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部：印度3月石油和成品油进口同比增长82.97%，至187.9亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1594357.d.html</link>
+            <guid>2628899</guid>
+            <pubDate>Wed, 13 Apr 2022 06:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【隆基氢能3台套1000Nm³/h电解水制氢设备启运发货】隆基氢能3台套1000Nm³/h的电解水制氢设备顺利启运发货。该装备采用全球领先的碱性电解水制氢技术，即将发至西部某项目现场。据了解，氢能产品将覆盖合成氨、甲醇、石油炼化、钢铁冶炼、多晶硅等众多应用场景，提供绿色低碳方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4040093.d.html</link>
+            <guid>2628898</guid>
+            <pubDate>Wed, 13 Apr 2022 06:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【供应链人士：车用/工控等中高端MCU产品平均交货期30周以上 最长达52周】据供应链业者指出，大宗车用/工控等中高端微控制器(MCU)产品的国际IDM大厂，平均交货“至少”有30周以上水平，甚至交期长达52周(一年)以上的业者也不足为奇，又以先前率先喊涨的意法半导体(STM)、英飞凌(Infneon)等8、16、32位元MCU几乎是全线喊缺。 (DIGITIMES)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1594111.d.html</link>
+            <guid>2628895</guid>
+            <pubDate>Wed, 13 Apr 2022 06:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯外交部表示，基辅无法确保北约国家提供武器的安全保管，这些武器可能落入黑市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4039556.d.html</link>
+            <guid>2628894</guid>
+            <pubDate>Wed, 13 Apr 2022 06:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部：印度3月份黄金进口额为10.4亿美元，同比下降87.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1593653.d.html</link>
+            <guid>2628893</guid>
+            <pubDate>Wed, 13 Apr 2022 06:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯外交部表示，最近一个半月来，美国已向基辅提供16.5亿美元武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1593416.d.html</link>
+            <guid>2628891</guid>
+            <pubDate>Wed, 13 Apr 2022 06:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报告：2021年全球可穿戴腕带设备出货量达1.93亿台，苹果小米华为位居前三】Canalys最新数据显示，2021年全球可穿戴腕带设备出货量达到1.93亿台，同比增长4.3%。其中，苹果以11.8%的增长率和超3900万台出货量稳坐全球第一。小米因在更多细分品类的部署，使得出货量稍逊往年同比减少23%，但仍达2900万台，位居第二。因海外政策影响以及荣耀分家，华为市场份额下跌了近7%，出货量同比下降40%，但仍以1900万台的出货量位列第三。而Fitbit和三星以同比增长12.7%和52.7%，分别排名第四和第五。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1593324.d.html</link>
+            <guid>2628889</guid>
+            <pubDate>Wed, 13 Apr 2022 06:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家外汇局官员：研究出台熊猫债相关外汇管理制度】国家外汇管理局资本项目管理司副司长查晓阳表示，继续推进境内金融市场双向开放。研究出台熊猫债相关外汇管理制度；完善境外机构投资者投资中国债券市场资金管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1593189.d.html</link>
+            <guid>2628886</guid>
+            <pubDate>Wed, 13 Apr 2022 06:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳二季度计划入市住宅14520套，面积约145万平方米】4月12日，深圳市住房和建设局发布《关于我市2022年二季度商品住宅和商务公寓房源信息情况的公示》，截至2022年4月12日，深圳市2022年二季度计划入市的商品住宅及商务公寓项目36个，预计供应房源面积为174.95万平方米、19050套，其中：住宅145.89万平方米、14520套；商务公寓29.06万平方米、4530套。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1592973.d.html</link>
+            <guid>2628880</guid>
+            <pubDate>Wed, 13 Apr 2022 06:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津：到2025年，初步建成全国海水淡化产业创新中心和全国海水淡化产业先进制造研发基地】天津市发展改革委等部门印发《天津市促进海水淡化产业高质量发展实施方案》。《实施方案》明确了天津市海水淡化产业发展的主要目标：到2025年，初步建成全国海水淡化产业创新中心和全国海水淡化产业先进制造研发基地，产业集聚优势初显；海水淡化应用场景不断丰富，海水淡化水年供水量达1亿立方米左右，创建全国海水淡化示范城市。鼓励水电联产“以电补水”，2025年年底前，对执行两部制电价的海水淡化企业用电免收基本电费，支持符合条件的海水淡化企业参与电力市场交易。支持符合条件的海水淡化产业企业通过发行债券、上市挂牌等多种方式融资发展。（天津日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4038598.d.html</link>
+            <guid>2628879</guid>
+            <pubDate>Wed, 13 Apr 2022 06:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚总统卡里斯表示，他已经与拉脱维亚、立陶宛和波兰总统前往基辅，“以展示对乌克兰人民的支持”。（卫星新闻）]]></title>
+            <guid>2628877</guid>
+            <pubDate>Wed, 13 Apr 2022 06:15:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富士康于天津投资成立私募公司】企查查APP显示，4月12日，弘懿投资（天津）有限责任公司成立，注册资本1000万元人民币，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该公司由天津国富新联管理咨询合伙企业（有限合伙）、工业富联共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4037349.d.html</link>
+            <guid>2628874</guid>
+            <pubDate>Wed, 13 Apr 2022 06:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分锂电材料报价今日再度走低 电池级碳酸锂跌1000元/吨】据上海钢联发布数据显示，部分锂电材料报价今日再度走低，电解钴跌3500元/吨；电池级碳酸锂均价跌1000元/吨，报49.5万元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4036883.d.html</link>
+            <guid>2628869</guid>
+            <pubDate>Wed, 13 Apr 2022 06:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会将于5月初启用人身保险产品智能检核系统】银保监会今日向各人身险公司下发通知，将启用人身保险产品智能检核系统。这是保险监管部门推出的首个产品智能检核系统。据了解，该系统将于5月1日起试运行，5月1日-5月22日为试运行期，5月23日正式运行。自5月起，人身险公司将通过人身保险产品智能检核系统向银保监会备案新产品。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1590714.d.html</link>
+            <guid>2628867</guid>
+            <pubDate>Wed, 13 Apr 2022 06:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国3月CPI年率录得7%，续创1992年3月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4035835.d.html</link>
+            <guid>2628864</guid>
+            <pubDate>Wed, 13 Apr 2022 06:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国3月CPI月率录得1.1%，创2021年10月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1590076.d.html</link>
+            <guid>2628863</guid>
+            <pubDate>Wed, 13 Apr 2022 06:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国3月CPI同比 7%，预期 6.7%，前值 6.2%。英国3月CPI环比 1.1%，预期 0.8%，前值 0.8%。英国3月零售物价指数环比 1%，预期 0.9%，前值 0.8%。英国3月核心零售物价指数同比 9.1%，预期 9%，前值 8.3%。英国3月零售物价指数同比 9%，预期 8.8%，前值 8.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4035629.d.html</link>
+            <guid>2628861</guid>
+            <pubDate>Wed, 13 Apr 2022 06:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰马里乌波尔市长：超过10万人仍在马里乌波尔等待撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4035520.d.html</link>
+            <guid>2628860</guid>
+            <pubDate>Wed, 13 Apr 2022 05:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中欧班列跨黑海 里海班列陕西西安首发】首趟跨黑海、里海的中欧班列满载42厢运动器材、服装等货品，缓缓驶出陕西西安国际港。该线路途经哈萨克斯坦、阿塞拜疆、罗马尼亚、匈牙利、斯洛伐克、捷克，最终到达德国曼海姆，全程11300公里。该线路是中欧班列继经土耳其到欧洲的线路之后，推出的又一条经南线通道去往欧洲的新线路。班列跨里海和黑海，采用铁海铁多式联运，可辐射中东欧多国，将成为中国连接欧洲新的黄金贸易通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4035224.d.html</link>
+            <guid>2628858</guid>
+            <pubDate>Wed, 13 Apr 2022 05:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰副总理：俄罗斯占领军违反了停火协议，阻碍了公共汽车，使得疏散平民变得危险。 将努力尽快重新开放人道主义走廊。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1589376.d.html</link>
+            <guid>2628857</guid>
+            <pubDate>Wed, 13 Apr 2022 05:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢卡申科：白俄罗斯正在使用卢布支付能源费用】当地时间13日，白俄罗斯总统卢卡申科在与俄罗斯滨海边疆区州长科热缅科会见时表示，由于西方对俄罗斯和白俄罗斯的制裁，两国开始使用本币结算。卢卡申科说：“我们不排斥俄罗斯卢布，也不需要美元和欧元，我们现在正使用俄罗斯卢布来支付所购买的能源。”（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4034750.d.html</link>
+            <guid>2628856</guid>
+            <pubDate>Wed, 13 Apr 2022 05:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[房地产板块震荡回暖，空港股份、京能置业午后封板，新华联此前涨停，保利发展涨超6%，万科A涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4034130.d.html</link>
+            <guid>2628850</guid>
+            <pubDate>Wed, 13 Apr 2022 05:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本海上自卫队与美军核动力航母在日本海进行联合训练】日本内阁官房长官松野博一当地时间13日在记者会上表示，日本海上自卫队与美国海军舰艇在日本海进行了联合训练，参加联合训练的舰艇包括美国“亚伯拉罕·林肯”号核动力航空母舰。松野博一称，训练的目的是强化日本和美国之间的合作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4034066.d.html</link>
+            <guid>2628849</guid>
+            <pubDate>Wed, 13 Apr 2022 05:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽省出台“十四五”新材料产业发展规划】安徽省发展改革委日前印发《安徽省“十四五”新材料产业发展规划》，到2025年，力争全省新材料产值规模突破1万亿元，重点打造硅基新材料等5大千亿级产业集群，做优做强10条百亿产业链（群），努力跻身全国新材料产业发展第一方阵。]]></title>
+            <guid>2628847</guid>
+            <pubDate>Wed, 13 Apr 2022 05:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：法国目前的分裂局面需要组建新的政治联盟以获得多数席位，并在总统选举后组建政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1587872.d.html</link>
+            <guid>2628846</guid>
+            <pubDate>Wed, 13 Apr 2022 05:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙表示，与前保守派总统萨科齐没有就总统选举中的支持达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4033239.d.html</link>
+            <guid>2628845</guid>
+            <pubDate>Wed, 13 Apr 2022 05:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国移动A股午后持续走高，股价一度达70.89元/股，再创上市以来新高，最新市值为1.51万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1587513.d.html</link>
+            <guid>2628844</guid>
+            <pubDate>Wed, 13 Apr 2022 05:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山西应县排查出一名快递从业者核酸检测为阳性 】4月13日凌晨2点，山西朔州应县医疗集团、疾控中心排查出一名快递从业者核酸检测为阳性，该感染者为韵达快递驿站（公安局往西50米路北）负责人兼快递员。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4032502.d.html</link>
+            <guid>2628842</guid>
+            <pubDate>Wed, 13 Apr 2022 05:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海南省财政厅党组成员、副厅长杨雷：海南经济增长初步摆脱对房地产业的依赖】海南省委宣传部举行“奋进自贸港建功新时代”系列专题新闻发布会（第一场）。海南省财政厅党组成员、副厅长杨雷表示，海南经济增长已经初步摆脱了对房地产业的依赖，经济结构持续优化升级。据杨雷介绍，2021年，海南现代服务业、高新技术产业、旅游业和热带特色高效农业“3+1”主导产业增加值占比达到70%，上缴税收增长33.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1586483.d.html</link>
+            <guid>2628840</guid>
+            <pubDate>Wed, 13 Apr 2022 05:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据波兰总统办公室当地时间13日消息，波兰、立陶宛、拉脱维亚和爱沙尼亚的总统已经抵达乌克兰，正在前往基辅与乌克兰总统泽连斯基会面。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4031678.d.html</link>
+            <guid>2628837</guid>
+            <pubDate>Wed, 13 Apr 2022 05:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪指午后拉升翻红，快递物流、工业母机、煤炭、有色金属等板块涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1585772.d.html</link>
+            <guid>2628835</guid>
+            <pubDate>Wed, 13 Apr 2022 05:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家乡村振兴局：明确无“乡村振兴共同富裕战略办公室” 所谓“实施方案”为造假】近期，发现有以“乡村振兴共同富裕战略办公室”名义，印发“《共同富裕专项补助资金拨付实施方案》”，建立有关微信群或下载APP，分类型要求支付不同金额并领取红利的活动。为防止社会各界群众上当受骗，特公告如下。经与相关部门核实，明确无“乡村振兴共同富裕战略办公室”，所谓“实施方案”为造假，其经营方式具有明显骗局特征。请社会各界提高警惕，发现类似活动及时向有关部门举报或报警处置。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4030711.d.html</link>
+            <guid>2628829</guid>
+            <pubDate>Wed, 13 Apr 2022 05:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间13日，日本东京电力公司表示，预计福岛第一核电站核污染水排海的相关费用在2021至2024年度内将达到430亿日元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4030687.d.html</link>
+            <guid>2628828</guid>
+            <pubDate>Wed, 13 Apr 2022 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股有色金属板块持续拉升】 中国有色矿业涨超12%，紫金矿业涨近9%，招金矿业涨近8%，洛阳钼业、江西铜业股份、中国黄金国际涨超6%，中国宏桥、五矿资源、中国铝业涨近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1584941.d.html</link>
+            <guid>2628826</guid>
+            <pubDate>Wed, 13 Apr 2022 05:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  跨境电商概念股异动，生意宝、联络互动、浔兴股份午后拉升封板，星徽股份、焦点科技、天泽信息、南极电商等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1584634.d.html</link>
+            <guid>2628824</guid>
+            <pubDate>Wed, 13 Apr 2022 05:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股煤炭概念股持续拉升，兖煤澳大利亚涨超10%，伊泰煤炭涨近9%，兖矿能源、易大宗涨超7%，中煤能源涨近7%，中国神华涨近4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4030186.d.html</link>
+            <guid>2628823</guid>
+            <pubDate>Wed, 13 Apr 2022 05:24:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[港股铝板块拉升，中国铝业涨6.4%，中国宏桥涨5.57%，荣阳实业涨0.88%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1583869.d.html</link>
@@ -102,296 +346,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1581467.d.html</link>
             <guid>2628802</guid>
             <pubDate>Wed, 13 Apr 2022 05:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米汽车多个专利公布】天眼查App显示，4月12日，小米汽车科技有限公司申请的5个专利公布，包括“电驱动桥及其故障诊断方法和装置、车辆终端”“电动车辆及其控制电源电路”“自适应巡航启动时长调整方法、装置、设备及存储介质”等。其中，“电动车辆及其控制电源电路”能够确保在低压电池出现故障时，依然正常驱动低压侧负载和高压侧负载工作；“自适应巡航启动时长调整方法、装置、设备及存储介质”专利，可实现基于当前车辆的目标信息准确、合理的调整自适应巡航功能的启动时长，降低车辆的硬件成本。]]></title>
-            <guid>2628801</guid>
-            <pubDate>Wed, 13 Apr 2022 05:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[立陶宛总统13日在其推特上写道，他将在近期访问基辅。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4026830.d.html</link>
-            <guid>2628800</guid>
-            <pubDate>Wed, 13 Apr 2022 05:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米汽车多个专利公布】天眼查App显示，4月12日，小米汽车科技有限公司申请的5个专利公布，包括“电驱动桥及其故障诊断方法和装置、车辆终端”“电动车辆及其控制电源电路”“自适应巡航启动时长调整方法、装置、设备及存储介质”等。其中，“电动车辆及其控制电源电路”能够确保在低压电池出现故障时，依然正常驱动低压侧负载和高压侧负载工作；“自适应巡航启动时长调整方法、装置、设备及存储介质”专利，可实现基于当前车辆的目标信息准确、合理的调整自适应巡航功能的启动时长，降低车辆的硬件成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4026630.d.html</link>
-            <guid>2628798</guid>
-            <pubDate>Wed, 13 Apr 2022 04:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国KTLA电视台援引警方消息报道，加利福尼亚州维克多维尔市一家购物中心发生枪击事件，导致一名9岁女童受伤。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4026596.d.html</link>
-            <guid>2628797</guid>
-            <pubDate>Wed, 13 Apr 2022 04:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯能源与金融研究所所长马尔谢里·萨利霍夫表示，俄罗斯将石油及石油制品出口从欧洲市场转向亚太地区过程中不可避免地将会遇到一系列困难。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4025437.d.html</link>
-            <guid>2628795</guid>
-            <pubDate>Wed, 13 Apr 2022 04:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月煤及褐煤进口量为1642.3万吨，1-2月为3539万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1579048.d.html</link>
-            <guid>2628794</guid>
-            <pubDate>Wed, 13 Apr 2022 04:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月铜矿砂及其精矿进口量为218.4万吨，1-2月为418万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024602.d.html</link>
-            <guid>2628793</guid>
-            <pubDate>Wed, 13 Apr 2022 04:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月铁矿砂及其精矿进口量为8728.3万吨，1-2月为1.8亿吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024559.d.html</link>
-            <guid>2628792</guid>
-            <pubDate>Wed, 13 Apr 2022 04:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月稀土出口4845.2吨，1—2月为7835吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1578969.d.html</link>
-            <guid>2628791</guid>
-            <pubDate>Wed, 13 Apr 2022 04:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月成品油出口407.4万吨，1-2月为729.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024527.d.html</link>
-            <guid>2628790</guid>
-            <pubDate>Wed, 13 Apr 2022 04:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国3月贸易顺差473.8亿美元，预估顺差217亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024507.d.html</link>
-            <guid>2628789</guid>
-            <pubDate>Wed, 13 Apr 2022 04:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月大豆进口量为635.3万吨，1-2月为1394万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024487.d.html</link>
-            <guid>2628788</guid>
-            <pubDate>Wed, 13 Apr 2022 04:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月天然气进口量为798.5万吨，1-2月为1990万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024462.d.html</link>
-            <guid>2628787</guid>
-            <pubDate>Wed, 13 Apr 2022 04:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自动驾驶企业领骏完成数千万元融资】4月13日，领骏宣布已完成数千万元Pre-A轮融资，由某知名物流集团战略投资、领创资本参与投资、老股东臻忻资本追加投资。本轮募资将用于技术团队规模化扩充及持续赋能合作伙伴的在城市智慧交通的自动驾驶客运和货运的商业化进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4024015.d.html</link>
-            <guid>2628784</guid>
-            <pubDate>Wed, 13 Apr 2022 04:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州省国有资产监督管理委员会原正厅级干部余学强被开除党籍】贵州省国有资产监督管理委员会原正厅级干部余学强被开除党籍。(中央纪委网站)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1577337.d.html</link>
-            <guid>2628782</guid>
-            <pubDate>Wed, 13 Apr 2022 04:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恩华药业：控股子公司的全资子公司北京医华真轻松互联网医院有限公司取得医疗机构执业许可证，公司布局疼痛管理方向迈出关键一步，将努力打造国内领先的数字医疗服务平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1575478.d.html</link>
-            <guid>2628781</guid>
-            <pubDate>Wed, 13 Apr 2022 04:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦格米特：全资子公司株洲麦格米特与特变电工新疆新能源股份有限公司（简称“特变电工”）签订2022年组串式光伏逆变器核心电路板销售合同，预计产生销售收入2.21亿元（不含税）。]]></title>
-            <guid>2628780</guid>
-            <pubDate>Wed, 13 Apr 2022 04:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[侨银股份：预中标约4517万元邵阳市双清区第三轮清扫保洁环卫一体数字化管理服务项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4020890.d.html</link>
-            <guid>2628779</guid>
-            <pubDate>Wed, 13 Apr 2022 04:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铜冠铜箔：公司控股股东铜陵有色持有公司股份在原锁定期基础上延长6个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1575424.d.html</link>
-            <guid>2628778</guid>
-            <pubDate>Wed, 13 Apr 2022 04:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新瀚新材：公司控股股东、实控人严留新、秦翠娥，以及高管人员汤浩延长限售流通股锁定期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4020863.d.html</link>
-            <guid>2628777</guid>
-            <pubDate>Wed, 13 Apr 2022 04:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天禾股份：中山中科创业投资有限公司计划减持公司股份不超1543.38万股（占总股本4.44%）。]]></title>
-            <guid>2628776</guid>
-            <pubDate>Wed, 13 Apr 2022 04:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[晓鸣股份：银川辰途股权投资合伙企业（有限合伙）及其一致行动人计划减持公司股份不超1141.27万股（占总股本6%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1575389.d.html</link>
-            <guid>2628775</guid>
-            <pubDate>Wed, 13 Apr 2022 04:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中水渔业：预计一季度净利亏损1200万元-1300万元，同比减亏，一季度公司主产品市场价格走高，主营业务毛利增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4020831.d.html</link>
-            <guid>2628774</guid>
-            <pubDate>Wed, 13 Apr 2022 04:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一汽奥迪销售公司明日南下杭州 整体搬迁工作拟于5月中旬开始】据悉一汽奥迪销售公司部分职能部门将于明日南下杭州，整体搬迁工作计划在5月中旬开始。天眼查显示，2020年12月24日，一汽奥迪销售有限责任公司在杭州注册成立，注册资本3亿元人民币，由一汽-大众100%出资。据悉，公司未来主要负责一汽奥迪全部车型以及新能源产品的销售，包括PPE纯电动车型的相关销售业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1575120.d.html</link>
-            <guid>2628773</guid>
-            <pubDate>Wed, 13 Apr 2022 04:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚和新加坡深化金融科技合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4020006.d.html</link>
-            <guid>2628771</guid>
-            <pubDate>Wed, 13 Apr 2022 04:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国3月贸易顺差3005.8亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4019569.d.html</link>
-            <guid>2628769</guid>
-            <pubDate>Wed, 13 Apr 2022 04:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【力生制药：复方磺胺甲恶唑片通过仿制药一致性评价】力生制药午间公告，公司近日收到国家药品监督管理局颁发的关于复方磺胺甲噁唑片磺胺甲噁唑0.4g，甲氧苄啶80mg规格的《药品补充申请批准通知书》，该药品通过仿制药质量和疗效一致性评价。产品主要适应症为敏感菌株所致的部分感染。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4019016.d.html</link>
-            <guid>2628766</guid>
-            <pubDate>Wed, 13 Apr 2022 04:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年民生银行总分行级战略客户计划新增信贷投放1800亿元】记者日前获悉，2022年民生银行总分行级战略客户计划新增信贷投放1800亿元，同时，民生银行今年将对战略客户实行名单制管理，总行分行两级共1416 户。该行重点支持制造业、乡村振兴、绿色金融等领域的战略客户。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4017606.d.html</link>
-            <guid>2628762</guid>
-            <pubDate>Wed, 13 Apr 2022 03:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于模拟器故障，印度禁止90名飞行员驾驶波音737 Max，印度民航总局表示，正在调查波音737 Max模拟器的故障。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1572128.d.html</link>
-            <guid>2628761</guid>
-            <pubDate>Wed, 13 Apr 2022 03:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天禾股份：股东中山中科创业投资有限公司拟清仓减持】天禾股份公告，持股4.44%的股东中山中科创业投资有限公司拟清仓减持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4016565.d.html</link>
-            <guid>2628758</guid>
-            <pubDate>Wed, 13 Apr 2022 03:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本外务大臣正就出访中亚地区调整日程】日本外务大臣林芳正将在4月下旬开始对中亚地区的哈萨克斯坦和乌兹别克斯坦进行访问。据日本《每日新闻》13日报道，目前林芳正正在调整日程。此外，林芳正还考虑访问蒙古国。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1570975.d.html</link>
-            <guid>2628756</guid>
-            <pubDate>Wed, 13 Apr 2022 03:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办用妆罢低声问夫婿评价吴钊燮言论】台外事部门负责人吴钊燮日前受访时称，台美关系重要原则是对美国需要一些体谅，美国忙的时候台湾不要添麻烦，也不要给太多意外。被岛内舆论批是美国人可怜的“看门狗”。国台办发言人马晓光对此表示：这让我想起了一句唐诗，“妆罢低声问夫婿，画眉深浅入时无”。吴钊燮的这番言论不打自招，把民进党当局在外部势力面前卑躬屈膝、仰人鼻息、摇尾乞怜的奴才嘴脸展现得淋漓尽致。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4015193.d.html</link>
-            <guid>2628752</guid>
-            <pubDate>Wed, 13 Apr 2022 03:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里云人事大变动，中国区总裁辞任、多名高P离职】阿里云人事大变动，中国区总裁辞任、多名高P离职多方消息人士透露，阿里云正在进行新一轮组织架构调整：阿里云中国区总裁任庚（M6）将离职，该职位由阿里云中国区副总裁黄海清接任，统管中国16个战区。此外，集团副总裁、云智能销售管理与生态发展部总经理郭继军（M6）已在走离职流程，生态+销管体系暂时由蔡英华直接代管。与此同时，阿里副总裁李飞飞等高管的麾下也有数名P9/P10中高层骨干在近期辞任。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4014846.d.html</link>
-            <guid>2628751</guid>
-            <pubDate>Wed, 13 Apr 2022 03:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国台办：美对台军售无异于在每个台湾同胞身上绑炸弹】国台办发言人马晓光主持13日举行的国台办例行新闻发布会。有记者问：继此前新一轮美对台军售之后，美参议员霍利提出所谓“台湾武器出口法案”，以加快对台运销关键武器。请问发言人对此有何评论？ 马晓光表示，我们多次重申，坚决反对美国向中国台湾地区出售武器。我们敦促美方切实恪守一个中国原则和中美三个联合公报特别是“八·一七”公报规定，停止一切对台售武。美方对台军售无异于在每个台湾同胞身上绑上炸弹，而民进党当局拿着百姓的血汗钱趟炸弹，只会把台湾民众推向灾难。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1567966.d.html</link>
-            <guid>2628747</guid>
-            <pubDate>Wed, 13 Apr 2022 03:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国台办：哪儿来的所谓“台语”，都是从闽南客家来的】有记者问，据报道，民进党当局强制岛内中小学从今年8月起必修课程增加所谓“本土语课”，其中可供选择的“本土语”包括闽南话、客家话、马祖本地人讲的闽东话等49种。有台湾教师表示，民进党当局所谓“本土语政策”就是要斩断中华文化和语言的根脉。请问发言人对此有何评论？ 马晓光应询说，民进党当局的这种举动实际上是害台湾，害了台湾的年轻一代，让他们丧失发展机会。哪来的所谓“台语”，都是从闽南客家来的，也是中华语言的一部分，是中华文化的一部分。民进党当局蓄意将台湾民众使用的闽南、客家方言、少数民族语言、普通话划分为“本土”和“外来”，包藏着他们处心积虑“去中国化”的祸心。从他们热衷追大陆剧、用大陆应用软件，就能看出他们是一帮“口嫌体直”的假道学、伪道学。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1567638.d.html</link>
-            <guid>2628744</guid>
-            <pubDate>Wed, 13 Apr 2022 03:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙首轮集中供地收官：22宗地收金174亿，企业拿地热情回升】4月12日，长沙市2022年度首批集中供地正式开拍。此次长沙共出让22宗涉宅地块，最终19宗底价成交、1宗溢价成交，另有2宗触发“熔断”进入摇号出让阶段，成交总价173.9亿元，总出让面积约119.2万平方米。据悉，此次参与报名的房企达50余家，华润、中海、金地、旭辉、招商蛇口等品牌房企均有所斩获，与去年长沙第二、三轮集中供地相比明显升温。在业内人士看来，长沙此次土地交易没有出现流拍，体现出企业拿地信心有所回升，并且较为倾向于在长沙这类土地性价比较高的省会城市拿地。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1566724.d.html</link>
-            <guid>2628741</guid>
-            <pubDate>Wed, 13 Apr 2022 03:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上证综指午盘收跌0.44%，报3199.14点。贵州茅台对指数下跌拖累最大，下跌0.7%。 博瑞传播跌幅最大，下跌10.0%。午盘交易中，1,816支股票中1,311支下跌，462支上涨；所有类股均走低，以工业股为首。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1566562.d.html</link>
-            <guid>2628739</guid>
-            <pubDate>Wed, 13 Apr 2022 03:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办：台湾经济发展和民众福祉离不开两岸经贸合作】国台办发言人马晓光主持今天（13日）举行的国台办例行新闻发布会。有记者问：据台相关部门统计，一季度台湾对大陆贸易顺差276.3亿美元，虽然民进党当局上台以来，大力推行所谓“新南向政策”，企图淡化两岸经贸联系，但两岸经贸不降反增。请问发言人有何评论？马晓光表示，这组数据再次证明，台湾经济发展和台湾民众的福祉，离不开两岸经贸合作，妄图“脱钩断链”，不过是一厢情愿，只会损害台湾民众的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4011813.d.html</link>
-            <guid>2628738</guid>
-            <pubDate>Wed, 13 Apr 2022 03:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凤凰卫视台湾站将关站 国台办：民进党当局此举是打压两岸交流又一恶行】有记者提问称，据报道，凤凰卫视台湾站因被民进党当局认定为陆资企业，将于5月关站。此前，东南卫视两名记者也被取消记者证，请问发言人是否担心民进党当局相关举动会进一步影响两岸媒体间交流往来？马晓光回应表示，凤凰卫视台湾站2001年设立以来，为全球华人更好了解台湾，增进台湾与大陆及港澳同胞相互了解、融洽亲情发挥了重要作用。民进党当局此举是打压两岸交流的又一恶行，必将记录在案。民进党当局应停止损害大陆和港澳媒体的正当权益，停止蛮横打压大陆和港澳媒体驻台机构和记者正常的新闻报道活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1565848.d.html</link>
-            <guid>2628737</guid>
-            <pubDate>Wed, 13 Apr 2022 03:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美媒：泽连斯基称不能确定俄军在马里乌波尔使用化学武器】针对“俄军在乌克兰马里乌波尔使用化学武器”的指控，乌克兰总统泽连斯基12日公开表示暂无法确定此事。 美国有线电视新闻网（CNN）报道称，乌克兰总统泽连斯基在当地时间12日发表的一段视频讲话中称，他不能确定被围困的乌克兰城市马里乌波尔是否存在使用化学武器的情况。 “对于昨天有报道称马里乌波尔出现使用有毒物质弹药攻击该市守军的情况，我们非常关注。目前还不可能对它是哪种物质得出100%的结论。”  （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4011186.d.html</link>
-            <guid>2628736</guid>
-            <pubDate>Wed, 13 Apr 2022 03:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赣锋锂业于内蒙古成立新公司，注册资本1亿元】企查查APP显示，4月11日，内蒙古赣锋锂业有限公司成立，注册资本1亿元人民币，经营范围包含：常用有色金属冶炼；有色金属合金销售；工程和技术研究和试验发展等。股权穿透显示，该公司由赣锋锂业(002460)100%控股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1565544.d.html</link>
-            <guid>2628735</guid>
-            <pubDate>Wed, 13 Apr 2022 03:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南省财政厅副厅长杨雷：建立与贸易投资自由便利相适应的税制安排】4月13日，海南省财政厅党组成员、副厅长杨雷表示，海南自贸港税制建设正稳步前行。未来海南将按照《海南自由贸易港建设总体方案》和《中华人民共和国海南自由贸易港法》的要求和中央的决策部署，把握封关运作时间节点，做好销售税改革等工作，初步建立与贸易投资自由便利相适应的税收制度安排，并进一步加强顶层制度设计，逐步建立与高水平自贸港相适应的、具有国际竞争力的税收制度体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4010476.d.html</link>
-            <guid>2628733</guid>
-            <pubDate>Wed, 13 Apr 2022 03:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：04月13日11时00分在新不列颠岛地区（南纬4.45度，东经152.10度）发生6.1级地震，震源深度150千米。]]></title>
-            <guid>2628731</guid>
-            <pubDate>Wed, 13 Apr 2022 03:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国台办：呼吁台湾同胞不要成为台独牺牲品】台防务部门日前发布所谓“全民防务手册”宣传炒作“战时避难”。国台办发言人马晓光：我们呼吁两岸同胞，特别是广大台湾同胞擦亮眼睛，不要成为“台独”分裂势力的牺牲品，只有两岸同胞共同努力遏制“台独”，才能切实维护台海和平稳定，才能切实维护两岸同胞的共同利益。（央视军事）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4009693.d.html</link>
-            <guid>2628729</guid>
-            <pubDate>Wed, 13 Apr 2022 03:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股石油股拉升，中国海洋石油涨超5%，中海油田服务涨近4%，中国石油股份涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1563858.d.html</link>
-            <guid>2628728</guid>
-            <pubDate>Wed, 13 Apr 2022 03:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南省财政厅：建立与贸易投资自由便利相适应的税制安排】海南省财政厅副厅长杨雷4月13日表示，海南自贸港税制建设正稳步前行。未来海南将按照《海南自由贸易港建设总体方案》和《中华人民共和国海南自由贸易港法》的要求和中央的决策部署，把握封关运作时间节点，做好销售税改革等工作，初步建立与贸易投资自由便利相适应的税收制度安排，并进一步加强顶层制度设计，逐步建立与高水平自贸港相适应的、具有国际竞争力的税收制度体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4008501.d.html</link>
-            <guid>2628727</guid>
-            <pubDate>Wed, 13 Apr 2022 03:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股餐饮股普涨，九毛九涨近6%，海底捞涨近4%，呷哺呷哺涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1562782.d.html</link>
-            <guid>2628726</guid>
-            <pubDate>Wed, 13 Apr 2022 03:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大地产珠三角公司63个在建项目已全面实现复工复产 复工率100%】据恒大地产在珠三角微信公众号，目前，珠三角公司63个在建项目已全面实现复工复产，复工率100%。广州、佛山、惠州、清远、阳江、梅州等城市十多个项目复工人数达标率超100%。同时，佛山恒大珺庭、湛江恒大外滩、顺德恒大江湾、清远恒大银湖城、肇庆恒大西江名郡等多个项目陆续交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1562514.d.html</link>
-            <guid>2628725</guid>
-            <pubDate>Wed, 13 Apr 2022 03:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海关总署：一季度我国跨境电商进出口4345亿元 同比增长0.5%】海关总署新闻发言人李魁文在发布会上表示，据海关初步测算，一季度，我国跨境电商进出口4345亿元，同比增长0.5%，其中出口3104亿元，增长2.6%，进口1241亿元，下降4.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii4006552.d.html</link>
-            <guid>2628720</guid>
-            <pubDate>Wed, 13 Apr 2022 03:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
