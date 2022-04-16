@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Apr 2022 20:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 21:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【央企一季度实现营收9万亿元 利润总额6179亿元】国务院国资委16日公布的数据显示，今年一季度中央企业实现营业收入9万亿元、利润总额6179亿元、净利润4723亿元，同比分别增长15.4%、14.6%、13.7%，上缴税费7348亿元，同比增长20.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4721882.d.html</link>
+            <guid>2633582</guid>
+            <pubDate>Sat, 16 Apr 2022 21:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【危中蕴机 酒店如何借势实现市场突围？】北京第二外国语学院旅游科学学院副院长邓宁表示，酒店需积极拓展业务服务边界，主动作为，将住宿业与大消费、大休闲的概念深度融合，拓展餐饮、康养、健身、休闲等多业态，开发城市休闲类组合产品，并将酒店作为承载文化体验、演艺、娱乐等多种消费形式的集中载体，满足跨省旅游中断下的都市中高端旅游需求。（中国旅游报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4721009.d.html</link>
+            <guid>2633581</guid>
+            <pubDate>Sat, 16 Apr 2022 20:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克中部发生两车相撞事故致13死4伤】伊拉克交通局16日说，该国中部巴比伦省15日夜间发生一起小型巴士与越野车相撞事故，造成13人死亡，另有4人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2274675.d.html</link>
+            <guid>2633579</guid>
+            <pubDate>Sat, 16 Apr 2022 20:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【联合国人道主义机构敦促采取行动避免索马里和南苏丹的饥荒】联合国人道主义机构本周警告说，饥荒的威胁在索马里和南苏丹真实可见，现在需要采取紧急行动以避免一场灾难。最近的粮食安全评估显示，除非出现降雨，否则未来几个月索马里将有600万人面临严重的粮食不安全。世界粮食计划署驻索马里副国家主任劳拉·弗西表示，这几乎是今年年初数字的两倍。联合国粮农组织驻南苏丹代表梅沙克·马洛表示，今年5月至7月，南苏丹774万人可能面临饥饿，这是有史以来最高的数字。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2274152.d.html</link>
@@ -322,23 +340,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4667344.d.html</link>
             <guid>2633055</guid>
             <pubDate>Sat, 16 Apr 2022 11:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰哈尔科夫地区州长表示，导弹袭击造成1人死亡，18人受伤。 （现在是基辅时间13：59）]]></title>
-            <guid>2633051</guid>
-            <pubDate>Sat, 16 Apr 2022 10:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京与沙特王储通了电话，对欧佩克+形式的工作给予了积极评价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4665861.d.html</link>
-            <guid>2633048</guid>
-            <pubDate>Sat, 16 Apr 2022 10:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京和沙特王储讨论乌克兰、也门、欧佩克问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4665763.d.html</link>
-            <guid>2633046</guid>
-            <pubDate>Sat, 16 Apr 2022 10:51:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
