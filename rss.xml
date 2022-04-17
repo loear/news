@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 17 Apr 2022 17:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 18:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【俄罗斯国防部：俄罗斯空天军又摧毁乌克兰44个军事设施】俄罗斯国防部发言人伊戈尔•科纳申科夫少将宣布，俄罗斯空天军又摧毁了乌克兰的 44 个军事设施。科纳申科夫说：“它们之中包括阿夫迪夫卡地区的两个指挥所和一个S-300地对空防空导弹系统的照明和瞄准雷达。”他补充说，空天军还摧毁了3个火箭炮兵的武器库以及23个乌克兰军事装备和人员集结地。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-18/detail-imcwipii4868155.d.html</link>
+            <guid>2634107</guid>
+            <pubDate>Sun, 17 Apr 2022 17:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月18日01时35分在四川绵阳市平武县附近（北纬32.98度，东经104.02度）发生3.4级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2634106</guid>
+            <pubDate>Sun, 17 Apr 2022 17:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【印度哈里亚纳邦一化工厂发生火灾 暂无人员伤亡报告】当地时间17日晚，靠近印度首都新德里的哈里亚纳邦昆德利地区的一家化工厂发生火灾。应哈里亚纳邦的要求，新德里消防部门已派出消防员参与此次行动。起火原因尚不清楚，目前还没有人员伤亡的报告。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-18/detail-imcwipii4863806.d.html</link>
@@ -330,18 +341,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815424.d.html</link>
             <guid>2633796</guid>
             <pubDate>Sun, 17 Apr 2022 09:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统经济顾问：今年的通胀率预计将在10%到20%之间，但如果战争很快结束，通胀率将接近10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2370407.d.html</link>
-            <guid>2633794</guid>
-            <pubDate>Sun, 17 Apr 2022 09:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统经济顾问：个人不认为存在货币大幅波动的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815232.d.html</link>
-            <guid>2633793</guid>
-            <pubDate>Sun, 17 Apr 2022 09:13:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
