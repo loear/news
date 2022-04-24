@@ -4,13 +4,79 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  Autoliv将在日本爱知建立安全气囊工厂。]]></title>
+            <title><![CDATA[市场消息，美国总统拜登或在访韩期间参观非军事区和三星芯片工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6280585.d.html</link>
+            <guid>2644864</guid>
+            <pubDate>Sun, 24 Apr 2022 23:15:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国《泰晤士报》援引欧盟委员会副主席东布罗夫斯基斯的话称，欧盟准备对俄罗斯石油进口实施“理智制裁”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3834936.d.html</link>
+            <guid>2644862</guid>
+            <pubDate>Sun, 24 Apr 2022 23:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东昨日新增2例本土确诊病例及49例本土无症状感染者】4月24日0时至24时，山东省报告新增本土确诊病例2例，均在烟台。新增本土无症状感染者49例，其中烟台34例、济南12例、临沂2例、青岛1例。无新增境外输入确诊病例。无新增境外输入无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3834658.d.html</link>
+            <guid>2644861</guid>
+            <pubDate>Sun, 24 Apr 2022 23:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南昨日新增本土无症状感染者14例】4月24日0-24时，云南全省新增确诊病例2例，均为境外输入（缅甸、澳大利亚各1例）；新增无症状感染者19例，其中境外输入5例（缅甸2例，澳大利亚、老挝、印度尼西亚各1例），本土14例（金平县13例、马关县1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6279843.d.html</link>
+            <guid>2644858</guid>
+            <pubDate>Sun, 24 Apr 2022 23:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国4月Rightmove平均房屋要价指数同比 9.9%，前值 10.4%。英国4月Rightmove平均房屋要价指数环比 1.6%，前值 1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6279330.d.html</link>
+            <guid>2644856</guid>
+            <pubDate>Sun, 24 Apr 2022 23:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：在未来数年内，无聊公司（马斯克旗下隧道挖掘公司）将尝试建造一个运转的超级高铁（Hyperloop）运输系统。从已知的物理角度来看，这是从一个城市中心到另一个城市中心（距离不到2000英里）的最快的可能方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3832437.d.html</link>
+            <guid>2644854</guid>
+            <pubDate>Sun, 24 Apr 2022 22:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所：考虑将破发指标 纳入主承销商考评】证券时报记者从多方面了解到，新股破发现象已引起监管部门关注。近日，上海证券交易所组织多家券商召开座谈会，研讨当前市场破发现象。分析人士表示，破发是新股发行过程中的一种常见情形，是市场化改革落地后必然发生的常态化博弈结果，与二级市场走势亦密切相关。无论是在注册制改革之前还是当下，二级市场始终决定着新股定价的“水位”。注册制改革之后，新股定价权交给了市场，无论是博弈方的数量还是博弈发生的次数均大大增加。上交所方面在座谈会上表示，下一步，考虑将“大比例破发”等指标纳入主承销商执业质量评价等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6277212.d.html</link>
+            <guid>2644852</guid>
+            <pubDate>Sun, 24 Apr 2022 22:39:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基祝贺法国总统马克龙连任，其称马克龙是“真正的朋友”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3831939.d.html</link>
+            <guid>2644850</guid>
+            <pubDate>Sun, 24 Apr 2022 22:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多因素致破发率阶段上升 今年以来科创板打新总体呈正收益】在业内人士看来，破发是市场化改革落地后必然发生的常态化博弈结果，是成熟市场买卖双方自发调节的体现。当下A股市场上的新股破发既有二级市场走势影响因素，也和部分买方机构报价不合理息息相关。数据显示，今年以来，科创板新股首日涨幅中位数28%，跌幅中位数-18%，打新总体还是正收益。此外，有数据表明，即使首日破发变多，但绝大部分破发新股的跌幅有限，且大部分新股首日破发后股价有所回升，少部分已上升至发行价之上。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3831922.d.html</link>
+            <guid>2644849</guid>
+            <pubDate>Sun, 24 Apr 2022 22:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国秘书长：呼吁加强国际合作应对多边主义面临的巨大挑战】 联合国秘书长古特雷斯4月24日在多边主义与和平外交国际日发表致辞，呼吁国际社会加强合作，以应对多边主义面临的巨大挑战。国际社会在联合国成立之初对多边主义的承诺“正在被打破”，多边合作的核心原则正面临联合国成立以来的最大压力。从气候危机到不断增加的冲突，包括正在乌克兰发生的军事冲突、大规模杀伤性武器的管控、突发公共卫生事件、全球难民保护机制等，都表明多边体系和外交价值体系正面临来自四面八方的威胁。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6276735.d.html</link>
+            <guid>2644848</guid>
+            <pubDate>Sun, 24 Apr 2022 22:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：日元大幅贬值有利于汽车、科技和机械企业获利】日元贬值可能在短期内有助于日本出口商的盈利。在汽车行业，马自达和斯巴鲁可能是最大的受益者。在技术领域，阿尔品汽车 (Automobiles Alpine)、太阳诱电 (Taiyo Yuden)、京瓷(Kyocera)和村田制作所(Murata Manufacturing)等电子元件品牌可能会获利。机械类股方面，久保田、发那科 (FANUC)和小松制作所 (Komatsu)的获利可能会更大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3831276.d.html</link>
+            <guid>2644847</guid>
+            <pubDate>Sun, 24 Apr 2022 22:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典奥托立夫公司（AutoLiv）将在日本爱知县（Aichi）修建（汽车）安全气囊工厂。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3830528.d.html</link>
             <guid>2644845</guid>
             <pubDate>Sun, 24 Apr 2022 22:20:57 GMT</pubDate>
@@ -312,60 +378,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3795290.d.html</link>
             <guid>2644729</guid>
             <pubDate>Sun, 24 Apr 2022 15:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非东部洪水死亡人数修正为435人 仍有54人失踪】南非夸祖鲁-纳塔尔省省长齐卡拉拉当地时间4月24日在媒体简报会上表示，截至24日，夸纳省洪水死亡人数修正为435人，仍有54人失踪。共有17488户家庭共计121687人受灾。目前还有6278人无家可归，7245人仍在德班市的避难所避难。齐卡拉拉表示，现已开始搭建临时住房，预计到30日可以搭建4000座临时住房。同时，将尽快恢复所有地区的供水、供电和道路通行，以便灾后重建工作的展开。预计救灾工作需要超过19亿兰特（约合8亿元人民币）。此外，德班港口也已逐渐恢复卸货作业，将优先装卸食品、医疗用品和燃油等物资。搜救队也将继续失踪人员的搜救工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3794511.d.html</link>
-            <guid>2644716</guid>
-            <pubDate>Sun, 24 Apr 2022 15:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽河油田CCUS业务发展驶入快车道，成功纳入中石油示范区建设】 记者4月24日从中国石油辽河油田获悉，该油田首个CCUS(碳捕获、利用与封存技术)先导试验方案通过正式批复，成功纳入中石油首批CCUS示范区建设，即在大庆、吉林、长庆、新疆等油田开展“四个工业化推广”，在辽河油田、冀东油田、大港油田、华北油田、吐哈油田、南方勘探开展“六个先导试验”。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwipii6239519.d.html</link>
-            <guid>2644712</guid>
-            <pubDate>Sun, 24 Apr 2022 14:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃及与阿联酋Masdar签署两项谅解备忘录，合作生产绿色能源氢气。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3793808.d.html</link>
-            <guid>2644711</guid>
-            <pubDate>Sun, 24 Apr 2022 14:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【281家上市公司盘后披露2021年年报 龙溪股份EPS超出星矿一致预期比例最高】截至22时，盘后两市有281家上市公司发布2021年年报，EPS超过星矿一致预期幅度最大的前七只个股分别为龙溪股份、优宁维、方大炭素、梦天家居、外服控股、达嘉维康和先导智能。其中，国内最大的关节轴承供应商和出口商龙溪股份年报EPS超出星矿一致预期的比例最高，达到67%；扎根生物科研试剂行业的优宁维排名第二，达到37%；聚焦前沿新材料研发的方大炭素年报EPS超出星矿一致预期的幅度为32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3793321.d.html</link>
-            <guid>2644708</guid>
-            <pubDate>Sun, 24 Apr 2022 14:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北海道知床观光船事故后，日本国土交通省24日要求全国客船运营商提交船体检查和安全管理文件，并计划依次对相关企业进行安全检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwipii6237914.d.html</link>
-            <guid>2644693</guid>
-            <pubDate>Sun, 24 Apr 2022 14:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：一季度软件业务收入超2万亿元 同比增长11.6%】工信部数据显示，一季度，我国软件业务收入20060亿元，同比增长11.6%，增速与1-2月份持平，较2020和2021年同期的两年平均增速提高2.7个百分点。一季度，软件业利润总额2031亿元，同比下降3.9%，降幅较1-2月份收窄3.7个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3791642.d.html</link>
-            <guid>2644684</guid>
-            <pubDate>Sun, 24 Apr 2022 14:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国拟建30年来首座新煤矿】消息人士称，英国政府正在考虑新开煤矿的可行性，以减少对俄罗斯能源的依赖。这项计划在几年前提出，于2020年10月获得批准，但6个月后在环保人士的抗议下暂停，政府启动针对项目的新审查。报道称，俄乌局势或加速这项计划的推进。消息人士称可能最早在5月中旬就新煤矿达成决定，此前英国官员预计将在7月决定。如果这项计划得以实施，将是英国30多年来第一座新煤矿。拟议中的这座煤矿选址英格兰西北部的坎布里亚，将开采焦煤，用于英国和欧洲的钢铁生产，不会用于发电。以往，英国约40%的焦煤从俄罗斯进口。本月6日，英国外交大臣特拉斯宣布，英国将在2022年底前停止从俄罗斯进口煤炭和石油，并尽快结束天然气进口。展开煤炭]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwipii6237314.d.html</link>
-            <guid>2644683</guid>
-            <pubDate>Sun, 24 Apr 2022 14:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三菱日联银行外汇分析师Lee Hardman：若勒庞当选 欧元可能会下跌3%到5%】若勒庞获胜，考虑到勒庞需要在6月赢得议会多数席位才能全面实施她的政策，外汇交易员应该能够专注于货币政策收紧等其他推动欧元的因素。市场最初可能会对勒庞意外获胜反应过度，在勒庞获胜后，欧元可能会下跌3%到5%。但实际上，现实可能不像最初担心的那么糟糕。因为就她真正能采取的政策而言，这将受到相当大的限制。无论周日的投票结果如何，市场波动可能会持续到6月的立法选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwiwst3790671.d.html</link>
-            <guid>2644663</guid>
-            <pubDate>Sun, 24 Apr 2022 14:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一图看懂丨北京累计报告41例：涉及这5个区 关系图来了]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-24/detail-imcwipii6236002.d.html</link>
-            <guid>2644657</guid>
-            <pubDate>Sun, 24 Apr 2022 14:12:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
