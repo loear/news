@@ -4,11 +4,64 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 25 Apr 2022 18:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 19:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[推特公司恢复交易，现涨6.5%。公司公布埃隆·马斯克将以每股54.20美元的现金价格收购推特。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4010836.d.html</link>
+            <guid>2646002</guid>
+            <pubDate>Mon, 25 Apr 2022 19:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特CEO：我知道这是一个重大改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwipii6455975.d.html</link>
+            <guid>2646001</guid>
+            <pubDate>Mon, 25 Apr 2022 19:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特CEO将于北京时间今日凌晨5点向员工发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwipii6455894.d.html</link>
+            <guid>2646000</guid>
+            <pubDate>Mon, 25 Apr 2022 19:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推特：接受马斯克以每股54.20美元现金收购本公司】 马斯克将以每股54.2美元的价格收购推特。推特：马斯克收购的交易预计将于2022年完成，将由马斯克独家持股。对股东而言，马斯克的报价是最好的路径选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4010074.d.html</link>
+            <guid>2645981</guid>
+            <pubDate>Mon, 25 Apr 2022 19:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉小幅走低，现跌1.35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwipii6455305.d.html</link>
+            <guid>2645980</guid>
+            <pubDate>Mon, 25 Apr 2022 19:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特CEO：推特有影响世界的愿景和相关性；深受工作鼓舞，为我们的团队感到骄傲。]]></title>
+            <guid>2645976</guid>
+            <pubDate>Mon, 25 Apr 2022 19:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特：拟议中的交易将带来可观的现金溢价，马斯克的提案对持有人来说是最好的选择。将在4月28日开盘前发布第一季度业绩，不会举行电话会议。马斯克已经获得了255亿美元的全额承诺融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4009861.d.html</link>
+            <guid>2645975</guid>
+            <pubDate>Mon, 25 Apr 2022 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据外媒：不管马斯克收购了什么，特朗普都不会回到推特。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4009840.d.html</link>
+            <guid>2645974</guid>
+            <pubDate>Mon, 25 Apr 2022 18:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉短线波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4009379.d.html</link>
+            <guid>2645965</guid>
+            <pubDate>Mon, 25 Apr 2022 18:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【加拿大成立独立调查组对启用《紧急状态法》进行审查】加拿大总理办公室当地时间4月25日表示，已经成立了一个独立调查组，审查启用《紧急状态法》的情况，该调查组并将由法学家保罗·鲁洛（Paul Rouleau）领导。据介绍，保罗·鲁洛有20年的法官经验。他将向联邦政府提交一份最终报告，其中包括他的调查结果和建议，该报告必须在2023年2月20日前提交给加拿大议会两院。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-26/detail-imcwiwst4007837.d.html</link>
@@ -311,63 +364,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6438977.d.html</link>
             <guid>2645871</guid>
             <pubDate>Mon, 25 Apr 2022 15:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【31个省区市继续顶格减征“六税两费”】 4月25日，记者从国家税务总局获悉，全国31个省、自治区、直辖市财税部门在近期陆续发布公告，明确增值税小规模纳税人、小型微利企业和个体工商户按50%幅度顶格减征“六税两费”。另外，大连、青岛、宁波、厦门、深圳5个计划单列市按照本省规定执行。北京国家会计学院教授李旭红表示，在逆周期及跨周期调节中，只有经济着眼长远发展，坚持放水养鱼，切实减轻市场主体负担，才能够支持和引领市场主体共克时艰，稳住经济发展大盘，并获得地方经济的良性发展。（证券时报）]]></title>
-            <guid>2645870</guid>
-            <pubDate>Mon, 25 Apr 2022 15:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【汤姆猫：2021年净利7.08亿元 海外收入贡献超7成营收】汤姆猫发布年报，2021年公司实现营业总收入19.41亿元，同比增长7.43%，其中海外市场贡献营收14.36亿元，占营收比重为74%；归属于上市公司股东净利润7.08亿元，同比下降5.95%.]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6438460.d.html</link>
-            <guid>2645867</guid>
-            <pubDate>Mon, 25 Apr 2022 15:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地电视台报道，摩尔多瓦德涅斯特河沿岸的政府大楼附近发生爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3993167.d.html</link>
-            <guid>2645865</guid>
-            <pubDate>Mon, 25 Apr 2022 15:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  完美世界公告称，2022年第一季度实现净利润8.40亿元，同比增长81%；实现营业收入21.28亿元，同比下滑4.60%。]]></title>
-            <guid>2645861</guid>
-            <pubDate>Mon, 25 Apr 2022 15:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光国微：一季度净利同比增长63.91%】紫光国微披露一季报，一季度实现营业收入13.41亿元，同比增长40.83%；净利润5.31亿元，同比增长63.91%；基本每股收益0.87元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6438129.d.html</link>
-            <guid>2645860</guid>
-            <pubDate>Mon, 25 Apr 2022 15:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥联电子：拟1亿元投建新能源动力系统生产基地项目】奥联电子公告，公司与宁淮智能制造产业园管委会于近日签订《合作框架协议》，公司拟在宁淮智能制造产业园投资建设新能源动力系统生产基地项目，项目拟投资1亿元，预计达产后实现年开票销售约2亿元左右。]]></title>
-            <guid>2645859</guid>
-            <pubDate>Mon, 25 Apr 2022 15:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雪天盐业：一季度净利同比增长151.68%】雪天盐业公告，一季度实现营业收入14.94亿元，同比增长61.96%；净利润1.42亿元，同比增长151.68%；基本每股收益0.11元。同日披露年报，2021年实现净利润4.02亿元，同比增长109.29%，拟每10股派发2元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwiwst3992715.d.html</link>
-            <guid>2645857</guid>
-            <pubDate>Mon, 25 Apr 2022 15:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间4月25日，约旦外交与侨务大臣萨法迪会见来访的联合国也门问题特使汉斯·格伦德贝里，双方就也门局势最新情况交换意见。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6437809.d.html</link>
-            <guid>2645855</guid>
-            <pubDate>Mon, 25 Apr 2022 15:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥联电子：拟1亿元投建新能源动力系统生产基地项目】奥联电子(300585)4月25日晚间公告，公司与宁淮智能制造产业园管委会于近日签订《合作框架协议》，公司拟在宁淮智能制造产业园投资建设新能源动力系统生产基地项目，项目拟投资1亿元，预计达产后实现年开票销售约2亿元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6437477.d.html</link>
-            <guid>2645852</guid>
-            <pubDate>Mon, 25 Apr 2022 15:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豆神教育：拟8.76亿元出售立思辰新技术100%股权】豆神教育(300010)4月25日晚间公告，为化解公司债务危机，降低流动性风险，公司同意全资子公司立思辰合众以8.76亿元交易作价向海南链众出售其全资子公司立思辰新技术100%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-25/detail-imcwipii6437251.d.html</link>
-            <guid>2645850</guid>
-            <pubDate>Mon, 25 Apr 2022 15:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
