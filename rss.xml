@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 29 Apr 2022 20:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 21:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  穆迪表示俄气公司暂停供气对保加利亚的影响是可控的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7279847.d.html</link>
+            <guid>2653087</guid>
+            <pubDate>Fri, 29 Apr 2022 20:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Paxlovid上市后，辉瑞股价盘后下跌3.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7279634.d.html</link>
+            <guid>2653084</guid>
+            <pubDate>Fri, 29 Apr 2022 20:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼总统佐科表示正推动俄乌冲突和平解决】印尼总统佐科29日在位于西爪哇省茂物市的总统府表示，和平与稳定是世界经济复苏和发展的关键。作为二十国集团(G20)轮值主席国，印尼正在推动俄乌冲突的和平解决。本月27日和28日，佐科分别与乌克兰总统泽连斯基和俄罗斯总统普京通了电话。（中新社）]]></title>
+            <guid>2653082</guid>
+            <pubDate>Fri, 29 Apr 2022 20:35:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波兰国家安全局局长索罗赫：波兰政府已向乌克兰提供了“相当数量”的苏制T-72主战坦克、小批量步兵战车以及无人机。目前有约1万名美国士兵驻扎在波兰。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4831207.d.html</link>
@@ -251,46 +268,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4819695.d.html</link>
             <guid>2652991</guid>
             <pubDate>Fri, 29 Apr 2022 17:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据巴西G1新闻网站：巴西国家石油公司（Petrobras）将自5月1日起将天然气价格提高19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7265271.d.html</link>
-            <guid>2652990</guid>
-            <pubDate>Fri, 29 Apr 2022 17:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：04月30日01时23分在云南丽江市宁蒗县（北纬27.77度，东经100.63度）发生4.2级地震，震源深度8千米。]]></title>
-            <guid>2652989</guid>
-            <pubDate>Fri, 29 Apr 2022 17:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国防部发言人柯比：美国在德国对乌克兰人使用关键系统进行培训。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4819365.d.html</link>
-            <guid>2652987</guid>
-            <pubDate>Fri, 29 Apr 2022 17:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看好礼来tirzepatide药物商业前景 摩根士丹利上调目标价至369美元】摩根士丹利分析师Terence Flynn发表研报，将礼来的目标价从364美元上调至369美元，维持增持评级。该分析师称，礼来治疗2型糖尿病的药物tirzepatide的3期数据，是该公司2022年一季度财报的“亮点”。相关数据显示，在临床试验中，接受最高剂量tirzepatide治疗的亚组平均体重降低22.5%(约24公斤)，并且63%的受试者体重降低至少20%。Flynn非常看好tirzepatide，他相信该药物的商业前景“牛气冲天”。礼来Q1营收为78.1亿美元，同比增长15%，超出市场预期；净利润19.03亿美元，上年同期为13.55亿美元，同比增长40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4819249.d.html</link>
-            <guid>2652986</guid>
-            <pubDate>Fri, 29 Apr 2022 17:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，墨西哥国家石油公司的最新成本估计为140亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4819219.d.html</link>
-            <guid>2652985</guid>
-            <pubDate>Fri, 29 Apr 2022 17:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：04月30日01时23分在云南丽江市宁蒗县附近（北纬27.74度，东经100.58度）发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2652983</guid>
-            <pubDate>Fri, 29 Apr 2022 17:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  推特：公司已经同意在交易完成后的一年内维持员工当前的福利水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7264331.d.html</link>
-            <guid>2652982</guid>
-            <pubDate>Fri, 29 Apr 2022 17:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
