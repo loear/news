@@ -4,11 +4,105 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 29 Apr 2022 16:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月30日01时23分在云南丽江市宁蒗县附近（北纬27.74度，东经100.58度）发生4.0级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2652983</guid>
+            <pubDate>Fri, 29 Apr 2022 17:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特：公司已经同意在交易完成后的一年内维持员工当前的福利水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7264331.d.html</link>
+            <guid>2652982</guid>
+            <pubDate>Fri, 29 Apr 2022 17:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  方舟基金创始人Cathie Wood：马斯克必须多元化，“他应该如此”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7264242.d.html</link>
+            <guid>2652981</guid>
+            <pubDate>Fri, 29 Apr 2022 17:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood：没有对特斯拉失去信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4818358.d.html</link>
+            <guid>2652979</guid>
+            <pubDate>Fri, 29 Apr 2022 17:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood：Teladoc Health(TDOC.N)的价格可能会上涨10倍。]]></title>
+            <guid>2652976</guid>
+            <pubDate>Fri, 29 Apr 2022 17:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度清洁能源巨头ReNew Energy Global Plc.总裁Sumant Sinha：印度自身的煤炭危机可能会刺激向清洁能源转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7263723.d.html</link>
+            <guid>2652975</guid>
+            <pubDate>Fri, 29 Apr 2022 17:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特CEO：在交易完成前，没有承诺削减成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4817931.d.html</link>
+            <guid>2652974</guid>
+            <pubDate>Fri, 29 Apr 2022 17:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood：买入更多Teladoc Health，因为它是健康行业的“支柱”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4817879.d.html</link>
+            <guid>2652973</guid>
+            <pubDate>Fri, 29 Apr 2022 17:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝克休斯：美国石油钻井连续20个月录得增加，与此前记录持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7263112.d.html</link>
+            <guid>2652971</guid>
+            <pubDate>Fri, 29 Apr 2022 17:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝克休斯：美国钻井连续21个月增加石油和天然气钻井平台，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4817371.d.html</link>
+            <guid>2652970</guid>
+            <pubDate>Fri, 29 Apr 2022 17:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局：美国联邦航空管理局延长了德克萨斯州SpaceX项目的环境审查，正在努力于5月31日对SpaceX的星际飞船进行最终评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7262707.d.html</link>
+            <guid>2652968</guid>
+            <pubDate>Fri, 29 Apr 2022 17:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯将于5月16日恢复飞往厄瓜多尔的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7262583.d.html</link>
+            <guid>2652966</guid>
+            <pubDate>Fri, 29 Apr 2022 17:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：苹果(AAPL.O)供应商优先考虑重启上海工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4815662.d.html</link>
+            <guid>2652961</guid>
+            <pubDate>Fri, 29 Apr 2022 16:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国驻乌克兰大使西蒙斯在社交媒体表示，其已经回到乌克兰首都基辅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7261112.d.html</link>
+            <guid>2652959</guid>
+            <pubDate>Fri, 29 Apr 2022 16:44:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利埃尼集团否认开设卢布账户，将以欧元购买天然气】当地时间4月29日，意大利跨国能源公司埃尼集团首席财务官加泰依表示，该集团没有开设卢布账户，将会使用欧元向俄罗斯购买天然气。当天的一场会议上，加泰依表示，关于向俄罗斯购买天然气的支付机制问题，埃尼集团正在与欧盟和意大利政府密切协调。加泰依称，合同和发票的货币是欧元，埃尼集团将严格按照合同和制裁规定进行支付。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7260719.d.html</link>
+            <guid>2652957</guid>
+            <pubDate>Fri, 29 Apr 2022 16:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：俄罗斯通过Bank Dom.RF和纽银梅隆实现债券兑付】俄罗斯据称通过Bank Dom.RF JSC使用掌控的美元储备实现欧元债券兑付，这家尚未遭受美西方制裁的银行机构已经将相关资金过户给负责受理相关债务的纽银梅隆。纽银梅隆已经获得诸多监管部门的许可，并在周五（4月29日）将兑付资金转交给花旗集团。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7260695.d.html</link>
+            <guid>2652956</guid>
+            <pubDate>Fri, 29 Apr 2022 16:39:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：菲利普斯66(PSX.N)目标仍是降低债务水平，同时恢复回购。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7259670.d.html</link>
@@ -270,102 +364,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4806044.d.html</link>
             <guid>2652885</guid>
             <pubDate>Fri, 29 Apr 2022 15:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国高级国防官员：第一批送往乌克兰的”凤凰幽灵“无人机将于今天抵达该地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7251311.d.html</link>
-            <guid>2652882</guid>
-            <pubDate>Fri, 29 Apr 2022 15:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大唐新能源(01798.HK)2022年Q1净利润（亿元）：前值12.12，公布8.85。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7251265.d.html</link>
-            <guid>2652880</guid>
-            <pubDate>Fri, 29 Apr 2022 15:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大唐新能源(01798.HK)2022年Q1 营收（亿元）：前值33.63，公布30.77。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7251221.d.html</link>
-            <guid>2652879</guid>
-            <pubDate>Fri, 29 Apr 2022 15:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富力地产推迟财报披露 普华永道辞任核数师】富力地产在交易所公告称，普华永道辞任公司核数师，4月29日起生效；推迟刊发2021年经审计全年业绩公司，董事会决议委任香港立信德豪会计师事务所为新任核数师。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7250982.d.html</link>
-            <guid>2652877</guid>
-            <pubDate>Fri, 29 Apr 2022 15:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登与墨西哥总统洛佩斯就地区经济复苏和供应链进行了磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4804735.d.html</link>
-            <guid>2652875</guid>
-            <pubDate>Fri, 29 Apr 2022 15:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登与墨西哥总统洛佩斯就能源问题和更绿色的未来进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4804512.d.html</link>
-            <guid>2652874</guid>
-            <pubDate>Fri, 29 Apr 2022 14:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国高级官员：美国希望墨西哥能加入对俄制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7250246.d.html</link>
-            <guid>2652873</guid>
-            <pubDate>Fri, 29 Apr 2022 14:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证实允许俄罗斯以美元支付债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7250236.d.html</link>
-            <guid>2652872</guid>
-            <pubDate>Fri, 29 Apr 2022 14:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：梅斯健康控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7250074.d.html</link>
-            <guid>2652871</guid>
-            <pubDate>Fri, 29 Apr 2022 14:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亚联发展：公司股票被实施退市风险警示及其他风险警示】亚联发展公告，公司股票将于5月5日停牌一天，5月6日复牌后实施退市风险警示及其他风险警示，股票简称为“*ST亚联”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7250035.d.html</link>
-            <guid>2652870</guid>
-            <pubDate>Fri, 29 Apr 2022 14:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最新财报显示，苹果在三个产品类别中实现了两位数的增长，服务再次成为最大的增长动力，上个季度的收入创下了198亿美元的历史新高。如图所示，上个季度，iPhone占苹果收入的一半多一点，服务目前是整体销售额的第二大贡献者。由于其财年前六个月的净利润达到了596亿美元，苹果今年的利润有望首次达到1000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4803960.d.html</link>
-            <guid>2652865</guid>
-            <pubDate>Fri, 29 Apr 2022 14:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国高级国防官员表示，未来24小时将有超过12架飞机从美国起飞为乌克兰提供军事援助，包括榴弹炮和无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7249677.d.html</link>
-            <guid>2652864</guid>
-            <pubDate>Fri, 29 Apr 2022 14:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯一大型药厂生产车间外墙倒塌 致1人受伤】当地时间4月29日，位于俄罗斯库尔干州的一家大型药厂“Sintez”的生产车间外墙发生坍塌，导致1人受伤。据介绍，发生事故的是该厂的第4生产车间，该工厂为俄罗斯本土最大的抗生素生产企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7249615.d.html</link>
-            <guid>2652863</guid>
-            <pubDate>Fri, 29 Apr 2022 14:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿富汗喀布尔清真寺爆炸造成50多人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwipii7249451.d.html</link>
-            <guid>2652861</guid>
-            <pubDate>Fri, 29 Apr 2022 14:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：上海英诺伟医疗器械股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4803165.d.html</link>
-            <guid>2652860</guid>
-            <pubDate>Fri, 29 Apr 2022 14:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：花房集团向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-29/detail-imcwiwst4802966.d.html</link>
-            <guid>2652859</guid>
-            <pubDate>Fri, 29 Apr 2022 14:49:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
