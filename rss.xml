@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Apr 2022 18:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 19:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【苹果首席执行官蒂姆·库克现身】苹果首席执行官蒂姆·库克于当地时间2022年4月30日在内布拉斯加州奥马哈出席伯克希尔·哈撒韦公司股东大会。巴菲特对苹果公司出人意料的押注可能成为他最成功的投资之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7432103.d.html</link>
+            <guid>2653683</guid>
+            <pubDate>Sat, 30 Apr 2022 18:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特：伯克希尔哈撒韦能源公司被不同的州和监管机构要求拥有大量的债务】巴菲特表示，伯克希尔哈撒韦能源公司被不同的州和监管机构要求拥有大量的债务。监管机构会说，你可以获得比股权更便宜的债务，他们希望防止客户在单位资本成本过高的情况下被要求支付更高的费率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwiwst4986046.d.html</link>
+            <guid>2653678</guid>
+            <pubDate>Sat, 30 Apr 2022 18:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特重申坚信伯克希尔的企业文化将长存】巴菲特称，伯克希尔的企业文化是很强大的，与其他公司不同。芒格补充道，（其他公司文化）会发生变化，有时会以你不喜欢的方式发生变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7430507.d.html</link>
+            <guid>2653668</guid>
+            <pubDate>Sat, 30 Apr 2022 18:37:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【芒格批评罢免巴菲特董事长职位的股东提议】在巴菲特股东大会上，伯克希尔哈撒韦公司副董事长查理-芒格对罢免巴菲特董事长职位的股东提议予以严辞抨击。芒格称：“这是我听过的最荒谬的批评。”]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7428408.d.html</link>
@@ -402,23 +420,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7391281.d.html</link>
             <guid>2653354</guid>
             <pubDate>Sat, 30 Apr 2022 11:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家石油公司发布声明称，应允许该公司立即开始运营Zueitina石油港口，警告称该港口将发生环境灾难。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7389228.d.html</link>
-            <guid>2653351</guid>
-            <pubDate>Sat, 30 Apr 2022 11:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总理米舒斯京签署政府令，增加矿物肥料出口配额50.1万吨。]]></title>
-            <guid>2653350</guid>
-            <pubDate>Sat, 30 Apr 2022 11:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乌农业专家预计乌克兰玉米作物及蔬菜将大幅减产】据乌克兰媒体报道，乌克兰农业专家预计，乌克兰玉米作物的产量将减少近三分之一。相关专业人士表示，许多农民计划减少玉米种植面积，转而种植向日葵、大豆、荞麦和其他谷物，这主要是由于与其他作物相比，玉米每公顷需要更多投资。此外乌克兰的蔬菜产量预计也将大幅降低，乌克兰南部西红柿、洋葱、茄子、辣椒、豌豆、甜瓜的种植面积都将大幅减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4943403.d.html</link>
-            <guid>2653349</guid>
-            <pubDate>Sat, 30 Apr 2022 10:53:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
