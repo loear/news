@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Apr 2022 16:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 17:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“如果两位离开，会不会影响公司运作”，巴菲特正面回应】巴菲特指出，伯克希尔的公司的文化，首先是这是一家辛勤工作的公司，第二公司永远会在乎股东（的利益）。公司文化占一家公司运作99.9%，伯克希尔没有什么不同。伯克希尔的目标是在下一个一百年继续存在。伯克希尔和股东建立更好的、不易动摇的关系，也希望股东能和公司同步。伯克希尔会把公司交到自己相信的人手上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7423012.d.html</link>
+            <guid>2653659</guid>
+            <pubDate>Sat, 30 Apr 2022 17:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特：公司文化对经营伯克希尔很重要】巴菲特说，他们有一个已经运作了一段时间的公司文化。他强调，他们将有一个理解公司文化对经营伯克希尔很重要的董事会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7421809.d.html</link>
+            <guid>2653658</guid>
+            <pubDate>Sat, 30 Apr 2022 16:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴菲特：高通胀下最好的投资就是投资自己】在被问及“超级通胀下你应该买哪只股票”的问题时，巴菲特在股东会上回应称，这种时候更重要的是你个人具备的能力，别人交易的是你的能力，最好的投资就是开发你自己。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7421001.d.html</link>
@@ -413,18 +425,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4940713.d.html</link>
             <guid>2653342</guid>
             <pubDate>Sat, 30 Apr 2022 10:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国资委：扎实推动国资央企高质量稳增长】4月29日下午，国资委党委召开扩大会议，认真传达学习近日习近平总书记主持召开的中央政治局会议、中央财经委员会第十一次会议精神，结合国资央企实际研究贯彻落实措施。国资委党委书记、主任郝鹏主持会议并讲话强调，要认真学习贯彻习近平总书记重要讲话精神，坚决贯彻落实党中央重大决策部署，心怀“国之大者”，坚持稳字当头、稳中求进，统筹发展和安全，坚定信心、攻坚克难，持续深化改革，坚持创新引领，扎实推进高质量发展，为做好稳增长、稳就业、稳物价工作，保持经济运行在合理区间，维护社会大局稳定作贡献，以实际行动迎接党的二十大胜利召开。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4940215.d.html</link>
-            <guid>2653341</guid>
-            <pubDate>Sat, 30 Apr 2022 10:26:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乌官员称乌南部敖德萨防空部队获得新防空系统】乌克兰媒体当地时间4月30日报道称，乌克兰敖德萨州军事管理局发言人布拉楚克当天表示，敖德萨州的防空部队已接收新的防空系统，不过他并没有透露进一步细节。此前，乌克兰军方曾表示已从伙伴国获得S-300防空导弹系统，增强了乌南部地区的防空能力。布拉楚克还表示，敖德萨将从当地时间5月1日22时至5月3日5时间实施宵禁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7385259.d.html</link>
-            <guid>2653340</guid>
-            <pubDate>Sat, 30 Apr 2022 10:26:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
