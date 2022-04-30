@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 30 Apr 2022 20:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 21:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伯克希尔股东投票反对CEO/董事长角色分拆议案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwiwst4995616.d.html</link>
+            <guid>2653795</guid>
+            <pubDate>Sat, 30 Apr 2022 21:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 伯克希尔·哈撒韦公司股东大会股东问答环节结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7439199.d.html</link>
+            <guid>2653781</guid>
+            <pubDate>Sat, 30 Apr 2022 20:36:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【巴菲特：伯克希尔就像一幅无限大的画，我可以画我想画的东西】在巴菲特眼中，伯克希尔哈撒韦公司拥有无限的无限性，他把这家公司比作一件艺术品。“我把伯克希尔看作一幅画，”巴菲特说。“它的大小是无限的，它有一个不断扩大的画布，我可以画我想画的东西。”]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7436795.d.html</link>
@@ -402,18 +414,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4951626.d.html</link>
             <guid>2653367</guid>
             <pubDate>Sat, 30 Apr 2022 12:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：完全切断我们与埃及和以色列的关系并不符合土耳其的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7394886.d.html</link>
-            <guid>2653361</guid>
-            <pubDate>Sat, 30 Apr 2022 11:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法国媒体报道，法国总统马克龙在与乌克兰总统泽连斯基通话时承诺加强对乌克兰的军事和人道主义援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4949009.d.html</link>
-            <guid>2653360</guid>
-            <pubDate>Sat, 30 Apr 2022 11:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
