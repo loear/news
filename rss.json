@@ -6,6 +6,104 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2653377,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4955485.d.html",
+            "title": "伯克希尔哈撒韦：截至3月31日提交给SEC文件显示，公司持有价值259亿美元的雪佛龙股票。",
+            "date_modified": "2022-04-30T12:38:11.000Z"
+        },
+        {
+            "id": 2653376,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7400873.d.html",
+            "title": "伯克希尔哈撒韦：截至3月31日提交给SEC文件显示，公司持有价值1591亿美元的苹果股票。",
+            "date_modified": "2022-04-30T12:38:06.000Z"
+        },
+        {
+            "id": 2653375,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7400859.d.html",
+            "title": "伯克希尔哈撒韦：截至3月31日提交给SEC文件显示，公司持有价值284亿美元的美国运通股票。",
+            "date_modified": "2022-04-30T12:38:01.000Z"
+        },
+        {
+            "id": 2653374,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7400530.d.html",
+            "title": "伯克希尔哈撒韦：截至3月31日提交给SEC文件显示，公司持有价值4260亿美元的美国银行股票。",
+            "date_modified": "2022-04-30T12:35:24.000Z"
+        },
+        {
+            "id": 2653373,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7400443.d.html",
+            "title": "伯克希尔哈撒韦：截至2022年3月31日，公司总投资的公允价值约66%集中在美国运通、苹果、美国银行和雪佛龙。",
+            "date_modified": "2022-04-30T12:34:46.000Z"
+        },
+        {
+            "id": 2653371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4953075.d.html",
+            "title": "【知情人士：欧盟提议年底前逐步弃用俄罗斯石油】消息称，欧盟已提议年底前对俄罗斯实施石油禁令，并在此之前逐步实施进口限制。同时，欧盟还将把更多俄罗斯和白俄罗斯银行排除在SWIFT支付系统之外，其中包括俄罗斯联邦储蓄银行。欧盟最早可能与下周的欧盟大使会议上作出表决。",
+            "date_modified": "2022-04-30T12:17:53.000Z"
+        },
+        {
+            "id": 2653370,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7397359.d.html",
+            "title": "伯克希尔哈撒韦：第一季度现金储备降至1063亿美元。",
+            "date_modified": "2022-04-30T12:08:49.000Z"
+        },
+        {
+            "id": 2653368,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7397158.d.html",
+            "title": "伯克希尔哈撒韦：第一季度投资和衍生品净亏损15.8亿美元，去年同比为净盈利46.9亿美元。",
+            "date_modified": "2022-04-30T12:07:15.000Z"
+        },
+        {
+            "id": 2653367,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4951626.d.html",
+            "title": "  伯克希尔哈撒韦第一季度斥资32亿美元用于回购公司A类股和B类股。",
+            "date_modified": "2022-04-30T12:05:40.000Z"
+        },
+        {
+            "id": 2653361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7394886.d.html",
+            "title": "土耳其总统埃尔多安：完全切断我们与埃及和以色列的关系并不符合土耳其的利益。",
+            "date_modified": "2022-04-30T11:48:13.000Z"
+        },
+        {
+            "id": 2653360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4949009.d.html",
+            "title": "据法国媒体报道，法国总统马克龙在与乌克兰总统泽连斯基通话时承诺加强对乌克兰的军事和人道主义援助。",
+            "date_modified": "2022-04-30T11:42:54.000Z"
+        },
+        {
+            "id": 2653359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4948130.d.html",
+            "title": "印度跨国矿业公司瓦达塔正谈判举债至多30亿美元。",
+            "date_modified": "2022-04-30T11:35:08.000Z"
+        },
+        {
+            "id": 2653357,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4947202.d.html",
+            "title": "【湖南长沙居民自建房倒塌事故造成23人被困 39人失联】湖南长沙居民自建房倒塌事故现场调度处置指挥部举行新闻发布会，介绍救援和人员被困等情况。据悉，事故发生后造成23人被困，目前已救出5人。此外还有39人失联，相关救援和应急处置工作正在进行。",
+            "date_modified": "2022-04-30T11:26:53.000Z"
+        },
+        {
+            "id": 2653355,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4946701.d.html",
+            "title": "  习近平对湖南长沙居民自建房倒塌事故作出重要指示，要求不惜代价搜救被困人员，全力救治受伤人员，对全国自建房安全开展专项整治，坚决防范各类重大事故发生。",
+            "date_modified": "2022-04-30T11:21:36.000Z"
+        },
+        {
             "id": 2653354,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7391281.d.html",
@@ -329,124 +427,6 @@
             "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4913473.d.html",
             "title": "市场消息：乌克兰飞机对俄罗斯布良斯克地区的炮击击中部分石油终端和邻接领土。",
             "date_modified": "2022-04-30T07:02:58.000Z"
-        },
-        {
-            "id": 2653274,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7358672.d.html",
-            "title": "日外相访问哈萨克斯坦呼吁对俄采取一致行动。",
-            "date_modified": "2022-04-30T07:01:23.000Z"
-        },
-        {
-            "id": 2653272,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7358255.d.html",
-            "title": "俄罗斯天然气工业股份公司表示，继续通过乌克兰向欧洲输送天然气，星期六的输送量为7170万立方米。",
-            "date_modified": "2022-04-30T06:59:46.000Z"
-        },
-        {
-            "id": 2653271,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4911846.d.html",
-            "title": "印度气象局(IMD)：据报道，印度东部4月份的降雨量高于正常水平。",
-            "date_modified": "2022-04-30T06:53:38.000Z"
-        },
-        {
-            "id": 2653270,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7357300.d.html",
-            "title": "据媒体报道，俄罗斯空军部队阻止乌克兰飞机进入布良斯克地区、对当地的一个定居点进行炮击。",
-            "date_modified": "2022-04-30T06:53:11.000Z"
-        },
-        {
-            "id": 2653269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7357067.d.html",
-            "title": "印度气象局(IMD)：印度西北部4月份季前降雨量减少83.8%。",
-            "date_modified": "2022-04-30T06:51:43.000Z"
-        },
-        {
-            "id": 2653268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4911559.d.html",
-            "title": "印度气象局(IMD)：印度季前降雨表现出区域差异。",
-            "date_modified": "2022-04-30T06:51:36.000Z"
-        },
-        {
-            "id": 2653267,
-            "content_html": "",
-            "title": "印度气象局(IMD)：印度4月平均气温比往常高出1摄氏度；为122年以来的第四高。",
-            "date_modified": "2022-04-30T06:51:30.000Z"
-        },
-        {
-            "id": 2653266,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7356945.d.html",
-            "title": "【中国汽车流通协会：4月中国汽车经销商库存预警指数为66.4%】中国汽车流通协会发布的最新一期“中国汽车经销商库存预警指数调查”显示，2022年4月中国汽车经销商库存预警指数为66.4%，同比上升10个百分点，环比上升2.8个百分点，库存预警指数位于荣枯线之上，汽车流通行业处于不景气区间。",
-            "date_modified": "2022-04-30T06:51:06.000Z"
-        },
-        {
-            "id": 2653263,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4908588.d.html",
-            "title": "【年报收官A股上市公司净利同比增两成 化工、钢铁等行业表现亮眼】4月29日晚，A股2021年年报披露收官。数据显示，截至发稿，A股共有4789家上市公司披露年报（含用年报IPO企业）。合计实现营业收入66.14万亿元，相比上年同期的55.4万亿元，增长了19.39%；合计实现归属于上市公司股东的净利润5.07万亿元，相比上年同期的4.24万亿元，增长19.58%。已披露年报的上市公司，整体保持了较高的业绩增长韧性。从行业角度看，化工、钢铁、煤炭、有色等周期类上市公司表现较为亮眼。此外，受行业高景气周期影响，半导体、芯片、新能源车产业链、医疗医药类、光伏上市公司也晒出了不俗的年报业绩。（中国证券报）",
-            "date_modified": "2022-04-30T06:26:13.000Z"
-        },
-        {
-            "id": 2653262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7353829.d.html",
-            "title": "委内瑞拉总统马杜罗说，他计划在近期访问土耳其，以会晤土耳其总统埃尔多安。",
-            "date_modified": "2022-04-30T06:23:29.000Z"
-        },
-        {
-            "id": 2653261,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7353702.d.html",
-            "title": "【波兰部分城镇已无天然气可用 取暖及热水系统无法运转】从27日开始，俄罗斯已停止向十几个波兰城镇供应天然气。在波兰中部的扎古鲁夫，居民楼、幼儿园、图书馆及市政府办公楼等都已无天然气可用，民众正常生活受到很大影响。（环球网）",
-            "date_modified": "2022-04-30T06:22:00.000Z"
-        },
-        {
-            "id": 2653258,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4905771.d.html",
-            "title": "乌克兰农业部副部长表示，乌克兰被俄罗斯占领的领土上有150万吨粮食。",
-            "date_modified": "2022-04-30T05:59:23.000Z"
-        },
-        {
-            "id": 2653257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4905765.d.html",
-            "title": "乌克兰农业部副部长表示，俄罗斯从被占领土偷走了数十万吨乌克兰粮食。",
-            "date_modified": "2022-04-30T05:59:16.000Z"
-        },
-        {
-            "id": 2653256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4904457.d.html",
-            "title": "英国军事情报机构：俄罗斯希望通过缩短补给线和简化指挥控制来纠正面临的问题。",
-            "date_modified": "2022-04-30T05:46:14.000Z"
-        },
-        {
-            "id": 2653255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwiwst4904167.d.html",
-            "title": "英国军事情报机构：俄罗斯希望通过在地理上集中作战力量来纠正此前限制其军事行动的问题。",
-            "date_modified": "2022-04-30T05:43:09.000Z"
-        },
-        {
-            "id": 2653254,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7349504.d.html",
-            "title": "英国军事情报机构：俄罗斯被迫合并并重新部署了在乌克兰东北部进攻失败后分散的部队。",
-            "date_modified": "2022-04-30T05:42:30.000Z"
-        },
-        {
-            "id": 2653253,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-04-30/detail-imcwipii7349442.d.html",
-            "title": "英国军事情报机构：缺乏单位级别的技能、不连贯的空中支援使得俄罗斯无法充分利用其战斗群。",
-            "date_modified": "2022-04-30T05:41:45.000Z"
         }
     ]
 }
