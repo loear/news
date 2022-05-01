@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 01 May 2022 16:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【气候变化可能增加病毒跨物种传播风险】英国《自然》杂志最新发表的一项研究显示，气候变化可能会增加病毒在哺乳动物间的跨物种传播风险，甚至有可能导致出现下一次传染病大流行。这项由美国乔治敦大学等机构学者完成的研究说，至少有1万种病毒具有感染人类的能力，但其中绝大多数目前仍在野生哺乳动物中默默传播。由于全球气候变化，一些野生动物会迁移到较凉爽的栖息地，与其他物种首次相遇，进而导致大量的病毒跨物种传播，在某些情况下有的病毒可能传播给人类。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-02/detail-imcwiwst5131038.d.html</link>
+            <guid>2654311</guid>
+            <pubDate>Sun, 01 May 2022 17:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国转变立场？欧盟或年底前禁止进口俄石油】欧洲联盟官员说，欧盟将在能源领域拓展对俄罗斯的制裁，倾向于在今年年底前禁止进口俄罗斯石油。据西方媒体报道，欧盟作出上述打算部分缘于德国转变立场，但仍有多国反对欧盟对俄石油禁运。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-02/detail-imcwiwst5130545.d.html</link>
+            <guid>2654310</guid>
+            <pubDate>Sun, 01 May 2022 17:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸西部发生5.4级地震】当地时间5月1日21时45分，据缅甸水文地震局消息，缅甸西部钦邦境内发生5.4级地震，震中位于哈卡地震台东北方向约64公里，明钦镇区西南方约29公里（东经94.24度，北纬22.76度），震源深度112公里。目前暂无人员伤亡消息。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-02/detail-imcwiwst5128367.d.html</link>
+            <guid>2654308</guid>
+            <pubDate>Sun, 01 May 2022 16:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【4月份国家铁路货物发送量创单月历史新高】1日从中国国家铁路集团有限公司获悉，4月份，国家铁路累计发送货物3.3亿吨，同比增加3018万吨，增长10.1%，单月货物发送量、日均装车数等多项指标均创历史新高，呈现强劲增长态势。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-02/detail-imcwiwst5127296.d.html</link>
@@ -375,18 +393,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7529109.d.html</link>
             <guid>2653986</guid>
             <pubDate>Sun, 01 May 2022 09:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典总理：反对在瑞典土壤上出现核武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7528268.d.html</link>
-            <guid>2653983</guid>
-            <pubDate>Sun, 01 May 2022 09:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典总理：北约成员国的身份将有助于维护波罗的海地区的安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-01/detail-imcwipii7528238.d.html</link>
-            <guid>2653982</guid>
-            <pubDate>Sun, 01 May 2022 09:06:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
