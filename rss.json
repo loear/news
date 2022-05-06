@@ -6,6 +6,69 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2660156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8438607.d.html",
+            "title": "  【消息人士：拜登将在未来几天宣布对乌克兰的另一项援助计划】当地时间5月6日，据美国有线电视新闻网报道，两位消息人士称，美国总统拜登将在未来几天宣布另一项对乌克兰的安全援助计划，预计援助总额将超过1亿美元。",
+            "date_modified": "2022-05-06T20:19:07.000Z"
+        },
+        {
+            "id": 2660127,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8437037.d.html",
+            "title": "  据监测网络状况的网站DownDetector：用户报告Facebook出现问题。",
+            "date_modified": "2022-05-06T20:00:44.000Z"
+        },
+        {
+            "id": 2660115,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5990384.d.html",
+            "title": "  【智利年化通胀率达10.5% 为近28年以来最高值】智利国家统计局于当地时间5月6日公布的最新数据显示，该国4月份的消费者物价指数上涨1.4%，超出市场预期。截至2022年4月底，智利过去12个月累计通货膨胀率达到10.5%，这是智利年化通货膨胀率近28年以来的最高值。",
+            "date_modified": "2022-05-06T19:49:50.000Z"
+        },
+        {
+            "id": 2660112,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8435739.d.html",
+            "title": "  DZ Bank：将Stellantis(STLA.N)评级从持有上调至买入。",
+            "date_modified": "2022-05-06T19:45:15.000Z"
+        },
+        {
+            "id": 2660109,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8435691.d.html",
+            "title": "【联合国秘书长古特雷斯就乌克兰局势发表声明】当地时间5月6日，联合国秘书长古特雷斯就乌克兰局势发表声明称：“今天，安理会第一次以同一个声音为乌克兰的和平发声。正如我经常说的那样，世界必须团结起来，平息枪声，维护《联合国宪章》的价值观，并将继续不遗余力地拯救生命，减少痛苦，寻找和平的道路”。联合国安理会当天通过涉乌克兰局势声明，称对维护乌克兰的和平与安全深表关切，对联合国秘书长寻求和平解决方案的努力表示强烈支持。该声明由挪威和墨西哥起草，以协商一致的方式通过。这是2月24日俄乌冲突爆发以来，联合国安理会通过的第一份涉乌声明。",
+            "date_modified": "2022-05-06T19:44:40.000Z"
+        },
+        {
+            "id": 2660100,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8435136.d.html",
+            "title": "摩根大通：将巴西CPI预期从8％上调至9.1％。",
+            "date_modified": "2022-05-06T19:37:59.000Z"
+        },
+        {
+            "id": 2660090,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8434342.d.html",
+            "title": "【瑞穗：将Shopify(SHOP.N)目标价下调至400美元，维持中性评级】瑞穗分析师Siti Panigrahi将Shopify(SHOP.N)目标价从800美元大幅下调至400美元，并维持对该股的中性评级。Panigrahi在一份研究报告中告诉投资者，该公司第一季度的业绩令人失望，由于宏观环境及通货膨胀的阻力，加上电子商务行业增长普遍减速，该公司的业绩全面下滑。",
+            "date_modified": "2022-05-06T19:28:44.000Z"
+        },
+        {
+            "id": 2660088,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5988296.d.html",
+            "title": "美国总统拜登：美国需要在国内制造更多东西。",
+            "date_modified": "2022-05-06T19:24:43.000Z"
+        },
+        {
+            "id": 2660087,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5988261.d.html",
+            "title": "美国总统拜登：加强供应链将有助于对抗通胀。",
+            "date_modified": "2022-05-06T19:24:15.000Z"
+        },
+        {
             "id": 2660076,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8432924.d.html",
@@ -262,139 +325,6 @@
             "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5975277.d.html",
             "title": "  【美国证券交易委员会认为英伟达对加密采矿业务“披露不足”，英伟达股价一度跌4.5%】SEC认为，英伟达在2018财年连续几个季度中，没有披露加密采矿是其为游戏设计和销售的图形处理单元GPU销售收入增长的重要因素，其遗漏的有关其游戏业务增长的重要信息对投资者而言具有误导性，将影响其对英伟达未来业绩进行判断。SEC称英伟达已经同意接受停终条令，并支付550万美元罚款，但并未承认或否认SEC调查结果。",
             "date_modified": "2022-05-06T16:58:41.000Z"
-        },
-        {
-            "id": 2659962,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5975056.d.html",
-            "title": "  【巴西矿业巨头淡水河谷：已与特斯拉达成长期镍供应协议】当地时间周五（5月6日），巴西矿业巨头淡水河谷表示，该公司已与电动车巨头特斯拉签署了一项长期协议，将向后者供应来自加拿大的镍。",
-            "date_modified": "2022-05-06T16:55:37.000Z"
-        },
-        {
-            "id": 2659961,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5974944.d.html",
-            "title": "俄罗斯国防部表示，他们向乌克兰波帕斯纳亚(Popasna)附近的武器库和乌克兰军队部署的31个地区开火。",
-            "date_modified": "2022-05-06T16:54:10.000Z"
-        },
-        {
-            "id": 2659960,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5974925.d.html",
-            "title": "  美国白宫称，我们没有向乌克兰提供俄罗斯船只“莫斯科”号的具体信息，有关报道“不准确”。",
-            "date_modified": "2022-05-06T16:53:56.000Z"
-        },
-        {
-            "id": 2659959,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8419296.d.html",
-            "title": "  美国白宫经济顾问Heather Boushey：美国多数行业录得就业增长。",
-            "date_modified": "2022-05-06T16:37:53.000Z"
-        },
-        {
-            "id": 2659956,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5972889.d.html",
-            "title": "  【泽连斯基：目前与俄罗斯进行沟通的所有外交渠道都中断了】乌克兰总统泽连斯基当地时间6日以视频方式在英国皇家国际事务研究所组织的会议上发表了讲话。泽连斯基表示，目前与俄罗斯进行沟通的所有外交渠道都中断了，但如果和平谈判成功的话，俄罗斯首先需要退回到2月24日前的控制区。泽连斯基再次强调，如果俄罗斯消灭了亚速钢铁厂内的乌克兰守军或平民的话，那么乌方将不再与俄方进行任何谈判。另外，泽连斯基呼吁欧盟在能源领域方面的对俄制裁上付诸实际行动。",
-            "date_modified": "2022-05-06T16:30:21.000Z"
-        },
-        {
-            "id": 2659955,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5972866.d.html",
-            "title": "  俄罗斯外交部：俄罗斯将继续以“严厉和果断的方式”应对所有制裁。",
-            "date_modified": "2022-05-06T16:30:06.000Z"
-        },
-        {
-            "id": 2659953,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5972780.d.html",
-            "title": "媒体消息：俄罗斯外交部召见英国大使。",
-            "date_modified": "2022-05-06T16:28:41.000Z"
-        },
-        {
-            "id": 2659952,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8418389.d.html",
-            "title": "  美股油气股逆市上涨，赫斯(HES.N)、康菲石油(COP.N)涨近4%，西方石油(OXY.N)、道达尔(TTE.N)涨约2%，马拉松石油(MRO.N)涨1.66%，雪佛龙(CVX.N)涨1.33%。",
-            "date_modified": "2022-05-06T16:27:57.000Z"
-        },
-        {
-            "id": 2659949,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8417815.d.html",
-            "title": "据俄新社：另一辆载着13名平民的巴士离开了被围困的马里乌波尔亚速钢铁厂。",
-            "date_modified": "2022-05-06T16:19:13.000Z"
-        },
-        {
-            "id": 2659948,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5971863.d.html",
-            "title": "  【玩具制造商Funko获财团出资收购】据外媒报道，由迪士尼(DIS.N)前首席执行官Bob Iger、体育经纪人Rich Paul、eBay(EBAY.O)和Chernin Group组成的财团将收购玩具制造商Funko25%的股份，这笔投资价值2.63亿美元，合每股21美元。据悉，Chernin将在Funko董事会增加两名董事，Chernin集团首席执行官Peter Chernin和Iger将担任董事会顾问。截至发稿，Funko涨超21%，最高触及20.39美元。",
-            "date_modified": "2022-05-06T16:15:44.000Z"
-        },
-        {
-            "id": 2659947,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8417368.d.html",
-            "title": "  【联合国秘书长将于5月8日访问摩尔多瓦】当地时间5月6日，联合国秘书长古特雷斯通过发言人宣布，他将在5月8日访问摩尔多瓦，在基希讷乌与摩尔多瓦总统及总理会面。",
-            "date_modified": "2022-05-06T16:12:30.000Z"
-        },
-        {
-            "id": 2659946,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8417257.d.html",
-            "title": "俄罗斯经济部：截至4月29日，俄罗斯通胀年率为17.73％。",
-            "date_modified": "2022-05-06T16:11:06.000Z"
-        },
-        {
-            "id": 2659944,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5971420.d.html",
-            "title": "联合国秘书长古特雷斯将会见奥地利总统，其他官员将于周三开始访问维也纳。",
-            "date_modified": "2022-05-06T16:09:59.000Z"
-        },
-        {
-            "id": 2659943,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8417048.d.html",
-            "title": "乌克兰4月外汇储备为269.45亿美元。",
-            "date_modified": "2022-05-06T16:08:07.000Z"
-        },
-        {
-            "id": 2659939,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwiwst5971010.d.html",
-            "title": "印度信实工业有限公司：通过采购套利原油来尽量减少原料成本。",
-            "date_modified": "2022-05-06T16:04:52.000Z"
-        },
-        {
-            "id": 2659938,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8416609.d.html",
-            "title": "芬兰总理桑娜∙马林表示，芬兰加入北约的问题将在本月决定。",
-            "date_modified": "2022-05-06T16:03:21.000Z"
-        },
-        {
-            "id": 2659935,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-07/detail-imcwipii8416482.d.html",
-            "title": "截至4月29日当周，俄罗斯消费者价格周环比涨0.21%，今年累计上涨11.56%。",
-            "date_modified": "2022-05-06T16:01:22.000Z"
-        },
-        {
-            "id": 2659934,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-06/detail-imcwipii8416335.d.html",
-            "title": "【俄国家杜马主席发文称“欧洲团结正在瓦解”：欧盟国家若想维护主权，那就退出欧盟】据俄罗斯卫星通讯社消息，俄国家杜马（议会下院）主席维亚切斯拉夫•沃洛金6日在其即时通信软件Telegram频道上发文称，欧洲团结正在瓦解，欧盟国家如果想维护主权，它们就需要退出欧盟。 沃洛金写道：“欧洲的团结正在瓦解。欧洲议会呼吁对欧盟进行深度改革，（其）通过的决定包括废除联合通过重要决策的原则。换句话说，就是提议取消欧盟成员国的否决权，现在将不再考虑个别国家及其公民的意见。” 沃洛金继续写道：“实施反俄制裁的情况已表明，欧盟国家在这个问题上并不团结。因此，（欧盟）不得不寻找通过决策的其他形式，而放弃多年来一直存在的原则。数以百万计的欧洲民众将被剥夺投票权。他们的国家最终将失去主权。” “如果由于未考虑他们（民众）的意见而做出的决定导致出现物价上涨、失业和经济问题，那么，谁将对具体国家的公民负责？” 沃洛金最后写道，“如果今天欧盟成员国想维护主权并捍卫自己公民的利益，他们就只有一条路——离开欧盟。”",
-            "date_modified": "2022-05-06T15:59:30.000Z"
-        },
-        {
-            "id": 2659932,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-05-06/detail-imcwiwst5970469.d.html",
-            "title": "【古巴首都哈瓦那一酒店发生剧烈爆炸建筑损坏严重】当地时间5月6日，位于古巴首都哈瓦那老城区国会大厦对面的萨拉托加酒店发生剧烈爆炸，一层至三层楼体建筑损坏严重。目前尚未报告是否存在伤亡人员，爆炸原因正在调查中。",
-            "date_modified": "2022-05-06T15:55:41.000Z"
         }
     ]
 }
