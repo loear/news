@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 08 May 2022 16:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 17:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【智利制宪议会未通过矿权国有化 扩大环境权利条款获得通过】智利制宪议会周六通过了扩大环境权利的条款，但没有批准一项提议，即授予智利国家对于锂、碳氢化合物和稀土金属的独家采矿权、以及对于该国铜矿的多数所有权。智利是世界上最大的铜生产国，这篇条款遭到该国采矿业的强烈反对。它需要103票的绝对多数才能被纳入宪法草案，但只有66票。另一篇规定采矿法规将考虑环境保护和采矿资源的有限、不可再生性质的文章已获得批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwipii8763655.d.html</link>
+            <guid>2662212</guid>
+            <pubDate>Sun, 08 May 2022 17:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【七国集团领导人与乌克兰总统泽连斯基举行电话会议】七国集团（G7）领导人与乌克兰总统泽连斯基举行了电话会议。会议结束后，美国白宫发布了G7领导人联合声明。G7承诺逐步取消对俄罗斯能源的依赖，包括逐步取消或禁止进口俄罗斯石油，并采取措施禁止或以其他方式阻止向俄罗斯提供其依赖的关键服务。乌克兰也致力于与G7成员密切合作，以维护乌克兰的宏观经济稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwipii8760950.d.html</link>
+            <guid>2662211</guid>
+            <pubDate>Sun, 08 May 2022 16:54:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【乌军收到美国M777榴弹炮】乌克兰最高拉达（议会）官方账号发布信息称，美国M777榴弹炮和澳大利亚“大毒蛇”（Bushmaster）装甲车已经移交给乌克兰军队。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwiwst6311887.d.html</link>
@@ -333,12 +345,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-08/detail-imcwipii8713584.d.html</link>
             <guid>2661867</guid>
             <pubDate>Sun, 08 May 2022 08:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京朝阳：生活或居住在朝阳区人员，全部严格落实居家办公。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-08/detail-imcwiwst6266769.d.html</link>
-            <guid>2661865</guid>
-            <pubDate>Sun, 08 May 2022 08:44:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
