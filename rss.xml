@@ -4,298 +4,217 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 10 May 2022 12:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 13:53:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  【德国外长：计划向乌克兰提供现代化的坦克和榴弹炮】正在乌克兰访问的德国外长贝尔伯克当地时间10日表示，德国计划向乌克兰提供现代化的坦克和榴弹炮，并将着手培训乌克兰军队。贝尔伯克还表示，德国打算完全摒弃俄罗斯的能源供应，“要永久性地把对俄罗斯能源的依赖程度降为零”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6688170.d.html</link>
+            <guid>2664995</guid>
+            <pubDate>Tue, 10 May 2022 13:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国首相约翰逊将出访瑞典和芬兰】英国首相府发言人当地时间5月10日宣布，英国首相约翰逊将于11日出访瑞典和芬兰。发言人称，此次约翰逊的访问将聚焦俄乌冲突以及“欧洲更广泛的安全”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6688119.d.html</link>
+            <guid>2664992</guid>
+            <pubDate>Tue, 10 May 2022 13:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家情报局局长海恩斯：有迹象表明，俄罗斯希望将影响力延伸到德涅斯特河沿岸。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6687946.d.html</link>
+            <guid>2664991</guid>
+            <pubDate>Tue, 10 May 2022 13:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家情报局局长海恩斯：乌克兰未来几个月可能会出现“更不可预测且可能升级的轨迹”。]]></title>
+            <guid>2664989</guid>
+            <pubDate>Tue, 10 May 2022 13:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家情报局局长海恩斯：普京只有在认为俄罗斯面临生存威胁的情况下才会授权使用核武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9133342.d.html</link>
+            <guid>2664986</guid>
+            <pubDate>Tue, 10 May 2022 13:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家情报局局长海恩斯：美国情报界评估普京正在为乌克兰的长期冲突做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6687462.d.html</link>
+            <guid>2664981</guid>
+            <pubDate>Tue, 10 May 2022 13:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家情报局局长海恩斯：俄罗斯在乌克兰顿巴斯取得胜利可能不会结束战争。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6687428.d.html</link>
+            <guid>2664980</guid>
+            <pubDate>Tue, 10 May 2022 13:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外长表示，德国计划向乌克兰提供现代坦克和榴弹炮，并同时开始培训乌克兰军人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9132894.d.html</link>
+            <guid>2664977</guid>
+            <pubDate>Tue, 10 May 2022 13:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯外长拉夫罗夫称，欧盟委员会副主席兼“外长”博雷利提议将俄罗斯的冻结资产转移到乌克兰是“盗窃”行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9132877.d.html</link>
+            <guid>2664976</guid>
+            <pubDate>Tue, 10 May 2022 13:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【长江委启动水旱灾害防御Ⅳ级应急响应】5月10日8-19时，长江流域共5站超警戒水位，超警站点主要分布在洞庭湖水系的湘江、鄱阳湖水系的赣江等支流，超警幅度0.18-0.85米。据气象水文预报，11-12日，鄱阳湖水系东南部仍有大雨、局地暴雨；13-15日，长江流域自西北向东南还将有一次中到大雨的降雨过程；洞庭湖、鄱阳湖水系、长江中下游干流及嘉陵江、乌江将有明显涨水过程，其中湘江上游干流将发生超警洪水，预计超警幅度1米左右，鄱阳湖水系部分支流可能发生超警洪水。鉴于当前形势，按照《长江流域水旱灾害防御预案(试行)》有关规定，长江委决定5月10日20时启动水旱灾害防御Ⅳ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9132363.d.html</link>
+            <guid>2664963</guid>
+            <pubDate>Tue, 10 May 2022 13:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥4月名义工资同比增长5.4％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6686521.d.html</link>
+            <guid>2664961</guid>
+            <pubDate>Tue, 10 May 2022 13:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰官员表示，俄罗斯已经用掉了大约一半的导弹，但仍有能力和一定的零部件供应来补充部分已经耗尽的武器库存。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9132102.d.html</link>
+            <guid>2664958</guid>
+            <pubDate>Tue, 10 May 2022 13:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外长表示，对俄罗斯的制裁即使对德国造成影响也不能解除。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9131758.d.html</link>
+            <guid>2664957</guid>
+            <pubDate>Tue, 10 May 2022 13:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电(TSM.N)涨3.24%，4月销售额同比增55%至1725.6亿新台币再创单月新高，传台积电从明年1月起涨价6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9131610.d.html</link>
+            <guid>2664954</guid>
+            <pubDate>Tue, 10 May 2022 13:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外长表示，不会背着乌克兰解除对俄罗斯的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9131513.d.html</link>
+            <guid>2664953</guid>
+            <pubDate>Tue, 10 May 2022 13:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中银证券：增设首席科学家岗位 由葛浩出任】中银证券公告，董事会同意在高级管理人员中增设公司首席科学家岗位，并对现任部分高级管理人员的职务及分工进行调整。同意聘任葛浩担任公司首席科学家，赵向雷由公司风险总监改任公司业务总监，刘国强兼任公司董事会秘书，其他高级管理人员职务不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6685510.d.html</link>
+            <guid>2664949</guid>
+            <pubDate>Tue, 10 May 2022 13:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯表示，如果不是所有国家都受邀参加美洲峰会，他将不会亲自出席，而是由一名代表出席峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9131052.d.html</link>
+            <guid>2664945</guid>
+            <pubDate>Tue, 10 May 2022 13:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯卫生部表示，世卫组织可能导致关闭俄罗斯地区办事处的决议“纯粹是政治性的”。]]></title>
+            <guid>2664940</guid>
+            <pubDate>Tue, 10 May 2022 13:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宝能总部“人去楼空”？山东行业协会警示“谨慎购买宝能观致汽车”】山东省汽车流通协会表示，经协会多方了解，宝能集团旗下宝能汽车目前出现严重经营问题，到目前无人回应，为此，协会将宝能观致汽车品牌列入消费黑名单，并警示消费者谨慎购买观致品牌汽车。 (第一财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9130580.d.html</link>
+            <guid>2664930</guid>
+            <pubDate>Tue, 10 May 2022 13:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度外交部：印度支持斯里兰卡经济复苏，在持续动荡中保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6684516.d.html</link>
+            <guid>2664929</guid>
+            <pubDate>Tue, 10 May 2022 13:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  传奇对冲基金经理大卫·泰珀（David Tepper）了结看空纳指的仓位，或认为纳指已见底。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9129249.d.html</link>
+            <guid>2664915</guid>
+            <pubDate>Tue, 10 May 2022 13:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【工信部副部长徐晓兰：有序推进专精特新“白名单”企业复工复产】在2022年全国中小企业服务月工作推进会上，国务院促进中小企业发展工作领导小组办公室主任、工业和信息化部副部长徐晓兰表示，为了帮助企业有序复工复产，要围绕长三角地区汽车、集成电路、医疗物资、生活重要物资等领域，建立重点产业链供应链专精特新企业“白名单”，加强部门协同、强化部省联动，及时协调解决企业物流运输中的问题诉求，积极稳妥有序推进专精特新“白名单”企业复工复产，保障产业链供应链畅通稳定。徐晓兰表示，截至5月5日，调度专精特新中小企业187家，复工率97%，人员返岗率69%，产能利用率达74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9129176.d.html</link>
+            <guid>2664913</guid>
+            <pubDate>Tue, 10 May 2022 13:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西南地区最大智算中心上线】记者获悉，“东数西算”国家一体化大数据中心成渝枢纽节点的样板工程、西南地区最大的人工智能计算中心——成都智算中心正式上线。据了解，成都智算中心的算力利用率预计将大于90%，同时将结合国家新一代人工智能创新发展试验区、国家人工智能创新应用先导区在成都的落地，以及“东数西算”国家战略举措，在智慧城市、交通、医疗、遥感、金融等领域打造全国人工智能产业应用标杆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9128797.d.html</link>
+            <guid>2664912</guid>
+            <pubDate>Tue, 10 May 2022 13:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阳光乳业中签号出炉：共12.73万个】阳光乳业披露网上中签结果，中签号码共127260个，每个中签号码能认购500股阳光乳业A股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9128558.d.html</link>
+            <guid>2664911</guid>
+            <pubDate>Tue, 10 May 2022 13:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利和德国10年期国债收益率收窄至不足200个基点，日内减少10个基点至195.8个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6682507.d.html</link>
+            <guid>2664910</guid>
+            <pubDate>Tue, 10 May 2022 13:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊发言人：英国首相约翰逊将于周三前往瑞典和芬兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9127912.d.html</link>
+            <guid>2664908</guid>
+            <pubDate>Tue, 10 May 2022 13:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【理想汽车CEO李想：理想未来产品策略类似iPhone 各细分市场均有一款“爆品”】理想汽车创始人、CEO李想在理想2022年一季报电话会议上表示，未来理想汽车产品组合策略类似于iPhone，以针对不同的消费需求。李想称，理想汽车产品将向下覆盖20元-30万元市场区间，且每10万元区间推出一款爆款产品，其中，增程式以SUV为主，轿车则以纯电为主。此外，理想汽车旗下第二款车型L9计划于今年三季度交付。]]></title>
+            <guid>2664907</guid>
+            <pubDate>Tue, 10 May 2022 13:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【温氏股份：2022年公司肉猪销售目标为1800万头左右】温氏股份披露业绩网上说明会公告，公司根据未来肉猪销售计划安排投苗和生产，保证合理的肉猪存栏量，2022年公司肉猪销售目标为1800万头左右。公司肉猪养殖成本已连续多月持续下降，趋势明显。若剔除存货跌价准备影响，公司3月份养猪综合成本低于9元/斤。公司2022年全年的养猪综合成本目标为8-8.5元/斤。公司将努力做好生产经营管理，促进大生产稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6681962.d.html</link>
+            <guid>2664906</guid>
+            <pubDate>Tue, 10 May 2022 13:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期和30年期国债收益率触及日低，分别报2.953%和3.101%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6681821.d.html</link>
+            <guid>2664905</guid>
+            <pubDate>Tue, 10 May 2022 13:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10年期国债收益率继续下跌，日内下跌10个基点，报0.992%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6681767.d.html</link>
+            <guid>2664904</guid>
+            <pubDate>Tue, 10 May 2022 13:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：白宫将建立网络办公室】据美国有线电视新闻网5月10日的报道，多名知情人士称，拜登政府计划建立一个白宫网络办公室以加强网络安全政策和战略，并且将聘请微软公司高管和前中央情报局官员参与工作。据报道，这个网络办公室旨在确保美国联邦政府应对重大黑客攻击的方式保持连贯性，还将密切关注美国各机构在面对来自其他国家和犯罪集团的一系列威胁时如何管理其网络防御。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9127325.d.html</link>
+            <guid>2664901</guid>
+            <pubDate>Tue, 10 May 2022 12:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利国债扩大涨幅，10年期国债收益率下跌20个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9127080.d.html</link>
+            <guid>2664900</guid>
+            <pubDate>Tue, 10 May 2022 12:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交银理财将换帅，交银人寿张宏良拟任董事长】交银人寿董事长张宏良拟任交银理财董事长，目前相关任命已在流程当中。知情人士透露，目前交银理财处于分散办公状态，这一任命也未在公司内宣布。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9126959.d.html</link>
+            <guid>2664899</guid>
+            <pubDate>Tue, 10 May 2022 12:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  受暴雨天气影响，5月10日20:00至12日24:00广州全市中小学停课。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6680814.d.html</link>
+            <guid>2664897</guid>
+            <pubDate>Tue, 10 May 2022 12:53:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【德国外长：德国驻乌克兰基辅的大使馆正在恢复工作】德国外交部长贝尔伯克当地时间10日表示，德国驻乌克兰基辅的大使馆正在恢复工作。目前，在岗外交人员数量是最低限度。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6680630.d.html</link>
             <guid>2664895</guid>
             <pubDate>Tue, 10 May 2022 12:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数涨幅达1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6680436.d.html</link>
-            <guid>2664894</guid>
-            <pubDate>Tue, 10 May 2022 12:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5年期盈亏平衡通胀率跌破3％，为2月23日以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6680350.d.html</link>
-            <guid>2664892</guid>
-            <pubDate>Tue, 10 May 2022 12:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想汽车李想：将来纯电动车型会采取一种全新形态】理想汽车CEO李想在财报会上表示，接下来产品规划是两种不同的动力采取不同的形态，增程最好的形态就是SUV，但纯电做大尺寸SUV效率不高，理想会采取一种全新的形态，专门为纯电动而设计。这两种形态之间不会产生竞争，而是共同去打20万-50万的市场。在每10万的价格区间都会放一款重量级产品，同时包括纯电动和增程。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6680253.d.html</link>
-            <guid>2664891</guid>
-            <pubDate>Tue, 10 May 2022 12:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股涨幅扩大，欧洲斯托克50指数涨1.8%，德国DAX指数涨逾2%，法国CAC40指数涨1.50%，英国富时100指数涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9126011.d.html</link>
-            <guid>2664890</guid>
-            <pubDate>Tue, 10 May 2022 12:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想汽车沈亚楠：现阶段没有必要再次采取调价举措】 理想汽车总裁沈亚楠在财报会上表示：“4月份理想ONE的调价已经考虑到所有可预见的成本上升，我们对成本波动方面有严格的检测措施，现阶段我们认为没有必要再次采取调价举措。”（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9125937.d.html</link>
-            <guid>2664889</guid>
-            <pubDate>Tue, 10 May 2022 12:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西商品房预售资金监管办法：非重点监管资金可由房企提取使用】《山西省商品房预售资金监管办法》经山西省司法厅合法性审核通过。监管资金分为重点监管资金和非重点监管资金。重点监管资金实行专款专用，必须用于有关的工程建设，不得用于支付任何借（贷）款本金和利息、缴纳土地款、罚金、营销费用及房地产开发企业员工工资等费用；在监管账户存续期间商业银行不得擅自扣划；设立子公司的房地产开发企业集团公司不得抽调。非重点监管资金是指超出监管账户内重点监管额度以外的资金。非重点监管资金可由房地产开发企业提取使用，优先用于预售项目工程建设和偿还本项目贷款等。监管部门可以根据房地产开发企业动态考核、信用评价及资产负债情况，适当降低或提高其节点留存重点监管资金额度，但每个节点降低或提高的比例不得超过5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6679733.d.html</link>
-            <guid>2664887</guid>
-            <pubDate>Tue, 10 May 2022 12:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息人士：花旗将全面整顿与欧洲市场“闪崩”相关的交易团队】三名消息人士称，花旗集团正在更换与本月欧洲股市暴跌有关的一个交易团队的领导层。专业求职网站领英公布的一个职位空缺显示，花旗目前正在物色一位新的远期交易主管。花旗此前证实，该公司一名员工数据输入错误，导致欧洲斯托克600指数在约两分钟的交易时间内下跌逾2%。在其交易部门人事变动的消息传出之际，花旗正在对其风控体系进行彻底改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6679232.d.html</link>
-            <guid>2664886</guid>
-            <pubDate>Tue, 10 May 2022 12:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京证监局：收到联想控股报送的整改报告 正对相关整改情况进行核验】近期，有媒体报道，联想控股股份有限公司就北京证监局出具的行政监管措施提交了整改报告。北京证监局5月10日晚间表示，目前已收到联想控股报送的整改报告，正在对相关整改情况进行核验。 (中国证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9124777.d.html</link>
-            <guid>2664884</guid>
-            <pubDate>Tue, 10 May 2022 12:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间5月10日，澳大利亚悉尼西部一处健身房外发生枪击事件，目前已造成一人死亡一人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9124172.d.html</link>
-            <guid>2664880</guid>
-            <pubDate>Tue, 10 May 2022 12:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利国债扩大涨幅，10年期国债收益率跌15个基点至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6677964.d.html</link>
-            <guid>2664878</guid>
-            <pubDate>Tue, 10 May 2022 12:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰4月消费者价格同比增长16.4%，环比增长3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6677930.d.html</link>
-            <guid>2664877</guid>
-            <pubDate>Tue, 10 May 2022 12:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人：尚未就北爱尔兰协议做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6677715.d.html</link>
-            <guid>2664875</guid>
-            <pubDate>Tue, 10 May 2022 12:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人：没有制定紧急预算的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9123442.d.html</link>
-            <guid>2664874</guid>
-            <pubDate>Tue, 10 May 2022 12:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰外长在与德国外长会谈后表示，与柏林的关系正在积极发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9123154.d.html</link>
-            <guid>2664870</guid>
-            <pubDate>Tue, 10 May 2022 12:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长贝尔伯克：乌克兰在某个时候应该成为欧盟的正式成员国，但没有捷径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9123145.d.html</link>
-            <guid>2664869</guid>
-            <pubDate>Tue, 10 May 2022 12:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长贝尔伯克宣布德国驻基辅大使馆重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6677173.d.html</link>
-            <guid>2664866</guid>
-            <pubDate>Tue, 10 May 2022 12:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：不希望通胀呈螺旋式上涨，必须保持经济活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9122907.d.html</link>
-            <guid>2664865</guid>
-            <pubDate>Tue, 10 May 2022 12:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盛弘股份：拟发行可转债募资不超过4.02亿元】盛弘股份公告，拟发行可转债募资不超过4.02亿元，用于苏州盛弘技术有限公司年产5GW储能设备建设项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9122169.d.html</link>
-            <guid>2664857</guid>
-            <pubDate>Tue, 10 May 2022 12:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北省新一代网络与数字化产业技术创新联合体正式启动】由湖北省科技厅组织、烽火通信牵头，联合华中科技大学、武汉大学、中国信息通信研究院、中国电力科学研究院、国网湖北省电力科学研究院、亚信科技（中国）、绿盟科技集团、领航动力信息系统、宝信软件（武汉）、武汉虹信技服等10家企事业单位共同组成的 “湖北省新一代网络与数字化产业技术创新联合体”正式启动。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9121811.d.html</link>
-            <guid>2664855</guid>
-            <pubDate>Tue, 10 May 2022 12:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，花旗集团将重组伦敦交易团队，该团队与5月2日欧洲市场“闪崩”有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6675807.d.html</link>
-            <guid>2664854</guid>
-            <pubDate>Tue, 10 May 2022 12:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【合众思壮：因涉嫌信息披露违法违规被证监会立案】合众思壮公告，公司收到中国证监会下发的《立案告知书》，因公司涉嫌信息披露违法违规被立案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9121402.d.html</link>
-            <guid>2664851</guid>
-            <pubDate>Tue, 10 May 2022 12:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【立华股份：艾伯艾桂拟继续减持不超3.02%的股份】立华股份公告，艾伯艾桂计划自公告之日起3个交易日后的6个月内以大宗交易或集中竞价交易方式减持不超过1219.87万股，占公司总股本的3.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9120930.d.html</link>
-            <guid>2664848</guid>
-            <pubDate>Tue, 10 May 2022 12:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科学家称黑海海豚死亡数量激增或是俄乌冲突引发】研究发现，黑海的海豚死亡数量最近增加，可能是因为黑海北部的20艘俄罗斯海军舰艇及附近的军事活动导致噪音污染加重，鲸目动物被迫逃向土耳其和保加利亚沿岸，在此处遭遇搁浅或被大量渔网围困。自俄乌冲突以来，土耳其黑海沿岸的海豚搁浅数量增加，目前已录得80头海豚死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6674874.d.html</link>
-            <guid>2664847</guid>
-            <pubDate>Tue, 10 May 2022 12:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，美国向叙利亚提供超过8亿美元的新援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9120574.d.html</link>
-            <guid>2664845</guid>
-            <pubDate>Tue, 10 May 2022 12:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东：5月10日20时启动防汛II级响应】5月10日，根据《广东省防汛防旱防风防冻应急预案》和省防总有关规定，广东省三防办、省应急管理厅决定于5月10日20时启动防汛II级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6674125.d.html</link>
-            <guid>2664843</guid>
-            <pubDate>Tue, 10 May 2022 12:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沈阳：二套房贷款最低首付比例由50%调整为40%】沈阳市房产局、中国人民银行沈阳分行营业管理部今日发布调整房贷最低首付比例的通知。通知指出，为支持刚需和改善性住房需求，结合沈阳房地产市场实际，现将居民家庭购买第二套住房贷款最低首付比例由50%调整为40%，具体由银行机构按照市场化、法制化原则与客户平等协商确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6673968.d.html</link>
-            <guid>2664842</guid>
-            <pubDate>Tue, 10 May 2022 12:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西统计局：巴西3月零售销售环比增长1.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6673679.d.html</link>
-            <guid>2664839</guid>
-            <pubDate>Tue, 10 May 2022 12:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大禹节水：水电公司牵头中标8.97亿元隆阳区干热河谷提水增效建设项目】大禹节水公告，公司全资子公司水电公司作为联合体牵头人与上海千年城市规划工程设计股份有限公司组成的联合体为隆阳区干热河谷提水增效建设项目设计、施工总承包第一中标候选人，该项目总投资约8.97亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6673656.d.html</link>
-            <guid>2664838</guid>
-            <pubDate>Tue, 10 May 2022 12:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，德国部长否认有电动汽车补贴的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9118964.d.html</link>
-            <guid>2664834</guid>
-            <pubDate>Tue, 10 May 2022 11:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【强降雨来袭 澳门宣布非高等教育各教育阶段11日全天停课】澳门特区政府教育及青年发展局10日表示，根据地球物理暨气象局的预测，11日澳门及周边地区将出现持续时间长及强度大的降雨甚至暴雨情况，有可能对学生上课安全造成重大影响。经与气象局会商后，非高等教育各教育阶段全日停课，高等院校参照有关规定执行。澳门教青局还提醒学校应确保校舍开放和安排人员照顾已返校的学生，直至情况适宜学生安全回家为止；提前妥善做好各项防御措施，包括预先安装防水闸、检查建筑物和校舍设施，迁移设备和留意电力系统情况，做好预防水浸的准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6673023.d.html</link>
-            <guid>2664833</guid>
-            <pubDate>Tue, 10 May 2022 11:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西省防汛抗旱指挥部启动防汛Ⅳ级应急响应】记者从江西省防汛抗旱指挥部了解到，鉴于当前防汛形势，根据《江西省防汛抗旱应急预案》规定，经请示江西省防指总指挥同意，江西省防指决定自5月10日18时起启动防汛Ⅳ级应急响应。各地各部门要按照职责分工和预案规定，全力做好防汛工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9118878.d.html</link>
-            <guid>2664832</guid>
-            <pubDate>Tue, 10 May 2022 11:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕西省财政厅与华为公司签署深化战略合作框架协议】华为公众号消息，5月10日，陕西省财政厅与华为技术有限公司签署深化战略合作框架协议。此次深化战略合作框架协议的签订，将进一步加强财政业务与信息技术领域的深度合作，不断聚焦财政管理体制改革，探索云计算、大数据与财政业务的深度融合，以陕西财政云预算管理一体化系统为依托，以平台化协同、在线化服务、数字化决策、智能化监管为目标，全力打造陕西财政数字化转型和智慧财政，助推财政治理体系和治理能力现代化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9118758.d.html</link>
-            <guid>2664831</guid>
-            <pubDate>Tue, 10 May 2022 11:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，松下考虑为特斯拉在美国新建电池工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6672781.d.html</link>
-            <guid>2664829</guid>
-            <pubDate>Tue, 10 May 2022 11:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界卫生组织欧洲会议通过决议，考虑暂停在俄罗斯的会议，可能关闭莫斯科办事处。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6672186.d.html</link>
-            <guid>2664825</guid>
-            <pubDate>Tue, 10 May 2022 11:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福建省水文水资源勘测中心发布山洪灾害风险橙色预警】福建省水文水资源勘测中心于今天19时04分发布山洪灾害风险橙色预警 ：根据降雨数值预报，预计未来24小时，以下区域可能出现山洪灾害风险：橙色预警区域有清流县西南部；长汀县大部；连城县大部。黄色预警区域有清流县大部；宁化县南部；永安市西部；长汀县大部；连城县大部。蓝色预警区域有长汀县东南部。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9117377.d.html</link>
-            <guid>2664823</guid>
-            <pubDate>Tue, 10 May 2022 11:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【由于通胀等因素 台积电计划提价】据知情人士，由于通胀忧虑、成本上升及扩张计划，台积电计划在一年内第二次提高价格。报道称，其计划将成熟和先进芯片生产技术的价格提高“个位数百分点”，提价计划将在2023年初前生效。两位知情人士表示，不同工艺技术的价格涨幅将在5%至8%左右。台积电回应称，不就其定价政策发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9116447.d.html</link>
-            <guid>2664808</guid>
-            <pubDate>Tue, 10 May 2022 11:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  友邦保险港股公告，今日耗资约1.63亿港元回购222.22万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6669296.d.html</link>
-            <guid>2664807</guid>
-            <pubDate>Tue, 10 May 2022 11:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒驰汽车：目前尚未开启预售】5月8日，恒大集团旗下的恒驰汽车首轮授权代理商招募截止。然而，多家汽车经销商表示，并未参与恒驰汽车首轮授权代理商招募，且对恒驰品牌持观望态度。对于代理商招募的具体情况，恒大汽车方面未给出回应。另外有网络传闻称，恒大首款纯电SUV恒驰5已于五一期间开启预售，盲订开启10个小时内，恒驰5订单达5万台。不过，恒驰汽车官方客服称，目前尚未开启预售。（红星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9115120.d.html</link>
-            <guid>2664806</guid>
-            <pubDate>Tue, 10 May 2022 11:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  京东健康港股公告，今日以每股38.05-40.55港元的价格回购225万股股份，斥资8827.11万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6669079.d.html</link>
-            <guid>2664805</guid>
-            <pubDate>Tue, 10 May 2022 11:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国难民署表示，乌克兰目前有800万人流离失所。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9114767.d.html</link>
-            <guid>2664803</guid>
-            <pubDate>Tue, 10 May 2022 11:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【龙佰集团：即日起上调公司部分产品销售价格】龙佰集团公告，根据国际形势变化、市场需求情况及原材料价格上涨等因素，经公司价格委员会研究决定，自即日起，在原价基础上调整公司下属子公司部分产品含税销售价格，其中：海绵钛价格上调5000元人民币/吨，四氯化钛价格上调500元人民币/吨，海绵锆价格上调10000元人民币/吨，四氯化锆价格上调1000元人民币/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6668667.d.html</link>
-            <guid>2664802</guid>
-            <pubDate>Tue, 10 May 2022 11:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统办公室：马克龙今天上午与匈牙利总理欧尔班进行了会谈，将继续与其他欧盟成员国就俄罗斯制裁问题进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9114468.d.html</link>
-            <guid>2664801</guid>
-            <pubDate>Tue, 10 May 2022 11:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据斯里兰卡媒体报道，5月10日下午，该国西部省警察部门的一名高级官员在首都科伦坡被一群人袭击，他的车辆也被损毁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6668526.d.html</link>
-            <guid>2664800</guid>
-            <pubDate>Tue, 10 May 2022 11:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【真相！本是填写申购960万股，思特威“乌龙报价”已被监管关注】对于本次新股询价过程中网下机构给出“960元天价”之事，5月10日，记者获悉，该券商机构本来的申购报价是30元，申购股数为960万股。但因操作失误，最终却填写成了报价960元以及申购30万股，恰好写反了。据悉，960元报价已被作为高价剔除，因此，对整体报价的平均数、中位数以及最后定价结果均无影响。据了解相关监管部门已经关注到此事。市场人士也认为，这类乌龙事件在网下投资者中并不多见，而此次失误报价所幸并未造成实际影响，相关券商机构可能会接受监管面谈等处理。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6668402.d.html</link>
-            <guid>2664799</guid>
-            <pubDate>Tue, 10 May 2022 11:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南山控股：参与中国核能科技定向增发事项完成股份认购】南山控股公告，5月10日，公司收到中国核能科技邮件，获悉公司全资子公司雅致国际（香港）有限公司参与中国核能科技定向增发事项已完成认购股份的交割。截至公告日，公司全资子公司雅致国际（香港）有限公司持有中国核能科技5.39亿股股份，占中国核能科技总股本的29.10%，为中国核能科技第一大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9113979.d.html</link>
-            <guid>2664796</guid>
-            <pubDate>Tue, 10 May 2022 11:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆国家移民局局长维尤萨尔∙胡谢因诺夫表示，俄特别行动开始后4200多名乌克兰公民涌入阿塞拜疆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwipii9113805.d.html</link>
-            <guid>2664795</guid>
-            <pubDate>Tue, 10 May 2022 11:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新风光：山东省高新技术创业投资拟询价转让1%的股份】新风光公告，山东省高新技术创业投资有限公司拟询价转让公司股份139.95万股，占公司总股本的比例为1%；此次询价转让价下限为19.5元/股，为5月10日收盘价22.72元/股的85.83%，为发送认购邀请书之日前20个交易日科创公司股票交易均价22.94元/股的85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-10/detail-imcwiwst6667467.d.html</link>
-            <guid>2664794</guid>
-            <pubDate>Tue, 10 May 2022 11:20:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
