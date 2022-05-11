@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 11 May 2022 20:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 21:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[众多监管部门调查马斯克收购推特的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwipii9360454.d.html</link>
+            <guid>2667603</guid>
+            <pubDate>Wed, 11 May 2022 21:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港买入15.86亿港元以捍卫联系汇率制度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwipii9360433.d.html</link>
+            <guid>2667602</guid>
+            <pubDate>Wed, 11 May 2022 21:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼CEO：《玩具总动员》的特许销售收入超10亿美元；约一半的Disney+订阅用户为未生育小孩的成年用户。]]></title>
+            <guid>2667597</guid>
+            <pubDate>Wed, 11 May 2022 20:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外资看好A股中长期投资价值，三大行业年内北向资金净流入超百亿元】 5月11日，沪深两市成交额突破万亿元。当日，北向资金净流入22.28亿元。据统计，截至5月10日，今年北向资金净流入金额超百亿元的行业是银行、材料和资本货物，净流入金额分别为214.57亿元、150.76亿元和117.97亿元。接受记者采访的外资认为，宏观政策、低估值和资本市场系列改革举措三大因素支撑A股近日走出独立行情。对于A股未来走势，外资普遍认为目前A股估值较低，下行风险相对有限，对A股中长期保持乐观。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwiwst6913261.d.html</link>
+            <guid>2667596</guid>
+            <pubDate>Wed, 11 May 2022 20:46:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rivian第一季度营收9500万美元，分析师预期1.312亿美元。第一季度调整后每股亏损1.43美元，分析师预期1.45美元。第一季度每股亏损1.77美元。Rivian美股盘后跌超5%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwiwst6910157.d.html</link>
@@ -16,7 +39,7 @@
             <pubDate>Wed, 11 May 2022 20:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[迪士尼第二季度Disney+订阅用户1377万，分析师预期1344万。]]></title>
+            <title><![CDATA[【迪士尼：第二财季流媒体订阅用户增长高于预期】迪士尼第二财季营收同比增长23.3%至192.5亿美元，市场预期200.25亿美元。流媒体服务总订阅用户增加到1.377亿，高于1.35亿的市场预测。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwipii9354187.d.html</link>
             <guid>2667590</guid>
             <pubDate>Wed, 11 May 2022 20:07:37 GMT</pubDate>
@@ -61,12 +84,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwipii9348846.d.html</link>
             <guid>2667577</guid>
             <pubDate>Wed, 11 May 2022 19:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Coindesk：欧盟委员会考虑限制稳定币发行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-12/detail-imcwiwst6903782.d.html</link>
-            <guid>2667576</guid>
-            <pubDate>Wed, 11 May 2022 18:55:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【乌克兰考虑用俘虏换取亚速钢铁厂守军】乌克兰副总理韦列修克11日表示，目前不可能通过军事手段为亚速钢铁厂守军解围，乌方正在考虑通过人道主义走廊从亚速钢铁厂撤离重伤员或者通过交换俘虏的方式撤离亚速钢铁厂守军。与俄方的相关谈判正在进行。]]></title>
@@ -279,24 +296,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-11/detail-imcwipii9330646.d.html</link>
             <guid>2667502</guid>
             <pubDate>Wed, 11 May 2022 15:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利Tocopilla北侧42公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-11/detail-imcwipii9330463.d.html</link>
-            <guid>2667500</guid>
-            <pubDate>Wed, 11 May 2022 15:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 斯里兰卡总统：斯里兰卡正陷入历史性危机。金融危机造成了一场政治危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-11/detail-imcwipii9330162.d.html</link>
-            <guid>2667497</guid>
-            <pubDate>Wed, 11 May 2022 15:36:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国秘书长呼吁停止俄乌冲突，将为和平谈判做好准备】 联合国秘书长古特雷斯11日在维也纳会见奥地利总统范德贝伦后表示，俄乌冲突必须停止。他表示，这场冲突不会永远持续下去，和平谈判的时刻将再次到来，联合国将为此做好准备。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-11/detail-imcwiwst6885259.d.html</link>
-            <guid>2667495</guid>
-            <pubDate>Wed, 11 May 2022 15:34:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
