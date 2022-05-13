@@ -4,21 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 13 May 2022 20:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 21:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  【国产半导体设备中标率罕见超过60%，龙头公司保持增长】电子行业结构性分化加剧背景下，全球半导体行业销售一季度罕见出现下滑，而半导体设备板块成为少数“压舱石”类标的：A股行业上市公司当前在手订单充沛，并且国产半导体设备中标率持续攀升，4月份中标率罕见已经超过60%。另外，市场表现来看，日前半导体板块反弹，设备类上市公司涨幅靠前。半导体先进设备作为国产芯片产业的短板，日前被曝将面临来自美国的出口限制升级。据美国媒体《The Information》报道，美国商务部正在权衡是否加大对中国芯片制造厂打击力度，可能进一步限制先进制程设备销售给中国客户，并可能将制裁范围从中芯国际扩大至华虹、长存、长鑫等其他头部内资晶圆厂。业内人士表示，相关措施能否落地还有待观察。毕竟中国是国际半导体设备厂商的关键市场，据统计，应用材料、科磊和泛林集团来自中国市场收入占比达到30%左右。即便传闻落地，当前内资晶圆厂的扩产计划以28nm及以上成熟制程为主，实际产生的影响有限。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7310691.d.html</link>
+            <guid>2671009</guid>
+            <pubDate>Fri, 13 May 2022 21:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中概股预摘牌企业破百家，回港上市面临考验】中美博弈升级背景下，列入“预摘牌名单”的中概股持续增加，最新纳入11家在美上市中企，据统计，预摘牌中概股总数已经超过百家。港股分析师表示，短期内来看，纳入预摘牌的中概股还将持续扩容，预计后续将覆盖所有在美中概股；考虑监管风险，中概股还是需要做好充分准备，目前回港上市的通道保持通畅，但具体节奏将会受市场行情等影响以及估值重估等考验。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9755682.d.html</link>
+            <guid>2671007</guid>
+            <pubDate>Fri, 13 May 2022 21:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登与约旦国王就缓解地区紧张局势进行交流】白宫表示，美国总统拜登当天与约旦国王阿卜杜拉二世就建立“紧急机制”以缓解以色列与约旦河西岸之间的紧张局势进行了交流。白宫表示，双方领导人就该地区近期发生的一系列事件，如何遏制暴力，缓解紧张局势交换了意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9753512.d.html</link>
+            <guid>2671005</guid>
+            <pubDate>Fri, 13 May 2022 20:36:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[推特：由于马斯克正在执行的收购协议，从5月16日起或未来将不会有新的ESPP员工购股计划。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7306318.d.html</link>
             <guid>2671004</guid>
             <pubDate>Fri, 13 May 2022 20:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲疾控中心已经将奥密克戎变异株亚型BA.4和BA.5从“需要关注的变异株（VOI）”升级为“高关注变异株”（VOC），为首个这样做的公共卫生当局。]]></title>
-            <guid>2671001</guid>
-            <pubDate>Fri, 13 May 2022 20:07:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【美国防部发言人：如对乌支援法案19日未获通过 美对乌援助将受影响】美国国防部发言人约翰·柯比在当天的简报会上表示，国会须在5月19日之前通过为乌克兰准备的价值400亿美元的补充援助法案，否则将开始影响美国“向乌克兰不间断提供军事援助的能力”。柯比称，如果到5月19日还未能获得额外的授权，美国将没有能力向乌克兰发送新的物资。]]></title>
@@ -300,30 +313,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9722998.d.html</link>
             <guid>2670909</guid>
             <pubDate>Fri, 13 May 2022 14:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统将线上参加世界经济论坛2022年年会】世界经济论坛当地时间13日宣布，乌克兰总统泽连斯基将以线上方式参加5月22日至26日举行的世界经济论坛2022年年会，即达沃斯论坛。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7277565.d.html</link>
-            <guid>2670908</guid>
-            <pubDate>Fri, 13 May 2022 14:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大型科技股走高，奈飞涨5%，亚马逊涨近4%，Meta Platforms涨3.2%，谷歌A涨2.8%，苹果涨2.4%，微软涨2.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9722306.d.html</link>
-            <guid>2670906</guid>
-            <pubDate>Fri, 13 May 2022 14:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非主要股指涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9722178.d.html</link>
-            <guid>2670905</guid>
-            <pubDate>Fri, 13 May 2022 14:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[    绿谷医药科技提前终止一种阿尔兹海默病新药的国际多中心3期临床研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7276770.d.html</link>
-            <guid>2670904</guid>
-            <pubDate>Fri, 13 May 2022 14:36:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
