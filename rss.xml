@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 22 May 2022 13:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 14:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国欧洲事务部长：乌“入欧”在“15年内”都无法敲定】法新社消息称，法国欧洲事务部长克莱芒·博纳5月22日公开表示，乌克兰加入欧盟的申请在“15年或20年内”都无法敲定。报道说，这一表态给期望迅速加入欧盟的乌克兰总统泽连斯基“泼了一盆冷水”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizirau4200592.d.html</link>
+            <guid>2680376</guid>
+            <pubDate>Sun, 22 May 2022 14:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰最高拉达投票通过法律 退出独联体成员国纪念卫国战争相关协议】乌克兰最高拉达（议会）22日投票通过法律，退出《关于永久纪念独联体成员国人民在伟大卫国战争中的勇气和英雄主义的协议》。该协议由独联体成员国于2011年签署，协议规定对卫国战争中的阵亡军人进行纪念，对军人墓地和军事纪念碑进行维护和保养，继续开展阵亡军人信息的搜寻工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizmscu2797579.d.html</link>
+            <guid>2680371</guid>
+            <pubDate>Sun, 22 May 2022 13:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基周日宣布与波兰总统杜达达成了一项协议，以简化两国之间的边界过境。 (CGTN)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizirau4196995.d.html</link>
+            <guid>2680370</guid>
+            <pubDate>Sun, 22 May 2022 13:40:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北京石景山：5月23日至5月28日，全区实行居家办公；确需到岗的，到岗率降低至30%；到岗人员要持48小时内核酸检测阴性证明，实行家庭单位“点对点”闭环管理，居家办公期间少出门、不出门，最大程度减少人员流动。]]></title>
             <guid>2680367</guid>
@@ -340,29 +358,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizmscu2754792.d.html</link>
             <guid>2680186</guid>
             <pubDate>Sun, 22 May 2022 07:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：预计未来几个月有更多国家加入印度-太平洋经济框架（IPEF）。]]></title>
-            <guid>2680183</guid>
-            <pubDate>Sun, 22 May 2022 07:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣湘生物：乙型肝炎病毒核酸检测试剂盒等三款产品获得欧盟CE List A认证】圣湘生物公告，公司的产品乙型肝炎病毒核酸检测试剂盒（PCR-荧光法）、丙型肝炎病毒核酸检测试剂盒（PCR-荧光法）和人类免疫缺陷病毒1型核酸测定试剂盒(PCR-荧光探针法)于近日获得欧盟CE认证（IVDD List A类）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizirau4154510.d.html</link>
-            <guid>2680182</guid>
-            <pubDate>Sun, 22 May 2022 07:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斐济群岛以南海域发生6.3级地震 震源深度600公里】中国地震台网正式测定：05月22日15时06分，在斐济群岛以南海域（南纬26.2度，东经178.55度）发生6.3级地震，震源深度600公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizirau4154110.d.html</link>
-            <guid>2680181</guid>
-            <pubDate>Sun, 22 May 2022 07:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度气象局报告，未来3-4天内印度没有出现热浪的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-22/detail-imizmscu2754007.d.html</link>
-            <guid>2680179</guid>
-            <pubDate>Sun, 22 May 2022 07:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
