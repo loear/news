@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 03 Jun 2022 20:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 21:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：Keurig Dr Pepper，Vici Property and OnOn将加入标准普尔500指数。]]></title>
+            <guid>2694419</guid>
+            <pubDate>Fri, 03 Jun 2022 21:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[森淼科技收涨将近10.9%，逸仙电商涨超7.9%，趣头条涨4.4%，瑞幸咖啡涨超4.0%，腾讯粉单市场、携程、网易、百度、老虎证券至少跌超1.7%，京东跌超2.5%，360数科跌超2.9%，讯鸟软件跌超2.9%，B站、拼多多、达达集团、富途证券至少跌超3.3%，蔚来汽车、腾讯音乐、阿里巴巴、新东方、悦刻电子烟、小鹏汽车、叮咚买菜至少跌约4.1%，金山云跌5.8%。网易有道跌超8.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5000347.d.html</link>
+            <guid>2694414</guid>
+            <pubDate>Fri, 03 Jun 2022 20:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪表示，仍然认为马里的政治局势风险很大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4999546.d.html</link>
+            <guid>2694413</guid>
+            <pubDate>Fri, 03 Jun 2022 20:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[费城半导体指数周五收跌逾3.0%，芯片股美光科技跌7.2%，Wolfspeed跌5.0%，英伟达跌超4.4%，MKSI和迈威尔科技也跌超4.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4998778.d.html</link>
+            <guid>2694410</guid>
+            <pubDate>Fri, 03 Jun 2022 20:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英媒：俄罗斯正赢得西方发动的经济战】俄乌冲突以来，美国及其盟友对俄罗斯实施了史无前例的能源和经济制裁。英国《卫报》刊发评论称，俄罗斯正赢得这场西方发动的经济战。西方的一系列制裁，不仅没有压垮俄罗斯经济，反而推高了能源价格，拉高了西方国家的通胀，让卢布汇率越发坚挺。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4998753.d.html</link>
+            <guid>2694409</guid>
+            <pubDate>Fri, 03 Jun 2022 20:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月全国重点监测港口集装箱吞吐量同比增长4.2%】从交通运输部获悉：5月，全国重点监测港口完成集装箱吞吐量2308万标箱，同比增长4.2%，日均环比增长4.4%，完成货物吞吐量10.3亿吨，日均环比增长3.2%，水运业生产稳中向好。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6452626.d.html</link>
+            <guid>2694408</guid>
+            <pubDate>Fri, 03 Jun 2022 20:32:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国：退休制度改革将在2023年夏天实施】6月3日，法国总统马克龙表示，其第二任期的第一项改革，法国退休制度改革将在2023年夏天实施。在这之前，法国将成立新的国家重组改革委员会，研究新的实施方案。法国退休制度改革是马克龙第一个任期遗留下来的老问题。当时，马克龙政府宣布，希望将退休年龄推迟到65岁，引起了社会的不满。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6451665.d.html</link>
@@ -228,60 +263,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6438954.d.html</link>
             <guid>2694321</guid>
             <pubDate>Fri, 03 Jun 2022 17:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：我们的估计显示，乌克兰可以出口500万吨小麦和700万吨玉米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6438767.d.html</link>
-            <guid>2694319</guid>
-            <pubDate>Fri, 03 Jun 2022 17:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：我们的“伙伴”犯了很多错误，现在正在寻找替罪羊。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6438624.d.html</link>
-            <guid>2694318</guid>
-            <pubDate>Fri, 03 Jun 2022 17:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：化肥价格上涨与俄罗斯在乌克兰的军事行动无关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6438510.d.html</link>
-            <guid>2694317</guid>
-            <pubDate>Fri, 03 Jun 2022 17:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：与此同时，他们轻视了油气能源的重要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4984555.d.html</link>
-            <guid>2694314</guid>
-            <pubDate>Fri, 03 Jun 2022 17:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：欧洲夸大了替代能源的重要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4984497.d.html</link>
-            <guid>2694313</guid>
-            <pubDate>Fri, 03 Jun 2022 17:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：全球粮食市场的不利局面与欧洲在能源方面的短视政策有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4984483.d.html</link>
-            <guid>2694312</guid>
-            <pubDate>Fri, 03 Jun 2022 17:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：波音供应链扰乱了737 Max的生产和交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4984378.d.html</link>
-            <guid>2694311</guid>
-            <pubDate>Fri, 03 Jun 2022 17:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：我们看到有人试图将全球粮食市场的问题归咎于俄罗斯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4984351.d.html</link>
-            <guid>2694310</guid>
-            <pubDate>Fri, 03 Jun 2022 17:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：波音公司将737 Max客机的生产推迟10天。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6438041.d.html</link>
-            <guid>2694309</guid>
-            <pubDate>Fri, 03 Jun 2022 17:02:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
