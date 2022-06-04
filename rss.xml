@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 04 Jun 2022 16:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京丰台延长提级防控措施时间】2022年5月31日6时—6月5日6时，丰台区全域实行居家办公。期间，因社会面出现新增病例，经市、区疾控部门研判，动态调整防控措施，延长解除时间至6月9日早6时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-05/detail-imizirau6576560.d.html</link>
+            <guid>2694820</guid>
+            <pubDate>Sat, 04 Jun 2022 16:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秦刚大使会见莱斯大学校长李达伟 促进中美教育交流合作至关重要】6月2日，中国驻美国大使秦刚访问美国得州休斯敦市的莱斯大学，该校校长李达伟（David Leebron）热烈欢迎秦大使到访。秦大使高度赞扬李达伟校长长期致力于促进中美教育交流合作，并表示大学交流与教育合作是联结两国人民特别是年轻人的重要纽带。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-05/detail-imizmscu5118020.d.html</link>
+            <guid>2694819</guid>
+            <pubDate>Sat, 04 Jun 2022 16:38:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国际宇航联专家：未来外国航天员乘组造访中国空间站是大概率事件】随着中国空间站逐渐建成，也将逐步开启与外国的合作。近日，国际宇航联空间运输委员会副主席杨宇光表示，目前中国空间站与国外多数为联合试验项目，由国外进行研制，设备运到中国，由天舟货运飞船发射入轨，再由中国的航天员在轨对它们进行安装调试操作试验。最后试验的成果可以利用天链卫星进行数据下传，或者是由神舟飞船返回时带回。不过，杨宇光也认为，未来外国航天员乘组造访也是大概率事件。]]></title>
             <guid>2694818</guid>
@@ -459,18 +471,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5085401.d.html</link>
             <guid>2694631</guid>
             <pubDate>Sat, 04 Jun 2022 09:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞鹄模具：公司有十多个客户数十款车型进入本轮汽车下乡名单】瑞鹄模具在互动平台表示，根据初步了解，公司有十多个客户数十款车型进入本轮汽车下乡名单。公司子公司芜湖瑞鹄汽车轻量化技术有限公司的轻量化零部件产品涉及一体化压铸技术，部分产品已取得客户定点，目前正在产品开发和生产准备中，预计2023年投产，具体根据客户车型开发进度决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5085255.d.html</link>
-            <guid>2694629</guid>
-            <pubDate>Sat, 04 Jun 2022 09:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南秋粮已播种3400余万亩 进度快于去年】据云南省农业农村厅消息，今年以来，云南省压实粮食生产责任制，将粮食生产任务分解到村、落实到地块。截至目前，全省秋粮已播种3410.03万亩，同比增加179.31万亩，进度超过71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5084873.d.html</link>
-            <guid>2694627</guid>
-            <pubDate>Sat, 04 Jun 2022 09:17:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
