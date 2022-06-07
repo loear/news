@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 07 Jun 2022 16:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿联酋新增5例猴痘病例】阿联酋卫生和预防部表示，在筛查中新发现5例猴痘病例，该国累计确诊猴痘病例13例。同时，2名此前确诊的猴痘患者已完全康复。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-08/detail-imizmscu5635111.d.html</link>
+            <guid>2697774</guid>
+            <pubDate>Tue, 07 Jun 2022 17:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特本季度目标增长1300万名用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-08/detail-imizirau7105924.d.html</link>
+            <guid>2697768</guid>
+            <pubDate>Tue, 07 Jun 2022 17:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特负责人在内部会议中告诉员工，将用户活动转化为广告收入对“我们和我们的同行”来说越来越具有挑战性。]]></title>
+            <guid>2697767</guid>
+            <pubDate>Tue, 07 Jun 2022 16:55:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通：如果汽油零售价格按照预测突破6美元/加仑，8月份美国汽油需求将达到平均900万桶/日，足以平衡市场。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-08/detail-imizirau7103964.d.html</link>
@@ -301,24 +318,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7095136.d.html</link>
             <guid>2697675</guid>
             <pubDate>Tue, 07 Jun 2022 14:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部教育考试院回应高考数学题疑被泄露：已报公安机关立案】高考第一天结束，有网友在网上爆料称，疑似全国乙卷的数学题遭他人拍照上传至QQ群寻求解答。对此，教育部教育考试院回应称，已经接到相关举报，并报公安机关立案。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7094705.d.html</link>
-            <guid>2697673</guid>
-            <pubDate>Tue, 07 Jun 2022 14:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员沃伦：芯片法案应包括股票回购禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5622571.d.html</link>
-            <guid>2697672</guid>
-            <pubDate>Tue, 07 Jun 2022 14:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统博索纳罗称政府可能会采取更多措施降低燃油价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5621973.d.html</link>
-            <guid>2697666</guid>
-            <pubDate>Tue, 07 Jun 2022 14:40:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
