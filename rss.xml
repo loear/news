@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 12 Jun 2022 18:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 19:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【一架埃及客机因技术故障在沙特吉达迫降 暂无人员受伤报告】当地时间12日晚，一架埃及客机在沙特阿拉伯西部城市吉达紧急迫降。埃及开罗航空公司在一份声明中表示，隶属于该公司的一架空客A320飞机在执行从埃及南部城市索哈杰至科威特的SM405航班时发生技术故障，随后在沙特吉达机场紧急迫降。声明称，该公司已采取一切必要措施保障乘客安全，目前没有人员伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizirau8067769.d.html</link>
+            <guid>2702804</guid>
+            <pubDate>Sun, 12 Jun 2022 19:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内63家上市公司并购计划搁浅 专家：过度并购现象需警惕】据数据统计，以最新公告日为基准，截至6月12日，年内A股共有63家上市公司终止并购计划，同比减少28%。其中，48家为并购方终止并购计划，其余则为被并购方。受访专家表示，并购重组通常被视为利好消息，但实施期间公司内外部环境的变化具有不确定性，并购失败并不一定意味着利空，市场需理性看待。与此同时，市场也要警惕过度并购现象，对偏离主业的并购需格外引起关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizmscu6479539.d.html</link>
+            <guid>2702803</guid>
+            <pubDate>Sun, 12 Jun 2022 18:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内监管已对券商及从业人员开逾百张罚单 场外期权、境外业务成新关注点】据证监会网站不完全梳理，截至6月12日，今年以来证监会和地方证监局对券商和行业从业人员开出的罚单已过百张。从处罚缘由来看，主要涉及券商投行业务、资管业务、经纪业务等。值得关注的是，券商信息技术问题、场外期权、境外业务等成为今年监管的关注重点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizmscu6478313.d.html</link>
+            <guid>2702802</guid>
+            <pubDate>Sun, 12 Jun 2022 18:43:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【法国议会选举首轮投票结束 出口民调结果显示左翼联盟和马克龙政党联盟支持率接近】当地时间12日20时，法国议会选举首轮投票结束。出口民调显示，现任总统马克龙政党联盟和其主要对手左翼联盟支持率非常接近。法国国家电视台的民调显示，两个政党联盟分别获得了25.2%的支持率。而费加罗报进行的民调显示，左翼联盟的支持率为25.7%，略高于马克龙政党联盟的25%的支持率。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizirau8063248.d.html</link>
@@ -442,24 +460,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-12/detail-imizmscu6440131.d.html</link>
             <guid>2702704</guid>
             <pubDate>Sun, 12 Jun 2022 10:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTO总干事恩戈齐·奥孔乔：希望贸易部长们在本周的主要会议上有政治意愿在谈判上走到最后一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-12/detail-imizirau8016553.d.html</link>
-            <guid>2702703</guid>
-            <pubDate>Sun, 12 Jun 2022 10:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国影院营业数连续2日破万】据猫眼专业版微博消息，全国影院营业数连续2日破万，截至6月12日18时，6月11日营业影院10070家，较昨日增加32家，营业率83.19%，大盘票房1.6亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-12/detail-imizirau8016342.d.html</link>
-            <guid>2702700</guid>
-            <pubDate>Sun, 12 Jun 2022 10:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部和中国气象局6月12日18时联合发布橙色山洪灾害气象预警】水利部和中国气象局预计，6月12日20时至6月13日20时，福建西部、江西东南部、湖南南部、广东北部、广西东北部等地部分地区发生山洪灾害可能性较大（黄色预警），其中，湖南南部、广西东北部局地发生山洪灾害可能性大（橙色预警）。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-12/detail-imizmscu6439941.d.html</link>
-            <guid>2702699</guid>
-            <pubDate>Sun, 12 Jun 2022 10:32:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
