@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 13 Jun 2022 18:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 19:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：英国没有理由退出与欧盟签订的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6655335.d.html</link>
+            <guid>2704367</guid>
+            <pubDate>Mon, 13 Jun 2022 18:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5年期国债收益率一度上涨20个基点至3.459％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6654907.d.html</link>
+            <guid>2704366</guid>
+            <pubDate>Mon, 13 Jun 2022 18:42:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【西藏阿里地区改则县发生3.5级地震】中国地震台网正式测定：06月14日01时53分在西藏阿里地区改则县（北纬34.98度，东经84.78度）发生3.5级地震，震源深度10千米。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8266473.d.html</link>
@@ -302,30 +314,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizirau8249118.d.html</link>
             <guid>2704272</guid>
             <pubDate>Mon, 13 Jun 2022 15:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：特斯拉经历了“非常艰难的季度”，要求员工加倍努力】马斯克在一份内部备忘录中警告称，供应链问题让特斯拉经历了一个“非常艰难的季度”。他恳请工人帮助让这家电动汽车制造商重回正轨。马斯克表示，得州奥斯汀工厂在增加产量，上周柏林工厂生产了近1,000辆汽车，而其位于加州弗里蒙特的工厂单日产量创下历史记录。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizirau8248030.d.html</link>
-            <guid>2704268</guid>
-            <pubDate>Mon, 13 Jun 2022 15:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西江梧州水文站将出现21.3米洪峰水位 或超警戒2.8米】广西梧州水文中心消息，桂江京南水文站将于6月14日12时前后出现26.3米左右的洪峰水位（警戒水位24.0米），超警戒2.3米，相应流量7500立方米每秒。浔江藤县水文站将于6月14日15时前后出现24.0米左右的洪峰水位（警戒水位23.0米），超警戒1.0米。龙圩水文站将于6月14日16时前后出现22.0米左右的洪峰水位（警戒水位19.0米），超警戒3.0米。西江梧州水文站将于6月14日16时前后出现21.3米左右的洪峰水位（警戒水位18.5米），超警戒2.8米，相应流量36500立方米每秒。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizmscu6638229.d.html</link>
-            <guid>2704267</guid>
-            <pubDate>Mon, 13 Jun 2022 15:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国卫生安全局表示，英国近3天新增100余例猴痘病毒感染确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizmscu6638107.d.html</link>
-            <guid>2704265</guid>
-            <pubDate>Mon, 13 Jun 2022 15:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东省水文局发布洪水蓝色预警】水利部水文情报预报中心网站消息，广东省水文局2022年6月13日22时发布洪水蓝色预警：受上游来水和强降雨影响，西江、北江流域出现明显涨水，预计西江下游高要站14日晚上将出现37000立方米/秒洪峰流量、接近五年一遇，北江下游石角站14日中午流量将涨达12000立方米/秒、接近五年一遇。广东省水文局发布西江和北江下游洪水蓝色预警。请沿河各相关单位和社会公众及时做好防御及避险减灾工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-13/detail-imizmscu6637422.d.html</link>
-            <guid>2704261</guid>
-            <pubDate>Mon, 13 Jun 2022 15:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
