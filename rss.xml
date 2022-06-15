@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 15 Jun 2022 16:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 17:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国防部长奥斯汀：美国和盟国关注的是乌克兰领导人认为在这场冲突中的当前需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizmscu7024709.d.html</link>
+            <guid>2707030</guid>
+            <pubDate>Wed, 15 Jun 2022 17:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：美国对乌克兰的新援助计划包括两套额外的“鱼叉”海岸防御系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizirau8692980.d.html</link>
+            <guid>2707028</guid>
+            <pubDate>Wed, 15 Jun 2022 17:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间6月15日，索马里总统哈桑·谢赫·马哈茂德任命哈姆扎·阿卜迪·巴雷为该国新任总理，他将负责组建下一届政府。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizirau8692798.d.html</link>
+            <guid>2707026</guid>
+            <pubDate>Wed, 15 Jun 2022 17:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【土耳其外长：瑞典、芬兰就加入北约提交的文件远未达到土耳其期望】土耳其外长恰武什奥卢当地时间6月15日表示，瑞典和芬兰提交的申请加入北约的文件远未达到土耳其的期望。恰武什奥卢称，两国应采取具体措施，解决土耳其对他们成为北约成员的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizmscu7023920.d.html</link>
+            <guid>2707024</guid>
+            <pubDate>Wed, 15 Jun 2022 17:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：国防联络小组会议“非常富有成效”，部长们讨论了进一步支持乌克兰的方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizirau8692049.d.html</link>
+            <guid>2707022</guid>
+            <pubDate>Wed, 15 Jun 2022 17:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫基建协调员Landrieu：拜登希望在基础设施建设上加快步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizmscu7022653.d.html</link>
+            <guid>2707018</guid>
+            <pubDate>Wed, 15 Jun 2022 16:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  “顿涅茨克人民共和国”领导人：“顿涅茨克人民共和国”可以加入俄罗斯成为独立联邦，但保留共和国的名义。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizirau8690227.d.html</link>
+            <guid>2707010</guid>
+            <pubDate>Wed, 15 Jun 2022 16:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乌方因白俄石油公司“直接资助俄军事行动”扣押其资产】据乌克兰国家安全局当地时间15日消息，乌克兰方面扣押了白俄罗斯石油公司乌克兰公司（ВeiOil Ukrain）价值68.3万美元的资产，理由是该公司直接参与了对俄罗斯军事行动的资助。白俄罗斯石油公司乌克兰公司是向乌克兰供应白俄罗斯石油产品的主要供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizmscu7021553.d.html</link>
+            <guid>2707008</guid>
+            <pubDate>Wed, 15 Jun 2022 16:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音737 Max 10的飞行测试已经完成了一半。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-16/detail-imizirau8688478.d.html</link>
@@ -236,96 +284,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8678569.d.html</link>
             <guid>2706929</guid>
             <pubDate>Wed, 15 Jun 2022 14:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第25届圣彼得堡国际经济论坛开幕，普京将于17日出席论坛全体会议并发言】第25届圣彼得堡国际经济论坛15日在俄罗斯圣彼得堡开幕。来自90多个国家和地区的政商人士将讨论世界经济面临的现实问题及解决方案。论坛由俄罗斯会展基金会主办，今年的主题为“新世界·新机遇”。论坛将特别关注当前形势下俄罗斯面临的新挑战，致力于寻找俄应对西方制裁及提高经济长期发展潜力的方式。本届论坛将持续至18日。俄总统普京将于17日出席论坛全体会议并发言。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7012299.d.html</link>
-            <guid>2706928</guid>
-            <pubDate>Wed, 15 Jun 2022 14:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车(F.N)CFO：未处理订单约为30万，高于平常水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7012272.d.html</link>
-            <guid>2706927</guid>
-            <pubDate>Wed, 15 Jun 2022 14:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【路德环境：变更经营范围 增加有机高含水废弃物资源化利用业务】路德环境公告，根据公司实际经营情况及业务发展需要，结合公司整体经营计划与发展战略，公司在原经营范围的基础上增加了白酒糟生物发酵饲料研发、生产与销售，酿酒高浓度有机废水再利用等有机高含水废弃物资源化利用业务，同时对经营范围的表述作了相应的规范化调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8677120.d.html</link>
-            <guid>2706917</guid>
-            <pubDate>Wed, 15 Jun 2022 14:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月份零售销售环比下降0.3%，为去年12月以来首次环比下滑，通胀调整后的实际零售销售则连续第三个月下降。5月份汽车销量下降3.5%，与此同时加油站的支出增长了4%，反映了当月燃料价格的上涨。剔除这些类别，零售销售环比增长0.1%，为五个月以来的最小增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8677042.d.html</link>
-            <guid>2706916</guid>
-            <pubDate>Wed, 15 Jun 2022 14:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利国家电力公司Enel CEO：当有更好的替代品时，是时候移除天然气了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7010902.d.html</link>
-            <guid>2706915</guid>
-            <pubDate>Wed, 15 Jun 2022 14:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基会见阿尔巴尼亚和黑山总理】据央视新闻，当地时间15日，乌克兰总统泽连斯基在基辅会见到访的阿尔巴尼亚和黑山总理。泽连斯基表示，外国领导人的持续来访体现了对乌克兰人民的重要支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7010821.d.html</link>
-            <guid>2706914</guid>
-            <pubDate>Wed, 15 Jun 2022 14:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国原油产量达1200万桶/日，为2020年4月以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7010651.d.html</link>
-            <guid>2706912</guid>
-            <pubDate>Wed, 15 Jun 2022 14:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当被问及是否给予摩尔多瓦、格鲁吉亚和乌克兰欧盟正式候选国地位时，法国总统马克龙表示，我希望能够在欧盟成员国之间达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu7010620.d.html</link>
-            <guid>2706911</guid>
-            <pubDate>Wed, 15 Jun 2022 14:34:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源部长：天然气供应得到保障，政府正在密切关注形势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676496.d.html</link>
-            <guid>2706910</guid>
-            <pubDate>Wed, 15 Jun 2022 14:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源部长：政府将在必要时介入。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676319.d.html</link>
-            <guid>2706909</guid>
-            <pubDate>Wed, 15 Jun 2022 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月10日当周EIA战略石油储备库存为1987年1月2日当周以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676293.d.html</link>
-            <guid>2706908</guid>
-            <pubDate>Wed, 15 Jun 2022 14:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周战略石油储备（SPR）库存减少771.1万桶至5.116亿桶，降幅1.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676279.d.html</link>
-            <guid>2706907</guid>
-            <pubDate>Wed, 15 Jun 2022 14:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口增加149.3万桶/日至372.5万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676266.d.html</link>
-            <guid>2706906</guid>
-            <pubDate>Wed, 15 Jun 2022 14:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1978.1万桶/日，较去年同期增加2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676239.d.html</link>
-            <guid>2706905</guid>
-            <pubDate>Wed, 15 Jun 2022 14:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口698.5万桶/日，较前一周增加83.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8676209.d.html</link>
-            <guid>2706904</guid>
-            <pubDate>Wed, 15 Jun 2022 14:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
