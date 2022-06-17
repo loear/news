@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 17 Jun 2022 19:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 20:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【京杭大运河京冀段预计6月底通航】近日，从北京市水务部门了解到，京杭大运河进出北京的通航门户船闸——杨洼船闸目前已完成最后的调试工作，初步具备通航条件。预计到本月底，京杭大运河京冀段将实现旅游通航。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7408281.d.html</link>
+            <guid>2710500</guid>
+            <pubDate>Fri, 17 Jun 2022 20:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴西政府任命新一任巴西石油公司总裁】巴西总统博索纳罗当地时间6月17日任命现任巴西经济部长助理卡伊奥·佩斯·安德拉德（Caio Paes de Andrade）担任巴西石油公司新一任总裁。安德拉德的任命此前一天通过了巴西石油公司董事会议的表决。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7407352.d.html</link>
+            <guid>2710495</guid>
+            <pubDate>Fri, 17 Jun 2022 19:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合国儿基会：全球流离失所儿童创二战以来最高纪录】根据联合国儿童基金会（儿基会）17日发布的最新调查数据，截至2021年底，因冲突、暴力和其他危机而流离失所的儿童人数达到3650万，是第二次世界大战以来的最高数字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizirau9132557.d.html</link>
+            <guid>2710490</guid>
+            <pubDate>Fri, 17 Jun 2022 19:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：上调巴西2022年通胀预期至8%，此前预计为7.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizirau9132394.d.html</link>
+            <guid>2710489</guid>
+            <pubDate>Fri, 17 Jun 2022 19:39:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今年前5月天津口岸进出口值增长19.6% 对东盟增幅最大】从天津海关获悉，据统计，今年前5月天津口岸进出口保持良好增势，进出口总值7494.6亿元(人民币，下同)，增长19.6%；其中出口3728.2亿元，增长27.7%；进口3766.4亿元，增长12.6%。其中，对东盟进出口增长33.3%，在主要贸易伙伴中增幅最大。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizirau9130050.d.html</link>
@@ -235,90 +259,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7385601.d.html</link>
             <guid>2710404</guid>
             <pubDate>Fri, 17 Jun 2022 16:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：如果俄罗斯与乌克兰的关系是伙伴关系，就不会有克里米亚问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7384979.d.html</link>
-            <guid>2710402</guid>
-            <pubDate>Fri, 17 Jun 2022 16:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银证券：将Adobe(ADBE.O)目标价从560美元下调至450美元 】美银证券分析师Brad Sills将Adobe(ADBE.O)目标价从560美元降至450美元，并保持对该股的买入评级。Sills说，该公司公布的第二财季业绩“稳健”，但第三财季的前景低于他的预期，他补充说，关键特许经营权的整体实力是“令人鼓舞的”。在他看来，作为“明确的市场领导者”，Adobe仍然有能力继续在专业、传播和消费者领域捕获增量的创意使用案例。分析师因行业的多重压缩而下调目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7384920.d.html</link>
-            <guid>2710400</guid>
-            <pubDate>Fri, 17 Jun 2022 16:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：需要考虑俄通缩风险和本币卢布升值问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7384693.d.html</link>
-            <guid>2710399</guid>
-            <pubDate>Fri, 17 Jun 2022 15:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智利放大招，业内：智利采矿特许权使用费改革法案若通关，或将在一定程度上改变全球锂供应格局】智利政府高级官员Giorgio Jackson日前表示，智利政府将在6月底推进税收改革计划，其中一项是关于采矿特许权使用费改革的法案。若该法案最终获得通过，有可能在一定程度上改变全球锂供应格局。业内专家表示，近两年随着金属价格暴涨，智利私营矿企凭借资源垄断获取暴利。智利官方试图通过修改税法等方式，实现价值的再分配。随着博里奇当选总统，上述进程将加快节奏。真锂研究创始人墨柯表示，若该法案最终获得通过，有可能在一定程度上改变全球锂供应格局。智利本身的锂资源开采成本正在缓慢提高，加税将进一步抬高锂资源出口价格，会影响其竞争力。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7384670.d.html</link>
-            <guid>2710398</guid>
-            <pubDate>Fri, 17 Jun 2022 15:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：与乌克兰恢复关系是不可避免的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7384576.d.html</link>
-            <guid>2710397</guid>
-            <pubDate>Fri, 17 Jun 2022 15:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天然气出口国论坛负责人表示，没有国家可以替代俄罗斯对欧盟的天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9105143.d.html</link>
-            <guid>2710396</guid>
-            <pubDate>Fri, 17 Jun 2022 15:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦总统：乌克兰加入欧盟的可能性不会损害欧亚经济联盟。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9105037.d.html</link>
-            <guid>2710395</guid>
-            <pubDate>Fri, 17 Jun 2022 15:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯化肥生产商Uralkali和Uralchem将出口量削减了25-30%】俄罗斯钾肥生产商Uralkali母公司Uralchem的首席执行官Dmitry Konyaev对国际文传电讯社表示，两家公司已将今年化肥出口量削减了25-30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7384459.d.html</link>
-            <guid>2710394</guid>
-            <pubDate>Fri, 17 Jun 2022 15:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Verizon(VZ.N)：未来几个月将取消机场的5G限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9104942.d.html</link>
-            <guid>2710392</guid>
-            <pubDate>Fri, 17 Jun 2022 15:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：俄罗斯没有用核武器威胁任何人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9104508.d.html</link>
-            <guid>2710391</guid>
-            <pubDate>Fri, 17 Jun 2022 15:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：欧盟不是军事联盟。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7383915.d.html</link>
-            <guid>2710389</guid>
-            <pubDate>Fri, 17 Jun 2022 15:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：针对居民区的打击是危害人类罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9104151.d.html</link>
-            <guid>2710387</guid>
-            <pubDate>Fri, 17 Jun 2022 15:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰总统泽连斯基：俄罗斯试图包围乌克兰在顿巴斯的设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizmscu7383781.d.html</link>
-            <guid>2710384</guid>
-            <pubDate>Fri, 17 Jun 2022 15:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯总统普京：俄罗斯避免对乌克兰顿巴斯阵地进行直接攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-17/detail-imizirau9104050.d.html</link>
-            <guid>2710382</guid>
-            <pubDate>Fri, 17 Jun 2022 15:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
