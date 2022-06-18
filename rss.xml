@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Jun 2022 16:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【力度超强！温州首套房首付比例20% 购房发补贴 还有多地出台稳楼市政策】6月17日夜间，温州住建官微发布15项支持合理购房需求的政策。业内人士认为，温州从商业贷款、公积金贷款两方面降低首套房、二套房贷款的首付比例，而且将无贷的二套房购置也认定为首套房，这些措施力度比较大，比肩三四线城市。另外，6月15日，重庆、鄂州均出台了多项稳地产措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-19/detail-imizirau9292112.d.html</link>
+            <guid>2710895</guid>
+            <pubDate>Sat, 18 Jun 2022 17:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰第聂伯罗市郊区发生四起爆炸事件】当地时间6月18日19时30分左右，乌克兰中南部城市第聂伯罗市的郊区发生四起爆炸事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-19/detail-imizirau9289155.d.html</link>
+            <guid>2710893</guid>
+            <pubDate>Sat, 18 Jun 2022 16:45:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【印度东北部洪灾已致至少32人死亡】据印度媒体6月18日报道，印东北部阿萨姆邦和梅加拉亚邦连日暴雨引发洪灾，过去两天已导致至少32人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-19/detail-imizirau9286881.d.html</link>
@@ -411,24 +423,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7506572.d.html</link>
             <guid>2710793</guid>
             <pubDate>Sat, 18 Jun 2022 10:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟外交政策负责人称，欧盟准备与国际合作伙伴合作，以减轻其对俄制裁对全球粮食安全的负面影响。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7506554.d.html</link>
-            <guid>2710792</guid>
-            <pubDate>Sat, 18 Jun 2022 10:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西门子全球首座原生数字化工厂落地南京，本土化战略加速升级】6月17日，西门子数控（南京）有限公司（SNC）新工厂正式投运。作为西门子全球首座原生数字化工厂，SNC新工厂全面展示了西门子先进数字化企业理念与技术的切实价值。在实地建设之前，西门子就已全方位应用自身数字化技术，预先在虚拟世界打造工厂的数字孪生，实现从需求分析、规划设计、动工实施到生产运营全过程的数字化。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizirau9252123.d.html</link>
-            <guid>2710791</guid>
-            <pubDate>Sat, 18 Jun 2022 10:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源监管机构：德国天然气储存水平为56.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-18/detail-imizmscu7506283.d.html</link>
-            <guid>2710790</guid>
-            <pubDate>Sat, 18 Jun 2022 10:49:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
