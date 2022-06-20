@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Jun 2022 19:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯加里宁格勒州长称，俄罗斯外交部在星期二就过境限制问题召见了欧盟驻俄罗斯大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizirau9662866.d.html</link>
+            <guid>2712620</guid>
+            <pubDate>Mon, 20 Jun 2022 20:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数初步收涨1.25%，报19167.02点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizirau9662243.d.html</link>
+            <guid>2712613</guid>
+            <pubDate>Mon, 20 Jun 2022 20:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄禁止Meta公司在俄活动判决正式生效】俄罗斯莫斯科市法院宣布驳回Meta公司上诉，承认下级法院于今年3月21日有关“承认Meta公司为极端组织，禁止该公司在俄活动”的判决合法。当地时间3月21日，俄罗斯莫斯科维特尔地方法院裁定Meta为极端组织。法院同时宣布有关脸书（Facebook）和照片墙（Instagram）的禁令应立即开始执行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7869937.d.html</link>
+            <guid>2712602</guid>
+            <pubDate>Mon, 20 Jun 2022 19:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲理事会主席米歇尔将在当地时间6月23日至24日在布鲁塞尔峰会上建议授予乌克兰、摩尔多瓦欧盟候选成员国身份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7869021.d.html</link>
+            <guid>2712601</guid>
+            <pubDate>Mon, 20 Jun 2022 19:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募基金“中考”临近，年内逾三成产品获正收益】数据显示，截至6月20日，9786只公募基金中，年内获得正收益的有3451只，占比35.26%；有1670只公募基金年内进行了不同次数分红，合计分红总额达1204亿元。值得注意的是，上述9786只公募基金中，有11只产品年内涨幅达40%以上，其中排名前十的产品均为商品基金。业内人士表示，受益于今年大宗商品价格走高，多数商品基金涨幅较大，部分QDII产品更是持续“霸屏”榜单前列。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizirau9659922.d.html</link>
+            <guid>2712600</guid>
+            <pubDate>Mon, 20 Jun 2022 19:26:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizirau9659911.d.html</link>
+            <guid>2712599</guid>
+            <pubDate>Mon, 20 Jun 2022 19:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：我们不知道俄乌冲突的程度，如果冲突升级，我们将再次采取新措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7868355.d.html</link>
+            <guid>2712598</guid>
+            <pubDate>Mon, 20 Jun 2022 19:18:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：巴西国家石油公司私有化将转向“新市场”将使其市值从4500亿雷亚尔增至7500亿雷亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7868346.d.html</link>
+            <guid>2712597</guid>
+            <pubDate>Mon, 20 Jun 2022 19:18:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西经济部长盖德斯：巴西是西方能源安全的一部分，特别是对欧洲而言。]]></title>
             <guid>2712596</guid>
@@ -127,65 +175,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7853652.d.html</link>
             <guid>2712524</guid>
             <pubDate>Mon, 20 Jun 2022 16:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【以色列总理宣布将解散议会】当地时间20日下午，以色列总理贝内特同以色列副总理兼外长拉皮德发表联合声明，称执政联盟将于下周一向议会提交一份解散议会的法案。如果该法案表决通过，以色列本届议会将自行解散。拉皮德将担任看守政府总理，直至新一届议会选举结束并产生新一届政府。新一届以色列议会选举或将在今年10月底举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7853350.d.html</link>
-            <guid>2712522</guid>
-            <pubDate>Mon, 20 Jun 2022 16:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统发言人：与芬兰和瑞典就其北约申请继续进行会谈，马德里峰会不是最后期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizirau9643596.d.html</link>
-            <guid>2712520</guid>
-            <pubDate>Mon, 20 Jun 2022 16:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，喜马拉雅考虑最早下周推出香港IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7853079.d.html</link>
-            <guid>2712519</guid>
-            <pubDate>Mon, 20 Jun 2022 16:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，秘鲁抗议者们封锁了通往Volcan的道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7852990.d.html</link>
-            <guid>2712517</guid>
-            <pubDate>Mon, 20 Jun 2022 16:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌称8月恢复与俄谈判 俄指西方阻碍和谈】乌克兰人民公仆党议会党团主席、俄乌谈判乌方代表团团长阿拉哈米亚当天表示，乌方可能在8月底恢复同俄罗斯的谈判。但对此俄方却表示对谈判前景并不看好。阿拉哈米亚表示，乌方可能在8月底恢复同俄罗斯的谈判。但在重启谈判之前，乌方将通过系列反攻计划巩固谈判立场。对于阿拉哈米亚的说法，俄罗斯联邦安全会议副主席梅德韦杰夫18日回应说，他对俄乌代表团可能于8月恢复的谈判“是否有话可聊以及能和谁聊”持怀疑态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-21/detail-imizmscu7851655.d.html</link>
-            <guid>2712515</guid>
-            <pubDate>Mon, 20 Jun 2022 16:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世界气象组织执行理事会第75次会议拉开帷幕】世界气象组织执行理事会第75次会议以线上线下相结合形式拉开帷幕。中方代表在会议上建议，要做好世界气象组织前期改革成果的评估，进一步体现会员，尤其是发展中国家如何从改革中获益；做好未来进一步改革的方向指引等顶层设计工作等。中方在本次会议上宣布，中国2021年发射的风云三号E星、风云四号B星及其地面应用系统已于今年6月1日转入业务试运行，两颗风云气象“新星”的主要数据产品将向全球用户开放共享。中国气象局将继续推动风云气象卫星为世界气象组织及其会员的防灾减灾和应对气候变化工作贡献力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-20/detail-imizirau9640792.d.html</link>
-            <guid>2712511</guid>
-            <pubDate>Mon, 20 Jun 2022 15:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西确诊该国第8例猴痘病例】巴西卫生部确认了该国第8例猴痘病例，患者为一名来自里约热内卢马里卡市的25岁男子，这也是里约热内卢出现的第二例病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-20/detail-imizmscu7849694.d.html</link>
-            <guid>2712503</guid>
-            <pubDate>Mon, 20 Jun 2022 15:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[厄瓜多尔国家石油公司经理Italo Cedeno：目前石油出口还没有暂停；如果抗议继续，本公司可能不得不停止出口。]]></title>
-            <guid>2712502</guid>
-            <pubDate>Mon, 20 Jun 2022 15:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：立陶宛没有对加里宁格勒采取单方面行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-20/detail-imizirau9639936.d.html</link>
-            <guid>2712501</guid>
-            <pubDate>Mon, 20 Jun 2022 15:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰政府的目标是在2023年前停止格罗宁根的天然气生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-20/detail-imizirau9639521.d.html</link>
-            <guid>2712495</guid>
-            <pubDate>Mon, 20 Jun 2022 15:34:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
