@@ -6,6 +6,69 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2713985,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8059616.d.html",
+            "title": "美股行业ETF周二集体收涨，能源业ETF涨超5%表现最好，可选消费ETF、医疗业ETF、科技行业ETF涨超2.5%，全球科技股指数ETF、生物科技指数ETF、金融业ETF涨超2%，公用事业ETF涨1.9%，网络股指数ETF涨超1.5%，全球航空业ETF涨近0.8%。",
+            "date_modified": "2022-06-21T20:18:20.000Z"
+        },
+        {
+            "id": 2713982,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058935.d.html",
+            "title": "露华浓（REV）收涨65%至4月29日以来最高水平。",
+            "date_modified": "2022-06-21T20:09:31.000Z"
+        },
+        {
+            "id": 2713981,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058541.d.html",
+            "title": "美国总统拜登：汽油减免期不会影响重大的道路维修。",
+            "date_modified": "2022-06-21T20:04:41.000Z"
+        },
+        {
+            "id": 2713980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058332.d.html",
+            "title": "  【Meta与美国司法部和解“广告算法歧视”案】美国司法部周二表示，Meta旗下平台利用算法向用户推送房地产广告，但算法本身基于用户的种族、肤色、宗教、性别、出生国等信息，这种行为违反了公平住宅法案（FHA），构成对社交媒体平台用户的歧视。作为和解方案，Meta不仅将支付顶格罚金，后续开发的新系统也需要得到美国司法部的批准和法庭监管。",
+            "date_modified": "2022-06-21T20:01:33.000Z"
+        },
+        {
+            "id": 2713977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853430.d.html",
+            "title": "美国总统拜登与哥伦比亚当选总统佩特罗通话时表示，他期待与佩特罗在气候变化、卫生安全、2016年和平协议等问题上进行合作。",
+            "date_modified": "2022-06-21T20:00:09.000Z"
+        },
+        {
+            "id": 2713976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058221.d.html",
+            "title": "美国总统拜登在与哥伦比亚当选总统佩特罗的通话中重申支持哥伦比亚。",
+            "date_modified": "2022-06-21T20:00:01.000Z"
+        },
+        {
+            "id": 2713975,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853410.d.html",
+            "title": "意大利外长迪马约：组建新的议员小组将在议会中支持总理德拉基。",
+            "date_modified": "2022-06-21T19:59:54.000Z"
+        },
+        {
+            "id": 2713974,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853399.d.html",
+            "title": "爱沙尼亚政府在会见俄罗斯大使时表示，爱沙尼亚与波罗的海国家立陶宛团结一致，并表示“俄罗斯必须停止威胁其邻国的行动”。",
+            "date_modified": "2022-06-21T19:59:46.000Z"
+        },
+        {
+            "id": 2713973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8057604.d.html",
+            "title": "爱沙尼亚政府方面表示，已召见俄罗斯大使，谴责俄罗斯直升机在当地时间6月18日侵犯爱沙尼亚领空的行为“极其严重和令人失望”。",
+            "date_modified": "2022-06-21T19:52:01.000Z"
+        },
+        {
             "id": 2713960,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9850092.d.html",
@@ -220,117 +283,6 @@
             "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8040302.d.html",
             "title": "前意大利总理Conte可能会因为乌克兰冲突而退出意大利执政联盟。",
             "date_modified": "2022-06-21T16:54:48.000Z"
-        },
-        {
-            "id": 2713881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9835767.d.html",
-            "title": "  【应对能源价格上涨 泰国政府延长民生救济措施】泰国总理巴育21日表示，内阁会议批准实施新一轮民生救济措施，并延长原有的救济措施3个月，以应对能源价格上涨对民众生活造成的影响。这些措施包括：对用于交通运输的燃气和生活用液化石油气的价格实施限价销售政策；延长使用政府福利卡购买燃气和液化石油气的折扣期；尽力维持柴油价格；向炼油厂寻求合作，让渡部分利润用作补充政府燃油基金，以补贴油价等。",
-            "date_modified": "2022-06-21T16:53:56.000Z"
-        },
-        {
-            "id": 2713880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8040180.d.html",
-            "title": "桥水基金创始人瑞·达利欧：降低通货膨胀将付出巨大的代价。",
-            "date_modified": "2022-06-21T16:53:33.000Z"
-        },
-        {
-            "id": 2713877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039224.d.html",
-            "title": "以色列外长LAPID告诉美国国务卿布林肯，美国总统拜登的中东之行将对该地区产生“重大影响”。",
-            "date_modified": "2022-06-21T16:44:13.000Z"
-        },
-        {
-            "id": 2713876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039202.d.html",
-            "title": "塔吉特CEO：认为在可预见的未来，燃料价格会走高。",
-            "date_modified": "2022-06-21T16:43:54.000Z"
-        },
-        {
-            "id": 2713875,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039185.d.html",
-            "title": "塔吉特CEO：美国承受不起港口出现劳工中断问题。",
-            "date_modified": "2022-06-21T16:43:44.000Z"
-        },
-        {
-            "id": 2713874,
-            "content_html": "",
-            "title": "塔吉特CEO：认为消费者存在“巨大的不确定性”；供应链没有在改善。",
-            "date_modified": "2022-06-21T16:43:35.000Z"
-        },
-        {
-            "id": 2713873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8038444.d.html",
-            "title": "沙特-埃及联合公报：沙特阿拉伯打算在埃及领导价值300亿美元的投资。",
-            "date_modified": "2022-06-21T16:36:01.000Z"
-        },
-        {
-            "id": 2713871,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8037955.d.html",
-            "title": "家乐福 CEO BOMPARD：通货膨胀的可持续性是肯定的。",
-            "date_modified": "2022-06-21T16:31:56.000Z"
-        },
-        {
-            "id": 2713870,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832855.d.html",
-            "title": "乌克兰方面称袭击了俄罗斯军队使用的黑海钻井平台。",
-            "date_modified": "2022-06-21T16:24:59.000Z"
-        },
-        {
-            "id": 2713869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832569.d.html",
-            "title": "  【瑞士恢复进口俄罗斯黄金】根据瑞士联邦海关总署的数据，5月份有超过3吨的黄金从俄罗斯运往瑞士。这是自2月份以来两国之间的首批货物。瑞士拥有四家大型精炼厂，它们总计加工全球三分之二的黄金。上个月交付给这家主要精炼中心的黄金约占进口总量的2%。",
-            "date_modified": "2022-06-21T16:22:01.000Z"
-        },
-        {
-            "id": 2713868,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036979.d.html",
-            "title": "英国国际开发大臣夏尔马：可能在第27届联合国气候变化大会（COP27）上达成更多合作伙伴关系。",
-            "date_modified": "2022-06-21T16:21:51.000Z"
-        },
-        {
-            "id": 2713866,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832086.d.html",
-            "title": "英国国际开发大臣夏尔马：该协议是一项由南非领导的气候计划。",
-            "date_modified": "2022-06-21T16:17:02.000Z"
-        },
-        {
-            "id": 2713865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036113.d.html",
-            "title": "欧元兑美元EUR/USD短线走低18点，现报1.0535。",
-            "date_modified": "2022-06-21T16:13:15.000Z"
-        },
-        {
-            "id": 2713864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036101.d.html",
-            "title": "英国国际开发大臣夏尔马希望非洲气候谈判取得具体进展。",
-            "date_modified": "2022-06-21T16:13:06.000Z"
-        },
-        {
-            "id": 2713862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9831613.d.html",
-            "title": "  【美国最高法院驳回拜耳有关除草剂赔偿的上诉】美国最高法院21日驳回了拜耳公司关于拒绝客户对其Roundup除草剂致癌的法律索赔的请求。最高法院大法官保留了下级法院的裁决，该裁决维持了加州居民Edwin Hardeman的2500万美元的赔偿金，后者将所得癌症归咎于拜耳的草甘膦除草剂。",
-            "date_modified": "2022-06-21T16:12:24.000Z"
-        },
-        {
-            "id": 2713858,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9830792.d.html",
-            "title": "惠誉：近年来，美国中型市场贷款市场竞争加剧，预计这一趋势将持续下去。",
-            "date_modified": "2022-06-21T16:03:44.000Z"
         }
     ]
 }

@@ -4,11 +4,65 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 20:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股行业ETF周二集体收涨，能源业ETF涨超5%表现最好，可选消费ETF、医疗业ETF、科技行业ETF涨超2.5%，全球科技股指数ETF、生物科技指数ETF、金融业ETF涨超2%，公用事业ETF涨1.9%，网络股指数ETF涨超1.5%，全球航空业ETF涨近0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8059616.d.html</link>
+            <guid>2713985</guid>
+            <pubDate>Tue, 21 Jun 2022 20:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露华浓（REV）收涨65%至4月29日以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058935.d.html</link>
+            <guid>2713982</guid>
+            <pubDate>Tue, 21 Jun 2022 20:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：汽油减免期不会影响重大的道路维修。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058541.d.html</link>
+            <guid>2713981</guid>
+            <pubDate>Tue, 21 Jun 2022 20:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Meta与美国司法部和解“广告算法歧视”案】美国司法部周二表示，Meta旗下平台利用算法向用户推送房地产广告，但算法本身基于用户的种族、肤色、宗教、性别、出生国等信息，这种行为违反了公平住宅法案（FHA），构成对社交媒体平台用户的歧视。作为和解方案，Meta不仅将支付顶格罚金，后续开发的新系统也需要得到美国司法部的批准和法庭监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058332.d.html</link>
+            <guid>2713980</guid>
+            <pubDate>Tue, 21 Jun 2022 20:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登与哥伦比亚当选总统佩特罗通话时表示，他期待与佩特罗在气候变化、卫生安全、2016年和平协议等问题上进行合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853430.d.html</link>
+            <guid>2713977</guid>
+            <pubDate>Tue, 21 Jun 2022 20:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登在与哥伦比亚当选总统佩特罗的通话中重申支持哥伦比亚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8058221.d.html</link>
+            <guid>2713976</guid>
+            <pubDate>Tue, 21 Jun 2022 20:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利外长迪马约：组建新的议员小组将在议会中支持总理德拉基。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853410.d.html</link>
+            <guid>2713975</guid>
+            <pubDate>Tue, 21 Jun 2022 19:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚政府在会见俄罗斯大使时表示，爱沙尼亚与波罗的海国家立陶宛团结一致，并表示“俄罗斯必须停止威胁其邻国的行动”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9853399.d.html</link>
+            <guid>2713974</guid>
+            <pubDate>Tue, 21 Jun 2022 19:59:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚政府方面表示，已召见俄罗斯大使，谴责俄罗斯直升机在当地时间6月18日侵犯爱沙尼亚领空的行为“极其严重和令人失望”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8057604.d.html</link>
+            <guid>2713973</guid>
+            <pubDate>Tue, 21 Jun 2022 19:52:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：软银任命Alex Clavel为软银国际集团的首席执行官。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9850092.d.html</link>
@@ -193,101 +247,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8040302.d.html</link>
             <guid>2713883</guid>
             <pubDate>Tue, 21 Jun 2022 16:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【应对能源价格上涨 泰国政府延长民生救济措施】泰国总理巴育21日表示，内阁会议批准实施新一轮民生救济措施，并延长原有的救济措施3个月，以应对能源价格上涨对民众生活造成的影响。这些措施包括：对用于交通运输的燃气和生活用液化石油气的价格实施限价销售政策；延长使用政府福利卡购买燃气和液化石油气的折扣期；尽力维持柴油价格；向炼油厂寻求合作，让渡部分利润用作补充政府燃油基金，以补贴油价等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9835767.d.html</link>
-            <guid>2713881</guid>
-            <pubDate>Tue, 21 Jun 2022 16:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水基金创始人瑞·达利欧：降低通货膨胀将付出巨大的代价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8040180.d.html</link>
-            <guid>2713880</guid>
-            <pubDate>Tue, 21 Jun 2022 16:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列外长LAPID告诉美国国务卿布林肯，美国总统拜登的中东之行将对该地区产生“重大影响”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039224.d.html</link>
-            <guid>2713877</guid>
-            <pubDate>Tue, 21 Jun 2022 16:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉特CEO：认为在可预见的未来，燃料价格会走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039202.d.html</link>
-            <guid>2713876</guid>
-            <pubDate>Tue, 21 Jun 2022 16:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉特CEO：美国承受不起港口出现劳工中断问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8039185.d.html</link>
-            <guid>2713875</guid>
-            <pubDate>Tue, 21 Jun 2022 16:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉特CEO：认为消费者存在“巨大的不确定性”；供应链没有在改善。]]></title>
-            <guid>2713874</guid>
-            <pubDate>Tue, 21 Jun 2022 16:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特-埃及联合公报：沙特阿拉伯打算在埃及领导价值300亿美元的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8038444.d.html</link>
-            <guid>2713873</guid>
-            <pubDate>Tue, 21 Jun 2022 16:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家乐福 CEO BOMPARD：通货膨胀的可持续性是肯定的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8037955.d.html</link>
-            <guid>2713871</guid>
-            <pubDate>Tue, 21 Jun 2022 16:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰方面称袭击了俄罗斯军队使用的黑海钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832855.d.html</link>
-            <guid>2713870</guid>
-            <pubDate>Tue, 21 Jun 2022 16:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞士恢复进口俄罗斯黄金】根据瑞士联邦海关总署的数据，5月份有超过3吨的黄金从俄罗斯运往瑞士。这是自2月份以来两国之间的首批货物。瑞士拥有四家大型精炼厂，它们总计加工全球三分之二的黄金。上个月交付给这家主要精炼中心的黄金约占进口总量的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832569.d.html</link>
-            <guid>2713869</guid>
-            <pubDate>Tue, 21 Jun 2022 16:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国际开发大臣夏尔马：可能在第27届联合国气候变化大会（COP27）上达成更多合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036979.d.html</link>
-            <guid>2713868</guid>
-            <pubDate>Tue, 21 Jun 2022 16:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国际开发大臣夏尔马：该协议是一项由南非领导的气候计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9832086.d.html</link>
-            <guid>2713866</guid>
-            <pubDate>Tue, 21 Jun 2022 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线走低18点，现报1.0535。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036113.d.html</link>
-            <guid>2713865</guid>
-            <pubDate>Tue, 21 Jun 2022 16:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国际开发大臣夏尔马希望非洲气候谈判取得具体进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizmscu8036101.d.html</link>
-            <guid>2713864</guid>
-            <pubDate>Tue, 21 Jun 2022 16:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国最高法院驳回拜耳有关除草剂赔偿的上诉】美国最高法院21日驳回了拜耳公司关于拒绝客户对其Roundup除草剂致癌的法律索赔的请求。最高法院大法官保留了下级法院的裁决，该裁决维持了加州居民Edwin Hardeman的2500万美元的赔偿金，后者将所得癌症归咎于拜耳的草甘膦除草剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9831613.d.html</link>
-            <guid>2713862</guid>
-            <pubDate>Tue, 21 Jun 2022 16:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：近年来，美国中型市场贷款市场竞争加剧，预计这一趋势将持续下去。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-22/detail-imizirau9830792.d.html</link>
-            <guid>2713858</guid>
-            <pubDate>Tue, 21 Jun 2022 16:03:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
