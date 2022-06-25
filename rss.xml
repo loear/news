@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 05:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消息人士：周五，有迫击炮落在伊拉克达纳天然气公司的科尔摩尔（KHOR MOR）天然气项目附近的草地上，袭击没有造成人员伤亡，运营也没有受到影响。]]></title>
+            <guid>2718598</guid>
+            <pubDate>Sat, 25 Jun 2022 05:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国等五国建立非正式机制，加强与太平洋岛国的经济外交关系】美国白宫6月24日表示，美国、澳大利亚、日本、新西兰和英国成立了一个名为“蓝色太平洋伙伴”（Partners in the Blue Pacific）的非正式机制，旨在促进这五个国家与太平洋岛国的经济和外交关系。据路透社报道，美国总统拜登政府誓言将向印度洋-太平洋地区投入更多资源。而“蓝色太平洋伙伴”的宗旨是，支持太平洋地区主义，加强太平洋岛国与世界各国的经济联系。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8664960.d.html</link>
+            <guid>2718596</guid>
+            <pubDate>Sat, 25 Jun 2022 04:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯别尔哥罗德州延长“黄色”恐怖威胁等级至7月9日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0472912.d.html</link>
+            <guid>2718595</guid>
+            <pubDate>Sat, 25 Jun 2022 04:39:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：智利中北部城市拉塞雷纳西北偏北50公里处发生5.1级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0471743.d.html</link>
@@ -376,12 +393,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0422259.d.html</link>
             <guid>2718497</guid>
             <pubDate>Fri, 24 Jun 2022 21:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【硅片行业龙头宣布明起价格上调，业内人士：仍有上涨空间】率先发布N型产品报价的TCL中环，上调了最新硅片报价；业内人士指出，当前硅料价格节节攀升，下游硅片企业通过签订“锁量不锁价”的长单来稳定硅料供应。硅片行业需求量仍在继续加大，预计短期内硅料和硅片市场仍将保持强势，价格仍有上涨空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8613182.d.html</link>
-            <guid>2718495</guid>
-            <pubDate>Fri, 24 Jun 2022 21:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
