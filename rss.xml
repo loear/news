@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 01 Jul 2022 20:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 21:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[耳其矿业部目前尚未延长PASINEX ARAMA的AKKAYA运营勘探许可证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-02/detail-imizmscu9743050.d.html</link>
+            <guid>2726955</guid>
+            <pubDate>Fri, 01 Jul 2022 21:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯副外长：北约宣布将俄视为最大威胁是对俄发起的全面对抗】俄罗斯外交部副部长格鲁什科7月1日表示，北约宣布将俄罗斯视为最大威胁是对俄发起的全面对抗。据塔斯社报道，格鲁什科1日在俄罗斯智库“瓦尔代”国际辩论俱乐部发言时说，北约将俄罗斯视为最大威胁，这是一个非常重要的转变，是明确宣布与俄罗斯的对抗，以全方位遏制俄罗斯。格鲁什科表示，北约马德里峰会的结果表明，北约已回归冷战时期的军事安全保障模式。芬兰和瑞典加入北约将导致波罗的海地区军事局势恶化，这将是欧洲安全发展进程中“最悲惨的事件之一”。若芬兰和瑞典加入北约，俄罗斯将采取适当措施确保安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-02/detail-imizirav1568926.d.html</link>
+            <guid>2726953</guid>
+            <pubDate>Fri, 01 Jul 2022 20:58:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：07月02日04时13分在新疆和田地区皮山县（北纬37.59度，东经78.60度）发生5.1级地震，震源深度10千米。]]></title>
             <guid>2726949</guid>
@@ -316,18 +328,6 @@
             <title><![CDATA[深圳市气象局：深圳大鹏、盐田和东西部海区台风升级为黄色预警。预计受台风“暹芭”影响，台风黄色预警生效地区最大阵风10级或以上，信号可能持续1天。]]></title>
             <guid>2726857</guid>
             <pubDate>Fri, 01 Jul 2022 16:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌总统办公室主任：目前泽连斯基和普京之间没有会晤的计划】乌克兰独立通讯社7月1日报道称，针对有媒体报道乌克兰总统泽连斯基可能会在G20峰会期间在印度尼西亚会见俄罗斯总统普京的消息，乌克兰总统办公室主任叶尔马克表示，目前乌克兰总统泽连斯基和俄罗斯总统普京之间没有会晤的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-02/detail-imizirav1553019.d.html</link>
-            <guid>2726853</guid>
-            <pubDate>Fri, 01 Jul 2022 16:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登将于周三访问俄亥俄州讨论经济问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-02/detail-imizirav1552960.d.html</link>
-            <guid>2726852</guid>
-            <pubDate>Fri, 01 Jul 2022 16:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
