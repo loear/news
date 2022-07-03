@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 18:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国总理朔尔茨就多项议题发表看法 重申北约不会直接军事干预乌克兰危机】当地时间7月3日，德国联邦总理朔尔茨接受了德国国家电视一台的“夏季专访”，重点就乌克兰局势、通货膨胀、能源危机、防疫政策等话题发表了看法。在采访中，朔尔茨再次重申北约不会直接军事干预乌克兰危机，称德国正同盟国以及乌克兰密切讨论安全保障以及战后和平秩序问题——“这是一个持续的过程，但可以明确的是，一个国家是不是北约成员国，情况会大不相同。”他表示，眼下“最希望看到的以及正在外交领域积极准备的事情，那就是战争可以尽快结束。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-04/detail-imizmscu9947526.d.html</link>
+            <guid>2727659</guid>
+            <pubDate>Sun, 03 Jul 2022 18:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年回报超过15%的主动型基金仅35只】Wind资讯数据显示，今年上半年，在跌宕起伏的行情中，主动权益类基金表现不佳，仅有不足14%的产品实现了正收益，回报超过15%的基金仅有35只。3000余只主动权益类基金中仅有170只基金的净值实现了正收益。不过也有表现突出的基金上半年的收益超过了50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-04/detail-imizmscu9945514.d.html</link>
+            <guid>2727657</guid>
+            <pubDate>Sun, 03 Jul 2022 17:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【广东东莞凌晨发布通知：除这些区域外，暂停住房限购政策】7月4日，东莞市住房和城乡建设局等四部门联合发出《关于加强分类指导优化住房限购政策的通知》，将东莞市住房限购区域调整为莞城街道、东城街道、南城街道、万江街道、松山湖高新技术产业开发区，称这标志着东莞市房地产市场调控进入区域限购的新阶段。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-04/detail-imizmscu9944423.d.html</link>
@@ -384,18 +396,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-03/detail-imizmscu9904579.d.html</link>
             <guid>2727503</guid>
             <pubDate>Sun, 03 Jul 2022 09:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲁北化工：鲁北发展通过无偿划转取得鲁北集团44.4%股权 】鲁北化工公告，公司控股股东鲁北集团控股股东鲁北管委会将其持有的鲁北集团44.4%国有股权无偿划转给鲁北发展，导致鲁北发展间接持有公司34.24%股份。本次收购完成后，鲁北发展通过鲁北集团间接控制公司34.24%股份，鲁北化工的控股股东仍为鲁北集团，实际控制人仍为无棣县财政局。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-03/detail-imizmscu9904361.d.html</link>
-            <guid>2727502</guid>
-            <pubDate>Sun, 03 Jul 2022 09:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据CGTN 7月3日消息，俄罗斯称别尔哥罗德和库尔斯克被乌克兰导弹击中。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-03/detail-imizirav1734133.d.html</link>
-            <guid>2727499</guid>
-            <pubDate>Sun, 03 Jul 2022 09:18:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
