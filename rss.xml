@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 10 Jul 2022 15:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 16:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【第21个大满贯！德约科维奇逆转取胜 斩获温网第7冠】北京时间7月10日，2022年温布尔登网球锦标赛进行了男单决赛的较量。头号种子、卫冕冠军德约科维奇在4-6先丢一盘的情况下，以6-3、6-4、7-6（3）连扳三盘，总比分3-1逆转击败基里奥斯，成功斩获温网第7冠、大满贯第21冠。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-11/detail-imizmscv0937245.d.html</link>
+            <guid>2735547</guid>
+            <pubDate>Sun, 10 Jul 2022 16:24:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【楚天科技拟增发收购楚天云飞49%股权 进一步拓宽产品线】 7月10日晚，楚天科技披露增发购买资产预案，公司拟通过增发股份的方式，购买控股子公司楚天飞云制药装备（长沙）有限公司（下称“楚天云飞”）的少数股东持有的合计49%的股权。根据楚天科技与交易对方签署的《框架协议》，上市公司拟以发行股份的方式，购买叶大进、叶田田合计持有的楚天飞云49%的股权，发行价格为13.43元/股。交易完成后，楚天飞云将成为上市公司的全资子公司。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-10/detail-imizmscv0933777.d.html</link>
@@ -368,24 +374,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-10/detail-imizirav2751575.d.html</link>
             <guid>2735445</guid>
             <pubDate>Sun, 10 Jul 2022 08:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁水集团：上半年净利润同比预减59.2%到66%】宁水集团公告，公司预计2022年半年度实现归属于母公司所有者的净利润为4000万元到4800万元，同比减少59.20%到66.00%。2022年上半年度，铜、铁件等原材料价格波动剧烈，同比仍处于高位，导致公司成本大幅增加、采购压力加大。同时由于公司价格结算机制，成本反应存在一定滞后性，体现至2022年半年度，利润仍受到严重挤压。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-10/detail-imizmscv0901692.d.html</link>
-            <guid>2735444</guid>
-            <pubDate>Sun, 10 Jul 2022 08:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金龙机电：与广东弗我及其子公司签订累计9.19亿元合同订单】金龙机电公告，公司及子公司自2022年7月8日前连续十二个月内与广东弗我及其子公司滁州弗我、安徽弗我签订日常经营性合同订单累计金额9.19亿元（含税），占公司2021年度经审计主营业务收入的49.49%。合同订单约定公司及子公司向广东弗我及其子公司提供电子雾化器及相关配件生产等内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-10/detail-imizirav2751264.d.html</link>
-            <guid>2735442</guid>
-            <pubDate>Sun, 10 Jul 2022 08:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：Darby继续向西移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-10/detail-imizirav2750895.d.html</link>
-            <guid>2735440</guid>
-            <pubDate>Sun, 10 Jul 2022 08:41:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
