@@ -6,6 +6,27 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2738332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1268083.d.html",
+            "title": "益普索调查：美国总统拜登的支持率最近上升了3个百分点，至39%。",
+            "date_modified": "2022-07-12T19:16:31.000Z"
+        },
+        {
+            "id": 2738323,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265986.d.html",
+            "title": "特斯拉针对美国加州自动驾驶部门裁员发布长达60天的警告通知：裁员将影响到229名工人，San Mateo办公室将关闭。",
+            "date_modified": "2022-07-12T18:42:37.000Z"
+        },
+        {
+            "id": 2738320,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3123028.d.html",
+            "title": "中国地震台网正式测定：07月13日02时29分在新疆阿克苏地区温宿县发生3.1级地震，震源深度12千米。",
+            "date_modified": "2022-07-12T18:37:07.000Z"
+        },
+        {
             "id": 2738307,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122316.d.html",
@@ -109,48 +130,6 @@
             "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3111927.d.html",
             "title": "【国际检验检测认证理事会上海代表处启动运行】 国际检验检测认证理事会（简称：TIC理事会）上海代表处于当日正式启动运行，4个重点领域专业工作组同步成立，将在确保安全、合规方面充分发挥专业作用，带动上海乃至全国检验检测认证行业的国际化发展。认证认可检验检测是国际贸易的“通行证”、质量管理的“体检证”和市场经济的“信用证”。此次TIC理事会在浦东新区成立的4个重点领域专业工作组，是针对中国经济发展特性和行业需求而设立，涵盖ESG（环境、社会和企业治理）、数字化及智能制造、产品检测认证和大宗商品四个领域。（央视）",
             "date_modified": "2022-07-12T16:16:21.000Z"
-        },
-        {
-            "id": 2738233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3111797.d.html",
-            "title": "美国总统拜登：等待美国共和党回归传统党派。",
-            "date_modified": "2022-07-12T16:14:43.000Z"
-        },
-        {
-            "id": 2738229,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253824.d.html",
-            "title": "白宫备忘录显示，美国经济似乎正进入就业和经济发展放缓的阶段。",
-            "date_modified": "2022-07-12T16:04:28.000Z"
-        },
-        {
-            "id": 2738225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110620.d.html",
-            "title": "墨西哥总统洛佩斯：墨西哥将同美国投资者合作建造LNG工厂和化肥厂。",
-            "date_modified": "2022-07-12T16:03:07.000Z"
-        },
-        {
-            "id": 2738219,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253349.d.html",
-            "title": "墨西哥总统洛佩斯：在美加墨三国协议下，有些关税可以立即暂停。",
-            "date_modified": "2022-07-12T16:00:08.000Z"
-        },
-        {
-            "id": 2738216,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3110102.d.html",
-            "title": "【巴西打车软件“99”将与比亚迪合作测试电动汽车】据报道，巴西打车软件“99”周二表示，已与比亚迪股份签署合作协议，开始测试一款为此软件司机开发的电动汽车。测试将于本周在巴西圣保罗开始，目标是加快99车队采用电动汽车的进程。巴西的月活跃司机超过75万，用户超过2000万，99承诺到2025年在其平台上注册1万辆电动汽车。99的创新总监蒂亚戈·希波利托（Thiago Hipolito）表示：“在中国的大规模普及的电动汽车已经被平台上的司机所适应，这也带来了对相关基础设施的需求”，比如电池充电站。",
-            "date_modified": "2022-07-12T15:57:36.000Z"
-        },
-        {
-            "id": 2738215,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1253142.d.html",
-            "title": "英国总检察长SUELLA BRAVERMAN：已经获得了足够的提名参加英国领导人竞选。",
-            "date_modified": "2022-07-12T15:57:04.000Z"
         }
     ]
 }
