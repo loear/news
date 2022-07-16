@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Jul 2022 18:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 19:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西成功试射该国自主研发的导弹】当地时间7月16日，巴西军队在该国最大的军事训练基地——圣巴巴拉堡军事训练基地成功试射自主研发的导弹，其中包括射程为10公里的TS-09型导弹和射程为60公里的SS-60型导弹。据悉，巴西自主研发导弹的最大射程可达300公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv1972908.d.html</link>
+            <guid>2743069</guid>
+            <pubDate>Sat, 16 Jul 2022 18:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登与中东多国领导人会面】当地时间7月16日，美国总统乔·拜登在沙特阿拉伯吉达会见了阿拉伯联合酋长国总统穆罕默德·本·扎耶德·阿勒纳哈扬、埃及总统阿卜杜勒·法塔赫·塞西、约旦国王阿卜杜拉二世、伊拉克总理穆斯塔法·卡迪米、卡塔尔埃米尔塔米姆·本·哈马德·阿勒萨尼以及巴林国王哈马德·本·伊萨·阿勒哈利法，就广泛的全球和地区安全挑战等问题进行了磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3841412.d.html</link>
+            <guid>2743068</guid>
+            <pubDate>Sat, 16 Jul 2022 18:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北马其顿议会批准法国提案以尽快开启入盟谈判】北马其顿议会7月16日投票批准了旨在解决北马同保加利亚争端的法国提案，为北马尽快开启与欧盟的入盟谈判扫清了道路。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv1970072.d.html</link>
@@ -362,12 +374,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3788524.d.html</link>
             <guid>2742969</guid>
             <pubDate>Sat, 16 Jul 2022 11:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证金公司原董事长聂庆平：预计下半年资本市场总体基调中性偏乐观】中国证券金融公司原董事长聂庆平16日在中国财富管理50人论坛·2022中期宏观峰会上表示，预计下半年资本市场总体基调中性偏乐观，有可能出现波动和震荡，但有四大宏观因素支撑市场呈现向上趋势。这四方面宏观支撑因素分别是业绩驱动、跨境国际资本流动、估值缺口、反弹的消费需求。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1918965.d.html</link>
-            <guid>2742967</guid>
-            <pubDate>Sat, 16 Jul 2022 11:03:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
