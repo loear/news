@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Jul 2022 14:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 15:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【星巴克酝酿出售其英国业务】星巴克已要求其顾问Houlihan Lokey评估外界对其英国业务的兴趣。该公司表示，该公司尚未启动正式的出售程序，但会继续“评估国际业务的战略选项”。据悉，星巴克在英国有1000多家咖啡店，雇佣员工4000人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3819791.d.html</link>
+            <guid>2743037</guid>
+            <pubDate>Sat, 16 Jul 2022 15:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外交大臣：飞越领空的决定和与以色列建立外交关系无关，不是采取进一步措施的前提。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3816539.d.html</link>
+            <guid>2743033</guid>
+            <pubDate>Sat, 16 Jul 2022 14:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外交大臣：沙特支持就伊朗核计划进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3815648.d.html</link>
+            <guid>2743032</guid>
+            <pubDate>Sat, 16 Jul 2022 14:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【被传拿下金沙酒51%股权 华润系进军酱酒圈】有消息称，华润系已于近期敲定受让贵州金沙窖酒酒业有限公司51%的股权，成为金沙酒业第一大股东。根据相关报道显示，该收购案预计在8月进入公示期。据天眼查，金沙酒业大股东为宜昌财源投资管理有限公司，持股比例100%。而今年3月28日，湖北宜化集团有限责任公司退出金沙酒业股东序列。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1945701.d.html</link>
+            <guid>2743028</guid>
+            <pubDate>Sat, 16 Jul 2022 14:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外交大臣：到目前为止，与伊朗的会谈是积极的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1945111.d.html</link>
+            <guid>2743027</guid>
+            <pubDate>Sat, 16 Jul 2022 14:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外交大臣：沙特希望与伊朗达成正常关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3813561.d.html</link>
+            <guid>2743026</guid>
+            <pubDate>Sat, 16 Jul 2022 14:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特领导人称，巴以冲突不可忽视，若不解决这一问题，中东地区无法实现稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3812248.d.html</link>
+            <guid>2743025</guid>
+            <pubDate>Sat, 16 Jul 2022 14:24:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【中国航海学会：2035年我国智能航运技术与产业化总体达国际领先水平】在2022全国航海日活动周上，中国航海学会发布了《中国智能航运技术与产业化发展预测》，预测显示到2035年我国智能航运技术与产业化总体可达国际领先水平，充分智能化的航运新业态基本形成，沿海遥控驾驶、自主驾驶船舶占比超过30%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1942365.d.html</link>
@@ -290,11 +332,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3782541.d.html</link>
             <guid>2742939</guid>
             <pubDate>Sat, 16 Jul 2022 10:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高培勇：稳增长政策首先要把发力点瞄准稳住市场主体】中国社会科学院副院长高培勇16日在中国财富管理50人论坛·2022中期宏观峰会上表示， 首先要把发力点瞄准稳住市场主体，以稳住市场主体的一系列的政策操作来稳住经济大盘，从而实现稳增长。（上证报）]]></title>
-            <guid>2742925</guid>
-            <pubDate>Sat, 16 Jul 2022 10:12:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
