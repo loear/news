@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Jul 2022 09:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 10:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【高培勇：稳增长政策首先要把发力点瞄准稳住市场主体】中国社会科学院副院长高培勇16日在中国财富管理50人论坛·2022中期宏观峰会上表示， 首先要把发力点瞄准稳住市场主体，以稳住市场主体的一系列的政策操作来稳住经济大盘，从而实现稳增长。（上证报）]]></title>
+            <guid>2742925</guid>
+            <pubDate>Sat, 16 Jul 2022 10:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特官员：沙特王储告诉拜登，试图用武力将某些价值观强加给其他国家可能会适得其反，就像在伊拉克和阿富汗一样。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1911651.d.html</link>
+            <guid>2742916</guid>
+            <pubDate>Sat, 16 Jul 2022 10:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特官员：沙特王储告诉拜登，美国也犯了类似的错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3779659.d.html</link>
+            <guid>2742914</guid>
+            <pubDate>Sat, 16 Jul 2022 10:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特官员：沙特王储告诉拜登，沙特已经采取了一切措施来防止像卡舒吉被杀这样的错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1911587.d.html</link>
+            <guid>2742913</guid>
+            <pubDate>Sat, 16 Jul 2022 10:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦预计在与国际货币基金组织达成协议后，将很快获得40亿美元的外部资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1908628.d.html</link>
+            <guid>2742909</guid>
+            <pubDate>Sat, 16 Jul 2022 09:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非政府表示正在考虑建立第二家国有电力公司】南非总统拉马福萨日前宣布，南非政府正在考虑建立第二家国有电力公司，以降低可能因南非电力公司Eskom的供电中断带来的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3776626.d.html</link>
+            <guid>2742908</guid>
+            <pubDate>Sat, 16 Jul 2022 09:50:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海外贸6月份实现正增长，上半年走出“V”形修复曲线】上海海关16日公布，6月份，随着上海全面恢复正常生产生活秩序，当月上海市进出口（上海企业实施的进出口）和上海口岸进出口（全国各省区市企业通过上海口岸实施的进出口）双双实现正增长，同比增速分别达到9.6%和2.8%，较4月分别大幅回升46.2个百分点和41个百分点，进而带动上半年上海外贸走出一条“V”形修复曲线。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3776216.d.html</link>
+            <guid>2742906</guid>
+            <pubDate>Sat, 16 Jul 2022 09:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首个企业碳资信评价标准正式发布】2022中国国际碳交易大会上，首个碳资信标准——《企业碳资信评价规范》正式发布。《企业碳资信评价规范》标准是首个反应双碳目标下企业偿债意愿和能力的标准。该资信评价标准的发布为企业提供了全面刻画企业碳能力的工具，是对企业双碳适应能力的分析评价，是对企业主动进行减排降碳行为的价值进行评估，同时接轨传统信用评级的财务因素并对接金融资源。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1906590.d.html</link>
+            <guid>2742901</guid>
+            <pubDate>Sat, 16 Jul 2022 09:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据珠海市卫生健康局通报，7月16日0—12时，珠海新增本土确诊病例13例（均为已通报的无症状感染者转确诊），新增无症状感染者6例。]]></title>
             <guid>2742898</guid>
@@ -167,131 +214,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1860931.d.html</link>
             <guid>2742834</guid>
             <pubDate>Sat, 16 Jul 2022 05:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰媒体：乌克兰南部多地传出爆炸声】据乌克兰独立通讯社报道，当地时间16日4时左右，位于乌克兰南部的尼古拉耶夫传出爆炸声。随后在5时许，同样位于乌克兰南部的敖德萨也传出爆炸声。爆炸还引发大火。目前乌克兰官方还没有通报详细情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3727414.d.html</link>
-            <guid>2742833</guid>
-            <pubDate>Sat, 16 Jul 2022 05:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月15日全国影院营业率达82.05%】据@猫眼专业版微博消息，7月15日全国营业影院总数9973家，较上日减少24家，影院营业率82.05%，大盘票房8928.5万，全国影院上座率5.79%，恢复至去年同期95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3726892.d.html</link>
-            <guid>2742832</guid>
-            <pubDate>Sat, 16 Jul 2022 05:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首都体育馆今起正式对外开放】经过全面休整后，作为北京2022年冬奥会比赛场馆的首都体育馆，于今日（16日）正式对外开放，开放日现场进行了冬奥冠军讲堂、冰雪大篷车体验等活动，场馆将持续实施“冰雪惠民计划”，共享优质场馆资源，推动长期公益开放，活动现场吸引了千余民市民预约参与。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3723979.d.html</link>
-            <guid>2742831</guid>
-            <pubDate>Sat, 16 Jul 2022 04:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部会商有关省份加快推进小型水库除险加固】据“水利部发布”微博消息，为落实稳住经济大盘水利相关工作部署要求，更大程度地发挥水利拉动有效投资和稳定宏观经济大盘的作用，7月12日和14日，水利部运管司会同财务司、监督司和有关流域管理机构，先后两次召开推进小型水库除险加固和监测设施建设会商会议，分别与全国任务较重的湖南、云南、四川、湖北、安徽、广东六省和北方有效施工期相对较短的内蒙古、辽宁、吉林、黑龙江、陕西五省区进行会商，全力加快推进小型水库除险加固和监测设施建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3722371.d.html</link>
-            <guid>2742829</guid>
-            <pubDate>Sat, 16 Jul 2022 04:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资委：上半年中央企业净利润同比增长6.1%】从国务院国资委了解到，今年1至6月份，中央企业实现营业收入19.2万亿元，利润总额14093.6亿元、净利润10857.5亿元，同比分别增长12%、7.1%、6.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1854307.d.html</link>
-            <guid>2742828</guid>
-            <pubDate>Sat, 16 Jul 2022 04:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果公司请求联邦法院撤销Epic案的应用商店相关禁令】苹果公司周五请求一家联邦法院撤销一项禁令，该禁令允许开发商绕过苹果公司App Store的支付系统并避免支付佣金，苹果公司称该禁令在法律上不恰当。在苹果公司与Epic Games Inc.正在进行的诉讼中，苹果公司的律师在最新一份文件中说，没有充分证据表明限制引导条款损害了相关市场的竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1852707.d.html</link>
-            <guid>2742826</guid>
-            <pubDate>Sat, 16 Jul 2022 04:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大猴痘病例增至539例两天新增62例】加拿大公共卫生署官网当地时间7月15日公布的数据显示，加拿大全国目前有539例猴痘确诊病例，比两天前即13日的477例增加了62例。发现猴痘确诊病例的省份从此前的4个省增加到5个，新增的萨斯喀彻温省有2例病例，艾伯塔省有12例，不列颠哥伦比亚省有32例，安大略省有194例，魁北克省有299例。此外，安大略省是新增病例最多的省份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3716013.d.html</link>
-            <guid>2742821</guid>
-            <pubDate>Sat, 16 Jul 2022 04:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳：要严守城镇开发边界合理制定实施建设用地计划】深圳市市长覃伟中15日主持召开市政府常务会议。会议要求，要严守耕地保护红线，严格落实耕地保有量和永久基本农田保护目标任务，完善耕地保护动态监测监管机制，稳妥有序做好耕地恢复工作，坚决遏制耕地“非农化”、防止“非粮化”。要严守生态保护红线，牢固树立绿水青山就是金山银山理念，打造“一脊一带二十廊”城市生态脉络，全面推进森林城市、公园城市建设。要严守城镇开发边界，合理制定实施建设用地计划，高标准推进20大先进制造业园区规划建设，向城市更新要空间、要增量、要品质，提高节约集约用地水平，推动城市发展向内涵提升式转变，努力以科学的国土空间布局支撑全市高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1845615.d.html</link>
-            <guid>2742819</guid>
-            <pubDate>Sat, 16 Jul 2022 03:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国家航空航天局：美国将恢复与俄罗斯的国际空间站飞行合作】当地时间7月15日，美国国家航空航天局（NASA）称，美国将恢复与俄罗斯的国际空间站飞行合作。NASA表示，已与俄方签署协议，整合飞往国际空间站的航班，允许俄罗斯宇航员乘坐美国制造的航天器，而美国宇航员也能乘坐俄罗斯的“联盟”号飞船。（央视新闻）]]></title>
-            <guid>2742816</guid>
-            <pubDate>Sat, 16 Jul 2022 03:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸中部发生4.8级地震】据缅甸水文地震局消息，当地时间7月16日6时18分，缅甸中部实皆省境内发生4.8级地震，震中位于甘勃卢地震台以南约72公里，瑞波镇以西约10公里（北纬22.55度，东经95.53度），震源深度12公里。目前暂无人员伤亡消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3710255.d.html</link>
-            <guid>2742814</guid>
-            <pubDate>Sat, 16 Jul 2022 03:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京金融法院受理易安财险的重整申请】从全国企业破产重整案件信息网获悉，北京金融法院昨日在该网站公开了关于易安财险的民事裁定书。裁定书显示，北京金融法院受理易安财产保险股份有限公司的重整申请。根据裁定书的披露，天职国际会计师事务所（特殊普通合伙）出具的以2022年3月31日为基准日的《易安财产保险股份有限公司净资产专项审计报告》中资产负债表显示，易安财险资产总计3.35亿元，负债合计4.62亿元，股东（或所有者）权益合计-1.27亿元，账面资产小于负债。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1841515.d.html</link>
-            <guid>2742812</guid>
-            <pubDate>Sat, 16 Jul 2022 03:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃兰州新增本土确诊病例26例 无症状感染者48例】7月15日10时至16日10时，兰州市新增本土确诊病例26例（其中无症状感染者转确诊病例1例），其中城关区22例（无症状转确诊1例），七里河区2例，安宁区2例；新增无症状感染者48例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3708756.d.html</link>
-            <guid>2742811</guid>
-            <pubDate>Sat, 16 Jul 2022 03:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【晋西车轴：单班日产14辆 950辆C70E敞车顺利生产交付】晋西车轴消息，7月13日，晋西车轴铁货分公司完成950辆C70E敞车生产任务，在短短两个多月时间里，创下了该车型单班日产14辆、月产396辆的新纪录，又一次彰显了分公司强劲的攻坚实力。据悉，面对7月15日前全面交付950辆C70E敞车的紧迫任务，分公司必须保证每日14辆的整车产出才能达到交付要求，平均而言就需要在40分钟内完成一辆整车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1839310.d.html</link>
-            <guid>2742809</guid>
-            <pubDate>Sat, 16 Jul 2022 03:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总检察长：墨西哥方面将引渡毒枭卡洛昆特罗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1837863.d.html</link>
-            <guid>2742808</guid>
-            <pubDate>Sat, 16 Jul 2022 03:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕西省水利厅启动防汛Ⅳ级应急响应】7月15日6时至16日6时，陕西省陕北、关中大部和陕南北部普降中到大雨，其中咸阳西北部、宝鸡西部南部、渭南大部、汉中北部暴雨，渭南部分地区大暴雨。全省2098处雨情站降雨量大于25毫米的有504站，大于50毫米142站，其中大于100毫米8站。陕西省境内共有16条河流20站出现洪峰27次，其中有1条河流1站出现超警戒洪水，为泾河景村站16日2时30分洪峰流量4380立方米/秒（警戒流量4000立方米/秒）。针对此次汛情，陕西省水利厅启动防汛Ⅳ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1833995.d.html</link>
-            <guid>2742805</guid>
-            <pubDate>Sat, 16 Jul 2022 02:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【兆龙互连：公司出口美国产品在加征关税范围内】兆龙互连(300913)7月16日在互动平台表示，公司出口美国产品在加征关税范围内，公司美国业务占比较低。经长期积累，公司产品销售至全球100多个国家和地区，与一批境外客户保持了长期稳定的合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3700360.d.html</link>
-            <guid>2742804</guid>
-            <pubDate>Sat, 16 Jul 2022 02:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【10秒15！苏炳添晋级世锦赛百米半决赛】北京时间16日上午，2022俄勒冈田径世锦赛展开男子100预赛的争夺。亚洲纪录保持者、中国选手苏炳添以10秒15的成绩获得小组第五，凭借所有小组前三名之外的第三好成绩惊险晋级17日上午进行的半决赛。东京奥运会银牌得主、美国名将克利以9秒79的成绩获得小组头名。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3699340.d.html</link>
-            <guid>2742803</guid>
-            <pubDate>Sat, 16 Jul 2022 02:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳门昨日新增31例阳性病例】据澳门特区政府网站消息，澳门新型冠状病毒感染应变协调中心表示，澳门昨（15）日24小时内新增阳性个案包括：红码区和医学观察酒店18例，属于管控中发现；密切接触者1例、全民核酸及重点人群发现的阳性10例、其他人群有2例，属于社区中发现；自6月18日起累计共1706例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3698143.d.html</link>
-            <guid>2742802</guid>
-            <pubDate>Sat, 16 Jul 2022 02:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，日本政府消息人士称，日本政府希望保留其在俄罗斯“萨哈林2”号项目中的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1829489.d.html</link>
-            <guid>2742799</guid>
-            <pubDate>Sat, 16 Jul 2022 02:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珠海横琴杧洲隧道开始盾构掘进】从中国铁建股份有限公司获悉，由中国铁建投资集团投资、中铁十五局集团承建的珠海横琴杧洲隧道开始盾构掘进。中铁十五局集团董事长、党委书记黄昌富表示，承担本次隧道掘进任务的“振兴号”盾构机直径15.01米、总重约4400吨，是目前我国自主研制、全球排名前列的超大直径盾构机。全线需穿越超软土地层，隧道最浅覆土仅为7米，盾构掘进中需克服诸多技术难题。珠海横琴杧洲隧道项目预计于2024年建成通车，通车后将进一步改善横琴粤澳深度合作区的互联互通条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3695628.d.html</link>
-            <guid>2742797</guid>
-            <pubDate>Sat, 16 Jul 2022 02:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【甘肃7月15日新增本土“31+82” 其中兰州市“30+58”】甘肃卫健委通报，7月15日0—24时，甘肃省新增确诊病例31例，其中兰州市30例、白银市会宁县1例，含1例由无症状感染者转确诊病例（为兰州市城关区1例）。新增无症状感染者82例，其中兰州市58例、临夏州9例、甘南州夏河县6例、定西市临洮县5例、白银市会宁县3例、陇南市文县1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1827800.d.html</link>
-            <guid>2742796</guid>
-            <pubDate>Sat, 16 Jul 2022 02:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
