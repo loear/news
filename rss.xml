@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Jul 2022 20:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 21:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【百亿私募大佬但斌，有多只产品规模却不到500万，怎么回事？】作为知名的私募大佬，东方港湾董事长但斌一直备受市场关注。 一般来说，作为百亿级别的私募掌门人，不太可能发行或管理几百万规模的Mini产品。但记者注意到，近期但斌旗下有多只产品，管理规模还不到500万元。有业内人士分析，可能与投资者赎回有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv1981282.d.html</link>
+            <guid>2743078</guid>
+            <pubDate>Sat, 16 Jul 2022 21:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德建信理财首席投资官发声！】继权益类产品、养老产品之后，贝莱德建信理财在今年7月发行了首款固收类产品——“贝裕信用精选”系列，风险等级R3，据记者了解，该产品1期募集金额达到25.45亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3849248.d.html</link>
+            <guid>2743077</guid>
+            <pubDate>Sat, 16 Jul 2022 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其外交部：土耳其不会成为任何国家的难民营】当地时间7月16日，土耳其外交部发言人比尔吉奇表示，土耳其不会成为任何国家的难民营，在任何情况下都不会承担第三国的国际义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv1979227.d.html</link>
+            <guid>2743076</guid>
+            <pubDate>Sat, 16 Jul 2022 20:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海地帮派冲突致近百人死亡 联合国安理会呼吁立即停止暴力和犯罪活动】联合国安理会7月15日一致通过决议，将联合国驻海地综合办事处的任务期限延长至2023年7月15日，并呼吁联合国成员国禁止向参与或支持帮派、犯罪活动的非国家行为体出口小型、轻型武器和弹药，防止任何相关的非法贩运或转移行为。]]></title>
             <guid>2743074</guid>
@@ -361,18 +379,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3789066.d.html</link>
             <guid>2742976</guid>
             <pubDate>Sat, 16 Jul 2022 11:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：即使我们在每件事上并不总是意见一致，我们仍然可以共同努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizmscv1920876.d.html</link>
-            <guid>2742975</guid>
-            <pubDate>Sat, 16 Jul 2022 11:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国将确保中东国家能够自卫。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-16/detail-imizirav3788664.d.html</link>
-            <guid>2742973</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
