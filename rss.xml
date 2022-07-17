@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 17 Jul 2022 19:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 20:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加纳报告2例马尔堡病毒感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4035909.d.html</link>
+            <guid>2743339</guid>
+            <pubDate>Sun, 17 Jul 2022 20:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及拟向美国加拿大等五国招标进口小麦】当地时间7月17日，埃及商品供应总局宣布将面向美国、加拿大、澳大利亚、阿根廷和巴西五国小麦进口来源地进行招标采购。埃及供应与国内贸易部部长阿里·莫泽利表示，埃及计划在2022/2023财政年度进口500万吨小麦。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizmscv2164056.d.html</link>
+            <guid>2743338</guid>
+            <pubDate>Sun, 17 Jul 2022 20:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢旺达被选为非洲药品管理局总部所在地】当地时间7月17日，非洲联盟宣布，卢旺达将成为非洲药品管理局（AMA）总部的所在地。该机构将成为继总部位于埃塞俄比亚首都亚的斯亚贝巴的非洲疾控中心后，非盟的第二个专门卫生机构。该机构将支持当地药品生产，评估用于治疗非盟确定的重点疾病的医疗产品，并定期检查、协调和共享有关获准上市的产品的信息。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizmscv2163846.d.html</link>
+            <guid>2743337</guid>
+            <pubDate>Sun, 17 Jul 2022 20:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基敦促启动程序挑选反贪机构负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4035121.d.html</link>
+            <guid>2743336</guid>
+            <pubDate>Sun, 17 Jul 2022 20:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌总统泽连斯基解雇乌总检察长及国家安全局局长】据报道，当地时间17日，乌克兰总统泽连斯基解除了乌克兰总检察长伊琳娜·韦内迪克托娃及乌克兰国家安全局局长伊万·巴卡诺夫的职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4032783.d.html</link>
+            <guid>2743335</guid>
+            <pubDate>Sun, 17 Jul 2022 19:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【宁波奉化休闲渔船侧翻事故已致6人死亡】据“奉化发布”消息，截至7月18日零时35分，发生在宁波奉化区翡翠湾码头的休闲渔船侧翻事故，已致6人经抢救无效死亡，另有1人正在紧急搜救中。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4027446.d.html</link>
@@ -272,24 +302,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2079539.d.html</link>
             <guid>2743234</guid>
             <pubDate>Sun, 17 Jul 2022 08:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【岱勒新材：上半年预计净利3950万元-4350万元 同比扭亏】岱勒新材公告，预计2022年半年度归母净利3950万元~4350万元，上年同期净利亏损1690.88万元。公司2022年半年度净利润较上年同期有较大幅度增长，主要是因为本报告期内公司订单饱满，产能稳定顺利释放，主要产品的产销量较上年同期大幅提升，成本得到有效控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3949716.d.html</link>
-            <guid>2743232</guid>
-            <pubDate>Sun, 17 Jul 2022 08:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信建投点评天齐锂业：资源龙头红利释放 半年业绩表现亮眼】中信建投表示，天齐锂业2022年上半年净利润大增，增幅超110倍，超出市场预期。周期向上，量价齐升，主营业务强势增长。受益于全球新能源汽车景气度的持续提升，锂电池厂商、正极材料厂等产能加速扩张，锂的需求持续走高，锂价大幅上涨。据SMM数据，2022年上半年电池级碳酸锂均价44.68万元/吨，较去年同期均价上涨446.2%。同时公司锂产品销量较去年增加（去年上半年锂化合物及衍生品销量20572.39吨，锂精矿销量260363.65吨），量价齐升，公司主营业务业绩大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3948639.d.html</link>
-            <guid>2743231</guid>
-            <pubDate>Sun, 17 Jul 2022 08:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿联酋宣布设立30亿迪拉姆的基金 发展雷达卫星项目】据《海湾时报》17日报道，阿联酋宣布启动一个开发大量雷达卫星的新项目。与此同时，阿联酋总统穆罕默德宣布设立30亿迪拉姆（约合人民币55亿元）的基金，以支持该国的太空计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2076901.d.html</link>
-            <guid>2743229</guid>
-            <pubDate>Sun, 17 Jul 2022 08:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
