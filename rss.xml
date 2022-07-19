@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 19 Jul 2022 18:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 19:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：俄罗斯、伊朗和土耳其致力于使叙利亚正常化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4515926.d.html</link>
+            <guid>2745812</guid>
+            <pubDate>Tue, 19 Jul 2022 19:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌干达东北部7月超200人死于饥饿】当地时间7月19日，乌干达卡拉莫贾地区官员表示，本月乌干达东北部有超过200人死于饥饿。有数据显示，由于长期干旱和严重的不安全局势，该地区有超过50万人面临饥饿威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2639847.d.html</link>
+            <guid>2745811</guid>
+            <pubDate>Tue, 19 Jul 2022 19:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊雅典北郊突发山火 部分居民被紧急疏散】当地时间7月19日晚，希腊雅典北郊彭特利地区突发山火。希腊消防部门表示，已经派出78名消防队员、22辆消防车和16架消防飞机进行灭火工作。起火点附近的居民已陆续收到紧急撤离短信提示，目前包括彭特利地区的一所儿童中心36名儿童和19名工作人员在内的附近居民已经被紧急疏散。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2638481.d.html</link>
+            <guid>2745800</guid>
+            <pubDate>Tue, 19 Jul 2022 18:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊朗总统莱希：德黑兰支持以政治方式解决叙利亚危机。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4509822.d.html</link>
@@ -120,24 +138,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2618149.d.html</link>
             <guid>2745722</guid>
             <pubDate>Tue, 19 Jul 2022 15:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车：Scott Keogh将出任新款Scout电动汽车品牌的CEO。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4491761.d.html</link>
-            <guid>2745704</guid>
-            <pubDate>Tue, 19 Jul 2022 15:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国金沙江上游苏洼龙水电站投产发电】 中国金沙江上游苏洼龙水电站19日19时正式投产发电。记者获悉，该水电站是金沙江上游清洁能源基地开工建设的首座电站，也是中国“西电东送”接续基地的先导工程。金沙江上游清洁能源基地是中国“十四五”重点建设的九大清洁能源基地之一，包括金沙江上游川藏段梯级电站、配套光伏、抽水蓄能电站和外送输电通道，规划总装机近6000万千瓦。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2615456.d.html</link>
-            <guid>2745700</guid>
-            <pubDate>Tue, 19 Jul 2022 15:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：陪审团议定，发生在美国佛罗里达州高速公路的Model S撞车事故中，特斯拉负有1%的责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2614477.d.html</link>
-            <guid>2745694</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
