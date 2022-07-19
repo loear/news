@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 19 Jul 2022 17:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 18:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊朗总统莱希：德黑兰支持以政治方式解决叙利亚危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4509822.d.html</link>
+            <guid>2745782</guid>
+            <pubDate>Tue, 19 Jul 2022 17:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺思格：在深交所公开发行1500万股，每股发行价78.88元人民币，预计在7月22日发行，发行后公司总股本为6000万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4508579.d.html</link>
+            <guid>2745775</guid>
+            <pubDate>Tue, 19 Jul 2022 17:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国接近对Uniper实施以政府主导的救助】德国能源公用事业公司Uniper SE据称接近达成一份救助协议，届时德国政府可能会注资数十亿欧元，并直接持股Uniper，政府最终可能获得Uniper高达30%的拦截性股权。除了以名义价值购买普通股以增资外，还在讨论购买类似股权的混合证券。知情人士称，德国正考虑注资逾50亿欧元，总承诺金额可能不到100亿欧元。知情人士表示，具体金额仍在谈判中，未来几天可能会最终达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4507607.d.html</link>
+            <guid>2745771</guid>
+            <pubDate>Tue, 19 Jul 2022 17:34:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊朗总统哈梅内伊：各国应该开始在贸易中使用本国货币，而不是美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4506725.d.html</link>
@@ -120,47 +138,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2614477.d.html</link>
             <guid>2745694</guid>
             <pubDate>Tue, 19 Jul 2022 15:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：陪审团议定，特斯拉车祸的死者应该对特斯拉汽车在佛罗里达高速行驶时发生的撞车事故负责。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4490360.d.html</link>
-            <guid>2745693</guid>
-            <pubDate>Tue, 19 Jul 2022 15:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰考虑冻结两年期欧元债券的兑付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2613662.d.html</link>
-            <guid>2745690</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国通信行业工会（UCWU）：英国邮政行业1.5万工人投票，决定举行全英大罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2613612.d.html</link>
-            <guid>2745688</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【约旦称向叙利亚提出水资源需求被拒绝】当地时间7月19日，约旦水利大臣穆罕默德·纳贾尔表示，约旦向叙利亚方面提出请求，希望叙方为约方提供3000万立方米的淡水，但这一请求近期被叙方以缺水为由拒绝。约旦媒体报道称，叙利亚方面的行为违反了与瓦赫达水坝有关的水资源共享协议，该座水坝坐落于叙约边境的耶尔穆克河，于2004年开工，并于2011年投入使用。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4489455.d.html</link>
-            <guid>2745686</guid>
-            <pubDate>Tue, 19 Jul 2022 15:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源巨头Uniper监事会7月19日举行特别会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2613461.d.html</link>
-            <guid>2745685</guid>
-            <pubDate>Tue, 19 Jul 2022 15:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国多州持续高温 用电量预计将打破历史纪录】当地时间7月19日，美国当地电网运营商表示，随着持续不断的高温天气，得克萨斯州和美国中部其他州的用电量预计将在未来几天打破历史纪录。运营商称已开始采取措施，以确保有足够的资源满足持续飙升的用电需求。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2612831.d.html</link>
-            <guid>2745676</guid>
-            <pubDate>Tue, 19 Jul 2022 15:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间19日晚，伊朗最高领袖哈梅内伊在德黑兰会见到访的俄罗斯总统普京。（央视）]]></title>
-            <guid>2745673</guid>
-            <pubDate>Tue, 19 Jul 2022 15:04:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
