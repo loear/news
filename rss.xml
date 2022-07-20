@@ -4,11 +4,35 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 20 Jul 2022 17:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 18:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：波兰解职负责能源基础设施的官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-21/detail-imizmscv2833340.d.html</link>
+            <guid>2747385</guid>
+            <pubDate>Wed, 20 Jul 2022 18:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟经济委员真蒂洛尼：意大利可能会面临发生“完美风暴”的风险，对意大利来说，未来几个月可能会很艰难。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-21/detail-imizirav4709525.d.html</link>
+            <guid>2747377</guid>
+            <pubDate>Wed, 20 Jul 2022 17:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利政治人物：希望意大利人在民意调查中能显示出比国家政客更多的智慧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-21/detail-imizmscv2831049.d.html</link>
+            <guid>2747368</guid>
+            <pubDate>Wed, 20 Jul 2022 17:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美高级军官：总统拜登政府正在考虑各种选择，包括训练乌克兰飞行员，但目前尚未作出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-21/detail-imizirav4708412.d.html</link>
+            <guid>2747366</guid>
+            <pubDate>Wed, 20 Jul 2022 17:36:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美高级军官：伊朗向俄罗斯提供无人机的做法不是个恰当的选择。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-21/detail-imizmscv2830331.d.html</link>
@@ -140,52 +164,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2822487.d.html</link>
             <guid>2747293</guid>
             <pubDate>Wed, 20 Jul 2022 15:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【容百科技第三代超高镍Ni92-96体系预计年内小规模量产】从容百科技2022年战略发布会上获悉，该公司战略为全市场覆盖的正极材料综合供应商。截至目前，其已进入第二代高镍产品阶段，Ni90体系正在开发中，已进入批量量产阶段；第三代超高镍Ni92-96体系目前正在配合客户开发，预计今年实现小规模量产。此外，该公司2025年产能规划为：高镍正极材料60万吨、磷酸锰铁锂材料30万吨、钠电材料10万吨；2030年，仅高镍正极材料产能规划在100万吨以上。（科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4699779.d.html</link>
-            <guid>2747288</guid>
-            <pubDate>Wed, 20 Jul 2022 15:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统办公室称，需要2-4个月才能重振经济，前提是接受外国贷款，限制支出。]]></title>
-            <guid>2747286</guid>
-            <pubDate>Wed, 20 Jul 2022 15:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟势将升级与匈牙利总理欧尔班就法律问题的冲突，将行使预算权力使匈牙利面临新的危机。]]></title>
-            <guid>2747285</guid>
-            <pubDate>Wed, 20 Jul 2022 15:34:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[供应链问题继续拖累汽车生产，欧洲汽车制造商协会数据显示，6月欧盟乘用车注册量暴跌15.4%至886510辆，为1996年以来最差6月数据。德国注册量暴跌18.1%，意大利和法国的注册量分别下降15%和14.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2821553.d.html</link>
-            <guid>2747276</guid>
-            <pubDate>Wed, 20 Jul 2022 15:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟与匈牙利就法治问题的禁令的冲突将升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2821491.d.html</link>
-            <guid>2747273</guid>
-            <pubDate>Wed, 20 Jul 2022 15:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统办公室称，需要2-4个月才能重振经济，前提是接受外国贷款，限制支出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4699067.d.html</link>
-            <guid>2747272</guid>
-            <pubDate>Wed, 20 Jul 2022 15:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：西门子对俄罗斯天然气工业股份公司（GAZPROM）要求归还涡轮机的官方文件的声明发表评论。西门子表示，如果有这样的要求，将为北溪管道继续维护涡轮机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizmscv2821132.d.html</link>
-            <guid>2747271</guid>
-            <pubDate>Wed, 20 Jul 2022 15:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因炎热和干旱，德国内河航运装载量下降50%】 受炎热和干旱天气影响，德国莱茵河、多瑙河和其他河流水位下降，内河航运的货船最多只能装载50%的货物，这一方面使得运输成本进一步上升，另一方面也让粮食和煤炭等重要物资难以运输。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-20/detail-imizirav4698295.d.html</link>
-            <guid>2747265</guid>
-            <pubDate>Wed, 20 Jul 2022 15:17:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
