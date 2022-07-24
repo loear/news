@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 24 Jul 2022 15:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 16:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯外长拉夫罗夫：将由俄罗斯、土耳其和另一位稍后确定的参与者在黑海护航乌克兰粮食。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5245060.d.html</link>
+            <guid>2751052</guid>
+            <pubDate>Sun, 24 Jul 2022 16:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【二季度多家基金公司精准“抄底” 收获颇丰】二季度，面对市场的震荡调整，基金公司密集出手，纷纷自购起旗下基金。梳理发现，多家基金公司更是精准买到了底部，已收获颇丰。数据显示，二季度，超200只基金收获了自家公司的资金支持，其中，100多只基金获净申购份额超过1000万份。部分基金公司更是精准在买在底部，如今已收获颇丰。4月28日，兴证全球基金申购兴全合宜混合1795.91万份，合计成交金额为2500万元。类似的还有中欧预见养老目标日期2050五年持有期混合（FOF），二季度，中欧基金合计买入9000万元，共分为三次买入。 (中证网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-24/detail-imizmscv3358143.d.html</link>
+            <guid>2751050</guid>
+            <pubDate>Sun, 24 Jul 2022 15:28:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国迎来持续高温天气 多地进入高温紧急状态】当地时间7月23日至24日，美国多地迎来持续高温天气，超过9000万美国人现在处于高温警报之下。据报道，美国东北和中南部地区的气温可能会达到40.5摄氏度，中部部分地区的气温会高达43.3摄氏度。据报道，华盛顿特区、费城市等地陆续于本周宣布进入高温紧急状态。华盛顿特区市长穆里尔·鲍泽表示，紧急情况将至少持续到25日早上。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-24/detail-imizirav5241383.d.html</link>
@@ -390,23 +402,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-24/detail-imizirav5213106.d.html</link>
             <guid>2750955</guid>
             <pubDate>Sun, 24 Jul 2022 08:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国储备棉管理有限公司定于2022年7月25日采购中央储备棉6000吨（公定重量）。]]></title>
-            <guid>2750950</guid>
-            <pubDate>Sun, 24 Jul 2022 08:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月24日16时31分在广东河源市源城区（有感）发生2.7级地震，震源深度8千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-24/detail-imizirav5212247.d.html</link>
-            <guid>2750949</guid>
-            <pubDate>Sun, 24 Jul 2022 08:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统经济顾问：如果乌克兰的港口畅通，乌克兰可以在8-9个月内运送6000万吨粮食。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-24/detail-imizirav5212165.d.html</link>
-            <guid>2750948</guid>
-            <pubDate>Sun, 24 Jul 2022 08:37:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
