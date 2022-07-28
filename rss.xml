@@ -4,11 +4,77 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 28 Jul 2022 19:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 20:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据报道，阿根廷经济部长向总统费尔南德斯递交辞呈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5848367.d.html</link>
+            <guid>2756212</guid>
+            <pubDate>Thu, 28 Jul 2022 20:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)：第二季度产品净销售额为565.75亿美元，去年同期为580.04亿美元；服务净销售额为646.59亿美元，去年同期为550.76亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5848291.d.html</link>
+            <guid>2756211</guid>
+            <pubDate>Thu, 28 Jul 2022 20:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ROKU(ROKU.O)盘后重挫28%，第二季度业绩差于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5848170.d.html</link>
+            <guid>2756210</guid>
+            <pubDate>Thu, 28 Jul 2022 20:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：总统拜登将继续对气候问题采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3953470.d.html</link>
+            <guid>2756208</guid>
+            <pubDate>Thu, 28 Jul 2022 20:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一太阳能预计全年运营利润0.05-0.70亿美元，公司先前预计0.55-1.50亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5847712.d.html</link>
+            <guid>2756206</guid>
+            <pubDate>Thu, 28 Jul 2022 20:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)第二季度净亏损5亿美元，市场预期盈利22.37亿美元，去年同期盈利50.61亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5847680.d.html</link>
+            <guid>2756204</guid>
+            <pubDate>Thu, 28 Jul 2022 20:09:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMAX二季度调整后EPS为0.07美元，分析师预期0.13美元。二季度收入0.74亿美元，分析师预期0.737亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5847550.d.html</link>
+            <guid>2756202</guid>
+            <pubDate>Thu, 28 Jul 2022 20:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)第二季度营收153亿美元，市场预期179.24亿美元，去年同期185.33亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3952829.d.html</link>
+            <guid>2756199</guid>
+            <pubDate>Thu, 28 Jul 2022 20:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)第二季度净利润20亿美元，市场预期13.81亿美元，去年同期77.78亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3952714.d.html</link>
+            <guid>2756197</guid>
+            <pubDate>Thu, 28 Jul 2022 20:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国杂货配送公司Instacart计划在2022年年底之前IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3951850.d.html</link>
+            <guid>2756191</guid>
+            <pubDate>Thu, 28 Jul 2022 19:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：期待签署芯片法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5845964.d.html</link>
+            <guid>2756184</guid>
+            <pubDate>Thu, 28 Jul 2022 19:27:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黎巴嫩海关官员：由于怀疑货物被盗，海关没有在的黎波里港卸下受制裁的叙利亚船只的货物。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5845091.d.html</link>
@@ -114,84 +180,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3945304.d.html</link>
             <guid>2756114</guid>
             <pubDate>Thu, 28 Jul 2022 17:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国在叙利亚非法驻军向其基地运送物资】当地时间7月28日，美国在叙利亚的非法驻军使用15辆油罐车和卡车，自伊拉克通过叙伊之间的非法过境点瓦里德，向叙利亚东北部美军基地运送物资，以强化其军事存在并支持其控制的反对派武装。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5839885.d.html</link>
-            <guid>2756112</guid>
-            <pubDate>Thu, 28 Jul 2022 17:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：国会应该通过气候和降低通胀法案，降低通胀法案是降低通胀的最有力途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3945196.d.html</link>
-            <guid>2756111</guid>
-            <pubDate>Thu, 28 Jul 2022 17:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：医疗保险将有权力为降低处方药价格进行谈判。降低通胀法案将减轻通胀压力。降低通胀法案将降低医疗成本，并成为能源安全方面的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5839413.d.html</link>
-            <guid>2756104</guid>
-            <pubDate>Thu, 28 Jul 2022 17:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空：预计2023年第一季度的运力将较2022年第一季度增长10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3944533.d.html</link>
-            <guid>2756101</guid>
-            <pubDate>Thu, 28 Jul 2022 16:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司EDF：7月29-31日，将把Cruas 2号法国核反应堆的发电量从915 MW降低至365 MW。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5838555.d.html</link>
-            <guid>2756097</guid>
-            <pubDate>Thu, 28 Jul 2022 16:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软(MSFT.O)Microsoft 365表示收到报告反馈，一些北美地区的用户无法访问管理中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5838339.d.html</link>
-            <guid>2756096</guid>
-            <pubDate>Thu, 28 Jul 2022 16:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月29日00时32分在青海果洛州玛多县发生3.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3943454.d.html</link>
-            <guid>2756094</guid>
-            <pubDate>Thu, 28 Jul 2022 16:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙今年7月已有超过1900人死于高温天气】 当地时间7月28日，西班牙卡洛斯三世健康研究所的统计显示，该国今年7月至今的极端高温天气已经导致1913人死亡。这一数据大约是2021年同期的4倍之多。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5838156.d.html</link>
-            <guid>2756093</guid>
-            <pubDate>Thu, 28 Jul 2022 16:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利能源巨头埃尼集团（ENI）：董事会批准2022年第一笔派息，为每股0.22欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3943289.d.html</link>
-            <guid>2756090</guid>
-            <pubDate>Thu, 28 Jul 2022 16:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部当地时间7月28日发表声明称，德国外长贝尔伯克将于当地时间29日访问土耳其，双方将就两国双边关系、土耳其和欧盟关系、乌克兰局势等地区热点问题进行讨论。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3942917.d.html</link>
-            <guid>2756087</guid>
-            <pubDate>Thu, 28 Jul 2022 16:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Ossoff：美国需要可靠的能源来源。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3942700.d.html</link>
-            <guid>2756085</guid>
-            <pubDate>Thu, 28 Jul 2022 16:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰国家电网运营商表示，欧洲电网运营商允许乌克兰向欧洲出口的电力从7月30日的100MW增加到250MW。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizmscv3942635.d.html</link>
-            <guid>2756084</guid>
-            <pubDate>Thu, 28 Jul 2022 16:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Ossoff：气候法案中关于美国制造业的内容令人鼓舞。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-29/detail-imizirav5837355.d.html</link>
-            <guid>2756083</guid>
-            <pubDate>Thu, 28 Jul 2022 16:30:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
