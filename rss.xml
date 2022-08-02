@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 02 Aug 2022 18:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 19:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[调查显示，英国保守党党首候选人特拉斯在党内支持率为60%，苏纳克支持率为26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4602625.d.html</link>
+            <guid>2760454</guid>
+            <pubDate>Tue, 02 Aug 2022 19:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)：目前有一些设备遇到了流媒体服务问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4601859.d.html</link>
+            <guid>2760447</guid>
+            <pubDate>Tue, 02 Aug 2022 19:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：亚马逊(AMZN.O)仓库面临着更大范围的安全隐患调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4601726.d.html</link>
+            <guid>2760445</guid>
+            <pubDate>Tue, 02 Aug 2022 19:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货市场交易中，巴西雷亚尔兑美元下跌2.01%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4601681.d.html</link>
+            <guid>2760443</guid>
+            <pubDate>Tue, 02 Aug 2022 19:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国商务部消息，美国已将俄罗斯航空公司25架飞机列入违反出口管制的名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4601644.d.html</link>
+            <guid>2760441</guid>
+            <pubDate>Tue, 02 Aug 2022 18:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【应对劳动力短缺 三星计划建无人工厂】世界顶级内存芯片制造商三星电子正计划建造一座“无人工厂”，以解决因“人口悬崖”造成的人力短缺问题。据韩国经济日报1日援引业内人士的消息称，三星最近成立了一个工作组，计划最早在2030年前将关键工厂打造成“无人工厂”，工厂内所有生产过程都将使用自动化机器来进行操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizirav6504953.d.html</link>
+            <guid>2760437</guid>
+            <pubDate>Tue, 02 Aug 2022 18:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首艘乌克兰运粮船抵达土耳其博斯普鲁斯海峡入海口】当地时间8月2日21时许，首艘乌克兰运粮船已进入土耳其博斯普鲁斯海峡入海口，目前正停泊在入海口相关区域。此前土耳其国防部称，当地时间8月3日上午，由俄罗斯、乌克兰、土耳其和联合国共同成立的联合协调中心将在指定地点对该运粮船进行安全检查，确保没有携带武器以及其他不相关的物品后，首艘乌克兰粮船将继续前往目的地黎巴嫩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizmscv4600375.d.html</link>
+            <guid>2760432</guid>
+            <pubDate>Tue, 02 Aug 2022 18:32:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国司法部对爱达荷州六周堕胎禁令提起诉讼】据报道，当地时间8月2日，美国司法部对爱达荷州禁止怀孕六周女性堕胎的法律提出诉讼。这起诉讼在美国爱达荷州地区法院提出，诉讼书认为联邦《紧急医疗处理及劳工法案》（Emergency Medical Treatment and Labor Act，简称EMTLA）应优先于州法律。根据法案内容，医生必须在紧急情况下进行堕胎以稳定病人情况。据悉，禁止堕胎的州法律定于8月25日生效。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizirav6503000.d.html</link>
@@ -123,50 +165,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-03/detail-imizirav6496333.d.html</link>
             <guid>2760364</guid>
             <pubDate>Tue, 02 Aug 2022 16:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月02日23时46分在四川泸州市泸县（北纬29.16度，东经105.55度）发生3.1级地震，震源深度10千米。]]></title>
-            <guid>2760351</guid>
-            <pubDate>Tue, 02 Aug 2022 15:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber(UBER.N)CEO：我们将“用各种方式”和亚马逊(AMZN.O)合作。]]></title>
-            <guid>2760349</guid>
-            <pubDate>Tue, 02 Aug 2022 15:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：第一艘离开乌克兰港口的粮食运输船在周三的检查前在土耳其海岸被发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-02/detail-imizirav6495219.d.html</link>
-            <guid>2760346</guid>
-            <pubDate>Tue, 02 Aug 2022 15:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基办公室：包括德国在内的几个欧盟国家阻止向乌克兰提供81亿美元的财政援助。（卫星新闻）]]></title>
-            <guid>2760344</guid>
-            <pubDate>Tue, 02 Aug 2022 15:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西门子能源：德国总理朔尔茨将在周三访问本公司，届时他将看到北溪一号的涡轮机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-02/detail-imizmscv4590928.d.html</link>
-            <guid>2760343</guid>
-            <pubDate>Tue, 02 Aug 2022 15:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥经济部：美墨加协定（USMCA）关于汽车原产地规则的小组会议将于当地时间星期二和星期三在华盛顿举行。]]></title>
-            <guid>2760340</guid>
-            <pubDate>Tue, 02 Aug 2022 15:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：洪都拉斯近海地区发生5.9级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-02/detail-imizirav6493733.d.html</link>
-            <guid>2760336</guid>
-            <pubDate>Tue, 02 Aug 2022 15:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东部战区将开展系列联合军事行动】东部战区新闻发言人施毅陆军大校表示，8月2日晚开始，中国人民解放军东部战区将在台岛周边开展一系列联合军事行动，在台岛北部、西南、东南海空域进行联合海空演训，在台湾海峡进行远程火力实弹射击，在台岛东部海域组织常导火力试射。此次行动，是针对美近期在台湾问题上消极举动重大升级采取的严正震慑，是对“台独”势力谋“独”行径的严重警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-02/detail-imizirav6493393.d.html</link>
-            <guid>2760335</guid>
-            <pubDate>Tue, 02 Aug 2022 15:21:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
