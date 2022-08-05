@@ -6,6 +6,39 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2764294,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizirav6966519.d.html",
+            "title": "纽交所ARCA钢铁指数收涨1.96%，报1563.23点，本周累跌0.40%。",
+            "date_modified": "2022-08-05T20:53:11.000Z"
+        },
+        {
+            "id": 2764291,
+            "content_html": "",
+            "title": "美国印第安纳州地方议会批准一份立法草案，当地将近500万印第安居民将获得200美元退税支票，用于应对高通胀问题。",
+            "date_modified": "2022-08-05T20:45:48.000Z"
+        },
+        {
+            "id": 2764290,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizirav6966180.d.html",
+            "title": "【受雷暴天气影响 8月5日美国上千航班被取消】由于雷暴天气席卷美国东海岸，8月5日美国有大量航班被取消或延误。根据航班追踪数据公司FlightAware的报告，截至美东时间8月5日16时，当天美国已有1224个航班被取消，4867个进出美国的航班被延误。其中，纽约拉瓜迪亚机场、纽瓦克自由国际机场和华盛顿特区里根国家机场为取消航班数量最多的机场。",
+            "date_modified": "2022-08-05T20:44:56.000Z"
+        },
+        {
+            "id": 2764289,
+            "content_html": "",
+            "title": "Meta Platform暂缓收购VR公司Within Unlimited Inc.的交易，以便应付美国联邦贸易委员会（FTC）针对这宗交易所发起的反垄断诉讼——FTC担心收购Within会让Meta一家独大。Within的产品包括健身APP Supernatural。",
+            "date_modified": "2022-08-05T20:43:29.000Z"
+        },
+        {
+            "id": 2764288,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizmscv5052779.d.html",
+            "title": "【中国代表严厉抨击美国在核裁军问题上的消极政策举措】中国裁军事务大使李松5日在《不扩散核武器条约》第十次审议大会上做专题发言，全面阐述中国关于核裁军问题的立场，并严厉抨击美国的消极政策举措。",
+            "date_modified": "2022-08-05T20:42:07.000Z"
+        },
+        {
             "id": 2764269,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizmscv5051828.d.html",
@@ -289,31 +322,6 @@
             "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizirav6956266.d.html",
             "title": "【雅万高铁高速动车组和综合检测列车在青岛下线】8月5日，雅万高铁高速动车组和综合检测列车在青岛下线，11组高速动车组和1组综合检测列车即将运往印尼。",
             "date_modified": "2022-08-05T17:22:12.000Z"
-        },
-        {
-            "id": 2764087,
-            "content_html": "",
-            "title": "俄土联合声明：俄罗斯总统普京和土耳其总统埃尔多安确认了合作打击叙利亚恐怖组织的决心。",
-            "date_modified": "2022-08-05T17:15:05.000Z"
-        },
-        {
-            "id": 2764086,
-            "content_html": "",
-            "title": "【巴克莱：将Lyft(LYFT.O)目标价从32美元下调至20美元 维持持股观望评级】巴克莱分析师Ross Sandler在Lyft第二季度业绩公布后，将Lyft的目标价从32美元降至20美元，并保持对该股的持股观望评级。桑德勒在研报中称，该公司的乐观基调在某种程度上被一系列会计调整和补充所掩盖。",
-            "date_modified": "2022-08-05T17:10:15.000Z"
-        },
-        {
-            "id": 2764084,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-08-06/detail-imizmscv5041507.d.html",
-            "title": "贝克休斯油服：美国钻井工人五周来首次削减石油和天然气钻井平台。",
-            "date_modified": "2022-08-05T17:05:03.000Z"
-        },
-        {
-            "id": 2764077,
-            "content_html": "",
-            "title": "【花旗：将DoorDash(DASH.N)目标价从118美元上调至129美元 维持买入评级】花旗银行分析师Ronald Josey将DoorDash目标价从118美元提高到129美元，并保持对该股的买入评级。该分析师认为该公司第二季度的业绩对该股有“渐进式利好”，并指出DoorDash的订单同比增长23.5%。Josey在研报中称，尽管宏观压力增加，但月度活跃用户和DashPass会员达到了新高。",
-            "date_modified": "2022-08-05T16:55:56.000Z"
         }
     ]
 }
