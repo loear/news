@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 Aug 2022 17:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 18:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国希斯罗机场附近发生火灾】当地时间8月7日傍晚，英国希斯罗机场附近地区发生火灾，目前尚未查明起火原因。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-08/detail-imizmscv5260586.d.html</link>
+            <guid>2765199</guid>
+            <pubDate>Sun, 07 Aug 2022 18:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【8月7日新疆生产建设兵团第四师新增6例无症状感染者】8月7日0-24时，新疆生产建设兵团第四师六十四团新增6例无症状感染者，以上人员均在集中隔离医学观察点核酸检测时检出，并已闭环转运至方舱医院接受隔离医学观察。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-08/detail-imizmscv5257620.d.html</link>
@@ -375,29 +381,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-07/detail-imizirav7149438.d.html</link>
             <guid>2764977</guid>
             <pubDate>Sun, 07 Aug 2022 11:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：敦促国际社会对俄罗斯作出更强有力的反应】乌克兰总统泽连斯基：敦促国际社会在扎波罗热核电站的新炮击事件后，对俄罗斯的“核恐怖主义”作出更强有力的反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-07/detail-imizmscv5232435.d.html</link>
-            <guid>2764976</guid>
-            <pubDate>Sun, 07 Aug 2022 11:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河南省副省长：将打造7个万亿级先进制造业集群】河南省委常委、副省长费东斌表示，到“十四五”末，我们将新增规模以上企业10000家，专精特新中小企业5000家，进而实现我们7个万亿级、3个5000亿级的先进制造业的集群。坚持制造业高质量发展的主攻方向，全力推动产业转型升级。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-07/detail-imizirav7148793.d.html</link>
-            <guid>2764975</guid>
-            <pubDate>Sun, 07 Aug 2022 11:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北方铜业：非公开发行股份8116.88万股将解禁上市】北方铜业公告，公司非公开发行股份8116.88万股将于8月11日解除限售上市流通，该部分股份占公司总股本的4.58%。此次申请解除股份限售的发行对象共9名，涉及证券账户数为47户，发行时承诺的限售期为6个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-07/detail-imizmscv5231640.d.html</link>
-            <guid>2764974</guid>
-            <pubDate>Sun, 07 Aug 2022 11:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：加沙地带向以色列发射了580枚导弹，其中450枚导弹落入以色列领土。]]></title>
-            <guid>2764972</guid>
-            <pubDate>Sun, 07 Aug 2022 10:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
