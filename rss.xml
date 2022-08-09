@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 09 Aug 2022 18:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 19:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：拜登将继续寻求增加石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7485912.d.html</link>
+            <guid>2767479</guid>
+            <pubDate>Tue, 09 Aug 2022 19:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特：我们已经修复了加载问题，调整了没有按预期运作的内部系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7485901.d.html</link>
+            <guid>2767478</guid>
+            <pubDate>Tue, 09 Aug 2022 19:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大安大略省将2022-23财年的赤字预期下调至188亿加元（此前为199亿加元），因预期税收收入将提高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7485438.d.html</link>
+            <guid>2767476</guid>
+            <pubDate>Tue, 09 Aug 2022 18:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海南五指山全域核酸检测均为阴性。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5560872.d.html</link>
+            <guid>2767472</guid>
+            <pubDate>Tue, 09 Aug 2022 18:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月10日02时41分在新疆阿克苏地区温宿县（北纬41.94度，东经80.82度）发生3.0级地震，震源深度18千米。]]></title>
+            <guid>2767471</guid>
+            <pubDate>Tue, 09 Aug 2022 18:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国流行糖尿病药物被发现含有潜在致癌物质，但仍将被准许销售】 据报道，一种广泛使用的糖尿病药物——默沙东公司的口服降糖药Januvia中所含有的的活性成分，被发现受到潜在致癌物质的污染。美国食品药品监督管理局（FDA）表示，在该公司药物的一些样品中发现一种名为亚硝胺的杂质，但FDA仍将允许默沙东继续销售亚硝胺含量高于允许水平的Januvia药物，以避免其出现短缺。Januvia是默沙东公司第三畅销的药物，去年销售额达33亿美元。默沙东（MRK）短线下挫超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7484764.d.html</link>
+            <guid>2767468</guid>
+            <pubDate>Tue, 09 Aug 2022 18:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特：部分用户的推特没有加载，我们正在修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7484756.d.html</link>
+            <guid>2767467</guid>
+            <pubDate>Tue, 09 Aug 2022 18:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软试图通过限制差旅和团队开支来减少业务开支】微软(MSFT.O)正试图在当前的经济环境下控制成本，要求全公司的团队控制部分员工开支。该公司管理层告诉员工，将对公司的预算进行各种削减，一些用于商务旅行、外部培训和公司聚会的开支被列为目标。微软一直在寻找其他控制成本的方法。它已经冻结了公司某些部门的招聘，并在上个月表示，它计划裁减约18.1万名员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5560054.d.html</link>
+            <guid>2767466</guid>
+            <pubDate>Tue, 09 Aug 2022 18:35:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[意大利生态过渡部长：根据欧盟协议，意大利今年将减少50亿立方米的天然气使用量。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5559428.d.html</link>
@@ -168,52 +215,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5550442.d.html</link>
             <guid>2767382</guid>
             <pubDate>Tue, 09 Aug 2022 15:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：通用汽车对向电动汽车电池相关矿产资源开采企业提供资金持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5549698.d.html</link>
-            <guid>2767377</guid>
-            <pubDate>Tue, 09 Aug 2022 15:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里米亚地区领导人：克里米亚地区发生的爆炸造成一人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5549190.d.html</link>
-            <guid>2767375</guid>
-            <pubDate>Tue, 09 Aug 2022 15:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于“材料成本大幅增加”，福特汽车(F.N)将纯电动皮卡F-150 Lightning的价格提高至多8500美元。]]></title>
-            <guid>2767374</guid>
-            <pubDate>Tue, 09 Aug 2022 15:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)：7月获130份订单，今年累计获362份净订单。目前积压订单上升至4370架，上月为4239架。]]></title>
-            <guid>2767372</guid>
-            <pubDate>Tue, 09 Aug 2022 15:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)：7月共交付26架飞机，今年累计交付242架飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7473103.d.html</link>
-            <guid>2767370</guid>
-            <pubDate>Tue, 09 Aug 2022 15:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国处方药价格高居不下】调查研究发现，美国处方药价格平均比调查其他32个国家高出约150%。美国患者为处方药支付的价格甚至是韩国、葡萄牙和澳大利亚民众的三倍。土耳其的处方药价格最便宜，美国人支付的费用几乎是当地居民支付价格的八倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7473050.d.html</link>
-            <guid>2767369</guid>
-            <pubDate>Tue, 09 Aug 2022 15:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲多地干旱令能源危机愈演愈烈】据法国气象局发布，法国正在经历1958年有记录以来最严重的干旱，上月法国全国平均降水量甚至不足10毫米。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7472867.d.html</link>
-            <guid>2767368</guid>
-            <pubDate>Tue, 09 Aug 2022 15:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国可能计划在明年1月实施限电措施】据报道，英国计划在冬季寒冷的并可能缺少天然气供应的日子里对工业甚至家庭实施为期数天的限电措施。据消息人士称，根据政府对“最坏情景”的最新预测，英国可能面临峰值需求六分之一的电力缺口，即使在紧急燃煤电厂启动后也是如此。在这种前景下，低于平均水平的气温以及从挪威和法国进口电力的减少，可能会使英国在明年1月份有四天时间需要启动紧急措施以节约天然气。英国政府商业、能源和产业战略部门没有立即回应置评请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7472221.d.html</link>
-            <guid>2767363</guid>
-            <pubDate>Tue, 09 Aug 2022 15:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
