@@ -4,11 +4,68 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 09 Aug 2022 13:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“广州番禺发布”微信公众号消息，8月9日，番禺区在集中隔离场所在管密切接触者中发现2名省外返穗人员核酸检测阳性，该2人为8月6日省外返穗本土确诊病例的同行人员。]]></title>
+            <guid>2767329</guid>
+            <pubDate>Tue, 09 Aug 2022 14:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格芯二季度营收19.9亿美元，同比增23%，分析师预期为19.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7469088.d.html</link>
+            <guid>2767326</guid>
+            <pubDate>Tue, 09 Aug 2022 14:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist：将英伟达(NVDA.O)目标价下调至216美元，维持买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7468810.d.html</link>
+            <guid>2767324</guid>
+            <pubDate>Tue, 09 Aug 2022 14:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟：2022至2023年度大豆进口量为135万吨，去年同期进口量为154万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5544049.d.html</link>
+            <guid>2767323</guid>
+            <pubDate>Tue, 09 Aug 2022 14:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟：2022至2023年度玉米进口量为199万吨，去年同期进口量为137万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7468095.d.html</link>
+            <guid>2767322</guid>
+            <pubDate>Tue, 09 Aug 2022 14:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国报告首例儿童猴痘病例】德国疾控机构罗伯特·科赫研究所9日报告，该国一名4岁女童确诊感染猴痘病毒。这是德国报告的首例儿童感染猴痘病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7468030.d.html</link>
+            <guid>2767321</guid>
+            <pubDate>Tue, 09 Aug 2022 14:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟：2022至2023年度大麦出口量约为94.84万吨，去年同期出口量为180万吨。]]></title>
+            <guid>2767320</guid>
+            <pubDate>Tue, 09 Aug 2022 14:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟：2022至2023年度软小麦出口量为249万吨，去年同期出口量为245万吨。]]></title>
+            <guid>2767319</guid>
+            <pubDate>Tue, 09 Aug 2022 14:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【1-7月长江干线港口完成货物吞吐量超20亿吨】记者从交通运输部长江航务管理局获悉，随着长江航运高质量发展深入推进，长江航运服务长江经济带、长三角一体化等国家战略能力明显提升。今年1-7月，长江干线港口完成货物吞吐量20.2亿吨、集装箱吞吐量1367万标箱，同比增长1.0%、6.0%；港口集装箱铁水联运量完成21.7万标箱，同比增长86.5%。 (央视)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7467361.d.html</link>
+            <guid>2767316</guid>
+            <pubDate>Tue, 09 Aug 2022 14:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：空军基地的爆炸是由航空弹药爆炸引起的。没有袭击乌曼附近的弹药库。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7466283.d.html</link>
+            <guid>2767311</guid>
+            <pubDate>Tue, 09 Aug 2022 13:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乌克兰国家天然气运输公司：8月10日通过Sudzha中转站的天然气运输量为4164万立方米，8月9日为4213万立方米。]]></title>
             <guid>2767309</guid>
@@ -301,101 +358,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5531658.d.html</link>
             <guid>2767229</guid>
             <pubDate>Tue, 09 Aug 2022 12:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部表示愿为国际原子能机构访问扎波罗热提供最大帮助】俄罗斯外交部当地时间9日发表声明，强调俄方在6月3日就与国际原子能机构秘书处管理层就原子能机构国际代表团前往扎波罗热核电站的路线和时间表达成完全一致。考察团预计由多个国家的知名专家组成，计划由国际原子能机构总干事格罗西亲自带队。俄方希望，在当前形势下，联合国秘书长充分认识到自己的责任，不要通过他所在的秘书处部门或联合国机制的其他部门阻挠国际原子能机构的任务。俄方愿意为解决所有组织问题提供尽可能的帮助。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7455375.d.html</link>
-            <guid>2767227</guid>
-            <pubDate>Tue, 09 Aug 2022 12:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多瑞医药：拟收购亳州天济40%股权】多瑞医药公告，公司签署《投资意向协议》，公司拟受让湖北天济持有的亳州天济40%股权。公司本次投资亳州天济，有利于加快推进完善公司中医药产业布局，有利于进一步增强公司盈利能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7455278.d.html</link>
-            <guid>2767226</guid>
-            <pubDate>Tue, 09 Aug 2022 12:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北方华创：公司董事杨征接受有关部门调查】北方华创公告，从中央纪委国家监委网站获悉，华芯投资管理有限责任公司投资三部副总经理杨征帆涉嫌严重违纪违法，经中央纪委国家监委指定管辖，目前正接受中央纪委国家监委驻工业和信息化部纪检监察组纪律审查，北京市监委监察调查。杨征帆担任公司第七届董事会董事、战略委员会委员职务，鉴于上述原因已无法正常履职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7455247.d.html</link>
-            <guid>2767225</guid>
-            <pubDate>Tue, 09 Aug 2022 12:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【熵基科技中签号出炉：约3.3万个】熵基科技披露网上中签结果，中签号码共32980个，每个中签号码能认购500股熵基科技A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5530826.d.html</link>
-            <guid>2767224</guid>
-            <pubDate>Tue, 09 Aug 2022 12:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LCD面板降价 液晶电视销量增加】LCD面板作为液晶电视的主要原材料，自去年三季度开始，价格从高点下降，目前仍处于低位。记者走访了一些电视门店后发现，多款液晶电视出现降价，这两个月电视销售迎来一波小高潮。上海某家电旗舰店销售员表示，一款电视去年卖11999元，今年只卖到6999元。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7454560.d.html</link>
-            <guid>2767223</guid>
-            <pubDate>Tue, 09 Aug 2022 12:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【易点天下中签号出炉：约5.89万个】易点天下披露网上中签结果，中签号码共58891个，每个中签号码能认购500股易点天下A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7454519.d.html</link>
-            <guid>2767222</guid>
-            <pubDate>Tue, 09 Aug 2022 12:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沪硅产业：董事杨征帆接受有关部门调查】沪硅产业公告，从中央纪委国家监委网站获悉，公司董事杨征帆涉嫌严重违纪违法，经中央纪委国家监委指定管辖，目前正接受中央纪委国家监委驻工业和信息化部纪检监察组纪律审查，北京市监委监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5530576.d.html</link>
-            <guid>2767221</guid>
-            <pubDate>Tue, 09 Aug 2022 12:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受“木兰”台风影响 港珠澳大桥9日14时起封闭】据广东省气象部门预报，今年第7号台风“木兰”预计8月10日白天在粤西至海南东部沿海登陆，珠海市沿岸和海面风力将达到6~8级，阵风9~11级。8月9日15时15分，珠海气象台正式发布黄色台风预警信点，港珠澳大桥所在区域广州港1号区于14时04分升挂台风信号四号风球。根据《港珠澳大桥广东水域通航安全管理办法》第十八条规定，自8月9日14时起，港珠澳大桥海事局对港珠澳大桥桥梁航道实施临时水上交通管制，禁止任何船舶通过桥梁航道。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5530388.d.html</link>
-            <guid>2767220</guid>
-            <pubDate>Tue, 09 Aug 2022 12:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：新钻井船的作业区在土耳其的主权领土内，不需要任何人的许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7454129.d.html</link>
-            <guid>2767219</guid>
-            <pubDate>Tue, 09 Aug 2022 12:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华东医药：拟以不超3.96亿元收购华仁科技60%股权】华东医药公告，全资子公司中美华东将合计出资不超过3.96亿元，以增资和受让股份的方式，获得华仁科技60%股权，成为其控股股东。华仁科技后续计划在芜湖江北产业集中区（化工园区）新征土地，投资核酸药物原料、生物试剂原料及功能材料生产扩建项目，项目分二期建设，一期快速落地核酸药物原料类系列产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7454015.d.html</link>
-            <guid>2767218</guid>
-            <pubDate>Tue, 09 Aug 2022 12:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其2022年能源支出将达到1000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7453640.d.html</link>
-            <guid>2767215</guid>
-            <pubDate>Tue, 09 Aug 2022 11:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：3艘土耳其钻井船在黑海进行作业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5529786.d.html</link>
-            <guid>2767214</guid>
-            <pubDate>Tue, 09 Aug 2022 11:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利油气集团（MOL）：正在就向乌克兰支付石油过境费的问题进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7453367.d.html</link>
-            <guid>2767212</guid>
-            <pubDate>Tue, 09 Aug 2022 11:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百济神州：替雷利珠单抗全球3期临床试验RATIONALE 301研究达到主要终点】百济神州港交所公告称，替雷利珠单抗（中文商品名：百泽安 ）全球3期临床试验RATIONALE 301研究达到主要终点，在治疗一线不可切除的肝细胞癌(HCC)成人患者中，替雷利珠单抗与索拉非尼相比，展示出在总生存期(OS)上的非劣效性，其安全性特徵与既往研究一致，未报告新的安全性警示。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizmscv5529357.d.html</link>
-            <guid>2767211</guid>
-            <pubDate>Tue, 09 Aug 2022 11:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澜起科技：上半年实现净利润6.8亿元 同比增长121.2%】澜起科技公告，上半年实现营业收入19.27亿元，同比增长166.04%；净利润6.8亿元，同比增长121.2%，基本每股收益0.6元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-09/detail-imizirav7452901.d.html</link>
-            <guid>2767210</guid>
-            <pubDate>Tue, 09 Aug 2022 11:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民日报原副总编梁衡起诉知网，法院已立案】记者8月9日获悉，人民日报社原副总编辑梁衡以著作权遭受侵权为由，委托代理公司起诉中国知网，该案已于8月2日在宁波市海曙区人民法院立案。梁衡曾任国家新闻出版署副署长、人民日报社副总编辑，是著名学者、记者、新闻理论家、作家。他无奈地说道：自己当年在国家新闻出版署参与了制定知识产权保护的工作，现在平台反过来侵他的权。平台用你的作品无商量，还伸手问你要钱。网络上的这种现象是对版权保护制度的挑衅、讽刺和羞辱。目前，梁衡的多篇文章在知网上已无法检索到。（长江日报）]]></title>
-            <guid>2767209</guid>
-            <pubDate>Tue, 09 Aug 2022 11:49:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
