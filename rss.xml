@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 Aug 2022 19:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 20:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SaaS初创公司CleverTap从CDPQ和老虎环球获得1.05亿美元融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizirav7641575.d.html</link>
+            <guid>2768605</guid>
+            <pubDate>Wed, 10 Aug 2022 20:14:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗否认美国指控一名伊朗人阴谋杀害特朗普前顾问称，这是“毫无根据的，出于政治动机”。伊朗外交部“强烈警告不要以这些荒谬的指控为借口对伊朗公民采取任何行动”。]]></title>
+            <guid>2768599</guid>
+            <pubDate>Wed, 10 Aug 2022 20:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰需要考虑如何给俄罗斯造成尽可能多的损失，以缩短冲突时间。]]></title>
+            <guid>2768597</guid>
+            <pubDate>Wed, 10 Aug 2022 19:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国机构：自2021年1月以来索马里因干旱而流离失所的人数已超百万】联合国人道主义事务协调厅当地时间9日表示，自2021年1月以来，索马里因干旱而流离失所的人数首次超过百万大关。该机构在索马里的西南地区观察到新的流离失所者。该机构警告说：“如果不紧急解决资金缺口，大范围饥荒的真正风险可能是不可避免的。”据了解，多个非洲之角国家正在经历40多年来最严重干旱。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizmscv5713371.d.html</link>
+            <guid>2768593</guid>
+            <pubDate>Wed, 10 Aug 2022 19:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞穗：将艾默生(EMR.N)的目标价由85美元上调至86美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizmscv5712883.d.html</link>
+            <guid>2768590</guid>
+            <pubDate>Wed, 10 Aug 2022 19:38:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国暴雨冲击多个行业】 韩国本周出现的80年以来最大暴雨已造成7000多辆汽车被淹，后续保险业将面临巨额理赔，另外，交通和部分行业阶段性瘫痪也将对韩国经济产生不利影响。韩联社报道指出，据三星火灾、DB损害保险、现代海上、梅瑞兹火灾、KB损害保险五大保险公司10日发布的数据，截至当天上午，共接到5657起浸水理赔申请，据此推算出的损失金额为774亿韩元（约合人民币4亿元）。（经济参考报）]]></title>
+            <guid>2768589</guid>
+            <pubDate>Wed, 10 Aug 2022 19:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【防疫法案即将到期，德国秋冬季防疫新规惹争议】 鉴于现行法案将于9月底到期，德国政府眼下正在制定新的《感染保护法》。然而，对于联邦政府计划在今年秋冬季采取的一系列防疫措施，不仅各联邦州并不买账，医院方面也认为部分新规“行不通”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizmscv5712418.d.html</link>
+            <guid>2768586</guid>
+            <pubDate>Wed, 10 Aug 2022 19:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰航空：预计未来半年运营的座位数比计划中少1.5%，疾病状况持续导致混乱，目前机组人员病假率达到十多年来最高。]]></title>
+            <guid>2768584</guid>
+            <pubDate>Wed, 10 Aug 2022 19:22:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：埃克森美孚石油(XOM.N)据悉正在考虑扩展其国际交易，并将重新制定交易员的薪酬结构及奖金。]]></title>
             <guid>2768583</guid>
@@ -132,35 +176,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7627034.d.html</link>
             <guid>2768507</guid>
             <pubDate>Wed, 10 Aug 2022 15:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯钢铁生产和开采公司耶弗拉兹集团宣布准备出售其北美公司】俄罗斯最大钢铁生产和开采公司之一的耶弗拉兹集团（Evraz）10日发布公告称该集团准备出售其北美公司（EVRAZ North America, ENA）。公告称，出售根据英国金融制裁执行办公室（OFSI）颁发的一般许可进行，耶弗拉兹集团正就此事与OFSI联系。潜在的交易将需要监管部门和公司的批准，遵守适用的制裁立法，并获得包括OFSI在内的制裁监督机构的批准。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5700070.d.html</link>
-            <guid>2768504</guid>
-            <pubDate>Wed, 10 Aug 2022 15:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保加利亚将在8月16日液化天然气（LNG）拍卖中寻求四季度天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5699607.d.html</link>
-            <guid>2768499</guid>
-            <pubDate>Wed, 10 Aug 2022 15:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本北海道宗谷地区北部发生5.1级地震】据报道，当地时间11日0时35分左右，日本北海道宗谷地区北部发生5.1级地震，最大震感为震度5弱，震源深度10公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizmscv5699462.d.html</link>
-            <guid>2768496</guid>
-            <pubDate>Wed, 10 Aug 2022 15:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及7月核心CPI同比上升15.637%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7626057.d.html</link>
-            <guid>2768493</guid>
-            <pubDate>Wed, 10 Aug 2022 15:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国保险资产管理业协会8月10日发布的《中国保险资产管理业发展报告（2022）》显示，2021年保险公司资产配置结构仍以固定收益类为主，占比过半；超大型、大型寿险公司配置股票比例更高；股权投资计划增长最为突出，同比增长30%。报告显示，截至2021年末，保险公司股权投资（包括未上市企业股权、股权投资基金和股权投资计划，不含境外股权投资数据）规模为1.71万亿元，占总投资资产的比重为7.88%，仅次于债券、金融产品、银行存款，为保险资金的第四大资产配置类别。 （中证报）]]></title>
-            <guid>2768486</guid>
-            <pubDate>Wed, 10 Aug 2022 15:31:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
