@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 Aug 2022 18:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 19:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：埃克森美孚石油(XOM.N)据悉正在考虑扩展其国际交易，并将重新制定交易员的薪酬结构及奖金。]]></title>
+            <guid>2768583</guid>
+            <pubDate>Wed, 10 Aug 2022 19:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州监管机构批准了海上风力发电发展计划，要求在2030年前发电量达到5GW。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizirav7638334.d.html</link>
+            <guid>2768579</guid>
+            <pubDate>Wed, 10 Aug 2022 19:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特将贴现率提高25个基点至2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizmscv5710716.d.html</link>
+            <guid>2768574</guid>
+            <pubDate>Wed, 10 Aug 2022 18:49:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Nikola(NKLA.O)公司周三宣布，公司首席执行官Mark Russell将于今年年底退休，Michael Lohscheller将接替罗素的职位。后者曾是德国汽车制造商欧宝的首席执行官。]]></title>
+            <guid>2768573</guid>
+            <pubDate>Wed, 10 Aug 2022 18:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰基础设施部：又一运粮船抵达乌南部切尔诺莫斯克港装载谷物】 乌克兰基础设施部10日发布消息称，“OSPREYS”号货船于当天抵达乌克兰南部切尔诺莫斯克港口，这也是第二艘抵达切尔诺莫斯克港装载谷物的货船，这艘货船将装载30000吨玉米。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizmscv5710421.d.html</link>
+            <guid>2768570</guid>
+            <pubDate>Wed, 10 Aug 2022 18:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国联邦通信委员会拒绝了马斯克的Space X农村宽带补贴申请。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-11/detail-imizirav7636874.d.html</link>
@@ -133,24 +161,6 @@
             <title><![CDATA[中国保险资产管理业协会8月10日发布的《中国保险资产管理业发展报告（2022）》显示，2021年保险公司资产配置结构仍以固定收益类为主，占比过半；超大型、大型寿险公司配置股票比例更高；股权投资计划增长最为突出，同比增长30%。报告显示，截至2021年末，保险公司股权投资（包括未上市企业股权、股权投资基金和股权投资计划，不含境外股权投资数据）规模为1.71万亿元，占总投资资产的比重为7.88%，仅次于债券、金融产品、银行存款，为保险资金的第四大资产配置类别。 （中证报）]]></title>
             <guid>2768486</guid>
             <pubDate>Wed, 10 Aug 2022 15:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰将能源公司义务购买煤炭的决定延长至供暖季结束】 当地时间8月10日，波兰总理莫拉维茨基在新闻发布会上宣布，将能源公司义务购买煤炭的决定延长至供暖季结束。莫拉维茨基还表示，希望能源公司承担原材料市场变化的成本，政府正在不断研究新的解决方案以缓解能源价格上涨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7625036.d.html</link>
-            <guid>2768480</guid>
-            <pubDate>Wed, 10 Aug 2022 15:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽银梅隆：在短端债券中寻求庇护已经成为“全球性现象”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7624884.d.html</link>
-            <guid>2768479</guid>
-            <pubDate>Wed, 10 Aug 2022 15:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旭辉控股集团：拟6.74亿港元向控股股东旗下公司出售持有香港项目公司60%股权】旭辉控股集团8月10日公告，于2022年8月10日，卖方Carsone Investment Limited（公司的间接全资附属公司）与买方Athena Leading Limited订立买卖协议，据此，卖方有条件同意出售而买方有条件同意购买销售股份及销售贷款，代价总额为6.74亿港元。销售股份指目标公司旭辉地产202006有限公司的60%股权，而目标公司间接持有位于香港英皇道101号及111号的该地段的全部权益。销售贷款指目标公司结欠卖方合共6.54亿港元的股东贷款。须待先决条件获达成后，方告完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-10/detail-imizirav7624529.d.html</link>
-            <guid>2768476</guid>
-            <pubDate>Wed, 10 Aug 2022 15:14:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
