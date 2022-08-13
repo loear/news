@@ -4,11 +4,21 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 19:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月14日02时57分在巴布亚新几内亚（南纬6.05度，东经147.45度）发生5.9级地震，震源深度110千米。]]></title>
+            <guid>2771674</guid>
+            <pubDate>Sat, 13 Aug 2022 19:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【吉林省有13座水库超汛限水位】据13日20时统计，吉林省有13座水库水位超汛限，其中，大型水库3座，月亮泡水库超汛限水位0.38米、石头口门水库超汛限水位0.02米、二龙山水库超汛限水位0.02米；中型水库3座，黄河水库超汛限水位0.32米、杨木水库超汛限水位0.02米、时家店超汛限水位0.01米；小型水库5座，超汛限水位0.01~0.13米，均在有序泄流。]]></title>
+            <guid>2771666</guid>
+            <pubDate>Sat, 13 Aug 2022 18:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒：特朗普的律师曾签署声明称所有机密材料已归还】据《纽约时报》8月13日报道，四名知情人士称，美国前总统特朗普的一名律师在6月曾签署了一份声明，称特朗普海湖庄园住所内的所有机密材料都已归还给了政府。（央视）]]></title>
             <guid>2771633</guid>
@@ -329,18 +339,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizmscv6067606.d.html</link>
             <guid>2771122</guid>
             <pubDate>Sat, 13 Aug 2022 07:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普和惠誉下调乌克兰外币发行人信用评级，此前债权人同意推迟债务偿还】标普将乌克兰的评级下调为违约，此前多数债券持有人同意乌克兰将债务偿还期限推迟两年。标准普尔将乌克兰外币债务评级从CC下调至“SD”（选择性违约）。“我们认为这笔交易令人沮丧，无异于违约，”标普在一份声明中说。“乌克兰债务重组正值冲突带来的巨大宏观经济、外部和财政压力。”此外，惠誉也将乌克兰的信用评级从C下调至“RD”(限制性违约)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizirav8003229.d.html</link>
-            <guid>2771121</guid>
-            <pubDate>Sat, 13 Aug 2022 07:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：中国智能手机在俄销量激增】据今日俄罗斯电视台网站报道，俄罗斯《生意人报》11日援引行业数据报道，中国品牌已经挤掉世界最大智能手机销售商苹果和三星，占据了俄罗斯智能手机市场的大部分份额。报道称，在中国品牌中，小米的增幅最大。上个月，小米在俄罗斯智能手机的销量排名第一，与其子品牌POCO合计占据的市场份额达到42%。总部设在深圳的手机品牌真我7月份的销量占到俄罗斯智能手机市场17%的份额，高于上个月的13.4%。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizirav8001910.d.html</link>
-            <guid>2771119</guid>
-            <pubDate>Sat, 13 Aug 2022 07:35:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
