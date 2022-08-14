@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Aug 2022 18:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 19:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我国已遴选848家制造业单项冠军企业】从8月13日举办的“制造业单项冠军企业高质量发展经验交流会”上获悉，目前我国已经遴选出848家制造业单项冠军企业，相关企业展现出创新能力强、质量效益优、产业带动作用大等特征，已经有39家单项冠军企业成为中国制造业500强企业。下一步相关部门将深化梯度培育体系，支持引导更多的优质中小企业成长为单项冠军企业。（经济参考报）]]></title>
+            <guid>2771993</guid>
+            <pubDate>Sun, 14 Aug 2022 18:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：尽管支持率创新低 拜登仍打算在2024年竞选第二个总统任期】当地时间8月14日，美国白宫新闻发言人卡琳·让-皮埃尔就最近拜登支持率创历史新低的民调作出回应。让-皮埃尔表示，通胀和高成本是白宫要解决的“头等大事”。她表示，通胀削减法案将有效缓解美国人民正在面临的经济困境。此外，让-皮埃尔也再次强调，尽管竞选连任的支持率创下历史新低，拜登仍打算在2024年竞选第二个总统任期。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8157209.d.html</link>
+            <guid>2771986</guid>
+            <pubDate>Sun, 14 Aug 2022 18:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国多地处于干旱状态 农业生产受影响】英国政府近日宣布，在经历1935年以来最干旱的7月份后，英格兰14个地区中已有8个地区处于干旱状态。干旱给种植庄稼和饲养牲畜的英国农民造成了很大影响。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6216563.d.html</link>
@@ -365,23 +376,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6177125.d.html</link>
             <guid>2771884</guid>
             <pubDate>Sun, 14 Aug 2022 08:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“千亿锂王”天齐锂业扫货H股】资源为王的锂电赛道上，锂王又一次出手。天齐锂业拟使用最高额度不超过1.5亿港币在H股二级市场购买四川能投发展约7750万股股份。该公司与A股市场上另一家拥有丰富锂矿资源的川能动力实际上为关联公司。不由让人联想，锂王出手扫货实则意在锂矿。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8114976.d.html</link>
-            <guid>2771883</guid>
-            <pubDate>Sun, 14 Aug 2022 08:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【养老目标基金达185只，总规模接近1100亿元】作为公募助力养老金第三支柱建设的重要创新产品，首批养老目标基金获批已满四周年。截至目前，已有185只产品先后发行成立，最新规模合计近千亿。从投资者最关心的基金回报来看，超7成养老FOF成立以来均斩获正回报。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8114959.d.html</link>
-            <guid>2771882</guid>
-            <pubDate>Sun, 14 Aug 2022 08:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利最大湖泊水位接近历史最低】数十年一见的干旱天气使意大利最大湖泊加尔达湖水位接近历史最低水平。炙热天气下的湖水暖和得像加勒比海。据美联社13日报道，位于意大利北部的加尔达湖12日水位接近2003年和2007年的历史低位。当天来加尔达湖观光的大批游客看到大片白花花的湖底岩石裸露在外，环绕着锡尔苗内半岛，风景迥异于往年。（新华社）]]></title>
-            <guid>2771880</guid>
-            <pubDate>Sun, 14 Aug 2022 08:54:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
