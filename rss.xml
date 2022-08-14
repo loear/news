@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Aug 2022 19:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 20:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列军方空袭叙利亚塔尔图斯地区】据报道，当地时间14日晚，以色列军方对叙利亚塔尔图斯省发动空袭，叙利亚防空系统迅速启动拦截敌对目标。此前，塔尔图斯地区上空传出巨大爆炸声。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8158681.d.html</link>
+            <guid>2772055</guid>
+            <pubDate>Sun, 14 Aug 2022 19:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机器人日益融入实体经济 多部门出台措施支持拓展应用空间】最近一段时间，小米、腾讯等多家公司发布机器人新品；已有的机器人也在加快进入抗洪、防疫和工业生产的一线；科技部、工业和信息化部陆续发布政策措施……各项进展表明，作为新兴技术的重要载体，机器人日益融入经济社会的方方面面，成为高质量发展的支持力量。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6219751.d.html</link>
+            <guid>2772053</guid>
+            <pubDate>Sun, 14 Aug 2022 19:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国已遴选848家制造业单项冠军企业】从8月13日举办的“制造业单项冠军企业高质量发展经验交流会”上获悉，目前我国已经遴选出848家制造业单项冠军企业，相关企业展现出创新能力强、质量效益优、产业带动作用大等特征，已经有39家单项冠军企业成为中国制造业500强企业。下一步相关部门将深化梯度培育体系，支持引导更多的优质中小企业成长为单项冠军企业。（经济参考报）]]></title>
             <guid>2771993</guid>
@@ -364,18 +376,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8118127.d.html</link>
             <guid>2771889</guid>
             <pubDate>Sun, 14 Aug 2022 09:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江苏省气象台继续发布高温红色预警信号】江苏省气象台2022年08月14日16时29分继续发布高温红色预警信号：今天夜里到明天南京、镇江、无锡、苏州、常州、南通、泰州南部、扬州南部最高气温可达40℃或以上，盐城、淮安、宿迁、泰州北部、扬州北部最高气温38~39℃，徐州、连云港最高气温37℃左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6179869.d.html</link>
-            <guid>2771887</guid>
-            <pubDate>Sun, 14 Aug 2022 09:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中金策略：对中期市场不宜悲观 “稳”而后“进”】中金策略认为，近期A股表现呈现为缺乏明确主线，热点轮动较快，蓝筹公司表现相对低迷，中小市值股票活跃度较高，这可能与当前宏观层面面临的阶段性不确定性和挑战较多有关，市场中基本面高景气的领域相对稀缺，宏观流动性宽松仍对市场有一定支持。近期公布的7月M2和社融增速显现分化，8月以来短期资金利率降至历史低位，均反映当前资金供给和实体需求可能存在一定的阶段性背离，政策积极发力向基本面传导尚待明显见效，历史上类似阶段市场也往往会在估值实现一定程度修复后进入相对缺乏主线的状态，市场转机可能需要盈利改善拐点进一步明确。结合当前货币和财政政策的力度较大，尤其是部分地区房地产支持政策加码，预计政策向基本面的传导虽然有时滞但未来有望逐步见效，且结合目前市场估值再度具备中线价值，对中期市场不宜悲观，“稳”而后“进”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6177125.d.html</link>
-            <guid>2771884</guid>
-            <pubDate>Sun, 14 Aug 2022 08:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
