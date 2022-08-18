@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 18 Aug 2022 18:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 19:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[荔枝(LIZI.O)持续拉升，涨超20%。荔枝将于周四美股盘后公布Q2业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizirav8760121.d.html</link>
+            <guid>2776984</guid>
+            <pubDate>Thu, 18 Aug 2022 18:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  高通(QCOM.O)盘中拉升，一度涨约2.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizirav8754717.d.html</link>
@@ -224,12 +230,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6791285.d.html</link>
             <guid>2776888</guid>
             <pubDate>Thu, 18 Aug 2022 14:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部和上海市合作一周年，形成环境治理体系十大成果】8月17日，生态环境部与上海市合作2022年度工作会议在上海召开，审议通过了《部市合作2022年重点工作清单》。一年来，生态环境部与上海市在共同推进经济高质量发展、生态环境高水平保护、长三角区域生态环境全方位协作以及共同构建超大城市现代环境治理体系等方面，形成了10项标志性成果。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6790815.d.html</link>
-            <guid>2776883</guid>
-            <pubDate>Thu, 18 Aug 2022 14:15:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
