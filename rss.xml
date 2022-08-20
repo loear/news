@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 20 Aug 2022 16:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【水利部：已向长江下游补水7.6亿立方米】为抗旱保供水，水利部自16日起，调度以三峡水库为核心的长江上游梯级水库群、洞庭湖水系水库群、鄱阳湖水系水库群，加大出库流量为下游补水，目前已向下游补水7.6亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-21/detail-imizirav9015656.d.html</link>
+            <guid>2778487</guid>
+            <pubDate>Sat, 20 Aug 2022 16:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国7月民航机票价格相较去年同期平均涨幅达43.5%】当地时间8月20日，法国民航总局发布的最新数据显示，随着燃油价格的飙升和需求的不断上涨，法国7月民航机票价格相较去年同期平均涨幅达43.5%，7月从法国出发前往欧洲目的地的中程航班机票价格的同比涨幅最高达到了54.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-21/detail-imizirav9015399.d.html</link>
+            <guid>2778486</guid>
+            <pubDate>Sat, 20 Aug 2022 16:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非警察部公布南非最新犯罪数据 谋杀案发生比例呈上升趋势】当地时间8月19日晚，南非警察部（SAPS）发布2022年4月至6月南非的最新犯罪统计数据，报告显示南非平均每天有71人被谋杀。该季度有6424人被谋杀，相当于在南非每10万人中发生谋杀案的比例为11起，而2018年的数字为每10万人中发生8起谋杀案，这一比例正呈逐年上升趋势。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-21/detail-imizmscv7055754.d.html</link>
@@ -382,24 +394,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-20/detail-imizmscv7012036.d.html</link>
             <guid>2778299</guid>
             <pubDate>Sat, 20 Aug 2022 06:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：俄黑海舰队司令部遭无人机攻击】“今日俄罗斯”电视台援引俄罗斯塞瓦斯托波尔当局官员的表态发布简讯称，黑海舰队司令部遭到无人机攻击，未造成人员死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-20/detail-imizirav8967702.d.html</link>
-            <guid>2778295</guid>
-            <pubDate>Sat, 20 Aug 2022 06:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陪审团对福特作出17亿美元的裁决】格威内特县陪审团日前一致对福特汽车公司作出了17亿美元的判决，这是该州历史上最大的判决，该判决源于2014年乔治亚州中部一对夫妇因翻车事故而丧生的过失致死诉讼。对于涉事的“Super Duty”卡车，陪审团确定福特已售出520万辆，但其车顶薄弱，在翻车时会对车内人员造成伤害，自该车型售出以来已发生多次车顶损毁造成人员伤亡的事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-20/detail-imizmscv7009738.d.html</link>
-            <guid>2778294</guid>
-            <pubDate>Sat, 20 Aug 2022 06:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国政府：恢复“北溪-2”不在讨论范围内】据央视新闻，受俄乌冲突及西方对俄制裁等因素影响，欧洲国家目前陷入能源困局。目前，德国受到“天然气供应锐减、能源价格飙升”的巨大冲击。近来，有多名德国政界人士提议恢复与俄罗斯的天然气合作并启动“北溪-2”天然气管道项目。对此，德国政府副发言人沃尔夫冈·布赫纳日前回应称，恢复“北溪-2”项目目前不在讨论范围之内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-20/detail-imizirav8967171.d.html</link>
-            <guid>2778293</guid>
-            <pubDate>Sat, 20 Aug 2022 06:03:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
