@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 23 Aug 2022 16:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：阿迪达斯首席执行官罗斯特德（Kasper Rorsted）将于明年离职，较原定合同期提前三年解约。在2023年任命新CEO前，罗斯特德将担任“过渡”CEO，以确保公司业务的平稳交接。]]></title>
+            <guid>2781216</guid>
+            <pubDate>Tue, 23 Aug 2022 16:40:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以色列民航客机首次飞越沙特领空前往非海湾国家】以色列航空公司的一架客机23日经沙特阿拉伯领空飞往印度洋群岛国家塞舌尔。这是以色列民航客机首次飞越沙特领空前往非海湾地区目的地。长期以来，沙特禁止以色列的商业航班飞越该国领空，只允许以色列客机通过一条特殊“空中走廊”经沙特飞往阿拉伯联合酋长国和巴林。尽管以色列和沙特未实现关系正常化，但近年来两国交往不断、关系趋暖，以沙两国近年来一直在“闭门讨论外交和安全议题”。 (央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7448516.d.html</link>
@@ -224,53 +229,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7437154.d.html</link>
             <guid>2781136</guid>
             <pubDate>Tue, 23 Aug 2022 13:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新晨科技与联合光电达成战略合作 布局元宇宙新赛道】从新晨科技了解到，近期公司与中山联合光电科技股份有限公司签署战略合作框架协议，双方将在元宇宙技术研究、行业应用创新落地、生态发展等领域，展开长期密切的战略合作，拟对元宇宙数字人等业务创新需求组建联合创新实验室，共同布局元宇宙新赛道。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9402128.d.html</link>
-            <guid>2781130</guid>
-            <pubDate>Tue, 23 Aug 2022 13:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国菲利克斯托港为期八天的罢工导致价值47亿美元的贸易受阻】英国最大的集装箱港口菲利克斯托港由于工资谈判失败，1900名工人罢工8天，目前港口基本上处于停滞状态。根据MDS Transmodal的贸易数据分析，此次罢工影响的集装箱总价值估计约为47亿美元。调查显示，费利克斯托港现已全面拥堵。Project44供应链洞察副总裁Josh Brazil表示菲利克斯托港的罢工将对整个欧洲产生深远影响。7月份，跨大西洋航线的平均交货周期已攀升至27天，接近今年年初29天的历史最高记录。Crane Worldwide Logistics称预计大约需要两个月的时间才能消除拥堵。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9402089.d.html</link>
-            <guid>2781128</guid>
-            <pubDate>Tue, 23 Aug 2022 13:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月Markit服务业PMI初值录得44.1，创2020年5月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7436107.d.html</link>
-            <guid>2781124</guid>
-            <pubDate>Tue, 23 Aug 2022 13:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月Markit制造业PMI初值录得51.3，创2020年7月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7436098.d.html</link>
-            <guid>2781123</guid>
-            <pubDate>Tue, 23 Aug 2022 13:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月Markit制造业PMI初值 51.3，预期52，前值52.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7436085.d.html</link>
-            <guid>2781122</guid>
-            <pubDate>Tue, 23 Aug 2022 13:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月Markit服务业PMI初值 44.1，预期49.2，前值47.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7436064.d.html</link>
-            <guid>2781121</guid>
-            <pubDate>Tue, 23 Aug 2022 13:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车跌超扩大至10%，其Q2亏损扩大至27亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9400935.d.html</link>
-            <guid>2781115</guid>
-            <pubDate>Tue, 23 Aug 2022 13:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月23日0时至21时，新疆新增本土确诊病例6例，新增本土无症状感染者151例。（央视新闻）]]></title>
-            <guid>2781114</guid>
-            <pubDate>Tue, 23 Aug 2022 13:35:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
