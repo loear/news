@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 24 Aug 2022 18:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 19:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -185,12 +185,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7585786.d.html</link>
             <guid>2782124</guid>
             <pubDate>Wed, 24 Aug 2022 14:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【个人账户定向使用后，如何进行就医结算？北京市医保局回应】很多北京医保参保人员关心个人账户定向使用后，如何使用社保卡或医保电子凭证在定点医疗机构进行就医结算，北京市医保日前给出相关解答。对于使用医保电子凭证进行就医结算的参保人员而言，参保人员申领医保电子凭证时，已通过手机绑定、人脸识别等环节进行实人认证，持医保电子凭证就医使用个人账户支付时，无需输入密码。为防止社保卡丢失后个人账户被盗，参保人员持社保卡就医使用个人账户支付时，则需要输入密码。其中，在门急诊挂号环节使用个人账户支付时，无需输入密码。市医保局提醒，参保人员使用个人账户支付时，先扣减本人账户、再扣减共济账户。个人账户（含共济账户）余额不足部分，由个人现金支付。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9554107.d.html</link>
-            <guid>2782123</guid>
-            <pubDate>Wed, 24 Aug 2022 14:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
