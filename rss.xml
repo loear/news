@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 24 Aug 2022 21:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 22:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  澳大利亚航空全年净亏损8.60亿澳元，预估亏损8.847亿澳元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-25/detail-imizirav9579215.d.html</link>
+            <guid>2782255</guid>
+            <pubDate>Wed, 24 Aug 2022 22:19:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧元区8月制造业PMI初值降至26个月低点】报告显示，受高通胀等因素影响，欧元区8月制造业采购经理人指数（PMI）初值为49.7，为26个月以来的低点。此外，欧元区8月服务业采购经理人指数初值为50.2，是17个月以来的新低。报告指出，欧元区制造业持续疲软，正与服务业萎缩叠加，同时，高通胀和利率上升给需求端带来的压力越来越大。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-25/detail-imizmscv7605760.d.html</link>
@@ -122,30 +128,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7589307.d.html</link>
             <guid>2782157</guid>
             <pubDate>Wed, 24 Aug 2022 15:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中通快递：拟发售8.7亿美元的可换股优先票据】中通快递在港交所公告，拟发售本金额合共8.7亿美元的2027年到期的可换股优先票据，视乎市况及其他因素而定。公司拟向票据发售事项的初始买方授出期权，可于票据发售事项日期（包括该日）起计13天内行使结算，以增购本金总额最多1.3亿美元的票据。公司计划将票据发售事项所得款项的余下部分用于提升物流业务的规模及能力；投资于物流生态系统；及营运资金及其他一般公司用途。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9557464.d.html</link>
-            <guid>2782150</guid>
-            <pubDate>Wed, 24 Aug 2022 14:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【EDA禁令影响几何？广立微董事长郑勇军：为国内相关技术升级创造了艰巨且重要的机遇】对于美国商务部发布的相关产品EDA禁令，广立微董事长郑勇军8月24日书面回复记者表示，在没有海外EDA产品支持的情况下，也为国内相关技术升级突破创造了非常艰巨且重要的机遇。国内集成电路产业经过过去几十年的发展，现在已经形成了相对成熟和完整的产业链，未来，集成电路设计、制造与封装等厂商，一方面会给国内EDA企业更多产品试错和优化迭代的机会，打造出具备国内产业特点的优质EDA工具；另一方面，在先进工艺开发上，上下游的协同力量会有前所未有的提升，这将会带动EDA软件、设计、制造等环节的技术共同快速升级，增强国家集成电路的整体实力。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9556711.d.html</link>
-            <guid>2782144</guid>
-            <pubDate>Wed, 24 Aug 2022 14:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格林美：上半年净利润6.81亿元 同比增长26.77%】格林美发布半年度报告，2022年半年度实现营业收入为139.24亿元，同比增长74.04%；归母净利润6.81亿元，同比增长26.77%；基本每股收益0.14元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9556661.d.html</link>
-            <guid>2782143</guid>
-            <pubDate>Wed, 24 Aug 2022 14:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登将免除1万美元学生贷款债务】消息人士：拜登准备宣布一项全面的学生债务减免计划，对年收入低于12.5万美元的借款人减免1万美元债务，对接受佩尔助学金的人减免2万美元债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9556145.d.html</link>
-            <guid>2782142</guid>
-            <pubDate>Wed, 24 Aug 2022 14:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
