@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 24 Aug 2022 16:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  麦当劳(MCD.N)任命Jon Banner为执行副总裁、全球首席影响官。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-25/detail-imizirav9565045.d.html</link>
+            <guid>2782209</guid>
+            <pubDate>Wed, 24 Aug 2022 17:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX：于美国中部时间明晚7点，公司CEO马斯克将与T-Mobile US(TMUS.O)CEO宣布增加连接性的计划。]]></title>
+            <guid>2782200</guid>
+            <pubDate>Wed, 24 Aug 2022 16:49:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯经济部：俄罗斯2022年至8月22日通胀同比增长14.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-25/detail-imizmscv7593399.d.html</link>
@@ -187,48 +198,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7584695.d.html</link>
             <guid>2782112</guid>
             <pubDate>Wed, 24 Aug 2022 14:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月成屋签约销售指数月率 -1%，预期-4%，前值-8.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9552441.d.html</link>
-            <guid>2782108</guid>
-            <pubDate>Wed, 24 Aug 2022 14:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昱能科技：半年度净利润1.29亿元 同比增长255%】昱能科技发布2022年半年度报告，实现营业收入4.97亿元，同比增长84.23%；归属于上市公司股东的净利润1.29亿元，同比增长255.31%；基本每股收益2.03元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9552391.d.html</link>
-            <guid>2782107</guid>
-            <pubDate>Wed, 24 Aug 2022 13:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天合光能：210+N型组件再创世界纪录，效率达24.24%】天合光能官微8月24日消息，天合光能光伏科学与技术国家重点实验室宣布，其自主研发的Vertex至尊高效N型单晶硅组件，基于66片210mm×210mm高效N型i-TOPCon电池，经权威第三方T V北德测试认证，组件窗口效率均达到24.24%，创造了大面积产业化N型单晶硅i-TOPCon电池组件窗口效率新的世界纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9552275.d.html</link>
-            <guid>2782106</guid>
-            <pubDate>Wed, 24 Aug 2022 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其能源部长访问卡塔尔】当地时间24日，土耳其能源和自然资源部长法提赫·登梅兹访问卡塔尔，并和卡塔尔能源事务国务大臣卡比举行会见，就加强卡土两国在能源领域的合作进行了讨论。双方表示，将进一步探讨双方在和领域的共同投资机会以及合作方式。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7583810.d.html</link>
-            <guid>2782104</guid>
-            <pubDate>Wed, 24 Aug 2022 13:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科创板史上最大询价转让结果出炉，26家机构合计耗资29.44亿元抄底澜起科技】8月24日晚间，澜起科技发布股东询价转让结果报告书，公司多个股东通过询价转让的方式合计转让5661万股，共有26家机构获配，涵盖公募基金、保险公司、QFII、证券公司等专业机构投资者，转让价格为52元/股，总成交金额约为29.44亿元。澜起科技本次询价转让，也是科创板迄今为止交易金额最大、获配机构数量最多的一次询价转让。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9551886.d.html</link>
-            <guid>2782102</guid>
-            <pubDate>Wed, 24 Aug 2022 13:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川长虹：拟挂牌出售31套房产 转让底价1.66亿元】四川长虹公告，将分布于绵阳、武汉市等地共31套存量房产，以房产产权为单位在西南联合产权交易所挂牌出售。本次资产单宗转让价格均以评估值为基础确定转让底价，31套房产转让底价合计为1.66亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9551393.d.html</link>
-            <guid>2782099</guid>
-            <pubDate>Wed, 24 Aug 2022 13:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间24日，英国首相约翰逊抵达乌克兰基辅进行访问。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7582590.d.html</link>
-            <guid>2782096</guid>
-            <pubDate>Wed, 24 Aug 2022 13:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
