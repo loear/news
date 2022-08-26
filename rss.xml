@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 26 Aug 2022 20:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 21:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国电力公司EDF：Bugey 3号法国核反应堆意外停电，该反应堆的发电量将从910 MW降低至100 MW。]]></title>
+            <guid>2784501</guid>
+            <pubDate>Fri, 26 Aug 2022 21:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国电价日内暴涨25%首次升破1000欧元】欧洲能源危机持续发酵，德国和法国的电价几乎每天都在刷新纪录，这两个关键市场的电价周五均飙升逾25％。法国明年交付的基本负荷电价达到1130欧元/兆瓦时，日内涨25％，历史上首次超过1000欧元。德国同类产品也刷新历史新高，日内涨幅高达33％，至995欧元/兆瓦时，本周累计涨幅约为70％。这在石油市场上相当于1600美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9893667.d.html</link>
+            <guid>2784499</guid>
+            <pubDate>Fri, 26 Aug 2022 20:55:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特朗普私人庄园内搜出物品包含184份机密文件】当地时间8月26日，美国司法部为支持联邦调查局（FBI）搜查特朗普海湖庄园所发布的修订宣誓书显示，联邦调查局在特朗普私人庄园内搜出的箱子中发现了184份机密文件。宣誓书表明，在184份文件中，有25份包含绝密信息，包括从“秘密人员来源处”获得的信息、禁止与外国政府共享的信息以及通过监控“外国通信信号”获得的信息。这份长达28页的宣誓书包含许多编辑后内容，主要为了表明特朗普的海湖庄园内藏有被认为是其“非法拥有”的物品。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9891829.d.html</link>
@@ -171,24 +182,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9878082.d.html</link>
             <guid>2784315</guid>
             <pubDate>Fri, 26 Aug 2022 15:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将召开紧急会议应对能源危机】欧盟轮值主席国捷克总理菲亚拉26日在社交媒体上表示，捷克将在近日召集欧盟成员国能源部长举行紧急会议，聚焦欧盟当前面临的能源危机。自欧盟对俄实施能源制裁以来，欧盟国家普遍深受能源价格上涨困扰，民生、工业受到严重影响，引发广泛担忧。欧盟委员会本月曾表示，其正在紧急评估实施天然气限价的各种可能性，但没有详述具体措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9877802.d.html</link>
-            <guid>2784312</guid>
-            <pubDate>Fri, 26 Aug 2022 15:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫斯科交易所将在9月份恢复早间外汇交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7902653.d.html</link>
-            <guid>2784307</guid>
-            <pubDate>Fri, 26 Aug 2022 15:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南卫健委、中南大学：湘雅二医院副主任医师刘翔峰涉嫌严重违法】湖南卫健委网站消息，湖南省卫生健康委、中南大学通报，针对网民反映的中南大学湘雅二医院副主任医师刘翔峰有关问题，湖南省卫生健康委、中南大学8月19日成立联合调查组开展调查,并通过湖南省医学会组织6名医学专家(其中省外专家4名、省内专家2名)对其医疗行为进行专业核查。经初步调查,发现刘翔峰涉嫌严重违法。湖南省卫生健康委、中南大学已将相关问题线索移交有关纪检监察部门进一步调查。目前,刘翔峰正接受长沙市监察委员会监察调查。湖南省卫生健康委、中南大学将会同有关部门对相关单位和人员继续深入调查,对后续发现的问题依法依规严肃查处。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7902611.d.html</link>
-            <guid>2784306</guid>
-            <pubDate>Fri, 26 Aug 2022 15:14:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
