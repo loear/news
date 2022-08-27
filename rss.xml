@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 27 Aug 2022 19:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 20:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【河南：“电通水出” 抗旱保收】近期，河南省出现大范围、持续性高温酷热天气，部分地区达到重旱等级。当下，正是河南省秋粮作物生产的关键时期，河南省电力部门多措并举，全省投入农田机井12.89万眼、泵站487处，全力保障秋粮生产可靠用电。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9997564.d.html</link>
+            <guid>2784967</guid>
+            <pubDate>Sat, 27 Aug 2022 19:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【达芙妮98%门店歇业关闭】曾遍布街头巷尾的达芙妮，常年贴出的“大促”宣传标语，不知不觉间也消失在了大众的视野。最高峰时，达芙妮在全国各地开了近七千家门店，而如今只有160多家加盟商经营的实体店还在营业，近98%的门店歇业关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9997115.d.html</link>
+            <guid>2784966</guid>
+            <pubDate>Sat, 27 Aug 2022 19:38:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿尔及利亚外交部发表声明 对利比亚爆发武装冲突表示关切】当地时间8月27日晚，阿尔及利亚外交部发表声明对当天凌晨发生在利比亚首都的黎波里的武装冲突表示关切，并呼吁利比亚各方停止暴力，以和平对话的方式解决问题。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9996595.d.html</link>
@@ -373,18 +385,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9951610.d.html</link>
             <guid>2784644</guid>
             <pubDate>Sat, 27 Aug 2022 08:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国中铁与中咨公司签署战略合作协议】据中国中铁官微消息，8月25日，中国中铁与中咨公司签署战略合作协议。中咨公司党委书记、董事长、总经理苟护生表示，双方未来合作空间广阔，尤其是在重大项目、管理咨询等领域互为重要合作伙伴，希望双方携手创新合作模式，优势互补、互利共赢。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9950762.d.html</link>
-            <guid>2784643</guid>
-            <pubDate>Sat, 27 Aug 2022 07:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国政协副主席万钢：促进建立国际汽车贸易低碳管理协同机制】2022世界新能有汽车大会今日正式开幕。全国政协副主席，中国科协主席，世界新能源汽车大会主席万钢表示，我们要促进全球汽车产业碳排放政策标准体系协同，共同推动汽车产业作为全球减碳的先行者，有必要共同探索整车和动力电池等重点零部件和产品低碳标准和管理体系的建设。这当中最基础的工作就是碳排放的计算、碳足迹的寻迹等基础算法的互通、互认和共享。同时，我们要加强全球汽车产业在碳排放管理、碳减排等领域的对话交流，促进以公平、科学、透明为原则的国际汽车贸易低碳管理协同机制。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9950543.d.html</link>
-            <guid>2784642</guid>
-            <pubDate>Sat, 27 Aug 2022 07:54:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
