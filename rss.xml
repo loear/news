@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 27 Aug 2022 17:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 18:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国总统结束对阿尔及利亚的访问 两国签署多项合作协议】当地时间8月27日，法国总统马克龙结束对阿尔及利亚的访问。临行前，马克龙与阿尔及利亚总统特本签署了《重建伙伴关系的阿尔及利亚宣言》，并一同见证了其他几项合作协议的签署，涉及科技、教育、医疗、体育等多个领域。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9994617.d.html</link>
+            <guid>2784927</guid>
+            <pubDate>Sat, 27 Aug 2022 18:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多轮热浪侵袭 欧洲经历高温“烤”验】欧洲遭遇多轮热浪干旱侵袭，多地气温创下历史新高，降雨明显少于往年。8月以来，旱情进一步扩大恶化。根据欧盟委员会联合研究中心近日发布的报告，欧洲正在经历可能是500年来最严重的干旱。8月份的观测报告显示，欧洲约47%的地区面临干旱风险，另有17%的地区处于更严重的警报状态。 欧洲干旱观测网站近期发布的数据显示，欧盟和英国约63%的地区发布了干旱警告或预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8016801.d.html</link>
+            <guid>2784885</guid>
+            <pubDate>Sat, 27 Aug 2022 17:29:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国拟发射新一代登月火箭】美国新一代登月火箭“太空发射系统”定于当地时间29日，也就是下周一在佛罗里达州肯尼迪航天中心发射升空，这枚98米长的火箭将搭载“猎户座”飞船，执行“阿耳忒弥斯1号”无人绕月飞行测试任务。根据“阿耳忒弥斯”计划，美国宇航员最早可在2025年年底前重返月球。然而，计划开展以来，相关项目屡次延期并超出预算。据报道，“太空发射系统”和“猎户座”飞船相关项目至今已累计花费370亿美元。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9992763.d.html</link>
@@ -361,18 +373,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7974458.d.html</link>
             <guid>2784640</guid>
             <pubDate>Sat, 27 Aug 2022 07:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：乌武装力量对埃涅尔戈达尔市进行炮击】当地时间27日，俄新社发布快讯称，乌克兰武装力量对扎波罗热州埃涅尔戈达尔市进行了炮击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9948102.d.html</link>
-            <guid>2784634</guid>
-            <pubDate>Sat, 27 Aug 2022 07:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西藏矿业：上半年对宁德时代供货锂精矿2000吨 占比约29%】西藏矿业在投资者关系活动记录表中披露，公司今年按年度计划生产锂精矿9500吨。上半年销售锂精矿6840.6吨，销售锂盐（工业级）198.27吨，截至7月1日，库存锂精矿3810.66吨，锂盐494.449吨。宁德时代购买了公司的锂精矿产品。上半年宁德时代供货量是2000吨，占比约29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9947207.d.html</link>
-            <guid>2784633</guid>
-            <pubDate>Sat, 27 Aug 2022 07:15:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
