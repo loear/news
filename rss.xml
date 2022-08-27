@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 27 Aug 2022 16:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 17:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国拟发射新一代登月火箭】美国新一代登月火箭“太空发射系统”定于当地时间29日，也就是下周一在佛罗里达州肯尼迪航天中心发射升空，这枚98米长的火箭将搭载“猎户座”飞船，执行“阿耳忒弥斯1号”无人绕月飞行测试任务。根据“阿耳忒弥斯”计划，美国宇航员最早可在2025年年底前重返月球。然而，计划开展以来，相关项目屡次延期并超出预算。据报道，“太空发射系统”和“猎户座”飞船相关项目至今已累计花费370亿美元。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9992763.d.html</link>
+            <guid>2784883</guid>
+            <pubDate>Sat, 27 Aug 2022 17:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国五省十窑唐三彩首次联展亮相河南郑州】“唐三彩窑产品比较展”27日在河南郑州大象陶瓷博物馆开展，这是我国五省十窑出土唐三彩器物的首次联展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9991517.d.html</link>
+            <guid>2784862</guid>
+            <pubDate>Sat, 27 Aug 2022 17:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【96名外国游客在黑山旅游城市布德瓦一酒店食物中毒】据黑山广播电视台（RTCG）当地时间8月27日报道称，在该国旅游城市布德瓦一知名酒店内，发生96名外国游客食物中毒事件。这些游客大多来自波兰、意大利和克罗地亚。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizirav9991068.d.html</link>
+            <guid>2784851</guid>
+            <pubDate>Sat, 27 Aug 2022 16:52:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新疆新增本土确诊病例4例 本土无症状感染者34例】8月27日0时至21时，新疆新增本土确诊病例3例，新增本土无症状感染者转确诊病例1例。新增本土无症状感染者34例，其中，乌鲁木齐市天山区8例、沙依巴克区2例、米东区4例，伊犁州伊宁市12例，昌吉州呼图壁县4例、昌吉市3例、吉木萨尔县1例。（中新网）]]></title>
             <guid>2784834</guid>
@@ -355,12 +373,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9947207.d.html</link>
             <guid>2784633</guid>
             <pubDate>Sat, 27 Aug 2022 07:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代曾毓群：国外正加快推动电池碳足迹研究】8月27日，宁德时代董事长曾毓群在世界新能源汽车大会上称，国外针对动力电池碳足迹的标准、政策、法规的研究已经率先启动，并且在加快推动。曾毓群提及，电池产品的碳属性，已成为欧美下一步监控的重点，而中国作为电池生产大国，在电池碳足迹的研究已明显落后。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9945240.d.html</link>
-            <guid>2784627</guid>
-            <pubDate>Sat, 27 Aug 2022 06:54:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
