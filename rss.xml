@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 28 Aug 2022 15:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 16:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【石油天然气出口增加 卡塔尔7月出口总额同比增长61.9%】据卡塔尔国家统计局公布的数据显示，今年7月，卡塔尔天然气以及其他气态碳氢化合物的出口同比增长90%，石油及其衍生品的出口同比增长35%。受益于此，卡塔尔7月的出口总额达到444亿卡塔尔里亚尔（约合838亿元人民币），同比增长61.9%，环比增长12.4%。贸易顺差152亿里亚尔（约合287亿元人民币），同比增长78%。卡塔尔是全球最主要的液化天然气生产国和出口国之一，其天然气和石油的出口额占其出口总额的大约80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0090861.d.html</link>
+            <guid>2785440</guid>
+            <pubDate>Sun, 28 Aug 2022 16:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8月29日零时起，海南琼海博鳌机场恢复国内客运航班商业化运行。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0087498.d.html</link>
@@ -382,12 +388,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8070380.d.html</link>
             <guid>2785098</guid>
             <pubDate>Sun, 28 Aug 2022 07:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【最新国家公路网规划“出炉” 江苏省总规模约10000公里】国家发展改革委和交通运输部近日正式公布《国家公路网规划（2022—2035年）》。根据《规划》，国家公路网（包含国家高速公路和普通国道）规划总规模约46.1万公里，其中江苏省总规模约10000公里，包括国家高速公路4100公里、普通国道5900公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0047510.d.html</link>
-            <guid>2785096</guid>
-            <pubDate>Sun, 28 Aug 2022 07:29:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
