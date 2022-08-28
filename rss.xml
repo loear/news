@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 28 Aug 2022 21:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 22:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -354,23 +354,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0051138.d.html</link>
             <guid>2785110</guid>
             <pubDate>Sun, 28 Aug 2022 08:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年第11号台风“轩岚诺”生成 未来强度将逐渐增强】据中央气象台消息，今年第11号台风（热带风暴级）“轩岚诺”于今天（8月28日）下午生成。14时其中心距离日本东京东南方向约1420公里，预计台风将以每小时20~25公里的速度向西偏北方向移动，强度逐渐增强。]]></title>
-            <guid>2785108</guid>
-            <pubDate>Sun, 28 Aug 2022 07:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【祥源新材：拟发行不超过4.6亿元可转债】祥源新材公告，拟发行不超过4.6亿元可转债，用于新能源车用材料生产基地建设项目等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0049809.d.html</link>
-            <guid>2785106</guid>
-            <pubDate>Sun, 28 Aug 2022 07:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁德时代计划2023年推出凝聚态电池】宁德时代首席科学家吴凯今日在世界新能源汽车大会上透露，宁德时代计划在2023年推出新一代电池电芯：凝聚态电池。凝聚态电池拥有安全性高、可靠性高、循环寿命好等特点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0049770.d.html</link>
-            <guid>2785105</guid>
-            <pubDate>Sun, 28 Aug 2022 07:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
