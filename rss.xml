@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 29 Aug 2022 16:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 17:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2022年8月29日0—24时，海南陵水县新增1例无症状感染者，为隔离管控人员，无社会面新增阳性感染者。（央视新闻）]]></title>
+            <guid>2786517</guid>
+            <pubDate>Mon, 29 Aug 2022 16:56:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：Meta Platforms(META.O)已经开始允许人们在Facebook和Instagram上发布自己拥有的数字收藏品。]]></title>
             <guid>2786514</guid>
@@ -277,30 +282,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0225624.d.html</link>
             <guid>2786421</guid>
             <pubDate>Mon, 29 Aug 2022 13:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  长城证券：上半年净利4.34亿元，同比下降47.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imizmscv8242348.d.html</link>
-            <guid>2786419</guid>
-            <pubDate>Mon, 29 Aug 2022 13:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  达安基因：2022年上半年净利35.95亿元，同比增长124.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imizmscv8242314.d.html</link>
-            <guid>2786418</guid>
-            <pubDate>Mon, 29 Aug 2022 13:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【维峰电子中签号出炉：共约1.63万个】维峰电子披露首次公开发行股票网上中签结果，中签号码共有16320个，每个中签号码只能认购500股维峰电子股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0225456.d.html</link>
-            <guid>2786416</guid>
-            <pubDate>Mon, 29 Aug 2022 13:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[晋控煤业：2022年上半年净利23.32亿元，同比增长71.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0225437.d.html</link>
-            <guid>2786415</guid>
-            <pubDate>Mon, 29 Aug 2022 13:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
