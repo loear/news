@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 30 Aug 2022 17:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 18:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【爱立信将在年底前关闭俄罗斯的代表处，裁减所有员工】 瑞典移动通讯设备商爱立信将在年底前关闭其在俄罗斯的代表处，并裁减所有员工。《生意人报》援引消息人士的话称，爱立信的母公司在8月22日通知俄罗斯分公司，将在年底前关闭，所有员工，包括为运营商网络设备提供技术支持的员工，都将被解雇。爱立信的部分技术支持人员将转移到一个由俄罗斯高层管理人员建立的新公司。专家指出，由于缺乏基地站的配套组件，俄电信运营商可能会开始出现问题。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imiziraw0414824.d.html</link>
+            <guid>2787567</guid>
+            <pubDate>Tue, 30 Aug 2022 18:04:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【联合国粮食援助船从乌克兰抵达非洲之角】 联合国一艘粮食援助船30日抵达吉布提，预计将为埃塞俄比亚大约150万人提供一个月口粮。这是俄乌冲突升级以来首艘从乌克兰出发、抵达非洲之角的运粮船。这艘运粮船两周前从乌克兰黑海港口出发，装载2.3万吨小麦。这批粮食将在吉布提卸载，随后运往埃塞俄比亚。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-31/detail-imiziraw0407149.d.html</link>
@@ -189,23 +195,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-30/detail-imiziraw0392758.d.html</link>
             <guid>2787470</guid>
             <pubDate>Tue, 30 Aug 2022 13:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【正荣地产：委任安永对集团进行独立业务审阅，8月31日9时起证券、相关票据等暂停买卖】正荣地产港交所公告，公司已委任安永(中国)企业咨询有限公司(安永)对集团进行独立业务审阅。安永将评估集团的资本结构、流动性状况及经营状况，并因应不同情形下分析集团的当前状况。安永将直接向该公司独立非执行董事汇报是次评估和分析的结果。截至公告日期，该评估和分析正在进行中。应公司要求，公司的证券、2021年票据、2022年3月票据及2022年3月票据将自2022年8月31日上午九时正起于联交所暂停买卖，并将持续暂停买卖直至另行通知。]]></title>
-            <guid>2787469</guid>
-            <pubDate>Tue, 30 Aug 2022 13:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州发展公告，2022年上半年净利7.17亿元，同比增长7.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-30/detail-imiziraw0392624.d.html</link>
-            <guid>2787468</guid>
-            <pubDate>Tue, 30 Aug 2022 13:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度跌幅达5%，报139.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-30/detail-imizmscv8406014.d.html</link>
-            <guid>2787466</guid>
-            <pubDate>Tue, 30 Aug 2022 13:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
