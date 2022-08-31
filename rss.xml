@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 31 Aug 2022 19:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 20:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【直布罗陀附近水域事故货船发生燃油泄漏】8月29日晚间，在直布罗陀附近水域发生撞船事故的货船目前仍然无法行驶。根据英国海外领地直布罗陀当局8月31日晚间的报告，货船此前的撞击事故产生的破损引发了船只的燃油泄漏，该泄漏会造成很大的污染风险。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8593327.d.html</link>
+            <guid>2788901</guid>
+            <pubDate>Wed, 31 Aug 2022 20:27:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国农业部：7月份农产品支付价格同比上涨了12.6%，7月份农产品获得价格同比上涨25.9%。]]></title>
             <guid>2788805</guid>
@@ -166,51 +172,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-31/detail-imiziraw0560990.d.html</link>
             <guid>2788616</guid>
             <pubDate>Wed, 31 Aug 2022 14:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股直播概念股齐涨，斗鱼涨近6%，挚文集团涨近5%，欢聚时代涨近4%，虎牙涨超3%。]]></title>
-            <guid>2788615</guid>
-            <pubDate>Wed, 31 Aug 2022 14:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国儒意：上半年净利润1.47亿元】中国儒意港交所公告称，上半年净利润1.47亿元，去年同期亏损24.48亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imizmscv8570749.d.html</link>
-            <guid>2788614</guid>
-            <pubDate>Wed, 31 Aug 2022 14:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银：iPhone 14系列定价是关键，或提振苹果利润】美银分析师Wamsi Mohan予苹果“买入”评级。他指出，考虑到通胀因素，苹果将于9月发布的iPhone 14 Pro的定价可能会高于iPhone 13 Pro，这将会提振苹果的利润。其售价若提高50美元，苹果股票的每股收益将上升0.20美元。此外，分析师预计，2022财年iPhone销量将同比增长3%至2.43亿部，到2023财年则会出现“小幅下降”，这一数据可能会根据定价情况发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imiziraw0560643.d.html</link>
-            <guid>2788613</guid>
-            <pubDate>Wed, 31 Aug 2022 14:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顺丰控股：对于人形机器人公司没有很大的资本开支投入】顺丰控股发布投资者关系活动记录表公告，关于机器人，顺丰已在多个场景应用，例如运筹优化、智慧大脑，无人车也已应用在校园和地区的一些场景，此外还有无人叉车、无人机；在仓储的自动化方面有机械臂、AGV等应用；以及中转场自动化的机器人应用。总体来说，公司会根据机器人设备不同的成熟程度，在运营中适当使用。对于人形机器人，公司没有很大的资本开支投入，还在持续观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imizmscv8570328.d.html</link>
-            <guid>2788612</guid>
-            <pubDate>Wed, 31 Aug 2022 14:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，CDP Holdings, Ltd向港交所递表申请IPO，中金公司和法国巴黎银行担任联席保荐人。]]></title>
-            <guid>2788609</guid>
-            <pubDate>Wed, 31 Aug 2022 14:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OPPO不造车，但已“上车”】近日，OPPO、上汽集团、上汽零束宣布成立联合实验室，并发布车-机跨端融合解决方案，显示出一种新尝试路径。目前，手机厂商在推进包括车钥匙方案、APP无缝切换、观影模式等落地探索，但还存在较为明显的交互有限、生态封闭、互联方案各异等问题。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imiziraw0559525.d.html</link>
-            <guid>2788608</guid>
-            <pubDate>Wed, 31 Aug 2022 14:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度反垄断机构对索尼印度子公司与印度Zee娱乐公司合并的初步审查发现存在竞争问题。]]></title>
-            <guid>2788607</guid>
-            <pubDate>Wed, 31 Aug 2022 13:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国气象厅：8月曼谷降雨异常频繁 年末泰国全国或将发生较严重水灾】泰国气象厅官员8月31日表示，目前泰国已经进入降雨高峰期，首都曼谷今年前8个月的总降雨量达1343.1毫米，比往年同期多35%，而全国降雨总量比往年同期多23%，但预计不会超过近10多年来降雨量最多的2011年。进入今年8月以来，曼谷多次出现单日降雨量超过100毫米，而往年整个8月的总降雨量为大约200多毫米。对此，泰国气象厅官员解释，8月降雨异常频繁的主要原因是全球气候变化，加上厄尔尼诺和拉尼娜现象对天气的影响，导致处于季风带的泰国容易出现较强降雨。预测今年年末泰国全国多地还将发生较严重的水灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-31/detail-imizmscv8568856.d.html</link>
-            <guid>2788606</guid>
-            <pubDate>Wed, 31 Aug 2022 13:58:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
