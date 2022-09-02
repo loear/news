@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 02 Sep 2022 18:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 19:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国加州电力系统营运机构将电网限制延长至当地时间9月8日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5727759.d.html</link>
+            <guid>2791633</guid>
+            <pubDate>Fri, 02 Sep 2022 19:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国网红酸奶品牌Chobani撤回IPO注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5727389.d.html</link>
+            <guid>2791630</guid>
+            <pubDate>Fri, 02 Sep 2022 19:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推特要求马斯克交出2022年前6个月的短信】推特要求法官命令马斯克交出他在2022年前六个月的所有短信，称马斯克在他440亿美元的收购要约的诉讼中不配合交换证据。推特周五在特拉华州的一份法庭文件中提交了拟议的命令，该文件被附在对马斯克及其律师的密封制裁请求中。根据法庭文件，推特希望特拉华州大法官命令马斯克及其助手Jared Birchall出示他们从1月1日至7月8日的所有短信。马斯克的律师发言人Eric Herman没对此事作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5726560.d.html</link>
+            <guid>2791628</guid>
+            <pubDate>Fri, 02 Sep 2022 18:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【拼多多在美国低调启动在线购物网站 拟挑战亚马逊】拼多多旗下的Temu已于9月1日上线，推出了包括服装、珠宝、宠物用品、家居用品、园艺用品在内的种类繁多的商品，可能对美国电商领头羊亚马逊(AMZN.O)构成新挑战，这是拼多多(PDD.O)首次向海外大举进军。Temu是一个跨境电商网站，大多产品可能来自海外。Temu称发货到美国需要7-15个工作日。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8892985.d.html</link>
@@ -260,36 +278,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5712755.d.html</link>
             <guid>2791537</guid>
             <pubDate>Fri, 02 Sep 2022 14:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月26日当周ECRI领先指标年率 -11.7%，前值-12.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711954.d.html</link>
-            <guid>2791530</guid>
-            <pubDate>Fri, 02 Sep 2022 14:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球第二大钢铁集团宣布多个工厂减产】当地时间周五，全球第二大、欧洲最大钢铁集团安赛乐米塔尔（ArcelorMittal）发布公告称，将在未来几个月里部分关闭两座德国工厂的产能。剧烈波动的能源价格和经济前景不确定性是公司作出这项决定的背景。而就在昨天，安赛乐米塔尔同样宣布将在九月底关闭位于西班牙阿斯图里亚斯工厂的一座高炉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711930.d.html</link>
-            <guid>2791529</guid>
-            <pubDate>Fri, 02 Sep 2022 14:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022年9月2日，浙江温岭市集中隔离点新增1例初筛阳性感染者。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8878576.d.html</link>
-            <guid>2791528</guid>
-            <pubDate>Fri, 02 Sep 2022 14:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟经济委员真蒂洛尼表示，欧盟将寻求就油价上限计划达成一致立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711686.d.html</link>
-            <guid>2791527</guid>
-            <pubDate>Fri, 02 Sep 2022 14:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股走高，纳指和标普500指数均涨超1%，道指涨约0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8878323.d.html</link>
-            <guid>2791526</guid>
-            <pubDate>Fri, 02 Sep 2022 14:32:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
