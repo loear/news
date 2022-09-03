@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Sep 2022 16:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 17:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦洪灾死亡人数升至1290人】 据巴基斯坦国家灾害管理局9月2日数据，自从6月中旬至今，巴基斯坦因季风降雨导致的死亡人数上升至1290人，受伤人数为12588人，超过3300万人受灾。过去24小时，巴基斯坦全国又有26人死于和暴雨及洪水相关的灾害。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5840785.d.html</link>
+            <guid>2792059</guid>
+            <pubDate>Sat, 03 Sep 2022 17:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风来袭 上海全市9月4日暂停开放景观照明】9月3日，从上海市绿化和市容管理局获悉，受台风“轩岚诺”影响，上海全市9月4日暂停开放景观照明。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imizmscv9004823.d.html</link>
+            <guid>2792058</guid>
+            <pubDate>Sat, 03 Sep 2022 16:51:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【印度东部雷电暴雨已致23人死亡】据法新社报道，印度地方官员当地时间9月3日表示，目前已有至少23人在印度东部的季风风暴中遭雷击身亡。据报道，死者多为农民和劳工。印度比哈尔邦灾害管理部门公布的消息显示，9月2日一天，该邦有11人遇难。预计下周一该邦部分地区将出现更多的强降雨和雷电天气。（环球时报）]]></title>
             <guid>2792054</guid>
@@ -407,24 +419,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5806600.d.html</link>
             <guid>2791856</guid>
             <pubDate>Sat, 03 Sep 2022 10:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江温州海事局启动II级防台应急响应 温州37条客运航线全部停航】受台风“轩岚诺”影响，今天夜里温州沿海风力逐渐增强到8—10级，4日将增强到9—11级。根据台风动态和发展趋势，温州海事局于9月3日14时启动Ⅱ级防台应急响应。截至3日16时，温州37条客运航线已全部停航，辖区避风船舶（非渔船）达到800余艘。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8970082.d.html</link>
-            <guid>2791855</guid>
-            <pubDate>Sat, 03 Sep 2022 09:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022世界人工智能大会今天闭幕 25个人工智能产业项目签约 总投资近150亿元】据央视新闻，2022世界人工智能大会今天（9月3日）在上海闭幕，25个人工智能产业项目签约，总投资近150亿元，聚焦上海人工智能和元宇宙新赛道的产业创新。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5804840.d.html</link>
-            <guid>2791853</guid>
-            <pubDate>Sat, 03 Sep 2022 09:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【下周解禁市值环比降逾六成】下周(9月5日至9月9日)A股解禁的限售股数量共有39.19亿股，以9月2日收盘价计算，市值约496.6亿元，分别较本周环比减少88.67%、66.33%。个股来看，下周解禁数量较大的公司有通裕重工、中铁特货、菜百股份、瑞达期货、宝泰隆、沪硅产业、龙佰集团、吉祥航空、中科软等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5803359.d.html</link>
-            <guid>2791852</guid>
-            <pubDate>Sat, 03 Sep 2022 09:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
