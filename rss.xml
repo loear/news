@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Sep 2022 13:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 14:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中老铁路开通9个月国际货运总值首破百亿】昆明海关统计数据显示，中老铁路开通9个月以来，国际货运总值突破100亿元，国内承运范围已覆盖全国30个省（区、市），服务国内企业超过1500家。货物品类从开通初期的化肥、橡胶、百货扩展到电子、光伏、通信、鲜花等近2000种商品种类，境外经老挝辐射到缅甸、泰国、越南、马来西亚、新加坡、印度尼西亚等8个国家。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5829489.d.html</link>
+            <guid>2791942</guid>
+            <pubDate>Sat, 03 Sep 2022 14:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国阿耳忒弥斯1号火箭检测到液氢泄漏问题】美国国家航空航天局（NASA）在官网发布消息称，定于当天发射的阿耳忒弥斯1号火箭在调试时检测到液氢泄漏问题。截至当地时间8时9分发布的消息显示，工程师已采取措施恢复加注液氢至核心级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8992304.d.html</link>
+            <guid>2791925</guid>
+            <pubDate>Sat, 03 Sep 2022 13:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【贵州核酸检测系统基本恢复】今日12时许，贵州省核酸检测系统出现异常，导致用户无法登录。自16时起，贵州省核酸检测系统系统功能已逐步恢复。云上贵州大数据公司发布信息表示歉意，并将以此为鉴，全力改进工作。截至记者发稿，贵阳各区域核酸检测工作正有序进行。 (中新网)]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8988595.d.html</link>
@@ -391,23 +403,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5788278.d.html</link>
             <guid>2791809</guid>
             <pubDate>Sat, 03 Sep 2022 07:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【横琴粤澳深度合作区金融行业协会与澳门银行公会签署合作备忘录】横琴粤澳深度合作区金融行业协会官微消息，9月2日，2022横琴粤澳深度合作区银行业跨境合作研讨会在横琴举办。会上，横琴粤澳深度合作区金融行业协会与澳门银行公会签署合作备忘录，未来双方将充分利用各自市场信息优势，加强信息交流与共享，在琴澳企业开展跨境金融业务等方面提供助力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8953434.d.html</link>
-            <guid>2791808</guid>
-            <pubDate>Sat, 03 Sep 2022 07:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼预计2022年能源补贴将达到502.4万亿印尼盾。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5786733.d.html</link>
-            <guid>2791805</guid>
-            <pubDate>Sat, 03 Sep 2022 06:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蚂蚁集团发布隐语开放平台 支持低代码调用隐私计算技术】2022世界人工智能大会上，蚂蚁集团发布可信隐私计算“隐语开放平台”，面向全球用户开放，可无需调用和开发代码，直接使用产品功能，帮助用户低成本探索隐私计算应用场景。]]></title>
-            <guid>2791804</guid>
-            <pubDate>Sat, 03 Sep 2022 06:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
