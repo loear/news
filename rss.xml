@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Sep 2022 20:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 21:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【NASA：将于下周决定新一代登月火箭再次发射时间】当地时间9月3日， 美国国家航空航天局（NASA）召开媒体简报会，就新一代登月火箭再次发射的后续计划进行通报。简报会上，管理团队表示，由于液氢泄漏问题尚未解决，在未完全准备好之前，“阿耳忒弥斯1号”登月火箭不会进行发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imizmscv9014658.d.html</link>
+            <guid>2792069</guid>
+            <pubDate>Sat, 03 Sep 2022 21:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄方将于下周提交有关美国等违反《禁止生物武器公约》的证据】据今日俄罗斯电视台报道，俄军辐射、化学和生物防护部队司令基里洛夫当地时间9月3日表示，俄方将于下周在日内瓦向相关国际组织提交有关美国等违反《禁止生物武器公约》的证据。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5849474.d.html</link>
+            <guid>2792068</guid>
+            <pubDate>Sat, 03 Sep 2022 20:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【戈尔巴乔夫葬礼在莫斯科举行】苏联最后一任领导人戈尔巴乔夫的遗体告别仪式和葬礼3日在莫斯科举行。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imizmscv9013773.d.html</link>
+            <guid>2792067</guid>
+            <pubDate>Sat, 03 Sep 2022 20:39:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2022世界人工智能大会闭幕 全网在线观看总人次突破6.38亿】以“智联世界，元生无界”为主题的2022世界人工智能大会9月3日圆满闭幕。据组委会数据，截至9月3日下午两点，37万人次线上体验元宇宙会展，700余家广电媒体和流量媒体播出大会盛况，辐射2000多家网络与自媒体，全网在线观看总人次突破6.38亿，实现“千网齐发、万人云聚、亿人同观”的效果。（中国证券报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5846673.d.html</link>
@@ -420,11 +438,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8974273.d.html</link>
             <guid>2791865</guid>
             <pubDate>Sat, 03 Sep 2022 10:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当被问及是否有可能改变复苏计划时，欧盟经济专员真蒂洛尼表示，意大利承担不起重新开始的代价。]]></title>
-            <guid>2791864</guid>
-            <pubDate>Sat, 03 Sep 2022 10:36:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
