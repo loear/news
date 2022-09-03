@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Sep 2022 12:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 13:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【贵州核酸检测系统基本恢复】今日12时许，贵州省核酸检测系统出现异常，导致用户无法登录。自16时起，贵州省核酸检测系统系统功能已逐步恢复。云上贵州大数据公司发布信息表示歉意，并将以此为鉴，全力改进工作。截至记者发稿，贵阳各区域核酸检测工作正有序进行。 (中新网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8988595.d.html</link>
+            <guid>2791904</guid>
+            <pubDate>Sat, 03 Sep 2022 13:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部长Subrahmanyam：印度和英国的贸易协定谈判有望在10月前结束，印度和加拿大的贸易协定谈判将在12月前结束。]]></title>
+            <guid>2791903</guid>
+            <pubDate>Sat, 03 Sep 2022 13:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部长Subrahmanyam：预计印度2023财年商品出口额将超过4500亿美元。]]></title>
+            <guid>2791902</guid>
+            <pubDate>Sat, 03 Sep 2022 12:53:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家防总提升防汛防台风应急响应至三级】据中央气象台预报，今年第11号台风“轩岚诺”将向北偏西方向移动，今天夜间移入东海海面，有可能加强为超强台风级，并逐渐向浙江东北部近海靠近，9月4日夜间到5日早晨将在浙江近海北上，5日上午以后逐渐转向东北方向移动。鉴于“轩岚诺”将严重影响我国，根据《国家防汛抗旱应急预案》有关规定，国家防总决定于9月3日20时针对浙江省将防汛防台风应急响应提升至三级，并就台风防御工作作出安排部署。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5820805.d.html</link>
@@ -392,30 +408,6 @@
             <title><![CDATA[【蚂蚁集团发布隐语开放平台 支持低代码调用隐私计算技术】2022世界人工智能大会上，蚂蚁集团发布可信隐私计算“隐语开放平台”，面向全球用户开放，可无需调用和开发代码，直接使用产品功能，帮助用户低成本探索隐私计算应用场景。]]></title>
             <guid>2791804</guid>
             <pubDate>Sat, 03 Sep 2022 06:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼能源部长：调价将在一小时内生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5785733.d.html</link>
-            <guid>2791802</guid>
-            <pubDate>Sat, 03 Sep 2022 06:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼总统佐科·维多多：印尼将提高部分补贴燃料的价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8950260.d.html</link>
-            <guid>2791800</guid>
-            <pubDate>Sat, 03 Sep 2022 06:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼总统佐科·维多多：政府承诺确保补贴有针对性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8950249.d.html</link>
-            <guid>2791799</guid>
-            <pubDate>Sat, 03 Sep 2022 06:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼总统佐科·维多多：部分燃料补贴将转为社会保障预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5784798.d.html</link>
-            <guid>2791798</guid>
-            <pubDate>Sat, 03 Sep 2022 06:33:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
