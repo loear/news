@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 Sep 2022 18:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 19:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【智能家居也受挫 上游芯片股危中寻机】继手机、平板以及PC电脑出货量下滑之后，智能家居市场也迎来了波动，不复昔日的红火态势，而这一情况也向上传导，使得上游芯片公司营收、利润双双下滑。一些科创板被视为“小而美”的公司素来被寄予厚望，而在今年中报发布后，其业绩也纷纷“变脸”。业内观点认为，总体而言，家居智能化的浪潮不会逆转，但以“大单品”打天下的思路已不再适用，不断细分、个性化的新品才能引爆新的消费增长点，从而也给芯片企业带来转机。]]></title>
+            <guid>2792761</guid>
+            <pubDate>Sun, 04 Sep 2022 19:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新型光电探测器能模仿光合作用】美国密歇根大学研究人员在《光学》期刊发表论文称，他们使用被称为极化子的独特准粒子开发了一种新型高效光电探测器，其灵感来自植物用来将阳光转化为能量的光合复合物。该设备将光能的远程传输与电流的远程转换相结合，有可能大大提高太阳能电池的发电效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9116435.d.html</link>
+            <guid>2792760</guid>
+            <pubDate>Sun, 04 Sep 2022 19:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔及利亚外长与叙利亚外长通电话】当地时间9月4日，阿尔及利亚外长拉马拉与叙利亚外长梅克达德通电话。在通话中，叙利亚外长表示，叙利亚将不参加原定于11月初在阿尔及尔举行的阿盟峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha5952992.d.html</link>
+            <guid>2792759</guid>
+            <pubDate>Sun, 04 Sep 2022 18:54:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泰国气象厅警告首都曼谷将面临海水倒灌和内涝风险】泰国气象厅水文局9月4日发出预警，7日至12日为海水上涨期，加上连日暴雨导致湄南河上游地区发生洪灾，首都曼谷面临海水倒灌和内涝风险，须及时采取各种措施疏通河道和城市下水道。泰国代理总理日前已下令相关部门紧急调派人力清理曼谷河道内阻碍水系畅通的垃圾和水生植物，国防部救灾中心也派军队支援防灾工作。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha5951868.d.html</link>
@@ -404,24 +421,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5916598.d.html</link>
             <guid>2792247</guid>
             <pubDate>Sun, 04 Sep 2022 10:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：我们会熬过这个冬天的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5916575.d.html</link>
-            <guid>2792246</guid>
-            <pubDate>Sun, 04 Sep 2022 10:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：俄罗斯不是可靠的能源伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imqmmtha5916566.d.html</link>
-            <guid>2792245</guid>
-            <pubDate>Sun, 04 Sep 2022 10:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台9月4日18时继续发布台风黄色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-04/detail-imizmscv9079168.d.html</link>
-            <guid>2792242</guid>
-            <pubDate>Sun, 04 Sep 2022 09:57:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
