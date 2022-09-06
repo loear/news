@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Sep 2022 16:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国加州电网在当地时间周二下午发布一级紧急状态，该机构认为能源短缺将从当地时间下午4点持续至晚上9点。]]></title>
+            <guid>2794771</guid>
+            <pubDate>Tue, 06 Sep 2022 17:16:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌宣布将于10月6日举行活动，计划推出Pixel手表和Pixel 7手机。]]></title>
+            <guid>2794765</guid>
+            <pubDate>Tue, 06 Sep 2022 16:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta Platform将于10月11日举办年度会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8050061.d.html</link>
+            <guid>2794763</guid>
+            <pubDate>Tue, 06 Sep 2022 16:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“研究总监”也赔钱：炒股4500多万，亏了1.3万，还被罚20万！】 原方正证券资管分公司证券投资部投资经理孔某熠因违法买卖股票，被证监会开出罚单。孔某熠使用其姨夫开立的个人账户，在2019年4月至2020年5月期间交易133只股票，累计交易额4557.43万元。但并未获得任何盈利，反而亏损1.33万元。也正因为此，最终证监会对其作出20万元的罚款。（中国基金报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6255853.d.html</link>
@@ -32,12 +48,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6254754.d.html</link>
             <guid>2794751</guid>
             <pubDate>Tue, 06 Sep 2022 16:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新任首相特拉斯抵达唐宁街，即将发表上任后的首次演讲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8047659.d.html</link>
-            <guid>2794750</guid>
-            <pubDate>Tue, 06 Sep 2022 16:09:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[西门子能源发行可转债，金额大约10亿欧元。]]></title>
@@ -246,58 +256,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6242702.d.html</link>
             <guid>2794676</guid>
             <pubDate>Tue, 06 Sep 2022 13:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业银行：董事长谷澍代为履行行长职责】农业银行公告，公司董事会9月6日以书面传签方式召开会议，审议并通过由本行董事长谷澍代为履行行长职责的议案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6242454.d.html</link>
-            <guid>2794673</guid>
-            <pubDate>Tue, 06 Sep 2022 13:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月Markit服务业PMI终值 43.7，预期44.2，前值44.1。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8035323.d.html</link>
-            <guid>2794670</guid>
-            <pubDate>Tue, 06 Sep 2022 13:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荔枝跌超5%，此前腾讯诉荔枝App侵权三体获赔500万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8035137.d.html</link>
-            <guid>2794667</guid>
-            <pubDate>Tue, 06 Sep 2022 13:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙已发现48例不明原因儿童肝炎感染病例】根据西班牙卫生部当地时间9月6日公布的最新报告，2022年1月1日至8月31日期间，西班牙共计发现48例不明原因儿童急性肝炎感染病例，上述病例之间均不存在流行病学联系。根据报告，该国儿童肝炎感染病例平均年龄为5岁，其中30例为女性，18例为男性，感染病例中包括两名仅出生3天和5天的新生儿。报告显示，该国共有3例不明儿童肝炎感染病例需要进行肝移植，其中2例已经死亡，27例病例在住院治疗后已经治愈出院。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8035117.d.html</link>
-            <guid>2794666</guid>
-            <pubDate>Tue, 06 Sep 2022 13:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【截至9月6日18时 甘孜州泸定县6.8级地震累计收治伤员246人】据四川省卫健委消息，截至9月6日18时，甘孜州泸定县6.8级地震已累计收治伤员246人，其中危重伤11人、重伤24人。据悉，甘孜州收治伤员158人，雅安收治伤员87人，凉山州收治伤员1人。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8034707.d.html</link>
-            <guid>2794664</guid>
-            <pubDate>Tue, 06 Sep 2022 13:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代：厦门时代新能源电池产业基地项目（一期）正式开工，总投资不超130亿元】宁德时代9月6日于官方微博表示，9月6日，厦门时代新能源电池产业基地项目（一期）正式开工，该项目总投资不超过130亿元，主要建设动力电池及储能电池生产线。这是继去年12月厦门时代新型锂离子电池项目(一期)开工后，宁德时代牵手厦门推进绿色发展的又一次创新实践，将在厦门推动形成新能源动力电池产业集群式发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6241129.d.html</link>
-            <guid>2794663</guid>
-            <pubDate>Tue, 06 Sep 2022 13:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金山云直线下挫，跌幅扩大至10%，Q2净亏损8.1亿元，同比扩大约268%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8034417.d.html</link>
-            <guid>2794662</guid>
-            <pubDate>Tue, 06 Sep 2022 13:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：目前家用储能电池Powerwall供应极少 预计年底前可单独订购Powerwall】由于特斯拉日前推出加州虚拟发电厂（VPP）计划，外界预计其家用储能电池Powerwall需求可能显著增长。马斯克今日被问及“能否仅订购一个Powerwall，而不用订购一整个太阳能系统”；其表示，目前Powerwall供应量极少，但预计年底前，便可单独订购Powerwall。]]></title>
-            <guid>2794661</guid>
-            <pubDate>Tue, 06 Sep 2022 13:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字世界收购集团跌超17%，因未获足够股东支持，该公司拟推迟完成与特朗普旗下社交媒体公司Truth Social的借壳上市交易。]]></title>
-            <guid>2794660</guid>
-            <pubDate>Tue, 06 Sep 2022 13:32:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
