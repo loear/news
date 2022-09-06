@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Sep 2022 18:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 19:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：09月07日02时42分在四川雅安市石棉县附近发生4.4级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2794797</guid>
+            <pubDate>Tue, 06 Sep 2022 18:47:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【年内176家A股公司定增募资3980亿元，“小额快速”提升中小企业融资效率】 数据显示，以发行日为准，截至9月6日，年内共有176家上市公司的183个定增项目完成发行，合计募资3980亿元。其中，宁德时代、徐工机械、上海机场等6家公司募资金额超百亿元。与去年同期相比，今年定增发行市场呈现出明显的新特征：6月份以来市场显著回暖，科创板、创业板公司定增募资规模大增，通过简易程序完成募资的定增项目明显增多。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8053905.d.html</link>
@@ -214,24 +219,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8038297.d.html</link>
             <guid>2794696</guid>
             <pubDate>Tue, 06 Sep 2022 14:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【徐工机械与潍柴动力签署战略合作协议】据潍柴资讯消息，9月5日，山东重工集团党委书记、董事长，潍柴集团董事长，中国重汽集团党委书记、董事长谭旭光一行到访徐工，徐工有限、徐工机械董事长、党委书记王民热情接待，双方就进一步加强合作进行深入交流。根据协议，双方将本着“诚信合作、互利共赢”的原则，充分发挥各自产业优势，在工程机械柴油机、液压件、新能源产品等领域深化战略合作，实现共赢。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6244948.d.html</link>
-            <guid>2794695</guid>
-            <pubDate>Tue, 06 Sep 2022 14:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟否决生命科学公司Illumina 71亿美元收购Grail】据报道，美国生命科学公司Illumina将不得不剥离生物技术公司Grail，此前欧盟否决双方71亿美元合并，担心会损害竞争并扼杀创新。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqqsmrn8038004.d.html</link>
-            <guid>2794693</guid>
-            <pubDate>Tue, 06 Sep 2022 14:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股(ADR)跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6244114.d.html</link>
-            <guid>2794691</guid>
-            <pubDate>Tue, 06 Sep 2022 14:04:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
