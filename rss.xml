@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Sep 2022 19:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 20:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：“木头姐”Cathie Wood旗下ARK Investment Management公司任命第一位首席未来学家（Chief Futurist）。]]></title>
+            <guid>2795974</guid>
+            <pubDate>Wed, 07 Sep 2022 20:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果正式停产并下架Apple Watch 3智能手表产品】随着新的Apple Watch Series 8型号和更新的Apple Watch SE的推出，苹果(AAPL.O)正式停产了过时的Apple Watch Series 3，该产品售价为199美元。自2015年以来，Apple Watch Series 3的设计与初代Apple Watch型号相同，也是第一款推出时提供蜂窝网络连接的Apple Watch。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8217244.d.html</link>
+            <guid>2795967</guid>
+            <pubDate>Wed, 07 Sep 2022 19:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股社交媒体板块尾盘继续走高，Pinterest(PINS.N)涨7%，Match Group(MTCH.O)涨6.7%，推特(TWTR.N)涨6.3%，Snap(SNAP.N)涨5.85%。]]></title>
+            <guid>2795965</guid>
+            <pubDate>Wed, 07 Sep 2022 19:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【A股年内上演极致行情，基金业绩首尾相差113%】今年以来，市场行情极致分化，主动权益基金的业绩差距也随之迅速拉大。截至9月6日，在全市场的主动权益基金中，今年业绩最好的一只已经大赚70.73%，而业绩最差的一只亏损了42.12%，首尾相差113个百分点。特别是9月以来，市场震荡加剧，基金业绩再度分化，有的基金在刷新净值新高，有的基金却创下历史新低。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6425610.d.html</link>
@@ -101,18 +117,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8191639.d.html</link>
             <guid>2795798</guid>
             <pubDate>Wed, 07 Sep 2022 14:40:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，宁波健世科技股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8190898.d.html</link>
-            <guid>2795793</guid>
-            <pubDate>Wed, 07 Sep 2022 14:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucid Group(LCID.O)跌超5%，据悉至少6名制造领域高管已离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6399590.d.html</link>
-            <guid>2795789</guid>
-            <pubDate>Wed, 07 Sep 2022 14:29:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
