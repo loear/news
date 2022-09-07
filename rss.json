@@ -6,6 +6,13 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2795960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6425610.d.html",
+            "title": "【A股年内上演极致行情，基金业绩首尾相差113%】今年以来，市场行情极致分化，主动权益基金的业绩差距也随之迅速拉大。截至9月6日，在全市场的主动权益基金中，今年业绩最好的一只已经大赚70.73%，而业绩最差的一只亏损了42.12%，首尾相差113个百分点。特别是9月以来，市场震荡加剧，基金业绩再度分化，有的基金在刷新净值新高，有的基金却创下历史新低。（证券时报）",
+            "date_modified": "2022-09-07T19:15:53.000Z"
+        },
+        {
             "id": 2795925,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6422882.d.html",
@@ -120,27 +127,6 @@
             "url": "https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6399590.d.html",
             "title": "Lucid Group(LCID.O)跌超5%，据悉至少6名制造领域高管已离职。",
             "date_modified": "2022-09-07T14:29:08.000Z"
-        },
-        {
-            "id": 2795781,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398151.d.html",
-            "title": "【微软CFO出售近2000万美元股票】根据美国证券交易委员会（SEC）的公开文件，微软CFO Amy Hood出售了价值1955万美元的微软股票。根据SEC9月6日的文件，Hood以平均每股259.46美元的价格出售了75351.4股微软股票。此前，微软CEO萨蒂亚•纳德拉在9月1日出售了逾1400万美元的微软股票。",
-            "date_modified": "2022-09-07T14:17:41.000Z"
-        },
-        {
-            "id": 2795780,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398115.d.html",
-            "title": "【浪潮信息回应“互联网客户砍单”传言：头部主要客户需求稳定】浪潮信息近日接受机构调研时回应“互联网客户砍单”传言称，上半年5、6月份市场出现很多不一样的声音，从公司内部来看，头部主要客户需求稳定，整体还能保持增长，但客户需求瞬息万变，下半年需求还存在不确定性。",
-            "date_modified": "2022-09-07T14:17:27.000Z"
-        },
-        {
-            "id": 2795774,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6397735.d.html",
-            "title": "市场消息：荷兰支持欧盟国家强制减少15%的天然气（需求）。",
-            "date_modified": "2022-09-07T14:14:22.000Z"
         }
     ]
 }

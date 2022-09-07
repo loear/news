@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Sep 2022 18:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 19:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【A股年内上演极致行情，基金业绩首尾相差113%】今年以来，市场行情极致分化，主动权益基金的业绩差距也随之迅速拉大。截至9月6日，在全市场的主动权益基金中，今年业绩最好的一只已经大赚70.73%，而业绩最差的一只亏损了42.12%，首尾相差113个百分点。特别是9月以来，市场震荡加剧，基金业绩再度分化，有的基金在刷新净值新高，有的基金却创下历史新低。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6425610.d.html</link>
+            <guid>2795960</guid>
+            <pubDate>Wed, 07 Sep 2022 19:15:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【奥地利出台电价限制措施以对抗通货膨胀】当地时间7日，奥地利联邦政府宣布将采取电价限制措施以对抗通货膨胀，预计于今年12月生效，持续到2024年年中。根据新的电价措施，每户家庭每年消费不超过2900千瓦时的电能时，每千瓦时价格为10欧分，超过2900千瓦时的标准后将按市场价计费。奥地利政府将提供约30至40亿欧元支持该措施，预计奥地利家庭平均每年可节省约500欧元电费。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6422882.d.html</link>
@@ -107,24 +113,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6399590.d.html</link>
             <guid>2795789</guid>
             <pubDate>Wed, 07 Sep 2022 14:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软CFO出售近2000万美元股票】根据美国证券交易委员会（SEC）的公开文件，微软CFO Amy Hood出售了价值1955万美元的微软股票。根据SEC9月6日的文件，Hood以平均每股259.46美元的价格出售了75351.4股微软股票。此前，微软CEO萨蒂亚•纳德拉在9月1日出售了逾1400万美元的微软股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398151.d.html</link>
-            <guid>2795781</guid>
-            <pubDate>Wed, 07 Sep 2022 14:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浪潮信息回应“互联网客户砍单”传言：头部主要客户需求稳定】浪潮信息近日接受机构调研时回应“互联网客户砍单”传言称，上半年5、6月份市场出现很多不一样的声音，从公司内部来看，头部主要客户需求稳定，整体还能保持增长，但客户需求瞬息万变，下半年需求还存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398115.d.html</link>
-            <guid>2795780</guid>
-            <pubDate>Wed, 07 Sep 2022 14:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰支持欧盟国家强制减少15%的天然气（需求）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6397735.d.html</link>
-            <guid>2795774</guid>
-            <pubDate>Wed, 07 Sep 2022 14:14:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
