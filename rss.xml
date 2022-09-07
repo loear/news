@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Sep 2022 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 18:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【奥地利出台电价限制措施以对抗通货膨胀】当地时间7日，奥地利联邦政府宣布将采取电价限制措施以对抗通货膨胀，预计于今年12月生效，持续到2024年年中。根据新的电价措施，每户家庭每年消费不超过2900千瓦时的电能时，每千瓦时价格为10欧分，超过2900千瓦时的标准后将按市场价计费。奥地利政府将提供约30至40亿欧元支持该措施，预计奥地利家庭平均每年可节省约500欧元电费。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6422882.d.html</link>
+            <guid>2795925</guid>
+            <pubDate>Wed, 07 Sep 2022 18:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债价格涨幅扩大，30年期美债收益率跌10个基点，暂报3.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6420835.d.html</link>
+            <guid>2795892</guid>
+            <pubDate>Wed, 07 Sep 2022 17:40:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【自然资源部、中国气象局：四川泸定6.8级地震灾区需防范地质灾害】自然资源部与中国气象局9月7日18时联合发布地质灾害气象风险黄色预警。预计，9月7日20时至9月8日20时，四川西部和泸定6.8级地震灾区、西藏东南部等地的部分地区发生地质灾害的气象风险较高。请当地居民注意防范强降水引发的地质灾害，尤其是地质灾害隐患点附近区域。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8209631.d.html</link>
@@ -113,12 +125,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6397735.d.html</link>
             <guid>2795774</guid>
             <pubDate>Wed, 07 Sep 2022 14:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST瑞德：全资子公司被债权人申请破产重整】*ST瑞德公告，公司全资子公司奥瑞德有限收到哈尔滨中院通知书，辽阳粉末以奥瑞德有限不能清偿到期债务且明显缺乏清偿能力但具有重整价值为由，向哈尔滨中院申请对奥瑞德有限进行重整。公司营收全部来源于奥瑞德有限及其下属子公司，公司主要经营性资产全部由奥瑞德有限及其下属子公司持有，如法院正式受理对奥瑞德有限的重整申请，公司存在失去奥瑞德有限控制权的风险。若因重整失败奥瑞德有限被宣告破产，公司将失去主要经营性资产，面临终止上市风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6396074.d.html</link>
-            <guid>2795766</guid>
-            <pubDate>Wed, 07 Sep 2022 14:04:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
