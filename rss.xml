@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 08 Sep 2022 20:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 21:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国电信运营商T-Mobile授权回购至多140亿美元股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6586525.d.html</link>
+            <guid>2797363</guid>
+            <pubDate>Thu, 08 Sep 2022 20:32:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苹果发布新品再掀消费电子热潮，“果链”公司积极布局新增长点】 从历年智能手机出货量数据看，进入三季度后是智能手机销售的传统旺季，各大厂商一般都会选择在三季度推出自家的旗舰产品，合力带动市场，掀起消费电子热潮。而苹果公司作为行业龙头，也带动产业链上下游公司快速发展，“果链”上市公司跟进在手订单的同时，积极布局AR/VR领域。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8371260.d.html</link>
@@ -102,26 +108,6 @@
             <title><![CDATA[德勤公告：至5月31日一个财年的全球总收入同比增长19.6%，至593亿美元，创历史新高，受益于美国市场和咨询业务强劲增长。]]></title>
             <guid>2797091</guid>
             <pubDate>Thu, 08 Sep 2022 15:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Shopify(SHOP.N)聘请摩根士丹利银行家Hoffmeister担任首席财务官。]]></title>
-            <guid>2797088</guid>
-            <pubDate>Thu, 08 Sep 2022 15:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，2022年09月08日，MTT Group Holdings Limited通过港交所上市聆讯。]]></title>
-            <guid>2797085</guid>
-            <pubDate>Thu, 08 Sep 2022 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐携手美格智能推出超小尺寸5G R16模组】 9月8日，紫光展锐携手美格智能推出超小尺寸15G R16模组SRM810，该模组基于紫光展锐业界首款5G R16 Ready芯片平台2 V516打造，双方将携手加速5G行业终端应用创新，共同推动5G R16技术在垂直行业的规模商用。（证券时报）]]></title>
-            <guid>2797081</guid>
-            <pubDate>Thu, 08 Sep 2022 15:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金拔头筹，中信、中信建投紧随其后！上市券商财务顾问业务收入曝光】中国证券报消息，上市券商上半年财务顾问业务收入排名日前出炉。41家上市券商上半年财务顾问业务总收入为23.59亿元，其中行业前五名券商的收入占总收入的比重为54.22%。中金公司财务顾问收入最高，为4.52亿元。业内人士分析称，在注册制改革稳步推进的背景下，IPO成为优质资产的优选通道，优质资产供给端的减少导致并购热情下降，这对券商的并购综合服务能力提出了更高要求。]]></title>
-            <guid>2797080</guid>
-            <pubDate>Thu, 08 Sep 2022 15:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
