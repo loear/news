@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 08 Sep 2022 19:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 20:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苹果发布新品再掀消费电子热潮，“果链”公司积极布局新增长点】 从历年智能手机出货量数据看，进入三季度后是智能手机销售的传统旺季，各大厂商一般都会选择在三季度推出自家的旗舰产品，合力带动市场，掀起消费电子热潮。而苹果公司作为行业龙头，也带动产业链上下游公司快速发展，“果链”上市公司跟进在手订单的同时，积极布局AR/VR领域。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8371260.d.html</link>
+            <guid>2797327</guid>
+            <pubDate>Thu, 08 Sep 2022 19:52:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国多个罢工行动因女王去世取消】 在英女王伊丽莎白二世去世后，铁路和邮政工人计划中的罢工行动被取消。据报道，英国铁路、海事和运输工会（RMT）原计划在9月15日和17日举行罢工。英媒称，英国运输工人协会也取消了计划中的罢工行动。通信工人工会原定于明天继续进行罢工行动，这一计划也已被取消。（环球时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8370165.d.html</link>
@@ -22,7 +28,7 @@
             <pubDate>Thu, 08 Sep 2022 19:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国7月消费信贷 238.11亿美元，预期330亿美元，前值401.54亿美元。]]></title>
+            <title><![CDATA[美国7月消费信贷 238.11亿美元，预期320亿美元，前值401.54亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8369427.d.html</link>
             <guid>2797276</guid>
             <pubDate>Thu, 08 Sep 2022 19:01:23 GMT</pubDate>
@@ -116,49 +122,6 @@
             <title><![CDATA[【中金拔头筹，中信、中信建投紧随其后！上市券商财务顾问业务收入曝光】中国证券报消息，上市券商上半年财务顾问业务收入排名日前出炉。41家上市券商上半年财务顾问业务总收入为23.59亿元，其中行业前五名券商的收入占总收入的比重为54.22%。中金公司财务顾问收入最高，为4.52亿元。业内人士分析称，在注册制改革稳步推进的背景下，IPO成为优质资产的优选通道，优质资产供给端的减少导致并购热情下降，这对券商的并购综合服务能力提出了更高要求。]]></title>
             <guid>2797080</guid>
             <pubDate>Thu, 08 Sep 2022 15:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周战略石油储备（SPR）库存减少752.7万桶至4.425亿桶，降幅1.67%。]]></title>
-            <guid>2797075</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2013.1万桶/日，较去年同期减少6.42%。]]></title>
-            <guid>2797074</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存增加884.5万桶至4.27亿桶，增幅2.11%。]]></title>
-            <guid>2797073</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口677.9万桶/日，较前一周增加82.3万桶/日。]]></title>
-            <guid>2797072</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口减少53.4万桶/日至343.3万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8354915.d.html</link>
-            <guid>2797071</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量维持在1210.0万桶/日不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568307.d.html</link>
-            <guid>2797070</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计“厄尔”将在今天晚些时候成为一场大型飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568244.d.html</link>
-            <guid>2797068</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“厄尔”现在正向东北偏北移动，预计将于今天晚些时候登陆百慕大。]]></title>
-            <guid>2797067</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
