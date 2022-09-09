@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 09 Sep 2022 20:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 21:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周五(9月9日)美国进行了里程碑式的第100万个器官移植手术。美国的第一个成功器官移植手术，是1954年进行的一场肾脏移植手术。]]></title>
+            <guid>2798759</guid>
+            <pubDate>Fri, 09 Sep 2022 21:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算管理办公室（CBO）：2022财年的头11个月，美国联邦财政赤字9440亿美元，较上年同期少1.8万亿美元。]]></title>
+            <guid>2798746</guid>
+            <pubDate>Fri, 09 Sep 2022 20:52:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大加密货币交易平台Amber今年迄今已裁掉10%员工】加拿大加密货币交易平台Amber集团声称，由于市场状况低迷，该公司今年迄今已经裁掉多达10%的员工。Amber集团联合创始人Tiantian Kullander表示：“鉴于市场状况，我们目前正在减少优先级较低的职位，增加优先级较高的职位的员工人数。”据悉，今年早些时候，该公司从新加坡国有投资公司淡马锡控股和其他投资者那里筹集了2亿美元，使其估值达到30亿美元。今年5月，该公司开始与潜在投资者就新一轮融资进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6745452.d.html</link>
+            <guid>2798702</guid>
+            <pubDate>Fri, 09 Sep 2022 20:32:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[纳斯达克金龙中国指数初步收涨3%，再鼎医药和燃石医学涨12%领跑，蔚来汽车涨超8%。]]></title>
             <guid>2798648</guid>
@@ -184,30 +200,6 @@
             <title><![CDATA[法国电力公司EDF：Gravelines 1号法国核反应堆意外停电，发电量从910 MW降低至420 MW。]]></title>
             <guid>2798450</guid>
             <pubDate>Fri, 09 Sep 2022 15:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【iPhone14预售：Pro最受欢迎，金色卖得最慢】Apple store 9月9日晚8时，iPhone14系列新机开启预售，Pro机型最受欢迎，电商平台仅数分钟就已无货，半小时后官网各门店几乎全部无货，发货也已排到10月下旬。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6732706.d.html</link>
-            <guid>2798447</guid>
-            <pubDate>Fri, 09 Sep 2022 15:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9月9日0时至21时，新疆新增本土确诊病例2例，无症状感染者25例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8514475.d.html</link>
-            <guid>2798445</guid>
-            <pubDate>Fri, 09 Sep 2022 15:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【作价11.4亿元 索通发展拟购欣源股份94.98%股权】索通发展(603612)收购佛山市欣源电子股份有限公司的方案进一步明晰。根据公司9月9日晚披露的收购草案，公司拟以11.4亿元的交易价格，通过定增和现金支付方式，收购欣源股份94.98%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6732296.d.html</link>
-            <guid>2798444</guid>
-            <pubDate>Fri, 09 Sep 2022 15:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林碳谷拟定增募资17亿 七成将用于碳纤维原丝相关项目】北交所上市公司吉林碳谷发布了2022年度向特定对象发行股票募集说明书，拟募资不超过17亿元，用于年产15万吨碳纤维原丝项目、碳纤维原丝及相关制品研发检测中心建设项目及偿还银行贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8514021.d.html</link>
-            <guid>2798443</guid>
-            <pubDate>Fri, 09 Sep 2022 15:19:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
