@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Sep 2022 15:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 16:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国洛杉矶县因海水污染问题关闭南部一海滩】当地时间9月10日，洛杉矶县公共卫生局因污水排放问题关闭了托伦斯南部一个海滩，并针对多个海滩发布了不要游泳和冲浪的建议。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6848193.d.html</link>
+            <guid>2799091</guid>
+            <pubDate>Sat, 10 Sep 2022 16:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贵州遵义播州区新增1例无症状感染者。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6847777.d.html</link>
+            <guid>2799089</guid>
+            <pubDate>Sat, 10 Sep 2022 16:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统泽连斯基与法国总统马克龙通话 讨论扎波罗热核电站局势】乌克兰媒体10日报道称，乌克兰总统泽连斯基与法国总统马克龙通话，双方讨论了扎波罗热核电站局势。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqqsmrn8628079.d.html</link>
+            <guid>2799088</guid>
+            <pubDate>Sat, 10 Sep 2022 15:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风“梅花”最强可达强台风 预计13日进入东海海面】据中央气象台消息，今年第12号台风“梅花”已于今天（10日）上午加强为台风级，其中心下午5时位于台湾省台北市东南方向约610公里的洋面上（北纬21.2度、东经125.7度），中心附近最大风力有13级（38米/秒），中心最低气压为965百帕，七级风圈半径260—300公里，十级风圈半径70公里，十二级风圈半径30公里。预计，“梅花”将以每小时10—15公里的速度向西北方向移动，强度逐渐增强，最强可达强台风级（45—50米/秒，14—15级），穿过琉球群岛后转为偏北方向移动，13日凌晨前后进入东海海面，逐渐向华东沿海靠近，强度缓慢减弱。]]></title>
+            <guid>2799087</guid>
+            <pubDate>Sat, 10 Sep 2022 15:35:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2022年中秋档电影首日票房达1.43亿】截至9月10日21时30分，2022年中秋档首日票房达1.43亿，总场次34.7万场，总人次353.3万人。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6845217.d.html</link>
@@ -334,24 +357,6 @@
             <title><![CDATA[【中秋机票裸票价格近五年最低】 去哪儿平台近日发布数据显示，今年中秋机票国内支付订单裸票价格（不含机建燃油附加费）为556元，较暑期降低两成，为近五年来最低。数据显示，中秋期间国内航线平均裸票较2018年下降12%。（北京日报）]]></title>
             <guid>2798869</guid>
             <pubDate>Sat, 10 Sep 2022 04:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四川海螺沟景区最后一批42名被困人员全部安全撤离。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6784861.d.html</link>
-            <guid>2798867</guid>
-            <pubDate>Sat, 10 Sep 2022 04:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陶琳：特斯拉自2014年至今，已公开300余项专利】特斯拉公司副总裁陶琳表示，一直以来，特斯拉秉持开放包容的态度，为了推动新能源汽车技术应用及发展，特斯拉自2014年至今，已公开300余项专利；涉及电动汽车综合控制、三电系统技术等，用实际行动助力加速产业发展。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6781771.d.html</link>
-            <guid>2798864</guid>
-            <pubDate>Sat, 10 Sep 2022 03:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年中秋档票房破5000万】据灯塔专业版，截至9月10日11时21分，2022中秋档（9月10日—9月12日）总票房破5000万（含预售），总场次70.3万，总人次126.4万。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6781562.d.html</link>
-            <guid>2798863</guid>
-            <pubDate>Sat, 10 Sep 2022 03:35:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
