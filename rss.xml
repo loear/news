@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Sep 2022 16:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 17:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南9月10日新增无症状感染者3例】2022年9月10日0-24时，海南省新增感染者3例，其中无症状3例，均为三亚市报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8629725.d.html</link>
+            <guid>2799094</guid>
+            <pubDate>Sat, 10 Sep 2022 17:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统召开最高统帅部会议】乌克兰媒体10日报道称，乌克兰总统泽连斯基当天召开最高统帅部会议，听取了作战指挥官关于乌克兰武装部队军事行动以及夺回领土的报告，并特别关注了已夺回的定居点安全问题。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8629298.d.html</link>
+            <guid>2799092</guid>
+            <pubDate>Sat, 10 Sep 2022 16:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国洛杉矶县因海水污染问题关闭南部一海滩】当地时间9月10日，洛杉矶县公共卫生局因污水排放问题关闭了托伦斯南部一个海滩，并针对多个海滩发布了不要游泳和冲浪的建议。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6848193.d.html</link>
@@ -346,17 +358,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6786437.d.html</link>
             <guid>2798872</guid>
             <pubDate>Sat, 10 Sep 2022 04:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预告】中共中央宣传部定于2022年9月13日（星期二）上午10时举行“中国这十年”系列主题新闻发布会，请水利部部长李国英介绍党的十八大以来水利发展成就，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqqsmrn8566917.d.html</link>
-            <guid>2798870</guid>
-            <pubDate>Sat, 10 Sep 2022 04:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中秋机票裸票价格近五年最低】 去哪儿平台近日发布数据显示，今年中秋机票国内支付订单裸票价格（不含机建燃油附加费）为556元，较暑期降低两成，为近五年来最低。数据显示，中秋期间国内航线平均裸票较2018年下降12%。（北京日报）]]></title>
-            <guid>2798869</guid>
-            <pubDate>Sat, 10 Sep 2022 04:12:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
