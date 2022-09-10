@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Sep 2022 19:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 20:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【意大利能源危机加剧 制造业面临经营困境】随着欧洲能源危机的不断加剧，今年冬季可能出现的天然气缺口让意大利很多制造业企业陷入经营困境。意大利萨克米集团董事长蒙加尔迪近日向中央广播电视总台记者表示，能源价格的上涨让一些企业停产，降低了欧洲制造业的竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6854393.d.html</link>
+            <guid>2799156</guid>
+            <pubDate>Sat, 10 Sep 2022 20:02:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南苏丹洪灾严重 政府宣布受洪水影响地区为国家灾难地区】当地时间9月9日，南苏丹政府宣布该国受洪水影响的地区为国家灾难地区。南苏丹新闻部长迈克尔·马奎·鲁埃斯表示，洪水已导致该国数千人流离失所，数百人丧生。本周早些时候，南苏丹总统基尔呼吁人道主义合作伙伴提供帮助。据了解，南苏丹在过去三年中经历了极端洪水，仅2021年就有超过80万人受灾。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8632629.d.html</link>
