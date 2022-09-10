@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Sep 2022 13:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 14:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦苏吉吉纳里水电站引水隧洞顺利贯通】据央视新闻，由中国能建葛洲坝集团海外投资公司投资建设的巴基斯坦苏吉吉纳里水电站项目10日实现引水隧洞顺利贯通，为电站投产发电进一步奠定基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6839690.d.html</link>
+            <guid>2799011</guid>
+            <pubDate>Sat, 10 Sep 2022 14:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  9月10日0—21时，新疆新增本土无症状转确诊2例，新增本土无症状感染者23例。（央视新闻）]]></title>
+            <guid>2798982</guid>
+            <pubDate>Sat, 10 Sep 2022 13:44:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英媒：英国议会下院议长和议员正宣誓效忠新国王查尔斯三世】英国《卫报》、天空新闻台刚刚消息，英国查尔斯三世登基仪式举行后，英国议会下院议长林赛·霍伊尔和议员代表们正在议会下院宣誓效忠新国王查尔斯三世。报道称，宣誓效忠者还包括新任首相特拉斯。而其他一些议员可以选择在伊丽莎白二世国葬后宣誓效忠。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6836837.d.html</link>
