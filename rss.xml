@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 11 Sep 2022 19:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 20:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南非发生水坝溃堤事故 已致3死40伤】当地时间9月11日，南非自由州矿业小镇一地区发生水库溃堤事件，已造成至少3人死亡，40人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha6958768.d.html</link>
+            <guid>2799462</guid>
+            <pubDate>Sun, 11 Sep 2022 20:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【车购税减征实施3个月减税超230亿元】今年6至8月份，约355.3万辆车享受了车辆购置税减征政策，累计减征车购税230.4亿元。具体来看，6月份享受减征政策车辆109.7万辆，减税71亿元；7月份116万辆，减税75.8亿元；8月份129.6万辆，减税83.6亿元。国家税务总局相关负责人表示，享受政策的车辆数、减征税额均呈现逐月增长态势，显示出政策逐步发力，受益面稳步扩大。]]></title>
+            <guid>2799461</guid>
+            <pubDate>Sun, 11 Sep 2022 19:54:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Win11被前Windows高管吐槽：文本都没对齐还敢拿出来卖？】微软Windows 11推出有一段时间了，但大家都不愿意更新，而一直以来关于它的吐槽基本上没有停过，近日，连微软Windows用户体验团队的前项目管理总监Jensen Harris也坐不住了，其在个人社交账号上发布了推文吐槽Win11的设计。他指出，在Win11的开始菜单搜索Chorome，右侧的界面简陋的像是2008年的IE浏览器工具栏。首先，在右侧的Bing壁纸广告上，不仅三段文本字号字重不一，没有对其，甚至连边框也极其混乱，左侧是圆角，右侧又是直角，左下角甚至歪歪扭扭的。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha6957103.d.html</link>
@@ -349,12 +360,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6911590.d.html</link>
             <guid>2799362</guid>
             <pubDate>Sun, 11 Sep 2022 08:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美军火商因俄乌冲突增产扩大生产线】俄乌冲突后，美国等西方国家向乌克兰加速输送大批武器，持续“拱火”。当地时间9日，美国国防部官员表示，美国五角大楼一直在与美国的军工企业合作，并增加生产线，以满足对某些武器的需求。分析人士认为，冲突持续时间越长，美国军火商获利就越多。 (央视军事)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6910369.d.html</link>
-            <guid>2799358</guid>
-            <pubDate>Sun, 11 Sep 2022 08:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
