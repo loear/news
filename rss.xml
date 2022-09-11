@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 11 Sep 2022 12:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 13:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【若俄完全停气 意大利或现40亿立方米缺口】近日，意大利工业家联合会主席博诺米表示，如果俄罗斯完全停止天然气供应，意大利将出现40亿立方米天然气缺口，而如果这个用气缺口全部施加到工业领域，那么几乎五分之一的意大利工业生产将停产。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8720138.d.html</link>
+            <guid>2799425</guid>
+            <pubDate>Sun, 11 Sep 2022 13:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津：首批A321空客大部件“落户”亚洲唯一总装线】日前，随着一声令下，由中国香港籍货轮承运的首批2件空客A321飞机大部件，顺利在天津港太平洋国际集装箱码头卸船装车，计划13日运抵空客总装线，这标志着亚洲唯一空客总装线（空客天津总装线）将正式投产空客A321飞机。相关负责人介绍，这是空客亚洲A320系列飞机总装线建成15年来，首批到港的A321机型的核心大部件，具有里程碑意义。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6938408.d.html</link>
+            <guid>2799424</guid>
+            <pubDate>Sun, 11 Sep 2022 13:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辽宁大连：初定9月15日起分区有序恢复中小学校线下教学】大连发布关于分区有序恢复中小学校线下教学的预告：初定9月15日（星期四）起，普兰店区、瓦房店市、庄河市、长海县和长兴岛经济区内的中小学校（含幼儿园、中职学校）恢复线下教学。其他区从全市社会面实现连续十日清零（或经研判风险可控）起，中小学校（含幼儿园、中职学校）开始有序恢复线下教学。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6938148.d.html</link>
+            <guid>2799423</guid>
+            <pubDate>Sun, 11 Sep 2022 13:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列政府批准加速可再生能源部署使用的计划。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8715832.d.html</link>
@@ -314,18 +332,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8671691.d.html</link>
             <guid>2799321</guid>
             <pubDate>Sun, 11 Sep 2022 04:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：拜登政府又要出招，对华经济胁迫下一个领域可能是“生物制造”】华盛顿仍深陷冷战对抗思维。美媒爆料，继“芯片法案”之后，美国总统拜登又准备签署一项行政命令，以帮助扩大美国的生物制造，而目标据称仍是“针对中国”。 彭博新闻社9月10日引用不愿透露姓名的知情人士的话称，该行政命令草案制定了一项“支持美国制造业”的战略，鼓励利用生物系统来研制一系列产品和材料，从新药、人体组织、生物燃料到食品，都在其中。而关于这项命令的细节尚未公开。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8670594.d.html</link>
-            <guid>2799317</guid>
-            <pubDate>Sun, 11 Sep 2022 04:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏州银行拟设公募基金公司 监管部门已接收申请资料】证监会官网信息显示，苏州银行已递交《公募基金管理公司设立资格审批》相关材料，拟设立公募基金管理公司。申请事项进度跟踪显示，证监会已于9月9日完成接收材料工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6890287.d.html</link>
-            <guid>2799316</guid>
-            <pubDate>Sun, 11 Sep 2022 04:13:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
