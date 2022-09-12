@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 12 Sep 2022 19:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 20:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韦布太空望远镜拍摄的第一张猎户座星云照片发布】一国际研究小组刚刚公布了由韦布太空望远镜拍摄的猎户座星云的首批图像。猎户座星云位于距离地球1350光年的猎户座，是一个物质丰富的区域，许多恒星在这里形成。它的环境与45亿年前太阳系诞生时的环境相似，研究人员可以通过其了解太阳系形成的条件。这张照片揭示了许多壮观的结构，其规模约为40个天文单位，相当于我们太阳系的大小。这张照片还揭示了正在形成的恒星系统。它们由中心的原恒星组成，周围环绕着尘埃和气体圆盘，行星在其内部形成。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8840893.d.html</link>
+            <guid>2800000</guid>
+            <pubDate>Mon, 12 Sep 2022 19:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【台风“梅花”靠近日本冲绳 当地交通受影响】当地时间12日18时左右，今年第12号台风“梅花”在日本冲绳县石垣岛西北偏北70公里处海域继续向西北偏北方向移动。冲绳县正在加强防灾措施，随着“梅花”的靠近，当地交通也受到影响。台风“梅花”给当地带来强降雨天气，截至当地时间12日上午11时50分，波照间岛的24小时降水量达到358.5毫米，创当地有观测记录以来的最高值。冲绳县石垣岛部分建筑漏雨，有树木倒塌。当天，冲绳县的部分飞机航班停航。据日本气象部门消息，预计13日冲绳县石垣市、西表岛等地附近海域将出现高度10米的大浪。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8837740.d.html</link>
@@ -182,34 +188,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8822324.d.html</link>
             <guid>2799908</guid>
             <pubDate>Mon, 12 Sep 2022 13:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部部署今年第12号台风“梅花”防御工作】据央视新闻，农业农村部今天发布，当前正值秋粮灌浆成熟期，正是产量形成的关键时期。台风“梅花”带来的大风降雨天气，在缓解南方旱情的同时，也可能造成局部秋粮倒伏和内涝。对此，农业农村部高度重视，紧急部署台风防御工作，要求各级农业农村部门始终绷紧防灾减灾这根弦，切实把防台风保丰收作为当前的紧迫任务，密切监测预警，备足防台救灾物资，提早落实防范措施，确保农、牧、渔民生命财产安全和农业生产安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821583.d.html</link>
-            <guid>2799905</guid>
-            <pubDate>Mon, 12 Sep 2022 13:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：2023年预算不会增加墨西哥的税收。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821302.d.html</link>
-            <guid>2799903</guid>
-            <pubDate>Mon, 12 Sep 2022 13:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥2023年的预算允许汽油价格不上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821292.d.html</link>
-            <guid>2799902</guid>
-            <pubDate>Mon, 12 Sep 2022 13:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：9月12日21时20分在青海海北州门源县（北纬37.75度，东经101.43度）发生3.6级地震，震源深度10千米。]]></title>
-            <guid>2799900</guid>
-            <pubDate>Mon, 12 Sep 2022 13:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌向印度制造商招标制造50万-100万Pixel智能手机，产量将达到估计年产量的10%-20%。]]></title>
-            <guid>2799898</guid>
-            <pubDate>Mon, 12 Sep 2022 13:20:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
