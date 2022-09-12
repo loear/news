@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 12 Sep 2022 20:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 22:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【亚马逊负责全球员工健康和安全的副总裁Heather MacDougall将于下月离职】市场消息，亚马逊负责全球员工健康和安全的副总裁Heather MacDougall将于下月离职。MacDougall于2019年加入亚马逊，离职之际，亚马逊正面临针对工作场所安全的广泛审查。]]></title>
+            <guid>2800036</guid>
+            <pubDate>Mon, 12 Sep 2022 22:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韦布太空望远镜拍摄的第一张猎户座星云照片发布】一国际研究小组刚刚公布了由韦布太空望远镜拍摄的猎户座星云的首批图像。猎户座星云位于距离地球1350光年的猎户座，是一个物质丰富的区域，许多恒星在这里形成。它的环境与45亿年前太阳系诞生时的环境相似，研究人员可以通过其了解太阳系形成的条件。这张照片揭示了许多壮观的结构，其规模约为40个天文单位，相当于我们太阳系的大小。这张照片还揭示了正在形成的恒星系统。它们由中心的原恒星组成，周围环绕着尘埃和气体圆盘，行星在其内部形成。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8840893.d.html</link>
@@ -127,67 +132,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8825828.d.html</link>
             <guid>2799935</guid>
             <pubDate>Mon, 12 Sep 2022 14:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特斯拉(TSLA.O)现在要求Solar Roof太阳能板配备Powerwall电池。]]></title>
-            <guid>2799934</guid>
-            <pubDate>Mon, 12 Sep 2022 14:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛通常每年裁减1%至5%的员工，本轮裁员可能处于该范围的低端。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8823922.d.html</link>
-            <guid>2799927</guid>
-            <pubDate>Mon, 12 Sep 2022 14:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股新能源车板块持续拉升】美股新能源车板块持续拉升，蔚来涨超9%，Lucid涨超4%，Rivian涨近3%，特斯拉涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8823891.d.html</link>
-            <guid>2799926</guid>
-            <pubDate>Mon, 12 Sep 2022 14:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲Stoxx 50指数、法国CAC-40指数均涨超2%，德国DAX指数涨幅扩大至2.4%。]]></title>
-            <guid>2799922</guid>
-            <pubDate>Mon, 12 Sep 2022 13:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7045022.d.html</link>
-            <guid>2799921</guid>
-            <pubDate>Mon, 12 Sep 2022 13:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：因交易减少，高盛准备裁员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8823222.d.html</link>
-            <guid>2799918</guid>
-            <pubDate>Mon, 12 Sep 2022 13:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟仍在研究提高能源行业流动性的措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8822564.d.html</link>
-            <guid>2799912</guid>
-            <pubDate>Mon, 12 Sep 2022 13:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特跌1%，推特就终止收购协议通知书回应称，打算执行协议并按照与马斯克方商定的价格和条款完成交易。]]></title>
-            <guid>2799911</guid>
-            <pubDate>Mon, 12 Sep 2022 13:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所FTX创始人Bankman-Fried：加密货币下跌是因为“美元上涨”。]]></title>
-            <guid>2799910</guid>
-            <pubDate>Mon, 12 Sep 2022 13:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所FTX创始人Bankman-Fried：加密货币即将迎来监管透明化。]]></title>
-            <guid>2799909</guid>
-            <pubDate>Mon, 12 Sep 2022 13:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国和罗马尼亚签署协议帮助乌克兰粮食出口】据央视新闻，当地时间9月12日，法国交通部长与罗马尼亚交通部长签署一项协议，以帮助增加乌克兰向发展中国家（包括地中海地区国家）的粮食出口。自俄乌冲突爆发以来，乌克兰黑海多个港口被关闭导致粮食运输受阻，粮食出口大幅下降，全球粮食价格走高引发了全球对非洲和中东粮食短缺的担忧。法国交通部长表示，该协议涵盖陆路、海洋以及河流等出口运输方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8822324.d.html</link>
-            <guid>2799908</guid>
-            <pubDate>Mon, 12 Sep 2022 13:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
