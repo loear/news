@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 12 Sep 2022 16:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 17:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【挪威首相：天然气限价无法解决欧洲缺气问题】 挪威首相约纳斯·加尔·斯特勒12日说，挪威将与欧洲联盟就天然气供应进行更密切的对话，但挪威对天然气限价这一措施持怀疑态度。挪威不是欧盟成员国。乌克兰危机爆发前，欧盟地区使用的天然气40%来自俄罗斯，20%至25%来自挪威。俄罗斯近期大幅削减对欧盟的天然气供应后，挪威成为欧盟最大的天然气供应国。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7057589.d.html</link>
+            <guid>2799985</guid>
+            <pubDate>Mon, 12 Sep 2022 17:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟提议对几种发电商设置收入上限】欧盟的一份文件显示，欧盟执行机构计划对下列类型的能源生产商的电力市场收入设置价格上限。分别为风能、太阳能、地热能、核能、水能等能源生产商。该文件称，这一价格上限不适用于“示范项目或因国家措施而对发电收入设限的生产商”。市场推测该价格上限也不适用于发电量高达20千瓦的设备。草案中还没有明确规定价格上限水平。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7055898.d.html</link>
@@ -244,23 +250,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8819724.d.html</link>
             <guid>2799887</guid>
             <pubDate>Mon, 12 Sep 2022 13:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国7月未季调经常帐 50亿欧元，前值162亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7038735.d.html</link>
-            <guid>2799883</guid>
-            <pubDate>Mon, 12 Sep 2022 12:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大第二季度国民资产净值增长0.2%，从第一季度的17.60万亿加元增至17.65万亿加元。]]></title>
-            <guid>2799879</guid>
-            <pubDate>Mon, 12 Sep 2022 12:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大第二季度家庭负债与收入占比从第一季度的179.3%增长至181.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8817402.d.html</link>
-            <guid>2799878</guid>
-            <pubDate>Mon, 12 Sep 2022 12:41:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
