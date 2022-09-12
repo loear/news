@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 12 Sep 2022 18:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 19:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -210,29 +210,6 @@
             <title><![CDATA[市场消息：谷歌向印度制造商招标制造50万-100万Pixel智能手机，产量将达到估计年产量的10%-20%。]]></title>
             <guid>2799898</guid>
             <pubDate>Mon, 12 Sep 2022 13:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：任何措施，如交易“熔断机制”，都需要仔细评估，以保持金融稳定。]]></title>
-            <guid>2799895</guid>
-            <pubDate>Mon, 12 Sep 2022 13:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：正在“积极考虑”是否需要任何监管措施来缓解抵押品压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7041555.d.html</link>
-            <guid>2799894</guid>
-            <pubDate>Mon, 12 Sep 2022 13:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：看到一些能源市场参与者的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8820094.d.html</link>
-            <guid>2799893</guid>
-            <pubDate>Mon, 12 Sep 2022 13:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋气候变化部门表示，阿联酋将其2030年温室气体减排目标提高到31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7041342.d.html</link>
-            <guid>2799892</guid>
-            <pubDate>Mon, 12 Sep 2022 13:11:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
