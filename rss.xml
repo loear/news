@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Sep 2022 21:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 22:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【厄瓜多尔多地延长紧急状态 为期30天】当地时间13日，厄瓜多尔总统拉索签发政令，在主要海港城市瓜亚基尔等地延长紧急状态，为期30天。政令称，鉴于当前犯罪集团活动猖獗，暴力袭击和非法行为尚未得到遏制，且有愈演愈烈的趋势，危害公民人身和财产安全，因此政府决定延长已经持续了一个月的紧急状态。8月14日，瓜亚基尔发生爆炸袭击，造成多人死伤，多栋建筑物损毁，之后政府颁布紧急状态令。初步调查表明，袭击与当地毒品犯罪集团有关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7213242.d.html</link>
+            <guid>2801043</guid>
+            <pubDate>Tue, 13 Sep 2022 22:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲能源紧缺，上市公司相关订单持续增长】随着欧洲能源缺口问题不断发酵，中国稳定供应全球的能力有望再度凸显，上市公司相关订单持续增长。9月13日，多家上市公司在互动平台上披露出口情况，电热毯、炭黑等出口订单持续增长。专家表示，除采暖电器海外需求增长外，欧洲能源问题带来的减产潮将影响全球供应，或推动国内包括化工、能源等对应细分行业进入上行周期。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7213183.d.html</link>
+            <guid>2801041</guid>
+            <pubDate>Tue, 13 Sep 2022 22:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工业机器人企业加码研发投入】工业机器人产业链相关上市公司加大研发投入，推出产品和行业解决方案，加快在光伏、锂电池等高景气行业的应用。据中国证券报记者不完全统计，今年上半年，在31家工业机器人产业链上市公司中，近六成公司研发支出实现同比增长。业内人士表示，在政策推动下，企业不断提升技术水平，推动工业机器人国产化进程提速，行业应用潜能加快释放。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8988883.d.html</link>
+            <guid>2801040</guid>
+            <pubDate>Tue, 13 Sep 2022 22:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：推特公司总共具有98.6%投票权的股东支持批准马斯克的收购协议。]]></title>
             <guid>2801021</guid>
@@ -95,24 +113,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8977631.d.html</link>
             <guid>2800942</guid>
             <pubDate>Tue, 13 Sep 2022 17:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉特(TGT.N)发行本金为10亿美元的2032年到期的4.500%票据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8974576.d.html</link>
-            <guid>2800932</guid>
-            <pubDate>Tue, 13 Sep 2022 16:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国能源巨头Uniper考虑向俄罗斯天然气工业股份公司提出损害索赔。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7197008.d.html</link>
-            <guid>2800925</guid>
-            <pubDate>Tue, 13 Sep 2022 15:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰10月交付的天然气批发价格上涨5.4%，至200.75欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8972002.d.html</link>
-            <guid>2800921</guid>
-            <pubDate>Tue, 13 Sep 2022 15:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
