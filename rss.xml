@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Sep 2022 16:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 17:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【非洲开发银行：气候变化正严重冲击非洲GDP增长】非洲开发银行（AfDB）表示，由于气候变化影响，非洲将损失5%至15%的人均国内生产总值（GDP）增速，并面临巨大的资金短缺。近年来，气候变化加剧了非洲大陆的干旱、洪水和气旋，对经济发展造成了极大冲击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8978140.d.html</link>
+            <guid>2800950</guid>
+            <pubDate>Tue, 13 Sep 2022 17:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯就亚美尼亚和阿塞拜疆冲突发表声明 呼吁双方缓和紧张局势】当地时间9月13日，联合国秘书长古特雷斯通过发言人就亚美尼亚和阿塞拜疆冲突发表声明。声明表示，古特雷斯对亚美尼亚和阿塞拜疆边境再次爆发冲突的报道深表关切。他呼吁双方立即采取措施缓和紧张局势，保持最大限度的克制，并通过对话和现有形式解决任何待解决的问题。古特雷斯还敦促两国充分执行之前达成的协议。声明表示，古特雷斯支持该地区正在进行的所有调解努力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8977944.d.html</link>
+            <guid>2800946</guid>
+            <pubDate>Tue, 13 Sep 2022 17:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三亚最新调整：高风险区为9个、中风险区为24个。（三亚发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8977631.d.html</link>
+            <guid>2800942</guid>
+            <pubDate>Tue, 13 Sep 2022 17:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[塔吉特(TGT.N)发行本金为10亿美元的2032年到期的4.500%票据。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8974576.d.html</link>
@@ -228,24 +246,6 @@
             <title><![CDATA[网易逆市上涨约1%，此前国家新闻出版署发布9月国产网络游戏审批信息，网易的《全明星街球派对》在列。]]></title>
             <guid>2800850</guid>
             <pubDate>Tue, 13 Sep 2022 13:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【川环科技：问界M5/含EV和问界M7车型的管路系统100%是由公司独家配套】川环科技在互动平台表示，公司作为赛力斯的核心战略合作供应商，签署了战略合作协议，全面参与了金康赛力斯全系车型（问界M5/含EV和问界M7）的管路系统配套研发，目前上述车型的管路系统100%是由川环科技独家配套。公司正根据金康赛力斯下达的管路系统订单积极组织生产，并全力保障金康赛力斯的管路供配。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7184360.d.html</link>
-            <guid>2800843</guid>
-            <pubDate>Tue, 13 Sep 2022 13:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：埃及总统塞西抵达卡塔尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8960329.d.html</link>
-            <guid>2800840</guid>
-            <pubDate>Tue, 13 Sep 2022 13:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉计划明年年初将柏林超级工厂周产量提升至5000辆】据报道，特斯拉计划在明年年初将柏林超级工厂的周产量提升到5000辆。而柏林超级工厂Model Y的周产量在今年6月中旬已达到1000辆。此外，在8月底，有外媒报道称，特斯拉的目标是在9月份将柏林超级工厂的周产量提升到2000辆，10月份提升到3000辆。如果特斯拉能顺利实现这两个目标，并在随后的两个月继续提升，则有望在明年年初将周产量提升至5000辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7183820.d.html</link>
-            <guid>2800838</guid>
-            <pubDate>Tue, 13 Sep 2022 13:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
