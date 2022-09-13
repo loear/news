@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Sep 2022 19:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 20:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【光伏硅片毛利下降倒逼提价，产能扩张不止“价格战”伺机而动】 9月13日，最新数据显示，单晶硅片价格为7.58元/片，较9月12日价格上调0.03元/片。在某券商电新行业研究员看来，硅片近期的价格上涨主要源于“电池片的产出持续增长，供应端需求带动着硅片的价格上涨”。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7207765.d.html</link>
+            <guid>2800994</guid>
+            <pubDate>Tue, 13 Sep 2022 19:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美元指数涨幅扩大，英镑和纽元创2020年5月份以来新低。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8982000.d.html</link>
@@ -125,63 +131,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7192317.d.html</link>
             <guid>2800898</guid>
             <pubDate>Tue, 13 Sep 2022 14:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部长雷蒙多：商务部将与谷歌在晶圆上合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7192248.d.html</link>
-            <guid>2800896</guid>
-            <pubDate>Tue, 13 Sep 2022 14:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：予Roblox(RBLX.N)持股观望评级，目标价为32美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8968009.d.html</link>
-            <guid>2800894</guid>
-            <pubDate>Tue, 13 Sep 2022 14:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北省首笔数字人民币科技企业财政补贴在雄安发放】近日，在雄安新区改革发展局、财政支付中心和中国人民银行雄安营业管理部联合指导下，中国农业银行河北雄安分行通过雄安新区产业互联网平台，为新区科技企业库企业办理全省首笔数字人民币财政补贴发放业务，实现了数字人民币在河北省财政领域应用场景新突破。下一步，雄安新区改革发展局将联合人民银行雄安营管部不断拓展数字人民币在惠企政策领域应用场景，实现科技创新券、水电气等各项补贴以数字人民币形式发放。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8966498.d.html</link>
-            <guid>2800889</guid>
-            <pubDate>Tue, 13 Sep 2022 14:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特前安全主管Zatko：推特将利润置于安全之上。推特误导了董事会、监管机构和公众。]]></title>
-            <guid>2800887</guid>
-            <pubDate>Tue, 13 Sep 2022 14:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以抵御反垄断诉讼为由 Meta发出传票要求上百家公司提供机密信息】Meta Platforms表示，为了抵御美国联邦政府发起的反垄断诉讼，该公司需要竞争对手泄露一些最机密的信息。根据法庭文件，Meta要求其竞争对手提供如何开展业务的一些最重要和敏感因素有关的文件，包括他们如何获取用户、扩大产品规模和从功能中赚钱。截至目前，Meta已向包括Snap、TikTok和音频创业公司Clubhouse等132家公司发出传票；该公司还警告称，可能还会要求另外100家公司提供信息。Meta竞争对手指控Meta以反垄断诉讼为借口，挖掘他们的机密数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8966103.d.html</link>
-            <guid>2800886</guid>
-            <pubDate>Tue, 13 Sep 2022 14:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特前安全主管Zatko：推特的严重安全问题已经存在10年了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8965803.d.html</link>
-            <guid>2800884</guid>
-            <pubDate>Tue, 13 Sep 2022 14:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST曙光：收到上交所监管工作函】ST曙光公告，收到上海证券交易所出具的《关于辽宁曙光汽车集团股份有限公司实际控制人失联相关事项的监管工作函》。公司应当尽快核实无法与实际控制人张秀根取得联系的具体原因，以及张秀根目前的具体情况。2022年8月12日以来，公司股价累计上涨105.11%，明显高于同期市场整体水平。公司应当全面自查相关信息知情人买卖股票的情况。实际控制人失联相关事项对投资者预期影响重大，公司及全体董事、监事、高级管理人员、控股股东应当审慎核实相关事项，依法合规履行信息披露义务，充分保障投资者的知情权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7189330.d.html</link>
-            <guid>2800881</guid>
-            <pubDate>Tue, 13 Sep 2022 14:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌广告业务遭出版商起诉 被索赔250亿欧元】律师事务所Geradin Partners发布声明称，其代表出版商向英国和荷兰法院对谷歌提起了两项诉讼，谷歌因其广告技术行为面临高达250亿欧元（约254亿美元）的赔偿要求。声明说，“现在是谷歌承认其责任并偿还其对这一重要行业造成的损失的时候了。这就是为什么今天我们宣布在两个司法管辖区采取这些行动，为欧盟和英国的出版商争得赔偿。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8964939.d.html</link>
-            <guid>2800880</guid>
-            <pubDate>Tue, 13 Sep 2022 14:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国人口普查局：2021年官方贫困率为11.6%。2021年，美国家庭收入中位数增至70800美元。]]></title>
-            <guid>2800879</guid>
-            <pubDate>Tue, 13 Sep 2022 14:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peloton跌近9%，此前联合创始人兼前首席执行官John Foley辞去董事会主席一职。此外，报道称Foley可能会在离职后出售他持有的公司股份。]]></title>
-            <guid>2800878</guid>
-            <pubDate>Tue, 13 Sep 2022 14:08:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
