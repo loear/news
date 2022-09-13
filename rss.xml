@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Sep 2022 17:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[星巴克(SBUX.O)盘中转涨，抹平此前约3.4%的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8981094.d.html</link>
+            <guid>2800964</guid>
+            <pubDate>Tue, 13 Sep 2022 18:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【120余份基金公告显示中秋节“闭门谢客”，现货黄金市场趁势多手法营销】统计发现，在今年中秋节假期前一周，有超过120余份公募基金公告提前“闭门谢客”，与以往不同，这次除了货币型基金外，FOF、QDII和债券型基金也加入其中。不过，与公募基金截然相反的是，黄金市场依旧呈现出“过节不打烊”的局面，且今年多家黄金公司继续推出多种促销手段，为投资者提供保值增值服务。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7203508.d.html</link>
+            <guid>2800954</guid>
+            <pubDate>Tue, 13 Sep 2022 17:42:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【非洲开发银行：气候变化正严重冲击非洲GDP增长】非洲开发银行（AfDB）表示，由于气候变化影响，非洲将损失5%至15%的人均国内生产总值（GDP）增速，并面临巨大的资金短缺。近年来，气候变化加剧了非洲大陆的干旱、洪水和气旋，对经济发展造成了极大冲击。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8978140.d.html</link>
@@ -202,50 +214,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7186534.d.html</link>
             <guid>2800863</guid>
             <pubDate>Tue, 13 Sep 2022 13:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆新鑫矿业：H股流通申请获中国证监会批准】新疆新鑫矿业发布公告称，公司董事会已收到中国证监会有关H股流通申请的正式批准。批准有效期为12个月，自2022年8月27日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7186517.d.html</link>
-            <guid>2800862</guid>
-            <pubDate>Tue, 13 Sep 2022 13:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：美国承诺尊重墨西哥的能源政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7186460.d.html</link>
-            <guid>2800861</guid>
-            <pubDate>Tue, 13 Sep 2022 13:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所向ST曙光下发关于公司实际控制人失联相关事项的监管工作函。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7186444.d.html</link>
-            <guid>2800860</guid>
-            <pubDate>Tue, 13 Sep 2022 13:46:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银涨0.5%，预计2022年股票回购规模将超过50亿美元，预计股息为每股0.55美元。]]></title>
-            <guid>2800857</guid>
-            <pubDate>Tue, 13 Sep 2022 13:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：维多能源集团在2022年上半年实现了创纪录的净利润，超过了2021年全年的利润。]]></title>
-            <guid>2800856</guid>
-            <pubDate>Tue, 13 Sep 2022 13:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9月13日0时至21时，新疆新增本土无症状感染者转确诊病例1例。新增本土无症状感染者17例。（央视新闻）]]></title>
-            <guid>2800853</guid>
-            <pubDate>Tue, 13 Sep 2022 13:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中科云网：拟与深圳普乐在超高效N型晶硅电池研发和生产制造领域开展合作】中科云网公告，为促进业务调整和转型，于2022年9月13日与深圳市普乐新能源投资有限公司（简称“深圳普乐”）签署《框架协议》，双方拟就普乐徐州项目为合作基石，进一步发挥各自优势，分二期在超高效N型晶硅电池研发和生产制造领域开展合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7185372.d.html</link>
-            <guid>2800852</guid>
-            <pubDate>Tue, 13 Sep 2022 13:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[网易逆市上涨约1%，此前国家新闻出版署发布9月国产网络游戏审批信息，网易的《全明星街球派对》在列。]]></title>
-            <guid>2800850</guid>
-            <pubDate>Tue, 13 Sep 2022 13:33:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
