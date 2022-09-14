@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 14 Sep 2022 18:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 19:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【前三季度IPO募资额同比增约两成】机构数据显示，截至9月14日，今年以来A股市场IPO首发数量较去年前三季度有所减少，但首发募资金额增加了近两成，电子、通信、医药生物板块IPO募资金额居前。随着资本市场改革推进，A股发行市场化程度不断提升，新股上市表现持续分化。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7347376.d.html</link>
+            <guid>2802476</guid>
+            <pubDate>Wed, 14 Sep 2022 19:18:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泉果基金首只公募产品将发行，“四冠王”赵诣领衔再出征】泉果基金又有新动作，继总经理王国斌首只专户产品募集成功后，“四冠王”基金经理赵诣管理的首只公募产品也箭在弦上。9月14日，泉果基金公告，即将于10月13日至10月21日发行泉果旭源三年持有期混合基金，该产品首发上设置了100亿元的募集上限。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9119599.d.html</link>
@@ -276,23 +282,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn9105521.d.html</link>
             <guid>2802291</guid>
             <pubDate>Wed, 14 Sep 2022 14:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥正在与美国就半导体产业的激励措施进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7331625.d.html</link>
-            <guid>2802290</guid>
-            <pubDate>Wed, 14 Sep 2022 14:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国能源部长：强制法国电力集团EDF向竞争对手出售廉价核电的法规将继续执行，但具体方式还有待确定。]]></title>
-            <guid>2802289</guid>
-            <pubDate>Wed, 14 Sep 2022 14:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江机场15日逐步恢复航班运行】根据浙江省气象台预报，台风“梅花”15日北上以后，对浙江的风雨影响将逐渐减小，浙江省内杭州、宁波、温州、舟山、台州机场将逐步恢复运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn9105010.d.html</link>
-            <guid>2802288</guid>
-            <pubDate>Wed, 14 Sep 2022 14:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
