@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 17 Sep 2022 16:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 17:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新疆乌鲁木齐昨日新增本土确诊病例1例 本土无症状感染者4例】9月17日0-24时，乌鲁木齐市新增既往报告无症状感染者转确诊病例2例，本土1例在沙依巴克区，另1例为境外输入人员。新增本土无症状感染者4例，其中天山区3例、水磨沟区1例，1例在集中隔离医学观察点筛查发现、2例在中风险区筛查发现、1例在社区筛查发现，即闭环转运至定点医疗机构进行隔离医学观察。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9500337.d.html</link>
+            <guid>2805088</guid>
+            <pubDate>Sat, 17 Sep 2022 17:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其总统：成为上合组织成员是土耳其的目标】土耳其阿纳多卢通讯社当地时间17日报道，在土耳其总统埃尔多安结束对乌兹别克斯坦的访问后，有土耳其记者问埃尔多安土耳其是否会成为上合组织成员，埃尔多安回答：“当然，那是目标。”（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9497550.d.html</link>
@@ -349,12 +355,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-17/detail-imqmmtha7692019.d.html</link>
             <guid>2804806</guid>
             <pubDate>Sat, 17 Sep 2022 07:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼泊尔西部地区发生泥石流灾害，已造成14人死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-17/detail-imqqsmrn9457543.d.html</link>
-            <guid>2804805</guid>
-            <pubDate>Sat, 17 Sep 2022 07:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
