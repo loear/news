@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 18 Sep 2022 14:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【高气价致碳酸短缺 德国啤酒厂商愁应对】受天然气价格高企等因素影响，德国已出现并可能持续面临碳酸短缺，令多家啤酒生产商和灌装商发愁。据德新社18日报道，喜欢喝冰镇啤酒的德国人接下来几个月可能会发现自己选择受限。碳酸供应不足通常出现在夏季，但今年与以往不同。除季节性因素外，天然气价格近期高企致使化肥产量大幅减少，是碳酸短缺的重要原因。长期以来，德国等欧洲国家高度依赖俄罗斯天然气和石油供应。乌克兰危机升级以来，欧洲联盟与美国一道对俄施加多轮制裁，但制裁的反噬作用令欧洲国家处境窘迫。天然气供应紧缺推高价格，德国啤酒生产商和灌装商目前可用的天然气总量仅为以往的30%至40%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9585574.d.html</link>
+            <guid>2805587</guid>
+            <pubDate>Sun, 18 Sep 2022 14:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMF：将与国际社会合作，支持巴基斯坦洪灾的救灾和重建工作。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7819382.d.html</link>
@@ -434,23 +440,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9555969.d.html</link>
             <guid>2805338</guid>
             <pubDate>Sun, 18 Sep 2022 08:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信科移动：网上中签号码共有49万个】信科移动公布网上中签结果，中签号码共有493,286个，每个中签号码只能认购500股信科移动股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9555638.d.html</link>
-            <guid>2805337</guid>
-            <pubDate>Sun, 18 Sep 2022 08:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美联新材：与七彩化学签订战略合作协议】美联新材公告，公司与七彩化学签订战略合作协议，双方暂定共同投资25亿元人民币，建设年产18万吨电池级普鲁士蓝（白）产业化项目，致力于钠离子电池正极材料普鲁士蓝（白）系列产品的研究开发及产业化，助推钠离子电池产业发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7791605.d.html</link>
-            <guid>2805336</guid>
-            <pubDate>Sun, 18 Sep 2022 08:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台媒：花莲高寮大桥震断疑有人车掉落，玉里有楼房倒塌4人受困】台湾花莲县18日14时44分发生6.9级地震，全台有震感。台湾“中央社”刚刚消息称，花莲玉里高寮大桥断裂，疑似有人车掉落桥下，已派人救援中。花莲玉里一家7-11便利超市的楼房倒塌4人受困。（环球网）]]></title>
-            <guid>2805333</guid>
-            <pubDate>Sun, 18 Sep 2022 08:05:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
