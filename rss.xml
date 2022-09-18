@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 18 Sep 2022 20:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 21:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[自9月19日0时起，吉林省长春市全域中高风险区清零，调整为常态化防控管理。（央视新闻）]]></title>
+            <guid>2805647</guid>
+            <pubDate>Sun, 18 Sep 2022 20:52:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰海港管理局：黑海粮食倡议实施以来乌克兰已出口370万吨农产品】乌克兰海港管理局发布消息称，自黑海粮食倡议实施以来，共有165艘货船装载370万吨农产品出口到亚洲、欧洲以及非洲国家。18日，10艘货船装载16.93万吨农产品从乌克兰南部的港口出发驶往非洲、亚洲和欧洲国家。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9598383.d.html</link>
@@ -422,18 +427,6 @@
             <title><![CDATA[【中金：低估值、稳增长相关板块仍有相对表现】中金公司研报指出，A股市场估值已经偏低，成交持续缩量表明市场情绪已接近历史区间极致水平；市场流动性条件也较为宽松，对市场中期前景不宜过度悲观，整体先求稳，再求进，注意保持灵活性、把握市场节奏、注重结构。配置上，低估值、稳增长相关板块仍有相对表现；成长风格偏弱的态势可能仍将延续一段时间。]]></title>
             <guid>2805346</guid>
             <pubDate>Sun, 18 Sep 2022 08:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【骄成超声：网上中签号码1.41万个】骄成超声公布网上中签结果，中签号码共有14105个，每个中签号码只能认购500股骄成超声A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7793005.d.html</link>
-            <guid>2805345</guid>
-            <pubDate>Sun, 18 Sep 2022 08:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非电力公司：将无限期延长6000兆瓦的减产时期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7792928.d.html</link>
-            <guid>2805344</guid>
-            <pubDate>Sun, 18 Sep 2022 08:33:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
