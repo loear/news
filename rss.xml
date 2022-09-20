@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 17:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[赫兹公司高管表示，与通用汽车的电动汽车协议是一份“持续多年且价值数十亿美元”的合同。]]></title>
+            <guid>2807560</guid>
+            <pubDate>Tue, 20 Sep 2022 17:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：西班牙政府将天然气的增值税从21%削减至5%，降低消费者费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-21/detail-imqqsmrn9863922.d.html</link>
+            <guid>2807559</guid>
+            <pubDate>Tue, 20 Sep 2022 17:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：俄罗斯国防工业必须实现100%进口替代】 俄罗斯总统普京20日表示，俄国防工业必须实现100%进口替代，需要在不影响质量的情况下提高生产能力、缩短生产时间。普京表示，俄产武器装备在特别军事行动中表现出很高效率，能够对抗西方武器。他还说，俄产军事装备在世界军火市场占据稳固地位，仅今年上半年已为海外合作伙伴提供了价值超过60亿美元的军事装备。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-21/detail-imqqsmrn9863899.d.html</link>
+            <guid>2807557</guid>
+            <pubDate>Tue, 20 Sep 2022 17:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚约贝州披露称，17日发生在该州的沉船事故已经造成10人丧生。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-21/detail-imqqsmrn9862259.d.html</link>
+            <guid>2807547</guid>
+            <pubDate>Tue, 20 Sep 2022 16:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新疆乌鲁木齐昨日新增本土无症状感染者2例。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-21/detail-imqqsmrn9861404.d.html</link>
@@ -243,28 +266,6 @@
             <title><![CDATA[海纳国际：将Paypal(PYPL.O)评级从积极下调至中性，目标价从115美元下调至100美元。]]></title>
             <guid>2807464</guid>
             <pubDate>Tue, 20 Sep 2022 13:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车跌幅扩大至8.7%，创三个月以来最大盘中跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8091084.d.html</link>
-            <guid>2807459</guid>
-            <pubDate>Tue, 20 Sep 2022 13:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST围海：联合预中标6.7亿元项目】*ST围海公告，公司与江省水利水电勘测设计院有限责任公司组成的联合体预中标“余姚市陶家路江排涝枢纽及供水工程设计采购施工总承包”项目，投标报价为6.7亿元，占公司2021年经审计营业总收入的25.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8091041.d.html</link>
-            <guid>2807458</guid>
-            <pubDate>Tue, 20 Sep 2022 13:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宁德时代公告称，“19CATL01”存续期前3年票面利率为3.68%，在本期债券的第3年末，根据当前的市场环境，发行人选择下调债券票面利率113个基点，即存续期后2年票面利率为2.55%。]]></title>
-            <guid>2807450</guid>
-            <pubDate>Tue, 20 Sep 2022 13:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)跌4%，公司将实施新的费用结构，降低符合中上层收费标准所需的每月交易量。]]></title>
-            <guid>2807446</guid>
-            <pubDate>Tue, 20 Sep 2022 13:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
