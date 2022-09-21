@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 21 Sep 2022 20:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 21:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据报道，通用汽车（GM）将关闭电动悍马和SUV的预定服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0008248.d.html</link>
+            <guid>2808633</guid>
+            <pubDate>Wed, 21 Sep 2022 21:14:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【卡塔尔与摩洛哥签署协议，加强世界杯安保合作】 当地时间9月21日，卡塔尔与摩洛哥政府在卡塔尔首都多哈签署协议，双方将在2022年卡塔尔世界杯的安保信息交流与情报共享方面加强合作。摩洛哥还将向卡塔尔派遣数百名军警，帮助卡方维持世界杯期间的安保。卡塔尔世界杯将于2022年11月20日至12月18日举行，这是中东和阿拉伯地区首次举办世界杯。为了加强世界杯的安保工作，卡塔尔此前已经分别和美国、土耳其、巴基斯坦等国签署了军事防务或安保方面的合作协议。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0006912.d.html</link>
