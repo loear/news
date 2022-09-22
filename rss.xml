@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 22 Sep 2022 17:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 18:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[联邦快递（FedEx）第一财季经调整后每股收益3.44美元。公司运营收入12.3亿美元。该公司宣布将优先实施减支行动，第二财季将实现减支7亿美元，2023财年瓷砖年将削减22-27亿美元开支。]]></title>
+            <guid>2809611</guid>
+            <pubDate>Thu, 22 Sep 2022 18:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股航空股全线下跌，捷蓝航空(JBLU.O)跌超6%，美国联合航空(UAL.O)跌超5%，美国航空集团(AAL.O)跌约5%，达美航空(DAL.N)跌超4%。]]></title>
+            <guid>2809605</guid>
+            <pubDate>Thu, 22 Sep 2022 18:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CTFC）对五家机构施以罚款，因其未如要求注册为期货佣金商。]]></title>
+            <guid>2809602</guid>
+            <pubDate>Thu, 22 Sep 2022 17:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙计划征收巨额财富税以缓解普通民众的通胀压力】西班牙正在考虑向最富有的1%人口征收额外的税，以帮助减轻其他人口因通货膨胀而承受的负担。面对民众对高通胀的不满，首相桑切斯正推动立法增加对银行和能源公司的征税，这将在未来两年内筹得70亿欧元（69亿美元），以支付电力减税和燃料补贴。西班牙是欧盟唯一征收巨额财富税的国家，根据西班牙国家税务机构的最新数据，西班牙在2020年征收了12亿欧元的净财富税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8387086.d.html</link>
+            <guid>2809599</guid>
+            <pubDate>Thu, 22 Sep 2022 17:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国航空股刷新两年低位，衰退恐惧愈演愈烈】美国航空类股连续第三个交易日下跌，恐创2020年8月份收盘新低，旅游相关类股跟跌。捷蓝航空（JBLU）目前跌约6.1%，美联航（UAL）跌约5.0%，美国航空公司（AAL）跌超4.5%，阿拉斯加航空（ALK）跌约4.0%，达美航空（DAL）跌超3.2%，美国西南航空（LUV）跌超3.0%。邮轮类股中，Tripadvisor跌超4.3%，挪威邮轮跌1.3%，Lindblad Expeditions跌超1.1%，嘉年华跌0.7%，皇家加勒比则涨2.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8386778.d.html</link>
+            <guid>2809598</guid>
+            <pubDate>Thu, 22 Sep 2022 17:49:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 12月黄金期货收涨0.30%，连续第二个交易日上涨，报1681.10美元/盎司。]]></title>
+            <guid>2809597</guid>
+            <pubDate>Thu, 22 Sep 2022 17:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雷诺提议在通货膨胀的情况下，为每位员工提供1000欧元的工资补助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqqsmrp0138295.d.html</link>
+            <guid>2809596</guid>
+            <pubDate>Thu, 22 Sep 2022 17:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞信否认退出美国市场】瑞士信贷表示，媒体关于该公司退出美国市场的报道“绝对是虚假的”。周四（9月22日）美股盘初，有报道称，瑞信正在退出美国市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8386662.d.html</link>
+            <guid>2809595</guid>
+            <pubDate>Thu, 22 Sep 2022 17:46:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【瑞信考虑将投行业务一分为三，并计划裁员10%】瑞士信贷(CS.N)正在考虑几个极端的选择，以寻求摆脱亏损和丑闻，包括退出美国市场，解雇超过10%的全球4.5万员工，并将其投资银行业务分拆为三份。根据正在考虑的最新提议，投资银行业务将被分拆为三个部分：咨询业务，该部分可能在未来某个时候剥离；设立坏账银行掌管风险资产，持有即将被逐步淘汰的高风险资产；以及其他业务。根据提交给该集团董事会的提议，瑞信希望出售证券化产品业务等盈利部门。该行董事会和高管团队计划在10月27日公布第三季度业绩时公布新战略。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8384402.d.html</link>
@@ -241,88 +285,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372931.d.html</link>
             <guid>2809512</guid>
             <pubDate>Thu, 22 Sep 2022 14:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会同步指标月率 0.1%，前值0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124629.d.html</link>
-            <guid>2809510</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会领先指标 116.2，前值116.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372843.d.html</link>
-            <guid>2809509</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会领先指标月率录得-0.3%，为2022年3月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124584.d.html</link>
-            <guid>2809508</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区9月消费者信心指数初值 -28.8，预期-25.8，前值-24.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124486.d.html</link>
-            <guid>2809505</guid>
-            <pubDate>Thu, 22 Sep 2022 14:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)跌2%，报294.7美元。特斯拉此前因车窗故障申请召回近110万辆美国汽车。]]></title>
-            <guid>2809504</guid>
-            <pubDate>Thu, 22 Sep 2022 13:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债延续跌势，收益率上升20个基点至3.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0123605.d.html</link>
-            <guid>2809501</guid>
-            <pubDate>Thu, 22 Sep 2022 13:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克指控推特向爆料人付款未经其同意，违反了收购协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8371686.d.html</link>
-            <guid>2809499</guid>
-            <pubDate>Thu, 22 Sep 2022 13:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西班牙准备向法国和意大利输送更多天然气】西班牙能源和环境部长特雷莎·里韦拉表示，西班牙国家天然气公司将可通过位于巴斯克边境城市伊伦（Irún）的一条管道，每年向法国额外输送15亿立方米天然气。此外，西班牙政府还宣布三个新项目，以增加对意大利的潜在液化天然气供应，包括改造西班牙国家天然气公司在巴塞罗那的一座再气化工厂。里韦拉表示：“西班牙正展示团结，并希望为加强欧洲的供应安全作出贡献。”  （界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0123393.d.html</link>
-            <guid>2809498</guid>
-            <pubDate>Thu, 22 Sep 2022 13:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国防长会见法国防长 讨论乌克兰局势等问题】德国国防部长兰布雷希特在柏林会见了到访的法国国防部长勒科尔尼，两国国防部长本次会谈的重点包括乌克兰当前局势以及军备问题。兰布雷希特表示，德国仍将继续坚持对乌克兰的军事援助，但在武器交付问题上会采取“非常谨慎”的行动。德国目前已向乌克兰提供了自行榴弹炮和多管火箭发射器，而对于欧盟方面希望德国向乌克兰提供主战坦克和装甲运兵车的要求，兰布雷希特当天未给出回应。据她透露，乌克兰现在可以从希腊和斯洛文尼亚接收苏联时代设计的坦克，而德国则会以“环形交换”方式向希腊和斯洛文尼亚提供德式坦克作为补偿。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8371547.d.html</link>
-            <guid>2809497</guid>
-            <pubDate>Thu, 22 Sep 2022 13:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美联航一架飞机起飞后出故障 中途返航紧急迫降】据多家媒体报道，当地时间9月22日，美国联合航空（United Airlines）一架飞往巴西圣保罗的航班被迫返航，紧急降落在纽瓦克自由国际机场（Newark-Liberty International Airport）。据美国联邦航空管理局（FAA）表示，美联航149号航班在机组人员报告紧急情况后安全着陆。据报道，这架飞机的液压系统出了问题。据悉，这架飞机21日晚间从纽瓦克起飞，此后在大西洋上空盘旋，大约两个小时后返回机场。所幸飞机安全降落，美国联邦航空管理局表示，已经开始着手调查这起迫降事故。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0123289.d.html</link>
-            <guid>2809496</guid>
-            <pubDate>Thu, 22 Sep 2022 13:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄外交部宣布禁止87名加拿大公民入境】俄外交部发布声明说，作为对加拿大制裁俄罗斯的回应，俄方决定禁止87名加拿大公民入境。据塔斯社报道，俄外交部说，被制裁的人员包括加拿大军方相关人员和多个省的官员。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8371466.d.html</link>
-            <guid>2809495</guid>
-            <pubDate>Thu, 22 Sep 2022 13:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：为了提高所有人的生活水平，我们需要对发展经济相对地“看轻”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0122622.d.html</link>
-            <guid>2809494</guid>
-            <pubDate>Thu, 22 Sep 2022 13:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：减税是至关重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0122602.d.html</link>
-            <guid>2809493</guid>
-            <pubDate>Thu, 22 Sep 2022 13:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府：从11月6日起，国民保险费用将上调1.25个百分点，同时也将取消计划中的健康和社会保障税。]]></title>
-            <guid>2809492</guid>
-            <pubDate>Thu, 22 Sep 2022 13:38:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
