@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 22 Sep 2022 18:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 19:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -273,18 +273,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8373041.d.html</link>
             <guid>2809514</guid>
             <pubDate>Thu, 22 Sep 2022 14:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区9月消费者信心指数初值降至28.8，因能源危机而创历史新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8373001.d.html</link>
-            <guid>2809513</guid>
-            <pubDate>Thu, 22 Sep 2022 14:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会滞后指标月率 0.7%，前值0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372931.d.html</link>
-            <guid>2809512</guid>
-            <pubDate>Thu, 22 Sep 2022 14:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
