@@ -4,11 +4,21 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 23 Sep 2022 19:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 20:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国金融稳定性监督委员会（FSOC）在会议上表示，希望政府在10月份发布数字资产报告。]]></title>
+            <guid>2810664</guid>
+            <pubDate>Fri, 23 Sep 2022 20:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至9月20日当周，美元投机性净多头押注减少至102.3亿美元，上周为172.4亿美元。]]></title>
+            <guid>2810659</guid>
+            <pubDate>Fri, 23 Sep 2022 19:49:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【能源危机当前 欧洲多国农业生产受冲击】在意大利、法国等欧洲国家，能源危机正在冲击农业生产。能源价格高涨导致部分果蔬种植成本飙升，种植户对飞涨的能源账单感到头疼不已，面对电价暴涨，是继续生产还是停产陷入了两难。由于相关农产品生产及加工提供了大量就业岗位，种植户一旦停产将对就业带来震动。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0277458.d.html</link>
@@ -271,17 +281,6 @@
             <title><![CDATA[【标普全球市场情报的首席商业经济学家Chris Williamson评美国9月PMI数据】通胀方面也有更好的消息，供应商短缺压力缓解至2020年10月以来的最低水平，这帮助缓解了原材料价格的部分压力。这些供应链的改善，伴随着自今年早些时候以来需求的明显软化，帮助企业成本和商品及服务的平均销售价格的整体通胀率降至2021年初以来的最低点。然而，按照历史标准，通胀压力仍然很高，而且，随着商业活动的下降，调查继续描绘出一幅经济在滞胀环境中挣扎的总体图景。]]></title>
             <guid>2810565</guid>
             <pubDate>Fri, 23 Sep 2022 14:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普全球市场情报的首席商业经济学家Chris Williamson评美国PMI数据】美国企业9月份产出连续第三个月下降，如果排除2020年初的大流行封锁，这是全球金融危机以来经济最疲弱的一个季度。然而，尽管9月份制造业和服务业产出均出现下滑，但与8月份相比，这两项产出的萎缩幅度均有所放缓，尤其是服务业，订单量恢复温和增长，缓解了人们对当前经济低迷程度的一些担忧。]]></title>
-            <guid>2810558</guid>
-            <pubDate>Fri, 23 Sep 2022 13:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传奇IP与恺英网络商事纠纷案落幕】恺英网络发布一则其全资子公司上海恺英网络科技有限公司及全资二级子公司浙江欢游网络科技有限公司涉及诉讼的进展公告。据公告，恺英网络日前收到上海高院的《民事判决书》，判决上海恺英对浙江欢游在此前北京市第四中级人民法院执行裁定书项下的债务承担连带清偿责任。此外，上海恺英需于本判决生效之日起十日内赔偿上诉人株式会社传奇IP律师费人民币40万元，并承担一审和二审的案件受理费共计约490万元。公告称预计本次判决金额会相应减少恺英网络2022年的归母净利润，但公司目前资金充裕，该事项的影响在可控范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8517834.d.html</link>
-            <guid>2810556</guid>
-            <pubDate>Fri, 23 Sep 2022 13:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
