@@ -4,11 +4,72 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 24 Sep 2022 09:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 10:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据深交所官网，北京博科测试系统股份有限公司IPO审核状态变更为已问询。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqmmtha8600159.d.html</link>
+            <guid>2810820</guid>
+            <pubDate>Sat, 24 Sep 2022 10:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔石油公司CEO Pouyanne：道达尔将在NFS项目上投资约15亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0343305.d.html</link>
+            <guid>2810817</guid>
+            <pubDate>Sat, 24 Sep 2022 10:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔能源公司尚未宣布NFS项目的金额，因为陆上合同尚未敲定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqmmtha8599198.d.html</link>
+            <guid>2810816</guid>
+            <pubDate>Sat, 24 Sep 2022 10:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔石油公司CEO Pouyanne：到2025-2027年，世界将需要“非常多的天然气”。]]></title>
+            <guid>2810815</guid>
+            <pubDate>Sat, 24 Sep 2022 10:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔石油公司CEO Pouyanne：这一合作来得正是时候，因为世界上大多数领导人都意识到了液化天然气的新需求，尤其是在欧洲。]]></title>
+            <guid>2810814</guid>
+            <pubDate>Sat, 24 Sep 2022 10:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔石油公司CEO Pouyanne：NFS项目很有价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0342589.d.html</link>
+            <guid>2810813</guid>
+            <pubDate>Sat, 24 Sep 2022 09:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔能源公司总裁Kaabi：公司已经签订了60艘液化天然气运输船的建造和长期租船合同，在不久的将来可能会增加到100艘。]]></title>
+            <guid>2810812</guid>
+            <pubDate>Sat, 24 Sep 2022 09:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江西重度气象干旱已持续74天】今天（9月24日），江西高温持续，全省94.6%的县（市、区）达到特重气象干旱。7月12日江西局部开始出现重度气象干旱以来至今（9月24日）已持续74天，森林火险气象等级4（高）至5级（极高）将一直持续至10月初。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0342387.d.html</link>
+            <guid>2810811</guid>
+            <pubDate>Sat, 24 Sep 2022 09:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔能源公司：道达尔是北油田南部扩张项目的合作伙伴，在25%的国际合作份额中占9.3%。]]></title>
+            <guid>2810810</guid>
+            <pubDate>Sat, 24 Sep 2022 09:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔石油公司和道达尔石油公司签署合作伙伴关系协议，将共同投资于北油田（North Field）的南方液化天然气项目。]]></title>
+            <guid>2810809</guid>
+            <pubDate>Sat, 24 Sep 2022 09:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春秋航空50亿元小公募债项目状态更新为“已反馈”】上交所公司债券项目信息平台显示，春秋航空股份有限公司50亿元小公募项目状态更新为“已反馈”，更新日期为2022年9月23日。募集说明书反馈回复稿显示，本次公司债券募集资金扣除发行费用后，拟将10亿元用于补充流动资金；40亿元用于偿还计息负债。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0340944.d.html</link>
+            <guid>2810808</guid>
+            <pubDate>Sat, 24 Sep 2022 09:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[意大利天然气传输运营商snam CEO：到下周末，意大利天然气储气水平将达到90%。]]></title>
             <guid>2810807</guid>
@@ -363,51 +424,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqmmtha8546365.d.html</link>
             <guid>2810718</guid>
             <pubDate>Sat, 24 Sep 2022 00:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【昨日全国监测港口完成货物吞吐量环比增长24.7%】最新数据显示，9月23日，全国货运物流有序运行 , 监测港口完成货物吞吐量环比增长24.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqmmtha8545024.d.html</link>
-            <guid>2810716</guid>
-            <pubDate>Fri, 23 Sep 2022 23:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新式茶饮争相拥抱资本市场 行业规模已超千亿元】新式茶饮连锁企业蜜雪冰城A股上市申请日前获受理并正式预披露招股书，拟登陆深交所主板。而在蜜雪冰城冲刺A股前，另一行业巨头奈雪的茶已于今年6月30日在港上市。机构报告显示，2020年现制茶饮的零售额规模已达1135亿元，其预计2020年-2025年，我国现制茶饮的零售额规模将增长至3400亿元，年均复合增长率约为24.5%。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqmmtha8544797.d.html</link>
-            <guid>2810715</guid>
-            <pubDate>Fri, 23 Sep 2022 23:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【养老理财产品销售火爆 净值表现平稳】《关于开展养老理财产品试点的通知》发布以来，养老理财产品试点工作开展已满一周年。当前，养老理财产品发行步入常态化阶段，产品数量48只，产品表现稳健。业内人士认为，养老理财产品试点机构有望进一步扩容。业绩比较基准较高是养老理财产品销售火爆的重要原因，目前已发行的养老理财产品业绩比较基准下限为4%，上限为10%，多数产品业绩比较基准在5.5%至8%区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0290313.d.html</link>
-            <guid>2810714</guid>
-            <pubDate>Fri, 23 Sep 2022 23:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夏粮、早稻、秋粮生产捷报频传】今年，我国夏粮、早稻、秋粮三季粮食生产捷报频传，夏粮增产28.7亿斤，早稻增产2.1亿斤，秋粮主产区特别是东北、黄淮海、西北长势好于上年。全年粮食产量有望连续8年稳定在1.3万亿斤以上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0290104.d.html</link>
-            <guid>2810710</guid>
-            <pubDate>Fri, 23 Sep 2022 23:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多家上市公司加码布局合成生物学赛道】近日，国内合成生物概念备受市场关注。作为一项新兴的产业，合成生物学近年来在技术、政策和资本的推动下，开始逐渐火热，吸引A股多家上市公司加速布局。业内人士表示，底层技术与关键核心技术研发不断取得突破，助力合成生物进入快速产业化阶段。物质转化、能量利用效率大幅度提高，新产品开发速度和过程工艺的绿色环保水平大幅度提升，生物塑料与生物基产品等新兴产业快速兴起，推动生物产业链重整。]]></title>
-            <guid>2810708</guid>
-            <pubDate>Fri, 23 Sep 2022 23:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【呵护流动性 货币政策有望持续显效】本周以来，人民银行适时启动跨季流动性投放，连续5个工作日开展14天期逆回购操作。业内人士认为，当前仍处于巩固经济回升基础的关键窗口期，四季度有必要继续保持流动性合理充裕，考虑到中期借贷便利（MLF）到期规模增加、新增专项债发行力度重新加大和财政税收等因素影响，四季度动用总量型货币政策工具的可能性不能排除，如用降准置换部分到期MLF等。货币政策有望持续显效。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-24/detail-imqqsmrp0289729.d.html</link>
-            <guid>2810707</guid>
-            <pubDate>Fri, 23 Sep 2022 23:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上半年央企上市公司实现利润总额合计1.17万亿元】中国上市公司协会23日发布《央企控股上市公司2022年上半年运行情况报告》。根据《报告》显示，截至今年6月底，84家中央企业共控股450家上市公司，其中央企境内上市公司361家、央企港股上市公司（含A+H股）118家。上半年，央企公司实现营业收入合计13.55万亿元，利润总额合计1.17万亿元。]]></title>
-            <guid>2810706</guid>
-            <pubDate>Fri, 23 Sep 2022 23:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：09月24日06时53分在智利中部沿岸近海（南纬41.20度，西经75.30度）发生6.0级地震，震源深度10千米。]]></title>
-            <guid>2810705</guid>
-            <pubDate>Fri, 23 Sep 2022 23:22:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
