@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 27 Sep 2022 16:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 17:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【内蒙古兴安盟耐盐碱水稻连续四年测产稳定】 9月27日从内蒙古自治区兴安盟行政公署获悉，盟里日前举行的“兴安盟袁隆平院士工作站2022年优质水稻测产现场观摩会”上传来好消息，耐盐碱水稻平均亩产稻谷再次突破1000斤，连续四年测产稳定在千斤以上。据了解，该基地耐盐碱水稻连续四年亩产破千斤，不仅为兴安盟盐碱中低产田提升为中高产田注入希望，更为我国同等条件下的盐碱地水稻种植提供了科学依据。（新华社）]]></title>
+            <guid>2813140</guid>
+            <pubDate>Tue, 27 Sep 2022 17:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰通过决议 禁止向俄罗斯出口商品】乌克兰媒体9月27日报道称，乌克兰内阁当天通过了一项决议，根据该决议乌克兰禁止向俄罗斯出口商品。媒体报道称，自2月24日以来，乌克兰对俄罗斯的货物出口实际上已经停止，此次内阁的决定则是在法律层面明确了这一问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-28/detail-imqqsmrp0733915.d.html</link>
+            <guid>2813130</guid>
+            <pubDate>Tue, 27 Sep 2022 16:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：瑞士信贷(CS.N)全球信贷产品负责人Daniel McCarthy将离职。]]></title>
             <guid>2813126</guid>
@@ -185,28 +196,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-27/detail-imqmmtha8986381.d.html</link>
             <guid>2813041</guid>
             <pubDate>Tue, 27 Sep 2022 13:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克就推特案出庭作证的时间延迟至10月6日至7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-27/detail-imqmmtha8986103.d.html</link>
-            <guid>2813038</guid>
-            <pubDate>Tue, 27 Sep 2022 13:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋总统抵达马斯喀特 对阿曼进行国事访问】当地时间9月27日，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬抵达阿曼首都马斯喀特，对该国进行为期两天的国事访问。阿曼苏丹海赛姆在马斯喀特皇家机场为穆罕默德举行欢迎仪式。此次访问期间，两国元首计划就加强阿联酋-阿曼经济联系、推动两国在金融和工业等领域合作、促进可持续发展并支持经贸繁荣等议题举行磋商。阿曼是阿联酋的重要贸易伙伴国之一，2021年阿曼对阿联酋的总出口额约为33.81亿美元，2020年约为31.21亿美元。2021年阿曼对阿联酋出口额占该国出口总额的7.8%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-27/detail-imqqsmrp0721592.d.html</link>
-            <guid>2813036</guid>
-            <pubDate>Tue, 27 Sep 2022 13:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国建筑：拟117.34亿元投资上海嘉定房地产开发项目】中国建筑公告，公司下属子公司中建二局拟投资上海市嘉定区未来城市理想单元地块房地产开发项目。近日，中建二局已竞得该项目土地使用权。该项目共包含6宗土地，总占地面积约14.16万平方米，总计容建面约36.86万平方米，项目总投资约117.34亿元，其中地价款约64.36亿元。项目开发周期预计为4年。另外，近期公司获得多个重大工程项目，项目金额合计303.5亿元，占2021年度营业收入的1.6%。]]></title>
-            <guid>2813024</guid>
-            <pubDate>Tue, 27 Sep 2022 13:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber(UBER.N)涨4.5%，消息面上，Stellantis与Uber联手进军法国电动汽车市场。]]></title>
-            <guid>2813023</guid>
-            <pubDate>Tue, 27 Sep 2022 13:35:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
