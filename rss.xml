@@ -4,11 +4,21 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 29 Sep 2022 16:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 17:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【过去22年东北地区粮食产量增长近2倍】9月29日，中国科学院在北京召开新闻发布会，发布“黑土粮仓”科技会战阶段性成果和《东北黑土地保护与利用报告（2021年）》。《报告》显示，东北黑土区气候变暖趋势明显，气温升高使得农作物潜在生长季延长，适宜种植区边界北移。2000-2021年，东北地区粮食产量增长了近2倍。]]></title>
+            <guid>2815345</guid>
+            <pubDate>Thu, 29 Sep 2022 17:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国六州起诉拜登政府的学生贷款减免计划】美国内布拉斯加州总检察长道格·彼得森当地时间29日表示，有六个州当天向密苏里州的联邦法院提出了对拜登政府学生贷款减免计划的起诉。在这一诉讼中，内布拉斯加州和其他五个州要求法院立即发布临时限制令，暂停拜登政府的学生贷款减免计划。（央视）]]></title>
+            <guid>2815337</guid>
+            <pubDate>Thu, 29 Sep 2022 17:02:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【季末揽储大战“偃旗息鼓”】季末，按照惯例，又到了银行“加码”揽储的时间节点。不过，随着今年存款利率一降再降，也让银行传统的季末高息揽储大战“偃旗息鼓”。国庆长假前夕，多家大中型银行并未推出拼利率、送礼品等特色揽储活动，更有多位客户经理直言，“存款利率未来还有下行空间，目前不太推荐”。不过，与大中型银行表现迥异的是，地方中小银行仍面临负债压力，并加大同业存单发行力度以求“解渴”。]]></title>
             <guid>2815332</guid>
@@ -242,23 +252,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-29/detail-imqqsmrp1000151.d.html</link>
             <guid>2815256</guid>
             <pubDate>Thu, 29 Sep 2022 14:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股跌跌不休，道指跌幅扩大至2%，纳指跌超3%，标普500指数跌2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-29/detail-imqqsmrp0999032.d.html</link>
-            <guid>2815243</guid>
-            <pubDate>Thu, 29 Sep 2022 14:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克概念股集体下挫，Shopify(SHOP.N)、赫兹(HTZ.O)跌超6%，特斯拉(TSLA.O)跌超5%，游戏驿站(GME.N)、声网(API.O)跌超4%。]]></title>
-            <guid>2815240</guid>
-            <pubDate>Thu, 29 Sep 2022 14:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数下跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-29/detail-imqqsmrp0998382.d.html</link>
-            <guid>2815237</guid>
-            <pubDate>Thu, 29 Sep 2022 14:08:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
