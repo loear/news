@@ -4,11 +4,45 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 29 Sep 2022 17:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 18:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【意大利第四季度家庭用电费用上涨59%】当地时间29日，意大利能源网络与环境管理局宣布，自10月1日起的第四季度意大利家庭用电价格上涨59%。预计2022年平均家庭电费同比翻倍，从前一年的632欧元涨至1322欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1014134.d.html</link>
+            <guid>2815357</guid>
+            <pubDate>Thu, 29 Sep 2022 18:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta Platform宣布冻结招聘，大型科技股重挫】美国科技股中，苹果跌幅扩大至超过6%，特斯拉目前跌7.3%，Meta下跌4.5%。扎克伯格与员工开会，宣布“元宇宙公司”Meta Platform冻结招聘、警告将进行（架构）重组，诸多行动意在削减成本、转移盈利方向。Meta告知员工，称“（美国）宏观经济仍然形势艰巨，容易发生动荡”，公司将侧重于“少量告诉增长的优先（业务）领域”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1013717.d.html</link>
+            <guid>2815354</guid>
+            <pubDate>Thu, 29 Sep 2022 18:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：本周美国贷款基金的资金净流出规模为19.1亿美元。]]></title>
+            <guid>2815353</guid>
+            <pubDate>Thu, 29 Sep 2022 18:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【光伏电池片价格9月份两度上调，大尺寸产品供不应求】随着国庆节假期临近，光伏企业生产用料备货需求提升，组件环节9月份排产环比有所提高，光伏电池片价格也环比上涨。其中，9月份以来，通威太阳能已两度上调单晶PERC电池的价格。随着硅料新增产能陆续释放，光伏产业原材料供应不足的局面有望暂时缓解，但电池片结构性供需失衡的局面或将延续。在下游旺盛需求的支撑下，第四季度这一传统消费旺季的到来，有望为光伏产业再添一把火。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1012726.d.html</link>
+            <guid>2815351</guid>
+            <pubDate>Thu, 29 Sep 2022 18:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【不明无人机飞越丹麦最大油气田】当地时间9月29日，丹麦广播电视台报道，28日在丹麦哈夫丹（Halfdan）油气田的B平台组上空观察到不明无人机。哈夫丹油气田运营商能源公司道达尔公司（TotalEnergies）确认了这一消息，表示已按照安全程序采取了必要的措施，并正在与当局进行密切对话。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1012422.d.html</link>
+            <guid>2815349</guid>
+            <pubDate>Thu, 29 Sep 2022 17:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北溪天然气管道公司称，一旦获得官方许可，就计划开始评估管道的损害程度；只有在输气管道的压力得到稳定及气体泄漏停止后，才可获准进入事故区域；在完成损害评估之前，不可能预测输气基础设施恢复运营的时间框架。]]></title>
+            <guid>2815348</guid>
+            <pubDate>Thu, 29 Sep 2022 17:46:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【过去22年东北地区粮食产量增长近2倍】9月29日，中国科学院在北京召开新闻发布会，发布“黑土粮仓”科技会战阶段性成果和《东北黑土地保护与利用报告（2021年）》。《报告》显示，东北黑土区气候变暖趋势明显，气温升高使得农作物潜在生长季延长，适宜种植区边界北移。2000-2021年，东北地区粮食产量增长了近2倍。]]></title>
             <guid>2815345</guid>
@@ -246,12 +280,6 @@
             <title><![CDATA[美国至9月23日当周EIA天然气库存 1030亿立方英尺，预期940亿立方英尺，前值1030亿立方英尺。]]></title>
             <guid>2815259</guid>
             <pubDate>Thu, 29 Sep 2022 14:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【益生股份：拟定增募资不超11.6亿元 实控人认购不低于30%】益生股份公告，公司拟非公开发行A股股票募资不超11.6亿元，投入种猪养殖项目、种鸡孵化场项目及用于补充流动资金和偿还银行贷款。发行对象为包含公司实控人曹积生在内的特定对象，曹积生承诺认购此次非公开发行的股份数量比例不低于30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-29/detail-imqqsmrp1000151.d.html</link>
-            <guid>2815256</guid>
-            <pubDate>Thu, 29 Sep 2022 14:28:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
