@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 30 Sep 2022 20:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 21:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据风险模型计算，飓风“伊恩”预计将令美国保险业面临630亿美元损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9437805.d.html</link>
+            <guid>2816453</guid>
+            <pubDate>Fri, 30 Sep 2022 20:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：将土耳其评级从B+下调至B，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1160856.d.html</link>
+            <guid>2816448</guid>
+            <pubDate>Fri, 30 Sep 2022 20:37:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  标普将土耳其评级从B+下调至B，前景展望为稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1160155.d.html</link>
@@ -167,48 +179,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426262.d.html</link>
             <guid>2816363</guid>
             <pubDate>Fri, 30 Sep 2022 15:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：执行委员会批准新的“粮食激增”窗口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426108.d.html</link>
-            <guid>2816360</guid>
-            <pubDate>Fri, 30 Sep 2022 15:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  古根海姆：将威富集团(VFC.N)目标价从60美元下调至50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426059.d.html</link>
-            <guid>2816359</guid>
-            <pubDate>Fri, 30 Sep 2022 15:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[淡水河谷(VALE.N)涨超5%，此前宣布重组巴西镍和铜业务以实现高效管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425916.d.html</link>
-            <guid>2816358</guid>
-            <pubDate>Fri, 30 Sep 2022 15:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国食品药品管理局（FDA）继续就特定的婴儿配方奶粉供应问题进行自由裁量权执法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148892.d.html</link>
-            <guid>2816356</guid>
-            <pubDate>Fri, 30 Sep 2022 15:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰8月经常账户盈余20.18亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148799.d.html</link>
-            <guid>2816354</guid>
-            <pubDate>Fri, 30 Sep 2022 15:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德意志银行：将耐克(NKE.N)目标价从123美元下调至99美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425543.d.html</link>
-            <guid>2816353</guid>
-            <pubDate>Fri, 30 Sep 2022 15:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会：欧盟批准德国4.50亿欧元关于俄罗斯天然气供应短缺的救助计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148382.d.html</link>
-            <guid>2816348</guid>
-            <pubDate>Fri, 30 Sep 2022 15:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
