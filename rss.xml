@@ -4,11 +4,139 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 30 Sep 2022 13:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 14:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国9月密歇根大学现况指数终值 59.7，预期58.9，前值58.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1141049.d.html</link>
+            <guid>2816287</guid>
+            <pubDate>Fri, 30 Sep 2022 14:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月密歇根大学预期指数终值 58，预期59.9，前值59.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1141024.d.html</link>
+            <guid>2816286</guid>
+            <pubDate>Fri, 30 Sep 2022 14:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月五至十年期通胀率预期 2.7%，预期2.80%，前值2.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9417414.d.html</link>
+            <guid>2816285</guid>
+            <pubDate>Fri, 30 Sep 2022 14:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月一年期通胀率预期 4.7%，预期4.60%，前值4.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9417368.d.html</link>
+            <guid>2816284</guid>
+            <pubDate>Fri, 30 Sep 2022 14:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股走高，纳指、标普500指数均转涨，道指跌幅收窄至0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9416896.d.html</link>
+            <guid>2816278</guid>
+            <pubDate>Fri, 30 Sep 2022 13:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股运动服装股走低】美股运动服装股走低，耐克跌13%，安德玛跌12%，迪克体育用品跌超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139368.d.html</link>
+            <guid>2816273</guid>
+            <pubDate>Fri, 30 Sep 2022 13:44:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据调查：利比亚、沙特阿拉伯和尼日利亚引领欧佩克石油产量增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9415684.d.html</link>
+            <guid>2816270</guid>
+            <pubDate>Fri, 30 Sep 2022 13:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股邮轮板块齐跌】嘉年华邮轮季度业绩不及预期，邮轮板块齐跌，挪威邮轮跌超6%，皇家加勒比邮轮、Lindblad Expeditions跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9415229.d.html</link>
+            <guid>2816266</guid>
+            <pubDate>Fri, 30 Sep 2022 13:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2024年美国违约率将上升3%-4%，这反映出宏观经济逆风加剧、信贷市场收紧和流动性下降的预期。]]></title>
+            <guid>2816263</guid>
+            <pubDate>Fri, 30 Sep 2022 13:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度将今年10月至明年3月的国内天然气价格定为8.57美元/百万英热，此前为6.1美元/百万英热。]]></title>
+            <guid>2816262</guid>
+            <pubDate>Fri, 30 Sep 2022 13:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计到2023年，美国大中型贷款市场的违约率可能高达5%，而银团贷款市场的违约率约为2.5%。]]></title>
+            <guid>2816261</guid>
+            <pubDate>Fri, 30 Sep 2022 13:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计到2023年，美国机构杠杆贷款违约率将在2%-3%之间，反映出宏观经济阻力不断加大，包括对美国经济衰退的预期。]]></title>
+            <guid>2816260</guid>
+            <pubDate>Fri, 30 Sep 2022 13:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【C919飞机型号合格证颁证仪式在北京举行】据新华社，9月29日，C919飞机型号合格证颁证仪式在北京首都机场隆重举行，中共中央政治局委员、国务院副总理刘鹤出席有关活动并讲话。国务委员王勇宣读中共中央、国务院对C919大型客机取得型号合格证的贺电。]]></title>
+            <guid>2816259</guid>
+            <pubDate>Fri, 30 Sep 2022 13:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股新能源车股走低，小鹏汽车(XPEV.N)、理想汽车(LI.O)、法拉第未来(FFIE.O)跌超4%。]]></title>
+            <guid>2816258</guid>
+            <pubDate>Fri, 30 Sep 2022 13:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里巴巴公布2022年度股东大会投票表决结果】阿里巴巴公布2022年度股东大会投票表决结果：选举张勇、杨致远、Wan Ling MARTELLO及吴港平各自担任公司第二组董事，上述人士均将任职三年或任职至其继任人获推选或委任并获得适当资格为止。]]></title>
+            <guid>2816250</guid>
+            <pubDate>Fri, 30 Sep 2022 13:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苏州第四批集中供地：出让20宗地块 起始总价逾198亿元】江苏省苏州市发布今年的第四批集中供地公告，20宗地总出让面积为89.08万平方米，起始总价为198.65亿元，10月31日本批次地块进入限时竞价阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9413686.d.html</link>
+            <guid>2816249</guid>
+            <pubDate>Fri, 30 Sep 2022 13:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丹麦能源署称，“北溪2”管道情况已经告知相关机构，他们预计“北溪2”管道天然气泄漏将在周六停止。]]></title>
+            <guid>2816248</guid>
+            <pubDate>Fri, 30 Sep 2022 13:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件，集海资源集团有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9412990.d.html</link>
+            <guid>2816242</guid>
+            <pubDate>Fri, 30 Sep 2022 13:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB日内转涨，现涨超1%，报57.8591，此前一度跌超6%。]]></title>
+            <guid>2816236</guid>
+            <pubDate>Fri, 30 Sep 2022 13:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件，祈福医疗集团有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136078.d.html</link>
+            <guid>2816235</guid>
+            <pubDate>Fri, 30 Sep 2022 13:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟能源部长：设置天然气批发价格上限是一个合法的选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1135989.d.html</link>
+            <guid>2816233</guid>
+            <pubDate>Fri, 30 Sep 2022 13:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟能源部长：我们将继续谈判，争取达成价格走廊协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9412111.d.html</link>
+            <guid>2816231</guid>
+            <pubDate>Fri, 30 Sep 2022 13:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟能源部长：各国达成了广泛的共识，试图通过谈判从可靠的天然气供应商那里获得更低价的天然气。]]></title>
+            <guid>2816230</guid>
+            <pubDate>Fri, 30 Sep 2022 13:10:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[捷克工业和贸易部长Sikela：各国在如何限制天然气价格方面存在技术差异。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9411223.d.html</link>
@@ -136,176 +264,6 @@
             <title><![CDATA[数据公布后，美国短期国债收益率上升，两年期国债收益率上升1.6个基点，至4.186%。]]></title>
             <guid>2816188</guid>
             <pubDate>Fri, 30 Sep 2022 12:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PCE数据公布后，美国长期国债收益率下跌，10年期国债收益率下跌2.30个基点，至3.724%。]]></title>
-            <guid>2816187</guid>
-            <pubDate>Fri, 30 Sep 2022 12:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内跌幅达1.00%，现报0.5668。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9407481.d.html</link>
-            <guid>2816182</guid>
-            <pubDate>Fri, 30 Sep 2022 12:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月PCE物价指数年率 6.2%，预期6.00%，前值6.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9407446.d.html</link>
-            <guid>2816180</guid>
-            <pubDate>Fri, 30 Sep 2022 12:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走低34点，现报112.35。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9407149.d.html</link>
-            <guid>2816174</guid>
-            <pubDate>Fri, 30 Sep 2022 12:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【永安林业：拟定增募资不超3亿元】永安林业公告，拟定增募资不超3亿元，用于保定市生物质能循环利用项目、邢台市生物质能循环利用项目和生物质发酵微生物研发中心项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9406037.d.html</link>
-            <guid>2816172</guid>
-            <pubDate>Fri, 30 Sep 2022 12:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股电热毯龙头彩虹集团副总经理徐思国：电热毯出口量很少，正在申请产品欧盟认证】据每日经济新闻，9月30日，记者采访到成都彩虹电器（集团）股份有限公司党委常务副书记、副总经理徐思国，其表示：“为了推动出口业务，集团自两三年前设立了海外事务部，但（配置的）人也不多。海外出口业务一直在做，有订单，但订单很少，整体量不大。”至于彩虹集团近期的取暖产品销量有没有如网上所说的“大增”，徐思国表示：“这个不能确定。需求量肯定有增加，到底有没有那么多，这个很难（说）。我们（海外出口部分）的基数比较小，增量还是有，但比起国内（销量）就少得多，国内还是主要销售市场。” 关于这次股价异动，徐思国提到：“主要是欧洲能源危机，但其实集团出口量很少，最近也有很多机构来调研。我们此前发布了公告，对集团整体业务没有什么影响。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9405927.d.html</link>
-            <guid>2816171</guid>
-            <pubDate>Fri, 30 Sep 2022 12:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰国防部长与美国国防部长通话】据央视新闻，乌克兰媒体9月30日报道称，乌克兰国防部长列兹尼科夫与美国国防部长奥斯汀通话。列兹尼科夫在其官方社交账户上发文称，即将宣布对乌克兰进一步军援的消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1129522.d.html</link>
-            <guid>2816169</guid>
-            <pubDate>Fri, 30 Sep 2022 12:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富临运业：转让绵阳商行股权未征集到受让方】富临运业公告，公司此前公告，拟以公开征集意向受让方的方式，协议转让所持绵阳市商业银行股份有限公司6.545%股权。截至目前，公开征集期限届满，公司未征集到合适受让方，此次公开征集终止。公司将另寻合适的交易对方，继续推进上述股权转让事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9405462.d.html</link>
-            <guid>2816168</guid>
-            <pubDate>Fri, 30 Sep 2022 12:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其8月贸易逆差同比增加近160% 达111.9亿美元】土耳其统计局周五公布的数据显示，土耳其8月份进口额为325.3亿美元，出口额为213.4亿美元，贸易逆差达111.9亿美元，同比增加159.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1128863.d.html</link>
-            <guid>2816164</guid>
-            <pubDate>Fri, 30 Sep 2022 12:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  观想科技：公司被认定为国家级专精特新“小巨人”企业，有效期三年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9404589.d.html</link>
-            <guid>2816163</guid>
-            <pubDate>Fri, 30 Sep 2022 12:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利8月制造业产值同比下降4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9404070.d.html</link>
-            <guid>2816160</guid>
-            <pubDate>Fri, 30 Sep 2022 12:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华润三九：拟参股熠保科技 布局惠民保赛道】华润三九公告，公司拟与控股股东华润医药控股、华润润曜健康共同对熠保科技（上海）有限公司增资。公司拟投资1830万元，持有熠保科技3.0148%股权；华润医药控股、华润润曜健康拟分别投资2440万元、1830万元，分别持有熠保科技4.0198%和3.0148%股权。熠保科技是一家城市惠民保平台的服务商，华润三九参投熠保科技，可提前布局惠民保赛道，搭建与保司合作的桥梁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1128157.d.html</link>
-            <guid>2816159</guid>
-            <pubDate>Fri, 30 Sep 2022 12:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两部门部署国庆假期相关地区强降雨和旱情防范应对工作】国家防总办公室、应急管理部9月30日组织防汛抗旱专题视频会商调度，强调，国庆假期强降雨和旱情防范应对要着重从三个方面做好责任措施的细化落实工作。一是落实责任，提前做好防范应对准备。二是紧盯薄弱环节，坚决避免发生人员伤亡。三是细化抗旱措施，全力减轻灾害损失。统筹考虑各方需求，做好来水用水计划管理，合理拟定抗旱方案，科学调度各类抗旱水源，做好长期抗旱准备；落实人工增雨、抗旱打井、输水调水、专家指导等措施，确保秋粮稳产。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9403880.d.html</link>
-            <guid>2816156</guid>
-            <pubDate>Fri, 30 Sep 2022 12:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东芝Cu2O-Si串联太阳电池效率获新突破】日本东芝公司的研究人员公布了一种转换效率为9.5%的透明氧化亚铜(Cu2O)太阳电池，这是迄今为止Cu2O电池达到的最高水平。东芝估计，将新的Cu2O太阳电池置于效率为25%的硅电池之上可实现28.5%的Cu2O-Si串联电池效率，这大大超过了26.7%(标准硅电池的最高公布效率)，接近29.1%(GaAs电池的最高公布效率)。]]></title>
-            <guid>2816155</guid>
-            <pubDate>Fri, 30 Sep 2022 12:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：加里宁格勒机场将从10月开启“天空开放”模式】据俄新社当地时间9月30日报道，俄罗斯加里宁格勒机场将从10月1日起启动“天空开放”模式。外国航空公司可以从该机场不经停本国飞往第三国。俄新社援引俄联邦航空署的话称，该模式允许外国航空公司利用第三、第四、第五和第七航权往返加里宁格勒。据悉，此次加里宁格勒机场开启的“天空开放”模式执行期限为2年。目的是吸引新的航空公司使用加里宁格勒机场，扩大从该机场起飞航线的覆盖范围。（央视新闻）]]></title>
-            <guid>2816154</guid>
-            <pubDate>Fri, 30 Sep 2022 11:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一代基因测序仪发布，测序通量提高2.5倍】因美纳宣布推出新一代基因测序仪NovaSeq™ X系列产品（NovaSeq X和NovaSeq X Plus），其中，NovaSeq X Plus采用突破性的新技术，每年可以测序超过2万个人类标准全基因组，其测序通量是上一代测序仪的2.5倍。此外，其每年所产生的包装废弃物和包装重量减少了90%，塑料使用量减少了50%，可节省近500吨干冰。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9403589.d.html</link>
-            <guid>2816153</guid>
-            <pubDate>Fri, 30 Sep 2022 11:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金刚玻璃：10月10日起证券简称变更为“金刚光伏”】金刚玻璃公告，经公司申请，并经深圳证券交易所核准，自10月10日起，公司全称由“甘肃金刚玻璃科技股份有限公司”变更为“甘肃金刚光伏股份有限公司”，公司证券简称由“金刚玻璃”变更为“金刚光伏”，英文全称由“GANSU GOLDEN GLASS TECHNOLOGIES LIMITED”变更为“Gansu Jingang Solar Co., Ltd”，英文简称由“GOLDEN GLASS”变更为“Jingang Solar”，证券代码保持不变，仍为“300093”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9403305.d.html</link>
-            <guid>2816151</guid>
-            <pubDate>Fri, 30 Sep 2022 11:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【药明康德：股东已减持约22亿元A股】药明康德(02359.HK)在港交所发布公告，公布股东减持股份结果。9月30日，减持期间届满，减持股东于2022年7月27日至8月12日通过集中竞价交易方式累计减持约2320.88万股公司A股股份，占公司截至2022年9月29日总股本的0.7840%，平均成交价格为人民币95.02元/股，涉资约22亿元；减持股东于减持期间未曾通过大宗交易方式减持公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1126732.d.html</link>
-            <guid>2816149</guid>
-            <pubDate>Fri, 30 Sep 2022 11:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利总理：欧洲能源危机是错误政治决定造成的结果】当地时间9月30日，匈牙利总理欧尔班在接受当地媒体采访时表示，当前欧洲的能源危机是错误的政治决定造成的结果。欧尔班认为，欧盟并未兑现承诺，对俄制裁被延伸到了能源领域，导致能源价格飙升，而与此同时却并未结束俄乌冲突。当前的能源危机是错误的政治决定的结果，如果没有制裁，能源的价格将远低于当前。欧尔班指出，“制裁是可以纠正的”，它不是无限期的，布鲁塞尔的政客将有机会看到他们决定中的错误之处。他补充说，如果匈牙利政府不争取改变，能源价格将嵌入经济体系中并永远居高不下。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9402277.d.html</link>
-            <guid>2816147</guid>
-            <pubDate>Fri, 30 Sep 2022 11:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[领益智造：拟在境外发行全球存托凭证（“GDR”）并在伦敦证券交易所上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1126292.d.html</link>
-            <guid>2816144</guid>
-            <pubDate>Fri, 30 Sep 2022 11:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鄱阳湖流域内水库群为下游补水16.15亿立方米】据央视新闻，记者从江西省抗旱救灾工作新闻发布会上了解到，8月16日至今，江西省实施鄱阳湖流域内水库群抗旱保供水联合调度专项行动，先后调度36座大中型水库为下游补水16.15亿立方米，保障沿河及湖区950万人、650万亩农田用水需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1125949.d.html</link>
-            <guid>2816141</guid>
-            <pubDate>Fri, 30 Sep 2022 11:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赛为智能：2022年第三季度累计新签合同2.1亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1125890.d.html</link>
-            <guid>2816140</guid>
-            <pubDate>Fri, 30 Sep 2022 11:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乐通股份：拟继续推进资产重组事项】乐通股份公告，公司此前公告，公司发行股份及支付现金购买浙江启臣科技有限公司100%的股权，以及购买湖南核三力技术工程有限公司45%的股权并募集配套资金暨关联交易事项，未获得证监会并购重组委审核通过。鉴于公司此次资产重组方案的实施有助于增强公司经营的核心竞争力，有利于提高资产质量、改善财务状况、增强持续盈利能力，公司决定继续推进此次资产重组事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9401051.d.html</link>
-            <guid>2816138</guid>
-            <pubDate>Fri, 30 Sep 2022 11:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：截至9月23日，印度外汇储备为5375亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9400858.d.html</link>
-            <guid>2816134</guid>
-            <pubDate>Fri, 30 Sep 2022 11:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省发布高标准农田示范区建设实施方案 2022-2025年拟增加粮食产能15亿公斤以上】据河南省人民政府9月30日消息，《河南省高标准农田示范区建设实施方案》近日印发。其中提出，2022-2025年，建设1500万亩高标准农田示范区，增加粮食产能15亿公斤以上。其中，2022年在新乡“中原农谷”及周口国家农业高新技术产业示范区等地建设200万亩高标准农田示范区；2023—2025年，在黄淮海平原和南阳盆地建设1300万亩高标准农田示范区。]]></title>
-            <guid>2816133</guid>
-            <pubDate>Fri, 30 Sep 2022 11:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通灵股份：拟不超18亿元投建新一代光伏接线盒、芯片模块项目】通灵股份公告，公司拟与江苏大丰经济开发区管委会签订《新一代光伏接线盒、芯片模块项目投资合同》，公司拟通过全资子公司江苏通行新能源有限公司以募集资金和自有或自筹资金共不超过18亿元，投资建设新一代光伏接线盒、芯片模块项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1124532.d.html</link>
-            <guid>2816132</guid>
-            <pubDate>Fri, 30 Sep 2022 11:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省能源局发布关于广州LNG应急调峰储气库项目节能报告的审查意见】广东省能源局发布关于广州LNG应急调峰储气库项目节能报告的审查意见，原则同意该项目节能报告。项目主要建设内容包括：建设2座储存能力16万立方米的LNG应急调峰储气库，主要包括卸料系统、储存系统、回收处理系统、加压气化系统、管道外输系统等，主要建构筑物包括LNG储罐、BOG压缩厂房、控制室、泵房、制氮站、仓库、办公楼、变电所等。项目能耗量和主要能效指标：项目建成投产后，年综合能耗不高于5761吨标准煤（当量值），其中年电力消耗量不高于4665万千瓦时；项目单位LNG周转量综合能耗不高于1.805千克标准煤/吨、办公楼单位面积综合能耗不高于9.06千克标准煤/平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9399908.d.html</link>
-            <guid>2816130</guid>
-            <pubDate>Fri, 30 Sep 2022 11:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百奥泰：BAT1806（托珠单抗）注射液在欧洲EMA上市许可申请获得受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9399718.d.html</link>
-            <guid>2816129</guid>
-            <pubDate>Fri, 30 Sep 2022 11:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两券商因IPO项目“带病闯关”收到罚单 监管部门称将从严从快处理各类违规问题】 两家券商因IPO“带病闯关”收到了证监会的行政监管措施。其中，安信证券的保荐代表人于右杰收到了事先告知书，因擅自大幅删改野风药业招股说明书内容，性质恶劣，于右杰被证监会加重处罚，拟认定其为不适当人选6个月。另一位保荐代表人王志超，和保荐机构安信证券，被证监会分别采取了监管谈话的措施。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9399613.d.html</link>
-            <guid>2816127</guid>
-            <pubDate>Fri, 30 Sep 2022 11:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
