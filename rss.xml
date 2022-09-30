@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 30 Sep 2022 19:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 20:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  标普将土耳其评级从B+下调至B，前景展望为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1160155.d.html</link>
+            <guid>2816447</guid>
+            <pubDate>Fri, 30 Sep 2022 20:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[邮轮公司嘉年华收跌23%，创2020年4月份以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9436571.d.html</link>
+            <guid>2816445</guid>
+            <pubDate>Fri, 30 Sep 2022 20:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股涨跌参半 贝壳涨超7%】热门中概股涨跌参半，贝壳涨超7%，拼多多涨超3%，富途控股涨超2%，腾讯音乐、阿里巴巴、唯品会、蔚来涨超1%，哔哩哔哩、网易小幅上涨。每日优鲜跌超4%，爱奇艺跌超2%，京东、小鹏汽车、理想汽车跌超1%，百度小幅下跌。]]></title>
+            <guid>2816444</guid>
+            <pubDate>Fri, 30 Sep 2022 20:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：10月01日03时28分在印尼苏门答腊岛北部（北纬2.05度，东经98.85度）发生5.7级地震，震源深度10千米。]]></title>
+            <guid>2816439</guid>
+            <pubDate>Fri, 30 Sep 2022 19:53:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【17家百亿元级私募基金年内实现正收益，业内看好四季度消费和新能源】三季度收官之际，百亿元级私募年内收益榜单出炉。根据第三方最新数据统计显示，年内有业绩收录的百亿元级私募有87家，其中，有17家实现正收益。今年以来，A股指数波动较大，私募赚钱效应下降，多数业绩有所下滑，其原因在于基本面波动较大，捕捉市场投资机会难度加大；不过，展望四季度，确定性比较高的赛道仍具备较好投资机会，例如以白酒为代表的消费板块和新能源板块等。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1158280.d.html</link>
@@ -187,36 +209,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148382.d.html</link>
             <guid>2816348</guid>
             <pubDate>Fri, 30 Sep 2022 15:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银集团：将耐克(NKE.N)目标价从156美元下调至141美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425127.d.html</link>
-            <guid>2816346</guid>
-            <pubDate>Fri, 30 Sep 2022 15:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗：将耐克(NKE.N)目标价从113美元下调至93美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148274.d.html</link>
-            <guid>2816345</guid>
-            <pubDate>Fri, 30 Sep 2022 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韦德布什：将耐克(NKE.N)目标价从121美元下调至101美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9424848.d.html</link>
-            <guid>2816342</guid>
-            <pubDate>Fri, 30 Sep 2022 15:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  古根海姆：将耐克(NKE.N)目标价从155美元下调至135美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1147812.d.html</link>
-            <guid>2816339</guid>
-            <pubDate>Fri, 30 Sep 2022 15:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富国银行：首予Coinbase(COIN.O)减持评级，目标价57美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9424402.d.html</link>
-            <guid>2816335</guid>
-            <pubDate>Fri, 30 Sep 2022 15:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
