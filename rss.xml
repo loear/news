@@ -4,13 +4,19 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 02 Oct 2022 17:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 18:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【电子烟国标落地 已有门店关门】10月1日，《电子烟强制性国家标准》(以下简称“电子烟国标”)正式实施。从此，果味烟弹成为历史，电子烟市场迎来统一的交易平台，生产经营单位必须“持证上岗”。不过，北京青年报记者2日走访市场发现，对于已经被禁售的“水果味”，不少商家仍旧私下偷着卖。]]></title>
+            <title><![CDATA[【国庆假期京郊住宿火爆 北京酒店市场呈现量价齐升】国庆假期就地过节，许多市民将出游的目的地选在了京郊。从各大平台查询了解到，今年国庆假期，京郊住宿表现十分亮眼，不仅预订量大幅上涨，不少酒店的价格也比平时翻了一倍还多。（北青报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9619605.d.html</link>
+            <guid>2817367</guid>
+            <pubDate>Sun, 02 Oct 2022 18:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电子烟国标落地 已有门店关门】10月1日，《电子烟强制性国家标准》(以下简称“电子烟国标”)正式实施。从此，果味烟弹成为历史，电子烟市场迎来统一的交易平台，生产经营单位必须“持证上岗”。不过，2日走访市场发现，对于已经被禁售的“水果味”，不少商家仍旧私下偷着卖。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1338048.d.html</link>
             <guid>2817366</guid>
             <pubDate>Sun, 02 Oct 2022 17:30:01 GMT</pubDate>
@@ -458,17 +464,6 @@
             <title><![CDATA[【中央气象台发布寒潮预警 河南湖北等地降温幅度超18℃】中央气象台10月2日10时发布寒潮蓝色预警：受强冷空气影响，预计，10月2日14时至10月6日20时，中东部大部地区气温普遍下降8℃～12℃，内蒙古中东部、东北地区、陕西大部、山西南部、黄淮、江淮、湖南北部、江西北部、安徽南部、江苏南部、浙江北部等地降温12℃～16℃，其中，内蒙古中部、黑龙江东部、吉林东部、河南南部、湖北、安徽中北部等地部分地区降温幅度可达18℃以上。6日至7日早晨，最低气温0℃线将位于华北北部、东北地区中部一带，最低气温10℃线将位于四川东北部、湖北北部、河南南部、山东南部一带。长江流域及其以北地区将有4~6级风，高海拔地区及江河湖面阵风可达7~8级。我国北部和东部海域将先后有7～8级大风，阵风9~10级。（央视新闻）]]></title>
             <guid>2817182</guid>
             <pubDate>Sun, 02 Oct 2022 03:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥东部发生5.6级地震 首都墨西哥城震感轻微】根据墨西哥国家地震监测局（SSN）当地时间10月1日公布的消息，当天11时36分51秒，在墨西哥东部的恰帕斯州的皮西西亚潘市（Pijijiapan）西南方向约130公里处发生5.6级地震，震源深度约10公里。首都墨西哥城震感轻微，地震没有引发墨西哥的地震预警警报。目前暂无人员伤亡和财产损失的报告。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9561493.d.html</link>
-            <guid>2817181</guid>
-            <pubDate>Sun, 02 Oct 2022 03:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度政府将从10月2日起取消对航空涡轮燃料（ATF）的出口税，将当地原油生产的暴利税降至8000卢比/吨。]]></title>
-            <guid>2817180</guid>
-            <pubDate>Sun, 02 Oct 2022 03:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
