@@ -6,6 +6,13 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2818099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715042.d.html",
+            "title": "“特斯拉劲敌”Rivian三季度产量7,363辆，交付6,584两。维持全年产量25,000辆的预期不变，分析师预期26,273辆。Rivian（RIVN）美股盘后上涨3%。",
+            "date_modified": "2022-10-03T20:42:57.000Z"
+        },
+        {
             "id": 2818071,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1428426.d.html",
@@ -108,47 +115,6 @@
             "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9703120.d.html",
             "title": "美国国家飓风中心：飓风“Orlene”中心向墨西哥西南部内陆移动。",
             "date_modified": "2022-10-03T14:49:24.000Z"
-        },
-        {
-            "id": 2818007,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1420256.d.html",
-            "title": "【新加坡制造业采购经理人指数下跌】新加坡采购与物流管理学院10月3日发布的最新数据显示，新加坡9月份制造业采购经理人指数（PMI）为49.9，陷入萎缩。这是自2020年7月以来，新加坡PMI首次陷入萎缩。（央视新闻）",
-            "date_modified": "2022-10-03T14:44:07.000Z"
-        },
-        {
-            "id": 2818006,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9702735.d.html",
-            "title": "【乌官员：乌克兰9月农产品出口基本达到冲突前水平】乌克兰国家通讯社当地时间10月3日报道称，乌克兰农业委员会副主席丹尼斯·马尔丘克当天表示，9月乌克兰通过各种途径出口了690万吨农产品，已基本达到了俄乌冲突前的出口水平。马尔丘克表示，9月乌克兰通过南部港口出口了约380万吨农产品，8月为170万吨。（央视新闻）",
-            "date_modified": "2022-10-03T14:42:47.000Z"
-        },
-        {
-            "id": 2818004,
-            "content_html": "",
-            "title": "通用汽车(GM.N)：雪佛兰BOLT电动车和BOLT电动多功能车季度销量创历史新高，合计达14,709辆。",
-            "date_modified": "2022-10-03T14:38:20.000Z"
-        },
-        {
-            "id": 2818003,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419703.d.html",
-            "title": "通用汽车(GM.N)：第三季度美国销量555,580辆汽车，同比增长24%。",
-            "date_modified": "2022-10-03T14:36:55.000Z"
-        },
-        {
-            "id": 2818002,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419417.d.html",
-            "title": "丰田汽车美国9月总销量同比增长17.1%。",
-            "date_modified": "2022-10-03T14:32:18.000Z"
-        },
-        {
-            "id": 2817997,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418874.d.html",
-            "title": "市场消息：意大利法院撤销对苹果和亚马逊的1.73亿欧元反垄断罚款。",
-            "date_modified": "2022-10-03T14:24:26.000Z"
         }
     ]
 }

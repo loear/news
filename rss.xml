@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Oct 2022 20:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 21:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“特斯拉劲敌”Rivian三季度产量7,363辆，交付6,584两。维持全年产量25,000辆的预期不变，分析师预期26,273辆。Rivian（RIVN）美股盘后上涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715042.d.html</link>
+            <guid>2818099</guid>
+            <pubDate>Mon, 03 Oct 2022 20:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西9月进口总额249.57亿美元，出口289.50亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1428426.d.html</link>
@@ -97,41 +103,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9703120.d.html</link>
             <guid>2818011</guid>
             <pubDate>Mon, 03 Oct 2022 14:49:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新加坡制造业采购经理人指数下跌】新加坡采购与物流管理学院10月3日发布的最新数据显示，新加坡9月份制造业采购经理人指数（PMI）为49.9，陷入萎缩。这是自2020年7月以来，新加坡PMI首次陷入萎缩。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1420256.d.html</link>
-            <guid>2818007</guid>
-            <pubDate>Mon, 03 Oct 2022 14:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌官员：乌克兰9月农产品出口基本达到冲突前水平】乌克兰国家通讯社当地时间10月3日报道称，乌克兰农业委员会副主席丹尼斯·马尔丘克当天表示，9月乌克兰通过各种途径出口了690万吨农产品，已基本达到了俄乌冲突前的出口水平。马尔丘克表示，9月乌克兰通过南部港口出口了约380万吨农产品，8月为170万吨。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9702735.d.html</link>
-            <guid>2818006</guid>
-            <pubDate>Mon, 03 Oct 2022 14:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：雪佛兰BOLT电动车和BOLT电动多功能车季度销量创历史新高，合计达14,709辆。]]></title>
-            <guid>2818004</guid>
-            <pubDate>Mon, 03 Oct 2022 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：第三季度美国销量555,580辆汽车，同比增长24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419703.d.html</link>
-            <guid>2818003</guid>
-            <pubDate>Mon, 03 Oct 2022 14:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车美国9月总销量同比增长17.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419417.d.html</link>
-            <guid>2818002</guid>
-            <pubDate>Mon, 03 Oct 2022 14:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利法院撤销对苹果和亚马逊的1.73亿欧元反垄断罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418874.d.html</link>
-            <guid>2817997</guid>
-            <pubDate>Mon, 03 Oct 2022 14:24:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
