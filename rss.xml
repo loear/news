@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Oct 2022 17:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 18:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西9月进口总额249.57亿美元，出口289.50亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1428426.d.html</link>
+            <guid>2818071</guid>
+            <pubDate>Mon, 03 Oct 2022 18:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国伦敦希思罗机场将于10月29日取消每日乘客人数限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1428140.d.html</link>
+            <guid>2818070</guid>
+            <pubDate>Mon, 03 Oct 2022 17:53:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：保时捷第三季度美国零售交付量同比增长8.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9710179.d.html</link>
@@ -143,29 +155,6 @@
             <title><![CDATA[美国8月营建支出月率 -0.7%，预期-0.30%，前值-0.40%。美国8月营建支出月率录得-0.7%，为2021年2月以来最大降幅。]]></title>
             <guid>2817980</guid>
             <pubDate>Mon, 03 Oct 2022 14:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“Orlene”在墨西哥西南部登陆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1416570.d.html</link>
-            <guid>2817973</guid>
-            <pubDate>Mon, 03 Oct 2022 13:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数位卫星通信供应商卫讯公司(VSAT.O)复牌涨超19%，国防技术承包商L3Harris(LHX.N)涨2.3%，L3Harris宣布以约19.6亿美元收购卫讯战术数据链路（TDL）产品线。]]></title>
-            <guid>2817972</guid>
-            <pubDate>Mon, 03 Oct 2022 13:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10月3日0时至21时，新疆新增本土无症状感染者38例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1416314.d.html</link>
-            <guid>2817970</guid>
-            <pubDate>Mon, 03 Oct 2022 13:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月Markit制造业PMI终值 52，预期51.8，前值51.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9698734.d.html</link>
-            <guid>2817969</guid>
-            <pubDate>Mon, 03 Oct 2022 13:45:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
