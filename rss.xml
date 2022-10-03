@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Oct 2022 21:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 22:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苹果Apple Music歌曲数量达到1亿首里程碑】 苹果10月3日宣布，其 Apple Music 音乐平台的歌曲达到1亿首。苹果在官方新闻稿中称：“从iTunes的发明和初代iPod首次亮相21年以来，我们已经从你口袋里的1000首歌曲增加到Apple Music上的100000倍。以任何标准衡量，这都是惊人的增长。音乐的整个历史、现在和未来都在你的指尖或语音命令中。比你一生或几世所能听到的音乐还要多。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1434910.d.html</link>
+            <guid>2818117</guid>
+            <pubDate>Mon, 03 Oct 2022 22:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚成为东非首个批准种植和进口转基因作物的国家】当地时间10月3日，肯尼亚内阁批准了转基因玉米的商业化，允许开放种植和进口。内阁表示，该决定基于对该国持续干旱的中长期反应和工作组的建议。此举使肯尼亚成为东非地区第一个批准种植和进口转基因作物的国家。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1434872.d.html</link>
+            <guid>2818115</guid>
+            <pubDate>Mon, 03 Oct 2022 22:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“特斯拉劲敌”Rivian三季度产量7,363辆，交付6,584两。维持全年产量25,000辆的预期不变，分析师预期26,273辆。Rivian（RIVN）美股盘后上涨3%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715042.d.html</link>
@@ -85,24 +97,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1421345.d.html</link>
             <guid>2818019</guid>
             <pubDate>Mon, 03 Oct 2022 15:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：九方财富控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1420790.d.html</link>
-            <guid>2818014</guid>
-            <pubDate>Mon, 03 Oct 2022 14:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国佛罗里达电力照明公司：该州数十万人面临断电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9703428.d.html</link>
-            <guid>2818013</guid>
-            <pubDate>Mon, 03 Oct 2022 14:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“Orlene”中心向墨西哥西南部内陆移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9703120.d.html</link>
-            <guid>2818011</guid>
-            <pubDate>Mon, 03 Oct 2022 14:49:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
