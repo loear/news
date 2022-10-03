@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Oct 2022 15:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 16:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：本田汽车9月美国汽车销量下滑17.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9708314.d.html</link>
+            <guid>2818050</guid>
+            <pubDate>Mon, 03 Oct 2022 16:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：日产汽车第三季度美国销量同比下降22.6％。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1422444.d.html</link>
@@ -164,27 +170,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9696991.d.html</link>
             <guid>2817953</guid>
             <pubDate>Mon, 03 Oct 2022 13:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将泰森食品(TSN.N)目标价从85美元下调至75美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1414151.d.html</link>
-            <guid>2817947</guid>
-            <pubDate>Mon, 03 Oct 2022 13:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：大多数受益于粮食冲击窗口的国家都在撒哈拉以南的非洲地区。国际货币基金组织将毫不犹豫地为成员国提供服务，如果他们需要更多，我们将提供更多。]]></title>
-            <guid>2817943</guid>
-            <pubDate>Mon, 03 Oct 2022 13:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L3Harris Technologies(LHX.N)：现金收购将通过债务融资筹集资金，并包括约3.5亿美元的净现值税收优惠。]]></title>
-            <guid>2817940</guid>
-            <pubDate>Mon, 03 Oct 2022 13:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L3Harris Technologies(LHX.N)宣布签署最终协议，以约19.6亿美元收购卫讯公司(VSAT.O)战术数据链路（TDL）产品线，但可能会进行惯例调整。]]></title>
-            <guid>2817939</guid>
-            <pubDate>Mon, 03 Oct 2022 13:02:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
