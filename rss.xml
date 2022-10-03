@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Oct 2022 18:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 19:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -150,11 +150,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9700127.d.html</link>
             <guid>2817983</guid>
             <pubDate>Mon, 03 Oct 2022 14:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月营建支出月率 -0.7%，预期-0.30%，前值-0.40%。美国8月营建支出月率录得-0.7%，为2021年2月以来最大降幅。]]></title>
-            <guid>2817980</guid>
-            <pubDate>Mon, 03 Oct 2022 14:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
