@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 19:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 20:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特朗普要求美国最高法院介入海湖庄园文件纠纷】 据报道，美国前总统特朗普已要求最高法院介入今年夏天联邦调查局（FBI）从其海湖庄园中搜查白宫文件材料的纠纷。据悉，特朗普就此事向最高法院提出了紧急请求。（央视新闻）]]></title>
+            <guid>2818810</guid>
+            <pubDate>Tue, 04 Oct 2022 20:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【拜登与乌克兰总统通话】 当地时间10月4日，根据美国白宫发布的声明，美国总统拜登和副总统哈里斯与乌克兰总统泽连斯基通话，宣布向乌克兰提供价值6.25亿美元的最新军事援助计划。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1519160.d.html</link>
@@ -150,24 +155,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1505716.d.html</link>
             <guid>2818664</guid>
             <pubDate>Tue, 04 Oct 2022 14:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月工厂订单月率 0%，预期0%，前值-1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1505494.d.html</link>
-            <guid>2818658</guid>
-            <pubDate>Tue, 04 Oct 2022 14:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相特拉斯表示，经济增长计划获得一致支持。不相信人们现在想要进行选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9789522.d.html</link>
-            <guid>2818651</guid>
-            <pubDate>Tue, 04 Oct 2022 13:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄气：摩尔多瓦天然气公司多次违反天然气供应合同】当地时间10月4日，俄罗斯天然气工业股份公司（俄气）发布消息称，摩尔多瓦天然气公司2022年多次违反天然气供应合同的支付期限条款。俄气公司2022年10月可能每天向摩尔多瓦供应570万立方米天然气。如果摩尔多瓦10月20日之前再次违反支付条款，俄气同时也保留完全停止向摩尔多瓦供应天然气的权利。未来摩尔多瓦方面改变天然气供应条款的请求将以合同附件的形式确定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1504332.d.html</link>
-            <guid>2818646</guid>
-            <pubDate>Tue, 04 Oct 2022 13:43:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
