@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 18:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 19:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【拜登与乌克兰总统通话】 当地时间10月4日，根据美国白宫发布的声明，美国总统拜登和副总统哈里斯与乌克兰总统泽连斯基通话，宣布向乌克兰提供价值6.25亿美元的最新军事援助计划。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1519160.d.html</link>
+            <guid>2818738</guid>
+            <pubDate>Tue, 04 Oct 2022 18:45:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：拜登政府目前不考虑再次释放战略石油储备（SPR）。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9804036.d.html</link>
@@ -162,27 +168,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1504332.d.html</link>
             <guid>2818646</guid>
             <pubDate>Tue, 04 Oct 2022 13:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美光科技(MU.O)涨近3%，公司计划未来20年或更长时间内花费多达1000亿美元建造巨型电脑芯片厂。]]></title>
-            <guid>2818644</guid>
-            <pubDate>Tue, 04 Oct 2022 13:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[激光雷达公司Velodyne(VLDR.O)涨超4%，此前宣布收购AI软件公司Bluecity。]]></title>
-            <guid>2818640</guid>
-            <pubDate>Tue, 04 Oct 2022 13:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[避险基金公司Sculptor Capital Management(SCU.N)涨约7%，公司创始人、美国亿万富翁投资者Dan Och致信董事会，称有对冲基金对公司有并购兴趣。]]></title>
-            <guid>2818639</guid>
-            <pubDate>Tue, 04 Oct 2022 13:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰控股(HSBC.N)涨超4%，消息称汇丰正考虑出售加拿大业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1503524.d.html</link>
-            <guid>2818637</guid>
-            <pubDate>Tue, 04 Oct 2022 13:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
