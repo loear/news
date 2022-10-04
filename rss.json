@@ -6,6 +6,40 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2818735,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9804036.d.html",
+            "title": "市场消息：拜登政府目前不考虑再次释放战略石油储备（SPR）。",
+            "date_modified": "2022-10-04T18:34:56.000Z"
+        },
+        {
+            "id": 2818734,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9803767.d.html",
+            "title": "市场消息：沙特和俄罗斯正计划不顾美国的反对大幅削减石油产量。",
+            "date_modified": "2022-10-04T18:27:19.000Z"
+        },
+        {
+            "id": 2818733,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1518164.d.html",
+            "title": "【德国总理会见荷兰首相并强调：必须保护能源安全】 当地时间10月4日，德国总理朔尔茨在柏林会见了到访的荷兰首相吕特。朔尔茨在会谈后的新闻发布会上表示，德国目前的能源价格需要降低，他呼吁采取统一行动打击天然气市场的投机行为。他强调，必须保护能源安全。（央视新闻）",
+            "date_modified": "2022-10-04T18:13:36.000Z"
+        },
+        {
+            "id": 2818732,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1517528.d.html",
+            "title": "市场消息：谷歌公司将支付8500万美元，以了结美国亚利桑那州消费者隐私诉讼。",
+            "date_modified": "2022-10-04T17:53:16.000Z"
+        },
+        {
+            "id": 2818731,
+            "content_html": "",
+            "title": "德国科隆国际摩托车及两轮车展览会4日在科隆市会展中心开幕，雅迪、众星等近20家中国参展企业展示了摩托车、电动自行车及相关零配件和装备产品。（新华网）",
+            "date_modified": "2022-10-04T17:52:54.000Z"
+        },
+        {
             "id": 2818728,
             "content_html": "",
             "title": "市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。",
@@ -176,39 +210,6 @@
             "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1503524.d.html",
             "title": "汇丰控股(HSBC.N)涨超4%，消息称汇丰正考虑出售加拿大业务。",
             "date_modified": "2022-10-04T13:32:22.000Z"
-        },
-        {
-            "id": 2818636,
-            "content_html": "",
-            "title": "Rivian(RIVN.O)涨超8%，第三季度交付量为6584辆，产量7363辆，公司表示维持全年产量目标。",
-            "date_modified": "2022-10-04T13:31:48.000Z"
-        },
-        {
-            "id": 2818635,
-            "content_html": "",
-            "title": "美国最大二手交易电商平台Poshmark(POSH.O)涨超13%，韩国最大搜索引擎和门户网站Naver拟12亿美元收购该公司。",
-            "date_modified": "2022-10-04T13:31:23.000Z"
-        },
-        {
-            "id": 2818633,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787889.d.html",
-            "title": "福特汽车(F.N)盘前涨幅扩大至4.3%。",
-            "date_modified": "2022-10-04T13:25:51.000Z"
-        },
-        {
-            "id": 2818632,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502985.d.html",
-            "title": "福特汽车(F.N)：9月美国电动车销量4,691辆，同比增长197.3%。",
-            "date_modified": "2022-10-04T13:24:27.000Z"
-        },
-        {
-            "id": 2818631,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787785.d.html",
-            "title": "【贵州茅台：正式开始2023年度茅台酒生产】据贵州茅台消息，10月4日，岁在重阳，茅台举行壬寅年（2022）茅台酒节，遵自然之法则，正式开始2023年度茅台酒生产。",
-            "date_modified": "2022-10-04T13:24:15.000Z"
         }
     ]
 }

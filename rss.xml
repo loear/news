@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 17:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 18:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：拜登政府目前不考虑再次释放战略石油储备（SPR）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9804036.d.html</link>
+            <guid>2818735</guid>
+            <pubDate>Tue, 04 Oct 2022 18:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特和俄罗斯正计划不顾美国的反对大幅削减石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9803767.d.html</link>
+            <guid>2818734</guid>
+            <pubDate>Tue, 04 Oct 2022 18:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理会见荷兰首相并强调：必须保护能源安全】 当地时间10月4日，德国总理朔尔茨在柏林会见了到访的荷兰首相吕特。朔尔茨在会谈后的新闻发布会上表示，德国目前的能源价格需要降低，他呼吁采取统一行动打击天然气市场的投机行为。他强调，必须保护能源安全。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1518164.d.html</link>
+            <guid>2818733</guid>
+            <pubDate>Tue, 04 Oct 2022 18:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌公司将支付8500万美元，以了结美国亚利桑那州消费者隐私诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1517528.d.html</link>
+            <guid>2818732</guid>
+            <pubDate>Tue, 04 Oct 2022 17:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国科隆国际摩托车及两轮车展览会4日在科隆市会展中心开幕，雅迪、众星等近20家中国参展企业展示了摩托车、电动自行车及相关零配件和装备产品。（新华网）]]></title>
+            <guid>2818731</guid>
+            <pubDate>Tue, 04 Oct 2022 17:52:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。]]></title>
             <guid>2818728</guid>
@@ -154,34 +183,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1503524.d.html</link>
             <guid>2818637</guid>
             <pubDate>Tue, 04 Oct 2022 13:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rivian(RIVN.O)涨超8%，第三季度交付量为6584辆，产量7363辆，公司表示维持全年产量目标。]]></title>
-            <guid>2818636</guid>
-            <pubDate>Tue, 04 Oct 2022 13:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国最大二手交易电商平台Poshmark(POSH.O)涨超13%，韩国最大搜索引擎和门户网站Naver拟12亿美元收购该公司。]]></title>
-            <guid>2818635</guid>
-            <pubDate>Tue, 04 Oct 2022 13:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)盘前涨幅扩大至4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787889.d.html</link>
-            <guid>2818633</guid>
-            <pubDate>Tue, 04 Oct 2022 13:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)：9月美国电动车销量4,691辆，同比增长197.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502985.d.html</link>
-            <guid>2818632</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州茅台：正式开始2023年度茅台酒生产】据贵州茅台消息，10月4日，岁在重阳，茅台举行壬寅年（2022）茅台酒节，遵自然之法则，正式开始2023年度茅台酒生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787785.d.html</link>
-            <guid>2818631</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
