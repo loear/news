@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 16:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 17:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。]]></title>
+            <guid>2818728</guid>
+            <pubDate>Tue, 04 Oct 2022 17:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【飓风“伊恩”被列为美国第25大致命飓风】 10月4日，根据美国国家海洋和大气管理局收集的数据，近日在佛罗里达州登陆的飓风“伊恩”被列为美国第25大致命飓风。佛罗里达州官员表示，截至目前该州至少有101人因飓风死亡，北卡罗来纳州也有至少有4人因飓风死亡。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1513134.d.html</link>
@@ -177,35 +182,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787785.d.html</link>
             <guid>2818631</guid>
             <pubDate>Tue, 04 Oct 2022 13:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车美国9月销量为142644辆，同比下降8.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502459.d.html</link>
-            <guid>2818621</guid>
-            <pubDate>Tue, 04 Oct 2022 13:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相回应放弃对高收入者减税计划】当地时间10月4日，针对英国政府放弃对高收入者减税计划一事，英国首相特拉斯在接受媒体采访时表示，她对此“完全不感到羞耻”。她还表示，对高收入者减税，并非英国政府的优先政策。10月3日，英国财政大臣夸西·克沃滕发表声明称，放弃此前提出的对高收入者取消45%最高所得税率的计划。该计划是英国政府于9月23日宣布的一系列提振经济措施之一。该计划在过去一周引发市场动荡，并招致广泛反对。夸西·克沃滕和特拉斯均证实，政策“大转向”是两人的共同决定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787144.d.html</link>
-            <guid>2818617</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：智利安托法加斯塔发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502341.d.html</link>
-            <guid>2818611</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰内阁制定能源价格上限条款。荷兰将天然气价格上限设定为1.45欧元/立方米，电价上限为0.4欧元/千瓦时。]]></title>
-            <guid>2818610</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄气公司：若摩尔多瓦在10月20日前未支付天然气费用 将保留暂停供应的权利】俄气公司4日发布消息称，摩尔多瓦天然气公司Moldovagaz在2022年多次违反合同中关于所供天然气的付款期限的条款。俄气表示，公司保留相关权利，以在2022年10月20日之前违反支付天然气的义务时完全停止向Moldovagaz供应天然气。俄气将同时保留权利在Moldovagaz违反历史债务相关条款时随时终止合同。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787076.d.html</link>
-            <guid>2818609</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
