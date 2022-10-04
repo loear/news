@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 21:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 22:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10月5日，韩美联军向朝鲜半岛东部海域发射4枚地对地导弹。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9810604.d.html</link>
+            <guid>2818877</guid>
+            <pubDate>Tue, 04 Oct 2022 22:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚三年期国债收益率下跌5.8个基点，在悉尼盘初报3.217%。澳大利亚10年期国债收益率涨1.3个基点，在悉尼盘初报3.688%。]]></title>
+            <guid>2818872</guid>
+            <pubDate>Tue, 04 Oct 2022 21:55:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黑石集团据称洽谈收购艾默生电气（EMR）资产，后者考虑出售的资产至少包括商业和居民（供电）解决方案业务。]]></title>
             <guid>2818863</guid>
@@ -116,51 +127,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9793161.d.html</link>
             <guid>2818683</guid>
             <pubDate>Tue, 04 Oct 2022 14:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电投：土耳其胡努特鲁项目2号机组投入商运】国家电力投资集团有限公司消息，土耳其当地时间10月2日下午，经土耳其能源与自然资源部及土耳其输电有限公司共同成立的验收委员会现场检查确认，国家电投上海电力土耳其胡努特鲁项目2号机组各项指标均满足商运要求并通过了相关验收试验，自10月3日15时起正式进入商业运行，比原计划提前了3个月。至此，该项目2台机组均已投产，顺利由基建期转为运营期，每年可向土耳其供应电力约90亿千瓦时。该项目是中国“一带一路”倡议和土耳其“中间走廊”战略相对接的重点项目，是中土两国建交以来中资企业在土耳其金额最大的直接投资项目。项目建设2台66万千瓦超超临界燃煤发电机组，总装机容量132万千瓦。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1507896.d.html</link>
-            <guid>2818682</guid>
-            <pubDate>Tue, 04 Oct 2022 14:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国8月份职位空缺数量达1010万个】据美国劳工部当地时间10月4日发布的月度职位空缺和人员流动调查报告（JOLTS），美国在8月份的职位空缺数量为1010万个，招聘总数为630万人，离职总数为600万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9792431.d.html</link>
-            <guid>2818681</guid>
-            <pubDate>Tue, 04 Oct 2022 14:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platform在旗下Instagram和WhatsApp平台销售新型广告。]]></title>
-            <guid>2818680</guid>
-            <pubDate>Tue, 04 Oct 2022 14:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Illumina(ILMN.O)涨超10%，报206.35美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1506985.d.html</link>
-            <guid>2818679</guid>
-            <pubDate>Tue, 04 Oct 2022 14:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联邦快递(FDX.N)涨近4%，此前宣布加速股票回购计划，将通过摩根士丹利回购总计15亿美元的普通股。]]></title>
-            <guid>2818678</guid>
-            <pubDate>Tue, 04 Oct 2022 14:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，银行减少对印度的黄金供应并转向土耳其市场，以获得更高的溢价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9791709.d.html</link>
-            <guid>2818677</guid>
-            <pubDate>Tue, 04 Oct 2022 14:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水达利欧让出头衔和投票权，以确定桥水继承权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9791663.d.html</link>
-            <guid>2818676</guid>
-            <pubDate>Tue, 04 Oct 2022 14:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟立法通过智能手机等统一使用Type-C充电接口 苹果在欧洲或将放弃Lightning充电接口】据法国24台报道，当地时间4日，欧洲议会以压倒性的票数通过一项法案，规定从2024年秋季起，USB type-C（简称USB-C）将成为在欧盟地区销售的智能手机、平板电脑、电子阅读器、数码相机、耳机、手持视频游戏机和便携式扬声器等电子设备的标准充电端口；从2026年起，USB-C还将成为笔记本电脑充电器的标准接口。这意味着，美国苹果公司的电子设备也需要使用USB-C充电接口，苹果公司在欧洲将不得不放弃现有的Lightning接口，改为使用竞争对手已广泛使用的USB-C接口。欧盟竞争事务负责人玛格丽特·韦斯塔格尔表示，该法案预计每年可节省至少2亿欧元（约合人民币14亿元），并减少1000多吨电子垃圾。报道称，欧盟此举预计将会影响世界其他地区。（央视财经）]]></title>
-            <guid>2818670</guid>
-            <pubDate>Tue, 04 Oct 2022 14:07:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
