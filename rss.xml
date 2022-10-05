@@ -4,11 +4,234 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Oct 2022 23:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 02:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【73家财险公司上半年互联网业务收入530亿】近日，中国保险行业协会发布《2022年上半年互联网财产保险发展分析报告》。《报告》表示，2022年上半年，互联网财产险行业整体规模较去年同期变化不大，同比微降1.4%。从具体业务上看，互联网财险中车险业务占比有所提升，保费规模增长12.7亿元，较去年同期增长2.6%；非车险业务中，意健险同比减少49.2亿元，退货运费险则在新电商崛起背景下持续增长，同比增加28.0亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9828300.d.html</link>
+            <guid>2818973</guid>
+            <pubDate>Wed, 05 Oct 2022 02:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【截至8月末私募基金管理规模达20.41万亿元】中国基金业协会最新数据显示，截至2022年8月末，存续私募基金管理人24276家，管理基金数量超13.7万只，管理基金规模20.41万亿元。该规模较上月增加193.62亿元，环比增长0.09%。具体看，截至2022年8月末，存续私募证券投资基金86877只，存续规模5.98万亿元，环比增长0.06%；存续私募股权投资基金31628只，存续规模10.97万亿元，环比增长0.02%；存续创业投资基金17604只，存续规模2.72万亿元，环比增长0.74%。  （新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9827275.d.html</link>
+            <guid>2818969</guid>
+            <pubDate>Wed, 05 Oct 2022 02:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州昨日新增本土无症状感染者17例】从贵州省卫健委获悉：2022年10月4日0—24时，贵州省新增感染者17例，其中无新增确诊病例，新增无症状感染者17例（毕节市）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9827072.d.html</link>
+            <guid>2818966</guid>
+            <pubDate>Wed, 05 Oct 2022 02:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国猴痘确诊病例超2.6万例】美国疾病控制和预防中心的最新数据显示，截至10月3日，美国猴痘确诊病例超过26000例，数据显示，截至目前，美国报告猴痘病例数排名前三的地区分别为加利福尼亚州、纽约州、佛罗里达州，其中加利福尼亚州病例数达5010例。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1541135.d.html</link>
+            <guid>2818965</guid>
+            <pubDate>Wed, 05 Oct 2022 02:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全球最大对冲基金桥水交班：达利欧放弃控制权 移交董事会】桥水基金当地时间10月4日宣布，该公司的控制权已经从达利欧转移到运营董事会。报道显示，达利欧在9月30日将所有投票权转让给董事会，并辞去桥水基金三位联席首席投资官之一的职务。桥水基金表示，达利欧未来将担任首席投资官导师、运营董事会成员以及高级投资者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1540974.d.html</link>
+            <guid>2818963</guid>
+            <pubDate>Wed, 05 Oct 2022 02:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【高通、台积电等苹果供应商增加在美生产设施数量】据华尔街日报报道，苹果公司公布的供应商名单显示，截至2021年9月，在苹果公布的超过180家供应商中，有48家在美国设有生产设施，高于一年前的25家。加州有30多个苹果供应链生产相关的设施，而一年前只有不到10个。上述名单显示，截至2021年9月的这一年内，许多主要供应商在美国增加了生产设施，比如高通、台积电、富士康和索尼集团。  （财联社）]]></title>
+            <guid>2818961</guid>
+            <pubDate>Wed, 05 Oct 2022 02:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江西上高县：本县备案的中介每卖一套商品房 奖励1000元】近日江西省宜春市上高县人民政府办公室发布消息称，该县将实施阶段性购房补贴政策、购房契税财政补贴，并对商品房销售中介机构卖房进行奖励。在购房补贴方面，自10月1日起（执行期间为7个月）在上高县中心城区（以县自然资源局提供上高县城市总体规划图为准）购买新建商品房的购买人（近亲属过户不享受该政策），属首次购买住房的，由受益财政给予300元/平方米补贴；属购买改善型住房的，由受益财政给予200元/平方米补贴。对于房产中介也有相应奖励。从10月1日起执行（执行期间为7个月），在上高县已备案的中介机构每销售一套商品房，由受益财政给予1000元/套奖励。（澎湃）]]></title>
+            <guid>2818960</guid>
+            <pubDate>Wed, 05 Oct 2022 02:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【叙利亚霍乱确诊病例累计达594例】叙利亚卫生部当地时间10月4日晚宣布，全国霍乱确诊病例累计已升至594例，其中阿勒颇省386例、代尔祖尔省84例、哈塞克省45例、拉卡省26例、拉塔基亚省21例、苏韦达省9例、哈马省7例、霍姆斯省6例、大马士革地区6例、德拉省3例、库奈特拉省1例。累计死亡病例39例，其中阿勒颇省34例，哈塞克省3例，代尔祖尔省2例。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1540037.d.html</link>
+            <guid>2818959</guid>
+            <pubDate>Wed, 05 Oct 2022 02:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯概念股震荡走高，知乎(02390.HK)涨15%，名创优品(09896.HK)涨超10%，阅文集团(00772.HK)涨超8%，腾讯音乐(01698.HK)涨超7%。]]></title>
+            <guid>2818958</guid>
+            <pubDate>Wed, 05 Oct 2022 02:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台10月5日10时继续发布寒潮蓝色预警。]]></title>
+            <guid>2818957</guid>
+            <pubDate>Wed, 05 Oct 2022 01:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股体育用品股普涨 李宁涨超7%】港股体育用品股高开高走，李宁(02331.HK)涨超7%，安踏体育(02020.HK)涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1538602.d.html</link>
+            <guid>2818953</guid>
+            <pubDate>Wed, 05 Oct 2022 01:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马来西亚KLCI指数上涨1%，至1,423.51点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1538219.d.html</link>
+            <guid>2818951</guid>
+            <pubDate>Wed, 05 Oct 2022 01:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内房物管股逆市走低，旭辉控股集团(00884.HK)、旭辉永生服务(01995.HK)、合景泰富集团(01813.HK)跌5%，碧桂园服务(06098.HK)跌超4%，碧桂园(02007.HK)跌3%。]]></title>
+            <guid>2818949</guid>
+            <pubDate>Wed, 05 Oct 2022 01:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【菲律宾9月通货膨胀率达6.9%】菲律宾国家统计局发布数据称，菲律宾在2022年9月的通货膨胀率达6.9%，高于8月的6.3%。其中食品价格上涨是导致通货膨胀率升高的主要因素，其次是住房、水、电和燃料价格的上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9823313.d.html</link>
+            <guid>2818948</guid>
+            <pubDate>Wed, 05 Oct 2022 01:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果概念股走高，舜宇光学科技(02382.HK)涨超7%，比亚迪电子(00285.HK)、高伟电子(01415.HK)涨超6%，瑞声科技(02018.HK)、丘钛科技(01478.HK)涨超5%。]]></title>
+            <guid>2818946</guid>
+            <pubDate>Wed, 05 Oct 2022 01:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【外媒：白宫称无迹象表明俄罗斯正准备使用核武器】据路透社报道，白宫新闻秘书卡琳·让-皮埃尔当地时间4日表示，没有迹象表明俄罗斯正准备使用核武器。 据报道，让-皮埃尔当天对记者表示，“我们高度重视任何核武器或核武威胁，但我确实想说……我们没有看到任何理由需要调整我们的核态势战略，也没有任何迹象表明俄罗斯正准备立即使用核武器”。（环球网）]]></title>
+            <guid>2818943</guid>
+            <pubDate>Wed, 05 Oct 2022 01:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  菲律宾股市开盘上涨0.8%，至6033.43点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9822815.d.html</link>
+            <guid>2818942</guid>
+            <pubDate>Wed, 05 Oct 2022 01:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川达州、广元等地遭遇强降雨 紧急转移9560人】从四川省地质灾害指挥部办公室获悉，10月4日17时以来，四川达州、广元、巴中、南充4市迎来强降雨。为应对强降雨可能带来的地质灾害威胁，四川省连夜紧急转移9560人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1536784.d.html</link>
+            <guid>2818940</guid>
+            <pubDate>Wed, 05 Oct 2022 01:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【陕西新增5例本土确诊病例（其中2例昨日已发布）新增17例本土无症状感染者】10月4日0-24时，新增报告本土确诊病例5例，其中延安2例（昨日已发布）、咸阳1例（无症状转确诊）、渭南1例、汉中1例；本土无症状感染者17例，其中西安12例、宝鸡3例、咸阳1例、韩城1例。解除隔离医学观察3例。  （陕西发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1536601.d.html</link>
+            <guid>2818939</guid>
+            <pubDate>Wed, 05 Oct 2022 01:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川昨日新增本土确诊病例32例 本土无症状感染者34例】0月4日0—24时，四川新增外省返川感染者43例，其中闭环转运34例（确诊病例14例，无症状感染者20例），非闭环管理9例，均为无症状感染者（成都2例，德阳3例，绵阳1例，泸州1例，南充1例，自贡1例）。新增省内感染者10例，其中确诊病例5例（绵阳4例，眉山1例），无症状感染者5例（绵阳4例，遂宁1例）。新增境外输入感染者8例（均在成都），其中确诊病例1例，无症状感染者7例。另有既往无症状感染者转为确诊病例14例，境外输入1例（在成都）；外省返川7例（闭环转运6例；非闭环管理1例，在成都）；省内6例（绵阳3例，遂宁2例，阿坝1例）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1536557.d.html</link>
+            <guid>2818938</guid>
+            <pubDate>Wed, 05 Oct 2022 01:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美专家：美国最可能是“北溪”泄漏肇事者】联合国秘书长前特别顾问、美国哥伦比亚大学经济学教授杰弗里·萨克斯近日在接受采访时表示，种种迹象表明，“北溪”天然气管道泄漏最有可能的肇事者是美国。萨克斯表示，“北溪”管道泄漏的最大输家是俄罗斯和德国。这一袭击的源头最有可能是美国，可能与其他几个国家联手所为。  （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9821936.d.html</link>
+            <guid>2818937</guid>
+            <pubDate>Wed, 05 Oct 2022 01:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国虚拟偶像市场今年有望达13亿元】中国虚拟偶像市场在2011年后开始以较快的节奏发展，2022年，核心市场规模预计可以达到13亿元，未来3至5年增幅将有所下降。不过，现阶段中国虚拟偶像市场存在侵权现象严重、IP单一、变现结构尚未多元化等问题。打造IP、落地元宇宙场景将成为虚拟偶像未来的发展趋势。  （北青报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9821611.d.html</link>
+            <guid>2818935</guid>
+            <pubDate>Wed, 05 Oct 2022 01:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江昨日新增本土确诊病例1例 本土无症状感染者14例】10月4日—24时，浙江省11个市报告新增本土阳性14例，其中集中隔离点检出12例、卡口拦截1例、社区筛查1例，均已落实管控措施。11个市报告新增确诊病例1例。其中无境外输入病例；本土病例1例（台州市），为此前的无症状感染者转为确诊，当日无新检出确诊。11个市报告新增无症状感染者34例。其中境外输入20例；本土14例（杭州市5例，嘉兴市1例，绍兴市1例，金华市7例）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1535494.d.html</link>
+            <guid>2818930</guid>
+            <pubDate>Wed, 05 Oct 2022 01:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股前三季度IPO等全口径募资事件共660起 股权融资总额11714亿元】据券商中国，今年前三季度，A股市场包含IPO、增发和配股等多种方式在内的全口径募资事件共660起，同比减少227起；股权融资总金额为11714亿元，较去年同期下降5%。若从承销商角度来看，今年前三季度，中信证券、中金公司、中信建投证券、华泰联合、国泰君安承销金额位居前五，同时广发证券和瑞银证券排名提升明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1535434.d.html</link>
+            <guid>2818929</guid>
+            <pubDate>Wed, 05 Oct 2022 01:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国铁路预计今日发送620万人次 计划开行列车7867列】从中国国家铁路集团有限公司获悉，预计10月5日全国铁路发送旅客620万人次，计划开行列车7867列。10月4日，全国铁路共发送旅客594.7万人次，开行列车7728列。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1534821.d.html</link>
+            <guid>2818926</guid>
+            <pubDate>Wed, 05 Oct 2022 01:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄媒：俄外交部称，俄方完全遵守不可发生核战争的声明】据俄罗斯卫星通讯社4日报道，俄罗斯外交部核不扩散和军控司司长叶尔马科夫在向联合国大会第一委员会的致信中表示，俄罗斯完全遵守拥核五国领导人关于不可发生核战争的声明，该信件由俄罗斯代表团副团长沃伦佐夫宣读。 （环球网）]]></title>
+            <guid>2818919</guid>
+            <pubDate>Wed, 05 Oct 2022 00:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南昨日新增本土确诊病例1例 本土无症状感染者14例】4日0到24时，河南省新增本土无症状感染者转确诊病例1例（为省外返豫人员点对点闭环管理），新增本土无症状感染者14例（郑州市中牟县1例；平顶山市汝州市5例、省外返豫人员2例，均为隔离管控发现；省外返豫人员6例，均为点对点闭环管理）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1533254.d.html</link>
+            <guid>2818918</guid>
+            <pubDate>Wed, 05 Oct 2022 00:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美韩联军向朝鲜半岛东部海域发射4枚导弹】据韩联社消息，当地时间10月5日，韩国联合参谋本部表示，韩美两军当天向朝鲜半岛东部海域实施地对地导弹联合射击，以反制朝鲜前一天的中远程弹道导弹（IRBM）。 在此次联合对地导弹射击中，韩军和驻韩美军各自发射2枚陆军战术弹道导弹（ATACMS），合计4枚，精准打击东部海域靶标。韩联合参谋本部称，将保持常备不懈的监视状态应对。（观察者网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9818488.d.html</link>
+            <guid>2818917</guid>
+            <pubDate>Wed, 05 Oct 2022 00:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月05日08时21分在伊朗（北纬38.45度，东经45.35度）发生5.6级地震，震源深度50千米。]]></title>
+            <guid>2818915</guid>
+            <pubDate>Wed, 05 Oct 2022 00:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新疆昨日新增本土无症状感染者91例】4日0至24时，新疆维吾尔自治区无新增确诊病例；新增本土无症状感染者91例，其中，乌鲁木齐市天山区8例、沙依巴克区7例、高新区5例、水磨沟区6例、经开区4例、米东区5例，伊犁州伊宁市25例，塔城地区乌苏市2例，吐鲁番市高昌区14例，巴州库尔勒市15例。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9817630.d.html</link>
+            <guid>2818913</guid>
+            <pubDate>Wed, 05 Oct 2022 00:34:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北新增确诊病例1例 新增无症状感染者12例】河北省卫健委： 2022年10月4日0—24时，河北省新增新型冠状病毒肺炎确诊病例1例（廊坊市香河县，系无症状感染者转为确诊病例）；新增无症状感染者12例，其中石家庄市3例（正定县2例、赵县1例，均系外省来冀返冀人员）、保定市3例（清苑区1例、高碑店市1例、定兴县1例，均系外省来冀返冀人员）、秦皇岛市3例（抚宁区，系集中隔离人员）、廊坊市2例（香河县，系集中隔离人员）、雄安新区1例（安新县，系外省返冀人员）。无症状感染者解除医学观察1例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9816577.d.html</link>
+            <guid>2818910</guid>
+            <pubDate>Wed, 05 Oct 2022 00:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟批准强制苹果使用USB-C接口】欧洲议会10月4日通过一项新规，要求从2024年底开始，所有手机、平板电脑等便携智能设备新机都使用USB Type-C的充电接口。欧洲议会当天以602票赞成、13票反对的投票结果通过有关统一便携智能设备充电接口的法案。所有手机、平板电脑、数码相机、耳机、便携音箱、手持视频游戏机、电子阅读器、键盘、鼠标和便携式导航系统将在两年内统一充电接口。欧盟将统一便携智能设备充电接口。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9816152.d.html</link>
+            <guid>2818907</guid>
+            <pubDate>Wed, 05 Oct 2022 00:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆昨日新增本土确诊病例10例、本土无症状感染者14例】4日0—24时，重庆市新增本土确诊病例10例（沙坪坝区3例、綦江区2例、南岸区1例、南川区1例、璧山区1例、荣昌区1例、彭水县1例），新增本土无症状感染者14例（渝北区5例、合川区3例、彭水县2例、渝中区1例、沙坪坝区1例、南岸区1例、巫山县1例），均在隔离管控人员中发现；治愈出院本土确诊病例3例（潼南区2例、北碚区1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1530418.d.html</link>
+            <guid>2818905</guid>
+            <pubDate>Wed, 05 Oct 2022 00:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【物流保通保畅：民航保障货运航班环比增长13.1%】根据国务院物流保通保畅工作领导小组办公室监测汇总数据，10月4日，全国货运物流有序运行，国家铁路货运继续保持高位运行，运输货物1097.8万吨，环比下降1.0%；全国高速公路货车通行531.63万辆，环比增长14.2%；监测港口完成货物吞吐量2907.2万吨，环比下降15.3%，完成集装箱吞吐量72.3万标箱，环比下降9.0%。（央视）]]></title>
+            <guid>2818904</guid>
+            <pubDate>Wed, 05 Oct 2022 00:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宁夏昨日新增本土确诊病例7例 本土无症状感染者29例】4日0时到24时，宁夏全区新增本土确诊病例7例（中宁县3例，沙坡头区3例、利通区1例），新增本土无症状感染者29例，其中中卫市22例（中宁县20例、沙坡头区2例），吴忠市3例（利通区3例），银川市4例（兴庆区2例、金凤区1例、永宁1例），无新增疑似病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1529884.d.html</link>
+            <guid>2818902</guid>
+            <pubDate>Tue, 04 Oct 2022 23:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽新增本土确诊病例1例、本土无症状感染者4例】4日0-24时，安徽省报告新增确诊病例1例（蚌埠市蚌山区，省外返皖人员），新增无症状感染者4例（合肥市庐江县1例，蚌埠市龙子湖区2例，芜湖市鸠江区1例，均为省外返皖人员）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9815041.d.html</link>
+            <guid>2818900</guid>
+            <pubDate>Tue, 04 Oct 2022 23:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度北阿肯德邦一辆载有约50人的大巴坠入山谷】当地时间10月4日下午，印度北阿肯德邦一辆载有约45人至50人的大巴坠入山间峡谷。目前伤亡情况尚不清楚，警察已到达现场展开救援。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1529575.d.html</link>
+            <guid>2818899</guid>
+            <pubDate>Tue, 04 Oct 2022 23:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中创新航：预计将于10月6日登陆港交所主板IPO上市】中创新航公布配发结果，公司全球发售约2.65亿股H股，其中香港发售占1%，国际发售占99%，目前超额配股权尚未获行使。每股发售价为38港元，每手100股，预期H股将于10月6日(星期四)上午九时正(香港时间)于联交所主板买卖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1529569.d.html</link>
+            <guid>2818898</guid>
+            <pubDate>Tue, 04 Oct 2022 23:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【美国石油商致信能源部长 呼吁勿对燃料出口施加限制】美国最大的石油贸易团体当地时间10月4日致信美国能源部，他们对拜登政府正在考虑限制燃料出口以降低消费价格表示“严重关切”，并敦促高层官员不要考虑这一方案。石油商信中写道：“禁止或限制成品油出口可能会降低库存水平，降低国内炼油能力，给消费者支付的燃料价格带来上行压力，并在战争时期疏远美国的盟友。出于这些原因，我们敦促拜登政府不要考虑这一方案。”能源部发言人在回应这封信时说，政府“将继续研究所有可用的工具，以保护美国人并坚持我们对盟国的承诺”。 (财联社)]]></title>
+            <guid>2818894</guid>
+            <pubDate>Tue, 04 Oct 2022 23:34:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“北溪-2”运营商将在警方调查后检查管道】“北溪-2”天然气管道运营商10月4日表示，目前瑞典和丹麦警方正在对“北溪”天然气管道泄漏事件进行调查。一旦警方的调查结束，泄漏点附近海域的封锁解除后，运营商将会对“北溪-2”管道受损状况进行检查和评估。  （央视新闻）]]></title>
             <guid>2818889</guid>
@@ -70,85 +293,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9810604.d.html</link>
             <guid>2818877</guid>
             <pubDate>Tue, 04 Oct 2022 22:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚三年期国债收益率下跌5.8个基点，在悉尼盘初报3.217%。澳大利亚10年期国债收益率涨1.3个基点，在悉尼盘初报3.688%。]]></title>
-            <guid>2818872</guid>
-            <pubDate>Tue, 04 Oct 2022 21:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团据称洽谈收购艾默生电气（EMR）资产，后者考虑出售的资产至少包括商业和居民（供电）解决方案业务。]]></title>
-            <guid>2818863</guid>
-            <pubDate>Tue, 04 Oct 2022 21:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团正在就收购美国艾默生电气公司的资产进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9808604.d.html</link>
-            <guid>2818862</guid>
-            <pubDate>Tue, 04 Oct 2022 21:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞典至波兰段电缆未受到“北溪”管道爆炸影响】 10月4日，据瑞典电视台报道，“北溪”天然气管道发生爆炸的地点距离瑞典至波兰段电缆仅500米。4日进行的测试表明，该电缆未受到管道爆炸的影响。因此，电缆可以按计划于9日再次投入使用。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9807632.d.html</link>
-            <guid>2818839</guid>
-            <pubDate>Tue, 04 Oct 2022 20:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普要求美国最高法院介入海湖庄园文件纠纷】 据报道，美国前总统特朗普已要求最高法院介入今年夏天联邦调查局（FBI）从其海湖庄园中搜查白宫文件材料的纠纷。据悉，特朗普就此事向最高法院提出了紧急请求。（央视新闻）]]></title>
-            <guid>2818810</guid>
-            <pubDate>Tue, 04 Oct 2022 20:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拜登与乌克兰总统通话】 当地时间10月4日，根据美国白宫发布的声明，美国总统拜登和副总统哈里斯与乌克兰总统泽连斯基通话，宣布向乌克兰提供价值6.25亿美元的最新军事援助计划。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1519160.d.html</link>
-            <guid>2818738</guid>
-            <pubDate>Tue, 04 Oct 2022 18:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登政府目前不考虑再次释放战略石油储备（SPR）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9804036.d.html</link>
-            <guid>2818735</guid>
-            <pubDate>Tue, 04 Oct 2022 18:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沙特和俄罗斯正计划不顾美国的反对大幅削减石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9803767.d.html</link>
-            <guid>2818734</guid>
-            <pubDate>Tue, 04 Oct 2022 18:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理会见荷兰首相并强调：必须保护能源安全】 当地时间10月4日，德国总理朔尔茨在柏林会见了到访的荷兰首相吕特。朔尔茨在会谈后的新闻发布会上表示，德国目前的能源价格需要降低，他呼吁采取统一行动打击天然气市场的投机行为。他强调，必须保护能源安全。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1518164.d.html</link>
-            <guid>2818733</guid>
-            <pubDate>Tue, 04 Oct 2022 18:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌公司将支付8500万美元，以了结美国亚利桑那州消费者隐私诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1517528.d.html</link>
-            <guid>2818732</guid>
-            <pubDate>Tue, 04 Oct 2022 17:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国科隆国际摩托车及两轮车展览会4日在科隆市会展中心开幕，雅迪、众星等近20家中国参展企业展示了摩托车、电动自行车及相关零配件和装备产品。（新华网）]]></title>
-            <guid>2818731</guid>
-            <pubDate>Tue, 04 Oct 2022 17:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。]]></title>
-            <guid>2818728</guid>
-            <pubDate>Tue, 04 Oct 2022 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飓风“伊恩”被列为美国第25大致命飓风】 10月4日，根据美国国家海洋和大气管理局收集的数据，近日在佛罗里达州登陆的飓风“伊恩”被列为美国第25大致命飓风。佛罗里达州官员表示，截至目前该州至少有101人因飓风死亡，北卡罗来纳州也有至少有4人因飓风死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1513134.d.html</link>
-            <guid>2818717</guid>
-            <pubDate>Tue, 04 Oct 2022 16:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪拿下全球汽车租赁公司SIXT10万辆车大单】 10月4日，比亚迪宣布，与全球汽车租赁公司SIXT签署合作协议，为欧洲市场提供新能源汽车租赁服务，SIXT 将在未来6年内向比亚迪采购至少10万台新能源车。车辆将于今年第四季度开始交付，第一阶段合作市场包括德国、英国、法国、荷兰。比亚迪产销快报显示，其9月新能源汽车单月销量约20.13万辆，同比增长183.07%；1-9月的累计销量突破百万辆至118.01万辆，同比增长249.56%。这一数据远超市场预期，使比亚迪继续稳居全球新能源车销量第一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9795882.d.html</link>
-            <guid>2818702</guid>
-            <pubDate>Tue, 04 Oct 2022 15:21:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
