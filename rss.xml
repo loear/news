@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 05 Oct 2022 17:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 17:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西9月外汇流出38.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9890506.d.html</link>
+            <guid>2819435</guid>
+            <pubDate>Wed, 05 Oct 2022 17:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯10月份在波罗的海港口的乌拉尔石油装载量将增至650万吨（9月份为590万吨）。]]></title>
+            <guid>2819428</guid>
+            <pubDate>Wed, 05 Oct 2022 17:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚洲开发银行将向巴基斯坦提供多达25亿美元的洪灾救援支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1602313.d.html</link>
+            <guid>2819427</guid>
+            <pubDate>Wed, 05 Oct 2022 17:03:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄罗斯2022年至10月3日CPI较上年同期上升10.4%。10月3日当周CPI环比上升0.07%。]]></title>
             <guid>2819419</guid>
@@ -186,29 +203,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592692.d.html</link>
             <guid>2819342</guid>
             <pubDate>Wed, 05 Oct 2022 14:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两名欧佩克+消息人士称，欧佩克+的减产将从11月开始生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592118.d.html</link>
-            <guid>2819333</guid>
-            <pubDate>Wed, 05 Oct 2022 13:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯驱逐立陶宛驻俄临时代办】当地时间10月5日，据俄罗斯外交部公布的消息，俄罗斯驱逐了立陶宛驻俄临时代办。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592070.d.html</link>
-            <guid>2819331</guid>
-            <pubDate>Wed, 05 Oct 2022 13:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者Amena Bakr：目前欧佩克+还没有就减产200万桶/日达成最终协议，部长们仍在讨论石油市场报告。]]></title>
-            <guid>2819330</guid>
-            <pubDate>Wed, 05 Oct 2022 13:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD跌近4%，此前遭富国银行将其目标价下调至90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1591639.d.html</link>
-            <guid>2819325</guid>
-            <pubDate>Wed, 05 Oct 2022 13:44:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
