@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 06 Oct 2022 18:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 19:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【摩根大通：将卡特彼勒(CAT.N)目标价上调至220美元，维持超配评级】摩根大通分析师Tami Zakaria将卡特彼勒的目标价从205美元上调至220美元，并维持对该股的超配评级。该分析师表示，终端用户的需求评论仍然广泛积极，特别是大型设备，而一些经销商提到了有一些以住宅为重点的小型设备订单被取消。该分析师预计，卡特彼勒的需求有弹性，交付情况也将会改善，而投资者的预期则是“沉默的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1694665.d.html</link>
+            <guid>2820299</guid>
+            <pubDate>Thu, 06 Oct 2022 19:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Tilray(TLRY.O)尾盘直线拉升，现涨超22%，最高触及3.65美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1694392.d.html</link>
+            <guid>2820280</guid>
+            <pubDate>Thu, 06 Oct 2022 19:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线(AMC.N)：首次与奈飞(NFLX.O)达成协议，在影院播放奈飞的电影。]]></title>
+            <guid>2820279</guid>
+            <pubDate>Thu, 06 Oct 2022 19:14:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【莫桑比克报告首例猴痘病例】据莫桑比克卫生部6日消息，该国报告了首例猴痘病例。该病例是一名成年男性，5日在马普托出现症状并确诊。该病例有旅行史，当地卫生部门正在追踪其所有可能的接触者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1694283.d.html</link>
+            <guid>2820272</guid>
+            <pubDate>Thu, 06 Oct 2022 19:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法庭文件：马斯克称，如果不能与推特(TWTR.N)达成交易，可以恢复诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1694244.d.html</link>
+            <guid>2820270</guid>
+            <pubDate>Thu, 06 Oct 2022 19:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法庭文件：马斯克要求暂停推特(TWTR.N)的诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1694240.d.html</link>
+            <guid>2820269</guid>
+            <pubDate>Thu, 06 Oct 2022 19:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法庭文件：马斯克表示愿意在10月28日以54.20美元/股的价格完成收购推特(TWTR.N)的交易。]]></title>
+            <guid>2820263</guid>
+            <pubDate>Thu, 06 Oct 2022 19:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杰富瑞：将eBay(EBAY.O)目标价下调至42美元，维持持有评级】杰富瑞分析师John Colantuoni将eBay的目标价从52美元下调至42美元，并维持对该股的持有评级。该分析师在预期宏观环境放缓的情况下，降低了对美国互联网公司的预期和目标价格。他更倾向于持有竞争差异化、触及有吸引力的终端市场、具有抵消疲软需求的杠杆以及强劲的自由现金流的股票。他将2023年的收入预期平均下调了5%，较共识预期低4%。然而，他认为，整个互联网行业的修正创造了更有吸引力的风险/回报；爱彼迎(ABNB.O)具备最能抵御经济衰退的特征，而Etsy(ETSY.O)的基本面已经触底。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1693782.d.html</link>
+            <guid>2820257</guid>
+            <pubDate>Thu, 06 Oct 2022 18:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【希腊海域移民船沉没事件死亡人数升至22人】据希腊海岸警卫队当地时间6日最新统计数据显示，希腊海域移民船沉没事件已造成22人死亡，仍有数十人失踪。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1693537.d.html</link>
@@ -153,24 +199,6 @@
             <title><![CDATA[市场消息：谷歌的承包商声称他们因为与工会有联系而被解雇，他们已向国家劳动关系委员会提出投诉。]]></title>
             <guid>2820071</guid>
             <pubDate>Thu, 06 Oct 2022 16:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利9月新车销量同比增长5.37％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9978696.d.html</link>
-            <guid>2820067</guid>
-            <pubDate>Thu, 06 Oct 2022 16:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  杰富瑞：将爱彼迎(ABNB.O)目标价从140美元下调至138美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1688144.d.html</link>
-            <guid>2820057</guid>
-            <pubDate>Thu, 06 Oct 2022 15:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛：将纽柯钢铁(NUE.N)目标价从127美元下调至114美元 维持中性评级】高盛分析师Emily Chieng将该公司对纽柯钢铁的目标价降至114美元，并保持对该股的中性评级。该分析师认为，鉴于其“服务于终端市场的强大的产品组合”，该公司有能力抓住不断改善的建筑和基础设施需求。然而，Chieng认为这些属性在当前股价水平上的定价是合理的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9978128.d.html</link>
-            <guid>2820056</guid>
-            <pubDate>Thu, 06 Oct 2022 15:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
