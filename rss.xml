@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 07 Oct 2022 17:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 18:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Piper Sandler：将AMD(AMD.O)目标价下调至90美元，维持超配评级】Piper Sandler分析师Harsh Kumar将AMD的目标价从140美元下调至90美元，并维持对该股的超配评级。该分析师指出，在AMD公布的业绩初步数据中，大约10亿美元的收入减少与个人电脑部门表现疲软有关，该部门的收入从大约20亿美元减少到大约10亿美元。该分析师指出，投资者更关心的数据中心业务收入增长至16亿美元，与之前的预期相比减少了约1亿美元。]]></title>
+            <guid>2821009</guid>
+            <pubDate>Fri, 07 Oct 2022 18:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银证券：将AMD(AMD.O)目标价下调至90美元，维持买入评级】美银证券分析师Vivek Arya将AMD的目标价从100美元下调至90美元，但维持对该股的买入评级，此前该公司发布第三季度销售额的初步数据约为56亿美元，而此前提供的指引为67亿美元。该分析师指出，AMD没有更新其第四季度的展望，但他预计趋势将保持低迷，由于客户部门疲软，模型销售将继续逐季下降。他认为AMD的警告将对其个人电脑同行英特尔产生最负面的影响，但对英伟达也有一定的影响，因其也对消费者图形和相关的内存和数据中心行业产生影响。他预计，大多数半导体公司的削减将反映在第三季度业绩上，假设宏观环境没有变得更糟，这“可能有助于创造一个半导体股票的底部”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqmmthc0069438.d.html</link>
+            <guid>2821006</guid>
+            <pubDate>Fri, 07 Oct 2022 18:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股航空股集体下挫，夏威夷航空(HA.O)跌6.7%，美国航空集团(AAL.O)跌5.7%，达美航空(DAL.N)跌5%，美国联合航空(UAL.O)跌4.3%，西南航空(LUV.N)跌3.3%。]]></title>
+            <guid>2821004</guid>
+            <pubDate>Fri, 07 Oct 2022 18:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国石油钻探公司有望创1998年以来最佳单周表现】美国油服贝壳休斯（BKR）本周已经累计上涨约11.0%，哈利伯顿（HAL）累涨约25.0%，斯伦贝谢（SLB）累涨约19.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqqsmrp1776864.d.html</link>
+            <guid>2821001</guid>
+            <pubDate>Fri, 07 Oct 2022 18:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚来欲扩大欧洲市场份额 宣布推出三款车型 】蔚来在10月8日宣布，向德国、荷兰、丹麦、瑞典等四个欧洲国家市场推出包括ET7、ET5和EL7（即ES7）在内的三款车型。ET7 从10月16日起在德国和荷兰开始交付，丹麦和瑞典市场则将从11月15日开始交付；EL7将从2023年1月底开始交付，ET5则将从2023年3月底开始交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqqsmrp1776629.d.html</link>
+            <guid>2821000</guid>
+            <pubDate>Fri, 07 Oct 2022 17:53:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【富国银行：将AMD(AMD.O)目标价下调至85美元，维持超配评级】富国银行分析师Aaron Rakers将AMD的目标价从90美元下调至85美元，并维持对该股的超配评级。Rakers在一份研究报告中告诉投资者，AMD公布的第三季度业绩初步数据低于此前的指引，主要是由于客户部门收入疲软。该分析师认为，AMD股价的最大驱动力将在于该公司能否在2023年实现收入增长。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqqsmrp1776413.d.html</link>
@@ -184,43 +212,6 @@
             <title><![CDATA[国际货币基金组织：对墨西哥国家石油公司的商业战略进行进一步调整，将使预算免于在油价大幅下跌时不得不承担损失的风险。]]></title>
             <guid>2820910</guid>
             <pubDate>Fri, 07 Oct 2022 14:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：对墨西哥国内燃油定价制度的改革将增强财政灵活性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0058720.d.html</link>
-            <guid>2820909</guid>
-            <pubDate>Fri, 07 Oct 2022 14:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：墨西哥在2022年和2023年的中性财政立场支撑了拟议的预算，很好地平衡了支持货币政策的必要性，既能抑制经济通胀，又不会对经济活动造成实质性拖累。]]></title>
-            <guid>2820908</guid>
-            <pubDate>Fri, 07 Oct 2022 14:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：墨西哥为减轻生活成本上升的影响而采取的许多财政措施都没有针对性。]]></title>
-            <guid>2820906</guid>
-            <pubDate>Fri, 07 Oct 2022 14:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：墨西哥持续大幅提高最低工资可能会给通胀带来上行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0058404.d.html</link>
-            <guid>2820905</guid>
-            <pubDate>Fri, 07 Oct 2022 14:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：墨西哥若想恢复低而稳定的通胀，很可能需要在今年年底前进一步提高政策利率，并在一段时间内保持这一水平。]]></title>
-            <guid>2820904</guid>
-            <pubDate>Fri, 07 Oct 2022 14:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：尽管墨西哥在2022年上半年录得了强劲的增长，但预计未来几个季度的增长将会下降。]]></title>
-            <guid>2820902</guid>
-            <pubDate>Fri, 07 Oct 2022 14:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：鉴于宏观经济政策的审慎，以及稳健的财政政策框架，墨西哥在应对动荡的全球形势方面处于有利地位。]]></title>
-            <guid>2820901</guid>
-            <pubDate>Fri, 07 Oct 2022 14:17:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
