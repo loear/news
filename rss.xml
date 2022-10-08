@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 08 Oct 2022 19:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 20:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【继续打折抢客户？国庆家居回暖有限 全屋定制赛道“负重”领跑】当前全屋定制对成品家具及传统装修公司的冲击愈发明显，通过全屋定制提升客单价是行业公司维持业绩增长的主要途径。但随着竞争加剧，成本持续承压，有定制门店人士称，预计今年末公司将进行新一轮提价，幅度预计在5%-10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1892091.d.html</link>
+            <guid>2821668</guid>
+            <pubDate>Sat, 08 Oct 2022 20:10:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国中西部干旱严重 密西西比河处于十年来最低水位】由于严重的中西部干旱，美国密西西比河正处于十年来的最低水位，导致从美国中心地带运输农作物的重要驳船通道已经关闭。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1891068.d.html</link>
@@ -403,23 +409,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqmmthc0144829.d.html</link>
             <guid>2821230</guid>
             <pubDate>Sat, 08 Oct 2022 09:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海尔消费金融公司注册资本增至15亿】企查查APP显示，近日，海尔消费金融有限公司发生工商变更，公司注册资本由10亿元人民币增加至15亿元人民币。企查查信息显示，该公司成立于2014年，法定代表人为李占国，经营范围包含：发放个人消费贷款；接收股东境内子公司及境内股东的存款等，由海尔集团公司、北京红星美凯龙国际家具建材广场有限公司等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqmmthc0144814.d.html</link>
-            <guid>2821229</guid>
-            <pubDate>Sat, 08 Oct 2022 09:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辉瑞宣布Talazoparib在转移性去势抵抗性前列腺癌3期临床研究中获得积极结果】据证券时报，辉瑞公司于近日公布了Talazoparib（TALZENNA®）3期临床研究TALAPRO-2的积极结果，Talazoparib是一种口服多聚ADP-核糖聚合酶(PARP)抑制剂，与安可坦®（恩杂鲁胺）联合，治疗具有或不具有同源重组修复（HRR）基因突变的转移性去势抵抗性前列腺癌（mCRPC）患者。该研究达到了主要终点，与安慰剂联合安可坦®对照组相比，影像学无进展生存期（rPFS）具有统计学意义和临床意义的改善。主要终点的结果超过了预设的风险比0.696。]]></title>
-            <guid>2821228</guid>
-            <pubDate>Sat, 08 Oct 2022 09:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来李斌：蔚来第二品牌会进入欧洲市场】蔚来汽车创始人、董事长李斌今日表示，蔚来内部代号阿尔卑斯（ALPS）项目下的产品也将进入欧洲市场。此前一天，蔚来在柏林发布蔚来ET7、ET5和EL7（ES7）三款车型，并以“订阅模式”在欧洲开启销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-08/detail-imqmmthc0143834.d.html</link>
-            <guid>2821227</guid>
-            <pubDate>Sat, 08 Oct 2022 09:10:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
