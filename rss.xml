@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Oct 2022 18:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 19:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -165,12 +165,6 @@
             <title><![CDATA[惠誉：由于抵押贷款利率上升和负担能力恶化，预计美国房价将在2022年下半年至2023年继续经历调整。]]></title>
             <guid>2823608</guid>
             <pubDate>Mon, 10 Oct 2022 14:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国支持欧盟共同债券，用于处置能源危机的贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqqsmrp2119028.d.html</link>
-            <guid>2823606</guid>
-            <pubDate>Mon, 10 Oct 2022 14:32:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
