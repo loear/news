@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Oct 2022 16:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 17:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法航447航班空难开审，空客和法航被指“过失杀人”】 当地时间10日，在法航447航班坠毁13年后，飞机制造商欧洲空中客车公司和法航被控过失杀人罪的审讯在巴黎开始。该审讯将持续到12月8日。2009年5月31日，一架执飞法航447航班的空客A330型飞机从巴西里约热内卢出发，飞往巴黎，6月1日凌晨在大西洋海域上空失事坠毁，机上228人全部遇难，这是法航运营史上最严重空难。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-11/detail-imqmmthc0429510.d.html</link>
+            <guid>2823691</guid>
+            <pubDate>Mon, 10 Oct 2022 17:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国政府消息人士否认关于德国支持欧盟联合债务以缓解能源危机的报道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-11/detail-imqmmthc0428822.d.html</link>
+            <guid>2823688</guid>
+            <pubDate>Mon, 10 Oct 2022 17:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：埃克森美孚据称将考虑收购油气公司Denbury。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-11/detail-imqmmthc0427520.d.html</link>
@@ -196,24 +208,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqmmthc0418514.d.html</link>
             <guid>2823592</guid>
             <pubDate>Mon, 10 Oct 2022 14:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑瑞郎USD/CHF向上触及1.00，日内涨0.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqqsmrp2116953.d.html</link>
-            <guid>2823589</guid>
-            <pubDate>Mon, 10 Oct 2022 14:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月谘商会就业趋势指数 120.17，前值119.06。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqmmthc0417742.d.html</link>
-            <guid>2823586</guid>
-            <pubDate>Mon, 10 Oct 2022 14:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[费城半导体指数下跌2.9%，刷新2020年11月份以来盘中最低位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqmmthc0416943.d.html</link>
-            <guid>2823584</guid>
-            <pubDate>Mon, 10 Oct 2022 13:58:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
