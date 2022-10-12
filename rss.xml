@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 12 Oct 2022 18:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 19:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【生猪期货主力合约维持强势，节后现货价格涨势放缓】 经历十一长假的阶段性价格上涨后，国内生猪市场价格逐步趋稳。不过期货市场上，生猪期货整体依然维持强势，10月12日主力合约2301一度站上24000元/吨大关，刷新2021年5月以来高点。对于近期猪价走强，分析人士认为，短期看，猪价上涨过程中，养殖端惜售带来了阶段性供应缩减，或支撑价格重心上移，但随着这部分增量逐步释放，或对后期旺季价格走强带来反向压力。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2381937.d.html</link>
+            <guid>2826282</guid>
+            <pubDate>Wed, 12 Oct 2022 19:10:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国国债价格涨幅扩大，5-30年期美债收益率刷新日低。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2379950.d.html</link>
