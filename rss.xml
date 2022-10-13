@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 13 Oct 2022 16:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 17:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[一些用户反映，苹果操作系统的地图功能发生故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2502670.d.html</link>
+            <guid>2827403</guid>
+            <pubDate>Thu, 13 Oct 2022 17:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  克班资本：将联合包裹(UPS.N)的目标价由250美元下调至200美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2502664.d.html</link>
+            <guid>2827402</guid>
+            <pubDate>Thu, 13 Oct 2022 17:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央企为小微企业和个体户减房租，须在11月底前全面完成】时隔近7个月，国资委再度发文聚焦房租减免工作。10月12日，国资委发布的《关于进一步做好2022年服务业小微企业和个体工商户房屋租金减免工作的通知》明确，各中央企业要在11月底前全面完成普遍减免3个月租金任务。本次《通知》将落实减租政策的主体由中央企业进一步扩至中央企业和地方国企，且着重强调要进一步强化政策执行，确保应减快减、应减尽减；进一步细化方案举措，以最大诚意助企纾困；进一步加强监督检查，保障减租工作规范有序落实到位。（证券日报）]]></title>
+            <guid>2827398</guid>
+            <pubDate>Thu, 13 Oct 2022 17:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越跌越买多，只港股ETF份额不断攀升】今年以来，港股总体呈下跌趋势，恒生指数下跌约28%，恒生科技指数下跌约40%。跟踪恒生指数和恒生科技指数的多只ETF年内复权单位净值增长率也纷纷走低，不过基金份额却不断攀升，整体呈现“越跌越买”的趋势。还有多只跟踪恒生科技指数的ETF年内净值跌幅约35%，而基金份额增长超一倍。展望四季度，多位基金经理认为，目前港股市场机会大于风险。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0811707.d.html</link>
+            <guid>2827360</guid>
+            <pubDate>Thu, 13 Oct 2022 17:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)短线拉升，现涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2501505.d.html</link>
+            <guid>2827352</guid>
+            <pubDate>Thu, 13 Oct 2022 17:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)将推出广告支持的服务，每月6.99美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2501119.d.html</link>
+            <guid>2827347</guid>
+            <pubDate>Thu, 13 Oct 2022 17:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：斯伦贝谢(SLB.N)寻求以8亿美元出售其阀门业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2501001.d.html</link>
+            <guid>2827346</guid>
+            <pubDate>Thu, 13 Oct 2022 16:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“二师兄”携手菜、蛋上涨 9月CPI同比涨幅或有所扩大】10月14日，国家统计局将公布9月份全国居民消费价格指数（CPI），猪肉、蔬菜、鸡蛋等食品价格走高下，多家机构预计，9月CPI同比涨幅或有所扩大。  （中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2500679.d.html</link>
+            <guid>2827334</guid>
+            <pubDate>Thu, 13 Oct 2022 16:50:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美股抗疫概念股普涨】美股抗疫概念股普涨，BioNTech涨2%，辉瑞、雅培、Moderna、强生、礼来涨1%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0810670.d.html</link>
@@ -198,81 +245,6 @@
             <title><![CDATA[【中国研发、中国设计、中国制造的双燃料动力汽车运输船再获韩国船东订单】近日，韩国H-Line海运公司向中国船舶广船国际有限公司追加3艘由中国船舶上海船舶研究设计院研发设计的8600车位液化天然气（LNG）双燃料动力汽车运输船（PCTC）订单。至此，上海船院今年承接的PCTC设计订单累计已达55艘，全球市场份额占有率达67%，高居全球第一。（中新网）]]></title>
             <guid>2827258</guid>
             <pubDate>Thu, 13 Oct 2022 14:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至10月7日当周，美国天然气库存总量为32310亿立方英尺，较此前一周增加1250亿立方英尺，较去年同期减少1260亿立方英尺，同比降幅3.8%，同时较5年均值低2210亿立方英尺，降幅6.4%。]]></title>
-            <guid>2827254</guid>
-            <pubDate>Thu, 13 Oct 2022 14:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄方称关于俄粮食和化肥出口的协议完全没有执行】据央视新闻，俄罗斯总统助理乌沙科夫当地时间13日表示，关于取消对俄罗斯出口限制的粮食协议完全没有得到执行，而俄罗斯化肥的出口也仍存在阻碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2492933.d.html</link>
-            <guid>2827252</guid>
-            <pubDate>Thu, 13 Oct 2022 14:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[费城银行指数涨超1%，由于美国核心通胀创40年新高的缘故，美股盘初一度下跌。目前，大型银行股美国银行和摩根大通涨超1.8%，花旗集团涨超1.4%，富国银行涨约0.8%。]]></title>
-            <guid>2827251</guid>
-            <pubDate>Thu, 13 Oct 2022 14:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷诺CEO：将于明日恢复与日产的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2492710.d.html</link>
-            <guid>2827249</guid>
-            <pubDate>Thu, 13 Oct 2022 14:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：新西兰TAKAKA东北方76公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2492482.d.html</link>
-            <guid>2827246</guid>
-            <pubDate>Thu, 13 Oct 2022 14:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰开始修复“友谊”输油管道】据央视新闻，当地时间10月13日，波兰石油管道运营公司（PERN）在一份声明中称，该公司的技术部门已经开始修复“友谊”输油管道，“目标是尽快恢复主要管线的运行并完全实现原油泵送”。声明表示，在12日晚间至13日凌晨期间，受损管道中的石油已清理完成，为修复管道创造了安全条件。同时，对事件原因的调查仍在进行中。 此外，PERN公司在12日晚表示，在清除了受损管道附近区域的大部分污染物后，技术部门已经找到了泄漏点，初步调查结果显示，“没有第三方干预的迹象”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2492432.d.html</link>
-            <guid>2827245</guid>
-            <pubDate>Thu, 13 Oct 2022 14:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷诺CEO：很难为与日产汽车更广泛的谈判给出最后期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqmmthc0802108.d.html</link>
-            <guid>2827243</guid>
-            <pubDate>Thu, 13 Oct 2022 14:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织高级官员：与埃及的合作非常紧密。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqmmthc0801702.d.html</link>
-            <guid>2827239</guid>
-            <pubDate>Thu, 13 Oct 2022 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股跌幅收窄】美股跌幅收窄，纳指跌1.4%，标普500指数跌0.9%，道指跌0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqmmthc0801599.d.html</link>
-            <guid>2827238</guid>
-            <pubDate>Thu, 13 Oct 2022 14:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF中东地区负责人：明年中东地区GDP增长放缓至3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2491561.d.html</link>
-            <guid>2827237</guid>
-            <pubDate>Thu, 13 Oct 2022 14:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞典方面称“北溪”剩余气体排放量仍在减少】据央视新闻，当地时间10月13日，瑞典海岸警卫队表示，根据12日的最新观察，“北溪-2”剩余天然气的排放量进一步减少，现在达到海面范围约10米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqqsmrp2491523.d.html</link>
-            <guid>2827236</guid>
-            <pubDate>Thu, 13 Oct 2022 14:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电(TSM.N)涨超3%，Q3业绩超预期，净利润同比大增79.7%至2808.66亿新台币。]]></title>
-            <guid>2827235</guid>
-            <pubDate>Thu, 13 Oct 2022 14:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国运营商首次向德国直送天然气】法国天然气网络运营商GRTgaz公司13日说，法国方面首次经由管道直接向德国输送天然气。该企业数月前开始对连接法德两国的天然气管道进行改造，于13日早些时候开始首次向德国直接输送天然气。当前该管道的输气量为每天31千兆瓦时，今后将逐渐增至每天最多输气100千兆瓦时。法国和德国方面9月签署能源合作协议，内容包括法方将向德方输送天然气，而德方将在用电高峰时段向法方供电。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-13/detail-imqmmthc0800884.d.html</link>
-            <guid>2827234</guid>
-            <pubDate>Thu, 13 Oct 2022 14:06:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
