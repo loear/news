@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 14 Oct 2022 20:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 21:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【前8月我国服务进出口总额同比增20.4%】 商务部日前公布数据显示，今年1至8月，我国服务贸易继续保持平稳增长。服务进出口总额39375.6亿元，同比增长20.4%。据介绍，1至8月，我国服务出口19082.4亿元，同比增长23.1%；进口20293.2亿元，同比增长17.9%。服务出口增幅大于进口5.2个百分点，带动服务贸易逆差下降29.5%至1210.8亿元。8月当月，我国服务进出口总额5437.9亿元，同比增长17.6%。(商务部)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0942895.d.html</link>
+            <guid>2829230</guid>
+            <pubDate>Fri, 14 Oct 2022 21:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绿债前三季度发行总额同比增近五成 业内人士：国内绿债市场仍有较大发展完善的空间】作为债券市场上“年轻”的品类，绿色债券在今年迎来了快速发展。市场机构统计的数据显示，今年前三季度，绿色债券发行总额接近6200亿元，较去年同期增长近五成。业内人士认为，绿债已成为金融助力经济转型的最佳实践之一，可带来多赢的效果。国内绿债市场仍有较大发展完善的空间，应进一步严格绿色债券市场监管、推动募投项目向环境保护方面侧重、加强信息披露，强化绿色债券评估认证机构管理。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2628343.d.html</link>
+            <guid>2829224</guid>
+            <pubDate>Fri, 14 Oct 2022 21:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【千余只基金下半年以来派利390亿元】今年下半年以来，截至10月14日，已有1103只基金（不同份额分开计算）累计分红390.44亿元。其中，债券型基金分红较多，部分绩优权益类基金也在积极分红。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0942424.d.html</link>
+            <guid>2829223</guid>
+            <pubDate>Fri, 14 Oct 2022 20:59:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[纽交所ARCA钢铁指数收跌4.27%，报1437.51点，本周累跌2.14%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2627409.d.html</link>
@@ -48,7 +66,7 @@
             <pubDate>Fri, 14 Oct 2022 20:07:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克中国指数初步收跌3.9%，成分股小鹏汽车和微米跌超8%，蔚来汽车跌7.9%，理想汽车跌约6.6%，老虎证券则涨超2%。]]></title>
+            <title><![CDATA[纳斯达克金龙指数初步收跌3.9%，成分股小鹏汽车和微米跌超8%，蔚来汽车跌7.9%，理想汽车跌约6.6%，老虎证券则涨超2%。]]></title>
             <guid>2829204</guid>
             <pubDate>Fri, 14 Oct 2022 20:03:25 GMT</pubDate>
         </item>
@@ -134,22 +152,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2620154.d.html</link>
             <guid>2829134</guid>
             <pubDate>Fri, 14 Oct 2022 16:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃达丰(VOD.O)已要求包括KKR集团和GIP组成的财团在内的竞购方在11月提交对Vantage Towers的具有约束力的报价，目的是宣布交易并公布半年收益。]]></title>
-            <guid>2829131</guid>
-            <pubDate>Fri, 14 Oct 2022 16:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：沃达丰(VOD.O)希望在11月15日前结束与Vantage Towers竞购方的谈判。]]></title>
-            <guid>2829130</guid>
-            <pubDate>Fri, 14 Oct 2022 16:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团：我们更关注市场的流动性和对交易方的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0932299.d.html</link>
-            <guid>2829125</guid>
-            <pubDate>Fri, 14 Oct 2022 16:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
