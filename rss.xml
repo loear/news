@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Oct 2022 13:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 14:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[越南电动车龙头VinFast将召回730辆汽车进行检查，更换传感器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc1017882.d.html</link>
+            <guid>2829541</guid>
+            <pubDate>Sat, 15 Oct 2022 14:14:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMF总裁格奥尔基耶娃：国际货币基金组织收到28个国家的融资请求。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc1015344.d.html</link>
@@ -378,22 +384,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0967985.d.html</link>
             <guid>2829317</guid>
             <pubDate>Sat, 15 Oct 2022 02:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【容百科技：中低镍开发顺利，预计明年上半年会快速放量】容百科技消息，今年年底随着公司四大正极基地（湖北鄂州、贵州遵义、湖北仙桃、韩国忠州）建设完成，公司年产能将达到25万吨，高镍产品出货将保持万吨级以上，超高镍年底出货量有望破千吨级；中低镍开发顺利，预计明年上半年会快速放量；磷酸锰铁锂出货量和开发速度均处于行业前列，目前下游需求比较旺盛，现有6000多吨产线满足不了市场需求，公司将开发万吨级的磷酸锰铁锂产线建设。总体来看，公司四季度及明年的出货量和单吨盈利会维持良好的增长态势。未来，公司会坚定推动战略转型，持续向全市场覆盖的正极材料综合供应商迈进。]]></title>
-            <guid>2829315</guid>
-            <pubDate>Sat, 15 Oct 2022 02:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【顶固集创：子公司获“专精特新”企业证书】顶固集创消息，近日，佛山市工业和信息化局公布了2022年度“专精特新”企业名单，顶固全资子公司佛山市顶固集创门业有限公司位列榜单，这是对顶固专注技术研发、坚持原创设计的高度认可。]]></title>
-            <guid>2829314</guid>
-            <pubDate>Sat, 15 Oct 2022 02:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信上线刷掌支付小程序，开启新支付模式】微信内已上线“微信刷掌支付”小程序，可为用户更加便捷的管理刷掌支付，但刷掌支付功能需要在刷掌设备中开通。刷掌支付是继密码支付、指纹支付、刷脸支付后，微信的又一新支付方式。据悉，目前微信支付已在深圳部分商家接入刷掌支付设备进行测试，用户可以通过刷掌纹支付订单。“微信刷掌支付”小程序由财付通支付科技有限公司开发。用户在刷掌设备上开通刷掌支付功能后，可在小程序中查看相关的支付动态。（Tech星球）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0967024.d.html</link>
-            <guid>2829313</guid>
-            <pubDate>Sat, 15 Oct 2022 02:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
