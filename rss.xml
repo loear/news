@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Oct 2022 19:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 20:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【约3亿人参与的大市场！这一赛道火了，巨头争相跨界布局】据业内估算，目前我国的咖啡消费者约为3亿人，随着爱喝咖啡的人越来越多，咖啡行业也成了资本眼中的“好生意”。不少知名企业都在积极跨界布局咖啡赛道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1031435.d.html</link>
+            <guid>2829673</guid>
+            <pubDate>Sat, 15 Oct 2022 20:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩累计确诊霍乱病例43例】当地时间10月15日，黎巴嫩卫生部宣布，过去的24小时内，黎巴嫩新增确诊霍乱病例9例，新增死亡病例1例；累计确诊病例43例，累计死亡病例2例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1030742.d.html</link>
+            <guid>2829672</guid>
+            <pubDate>Sat, 15 Oct 2022 20:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厉害！直径12毫米细绳能拉动20吨重物】国产高性能纤维F-12芳纶纤维，单根直径只有14微米，是头发丝的六分之一。用它做成直径12毫米的细绳，能拉动20多吨的重物，而同样粗的钢绳只能拉动8吨。如今，国产高性能芳纶纤维在火箭发动机、飞机功能结构件等尖端领域支撑着国之重器跨越发展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2714647.d.html</link>
+            <guid>2829671</guid>
+            <pubDate>Sat, 15 Oct 2022 19:48:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2022年秋粮最低收购价收购启动】从中储粮集团获悉，目前，江苏、安徽两省已率先启动2022年秋粮最低收购价收购。今年，中晚籼稻和粳稻最低收购价格分别为1.29元/斤和1.31元/斤，同比均上调0.01元/斤。中储粮联合有关单位已准备2200多个收储库点、5700多万吨仓容。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1029881.d.html</link>
@@ -300,24 +318,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669692.d.html</link>
             <guid>2829353</guid>
             <pubDate>Sat, 15 Oct 2022 06:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：政府部门将不得不提高效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669127.d.html</link>
-            <guid>2829352</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：在要求为最富有的人减税的艰难决定时，我们犯了错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669121.d.html</link>
-            <guid>2829351</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：人们需要稳定的政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669103.d.html</link>
-            <guid>2829350</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
