@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 17 Oct 2022 20:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 21:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[力拓第三季度铝土矿产量1370万吨，预估1394万；氧化铝产量184万吨；铝产量75.90万吨，预估77.59万。]]></title>
+            <guid>2831229</guid>
+            <pubDate>Mon, 17 Oct 2022 21:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【科创板做市交易临近，14家证券公司获得资格】 根据上交所近日发布的消息，目前上交所已完成各项准备工作，科创板股票做市交易业务上线已准备就绪。截至2022年10月14日，经中国证监会核准，14家证券公司取得了上市证券做市交易业务资格，标志着部分证券公司已具备开展科创板股票做市交易业务的条件。从全球市场来看，做市也已经成为国际投行最核心的业务之一。不过，做市业务对资本规模、投研水平、风控能力、技术系统等要求较高，券商如果没有深厚的内功，做好“必修课”，想在做市业务上分一杯羹甚至弯道超车并不容易。（证券时报）]]></title>
+            <guid>2831219</guid>
+            <pubDate>Mon, 17 Oct 2022 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉德国4680电池产线建厂受阻，将搬回美国，意在拜登政府的补贴】 10月17日获悉，特斯拉在德国的电池工厂由于当地的环保政策迟迟不能开建，而美国刚出台的《通货膨胀削减法案》，也利好在美国建立电池工厂。此外，德国的近期能源成本攀升并不是特斯拉暂缓德国电池工厂建设的主要原因之一，“因为德国还保留着汽车工厂。”（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1234292.d.html</link>
+            <guid>2831215</guid>
+            <pubDate>Mon, 17 Oct 2022 20:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【四家上市银行披露业绩快报，前三季度归母净利润同比增幅均超20%】 尽管距上市银行正式披露三季报尚有近一周时间，但多份银行三季报业绩快报已亮相。已披露业绩快报的成都银行、常熟银行、苏农银行、杭州银行4家上市银行业绩表现抢眼，前三季度均实现了盈利较快增长、资产质量稳定改善的良好局面。业绩快报显示，在净利润方面，4家银行均较去年同期出现较快增长，归母净利润同比增幅均超20%，分别为31.82%、31.59%、25.24%和20.62%。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp2913851.d.html</link>
@@ -114,46 +130,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1221558.d.html</link>
             <guid>2831129</guid>
             <pubDate>Mon, 17 Oct 2022 14:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克里斯特松当选瑞典新首相】中右翼的温和联合党主席乌尔夫·亚尔马·克里斯特松17日在瑞典议会投票中当选瑞典新首相。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1221386.d.html</link>
-            <guid>2831128</guid>
-            <pubDate>Mon, 17 Oct 2022 14:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷股价上涨8.7%，此前沙特和阿布扎比表达了对投资瑞士信贷的兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqqsmrp2901099.d.html</link>
-            <guid>2831127</guid>
-            <pubDate>Mon, 17 Oct 2022 14:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟外交与安全政策高级代表博雷利表示，准备在伊朗制裁名单上增加更多名字。（财联社）]]></title>
-            <guid>2831126</guid>
-            <pubDate>Mon, 17 Oct 2022 14:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特和阿布扎比表达了对投资瑞士信贷的兴趣，可能通过主权财富基金进行投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqqsmrp2900754.d.html</link>
-            <guid>2831125</guid>
-            <pubDate>Mon, 17 Oct 2022 14:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司称，1月1日至10月15日，天然气产量为3274亿立方米；1月1日至10月15日，俄罗斯对非独联体国家的天然气出口为893亿立方米。（财联社）]]></title>
-            <guid>2831115</guid>
-            <pubDate>Mon, 17 Oct 2022 14:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Cloudflare(NET.N)目标价从85美元下调至65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1219866.d.html</link>
-            <guid>2831114</guid>
-            <pubDate>Mon, 17 Oct 2022 14:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国“天价”天然气令欧洲很受伤】法国总统马克龙日前抱怨美国天然气太贵。法国经济、财政及工业、数字主权部长布鲁诺·勒梅尔12日也呼吁美国天然气“卖便宜点”，以助欧洲国家应对能源短缺危机。除了法国，德国也在抱怨美国给供欧天然气开出“天价”。德国副总理兼经济和气候保护部长罗伯特·哈贝克近日暗指美国等“友好”国家以过高的价格向德国供应天然气，借俄乌冲突发战争财。哈贝克此前表示，因为要从俄罗斯之外的渠道购买天然气，能源成本高于以往，德国今年经济损失将接近600亿欧元，明年损失则可能接近1000亿欧元。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1219796.d.html</link>
-            <guid>2831113</guid>
-            <pubDate>Mon, 17 Oct 2022 14:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
