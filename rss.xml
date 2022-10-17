@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 17 Oct 2022 17:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 18:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【比亚迪携三款电动车型亮相巴黎车展】 10月17日，比亚迪携唐、汉、元PLUS（当地车型名为BYD ATTO 3）三款电动车型亮相巴黎车展。比亚迪全球战略合作伙伴壳牌参与发布会，双方共同宣布将为比亚迪欧洲车主提供更优质的充电体验，包括向车主开放欧洲境内约30万个壳牌充电桩使用权。（中新经纬）]]></title>
+            <guid>2831193</guid>
+            <pubDate>Mon, 17 Oct 2022 18:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩累计确诊霍乱病例89例】当地时间10月17日，黎巴嫩卫生部宣布，在过去48小时内，黎巴嫩新增霍乱确诊病例46例，新增死亡病例1例。黎巴嫩全国累计确诊霍乱病例89例，累计死亡3例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1231163.d.html</link>
+            <guid>2831186</guid>
+            <pubDate>Mon, 17 Oct 2022 18:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【规模效应受追捧，宝马拟将部分MINI电动车产线移至中国】 据《环球时报》援引英国《泰晤士报》消息，宝马集团打算停止在英国牛津工厂生产MINI电动车型，并将该生产线转移到中国。为何宝马要将英国牛津工厂的MINI电动车产线转移至中国？深度科技研究院院长张孝荣接受记者采访时表示，主要原因是中国电动车产业已经出现“规模效应”。北京社科院研究员王鹏向记者表示，宝马MINI电动车的产线转移，体现了我国在全球新能源汽车产业链中的综合实力。（证券时报）]]></title>
+            <guid>2831185</guid>
+            <pubDate>Mon, 17 Oct 2022 18:18:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【卡塔尔世界杯已售出289万张球票，卡塔尔、美国和沙特购买者最多】 国际足联当地时间周一表示，2022年卡塔尔世界杯已售出球票数量接近300万张大关。国际足联世界杯首席运营官科林·史密斯在多哈举行的新闻发布会上说，在迄今售出的289万张球票中，前三大购买国是卡塔尔、美国和沙特阿拉伯。（界面新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1228495.d.html</link>
@@ -171,26 +187,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1216539.d.html</link>
             <guid>2831094</guid>
             <pubDate>Mon, 17 Oct 2022 13:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行(BAC.N)涨近5%，第三季度营收245亿美元，同比增长7%；净利息收入为138亿美元，同比增长24%。]]></title>
-            <guid>2831089</guid>
-            <pubDate>Mon, 17 Oct 2022 13:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月17日21时20分在台湾屏东县海域（北纬21.63度，东经120.97度）发生4.8级地震，震源深度10千米。]]></title>
-            <guid>2831085</guid>
-            <pubDate>Mon, 17 Oct 2022 13:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：Sanergy Group Limited向港交所提交上市申请书。]]></title>
-            <guid>2831083</guid>
-            <pubDate>Mon, 17 Oct 2022 13:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archaea Energy(LFG.N)涨52%，英国石油将斥资近41亿美元收购可再生天然气生产商Archaea Energy。]]></title>
-            <guid>2831082</guid>
-            <pubDate>Mon, 17 Oct 2022 13:34:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
