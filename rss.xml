@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 17 Oct 2022 18:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 19:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国将3座核电站运营时间延长至2023年】德国总理朔尔茨17日正式宣布，将德国剩余3座核电站的运营时间延长至2023年4月15日。朔尔茨已正式向相关部门宣布了这一决定，接下来德国政府将正式启动立法流程，以便伊萨尔二号核电站、内卡韦斯特海姆二号核电站和埃姆斯兰核电站可以在2022年12月31日之后继续运营至2023年4月15日。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp2912086.d.html</link>
+            <guid>2831196</guid>
+            <pubDate>Mon, 17 Oct 2022 19:06:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【比亚迪携三款电动车型亮相巴黎车展】 10月17日，比亚迪携唐、汉、元PLUS（当地车型名为BYD ATTO 3）三款电动车型亮相巴黎车展。比亚迪全球战略合作伙伴壳牌参与发布会，双方共同宣布将为比亚迪欧洲车主提供更优质的充电体验，包括向车主开放欧洲境内约30万个壳牌充电桩使用权。（中新经纬）]]></title>
             <guid>2831193</guid>
@@ -181,12 +187,6 @@
             <title><![CDATA[Roblox(RBLX.N)涨18%，此前预计9月营收为1.71亿至1.8亿美元，且9月的预订量更高。]]></title>
             <guid>2831096</guid>
             <pubDate>Mon, 17 Oct 2022 13:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联泓新科：当前公司EVA产品产销两旺】联泓新科披露调研活动信息公告，随着国内外光伏需求持续放量，将带动组件及EVA等上游核心原材料需求快速增长。同时，由于EVA树脂具有扩产周期长，供给放量节奏慢的特点，行业内对于EVA有望成为未来几年产业链供应最紧张环节之一的预期较为一致。当前公司EVA产品产销两旺，未来较长时间预计EVA都将维持较高景气和良好盈利能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1216539.d.html</link>
-            <guid>2831094</guid>
-            <pubDate>Mon, 17 Oct 2022 13:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
