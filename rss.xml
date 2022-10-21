@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 21 Oct 2022 21:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 22:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苹果美国门店开始卖门锁】苹果公司美国门店正在销售首款大门门锁Level Lock+，售价326美元，用户可以通过Apple Watch或iPhone中的Apple Home Key开锁，他们还可以向亲友发送密钥。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1712958.d.html</link>
+            <guid>2835194</guid>
+            <pubDate>Fri, 21 Oct 2022 22:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄罗斯一周内两次发射军事卫星】当地时间21日，一枚载有“宇宙-2561”航天器的联盟-2.1B运载火箭从普列谢茨克航天发射场成功发射。此前，10月15日夜间，俄罗斯国防部发布公告称，搭载“宇宙-2560”航天器的轻型安加拉-1.2火箭在普列谢茨克航天发射场发射升空。“宇宙-2560”和“宇宙-2561”属于俄罗斯最新一代光学军用卫星。 (央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1709747.d.html</link>
@@ -188,18 +194,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3369937.d.html</link>
             <guid>2834983</guid>
             <pubDate>Fri, 21 Oct 2022 16:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海纳国际：将Snap(SNAP.N)目标价由11美元下调至8美元 维持中性评级】海纳国际分析师Shyam Patil将Snap的目标价从11美元下调至8美元，并维持对该股的中性评级。该分析师表示，该公司继续面临严重的不利因素，包括艰难的宏观环境、竞争加剧和平台变化。这些挑战打压了广告客户需求，导致第三季度营收疲软，预计到第四季度营收将进一步减速。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-21/detail-imqmmthc1700207.d.html</link>
-            <guid>2834976</guid>
-            <pubDate>Fri, 21 Oct 2022 15:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【跳水世界杯：练俊杰/杨昊夺得男双10米台冠军】北京时间10月21日，2022年国际泳联跳水世界杯男双10米台决赛，中国组合练俊杰/杨昊以总分444.84分夺得冠军，帮助中国队收获本届赛事第二枚金牌。德国和哥伦比亚组合分获亚军和季军。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-21/detail-imqmmthc1700191.d.html</link>
-            <guid>2834975</guid>
-            <pubDate>Fri, 21 Oct 2022 15:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
