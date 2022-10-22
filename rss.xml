@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Oct 2022 12:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 13:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【梦天实验舱将于本月发射，中国空间站建造进入收官阶段】按照中国空间站建造计划，梦天实验舱将于本月实施发射，目前，工程各系统正展开各项测试准备工作，确保中国空间站建造任务如期完成。酒泉卫星发射中心正同步开展载人飞船发射和回收任务准备，神舟十五号载人飞行任务已经全面进入准备阶段。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3446361.d.html</link>
+            <guid>2836280</guid>
+            <pubDate>Sat, 22 Oct 2022 13:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【连跌15个月后集体涨价，这一行业迎来转暖信号！】2021年下半年起，面板价格已连续15个月下跌，而今，行业迎来转暖迹象。多家机构研究数据显示，进入10月，部分面板价格降势渐止，其中电视面板更是集体涨价。机构分析认为，随着国内双十一促销节即将来临，叠加海外黑五促销、品牌商备货态度积极等，四季度面板价格有望企稳回升，行业短期望迎结构性回暖，但面板行业的整体上行周期不会马上到来，因当前涨价基础相对薄弱，后续行情仍需观察行业产能利用率、下游家电消费电子市场需求、以及品牌方备货等。（证券时报·e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3444501.d.html</link>
+            <guid>2836274</guid>
+            <pubDate>Sat, 22 Oct 2022 13:13:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【深交所：未向券商、基金进行窗口指导】问：近日，有个别媒体报道“境内交易所窗口指导券商、基金交易”，请问对此有何评论？答：我们关注到相关报道，该消息不属实，深交所未向券商、基金进行窗口指导。深交所坚持“建制度、不干预、零容忍”方针，遵循市场化、法治化原则，严格依法合规履行监管职责，不干预市场正常交易行为，维护市场稳定健康发展。（证券时报·e公司）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1775708.d.html</link>
@@ -311,17 +323,6 @@
             <title><![CDATA[【德意志银行：将Meta Platforms(META.O)目标价从200美元下调至170美元 维持买入评级】在Meta Platforms(META.O)公布第三季度业绩前，德意志银行分析师Benjamin Black将该公司目标价下调至170美元，并保持买入评级。Black在研报中表示，由于宏观经济的担忧，以及正在向短视频平台Reels转换的格式，该股的表现总体上落后于大盘，与新闻动态流功能相比，Reels的货币化程度仍较低。考虑到投资者对持续恶化的广告市场的担忧，以及Meta最近与大盘和同行相比表现不佳，分析师认为第三季度业绩将“好于预期”，应该能在短期内支持该股。]]></title>
             <guid>2835101</guid>
             <pubDate>Fri, 21 Oct 2022 19:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：将Snap(SNAP.N)目标价从22美元下调至17美元 维持跑赢大市评级】在Snap(SNAP.N)公布第三季度业绩后，瑞士信贷分析师Stephen Ju将Snap目标价下调至17美元，并保持跑赢大市评级。Ju在研报中表示，Snap最大的数据更新是围绕第四季度的增长，管理层披露的年增长率约为9%，但预计由于品牌广告客户增长放缓，增速将放缓至0%。从研发角度看，Snap正在进行平台建设，以提供DR增强功能的基本完成，剩下的是一个迭代改进的过程，以夺回因广告主标识符(IDFA)驱动的投资回报率下降而失去的预算份额。]]></title>
-            <guid>2835074</guid>
-            <pubDate>Fri, 21 Oct 2022 19:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将法拉利(RACE.N)目标价从205美元上调至213美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3376600.d.html</link>
-            <guid>2835073</guid>
-            <pubDate>Fri, 21 Oct 2022 19:27:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
