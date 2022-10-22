@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Oct 2022 08:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 09:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【祥明智能：公司有机器人关节电机等新门类电机研发计划】祥明智能在互动平台表示，公司有机器人关节电机等新门类电机的研发计划，目前没有市场应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1759946.d.html</link>
+            <guid>2836263</guid>
+            <pubDate>Sat, 22 Oct 2022 08:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【模拟芯片企业阳晓电子获毅达资本领投近亿元新一轮融资】模拟芯片企业阳晓电子完成近亿元新一轮融资，本轮融资由毅达资本领投。据了解，本轮融资将助力阳晓电子进一步打造和完善工业领域电源链芯片布局。（财联社）]]></title>
             <guid>2836262</guid>
@@ -287,11 +293,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1706870.d.html</link>
             <guid>2835036</guid>
             <pubDate>Fri, 21 Oct 2022 19:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：承诺帮助埃隆-马斯克收购推特(TWTR.N)的银行计划持有支持该交易的全部130亿美元的债务，而不是将其银团化。]]></title>
-            <guid>2835027</guid>
-            <pubDate>Fri, 21 Oct 2022 18:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
