@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Oct 2022 20:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 21:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯发射首颗“球体”项目卫星】据俄罗斯国家航天集团消息，莫斯科时间10月22日22时57分，搭载第一颗“球体”项目卫星的“联盟-2.1b”运载火箭从俄罗斯东方航天发射场顺利升空。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1794877.d.html</link>
+            <guid>2836528</guid>
+            <pubDate>Sat, 22 Oct 2022 20:57:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【武汉新房市场成交不活跃 “降价跑量”渐成主流】武汉楼市成交疲软。武汉市住房保障和房屋管理局发布的数据显示，9月，武汉新建商品住房网签销售7802套，网签销售面积89.49万平方米，环比减少17.18%，同比减少47.56%；在“十一”国庆假期，武汉市商品住宅共成交472套，成交面积总计约5.66万平方米，较2021年同期下滑36%。实际上，今年以来，武汉市已陆续出台多项房地产优化调整政策，以进一步提振房地产市场信心，推动市场库存去化。房企也积极推出打折促销等优惠活动，以期通过“以价换量”，加快销售去化和回笼资金。（每日经济新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3461109.d.html</link>
