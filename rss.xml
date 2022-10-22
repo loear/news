@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Oct 2022 09:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 10:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【指数化投资趋势明显 沪市权益型ETF份额年内增长30%】最新数据显示，截至目前，上证、中证指数境内外产品规模已超1.6万亿元，今年以来沪市权益型ETF份额增长30%，创历史新高，增量资金通过指数产品持续流入市场。科创板指数方面，科创50指数产品份额逆势增长超80%，今年以来资金净流入超270亿元，产品规模突破500亿元；跟踪科创芯片、科创材料指数的ETF相继发行，募集资金约20亿元。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3431912.d.html</link>
+            <guid>2836266</guid>
+            <pubDate>Sat, 22 Oct 2022 09:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【祥明智能：公司有机器人关节电机等新门类电机研发计划】祥明智能在互动平台表示，公司有机器人关节电机等新门类电机的研发计划，目前没有市场应用。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1759946.d.html</link>
@@ -287,12 +293,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1707550.d.html</link>
             <guid>2835061</guid>
             <pubDate>Fri, 21 Oct 2022 19:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[每日优鲜(MF.O)直线拉升，现涨超23%，报1.98美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1706870.d.html</link>
-            <guid>2835036</guid>
-            <pubDate>Fri, 21 Oct 2022 19:02:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
