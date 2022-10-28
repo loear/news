@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 28 Oct 2022 16:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 17:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：推特的数据工程师团队被解雇。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4144596.d.html</link>
+            <guid>2843333</guid>
+            <pubDate>Fri, 28 Oct 2022 17:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Lab(RKLB.O)涨近9%，有望实现七连涨。其他美股太空概念股普涨，Astra Space(ASTR.O)涨近5%，Maxar Technologies(MAXR.N)、波音(BA.N)涨约3.3%，维珍银河(SPCE.N)涨2.19%。]]></title>
+            <guid>2843330</guid>
+            <pubDate>Fri, 28 Oct 2022 17:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至10月28日当周天然气钻井总数 156口，前值157口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2496128.d.html</link>
+            <guid>2843325</guid>
+            <pubDate>Fri, 28 Oct 2022 17:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典第三季度国内生产总值增长2.6%】根据瑞典统计局数据，瑞典第三季度国内生产总值（GDP）环比增长0.7%，同比增长2.6%。9月份，该国GDP环比增长1%。瑞典统计局经济学家马蒂亚斯·凯恩·怀亚特（Mattias Kain Wyatt）表示，“在经历了疲软的8月之后，9月出现反弹。再加上7月的强劲增长，有助于整个季度GDP的上升”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4143445.d.html</link>
+            <guid>2843324</guid>
+            <pubDate>Fri, 28 Oct 2022 16:59:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大丰业银行的资本市场部门裁减亚洲岗位】总部设在多伦多的加拿大丰业银行的资本市场部门在缩减亚洲的工作岗位，并向其他员工提供留任和搬迁方案，因该行将重心放在总部所在地区。该行发言人Heather Armstrong在电邮发送的声明中表示，此举是该行专注于北美和南美举措的一部分，该行亚太区的全球银行和市场部门将专注于分销美洲产品并服务全球客户。但拒绝透露有多少员工受此举影响。该行是加拿大资产规模第三大银行。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2495311.d.html</link>
@@ -252,36 +275,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4133380.d.html</link>
             <guid>2843235</guid>
             <pubDate>Fri, 28 Oct 2022 14:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国最大同位素生产基地正式启动建设】据中核集团官微消息，10月28日，中核秦山同位素生产基地建设项目在浙江海盐正式开工建设。项目建成投产后，将成为中国国内最大的同位素生产基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4132677.d.html</link>
-            <guid>2843229</guid>
-            <pubDate>Fri, 28 Oct 2022 13:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞典新首相克里斯特松首次访问芬兰】瑞典新首相克里斯特松在芬兰进行国事访问。他会见了芬兰总理马林和芬兰总统尼尼斯托。有关国防和安全政策问题，尤其是北约成员资格等议题，是此次会见议程的重点。在当天下午的联合新闻发布会上，马林表示，“我们谈到了双边关系，也讨论了乌克兰局势和能源政策。我们将继续在财政、军事和人道主义上支持乌克兰”。双方还讨论了瑞典和芬兰即将加入北约的问题。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4132358.d.html</link>
-            <guid>2843226</guid>
-            <pubDate>Fri, 28 Oct 2022 13:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：上季度通胀放缓，能源价格下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4132013.d.html</link>
-            <guid>2843223</guid>
-            <pubDate>Fri, 28 Oct 2022 13:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海：电子烟被纳入公共场所禁烟范围，即日起正式实施。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4131304.d.html</link>
-            <guid>2843222</guid>
-            <pubDate>Fri, 28 Oct 2022 13:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西修水：企业新引进人才在修水购买首套房，最高补贴10万元】 10月27日，江西省九江市修水县发布《中共修水县委办公室修水县人民政府办公室关于印发<修水县招商引资项目准入条件和优惠政策（试行）>的通知》，涉及多条优化人才住房支持政策。文件显示，修水县提供“拎包入住”人才公寓。对企业新引进的全日制“双一流”高校本科毕业生，三年内入住人才公寓租金减半。对企业新引进的高层次人才，三年内免费提供人才公寓。发放人才首套购房（契税）补贴。对企业新引进的工作一年以上的博士研究生、硕士研究生、全日制高校本科毕业生和全日制大专（包括高级工班毕业生，下同），在修水购买首套房的，分别给予最高可达10万元、6万元、5万元和3万元购房（交易规费）补贴。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2483450.d.html</link>
-            <guid>2843221</guid>
-            <pubDate>Fri, 28 Oct 2022 13:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
