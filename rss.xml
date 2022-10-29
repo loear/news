@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 29 Oct 2022 04:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 05:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【上海北外滩发展捷报频传，甲级写字楼净吸纳量保持增长】数据显示，截至9月底，北外滩区域甲级写字楼今年净吸纳量持续实现净增长。到2024年，北外滩甲级写字楼存量将在当前约100万平方米的基础上，达到约140万平方米。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4186151.d.html</link>
+            <guid>2844050</guid>
+            <pubDate>Sat, 29 Oct 2022 05:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：一年853人！美国移民死亡人数创纪录】据美国哥伦比亚广播公司(CBS)当地时间28日报道，过去一年中，有至少853名移民在试图非法穿越美墨边境时死亡。这使得2022财年成为美国有记录以来移民死亡人数最多的一年。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4185076.d.html</link>
+            <guid>2844049</guid>
+            <pubDate>Sat, 29 Oct 2022 05:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台发布海上大风黄色预警 部分海域风力可达10级】 中央气象台今天10时发布海上大风黄色预警：预计，受冷空气和台风“尼格”的共同影响，29日午后至30日中午，台湾海峡、巴士海峡、南海东部海域、南海西北部和中西部的偏东海域将有8~9级、阵风10级的大风，其中南海中东部的部分海域风力可达10级、阵风11~12级。（央视新闻）]]></title>
+            <guid>2844048</guid>
+            <pubDate>Sat, 29 Oct 2022 05:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【印有查尔斯肖像硬币正式生产】当地时间27日，首批印有国王查尔斯三世肖像的硬币在英国皇家造币厂正式投入生产，硬币的面值为50便士，约合人民币4元，预计将在12月进入市场流通。据悉，首批生产的50便士硬币正面为查尔斯三世肖像，背面印的是已故女王伊丽莎白二世的纪念标志。目前，英国市面上流通着大约270亿枚印有伊丽莎白二世肖像的硬币，这些硬币仍然可以继续使用，直到逐渐被替换。 （央视财经）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4183448.d.html</link>
@@ -413,16 +430,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4150777.d.html</link>
             <guid>2843390</guid>
             <pubDate>Fri, 28 Oct 2022 21:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国难民署当地时间10月28日警告说，在尼日利亚、乍得、尼日尔、布基纳法索、马里和喀麦隆最近发生破坏性洪水之后，超过340万流离失所者急需援助。与此同时，40年来最严重的干旱使得非洲之角面临饥荒威胁，南苏丹和苏丹连续第四年发生历史性洪水。2022年，整个非洲的极端天气已造成数百人死亡，并迫使数百万人逃离家园。（央视新闻）]]></title>
-            <guid>2843388</guid>
-            <pubDate>Fri, 28 Oct 2022 21:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：10月29日04时22分在秘鲁沿岸近海（南纬14.55度，西经76.35度）发生5.6级地震，震源深度10千米。]]></title>
-            <guid>2843386</guid>
-            <pubDate>Fri, 28 Oct 2022 20:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
