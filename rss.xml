@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 29 Oct 2022 08:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 09:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【乘联会秘书长崔东树：中国汽油消费已达峰-乘用车碳达峰基本实现】乘联会秘书长崔东树发文称，中国汽油消费自2018年达到12644万吨以来呈现高位波动，2020年跌至11620万吨，2021年汽油消费低于2019年和2018年2-3%个百分点，2022年1-8月较2021年同期下降6.4%。根据燃油车保有量发展趋势和新能源增长态势看，国内汽油消费已经达到峰值，也就是乘用车碳达峰已经实现。未来应该稳定燃油车消费，实现汽柴油消费的相对均衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2557181.d.html</link>
+            <guid>2845060</guid>
+            <pubDate>Sat, 29 Oct 2022 09:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【振邦智能：储能业务目前占比较小 未来公司将持续发力】振邦智能10月29日在互动平台回复称，公司的储能业务目前占比较小，储能和逆变器业务是公司的重要战略布局，公司今年围绕这一战略积极开拓市场，稳步推进技术创新与新产品研发，现公司的产品已经获得知名客户认可，并已中标南方电网的锂电池多功能电源箱、PDU项目，未来公司将持续发力，积极采取措施抢抓行业机遇。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2554940.d.html</link>
+            <guid>2844988</guid>
+            <pubDate>Sat, 29 Oct 2022 08:49:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英国政府批准Octopus Energy和Bulb的交易。]]></title>
             <guid>2844811</guid>
@@ -465,18 +477,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2508647.d.html</link>
             <guid>2843417</guid>
             <pubDate>Fri, 28 Oct 2022 23:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第三季度华为占据国内折叠屏手机第一 市场份额45%】IDC最新统计显示，刚过去的三季度，华为以44.9%的份额占据国内折叠屏市场一哥位置。前五名中还有三星、vivo、小米以及荣耀。 据悉，2022年第三季度，中国折叠屏产品出货量超过100万台，同比增幅约246%，创有史以来最大单季出货量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2508597.d.html</link>
-            <guid>2843416</guid>
-            <pubDate>Fri, 28 Oct 2022 23:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东省昨日新增本土确诊病例3例，本土无症状感染者91例】10月28日0时至24时，山东全省报告新增本土确诊病例3例，其中青岛2例，均系重点人员筛查检出；滨州1例，系集中隔离点检出。新增本土无症状感染者91例。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2508565.d.html</link>
-            <guid>2843415</guid>
-            <pubDate>Fri, 28 Oct 2022 23:18:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
