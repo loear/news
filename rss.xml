@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Oct 2022 21:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 22:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【卢拉在2022年巴西总统选举中获胜】当地时间10月30日晚间，巴西总统选举第二轮投票约93%的选票已统计完成。根据巴西高等选举法院的统计结果，巴西权威调查机构“页报数据”表示，劳工党候选人路易斯·伊纳西奥·卢拉·达席尔瓦在大选中获胜。（央视）]]></title>
+            <guid>2847589</guid>
+            <pubDate>Sun, 30 Oct 2022 22:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【无人飞艇搭载5G基站试飞成功 适用应急救援等多个场景】重庆首个搭载5G基站的无人飞艇近日试飞成功。该无人飞艇由重庆移动联合上海交通大学重庆临近空间创新研发中心共同研发，是基于飞艇浮空器的空地一体化5G应急保障系统。该系统通过飞艇搭载5G基站通信设备、应急保障设备、环境监测设备等，联动飞艇与地面两大平台，实现了通信保障、环境监测、高清云瞰、应急救援四项应急保障功能。]]></title>
+            <guid>2847588</guid>
+            <pubDate>Sun, 30 Oct 2022 22:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【航空公司三季报：五家航司共计亏损近169亿元】截至29日晚间，中国国航(601111)、南方航空(600029)、华夏航空(002928)、春秋航空(601021)、吉祥航空(603885)陆续公布了2022年第三季度业绩报告。报告显示，今年第三季度，五家航司营业收入共计579.38亿元。归属于上市公司股东的净利润方面，五家航司延续上半年亏损势头，共计亏损近169亿元。（成都商报）]]></title>
+            <guid>2847587</guid>
+            <pubDate>Sun, 30 Oct 2022 22:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台10月31日06时继续发布台风蓝色预警。]]></title>
+            <guid>2847586</guid>
+            <pubDate>Sun, 30 Oct 2022 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国农担体系累计担保金额已达8597亿元】国家农业信贷担保联盟有限责任公司最新统计数据显示，截至7月底，全国农担体系累计担保金额已达8597亿元，占全国涉农融资担保余额近60%，累计担保项目262万个，平均综合融资成本5.71%，有效地缓解了家庭农场、农民专业合作社等新型农业经营主体“融资难”“融资贵”问题，对粮食等重要农产品的生产、加工、流通形成重点支持，为稳住经济大盘和农业基本盘发挥积极作用。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-31/detail-imqqsmrp4327552.d.html</link>
+            <guid>2847584</guid>
+            <pubDate>Sun, 30 Oct 2022 22:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【让期货更好服务实体经济】当前，我国正致力于加快建设全国统一大市场。期货市场独特的功能和优势，与全国统一大市场“高效规范、公平竞争、充分开放”的建设目标高度契合，理应成为加快建设全国统一大市场的重要抓手。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-31/detail-imqqsmrp4327477.d.html</link>
+            <guid>2847583</guid>
+            <pubDate>Sun, 30 Oct 2022 22:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：近80%的受访者认为美国处于“失控”状态】当地时间10月30日，美国哥伦比亚广播公司一项新的民意调查显示，近80%的美国人将美国目前的事态描述为“失控”。30日公布的调查显示，79%的受访者认为该国的情况“失控”，而21%的受访者认为情况“在控制之中”。此外，当谈到总统拜登时，有56%的受访者不认同他作为总统所做的工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-31/detail-imqqsmrp4327356.d.html</link>
+            <guid>2847582</guid>
+            <pubDate>Sun, 30 Oct 2022 22:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行大额存单利率下调仍供不应求】9月中旬，存款利率下调之后，大额存单利率虽然也相应下调，但受欢迎程度有所提升。“抢购的客户很多，大额存单一直是供不应求状态。”对此，业内人士表示，上半年，权益市场波动较大，投资者风险偏好下行。同时，理财净值化转型后，原有的部分客户暂时无法接受较大的净值波动，甚至“破净”，因此转投大额存单。另外，居民消费意愿和企业投资需求不强，因此更偏好储蓄。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-31/detail-imqmmthc2683659.d.html</link>
+            <guid>2847580</guid>
+            <pubDate>Sun, 30 Oct 2022 21:50:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【向银行理财违规操作说“不” 监管年内开出罚单8829万】8829万元——这是今年以来监管开出的银行罚单中涉及理财业务（包括但不限于）的合计罚款金额。理财业务被罚主体包括银行（即对应理财公司的母行）和银行理财子公司两类。银行理财子公司的被罚事由，通常集中在实际业务的操作层面，大多数是因为违反了产品集中度要求和理财销售管理办法。母行的被罚事由，大多数是因为托管子公司的产品忽略了操作规范性所致。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-31/detail-imqmmthc2681870.d.html</link>
@@ -343,71 +387,6 @@
             <title><![CDATA[【正源股份：子公司投建年产30万立方米超强刨花板项目】正源股份公告，子公司投资建设年产30万立方米超强刨花板项目，项目总投资不超过4.52亿元。]]></title>
             <guid>2847279</guid>
             <pubDate>Sun, 30 Oct 2022 09:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲多国开始实施冬令时】今日起欧洲多国开始实施冬令时。欧洲金融市场的交易时间将较夏令时延后一小时，即从下周一开始，欧洲股市将于北京时间16:00开盘，于次日00:30收盘；欧洲各国经济数据的公布时间也将较夏令时延后一小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2643380.d.html</link>
-            <guid>2847277</guid>
-            <pubDate>Sun, 30 Oct 2022 09:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海新增社会面1例本土无症状感染者，一地列为中风险区。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2643347.d.html</link>
-            <guid>2847276</guid>
-            <pubDate>Sun, 30 Oct 2022 09:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼一化肥运输船起火】据印度尼西亚媒体报道，10月30日早上5时30分，印尼一艘化肥运输船在支里贡（Cilegon）的克拉卡陶（PT Krakatau Bandar Samudera）港口起火。据了解，当时这艘船正在港口装载肥料。目前没有收到人员伤亡的消息。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2643328.d.html</link>
-            <guid>2847275</guid>
-            <pubDate>Sun, 30 Oct 2022 09:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【博众精工：第三季度净利2.17亿元 同比增长120%】博众精工公布2022年第三季度报告，公司实现营业收入16.14亿元，同比增长31.89%；归属于上市公司股东的净利润2.17亿元，同比增长119.59%；归属于上市公司股东的扣除非经常性损益的净利润2.14亿元，同比增长174.85%；基本每股收益0.538元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2643302.d.html</link>
-            <guid>2847274</guid>
-            <pubDate>Sun, 30 Oct 2022 09:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[君实生物：第三季度净亏损6.8亿元，前三季度净亏损15.9亿元；JS015获得药物临床试验批准通知书。]]></title>
-            <guid>2847273</guid>
-            <pubDate>Sun, 30 Oct 2022 08:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[水井坊：第三季度净利润6.85亿元，同比增长9.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqqsmrp4285904.d.html</link>
-            <guid>2847272</guid>
-            <pubDate>Sun, 30 Oct 2022 08:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天合光能：第三季度净利润11.33亿元，同比增长151.43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2642525.d.html</link>
-            <guid>2847271</guid>
-            <pubDate>Sun, 30 Oct 2022 08:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【辽宁锦州黑山县发现4名密接人员核酸检测阳性】辽宁锦州黑山县在对集中隔离场所的密接人员进行核酸检测时，发现4人核酸检测结果阳性，均是10月28日确诊病例孟某某在黑山的密接人员，均于10月28日被判定为此前阳性感染者孟某某的密接人员，全部集中隔离，无社会面接触，已闭环转运至锦州市传染病医院救治。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqqsmrp4285150.d.html</link>
-            <guid>2847270</guid>
-            <pubDate>Sun, 30 Oct 2022 08:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南网储能：前三季度净利同比增加33%】南网储能公告，2022年前三季度营收约63.92亿元，同比增加5.66%；归属于上市公司股东的净利润约13.18亿元，同比增加33.17%。公告同日，公司拟投资建设惠州中洞抽水蓄能电站项目，项目投资总额约83.73亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2641764.d.html</link>
-            <guid>2847269</guid>
-            <pubDate>Sun, 30 Oct 2022 08:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【康隆达：因涉嫌信披违法违规 被证监会立案】康隆达公告，因涉嫌信息披露违法违规，公司及公司董事长张间芳先生收到证监会的《立案告知书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2641559.d.html</link>
-            <guid>2847268</guid>
-            <pubDate>Sun, 30 Oct 2022 08:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【澜起科技：第三季度净利润3.18亿元 同比增长55%】澜起科技披露三季度报告，公司前三季度净利润9.99亿元，同比增长94.94%，其中第三季度净利润3.18亿元，同比增长55.42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqqsmrp4284900.d.html</link>
-            <guid>2847267</guid>
-            <pubDate>Sun, 30 Oct 2022 08:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
