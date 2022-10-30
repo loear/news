@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Oct 2022 13:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 14:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【天源环保：前三季度净利润1.12亿元 同比增7.20%】天源环保公告，公司前三季度实现营收8.15亿元，同比增66.06%；归属于上市公司股东的净利润1.12亿元，同比增7.20%；基本每股收益0.2723元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqqsmrp4308790.d.html</link>
+            <guid>2847426</guid>
+            <pubDate>Sun, 30 Oct 2022 13:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【韩国警方：梨泰院踩踏事故死亡人数升至154人】韩国首尔警察厅通报，截至当天17时30分，在梨泰院踩踏事故中又有一名女性因受伤过重而死亡。截至目前，梨泰院踩踏事故死亡人数已升至154人，其中153人已确认身份。死者中女性有98人，男性有56人， 外籍死者有26人。此前韩国消防部门通报称，有153人在事故中死亡，外籍死者有20人，与警方掌握的信息略有不同。（央视新闻）]]></title>
             <guid>2847388</guid>
@@ -400,23 +406,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2636610.d.html</link>
             <guid>2847229</guid>
             <pubDate>Sun, 30 Oct 2022 07:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长安汽车：第三季度净利润10.42亿元，同比下降17.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqqsmrp4279733.d.html</link>
-            <guid>2847227</guid>
-            <pubDate>Sun, 30 Oct 2022 07:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯暂停参与乌粮食外运倡议 联合协调中心称正在审查事态进展】据央视新闻，当地时间10月29日深夜，黑海港口外运农产品伊斯坦布尔联合协调中心（JCC）发表声明称，已收到联合协调中心俄方代表团有关暂停参与乌粮食外运倡议的说明，联合国“黑海谷物倡议”协调员阿米尔·马哈茂德·阿卜杜拉已提请土耳其和乌克兰代表团注意这一情况。声明称，联合协调中心尚未就10月30日进出港运粮船的移动达成联合协议。联合协调中心正在审查最近的事态发展，评估其对联合协调中心正常运营的影响，并就下一步行动展开讨论。]]></title>
-            <guid>2847222</guid>
-            <pubDate>Sun, 30 Oct 2022 07:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天山铝业：目前有4万吨高纯铝产能在建 预计明年一季度投产】天山铝业在机构调研时表示，公司一期规划建设的6万吨高纯铝产能上半年已全面投产，产品销售情况良好，主要销售给下游生产电极箔的客户，目前仍有4万吨产能在建，预计明年一季度投产，届时总产能将达到10万吨，成为全球领先的高纯铝生产企业。公司同时投入高纯铝合金大板锭生产线，用于向海外客户提供可直接用于下游电子光箔轧制的高纯铝合金大板锭，进一步延伸下游高纯铝产品品类和附加值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-30/detail-imqmmthc2634397.d.html</link>
-            <guid>2847221</guid>
-            <pubDate>Sun, 30 Oct 2022 07:17:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
