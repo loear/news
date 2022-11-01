@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 01 Nov 2022 16:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 17:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大EQ Bank完成4.95亿美元收购Concentra Bank】加拿大EQ Bank的股东Equitable Group声称，已完成对Concentra Bank的收购，交易价值4.95亿美元。Equitable Group表示，收购Concentra后，其管理的资产规模将增加136亿美元，使其成为加拿大按资产计算的第七大独立银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqmmthc2930648.d.html</link>
+            <guid>2850082</guid>
+            <pubDate>Tue, 01 Nov 2022 17:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【土俄外长通电话，讨论粮食走廊问题】 当地时间11月1日，土耳其外交部长恰武什奥卢与俄罗斯外交部长拉夫罗夫通电话，双方讨论了粮食走廊问题。当天稍早些时候，土耳其总统埃尔多安和俄罗斯总统普京通电话，埃尔多安对普京表示，土耳其将继续与各方采取必要举措，解决有关执行黑海港口农产品外运协议的问题。此外，土俄防长也在当天就黑海粮食运输问题进行了通话。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqmmthc2930401.d.html</link>
+            <guid>2850081</guid>
+            <pubDate>Tue, 01 Nov 2022 17:22:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车(TM.N)：10月份美国汽车销量增长27.7%至187,376辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqmmthc2930014.d.html</link>
+            <guid>2850079</guid>
+            <pubDate>Tue, 01 Nov 2022 17:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合协调中心：11月2日黑海粮食倡议下的船只移动将首次中断】 当地时间11月1日，黑海粮食外运联合协调中心联合国秘书处发布声明称，乌克兰、土耳其和联合国代表团同意11月2日将不安排任何船只在黑海粮食倡议下移动。这是黑海粮食外运协议执行以来，联合协调中心首次中断船只移动。声明说，当天联合国和土耳其检查员完成了对36艘从乌克兰出发船只的检查。所有检查报告将与俄罗斯和乌克兰代表团共享。（央视新闻）]]></title>
+            <guid>2850074</guid>
+            <pubDate>Tue, 01 Nov 2022 16:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  斯巴鲁美国10月销量为48568辆，同比增长31.9%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqqsmrp4564634.d.html</link>
@@ -280,48 +303,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4552286.d.html</link>
             <guid>2849980</guid>
             <pubDate>Tue, 01 Nov 2022 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海交通大学张江科学园开园启用，总建筑面积约10万平】2022年11月1日，上海交通大学张江科学园已正式开园启用。科学园毗邻上海同步辐射光源，共有八个建筑单体，总建筑面积约10万平方米。园区地下有着约5000平方米的实验室设备空间，提供电镜中心、质谱中心、核磁中心等技术保障支撑共享平台，全面建设“利于学科交叉”的大平台设施集群。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2915080.d.html</link>
-            <guid>2849978</guid>
-            <pubDate>Tue, 01 Nov 2022 13:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙中国指数上涨7.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2914824.d.html</link>
-            <guid>2849977</guid>
-            <pubDate>Tue, 01 Nov 2022 13:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大10月RBC制造业采购经理人指数 48.8，前值49.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2914475.d.html</link>
-            <guid>2849975</guid>
-            <pubDate>Tue, 01 Nov 2022 13:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多个电子烟品牌今起上调建议零售价：涨幅三成起，终端价待定】据澎湃，电子烟被纳入消费税征收范围，今日起正式执行。11月1日凌晨，不少电子烟零售商守在全国统一电子烟交易管理平台前等待电子烟国标产品的含税批发价和建议零售价的更新。价格更新后信息显示，悦刻、柚子、魔笛、小野、刻米、火器等品牌的烟具及烟弹均出现不同程度的上涨。以受众较为广泛的悦刻为例，其四款烟具批发价涨幅从32.83%至95.3%不等，建议零售价涨幅从33.52%至97.49%不等，四款烟弹也存在不同程度的上涨，涨幅最大的一款烟弹批发价和建议零售价均上涨约82%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4550646.d.html</link>
-            <guid>2849974</guid>
-            <pubDate>Tue, 01 Nov 2022 13:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四部门印发《“十四五”乡村绿化美化行动方案》】国家林草局、农业农村部、自然资源部、国家乡村振兴局研究制定并印发《“十四五”乡村绿化美化行动方案》。方案提出，到2025年，全国平均村庄绿化覆盖率达到32%，乡村“四旁”植树15亿株以上，全面巩固提升国家森林乡村，绿化一批国有林区、国有林场居住点，建设一批具有地方特色的森林乡村、绿美乡村，乡村自然生态得到全面保护，乡村绿化水平明显提高，农村人居环境持续改善。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2913545.d.html</link>
-            <guid>2849973</guid>
-            <pubDate>Tue, 01 Nov 2022 13:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通合科技：股东任献伟计划减持公司不超过2%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2913523.d.html</link>
-            <guid>2849972</guid>
-            <pubDate>Tue, 01 Nov 2022 13:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本首相岸田文雄与德国总统施泰因迈尔举行会谈】据日本时事通讯社当地时间1日消息，日本首相岸田文雄与德国总统施泰因迈尔当天在日本首相官邸举行了会谈。双方表示，将继续对俄罗斯实施制裁，并对乌克兰予以支援。此外，双方将在应对粮食不足和能源价格高涨等问题上进行合作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2913109.d.html</link>
-            <guid>2849970</guid>
-            <pubDate>Tue, 01 Nov 2022 13:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
