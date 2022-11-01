@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 01 Nov 2022 17:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 18:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  马斯克：如果推特Blue账户也涉及垃圾邮件问题，将停止该服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqmmthc2932920.d.html</link>
+            <guid>2850101</guid>
+            <pubDate>Tue, 01 Nov 2022 18:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【工信部等五部门：到2026年我国虚拟现实产业总体规模超3500亿元】 根据工业和信息化部、教育部、文化和旅游部、国家广播电视总局、国家体育总局等五部门联合发布的《虚拟现实与行业应用融合发展行动计划（2022—2026年）》，到2026年，我国虚拟现实产业总体规模（含相关硬件、软件、应用等）超过3500亿元，虚拟现实终端销量超过2500万台，培育100家具有较强创新能力和行业影响力的骨干企业，打造10个具有区域影响力、引领虚拟现实生态发展的集聚区，建成10个产业公共服务平台。在工业生产、文化旅游、融合媒体、教育培训、体育健康、商贸创意、智慧城市等虚拟现实重点应用领域实现突破。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqqsmrp4568998.d.html</link>
+            <guid>2850095</guid>
+            <pubDate>Tue, 01 Nov 2022 18:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西10月贸易盈余39.21亿美元，其中出口272.99亿美元、进口233.78亿美元。]]></title>
+            <guid>2850091</guid>
+            <pubDate>Tue, 01 Nov 2022 18:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+【2022年上半年埃及与阿拉伯国家贸易额增长19.2%】据央视新闻援引埃及媒体当地时间11月1日报道，根据埃及中央公共动员和统计局发布的数据，2022年上半年埃及与阿拉伯国家之间的贸易额增至144亿美元，同比增长19.2%。（央视）]]></title>
+            <guid>2850090</guid>
+            <pubDate>Tue, 01 Nov 2022 18:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推特前CFO：推特的价值应该是数千亿美元】推特(TWTR.N)前首席财务官兼首席运营官Anthony Noto周二在接受采访时表示，马斯克以440亿美元的价格收购推特可能是一笔便宜交易，前提是他可以通过推出新功能和削减成本的方式从该平台中汲取价值。Noto指出，“按照他们认为合适的方式执行真的取决于团队，但鉴于推特拥有如此有价值的内容，我认为推特应该拥有数十亿用户。如果推特能够释放这些价值，公司的价值应该是数千亿美元，而不是数百亿美元。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqqsmrp4567502.d.html</link>
+            <guid>2850085</guid>
+            <pubDate>Tue, 01 Nov 2022 17:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马斯克称推特Blue订阅费用为每个月8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqqsmrp4567478.d.html</link>
+            <guid>2850083</guid>
+            <pubDate>Tue, 01 Nov 2022 17:37:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大EQ Bank完成4.95亿美元收购Concentra Bank】加拿大EQ Bank的股东Equitable Group声称，已完成对Concentra Bank的收购，交易价值4.95亿美元。Equitable Group表示，收购Concentra后，其管理的资产规模将增加136亿美元，使其成为加拿大按资产计算的第七大独立银行。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-02/detail-imqmmthc2930648.d.html</link>
@@ -225,84 +260,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2917478.d.html</link>
             <guid>2850000</guid>
             <pubDate>Tue, 01 Nov 2022 14:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：中美洲海岸发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2917322.d.html</link>
-            <guid>2849997</guid>
-            <pubDate>Tue, 01 Nov 2022 14:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概在线教育股涨幅居前，有道涨9.1%，高途涨8.3%，好未来涨5.1%，新东方涨4.76%。]]></title>
-            <guid>2849994</guid>
-            <pubDate>Tue, 01 Nov 2022 13:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：11月01日21时48分在西藏那曲市尼玛县附近发生4.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2849993</guid>
-            <pubDate>Tue, 01 Nov 2022 13:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHS Markit高级经济学家Siân Jones评美国10月Markit制造业PMI终值：积极的一面是，投入成本增速为近两年来最低，有迹象显示供应链中断减少。然而，投入需求降低是造成这种情况的一个因素。不过，成本上涨放缓反映在产出费用增速放缓上，因企业试图将节省的成本转嫁到可能的地方，以尝试提振销售。]]></title>
-            <guid>2849992</guid>
-            <pubDate>Tue, 01 Nov 2022 13:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内首个脊髓性肌萎缩症全身基因治疗药物研究在上海正式启动】据复旦大学附属儿科医院消息，2022年10月31日，由复旦大学附属儿科医院教授王艺领衔的“一项在1型脊髓性肌萎缩患者中评估静脉注射EXG001-307后的安全性和有效性的多中心、单臂、非随机、开放性临床试验”项目正式启动。目前，国内已上市的脊髓性肌萎缩症（SMA）靶向治疗药物有两种，即反义寡核苷酸药物和小分子药物，基因替代治疗药物尚未在中国上市使用，且价格昂贵。此次，由中国自主研发的EXG001-307是新一代治疗SMA的基因替代治疗药物，有望提供有效、安全且经济的新型治疗药物。这也是国内首个脊髓性肌萎缩症全身基因治疗药物IND（研究性新药）研究。 (澎湃新闻)]]></title>
-            <guid>2849991</guid>
-            <pubDate>Tue, 01 Nov 2022 13:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车美股盘初跳水，现跌超2%，此前曾涨超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2916316.d.html</link>
-            <guid>2849990</guid>
-            <pubDate>Tue, 01 Nov 2022 13:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHS Markit高级经济学家Siân Jones评美国10月Markit制造业PMI终值：10月份PMI数据显示，2022年最后一个季度的开局较为低迷，因为美国制造商的新订单出现了新一轮的大幅下降。由于价格进一步上涨和美元走强，客户更加犹豫，国内外需求减弱。因此，推动最新一轮生产回升的是清理积压工作的措施，而不是新订单的流入。]]></title>
-            <guid>2849988</guid>
-            <pubDate>Tue, 01 Nov 2022 13:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷安高科：持股3.79%的股东白晓亮拟减持不超0.9023%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4553316.d.html</link>
-            <guid>2849987</guid>
-            <pubDate>Tue, 01 Nov 2022 13:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【帝科股份：拟定增募资不超1.86亿元】帝科股份公告，拟定增募资不超1.86亿元，用于年产1000吨导电银浆研发和生产建设项目以及补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4553270.d.html</link>
-            <guid>2849986</guid>
-            <pubDate>Tue, 01 Nov 2022 13:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来盘初一度跌近5%，现跌幅收窄至2%，公司下调全年调整后每股收益指引至7.7-7.85美元。]]></title>
-            <guid>2849984</guid>
-            <pubDate>Tue, 01 Nov 2022 13:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气价格仍比往年同期高出约四倍】尽管近期欧洲天然气价格有所下降，但仍比往年同期高出约四倍。虽然今冬的供应担忧正在缓解，但明年情况可能会变得更加困难，因为如果没有俄罗斯的正常供应，补充库存可能会更具挑战性。凯投宏观首席大宗商品经济学家Caroline Bain表示：“替代燃料将填补这一缺口，但这将是有代价的。”该行预计2023年能源价格总体上将保持在高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4552554.d.html</link>
-            <guid>2849983</guid>
-            <pubDate>Tue, 01 Nov 2022 13:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索尼涨5.5%，公司小幅上调全年销售额指引至11.6万亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4552423.d.html</link>
-            <guid>2849982</guid>
-            <pubDate>Tue, 01 Nov 2022 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首单R4租赁用地建设保障性租赁住房REITs项目获批】据证监会网站消息，11月1日，华夏基金华润有巢租赁住房封闭式基础设施证券投资基金（简称“华润有巢REIT”）正式获批。据悉，这是国内首单R4租赁用地建设的保障性租赁住房REIT，也是首单市场化机构运营的保障性租赁住房REITs项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqmmthc2915364.d.html</link>
-            <guid>2849981</guid>
-            <pubDate>Tue, 01 Nov 2022 13:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股雾芯科技涨9.6%】美股雾芯科技涨9.6%，消息面上，多个电子烟品牌今起上调建议零售价，涨幅三成。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-01/detail-imqqsmrp4552286.d.html</link>
-            <guid>2849980</guid>
-            <pubDate>Tue, 01 Nov 2022 13:37:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
