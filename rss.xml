@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Nov 2022 18:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 19:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加通贝祥：将Twilio(TWLO.N)目标价由153美元降至88美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4972365.d.html</link>
+            <guid>2854388</guid>
+            <pubDate>Fri, 04 Nov 2022 19:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利2022年的赤字目标占GDP的5.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4972186.d.html</link>
+            <guid>2854386</guid>
+            <pubDate>Fri, 04 Nov 2022 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利政府制定了210亿欧元的能源援助预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3348354.d.html</link>
+            <guid>2854385</guid>
+            <pubDate>Fri, 04 Nov 2022 19:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MKM Partners：将康菲石油(COP.N)目标价从128美元上调至141美元。]]></title>
+            <guid>2854380</guid>
+            <pubDate>Fri, 04 Nov 2022 18:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[海纳国际：将康菲石油(COP.N)目标价从145美元上调至156美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3347176.d.html</link>
@@ -258,52 +281,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqmmthc3337195.d.html</link>
             <guid>2854289</guid>
             <pubDate>Fri, 04 Nov 2022 14:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：德国商业银行将向员工支付高达2000欧元的通胀奖金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqmmthc3337013.d.html</link>
-            <guid>2854287</guid>
-            <pubDate>Fri, 04 Nov 2022 14:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  科文：将Twilio(TWLO.N)目标价从100美元下调至65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqqsmrp4960742.d.html</link>
-            <guid>2854286</guid>
-            <pubDate>Fri, 04 Nov 2022 14:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加通贝祥：将维珍银河(SPCE.N)目标价从7美元下调至5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqmmthc3336469.d.html</link>
-            <guid>2854283</guid>
-            <pubDate>Fri, 04 Nov 2022 14:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加通贝祥：将Illumina(ILMN.O)目标价从340美元下调至330美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqqsmrp4960227.d.html</link>
-            <guid>2854282</guid>
-            <pubDate>Fri, 04 Nov 2022 14:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融信中国(03301.HK)：截至二零二二年十月三十一日止十个月，本集团总合约销售额约为人民币55,596,346,711元；本集团总合约建筑面积约为2,362,895平方米；及本集团平均合约售价约为每平方米人民币23,529元。]]></title>
-            <guid>2854281</guid>
-            <pubDate>Fri, 04 Nov 2022 14:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融信中国(03301.HK)：截至二零二二年十月止一个月，本集团总合约销售额约为人民币2,544,095,552元；本集团合约建筑面积约为85,476平方米；及本集团平均合约售价约为每平方米人民币29,764元。]]></title>
-            <guid>2854280</guid>
-            <pubDate>Fri, 04 Nov 2022 14:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利联合圣保罗银行（Intesa）：没有迹象表明意大利正在考虑对银行征税。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqmmthc3336164.d.html</link>
-            <guid>2854277</guid>
-            <pubDate>Fri, 04 Nov 2022 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国将与埃及在液化天然气（LNG）贸易领域合作，以确保清洁能源的供应稳定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-04/detail-imqmmthc3335716.d.html</link>
-            <guid>2854274</guid>
-            <pubDate>Fri, 04 Nov 2022 14:37:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
