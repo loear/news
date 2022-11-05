@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 05 Nov 2022 06:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 07:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩媒：尹锡悦首次就梨泰院踩踏事故公开道歉】据韩联社报道，韩国总统尹锡悦4日在首尔钟路区的曹溪寺出席“梨泰院惨剧遇难者追悼慰灵法会”并致追悼词时表示，作为应对国民的生命安全负责的总统，他深感悲痛和歉疚。这是尹锡悦在梨泰院踩踏事故发生后首次公开道歉。报道称，尹锡悦表示，这种悲伤无以言表，他和韩国政府负有防止此类悲剧重演的重责。政府将全力以赴做好事故的善后处置工作，并悉心照料遇难者家属和受伤人员。（界面）]]></title>
+            <guid>2855383</guid>
+            <pubDate>Sat, 05 Nov 2022 06:41:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中钢协：前三季度钢铁行业利润大幅下滑71%】中钢协副会长骆铁军近日在2022年船企—钢企合作协调对接会上表示，二季度以来钢铁行业运行呈明显下行态势，三季度期间连续三个月全行业出现亏损，前三季度利润大幅下滑71%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5018544.d.html</link>
@@ -359,12 +364,6 @@
             <title><![CDATA[富国银行面临美国消费者金融保护局（CFPB）超过10亿美元创纪录的罚款要求，CFPB此前针对富国银行展开了一系列关于错误对待消费者的调查行动。]]></title>
             <guid>2854715</guid>
             <pubDate>Fri, 04 Nov 2022 21:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行面临美国消费者金融保护局（CFPB）超过10亿美元创纪录的罚款要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4975922.d.html</link>
-            <guid>2854697</guid>
-            <pubDate>Fri, 04 Nov 2022 21:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
