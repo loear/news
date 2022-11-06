@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Nov 2022 03:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 04:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本北海道东部海域发生5.3级地震】据日本广播协会（NHK）报道，当地时间11月6日13时23分左右，日本北海道东部海域发生5.3级地震，最大震感为3，震源深度40公里。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5107955.d.html</link>
+            <guid>2856533</guid>
+            <pubDate>Sun, 06 Nov 2022 04:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中广核苏州院一项联合主导ISO国际标准正式发布】中国广核集团消息，11月2日，经国际标准化组织（ISO）技术管理局（TMB）批准，由苏州热工研究院有限公司联合主导制定的国际标准ISO 24239∶2022《Corrosion control engineering life cycle in fossil fuel power plants-General requirements》正式向全世界发布。这也成为中国广核集团继2020年首次以联合主导身份制定颁布ISO国际标准之后斩获的又一重要科技成果。]]></title>
+            <guid>2856522</guid>
+            <pubDate>Sun, 06 Nov 2022 04:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海乐高乐园度假区方案设计完成，乐园模型首度亮相进博会】 11月6日，广受关注的上海乐高乐园度假区概念设计模型，首次震撼亮相于第五届进博会乐高展台。此次上海乐高乐园度假区概念设计模型的揭幕，也标志着园区方案设计顺利完成，并取得巨大进展，项目开发有序进展中。上海乐高乐园配套商业街将于本月中旬开工建设，通过布局亲子餐饮、新零售、创意展览、文化夜市等业态，实现与上海乐高乐园度假区的“共生共赢”。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqmmthc3483732.d.html</link>
+            <guid>2856504</guid>
+            <pubDate>Sun, 06 Nov 2022 04:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【康菲中国与中国海油合作启动蓬莱油田海上风电示范项目】康菲石油中国有限公司和中国海洋石油有限公司在第五届中国国际进口博览会上宣布，正式启动由双方共同投资的蓬莱油田海上风电示范项目。该项目拟装4台风机，总装机容量为34 兆瓦。在全容量满发并网后，该项目预计可以满足蓬莱油田30%以上的用电需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5104689.d.html</link>
+            <guid>2856480</guid>
+            <pubDate>Sun, 06 Nov 2022 03:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【数字政通受邀参加2022阿里云栖大会并联合成立数字政务创新联盟】据数字政通消息，11月3-5日，以“计算·进化·未来”为主题的2022阿里云栖大会在浙江杭州云栖小镇召开。数字政通受邀参加产业智能技术创新与实践峰会分论坛与政务服务分论坛。在政务服务分论坛上，阿里云联合数字政通、万达信息、数梦工场、南威软件、太极股份、时代凌宇等行业头部合作伙伴，成立“数字政务创新联盟”。]]></title>
+            <guid>2856466</guid>
+            <pubDate>Sun, 06 Nov 2022 03:54:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【宜家中国总裁：面向未来继续投资中国市场】宜家中国总裁兼首席可持续发展官庞安泽日前接受采访时候表示，宜家对中国市场充满信心，并致力于面向未来持续投资中国。庞安泽介绍，中国是宜家最重要市场之一。宜家近年积极推进本土化战略，带来更符合中国消费者习惯和期待的家居产品和零售体验。（新华社）]]></title>
             <guid>2856465</guid>
@@ -454,11 +482,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3442445.d.html</link>
             <guid>2855477</guid>
             <pubDate>Sat, 05 Nov 2022 15:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：所罗门群岛发生5.0级地震。]]></title>
-            <guid>2855465</guid>
-            <pubDate>Sat, 05 Nov 2022 15:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
