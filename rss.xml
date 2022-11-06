@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Nov 2022 10:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 11:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【博济医药与阿斯利康签订战略合作备忘录】第五届中国国际进口博览会期间，博济医药与阿斯利康医药（成都）有限公司正式签订战略合作备忘录。根据备忘录，博济医药将与阿斯利康携手共同致力于打造中医药产业高地，在成都高新区落地布局新型研发转化机构，博济医药将为阿斯利康提供中药研发（包括药学研究、非临床研究、临床研究、注册服务等全流程）等多项服务，推进中药新药研发服务、中药二次开发等事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqmmthc3517036.d.html</link>
+            <guid>2856608</guid>
+            <pubDate>Sun, 06 Nov 2022 10:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合国气候大会在埃及沙姆沙伊赫开幕】《联合国气候变化框架公约》第二十七次缔约方大会（COP27）当地时间11月6日中午在埃及海滨城市沙姆沙伊赫拉开帷幕，来自190多个国家的代表、区域和国际组织的代表及各界人士约4万人将参加此次大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5136752.d.html</link>
+            <guid>2856607</guid>
+            <pubDate>Sun, 06 Nov 2022 10:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国电建在进博会上签下2.2亿美元订单，与施耐德电气达成全新战略合作 】界面新闻消息，11月4日至6日，中国电建组团在第五届中国国际进口博览会上与三家知名跨国公司集中签约2.2亿美元。公司交易团组织电建国际公司、华东院分别与GE、日立能源、施耐德电气等企业进行集中签约，签约金额达2.2亿美元，创历届进博会之最。其中，本次签约与施耐德电气正式达成全新战略合作关系，双方将持续聚焦低碳能源、智慧交通、基础设施等行业。]]></title>
             <guid>2856606</guid>
@@ -477,23 +489,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5087812.d.html</link>
             <guid>2856008</guid>
             <pubDate>Sun, 06 Nov 2022 00:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今起至下周，我国中东部大部地区总体向暖，江南、华南多地或再冲击30℃。（央视新闻）]]></title>
-            <guid>2856007</guid>
-            <pubDate>Sun, 06 Nov 2022 00:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南开启“百日行动”密集推出161场活动促进旅游业复苏】海南省旅游和文化广电体育厅5日在海口启动“疫散云开 重见海南”促进旅游业恢复重振营销推广百日行动(下称“百日行动”)，计划于2022年11月至2023年2月期间推出161场活动，促进海南旅游业复苏。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqmmthc3465840.d.html</link>
-            <guid>2856006</guid>
-            <pubDate>Sun, 06 Nov 2022 00:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京唐、京滨城际铁路正式转入运行试验阶段】据中国铁路北京局集团有限公司消息，日前，京唐城际铁路、京滨城际铁路联调联试工作已顺利结束，两条高铁正式转入运行试验阶段。（天津日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqmmthc3464863.d.html</link>
-            <guid>2856004</guid>
-            <pubDate>Sun, 06 Nov 2022 00:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
