@@ -4,11 +4,73 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 09 Nov 2022 16:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 17:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[大部分FTX法律和合规人员已经辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5570072.d.html</link>
+            <guid>2860987</guid>
+            <pubDate>Wed, 09 Nov 2022 17:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞信下血本发行美元债，超过9%的收益率在投资级债券中异常罕见】瑞士信贷集团正在美国发行一笔债券，其收益率之高，对于一家投资级发行人而言实属罕见。据一位知情人士透露，陷入困境的瑞信正在发行20亿美元11年期固息转浮息债券，初步价格指引较美国国债高512.5个基点。它的华尔街同行花旗集团周三也在发行11年期债券，但利差只有瑞信债券的半数水平。512.5个基点的利差意味着债券收益率将超过9%。知情人士称，这笔债券的认购已于纽约时间上午10:30（北京时间23:00）结束，认购总额52.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5569983.d.html</link>
+            <guid>2860986</guid>
+            <pubDate>Wed, 09 Nov 2022 17:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德意志银行：将Affirm Holdings(AFRM.O)目标价从22美元下调至14美元。]]></title>
+            <guid>2860985</guid>
+            <pubDate>Wed, 09 Nov 2022 17:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华特迪士尼(DIS.N)跌超12%，美股流媒体概念股持续走低，fuboTV(FUBO.N)跌超10%，ROKU(ROKU.O)跌近6%，亚马逊(AMZN.O)、奈飞(NFLX.O)跌约3%。]]></title>
+            <guid>2860981</guid>
+            <pubDate>Wed, 09 Nov 2022 17:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Piper Sandler：将Affirm Holdings(AFRM.O)目标价从28美元降至22美元 维持中性评级】Piper Sandler分析师Kevin Barker在Affirm Holdings(AFRM.O)公布第一财季业绩后，将Affirm的目标价从28美元下调至22美元，并保持对该股的中性评级。Barker在研报中表示，目标价格的下降反映了短期增长的放缓，以及随之而来的总商品成交量长期预期的下降。分析师成，Affirm本季度的业绩较为艰难，由于Peloton的交易量下降拖累了收入，该公司的营收略低于预期。]]></title>
+            <guid>2860980</guid>
+            <pubDate>Wed, 09 Nov 2022 17:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私营软件即服务(SaaS)公司Cvent与Zoom(ZM.O)合作支持多重活动的需求。]]></title>
+            <guid>2860975</guid>
+            <pubDate>Wed, 09 Nov 2022 17:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西警方在该国北部捣毁13万株大麻】巴西警方本月初连续数日在该国北部帕拉州原住民聚居区和一些国有及私人土地上开展行动，共捣毁13万株大麻。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc3960694.d.html</link>
+            <guid>2860969</guid>
+            <pubDate>Wed, 09 Nov 2022 16:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国货运铁路公司工会延长冷静期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5568592.d.html</link>
+            <guid>2860967</guid>
+            <pubDate>Wed, 09 Nov 2022 16:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞士信贷(CS.N)在英国伦敦的杠杆贷款、股票资本市场团队面临裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc3960199.d.html</link>
+            <guid>2860964</guid>
+            <pubDate>Wed, 09 Nov 2022 16:46:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家气候中心：今年我国出现强烈冷冬的可能性不大】国家气候中心预计，今年冬季影响我国的冷空气强度总体偏弱，全国大部地区气温接近常年同期或偏高，这意味着出现强烈冷冬的可能性不大。但气温变化的阶段性特征明显，前冬偏暖，后冬偏冷。2022 年12月至2023年1月中旬，影响我国的冷空气强度较弱，全国大部分地区气温较常年同期偏高；2023年1月下旬至2月，冷空气强度逐渐加强，我国中东部大部地区气温接近常年同期或偏低；东北北部、西北地区东部等地可能出现阶段性强降温、强降雪过程，华中南部和西南地区东南部等地可能发生阶段性低温雨雪冰冻天气；江南大部发生夏秋冬连旱的可能性大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc3960139.d.html</link>
+            <guid>2860961</guid>
+            <pubDate>Wed, 09 Nov 2022 16:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日产汽车警告美国经销商，日产可能会减产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5568240.d.html</link>
+            <guid>2860960</guid>
+            <pubDate>Wed, 09 Nov 2022 16:45:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴西东南部遭受冰雹灾害 大量房屋受损】当地时间11月8日下午，位于巴西东南部的米纳斯吉拉斯州突发冰雹天气，造成该州南部多个城市不同程度受灾。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc3959712.d.html</link>
@@ -74,6 +136,11 @@
             <pubDate>Wed, 09 Nov 2022 15:26:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[【英国最大护士工会宣布大规模罢工】英国皇家护理学院当地时间9日宣布将针对涨薪问题举行罢工。英国皇家护理学院是英国最大的护士工会组织，会员人数多达几十万人，遍及英国全国。此次罢工的主要焦点是护士工会要求涨薪5%，但是资方一直不同意。]]></title>
+            <guid>2860902</guid>
+            <pubDate>Wed, 09 Nov 2022 15:16:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  Evercore ISI：将克罗格(KR.N)评级从与大市同步上调至跑赢大市；目标价从49美元上调至56美元。]]></title>
             <guid>2860897</guid>
             <pubDate>Wed, 09 Nov 2022 15:11:03 GMT</pubDate>
@@ -94,127 +161,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3953188.d.html</link>
             <guid>2860890</guid>
             <pubDate>Wed, 09 Nov 2022 14:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Evercore ISI：将华特迪士尼(DIS.N)目标价从140美元下调至115美元。]]></title>
-            <guid>2860888</guid>
-            <pubDate>Wed, 09 Nov 2022 14:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德意志银行：将柯尔百货(KSS.N)目标价从36美元下调至34美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3952759.d.html</link>
-            <guid>2860884</guid>
-            <pubDate>Wed, 09 Nov 2022 14:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家飓风中心：热带风暴“妮可”正在接近巴哈马西北部的大阿巴科岛。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3952670.d.html</link>
-            <guid>2860883</guid>
-            <pubDate>Wed, 09 Nov 2022 14:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海崇明：第五轮三年行动计划总投资467亿元】上海市崇明区政府今天召开专题会议，研究推进落实《崇明世界级生态岛发展规划纲要（2021-2035年）》和《崇明世界级生态岛建设第五轮三年行动计划（2022-2024年）》。截至2021年底，上海已滚动实施四轮崇明生态岛建设三年行动计划，共组织实施重点项目255个，累计投入资金960亿元，第五轮三年行动计划总投资467亿元。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqqsmrp5560787.d.html</link>
-            <guid>2860881</guid>
-            <pubDate>Wed, 09 Nov 2022 14:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将纳斯达克OMX交易所(NDAQ.O)目标价从67美元上调至70美元。]]></title>
-            <guid>2860879</guid>
-            <pubDate>Wed, 09 Nov 2022 14:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数跌幅扩大至1%，成分股Lucid集团跌超10%表现最差，迈威尔科技跌5.5%，百度和京东跌超5.2%，英伟达跌4.8%，Zoom和AMD也跌约4.0%，特斯拉目前涨1.5%，Meta涨幅扩大至6.5%。]]></title>
-            <guid>2860877</guid>
-            <pubDate>Wed, 09 Nov 2022 14:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德意志银行：将Moderna(MRNA.O)目标价从165美元上调至185美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3951534.d.html</link>
-            <guid>2860876</guid>
-            <pubDate>Wed, 09 Nov 2022 14:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车股全线下跌，Lucid Group(LCID.O)跌超10%，小鹏汽车(XPEV.N)跌超7%，Rivian(RIVN.O)、本田汽车(HMC.N)、蔚来汽车(NIO.N)跌超5%。]]></title>
-            <guid>2860875</guid>
-            <pubDate>Wed, 09 Nov 2022 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞典一座核反应堆发生故障 停止运行】当地时间11月9日，据瑞典电视台报道，由于涡轮机停机，奥斯卡港3号核反应堆于9日上午停止运行。目前尚不清楚修复所需时间。该核电站通信经理表示，故障排除正在进行中。奥斯卡港3号核反应堆发电量为1400兆瓦，是瑞典最大的电力生产商。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3951372.d.html</link>
-            <guid>2860874</guid>
-            <pubDate>Wed, 09 Nov 2022 14:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线(AMC.N)跌5%，Q3净亏损2.27亿美元，高于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3951258.d.html</link>
-            <guid>2860873</guid>
-            <pubDate>Wed, 09 Nov 2022 14:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股行业ETF周三开盘全线下挫，能源业ETF下跌1.9%领跌，科技行业ETF下跌1.16%，可选消费ETF下跌1.15%，银行业ETF下跌1.12%；跌幅最小的日用消费ETF、公用事业ETF以及医疗业ETF分别下跌0.17%、0.17%和0.24%。]]></title>
-            <guid>2860872</guid>
-            <pubDate>Wed, 09 Nov 2022 14:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roblox美股盘初跌11%，创最近一个月最大盘中跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3951069.d.html</link>
-            <guid>2860870</guid>
-            <pubDate>Wed, 09 Nov 2022 14:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucid Group(LCID.O)跌10%，Q3净营收1.95亿美元，不及市场预期，净亏损扩大至6.7亿美元。]]></title>
-            <guid>2860869</guid>
-            <pubDate>Wed, 09 Nov 2022 14:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华特迪士尼(DIS.N)跌9%，2022财年Q4营收201.5亿美元，不及市场预期。]]></title>
-            <guid>2860868</guid>
-            <pubDate>Wed, 09 Nov 2022 14:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Affirm Holdings(AFRM.O)跌17%，公司预计2023财年营收16-16.8亿美元，不及市场预期。]]></title>
-            <guid>2860867</guid>
-            <pubDate>Wed, 09 Nov 2022 14:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upstart(UPST.O)跌23%，Q3营收同比下降31%至1.57亿美元；净亏损5620万美元，同比盈转亏。]]></title>
-            <guid>2860866</guid>
-            <pubDate>Wed, 09 Nov 2022 14:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙指数跌超4%，热门中概股普跌，小鹏汽车(XPEV.N)跌超9%，哔哩哔哩(BILI.O)、蔚来汽车(NIO.N)跌超8%，理想汽车(LI.O)跌7%，百度(BIDU.O)跌超6%。]]></title>
-            <guid>2860864</guid>
-            <pubDate>Wed, 09 Nov 2022 14:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币市场震荡，Coinbase开盘下跌9％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqmmthc3950848.d.html</link>
-            <guid>2860863</guid>
-            <pubDate>Wed, 09 Nov 2022 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰和罗马尼亚将恢复铁路运行】乌克兰媒体当地时间9日报道称，乌克兰和罗马尼亚正在恢复两国边境的铁路运营。乌克兰国家铁路公司已经完成了首次测试。预计乌克兰和罗马尼亚边境 的快车将于12月初开通。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqqsmrp5558698.d.html</link>
-            <guid>2860861</guid>
-            <pubDate>Wed, 09 Nov 2022 14:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【币安首席执行官赵长鹏：未对收购FTX作总体规划 此次救助行为并非一场胜利】Binance首席执行官赵长鹏在给员工的一份报告中称，即将崩溃的FTX严重动摇了人们对加密货币行业的信心，并将引发监管机构更严格的审查。此次救助巩固了币安作为全球最大加密货币交易平台的地位，但并非一场胜利。赵长鹏表示，监管机构将对交易所进行更严格的审查。全球范围内的牌照将更难获得。 此外，赵长鹏表示，我们并没有对此事或任何相关事宜进行总体规划。不到24小时前，SBF打电话给我。在此之前，我对FTX的内部情况知之甚少。我可以用我们的收入做一些心算来猜测他们的收入，但这永远不会非常准确。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqqsmrp5558470.d.html</link>
-            <guid>2860859</guid>
-            <pubDate>Wed, 09 Nov 2022 14:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏昆山发布元宇宙产业创新发展行动计划 到2025年“元宇宙”产业规模将达到1000亿元】根据最新出炉的《昆山市元宇宙产业创新发展行动计划（2022～2025）》，昆山将以夯实底层技术支撑能力、提升软硬件产品供给、推动元宇宙应用赋能作为三大发展重点，实施龙头企业培育、产业载体建设、数字基建构筑、产业品牌塑造、产业生态完善“五大工程”，到2025年“元宇宙”相关产业规模达到1000亿元。]]></title>
-            <guid>2860858</guid>
-            <pubDate>Wed, 09 Nov 2022 14:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉利旗下皮卡品牌雷达将在适当时间进行IPO】11月9日，吉利汽车(00175.HK)旗下纯电动皮卡品牌雷达汽车明年将进入海外市场，并会选择合适的时间进行IPO。对此，雷达汽车CFO王达学表示，目前新能源商用车渗透率远低于乘用车，投融资有更大的想象空间，“雷达汽车确有上市计划。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-09/detail-imqqsmrp5558043.d.html</link>
-            <guid>2860857</guid>
-            <pubDate>Wed, 09 Nov 2022 14:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
