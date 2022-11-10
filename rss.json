@@ -6,6 +6,33 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2862880,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4099649.d.html",
+            "title": "  沙特石油大臣：沙特将打造碳捕捉中心。",
+            "date_modified": "2022-11-10T19:15:42.000Z"
+        },
+        {
+            "id": 2862863,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5703106.d.html",
+            "title": "市场消息：加密货币交易平台Coinbase正在进一步裁员。",
+            "date_modified": "2022-11-10T18:58:45.000Z"
+        },
+        {
+            "id": 2862858,
+            "content_html": "",
+            "title": "  花旗：将普拉格能源(PLUG.O)目标价从28美元下调至20美元，并保持对该股的买入评级。分析师P.J. Juvekar在该公司公布第三季度绩后，由于毛利率假设下降，降低了对其第四季度和2023年的盈利预测。",
+            "date_modified": "2022-11-10T18:48:50.000Z"
+        },
+        {
+            "id": 2862846,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4098768.d.html",
+            "title": "  AMD发布新款Genoa服务器芯片，以期从英特尔夺取更多市场份额。",
+            "date_modified": "2022-11-10T18:43:17.000Z"
+        },
+        {
             "id": 2862816,
             "content_html": "",
             "title": "  甲骨文(ORCL.N)：Oracle云将使用AMD(AMD.O)第4代EPYC芯片。",
@@ -30,12 +57,6 @@
             "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4098069.d.html",
             "title": "  AMD(AMD.O)推出第四代数据中心CPU EPYC。",
             "date_modified": "2022-11-10T18:12:42.000Z"
-        },
-        {
-            "id": 2862798,
-            "content_html": "",
-            "title": "  市场消息：Spotify(SPOT.N)和谷歌(GOOG.O、GOOGL.O)开始推出供用户选择的计费方式。",
-            "date_modified": "2022-11-10T18:07:24.000Z"
         },
         {
             "id": 2862786,
@@ -215,27 +236,6 @@
             "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5695314.d.html",
             "title": "  市场消息：阿斯麦(ASML.O)计划回购高达120亿欧元的股份。",
             "date_modified": "2022-11-10T15:35:20.000Z"
-        },
-        {
-            "id": 2862710,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5695296.d.html",
-            "title": "市场消息：FTX使用了客户账户资金来为其风险对赌投资提供资金。",
-            "date_modified": "2022-11-10T15:35:02.000Z"
-        },
-        {
-            "id": 2862708,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090898.d.html",
-            "title": "市场消息：FTX首席执行官本周向一位投资者表示，FTX的姊妹交易公司Alameda欠FTX约100亿美元。",
-            "date_modified": "2022-11-10T15:31:38.000Z"
-        },
-        {
-            "id": 2862704,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090703.d.html",
-            "title": "  杰富瑞：将Unity Software(U.N)目标价从36美元下调至19美元。",
-            "date_modified": "2022-11-10T15:29:12.000Z"
         }
     ]
 }

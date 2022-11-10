@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 10 Nov 2022 18:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 19:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  沙特石油大臣：沙特将打造碳捕捉中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4099649.d.html</link>
+            <guid>2862880</guid>
+            <pubDate>Thu, 10 Nov 2022 19:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加密货币交易平台Coinbase正在进一步裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5703106.d.html</link>
+            <guid>2862863</guid>
+            <pubDate>Thu, 10 Nov 2022 18:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将普拉格能源(PLUG.O)目标价从28美元下调至20美元，并保持对该股的买入评级。分析师P.J. Juvekar在该公司公布第三季度绩后，由于毛利率假设下降，降低了对其第四季度和2023年的盈利预测。]]></title>
+            <guid>2862858</guid>
+            <pubDate>Thu, 10 Nov 2022 18:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMD发布新款Genoa服务器芯片，以期从英特尔夺取更多市场份额。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4098768.d.html</link>
+            <guid>2862846</guid>
+            <pubDate>Thu, 10 Nov 2022 18:43:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  甲骨文(ORCL.N)：Oracle云将使用AMD(AMD.O)第4代EPYC芯片。]]></title>
             <guid>2862816</guid>
@@ -30,11 +53,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4098069.d.html</link>
             <guid>2862806</guid>
             <pubDate>Thu, 10 Nov 2022 18:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Spotify(SPOT.N)和谷歌(GOOG.O、GOOGL.O)开始推出供用户选择的计费方式。]]></title>
-            <guid>2862798</guid>
-            <pubDate>Thu, 10 Nov 2022 18:07:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  美国联邦贸易委员会（FTC）：正在跟踪推特的动向，并对此“感到担忧”。已经对推特下达“隐私许可”指令。准备好动用措施来确保推特合规。]]></title>
@@ -189,24 +207,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5695314.d.html</link>
             <guid>2862711</guid>
             <pubDate>Thu, 10 Nov 2022 15:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：FTX使用了客户账户资金来为其风险对赌投资提供资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5695296.d.html</link>
-            <guid>2862710</guid>
-            <pubDate>Thu, 10 Nov 2022 15:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：FTX首席执行官本周向一位投资者表示，FTX的姊妹交易公司Alameda欠FTX约100亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090898.d.html</link>
-            <guid>2862708</guid>
-            <pubDate>Thu, 10 Nov 2022 15:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  杰富瑞：将Unity Software(U.N)目标价从36美元下调至19美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090703.d.html</link>
-            <guid>2862704</guid>
-            <pubDate>Thu, 10 Nov 2022 15:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
