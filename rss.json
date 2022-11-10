@@ -6,6 +6,86 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2862816,
+            "content_html": "",
+            "title": "  甲骨文(ORCL.N)：Oracle云将使用AMD(AMD.O)第4代EPYC芯片。",
+            "date_modified": "2022-11-10T18:21:18.000Z"
+        },
+        {
+            "id": 2862812,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5702086.d.html",
+            "title": "  AMD(AMD.O)小幅走高，现涨幅扩大至13.4%。",
+            "date_modified": "2022-11-10T18:17:17.000Z"
+        },
+        {
+            "id": 2862811,
+            "content_html": "",
+            "title": "  微软(MSFT.O)：Azure将采用AMD(AMD.O)的第4代EPYC芯片进行云计算。",
+            "date_modified": "2022-11-10T18:17:11.000Z"
+        },
+        {
+            "id": 2862806,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4098069.d.html",
+            "title": "  AMD(AMD.O)推出第四代数据中心CPU EPYC。",
+            "date_modified": "2022-11-10T18:12:42.000Z"
+        },
+        {
+            "id": 2862798,
+            "content_html": "",
+            "title": "  市场消息：Spotify(SPOT.N)和谷歌(GOOG.O、GOOGL.O)开始推出供用户选择的计费方式。",
+            "date_modified": "2022-11-10T18:07:24.000Z"
+        },
+        {
+            "id": 2862786,
+            "content_html": "",
+            "title": "  美国联邦贸易委员会（FTC）：正在跟踪推特的动向，并对此“感到担忧”。已经对推特下达“隐私许可”指令。准备好动用措施来确保推特合规。",
+            "date_modified": "2022-11-10T17:53:57.000Z"
+        },
+        {
+            "id": 2862785,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4097505.d.html",
+            "title": "\n【美国佛罗里达州州长宣布该州所有县进入紧急状态】当地时间11月10日，美国佛罗里达州州长罗恩·德桑蒂斯在新闻发布会上宣布，将佛州的紧急状态警告范围扩大到该州所有县，称这是“不确定”热带风暴“妮科尔”的破坏程度，出于谨慎所做的决定。（央视）",
+            "date_modified": "2022-11-10T17:53:41.000Z"
+        },
+        {
+            "id": 2862784,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5701374.d.html",
+            "title": "【市场消息：FTX首席执行官制定94亿美元的一揽子救助计划】一位知情人士周四表示，加密货币交易所FTX首席执行官Sam Bankman-Fried为了拯救陷入困境的公司，正积极向同行寻求援助，包括加密代币Tron创始人Justin Sun、加密货币交易所OKX、加密货币公司Tether，以及一个投资基金财团。为此，他制定了总额达94亿美元的一揽子救助计划。该消息人士补充称，他还将向其他投资者求助。与FTX谈判的投资者之一是Daniel Loeb的对冲基金Third Point。该消息人士还称，Fried的救助计划迄今进展甚微。但他拒绝申请破产，并拒绝任命重组顾问。",
+            "date_modified": "2022-11-10T17:51:45.000Z"
+        },
+        {
+            "id": 2862780,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4097021.d.html",
+            "title": "  【广西贵港启动西江黄金水道通航突发事件Ⅲ级（较大）应急响应】 广西贵港市西江黄金水道通航突发事件应急指挥部表示，从2022年11月8日起，桂平船闸上下游滞航船舶总数每日均超过400艘，该状况已持续超过48小时。根据《贵港市西江黄金水道通航突发事件应急预案》相关规定，符合启动Ⅲ级（较大）应急响应的条件。经研究，决定启动贵港市西江黄金水道通航突发事件Ⅲ级（较大）应急响应。自2022年11月11日零时起执行。（央视）",
+            "date_modified": "2022-11-10T17:36:41.000Z"
+        },
+        {
+            "id": 2862779,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4096977.d.html",
+            "title": "  【景顺光伏ETF涨10%，太阳能类股全线上涨，美国加州屋顶光伏补贴退坡计划软化立场】景顺（Invesco）光伏ETF（TAN）涨幅扩大至约10%，创7月28日以来最大盘中涨幅。低碳SMOG涨超6.3%，清洁能源PBW涨9.2%。美股太阳能类股全面上涨，FTC光伏涨17.2%涨幅突出，SunPower涨16.3%，ReneSola涨13.1%，SolarEdge科技涨12.3%，Azure涨11.0%，MAXN涨9.5%，Shoals科技涨9.3%，晶科能源涨8.8%，iSun涨7.9%，Array科技涨6.1%，阿特斯太阳能涨5.9%，大全新能源涨4.3%，第一太阳能涨4.1%表现相对逊色。",
+            "date_modified": "2022-11-10T17:35:45.000Z"
+        },
+        {
+            "id": 2862776,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5700551.d.html",
+            "title": "【乌克兰总统泽连斯基与加拿大总理特鲁多通电话】当地时间11月10日，乌克兰总统泽连斯基与加拿大总理特鲁多通电话。双方讨论了扩大对乌克兰的国防支持以及继续执行黑海港口农产品外运协议的重要性。（央视）",
+            "date_modified": "2022-11-10T17:30:08.000Z"
+        },
+        {
+            "id": 2862775,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4096576.d.html",
+            "title": "市场消息：马斯克表示，未来几个月将取消传统的蓝V用户“验证”。",
+            "date_modified": "2022-11-10T17:29:43.000Z"
+        },
+        {
             "id": 2862774,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4096224.d.html",
@@ -156,44 +236,6 @@
             "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090703.d.html",
             "title": "  杰富瑞：将Unity Software(U.N)目标价从36美元下调至19美元。",
             "date_modified": "2022-11-10T15:29:12.000Z"
-        },
-        {
-            "id": 2862697,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqqsmrp5694619.d.html",
-            "title": "  【京东11.11活动开场仅1分钟Apple成交额破10亿元】“京东黑板报”微信公众号消息，11月10日晚8点，京东11.11开场仅1分钟，Apple成交额即破10亿元；开场5分钟，家电商品售出超百万件；开场10分钟，XR眼镜成交额同比增长超3倍，SK-II、雅诗兰黛、科颜氏、欧莱雅、欧舒丹等87个美妆国际大牌同比增长超200%；汽车轮胎品类服务订单量增长188%。",
-            "date_modified": "2022-11-10T15:25:11.000Z"
-        },
-        {
-            "id": 2862696,
-            "content_html": "",
-            "title": "  【中交集团与中国华电签署战略合作协议】11月10日，中交集团与中国华电集团有限公司在北京举行战略合作框架协议签约仪式。双方将在新能源开发、煤炭基础设施、国际业务等领域积极探讨并适时开展多方位、深层次合作。",
-            "date_modified": "2022-11-10T15:24:42.000Z"
-        },
-        {
-            "id": 2862695,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-10/detail-imqmmthc4090410.d.html",
-            "title": "  Amplify线上零售ETF（IBUY）上涨11%，创历史上最大盘中涨幅。",
-            "date_modified": "2022-11-10T15:24:25.000Z"
-        },
-        {
-            "id": 2862691,
-            "content_html": "",
-            "title": "美国国家飓风中心：热带风暴“妮可”目前位于佛罗里达州奥兰多东南约60英里处，最大风速70英里/小时。",
-            "date_modified": "2022-11-10T15:12:46.000Z"
-        },
-        {
-            "id": 2862675,
-            "content_html": "",
-            "title": "市场消息：监管机构希望FTX日本停止加密资产交换业务，并在2022年12月9日之前停止接受新客户。",
-            "date_modified": "2022-11-10T14:56:45.000Z"
-        },
-        {
-            "id": 2862674,
-            "content_html": "",
-            "title": "国内半导体设备公司：未收到中芯国际暂停采购相关消息。（中证报）",
-            "date_modified": "2022-11-10T14:56:14.000Z"
         }
     ]
 }
