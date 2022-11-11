@@ -6,6 +6,34 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2863950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5841144.d.html",
+            "title": "安永会计师事务所2021年审计结果表明推特的安全性适当。",
+            "date_modified": "2022-11-11T17:26:11.000Z"
+        },
+        {
+            "id": 2863942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5840226.d.html",
+            "title": "德意志银行：将沃尔玛(WMT.N)目标价从162美元下调至161美元。",
+            "date_modified": "2022-11-11T17:03:32.000Z"
+        },
+        {
+            "id": 2863935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4238774.d.html",
+            "title": "【美股航空航天与国防股大跌】美股航空航天与国防股大跌，维珍银河跌6%，洛克希德马丁、雷神跌3%。",
+            "date_modified": "2022-11-11T16:49:15.000Z"
+        },
+        {
+            "id": 2863930,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4238394.d.html",
+            "title": "【Piper Sandler：维持英伟达(NVDA.O)增持评级 目标价200美元】Piper Sandler分析师Harsh Kumar看好英伟达下周的财报，他认为明年1月当季（第四财季）业绩指引将显示数据中心业务恢复增长。此外，Kumar在研报中表示，游戏业务中绝大多数的GPU库存过剩将在截至10月的第三财季前清除，第四财季可能会有一些库存留在销售渠道中。他认为，鉴于经济衰退的阻力，英伟达的增长率将放缓，但仍预计2024财年的增长率将在20%左右。Kumar对该股保持增持评级，目标价为200美元。",
+            "date_modified": "2022-11-11T16:39:33.000Z"
+        },
+        {
             "id": 2863920,
             "content_html": "",
             "title": "美股SaaS概念股普涨，Shopify(SHOP.N)涨近8%，C3.ai(AI.N)、CrowdStrike(CRWD.O)涨超5%，Zoom(ZM.O)涨超4%。",
@@ -218,92 +246,6 @@
             "content_html": "",
             "title": "美股行业ETF周五开盘涨跌互现，其中能源业ETF上涨2.06%领跑，全球航空业ETF涨1.03%，金融业ETF涨0.6%，银行业ETF与全球科技股ETF涨0.45%。而生物科技指数ETF下跌0.6%表现垫底，医疗业ETF与公用事业ETF同样有约0.4%的跌幅。",
             "date_modified": "2022-11-11T14:35:14.000Z"
-        },
-        {
-            "id": 2863850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5829971.d.html",
-            "title": "波音：预计未来20年东南亚需要4200架商用飞机。",
-            "date_modified": "2022-11-11T14:34:50.000Z"
-        },
-        {
-            "id": 2863845,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4228833.d.html",
-            "title": "塞浦路斯证券交易委员会：塞浦路斯监管机构要求FTX从11月9日暂停在欧盟的运营。",
-            "date_modified": "2022-11-11T14:30:28.000Z"
-        },
-        {
-            "id": 2863843,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5829415.d.html",
-            "title": "【众泰汽车：收到浙江证监局警示函】众泰汽车公告，公司收到浙江证监局印发的《关于对众泰汽车股份有限公司及相关人员采取出具警示函措施的决定》。公司董事长黄继宏、总经理连刚、董事会秘书杨海峰对未及时披露澄清公告负有主要责任，董事会秘书杨海峰对未准确答复公司重整进展负有主要责任。浙江证监局决定对公司、黄继宏、连刚、杨海峰分别采取出具警示函的监督管理措施，并记入证券期货市场诚信档案。",
-            "date_modified": "2022-11-11T14:29:29.000Z"
-        },
-        {
-            "id": 2863842,
-            "content_html": "",
-            "title": "波场创始人孙宇晨：FTX作为一个完整功能的加密交易所品牌，价值5亿至10亿美元，这还不包括庞大的客户群。",
-            "date_modified": "2022-11-11T14:29:13.000Z"
-        },
-        {
-            "id": 2863841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4228667.d.html",
-            "title": "美元指数DXY短线走高20点，现报106.99。",
-            "date_modified": "2022-11-11T14:28:51.000Z"
-        },
-        {
-            "id": 2863840,
-            "content_html": "",
-            "title": "FTX首席执行官Ray：根据破产法第11章申请破产保护，是制定下一步计划的必要步骤。",
-            "date_modified": "2022-11-11T14:28:42.000Z"
-        },
-        {
-            "id": 2863839,
-            "content_html": "",
-            "title": "FTX首席执行官Ray：将在ALVAREZ、SULLIVAN与CROMWELL的协助下重组公司。",
-            "date_modified": "2022-11-11T14:28:30.000Z"
-        },
-        {
-            "id": 2863838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5829123.d.html",
-            "title": "美股期货短线下挫，纳指期货转跌。",
-            "date_modified": "2022-11-11T14:25:52.000Z"
-        },
-        {
-            "id": 2863833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqmmthc4227404.d.html",
-            "title": "【雅化集团：目前国锂产线正常运行】雅化集团在互动平台表示，目前国锂产线正常运行，对部分设备进行了更换升级，能有效提升产线利用率。",
-            "date_modified": "2022-11-11T14:16:04.000Z"
-        },
-        {
-            "id": 2863832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5828212.d.html",
-            "title": "肯尼亚总统：政府不会以超过10%的利率借入任何资金。",
-            "date_modified": "2022-11-11T14:15:51.000Z"
-        },
-        {
-            "id": 2863830,
-            "content_html": "",
-            "title": "印度政府数据显示，截至11月10日，印度政府今年征收的直接税同比增长31%，达到10.5万亿卢比。",
-            "date_modified": "2022-11-11T14:13:58.000Z"
-        },
-        {
-            "id": 2863829,
-            "content_html": "",
-            "title": "波场创始人孙宇晨：（当被问及FTX的事情时）目前我们只是在收集信息，不想进一步承诺任何事情。",
-            "date_modified": "2022-11-11T14:13:49.000Z"
-        },
-        {
-            "id": 2863828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-11/detail-imqqsmrp5827547.d.html",
-            "title": "【复星医药：出售BioNTech SE109万股普通股】复星国际(00656.HK)发公告，2022年3月14日至2022年11月10日（含首尾两日），控股子公司复星实业（香港）有限公司通过二级市场竞价交易累计出售BioNTech SE(BNTX.O)109万股普通股，出售金额（扣除交易费用等后）共计1.79亿美元。",
-            "date_modified": "2022-11-11T14:10:05.000Z"
         }
     ]
 }
