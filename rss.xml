@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 12 Nov 2022 03:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 04:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【郑州富士康：IDPBG事业群新入职员工新增稳岗津贴 不享有在职老员工出勤补贴及全勤奖励】记者从多位郑州富士康合作劳务处获悉，近期以派遣小时工入职的员工，进入车间前（含报到当天）按照100元/天计算补贴或薪酬，进入车间正式出勤后则按照30元/时计薪。11月13日至11月19日报到的员工，在职满30天额外享有3000元稳岗津贴，11月20日-11月26日报到的员工，在职满30天额外享有2000元稳岗津贴。新入职员工不享有在职老员工出勤补贴及全勤奖励。此前IDPBG事业群公布自11月1日至30日，IDPBG郑州厂区正常出勤的全体员工出勤补贴调整至400元/天，全勤奖最高能拿5000元。（财联社）]]></title>
+            <guid>2864585</guid>
+            <pubDate>Sat, 12 Nov 2022 04:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【祝贺！中国航天创造世界纪录】刚刚，天舟五号货运飞船入轨后顺利完成状态设置，采取自主快速交会对接模式，成功对接于空间站天和核心舱后向端口，中国航天员首次在空间站迎接快递员来访！交会对接完成后，天舟五号将转入组合体飞行段。此次任务中，首次实现两小时自主快速交会对接，创造了世界纪录。这一技术突破对于提升我国空间交会对接水平，提升空间站任务应急物资补给能力具有重要意义。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4283468.d.html</link>
+            <guid>2864584</guid>
+            <pubDate>Sat, 12 Nov 2022 04:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天舟五号成功对接空间站组合体】天舟五号货运飞船与空间站组合体完成自主快速交会对接。中国航天员首次在空间站迎接货运飞船来访。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4282567.d.html</link>
+            <guid>2864583</guid>
+            <pubDate>Sat, 12 Nov 2022 04:12:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国航天新纪录！西昌卫星发射中心完成第200次发射任务】我国12日上午在海南文昌成功发射天舟五号货运飞船，至此，西昌卫星发射中心完成的发射任务次数达到200次，成为我国首个完成200次发射的航天发射中心，创造了中国航天史上新的纪录。（新华社）]]></title>
             <guid>2864579</guid>
@@ -342,16 +359,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4247811.d.html</link>
             <guid>2864033</guid>
             <pubDate>Fri, 11 Nov 2022 21:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字资产上市公司Token.com宣称，公司对FTX及其关联公司Alameda Research均不存在风险敞口。]]></title>
-            <guid>2864032</guid>
-            <pubDate>Fri, 11 Nov 2022 21:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voyager Digital评估若干选项，以应对数字资产交易平台FTX在美国启动破产程序。]]></title>
-            <guid>2864029</guid>
-            <pubDate>Fri, 11 Nov 2022 21:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
