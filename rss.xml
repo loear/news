@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 12 Nov 2022 06:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 07:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：斐济地区发生6.7级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5897819.d.html</link>
+            <guid>2864609</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FTX美国总法律顾问莱恩·米勒：FTX美国和FTX.com在破产申请后将所有数字资产转移到钱包冷储存。]]></title>
+            <guid>2864608</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【山西省冬小麦播种超额完成任务】据山西省农业农村厅消息，截至目前，山西省冬小麦播种面积已完成约825万亩，播种进度超过102%，超额完成播种任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5895932.d.html</link>
+            <guid>2864606</guid>
+            <pubDate>Sat, 12 Nov 2022 06:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国空间站未来将形成“三舱三船”构型】天舟五号今日完成了与空间站组合体的交会对接，为我们的“太空之家”送去了新的物资补给。再过不久，神舟十五号载人飞船也将发射，将有3名航天员进驻中国空间站。届时，神舟十五号将会对接在天和核心舱节点舱的前向对接口，也就是现在空间站组合体唯一一个空着的对接口。到那时，中国空间站将会形成“三大舱段”+“三艘飞船”的组合体，也就是天和核心舱、问天实验舱、梦天实验舱、天舟五号货运飞船、神舟十四号、神舟十五号载人飞船同时在轨的、总重超过100吨的空间站组合体。神舟十五号和神舟十四号两个乘组也将实现“太空会师”，共同完成中国航天史上首次航天员乘组的在轨轮换。我们也期待着6名中国航天员同时在轨的历史时刻。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4295988.d.html</link>
+            <guid>2864605</guid>
+            <pubDate>Sat, 12 Nov 2022 06:50:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【基石药业：择捷美相关临床研究达到主要终点之一】11月12日，记者从基石药业获悉，基石药业择捷美（舒格利单抗注射液）联合化疗一线治疗无法手术切除的PD-L1表达≥5%的局部晚期或转移性胃/胃食管结合部腺癌的GEMSTONE-303研究达到主要终点之一：无进展生存期（PFS）。（中证网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5893760.d.html</link>
@@ -377,23 +400,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4251686.d.html</link>
             <guid>2864056</guid>
             <pubDate>Fri, 11 Nov 2022 22:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国秋冬种接近尾声，播种总体顺利】农业农村部最新农情调度显示，目前全国秋冬种已接近尾声。各主产区推广种植良种，采用播种新技术，切实提高秋冬种质量。截至目前，全国冬小麦已播94.1%，冬油菜已播96.7%，播种总体顺利。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5852016.d.html</link>
-            <guid>2864055</guid>
-            <pubDate>Fri, 11 Nov 2022 22:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台今日6时发布暴雪黄色预警】中央气象台11月12日06时发布暴雪黄色预警：预计11月12日08时至11月13日08时，辽宁东北部、吉林中东部、黑龙江东南部等地的部分地区有大到暴雪（10—19毫米），上述地区新增积雪深度3—8厘米，局地可达10厘米以上。]]></title>
-            <guid>2864052</guid>
-            <pubDate>Fri, 11 Nov 2022 22:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汽车行业加速自主化智能化】中国汽车工业协会11月10日发布的数据显示，10月份，我国汽车产销量分别达259.9万辆和250.5万辆，同比增长11.1%和6.9%，产销保持稳步增长态势，汽车市场自主化智能化进程加快。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4250581.d.html</link>
-            <guid>2864051</guid>
-            <pubDate>Fri, 11 Nov 2022 22:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
