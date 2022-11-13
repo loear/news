@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 13 Nov 2022 20:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 21:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【税优健康险拟扩容 业界期盼税优额度更“解渴”】银保监会近日下发《关于扩大商业健康保险个人所得税优惠政策适用产品范围有关事项的通知（征求意见稿）》。现行的《个人税收优惠型保险业务管理暂行办法》发布于2015年，《征求意见稿》在现行政策上进行了多方面优化。业内人士认为，这对做大税优健康险市场意义重大，不过政策还有进一步优化的空间，如，进一步加大税优力度，激发市场需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6048777.d.html</link>
+            <guid>2866389</guid>
+            <pubDate>Sun, 13 Nov 2022 21:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【穆萨尔成为斯洛文尼亚首位女总统】当地时间11月13日晚，在斯洛文尼亚选举委员会对当天96.85%的选票进行统计后的结果显示，独立候选人娜塔莎·皮尔茨·穆萨尔以54.03%得票率领先对手洛加尔，当选斯洛文尼亚第五任总统，也是斯洛文尼亚首位女总统。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6048219.d.html</link>
+            <guid>2866385</guid>
+            <pubDate>Sun, 13 Nov 2022 20:57:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【算力迭代升级 赋能千行百业】仿真计算、量子计算、绿色计算，智能芯片、操作系统、交互终端，智能制造、医疗健康、交通出行……11月4日至5日，在湖南长沙举行的2022世界计算大会上，一幅“计算万物”的图景面向公众展开。在算力、算法、算据的驱动下，千行百业的应用场景不断落地，先进计算产业规模快速增长。]]></title>
             <guid>2866378</guid>
@@ -338,45 +350,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqmmthc4409348.d.html</link>
             <guid>2865530</guid>
             <pubDate>Sun, 13 Nov 2022 09:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京市委主要负责同志职务调整】日前，中共中央决定：蔡奇同志不再兼任北京市委书记、常委、委员职务，尹力同志兼任北京市委委员、常委、书记。 (新华社)]]></title>
-            <guid>2865529</guid>
-            <pubDate>Sun, 13 Nov 2022 08:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：最低收入人群支付能力有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqqsmrp6005119.d.html</link>
-            <guid>2865528</guid>
-            <pubDate>Sun, 13 Nov 2022 08:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：通过尽早解决通胀问题，我们可以恢复经济增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqqsmrp6005109.d.html</link>
-            <guid>2865527</guid>
-            <pubDate>Sun, 13 Nov 2022 08:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：强劲的经济需要良好的公共服务作支撑，我们将以更均衡的方式实现这一目标。]]></title>
-            <guid>2865526</guid>
-            <pubDate>Sun, 13 Nov 2022 08:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们的债务比许多其他大国都要低，关键是要负责任地逐步减少负债。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqqsmrp6004781.d.html</link>
-            <guid>2865524</guid>
-            <pubDate>Sun, 13 Nov 2022 08:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：如果我们陷入衰退，我希望确保衰退的时间尽可能短、程度尽可能浅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqmmthc4407477.d.html</link>
-            <guid>2865523</guid>
-            <pubDate>Sun, 13 Nov 2022 08:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：将制定长期能源计划；必须增加税收，削减开支。]]></title>
-            <guid>2865522</guid>
-            <pubDate>Sun, 13 Nov 2022 08:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
