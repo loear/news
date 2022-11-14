@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 14 Nov 2022 19:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 20:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据俄媒当地时间14日报道，国际原子能机构将在未来几周内向乌克兰派出代表团考察当地核电站的运转情况。代表团将访问切尔诺贝利核电站等地。（ 央视新闻）]]></title>
+            <guid>2867264</guid>
+            <pubDate>Mon, 14 Nov 2022 20:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登提名马丁·格伦伯格为美国联邦储蓄保险公司董事会主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-15/detail-imqqsmrp6186648.d.html</link>
+            <guid>2867262</guid>
+            <pubDate>Mon, 14 Nov 2022 20:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【老虎环球基金Q3持仓：京东仍为第一重仓股 增持Alphabet、微软等】根据美国证券交易委员会披露，老虎环球基金递交了截至2022年9月30日的第三季度持仓报告（13F）。据统计，老虎环球基金第四季度持仓总市值达108.93亿美元，前十大持仓股市值占比约为64.64%。前五大重仓股是京东(JD.O)、微软(MSFT.O)、现在服务公司(NOW)、Meta Platforms(META.O)和SEA(SE.N)。从持仓比例变化来看，前五大买入标的是Datadog(DDOG.O)、Workday(WDAY.O)、Alphabet(GOOGL.O)、Uber(UBER.N)和微软；前五大卖出标的包括CrowdStrike(CRWD.O)、Nu Holdings(NIU.N)、京东、和小鹏汽车(XPEV.N)。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-15/detail-imqqsmrp6185626.d.html</link>
@@ -130,51 +141,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqmmthc4584490.d.html</link>
             <guid>2867162</guid>
             <pubDate>Mon, 14 Nov 2022 15:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韦德布什：将Silvergate Capital(SI.N)目标价从85美元下调至70美元。]]></title>
-            <guid>2867160</guid>
-            <pubDate>Mon, 14 Nov 2022 15:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Rivian(RIVN.O)目标价从60美元下调至55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6176786.d.html</link>
-            <guid>2867158</guid>
-            <pubDate>Mon, 14 Nov 2022 15:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马斯克表示，特斯拉相信制造“一款更实惠的汽车将非常有意义”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6176773.d.html</link>
-            <guid>2867157</guid>
-            <pubDate>Mon, 14 Nov 2022 15:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国财政大臣亨特将全面改革英国针对中小企业的研发税收抵免计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6176620.d.html</link>
-            <guid>2867156</guid>
-            <pubDate>Mon, 14 Nov 2022 15:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马斯克表示，特斯拉回购“取决于特斯拉董事会”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6176570.d.html</link>
-            <guid>2867155</guid>
-            <pubDate>Mon, 14 Nov 2022 15:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  杰富瑞：将搜狐(SOHU.O)目标价从21.30美元下调至20.90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqmmthc4583659.d.html</link>
-            <guid>2867151</guid>
-            <pubDate>Mon, 14 Nov 2022 15:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆和田地区新增71例阳性感染者，阿克苏地区库车市新增12例阳性感染者。（央视新闻）]]></title>
-            <guid>2867150</guid>
-            <pubDate>Mon, 14 Nov 2022 15:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马斯克表示，推特将“最终不再在每条推特下面添加一条信息显示该推是用什么设备发出的(浪费屏幕空间和计算)”。]]></title>
-            <guid>2867149</guid>
-            <pubDate>Mon, 14 Nov 2022 15:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
