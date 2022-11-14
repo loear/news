@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 14 Nov 2022 20:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 21:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  13F报告显示：德意志银行三季度建仓做多iShares Gnma债券ETF等55只股票或基金。清仓伯克希尔哈撒韦A类股和名创优品等167只股票或基金。增持家得宝、美国运通、Pinterest等840只股票或基金。减持辉瑞制药、英特尔、谷歌母公司Alphabet（谷歌A）、宝洁、英伟达、高露洁-棕榈等2548只股票。重仓股包括微软、苹果、谷歌A、亚马逊、以及强生。]]></title>
+            <guid>2867276</guid>
+            <pubDate>Mon, 14 Nov 2022 21:23:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据俄媒当地时间14日报道，国际原子能机构将在未来几周内向乌克兰派出代表团考察当地核电站的运转情况。代表团将访问切尔诺贝利核电站等地。（ 央视新闻）]]></title>
             <guid>2867264</guid>
@@ -111,36 +116,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-15/detail-imqmmthc4585608.d.html</link>
             <guid>2867176</guid>
             <pubDate>Mon, 14 Nov 2022 16:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊计划裁员大约1万人 预计最快将在本周开始】知情人士称，亚马逊(AMZN.O)计划最早于本周开始在企业和技术部门裁员约1万人，这将是该公司历史上规模最大的一次裁员。知情人士还称，裁员将集中在亚马逊的设备部门，包括语音助手Alexa，以及零售部门和人力资源部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-15/detail-imqqsmrp6177987.d.html</link>
-            <guid>2867172</guid>
-            <pubDate>Mon, 14 Nov 2022 16:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊股价在宣布裁员消息后快速反弹，现跌不足1%，日内早先曾一度跌3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6177541.d.html</link>
-            <guid>2867168</guid>
-            <pubDate>Mon, 14 Nov 2022 15:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 亚马逊据称计划裁员大约1万人，预计最快将在本周采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqmmthc4584767.d.html</link>
-            <guid>2867167</guid>
-            <pubDate>Mon, 14 Nov 2022 15:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国家运输安全委员会：达拉斯坠机事故调查过程将很漫长】12日，在美国得克萨斯州达拉斯举行的航空展上，两架二战时期的飞机相撞并坠毁。13日，美国得克萨斯州达拉斯县法医发布报告称，事故已造成6人死亡，美国国家运输安全委员会正在对事故原因进行调查。美国国家运输安全委员会成员格雷厄姆称，事故的初步报告预计将在4到6个星期内公布，而最终调查报告可能要等12到18个月的全面调查后才能出炉。格雷厄姆同时表示，目前事故调查工作有很多疑问等待解答。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqqsmrp6177337.d.html</link>
-            <guid>2867165</guid>
-            <pubDate>Mon, 14 Nov 2022 15:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄副外长说无法接受撤军作为谈判先决条件，泽连斯基前往赫尔松市】 俄罗斯外交部副部长格鲁什科14日表示，俄方无法接受将撤军作为就乌克兰问题进行谈判的先决条件。据乌克兰国家通讯社14日报道，乌总统泽连斯基当天前往赫尔松州首府赫尔松市。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-14/detail-imqmmthc4584490.d.html</link>
-            <guid>2867162</guid>
-            <pubDate>Mon, 14 Nov 2022 15:50:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
