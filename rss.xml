@@ -4,11 +4,45 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 15 Nov 2022 20:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 21:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格与波兰总统杜达讨论了波兰导弹袭击事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4745089.d.html</link>
+            <guid>2868231</guid>
+            <pubDate>Tue, 15 Nov 2022 21:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：梅西百货暂停在马斯克收购的推特投放广告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6334022.d.html</link>
+            <guid>2868230</guid>
+            <pubDate>Tue, 15 Nov 2022 21:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沃尔玛收涨6.5%，创2020年7月份以来最大单日涨幅，使得2022年迄今累计跌幅收窄。]]></title>
+            <guid>2868227</guid>
+            <pubDate>Tue, 15 Nov 2022 21:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰政府发言人穆勒：爆炸造成两名波兰公民死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6333887.d.html</link>
+            <guid>2868224</guid>
+            <pubDate>Tue, 15 Nov 2022 21:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：阿波罗将收购瑞士信贷(CS.N)旗下证券化产品集团（SPG）的直接贷款分支。]]></title>
+            <guid>2868218</guid>
+            <pubDate>Tue, 15 Nov 2022 20:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约官员：我们正在调查与波兰导弹袭击事件有关的报告，并与波兰进行密切协调。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6332754.d.html</link>
+            <guid>2868216</guid>
+            <pubDate>Tue, 15 Nov 2022 20:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【“友谊”输油管道暂停向匈牙利、捷克和斯洛伐克输送石油】当地时间11月15日，匈牙利石油和天然气公司称，已接到乌克兰合作伙伴通知，由于乌境内一个为输油管道提供动力的变电站被火箭击中，“友谊”管道已暂停向匈牙利、捷克和斯洛伐克输送石油。 (央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4743355.d.html</link>
@@ -176,18 +210,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4735840.d.html</link>
             <guid>2868136</guid>
             <pubDate>Tue, 15 Nov 2022 16:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：迪士尼(DIS.N)选择现代作为Disney 100的赞助方。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6323492.d.html</link>
-            <guid>2868121</guid>
-            <pubDate>Tue, 15 Nov 2022 16:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奔驰电动车开始打折甩卖】11月15日晚间，奔驰宣布旗下部分EQ纯电动车型下调建议零售价，其中奔驰EQE三个车型售价分别下调5万~5.07万元，调整后的售价为47.8万~53.43万元；EQS四个车型售价分别下调20.46万~23.76万元，调整后的售价为84.5万~131.4万元；AMGEQS53两个车型全都直接优惠19.86万元，现售价148.6万~154.7万元。上述调价将从2022年11月16日起正式实施。针对在2022年11月16日前购买上述降价车型的老车主，奔驰提出，将支持相关授权经销商，根据购车发票金额和此次调整后的厂商建议零售价的差额，提供专属补贴方案。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6323351.d.html</link>
-            <guid>2868118</guid>
-            <pubDate>Tue, 15 Nov 2022 16:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
