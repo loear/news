@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 16 Nov 2022 19:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 20:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[当地时间16日晚，伊朗中部城市伊斯法罕发生恐怖袭击案件，两名身份不明人员骑摩托车向当地警察开枪，造成2死2伤。（央视新闻）]]></title>
+            <guid>2869210</guid>
+            <pubDate>Wed, 16 Nov 2022 19:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【马斯克推特内部信：要么拼命工作 要么辞职】援引马斯克发给员工的邮件内容报道，马斯克建议自己的员工，要么“拼命工作”，要么辞职。在信中，马斯克要求推特员工确定：他们是继续留在公司，还是领取三个月的遣散费。与此同时，剩下的人将“长时间、高强度”地工作。据报道，希望继续工作的员工被要求在当地时间下午17：00之前点击电子邮件中的链接，然后单击按钮“是”。该报指出，马斯克称，推特将是一个高级工程项目，那些编写出色代码的人将构成我们团队的大多数，并将产生最大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6476615.d.html</link>
+            <guid>2869206</guid>
+            <pubDate>Wed, 16 Nov 2022 19:20:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巩固优势 10月我国集装箱船新单量继续回升】 中国船舶工业协会披露国内船舶统计数据，以载重吨为统计口径，今年10月国内造船企业新接订单495万载重吨，环比增长12.5%，其中集装箱船占比持续走高，从前8个月的32.75%提升至35.4%；完工量307万载重吨，环比下降20.5%。截至10月底，我国造船企业手持订单量达10444万载重吨，同比再增长6.5%。放眼全球，中国造船企业的新接订单量在10月位居全球第一，并与第二名的韩国拉开了较大差距。凭借在10月优异表现，中国船企巩固了在年度接单量第一的领跑位置。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4889237.d.html</link>
@@ -195,33 +206,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4878558.d.html</link>
             <guid>2869117</guid>
             <pubDate>Wed, 16 Nov 2022 15:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞杰金融：将沃尔玛(WMT.N)目标价从150美元上调至160美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6465335.d.html</link>
-            <guid>2869116</guid>
-            <pubDate>Wed, 16 Nov 2022 15:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  MKM Partners：将沃尔玛(WMT.N)目标价从158美元上调至171美元。]]></title>
-            <guid>2869115</guid>
-            <pubDate>Wed, 16 Nov 2022 15:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将Silvergate Capital(SI.N)目标价从77美元下调至37美元。]]></title>
-            <guid>2869108</guid>
-            <pubDate>Wed, 16 Nov 2022 15:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国“5G+工业互联网”项目超过4000个】 从16日在武汉召开的“2022中国5G+工业互联网大会”新闻发布会上获悉，随着我国“5G+工业互联网”融合创新水平持续提高，截至目前，全国“5G+工业互联网”项目已超过4000个。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6464656.d.html</link>
-            <guid>2869106</guid>
-            <pubDate>Wed, 16 Nov 2022 15:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州荔湾发布：广州市荔湾区决定自2022年11月17日零时起，除高风险区以外，在我区全域实行3项措施，包括加强社会面管理，住宅小区（楼宇）、城中村、产业园区、商务楼宇入口严格实行测温、扫场所码和查验24小时内核酸检测阴性证明等措施。各高校、职业院校和技工院校实施封闭管理。中小学阶段学校、幼儿园暂停返校及线下教学。校外培训机构暂停线下教学，托育、托管机构暂停服务。]]></title>
-            <guid>2869105</guid>
-            <pubDate>Wed, 16 Nov 2022 15:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
