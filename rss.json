@@ -6,6 +6,73 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2870706,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqmmthc5027870.d.html",
+            "title": "【加州大学伯克利分校暂停与FTX的体育场冠名权协议】加州大学伯克利分校体育系的一名代表在给媒体的一份声明中证实，该校已经暂停了与FTX的体育场冠名权的协议。据悉，该协议最初计划FTX获得10年冠名权，但只持续了450天。这项赞助协议于2021年8月签署，金额为1750万美元，全部以加密货币支付，这是该交易所与大学体育界的首次合作。",
+            "date_modified": "2022-11-17T18:25:52.000Z"
+        },
+        {
+            "id": 2870705,
+            "content_html": "",
+            "title": "通用汽车（GM）几乎完全收复日内稍早失地，刷新日高至38.47美元，美股盘初一度跌约2.6%刷新日低至37.47美元，该公司CEO预计电动汽车业务有望在2025年实现盈利。",
+            "date_modified": "2022-11-17T18:21:08.000Z"
+        },
+        {
+            "id": 2870704,
+            "content_html": "",
+            "title": "通用汽车(GM.N)CEO Barra：预计到2025年Brightdrop年收入将达到10亿美元。",
+            "date_modified": "2022-11-17T18:13:58.000Z"
+        },
+        {
+            "id": 2870702,
+            "content_html": "",
+            "title": "通用汽车(GM.N)CEO Barra：在获得补贴的情况下，电动汽车的盈利能力可以与燃油汽车相当。",
+            "date_modified": "2022-11-17T18:12:35.000Z"
+        },
+        {
+            "id": 2870701,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqmmthc5027456.d.html",
+            "title": "通用汽车(GM.N)CEO Barra：公司电动汽车业务将在2025年实现盈利。",
+            "date_modified": "2022-11-17T18:11:38.000Z"
+        },
+        {
+            "id": 2870700,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqqsmrp6609702.d.html",
+            "title": "【加拿大皇家银行：将塔吉特(TGT.N)目标价下调至206美元 维持跑赢大市评级】加拿大皇家银行分析师Steven Shemesh将塔吉特的目标价从223美元下调至206美元，但维持对该股的跑赢大市评级。该分析师在一份研究报告中告诉投资者，该公司第三季度盈利状况不佳的原因是其在过去几周的销售疲软，加上与清理过剩库存有关的成本增加。他补充说，预期2022财年营业利润率为3.3%。尽管在昨天的大跌之后，该股可能反映了下跌的风险。",
+            "date_modified": "2022-11-17T18:09:41.000Z"
+        },
+        {
+            "id": 2870695,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqmmthc5027015.d.html",
+            "title": "【巴克莱：将蔚来汽车(NIO.N)目标价下调至18美元 维持超配评级】巴克莱分析师Jiong Shao将蔚来汽车的目标价从19美元下调至18美元，并维持对该股的超配评级。该分析师仍然认为蔚来在扩大产品组合和提升制造能力方面表现良好。然而，该分析师担心费用增加的问题，且他认为这可能比蔚来预期的要长。",
+            "date_modified": "2022-11-17T18:00:00.000Z"
+        },
+        {
+            "id": 2870693,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqmmthc5026924.d.html",
+            "title": "赛诺菲(SNY.O)：欧洲委员会批准Enjaymo用于部分溶血性贫血患者。",
+            "date_modified": "2022-11-17T17:55:51.000Z"
+        },
+        {
+            "id": 2870689,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqqsmrp6608486.d.html",
+            "title": "【摩根士丹利：将沃尔玛(WMT.N)目标价上调至164美元 维持超配评级】摩根士丹利分析师Simeon Gutman将沃尔玛的目标价从150美元上调至164美元，并维持对该股的超配评级。该分析师在沃尔玛第三季度业绩好转并实现增长后上调了对该股的预期，并将他的估值框架向前推移至2025财年的预期。",
+            "date_modified": "2022-11-17T17:32:46.000Z"
+        },
+        {
+            "id": 2870688,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqmmthc5026068.d.html",
+            "title": "据文件披露：黑石集团(BX.N)子公司Nexus Malls申请IPO。",
+            "date_modified": "2022-11-17T17:31:02.000Z"
+        },
+        {
             "id": 2870686,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-11-18/detail-imqqsmrp6608252.d.html",
@@ -281,33 +348,6 @@
             "url": "https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5018179.d.html",
             "title": "美元兑瑞郎USD/CHF日内涨超1.00%，现报0.9532。",
             "date_modified": "2022-11-17T14:58:21.000Z"
-        },
-        {
-            "id": 2870602,
-            "content_html": "",
-            "title": "美国抗疫概念股走弱，诺瓦瓦克斯医药(NVAX.O)跌5%，BioNTech SE(BNTX.O)、Moderna(MRNA.O)跌约3%，Ocugen(OCGN.O)跌超2%。",
-            "date_modified": "2022-11-17T14:56:58.000Z"
-        },
-        {
-            "id": 2870595,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017464.d.html",
-            "title": "【马航MH17坠机案宣判】综合外媒17日报道，荷兰法院对2014年马来西亚航空公司MH17客机作出判决，两名俄罗斯人和一名乌克兰人被判有谋杀罪。第四名俄罗斯被告被判无罪。2014年7月17日，从荷兰阿姆斯特丹飞往吉隆坡的马航MH17客机在靠近俄罗斯边境的乌克兰顿涅茨克州上空坠毁，机上298人全部罹难。三分之二的遇难者为荷兰籍。（中新社）",
-            "date_modified": "2022-11-17T14:48:54.000Z"
-        },
-        {
-            "id": 2870594,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599974.d.html",
-            "title": "【币安CEO赵长鹏：币安有兴趣购买一些破产变卖的资产】币安首席执行官赵长鹏11月17日接受美国消费者新闻与商业频道（CNBC）采访时表示，币安有兴趣看看以及购买一些破产变卖的资产，特别是一些较好的资产。赵长鹏还批评了竞争对手FTX的前首席执行官Sam Bankman-Fried，认为他对投资者和用户撒谎。赵长鹏称，FTX的用户资金很明显被挪用了，并补充了一些11月9日币安决定退出收购FTX时的更详细信息。（界面）",
-            "date_modified": "2022-11-17T14:48:37.000Z"
-        },
-        {
-            "id": 2870588,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599890.d.html",
-            "title": "纳斯达克中国金龙指数转涨。",
-            "date_modified": "2022-11-17T14:47:37.000Z"
         }
     ]
 }
