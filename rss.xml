@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 19 Nov 2022 11:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 12:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【上海宝山布局新产业集群 石墨烯铜创新联合体成立】2022（第九届）中国国际石墨烯创新大会11月19日在宝山区举行。当日，石墨烯铜创新联合体在大会上成立。近年来，宝山区持续推动新材料产业集群发展。2021年，宝山区新材料产业规模达1077亿元。“十四五”期间，宝山还将形成南、中、北三大新材料重点空间板块布局，推动先进基础材料、关键战略材料、前沿新材料、生物材料等新材料细分领域做精做强，发力高端膜材料领域，聚力打造未来材料产业集群。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqqsmrp6818804.d.html</link>
+            <guid>2873020</guid>
+            <pubDate>Sat, 19 Nov 2022 12:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【暴雪中国：正在寻找机遇将游戏重新带回给大家】暴雪中国在11月19日下午发布动态，感谢玩家的支持，并表示正在寻找机遇将游戏在未来重新带回给大家。此前，暴雪宣布：随着与网之易公司现有授权协议的到期，自2023年1月24日0点起，《魔兽世界》等国服游戏都将停止运营。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqqsmrp6814913.d.html</link>
@@ -364,17 +370,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqmmthc5184871.d.html</link>
             <guid>2872036</guid>
             <pubDate>Sat, 19 Nov 2022 01:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海口市龙华区人民政府携手神州信息 就龙华区预付式消费监管平台建设及试点签约】记者获悉，近日，海口市龙华区副区长龙靖滨、神州方圆总经理陈宏鸿就海南省海口市龙华区预付式消费监管平台建设及预付式消费服务试点正式签署了协议。合作主要围绕龙华区“预付式消费监管平台”的建设、日常管理和运行维护以及全区预付式消费试点工作展开。（证券时报）]]></title>
-            <guid>2871970</guid>
-            <pubDate>Sat, 19 Nov 2022 01:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南昨日新增本土确诊病例4例和本土无症状感染者7例】2022年11月18日0—24时，海南省新增感染者10例（确诊4例，减去无症状转确诊1例；无症状7例）。其中，新增本土确诊病例4例（澄迈县2例、文昌市1例、三亚市无症状转确诊1例）；新增本土无症状感染者7例（海口市6例、三亚市1例）。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqqsmrp6760470.d.html</link>
-            <guid>2871903</guid>
-            <pubDate>Sat, 19 Nov 2022 00:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
