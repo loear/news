@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 20 Nov 2022 15:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 16:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2022世界杯揭幕战 厄瓜多尔队1比0领先卡塔尔队】2022卡塔尔世界杯揭幕战在海湾球场进行，由东道主卡塔尔队对阵厄瓜多尔队。比赛开始第15分钟，厄瓜多尔队13号队员巴伦西亚点球破门，打进2022世界杯第一粒进球。厄瓜多尔以1:0领先卡塔尔队。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqqsmrp6924717.d.html</link>
+            <guid>2873299</guid>
+            <pubDate>Sun, 20 Nov 2022 16:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄远东地区希韦卢奇火山高度活跃，可能影响国际航班飞行】 俄罗斯研究人员11月20日说，位于俄远东堪察加半岛最北部的希韦卢奇火山变得高度活跃，其熔岩穹丘持续增长，随时可能喷发，火山灰柱高度可达10至15千米。当前火山活动可能影响国际航班与低空飞行的飞机。希韦卢奇火山海拔3283米，1980年首次喷发，是堪察加半岛上最活跃的火山之一。堪察加半岛上的另一座火山、欧亚大陆最高活火山克柳切夫火山20日开始喷出火山弹。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6922010.d.html</link>
+            <guid>2873296</guid>
+            <pubDate>Sun, 20 Nov 2022 15:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【第6届南博会集中签约169个项目 协议投资超4000亿元】第6届中国－南亚博览会暨第26届中国昆明进出口商品交易会经贸合作项目签约仪式20日在昆明举行，集中签订投资协议项目169个，协议投资额超4000亿元。据介绍，此次签约聚焦云南省12个重点产业，集中签约绿色能源项目39个、高原特色现代农业项目29个、文旅康养项目15个、先进制造业项目14个、新材料项目21个、生物医药项目6个。长三角、泛珠三角、粤港澳大湾区是投资云南的主力军。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqmmthc5347080.d.html</link>
@@ -403,16 +415,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqmmthc5298072.d.html</link>
             <guid>2873181</guid>
             <pubDate>Sun, 20 Nov 2022 04:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家海洋局北海预报中心：渤海及黄海北部海冰初冰日将于12月上旬出现】根据目前大气和海洋环境特征，综合分析各种预测因子和方法，国家海洋局北海预报中心发布预测，预计2022/2023年冬季渤海及黄海北部冰级为2.5级，总体冰情与近十年平均状况相仿。预计，海冰初冰日将出现在2022年12月上旬，严重冰期为2023年1月中旬至2月中旬，终冰日将出现在2023年3月上旬。（央视）]]></title>
-            <guid>2873179</guid>
-            <pubDate>Sun, 20 Nov 2022 04:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【约旦南部一栋存有汽油的建筑发生大火】当地时间11月20日凌晨，约旦南部城市亚喀巴一处存有汽油的建筑发生大火，火势蔓延至周边房屋，并烧毁一辆停放在附近的车辆。据亚喀巴民防局的消息，目前火势已经得到控制，暂无人员伤亡，火灾原因正在调查中。（央视）]]></title>
-            <guid>2873178</guid>
-            <pubDate>Sun, 20 Nov 2022 04:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
