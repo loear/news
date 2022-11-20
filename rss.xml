@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 20 Nov 2022 17:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 18:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【厄瓜多尔队2比0卡塔尔队】2022卡塔尔世界杯揭幕赛，东道主卡塔尔队对战厄瓜多尔队。上半场比赛，厄瓜多尔队球员恩纳·瓦伦西亚上演梅开二度，为球队取得两球领先。最终，厄瓜多尔队2-0卡塔尔队取得胜利。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqmmthc5353512.d.html</link>
+            <guid>2873304</guid>
+            <pubDate>Sun, 20 Nov 2022 18:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【试飞成功！东航C919第一批飞行员亮相】11月20日，中国商飞国产大飞机C919（B001F）从浦东国际机场起飞，于11：59平稳降落在扬州泰州国际机场跑道。此次C919飞行是国产大飞机正式交付全球首家用户（中国东方航空公司）前的验证试飞，为了保障此次训练飞行，中国商飞试飞中心、客服中心等地面保障团队派遣近100名保障人员，民航华东地区管理局的监察员、东航C919第一批飞行员也在第一时间到达扬泰机场。（澎湃新闻）]]></title>
             <guid>2873302</guid>
@@ -408,11 +414,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6874502.d.html</link>
             <guid>2873188</guid>
             <pubDate>Sun, 20 Nov 2022 04:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【莱宝高科：目前医疗、工控类触摸屏销售收入占比很低】针对公司在工控、医疗方面的触摸屏业务拓展情况，莱宝高科在互动平台回复称，公司营销中心专门下设车载和工业品客户部，除积极开发车载触摸屏市场并在近几年取得持续销售增长外，同时积极开发包括医疗、工控等专业应用市场，目前已与部分客户形成批量供应合作关系，鉴于医疗、工控类客户具有鲜明的多品种、小批量产品需求特征，且公司客户处于开发积累前期、缺乏相应的显示面板资源，因此目前医疗、工控类触摸屏销售收入占比很低，后续会努力逐步提升相应的业务规模。]]></title>
-            <guid>2873186</guid>
-            <pubDate>Sun, 20 Nov 2022 04:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
