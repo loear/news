@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 21 Nov 2022 21:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 22:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  戴尔(DELL.N)盘后抹去涨幅，此前该公司预计第四季度销售额将低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqqsmrp7065026.d.html</link>
+            <guid>2874278</guid>
+            <pubDate>Mon, 21 Nov 2022 22:10:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中通快递三季度调整后每份ADS收益0.33美元，分析师预期0.27美元。三季度收入12.6亿美元，分析师预期12.7亿美元。预计全年受理的包裹量为243.0-247.4亿件，分析师预期254.2亿件。中通快递（ZTO）美股盘后涨2.23%。]]></title>
+            <guid>2874274</guid>
+            <pubDate>Mon, 21 Nov 2022 22:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来盘后拉升，现涨近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5493129.d.html</link>
+            <guid>2874271</guid>
+            <pubDate>Mon, 21 Nov 2022 21:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法拉第未来：FF 91汽车首次交付的时间尚不确定，预计不会在2022年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqqsmrp7063948.d.html</link>
+            <guid>2874270</guid>
+            <pubDate>Mon, 21 Nov 2022 21:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【戴尔科技财报喜忧参半，运营收入创纪录，美股盘后涨超6%】戴尔科技发布财报显示，该公司2023财年第三季度每股收益0.33美元，预期0.87美元。营收247亿美元，预期245.56亿美元。净利润2.41亿美元，预期9.64亿美元。戴尔科技第三季度调整后每股收益为2.3美元，运营收入增长68%至创纪录的18亿美元，非公认会计准则的运营收入增长22%至创纪录的24亿美元。戴尔科技美股盘后涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5492812.d.html</link>
+            <guid>2874265</guid>
+            <pubDate>Mon, 21 Nov 2022 21:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【看好市场后续发展，基金机构掀起“自购潮”】 今年以来，基金机构频频出手自购。近期受债市震荡影响，债基出现大面积回调，基金机构纷纷自掏腰包，大笔购入债基。据不完全统计，截至11月21日，10月以来有30多家基金机构发布关于运用公司固有资金（或自有资金）申购旗下公募基金（或集合资产管理计划）公告，合计金额超过23亿元。业内人士表示，基金自购除了提振市场信心，更多表明可能看好市场的后续发展。具体到债市，面对市场震荡，短期走势需要关注资金面的稳定性，中期走势或取决于政策落地的利好效果。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqqsmrp7063450.d.html</link>
+            <guid>2874262</guid>
+            <pubDate>Mon, 21 Nov 2022 21:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国际原子能机构：扎波罗热核电站关键设备完好无损】 当地时间21日，国际原子能机构总干事格罗西表示，国际原子能机构专家组评估了前两天的炮击对扎波罗热核电站造成的破坏。目前可以确认核电站关键设备完好无损，没有产生直接的核安全或核安保问题。但国际原子能机构专家仍然观察到核电站所在场地受到广泛破坏，维护人员已着手修复损坏部分。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqqsmrp7063348.d.html</link>
+            <guid>2874260</guid>
+            <pubDate>Mon, 21 Nov 2022 21:29:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【马克龙与泽连斯基通电话】 当地时间11月21日，法国总统马克龙与乌克兰总统泽连斯基通电话。据悉，双方在电话中主要谈论了扎波罗热核电站的安全形势。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5492133.d.html</link>
@@ -159,28 +200,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5483890.d.html</link>
             <guid>2874181</guid>
             <pubDate>Mon, 21 Nov 2022 16:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国和波兰双方就共同保护波兰机场达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5482663.d.html</link>
-            <guid>2874167</guid>
-            <pubDate>Mon, 21 Nov 2022 16:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  厄瓜多尔能源部长表示，2025年厄瓜多尔石油产量可能达到60万桶/日，2023年可能增加3万桶/日。]]></title>
-            <guid>2874166</guid>
-            <pubDate>Mon, 21 Nov 2022 16:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家航天局：将从八个方面构建新型空间探索伙伴关系】 21日，在联合国/中国空间探索与创新全球伙伴关系研讨会开幕式上，国家航天局发布《中国航天推动构建新型空间探索与创新全球伙伴关系的行动声明》。此次行动声明包含八个方面：共商全球治理、促进行动协调、深化项目合作、推动创新发展、共享科学成果、鼓励多元参与、打造合作平台、维护人类安全，系统阐述了国家航天局致力打造合作共赢“朋友圈”的理念、倡议与行动。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-22/detail-imqmmthc5482374.d.html</link>
-            <guid>2874164</guid>
-            <pubDate>Mon, 21 Nov 2022 16:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  数字货币交易所Coinbase：本公司宣布与WooCommerce构建战略合作伙伴关系。]]></title>
-            <guid>2874160</guid>
-            <pubDate>Mon, 21 Nov 2022 16:04:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
