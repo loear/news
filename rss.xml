@@ -4,11 +4,51 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 23 Nov 2022 19:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 20:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：曼联俱乐部的潜在买主们正拉拢曾在曼联效力的传奇球星贝克汉姆加入竞购者队伍。]]></title>
+            <guid>2877360</guid>
+            <pubDate>Wed, 23 Nov 2022 20:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+【多家机构自购债基“稳信心”】近期债市震荡背景下，为提振投资者信心，包括公募基金、券商资管在内的多家机构纷纷宣布自购旗下债券基金。11月23日，银河聚星两年定开债、国联安短债A/C、鑫元兴利定开债等多只债基还发布了分红公告。业内人士表示，机构此时自购旗下债券基金产品在一定程度上为市场注入信心，当前债市悲观情绪释放已较为充分，市场短期有望企稳。（经济参考报）]]></title>
+            <guid>2877352</guid>
+            <pubDate>Wed, 23 Nov 2022 19:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马斯克在推特上谈及改名问题时说：“下周末发布的代码应该会允许（用户）再次改名。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7329340.d.html</link>
+            <guid>2877348</guid>
+            <pubDate>Wed, 23 Nov 2022 19:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲议会官网遭攻击，一度瘫痪无法显示】 当地时间11月23日下午，欧洲议会官网遭到黑客攻击，网站一度瘫痪无法显示，约两小时后恢复正常。欧洲议会发言人尚未就此次网络攻击是否造成损失作出回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5762741.d.html</link>
+            <guid>2877346</guid>
+            <pubDate>Wed, 23 Nov 2022 19:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Gucci创意总监Alessandro Michele离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7329215.d.html</link>
+            <guid>2877343</guid>
+            <pubDate>Wed, 23 Nov 2022 19:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【十余家涉事公司被立案，“专网通信”骗局仍在发酵】 近日，*ST泽达、合众思壮先后收到证监会《行政处罚及市场禁入事先告知书》。由此，两家公司开展虚假自循环业务的违法事实及手法被揭开。自去年5月上海电气首家爆雷后，过去一年多时间，已有十余家涉专网通信业务的A股公司被立案调查，多家公司还在等待调查结果，具体涉嫌的违法事实、性质、情节及影响程度等也有待明确。除了面临罚单，涉案代价还反映在财务报表上。相当一部分上市公司计提了大额减值，业绩蒙尘。更有公司难脱该事件影响，如华讯方舟已黯然退市，*ST泽达、*ST凯乐等“披星带帽”，面临退市风险。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5762631.d.html</link>
+            <guid>2877341</guid>
+            <pubDate>Wed, 23 Nov 2022 19:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国弗吉尼亚州沃尔玛超市枪击事件造成6死4伤】 美国东部弗吉尼亚州切萨皮克市警方23日说，日前发生在该市一家沃尔玛超市的枪击事件造成6人死亡，另有4人受伤，枪手自杀。据通报，切萨皮克市警方当地时间22日晚10时12分接到报警电话，警察抵达现场后发现数人死伤，随后展开调查。调查人员认为枪手行凶后使用手枪自杀。另据美国媒体报道，枪手是该超市夜班经理，其作案动机尚不清楚，调查工作仍在进行中。美国即将迎来传统节日感恩节。（新华网）]]></title>
+            <guid>2877337</guid>
+            <pubDate>Wed, 23 Nov 2022 19:36:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[
 【监管层紧盯内幕交易，市场生态持续改善】日前，昊志机电、弘亚数控两家公司高管均因涉嫌内幕交易被立案调查。今年以来，已有八家公司实际控制人、高管、股东等涉嫌内幕交易被立案调查。近年来，监管层“零容忍”立体执法震慑显著增强，市场生态明显好转。（经济参考报）]]></title>
@@ -91,54 +131,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5757595.d.html</link>
             <guid>2877261</guid>
             <pubDate>Wed, 23 Nov 2022 16:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 亚马逊计划每年投资超过10亿美元到电影制作领域，电影将投放到电影院。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5757203.d.html</link>
-            <guid>2877257</guid>
-            <pubDate>Wed, 23 Nov 2022 16:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【有债基闭门谢客，也有逆势开仓，机构最新研判：已有企稳迹象】 连日来，不少债券基金发布公告，暂停或限制机构投资者大额申购与转换转入，由头均为保证基金的稳定运作，维护现有基金持有人利益。但观察发现，也有债券基金逆势“开仓”，在债市大幅调整之际，放开大额申购与转换限制。快速调整过后，近期债市已企稳迹象，不少债基的波动幅度缩小。鑫元基金表示，近期债券市场情绪有所缓和，最恐慌的时候大概率已经过去，本轮债市回调可能已进入中后期。经历此次快速调整后，目前存单、短端利率债以及银行二级资本债、永续债已有一定配置价值，关注基本面复苏预期与现实可能出现的预期差以及由此出现的交易性机会。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7323725.d.html</link>
-            <guid>2877256</guid>
-            <pubDate>Wed, 23 Nov 2022 16:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-【美国总统拜登授权再向乌克兰提供4亿美元军事援助】当地时间11月23日，美国总统拜登授权国务卿，根据《对外援助法》从国防部中提取向乌克兰提供的价值4亿美元的军事援助，用于国防用品、服务、军事教育及培训等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7323663.d.html</link>
-            <guid>2877255</guid>
-            <pubDate>Wed, 23 Nov 2022 16:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺德斯特龙(JWN.N)跌6%，第三季度盈转亏至2000万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7322103.d.html</link>
-            <guid>2877249</guid>
-            <pubDate>Wed, 23 Nov 2022 16:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  11月23日0—22时，海南三亚新增3例确诊病例、5例无症状感染者。（三亚发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5754036.d.html</link>
-            <guid>2877245</guid>
-            <pubDate>Wed, 23 Nov 2022 15:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰能源部：乌克兰所有核电站停机】 乌克兰能源部11月23日发表声明称，当天导弹袭击造成乌克兰国内所有核电站以及大多数火力和水力发电站暂时停机，输电设施也遭到破坏。乌克兰全国各地的绝大多数用户遭遇断电。声明称，缺乏电力可能会影响供热和供水，维修部门正在尽一切可能尽快恢复供电，但鉴于破坏的规模，可能会需要较长时间才能恢复电力供应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5753508.d.html</link>
-            <guid>2877240</guid>
-            <pubDate>Wed, 23 Nov 2022 15:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国11月消费者信心指数终值为56.8】当地时间11月23日，美国密歇根大学公布的数据显示，美国11月消费者信心指数终值为56.8，低于10月终值59.9；消费者预期指数为55.6，低于10月份的56.2。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7318969.d.html</link>
-            <guid>2877230</guid>
-            <pubDate>Wed, 23 Nov 2022 15:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【澳门特区政府经济财政司司长：特区政府将坚持不懈地采取“1+4”适度多元发展策略，优化产业结构】 澳门特区政府经济财政司司长李伟农23日表示，特区政府将坚持不懈地采取“1+4”适度多元发展策略，优化产业结构。未来特区政府会根据澳门的实际情况，制定综合旅游休闲业的发展方向，主导及协调与此相关的产业、产品的定位与机制，撬动市场力量，引导及协助企业发展业务，与业界共同做好吸引国际客源的旅游项目，为创造更多惠及居民的创业、就业机会提供条件。他表示，将持续推进“旅游+”跨界融合，打造集观光娱乐、文化体育、商务会展、医疗康养、科技体验、盛事活动等丰富内涵于一体的多元城市，从而提升澳门的整体旅游吸引力及旅客消费水平，令澳门成为一个受到不同类别旅客喜爱、愿意“逗留多日、再来多次”的综合旅游休闲目的地。（新华网）]]></title>
-            <guid>2877229</guid>
-            <pubDate>Wed, 23 Nov 2022 15:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
