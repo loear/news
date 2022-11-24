@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 24 Nov 2022 18:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 19:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【波兰总理称匈牙利明年初将批准芬兰和瑞典的“入约”议定书】当地时间11月24日，波兰总理莫拉维茨基表示，匈牙利总理欧尔班向其承诺，将于明年年初批准芬兰和瑞典加入北约的议定书。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-25/detail-imqqsmrp7460348.d.html</link>
+            <guid>2878739</guid>
+            <pubDate>Thu, 24 Nov 2022 19:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加纳副总统 Mahamudu Bawumia 周四表示，加纳政府正在制定一项新政策，用黄金而非美元储备购买石油产品。]]></title>
+            <guid>2878738</guid>
+            <pubDate>Thu, 24 Nov 2022 19:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  当地时间24日，塔斯社援引国际原子能机构总干事格罗西的话报道称，扎波罗热核电站的外部电力供应已经恢复。（央视新闻）]]></title>
+            <guid>2878734</guid>
+            <pubDate>Thu, 24 Nov 2022 19:06:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  穆迪：确认LVMH集团的A1评级，前景展望积极。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-25/detail-imqqsmrp7458675.d.html</link>
@@ -267,24 +283,6 @@
             <title><![CDATA[欧盟委员会：欧盟要求成员国在2023年11月前将储气设施的储气率提高到90%，以避免供应中断和需求激增。]]></title>
             <guid>2878641</guid>
             <pubDate>Thu, 24 Nov 2022 13:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄土国防部长通电话 讨论叙利亚北部局势等问题】据央视新闻，俄罗斯国防部长绍伊古24日应邀与土耳其国防部长阿卡尔通电话，讨论了叙利亚北部目前的局势，以及与继续实施黑海粮食倡议有关的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5875248.d.html</link>
-            <guid>2878637</guid>
-            <pubDate>Thu, 24 Nov 2022 13:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陕西：西安综合性国家科学中心创建方案已上报国家。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438552.d.html</link>
-            <guid>2878635</guid>
-            <pubDate>Thu, 24 Nov 2022 13:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥海科技：拟以5000万元-1亿元回购股份，回购价格不超过55元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438326.d.html</link>
-            <guid>2878627</guid>
-            <pubDate>Thu, 24 Nov 2022 13:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
