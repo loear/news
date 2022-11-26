@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 26 Nov 2022 13:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 14:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【印度发射一箭9星】印度空间研究组织26日宣布，印度当天使用PSLV-C54型极地卫星运载火箭成功发射了9颗卫星，主要包括地球观测卫星EOS-06以及8颗纳米卫星。此次发射成功的地球观测卫星EOS-06是印度海洋卫星系列的第三代，用以加强该国海洋监测能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-26/detail-imqqsmrp7674525.d.html</link>
+            <guid>2880590</guid>
+            <pubDate>Sat, 26 Nov 2022 14:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吴清：上海将配合国家金融管理部门 推出更多首创性、引领性的金融开放创新举措】上海市委常委、常务副市长吴清表示，未来五年，是全面建设社会主义现代化国家开局起步的关键时期。上海将进一步鼓励金融机构创新产品和服务，加快金融科技应用和数字化转型，支持实体经济发展，完善绿色金融支持政策体系。将配合国家金融管理部门，推出更多首创性、引领性的金融开放创新举措，吸引更多国内外金融机构和投资者。（上证报）]]></title>
+            <guid>2880588</guid>
+            <pubDate>Sat, 26 Nov 2022 13:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【日本石川县能登地区发生4.2级地震】当地时间11月26日21时58分左右，日本石川县能登地区发生4.2级地震，震源深度10公里。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-26/detail-imqqsmrp7670886.d.html</link>
@@ -399,23 +410,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-26/detail-imqmmthc6059247.d.html</link>
             <guid>2880100</guid>
             <pubDate>Sat, 26 Nov 2022 02:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克表示，将在2024年总统竞选期间支持美国佛罗里达州州长罗恩·德桑蒂斯（Ron DeSantis）。]]></title>
-            <guid>2880099</guid>
-            <pubDate>Sat, 26 Nov 2022 02:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同兴达：目前尚未生产或研发PET铜箔等相关材料】同兴达在互动平台回复投资者提问时表示，公司及其子公司目前尚未生产或研发PET铜箔等相关材料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-26/detail-imqmmthc6056985.d.html</link>
-            <guid>2880097</guid>
-            <pubDate>Sat, 26 Nov 2022 02:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉9月全球交付逾19万辆 再次刷新交付纪录】根据市场调查机构Adamas Intelligence近日公布的报告，特斯拉在今年9月预估全球交付190,255辆汽车，再次刷新交付纪录。如果按照电池容量计算，今年9月特斯拉全球交付电量为13.9GWh，平均每辆车为73kWh。报告中指出，特斯拉从2021年1月到2022年9月全球累计交付了184.8万辆纯电动汽车，部署了132.9GWh的电池，平均下来每辆车71.9kWh左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-26/detail-imqmmthc6056196.d.html</link>
-            <guid>2880095</guid>
-            <pubDate>Sat, 26 Nov 2022 01:58:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
