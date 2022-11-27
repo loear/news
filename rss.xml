@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 27 Nov 2022 10:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 11:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【中企承建孟加拉国河底隧道项目南侧隧道竣工】由中国交通建设股份有限公司承建、中国路桥工程有限责任公司负责实施的孟加拉国卡纳普里河底隧道——孟加拉国国父隧道项目26日举行的南线隧道竣工仪式。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqqsmrp7749261.d.html</link>
+            <guid>2881343</guid>
+            <pubDate>Sun, 27 Nov 2022 11:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[    【下周10只新股申购】下周（11月28日-12月2日）共有10只新股申购，其中11月28日为深交所光华股份、上交所宁波远洋、北交所恒立钻具；11月29日为科创板晶品特装、长盈通、美腾科技，北交所欧普泰、绿亨科技，11月30日为科创板聚和材料，12月1日为北交所特瑞斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqmmthc6190082.d.html</link>
+            <guid>2881338</guid>
+            <pubDate>Sun, 27 Nov 2022 10:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【中央气象台发布寒潮橙色预警】中央气象台11月27日18时发布寒潮橙色预警：11月27日夜间至30日，寒潮天气将自西向东影响我国大部，造成剧烈降温、大风、沙尘和大范围雨雪天气。我国北方和中东部大部地区气温将先后下降10～16℃，部分地区降温幅度可达18℃以上，并伴有4～6级偏北风，阵风7～9级；西北地区和华北北部等地的部分地区有沙尘天气；寒潮降温过后，12月1日至2日最低气温0℃线将南压到江南北部至贵州南部一带。11月27日20时至29日20时，新疆南疆盆地、西北地区东部、华北西部和北部、黄淮东部以及吉林东部、湖南和贵州东部等地气温将下降10～14℃，其中新疆南疆盆地、内蒙古中西部、山西北部、吉林东部等地降温16～18℃，局地可达20℃以上；上述地区将有4~6级偏北风，阵风7～9级。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqqsmrp7744877.d.html</link>
@@ -351,24 +363,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqqsmrp7696092.d.html</link>
             <guid>2880667</guid>
             <pubDate>Sun, 27 Nov 2022 00:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【机构：10月中国智能投影线上销量为39.0万台 同比增长105%】据洛图科技最新报告显示，2022年10月中国智能投影市场（不含激光电视）线上销量为39.0万台，同比增长105%，环比增长24%；销额为8.3亿元，同比增长107%，环比增长56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqmmthc6136682.d.html</link>
-            <guid>2880661</guid>
-            <pubDate>Sat, 26 Nov 2022 23:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【主流车企集体上马，SiC产业链发展驶入“快车道”】 】2022年功率半导体技术与应用研讨会近日召开。与会人士透露，国内所有主流车厂都投入了800V（注：伏）高压快充产线，部分车企今年已经推出了上市车型，而明年，主流车厂全部都会上市高压快充车型。与之相匹配的SiC（注：碳化硅）产业链有望驶入产业化快车道。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqmmthc6136632.d.html</link>
-            <guid>2880660</guid>
-            <pubDate>Sat, 26 Nov 2022 23:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁夏昨日新增本土确诊病例3例、本土无症状感染者474例】11月26日0-24时，宁夏新增确诊病例3例；新增无症状感染者474例，其中银川市234例（兴庆区106例、永宁县42例、金凤区37例、灵武市21例、贺兰县18例、西夏区10例），固原市187例（西吉县149例、原州区31例、彭阳县4例、隆德县2例、泾源县1例）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-27/detail-imqmmthc6136395.d.html</link>
-            <guid>2880658</guid>
-            <pubDate>Sat, 26 Nov 2022 23:50:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
