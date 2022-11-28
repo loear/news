@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 28 Nov 2022 20:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 21:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  意大利足坛霸主尤文图斯俱乐部董事会主席阿涅利宣布辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqmmthc6351916.d.html</link>
+            <guid>2883710</guid>
+            <pubDate>Mon, 28 Nov 2022 20:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：埃克森美孚石油(XOM.N)将退出在赤道几内亚的业务，据悉埃克森美孚将关闭该国的海上Zafiro油气田平台，并将产量永久削减至不超过3万桶/天。]]></title>
+            <guid>2883709</guid>
+            <pubDate>Mon, 28 Nov 2022 20:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【意大利南部山体滑坡已造成8人死亡】 意大利那不勒斯地方行政长官克劳迪奥·帕隆巴11月28日说，该国南部伊斯基亚岛发生的山体滑坡已造成8人死亡。当地时间26日凌晨因强降雨引发的山体滑坡主要冲击了伊斯基亚岛卡萨米乔拉泰尔梅镇，至少30座建筑被损毁，已有约230人被紧急疏散。据当地媒体报道，目前仍有数人失踪，搜救工作仍在进行。意大利政府27日宣布伊斯基亚岛进入紧急状态，并拨款200万欧元作为首笔救灾援助资金。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqmmthc6350932.d.html</link>
+            <guid>2883703</guid>
+            <pubDate>Mon, 28 Nov 2022 20:29:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【津巴布韦将继续采取紧缩的财政和货币政策】当地时间11月28日，津巴布韦国家统计局表示，津巴布韦11月份的通货膨胀率较前一个月环比降至1.8%。津巴布韦政府表示，将继续采取紧缩的财政和货币政策措施，以控制通货膨胀。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqqsmrp7905087.d.html</link>
@@ -130,17 +147,6 @@
             <title><![CDATA[  【王毅会见蒙古国外长巴特策策格】 中共中央政治局委员、国务委员兼外长王毅28日应约会见陪同蒙古国总统呼日勒苏赫访华的蒙古国外长巴特策策格。王毅表示，中蒙关系保持积极发展势头，不仅符合两国共同利益，也为动荡不安的世界提供了稳定性。中方愿同蒙方进一步加强两党两国治国理政经验交流，在推进两国发展振兴的道路上进一步加强团结协作，朝着构建两国命运共同体的大方向共同努力。巴特策策格对此表示赞同，表示蒙方支持中方提出的一系列重要倡议，希与中方推进重点项目建设，推动两国关系迈上新台阶。（新华网）]]></title>
             <guid>2883617</guid>
             <pubDate>Mon, 28 Nov 2022 16:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美俄《新削减战略武器条约》双边协商委员会会议推迟召开】央视新闻援引塔斯社11月28日报道，原定于11月29日至12月6日在埃及首都开罗举行的美俄《新削减战略武器条约》双边协商委员会会议将推迟召开。美国驻俄罗斯大使馆称，俄方将于近日向美方建议新的会谈时间。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqmmthc6342576.d.html</link>
-            <guid>2883610</guid>
-            <pubDate>Mon, 28 Nov 2022 16:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：给予Unity Software(U.N)持股观望评级，目标价27.5美元。]]></title>
-            <guid>2883608</guid>
-            <pubDate>Mon, 28 Nov 2022 16:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
