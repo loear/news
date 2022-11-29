@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 29 Nov 2022 18:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 19:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：伊拉克计划在2023年将石油出口扩大至360万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-30/detail-imqqsmrp8033093.d.html</link>
+            <guid>2885000</guid>
+            <pubDate>Tue, 29 Nov 2022 18:55:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Redburn：首予Visa(V.N)卖出评级。分析师Fahed Kunwar认为，随着数字钱包的发展，借记卡的品牌力量正在消退，他认为市场低估了周期性和结构性问题对信用卡网络股票的影响。]]></title>
+            <guid>2884997</guid>
+            <pubDate>Tue, 29 Nov 2022 18:50:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  德国总理朔尔茨：对与卡塔尔达成液化天然气（LNG）供应协议感到欣慰，那将利好德国的能源供应（安全）。]]></title>
             <guid>2884990</guid>
@@ -238,29 +249,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqqsmrp8022957.d.html</link>
             <guid>2884907</guid>
             <pubDate>Tue, 29 Nov 2022 15:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【溢多利：公司原材料套期保值金额较小 不存在不可控风险】溢多利在互动平台表示，公司原材料的套期保值目前正常开展，且金额较小，不存在不可控的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqmmthc6470520.d.html</link>
-            <guid>2884896</guid>
-            <pubDate>Tue, 29 Nov 2022 14:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  四洲集团(00374.HK)：截至2022年9月30日止6个月，营收为21.13亿港元；公司权益所有者应占溢利为为5838.1万港元；摊薄每股收益为15.2港仙；宣派中期股息每股普通股为现金3港仙。]]></title>
-            <guid>2884893</guid>
-            <pubDate>Tue, 29 Nov 2022 14:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：大众汽车在与富士康磋商合作生产Scout品牌汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqqsmrp8021750.d.html</link>
-            <guid>2884892</guid>
-            <pubDate>Tue, 29 Nov 2022 14:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  康菲石油(COP.N)涨2%，此前与卡塔尔石油公司达成15年的液化天然气协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-29/detail-imqqsmrp8021571.d.html</link>
-            <guid>2884891</guid>
-            <pubDate>Tue, 29 Nov 2022 14:46:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
