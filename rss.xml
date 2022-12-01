@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 01 Dec 2022 19:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 20:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美法两国总统共同召开新闻发布会】当地时间12月1日，美国总统拜登和法国总统马克龙共同召开新闻发布会，就马克龙对美国的国事访问以及两国在多个问题上的合作发表讲话。拜登在讲话中提及了美法伙伴关系在乌克兰问题、气候变化、全球卫生安全和基础设施建设等领域的合作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-02/detail-imqmmthc6737523.d.html</link>
+            <guid>2888049</guid>
+            <pubDate>Thu, 01 Dec 2022 20:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国夏威夷冒纳罗亚火山持续喷发，熔岩流逼近道路】据报道，美国夏威夷州的冒纳罗亚火山仍在持续喷发。截至30日上午，火山喷发导致的熔岩流已经流至距离连接夏威夷大岛岛屿东西两侧的高速公路3.6英里（约5794米）处。夏威夷紧急事务管理局通讯部长亚当·温特劳布（Adam Weintraub）表示，如果熔岩足够靠近道路并构成危险，将考虑关闭高速公路。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-02/detail-imqqsmrp8282630.d.html</link>
+            <guid>2887920</guid>
+            <pubDate>Thu, 01 Dec 2022 19:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：推特向广告商提供激励措施以提高支出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-02/detail-imqqsmrp8282162.d.html</link>
+            <guid>2887797</guid>
+            <pubDate>Thu, 01 Dec 2022 19:23:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【前11个月超半数券商集合理财产品获正收益，新增超2000只产品备案】 据中基协数据不完全统计，今年前11个月，累计新增2053只券商集合理财产品备案，同比下降9.52%。从券商集合理财备案产品类型来看，主要包括固定收益类、混合类、权益类、商品及金融衍生品类四大类。其中，固定收益类产品备案数量最多，占据主要地位。Wind数据显示，今年前11个月，有数据可查的3270只券商集合理财产品的平均收益率为-0.91%。其中，30只产品收益率均超10%；1681只产品保持正收益，占比51%。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-02/detail-imqmmthc6735850.d.html</link>
@@ -236,18 +254,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6726839.d.html</link>
             <guid>2887549</guid>
             <pubDate>Thu, 01 Dec 2022 15:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油突破83美元/桶，日内涨3.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8271706.d.html</link>
-            <guid>2887540</guid>
-            <pubDate>Thu, 01 Dec 2022 14:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球首条吉瓦时（GWh）级钠离子电池生产线产品在安徽阜阳下线】据三峡集团消息，11 月 29 日上午，全球首条吉瓦时（GWh）级钠离子电池生产线产品下线仪式在安徽省阜阳市举行。该生产线是三峡集团所属三峡能源、三峡资本与安徽省阜阳市人民政府、中科海钠深度合作的阶段性成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6725297.d.html</link>
-            <guid>2887539</guid>
-            <pubDate>Thu, 01 Dec 2022 14:52:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
