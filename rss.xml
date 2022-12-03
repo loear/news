@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Dec 2022 12:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 13:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：欧佩克结束了关于行政事务的部长级会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8484757.d.html</link>
+            <guid>2890006</guid>
+            <pubDate>Sat, 03 Dec 2022 12:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【OYO酒店宣布在企业部门和技术部门裁员600人】软银持股的Oyo Hotels宣布在企业部门和技术部门裁员600人，在公司占比大约六分之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqmmthc6940942.d.html</link>
+            <guid>2890005</guid>
+            <pubDate>Sat, 03 Dec 2022 12:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间12月3日，乌克兰首都基辅拉响防空警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqmmthc6940254.d.html</link>
+            <guid>2890004</guid>
+            <pubDate>Sat, 03 Dec 2022 12:43:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【冷空气接踵而至 多地持续低温模式】今日起，一股补充冷空气接踵而至，受此影响，今明两天，华北、东北等地气温将走低，其中，吉林东部局地降温幅度可达10℃以上，并伴有大风天气，体感十分寒冷。中央气象台预计，未来几天我国大部地区气温偏低。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqmmthc6937720.d.html</link>
@@ -358,23 +376,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8437508.d.html</link>
             <guid>2889520</guid>
             <pubDate>Sat, 03 Dec 2022 02:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【晶科能源：暂扣光伏组件被美国海关首批放行】记者从晶科能源方面获悉，公司暂扣的光伏组件被美国海关首批放行，具体放行的数量，以及相关检查流程是否有变化，正在进一步核实。此前来自行业信息显示，有大量使用瓦克多晶硅制造的晶科能源组件已经出现在美国市场，并且已经在安装现场。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8437435.d.html</link>
-            <guid>2889519</guid>
-            <pubDate>Sat, 03 Dec 2022 02:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市卫生健康委副主任、新闻发言人张屹介绍，广州全市现有定点、亚定点、方舱医院可用于收治感染者病床数近9万张，及2000张以上的ICU重症床位的应急储备。（澎湃）]]></title>
-            <guid>2889410</guid>
-            <pubDate>Sat, 03 Dec 2022 02:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【粮农组织：全球食品价格降至近一年前水平】联合国粮食及农业组织2日发布报告显示，国际食品价格指数十一月总体稳定，谷物、肉类、乳制品国际价格下跌，基本抵消植物油和食糖报价涨幅。11月，粮农组织食品价格指数平均为135.7点，环比微跌。与2021年11月相比，当前指数同比涨幅仅为0.3%。粮农组织谷物价格指数11月环比下跌1.3%，但同比仍高出6.3%。世界小麦价格和玉米价格11月环比分别下跌2.8%和1.7%，部分归因于“黑海粮食倡议”的延期实施。与此同时，国际大米价格11月则上涨2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8433703.d.html</link>
-            <guid>2889352</guid>
-            <pubDate>Sat, 03 Dec 2022 02:10:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
