@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 03 Dec 2022 19:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 20:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Archegos创始人Bill Hwang寻求驳回指控 指称检方存在欺骗行为】Archego Capital Management的Bill Hwang要求一位法官撤销针对他的欺诈指控，因检方在政府调查初期涉嫌参与“欺骗”行为。Hwang的律师在周五晚提请驳回该指控的动议中表示，Hwang在与调查人员的数次会面中被诱骗至协助政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8505583.d.html</link>
+            <guid>2890045</guid>
+            <pubDate>Sat, 03 Dec 2022 19:59:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【超300家机构关注两大赛道龙头 透露市场增长、发展方向等关键信息】11月27日至12月3日，机构合计调研上市公司291家。被调研方多属于电子、机械设备、医药生物、电力设备、计算机、国防军工等板块，各板块均有20家以上公司入榜，合计占比近六成。其中，智能操作系统龙头中科创达共计获得365家机构调研居首，交银施罗德、汇添富基金、嘉实基金等知名投资公司均有参与。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6960968.d.html</link>
@@ -370,24 +376,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8454655.d.html</link>
             <guid>2889946</guid>
             <pubDate>Sat, 03 Dec 2022 06:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022年下半年中小学教师资格考试（面试）12月9日开始报名。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqqsmrp8454630.d.html</link>
-            <guid>2889945</guid>
-            <pubDate>Sat, 03 Dec 2022 06:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【岚图汽车：11月共交付1508辆，累计交付24471辆】岚图汽车官微消息，2022年11月，受诸多不利因素影响，岚图共交付新车1508辆，成交均价超38.2万元。自2021年8月以来，岚图汽车已累计交付24471辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqmmthc6911222.d.html</link>
-            <guid>2889944</guid>
-            <pubDate>Sat, 03 Dec 2022 06:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首条氢能工业车辆制造生产线正式投产】12月3日，由中国能源研究会燃料电池专委会主办的大湾区“氢陶都—绿色搬运体系”建设正式启动，广东新氢动力氢能工业车辆生产线投产。据悉，此次投产的生产线是专业生产适配于工业车辆的动力系统，是国内首条（套）专属于氢能工业车辆制造生产线，突显氢能车辆应用端专属场景的技术及产品应用价值。此外，新氢动力还发布了多款“行业首个”氢能产品，包括搭载固态金属储氢系统的3.5吨氢燃料电池叉车、7吨氢燃料电池叉车、6吨氢燃料电池牵引车、氢燃料电池观光车以及氢燃料电池移动电源等。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-03/detail-imqmmthc6910399.d.html</link>
-            <guid>2889943</guid>
-            <pubDate>Sat, 03 Dec 2022 06:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
