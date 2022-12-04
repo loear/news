@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 Dec 2022 12:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 13:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：美国的《通胀削减法案》引起了欧洲的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc7031584.d.html</link>
+            <guid>2890916</guid>
+            <pubDate>Sun, 04 Dec 2022 13:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【明起武汉公交不再查验核酸检测阴性证明】武汉公交发布运营公告，12月5日起，广大乘客凭健康码绿码乘车，不再查验核酸检测阴性证明。此前，武汉地铁发布消息，12月5日起，武汉地铁不再查验核酸检测阴性证明。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8573607.d.html</link>
+            <guid>2890913</guid>
+            <pubDate>Sun, 04 Dec 2022 13:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神舟十四号载人飞行任务取得圆满成功】据中国载人航天工程办公室消息，北京时间2022年12月4日20时09分，神舟十四号载人飞船返回舱在东风着陆场成功着陆，现场医监医保人员确认航天员陈冬、刘洋、蔡旭哲身体状态良好，神舟十四号载人飞行任务取得圆满成功。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8571001.d.html</link>
+            <guid>2890876</guid>
+            <pubDate>Sun, 04 Dec 2022 12:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【印尼火山喷发 警戒级别“置顶”】印度尼西亚爪哇岛东部塞梅鲁火山4日喷发，印尼政府随即将该火山的警戒级别上调至最高级。印尼国家抗灾署在一份声明里说，塞梅鲁火山4日凌晨2时46分开始喷发。一些发布在社交媒体上的视频显示，火山喷射出的火山灰直冲云霄，笼罩周边多个村庄。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8570788.d.html</link>
@@ -327,23 +345,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8544832.d.html</link>
             <guid>2890722</guid>
             <pubDate>Sun, 04 Dec 2022 06:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：将继续通过乌克兰向欧洲输送天然气，周日的天然气输送量为4260万立方米。]]></title>
-            <guid>2890721</guid>
-            <pubDate>Sun, 04 Dec 2022 06:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马克龙：若普京同意和谈，西方应考虑俄罗斯的安全需求】12月3日，在法国电视台播出的录制讲话中，法国总统马克龙表示，如果俄罗斯总统普京同意就结束俄乌冲突进行谈判，西方应该考虑如何解决俄罗斯对安全保障的需求问题。“这意味着我们必须解决关键的问题之一——正如普京总统一直所说的那样——俄罗斯担心北约会上门来，也担心其部署可能威胁俄罗斯安全的武器。”马克龙表示，“这个话题将成为和谈的一部分，所以我们需要准备好，我们需要考虑如何保护盟友和成员国，也需要考虑如何在俄罗斯重返谈判桌之日向其提供保证。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc7001736.d.html</link>
-            <guid>2890720</guid>
-            <pubDate>Sun, 04 Dec 2022 06:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统府：韩国总统尹锡悦表示，在罢工中违反法律的人应该受到惩罚。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8542921.d.html</link>
-            <guid>2890716</guid>
-            <pubDate>Sun, 04 Dec 2022 06:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
