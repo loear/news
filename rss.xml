@@ -4,11 +4,50 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 Dec 2022 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 07:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[为表达对江泽民同志的无比崇敬和深切悼念之情，根据江泽民同志治丧委员会公告（第2号）精神，在12月6日上午江泽民同志追悼大会默哀期间，证券期货市场临时停市3分钟，默哀结束后恢复交易。（中国证监会）]]></title>
+            <guid>2890727</guid>
+            <pubDate>Sun, 04 Dec 2022 07:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：12月04日14时54分在河北秦皇岛市卢龙县发生2.3级地震，震源深度13千米。]]></title>
+            <guid>2890725</guid>
+            <pubDate>Sun, 04 Dec 2022 07:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世纪证券投行部数人被带走，或涉董事长余维佳被查一事】备受市场关注的世纪证券董事长余维佳被带走配合调查一事又出新动态，据接近世纪证券人士透露，近日数名世纪证券投行部员工被相关部门带走协助调查，或与董事长被查一事相关。此前有消息称，世纪证券董事长余维佳被带走配合相关部门调查源于一家上市公司东方网力的资本运作，该公司现已退市。而其曾经的老部下、担任过东方网力董事长的赵丰也因此配合调查。与此同时，波折中的世纪证券对于董事长继任者或许出现了新的安排，21世纪经济报道记者独家获悉，来自公司第一大股东前海金控总经理李剑峰目前已正式报高管资格，后续可能会正式任命。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8544832.d.html</link>
+            <guid>2890722</guid>
+            <pubDate>Sun, 04 Dec 2022 06:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：将继续通过乌克兰向欧洲输送天然气，周日的天然气输送量为4260万立方米。]]></title>
+            <guid>2890721</guid>
+            <pubDate>Sun, 04 Dec 2022 06:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马克龙：若普京同意和谈，西方应考虑俄罗斯的安全需求】12月3日，在法国电视台播出的录制讲话中，法国总统马克龙表示，如果俄罗斯总统普京同意就结束俄乌冲突进行谈判，西方应该考虑如何解决俄罗斯对安全保障的需求问题。“这意味着我们必须解决关键的问题之一——正如普京总统一直所说的那样——俄罗斯担心北约会上门来，也担心其部署可能威胁俄罗斯安全的武器。”马克龙表示，“这个话题将成为和谈的一部分，所以我们需要准备好，我们需要考虑如何保护盟友和成员国，也需要考虑如何在俄罗斯重返谈判桌之日向其提供保证。”（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc7001736.d.html</link>
+            <guid>2890720</guid>
+            <pubDate>Sun, 04 Dec 2022 06:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国总统府：韩国总统尹锡悦表示，在罢工中违反法律的人应该受到惩罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8542921.d.html</link>
+            <guid>2890716</guid>
+            <pubDate>Sun, 04 Dec 2022 06:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国总统府：韩国总统尹锡悦要求准备一项命令，将复工要求扩展到水泥行业以外。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc7000400.d.html</link>
+            <guid>2890715</guid>
+            <pubDate>Sun, 04 Dec 2022 06:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：韩国总统尹锡悦命令准备应对卡车司机长时间罢工的措施。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8542611.d.html</link>
@@ -370,64 +409,6 @@
             <title><![CDATA[中国地震台网正式测定：12月04日05时20分在河北秦皇岛市卢龙县（北纬39.88度，东经118.87度）发生3.8级地震，震源深度10千米。]]></title>
             <guid>2890051</guid>
             <pubDate>Sat, 03 Dec 2022 21:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：12月04日05时20分在河北秦皇岛市卢龙县附近（北纬39.89度，东经118.87度）发生3.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2890050</guid>
-            <pubDate>Sat, 03 Dec 2022 21:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济日报：好货不用等！即时零售风口已至】随着消费场景不断向线上转移，即时零售迎来新机遇，逐渐成为驱动消费增长的新引擎。不同于传统电商，即时零售主要依托实体门店，结合30分钟即时配送的能力，不仅为消费者提供了“万物皆可到家”的消费体验，而且推动了线上线下深度融合。商务部近日发布的《中国电子商务报告2021》显示，直播电商、即时零售等模式业态创新不断激发消费活力，带动网络零售提质升级，助力构建全国统一大市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6964054.d.html</link>
-            <guid>2890049</guid>
-            <pubDate>Sat, 03 Dec 2022 21:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航天员乘组完成首次在轨交接 中国空间站正式开启长期有人驻留模式】据中国载人航天工程办公室消息，12月2日晚，神舟十四号、神舟十五号航天员乘组进行交接仪式，两个乘组移交了中国空间站的钥匙。这是中国航天员乘组完成的首次在轨交接，中国空间站正式开启长期有人驻留模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6962987.d.html</link>
-            <guid>2890047</guid>
-            <pubDate>Sat, 03 Dec 2022 20:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Archegos创始人Bill Hwang寻求驳回指控 指称检方存在欺骗行为】Archego Capital Management的Bill Hwang要求一位法官撤销针对他的欺诈指控，因检方在政府调查初期涉嫌参与“欺骗”行为。Hwang的律师在周五晚提请驳回该指控的动议中表示，Hwang在与调查人员的数次会面中被诱骗至协助政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8505583.d.html</link>
-            <guid>2890045</guid>
-            <pubDate>Sat, 03 Dec 2022 19:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超300家机构关注两大赛道龙头 透露市场增长、发展方向等关键信息】11月27日至12月3日，机构合计调研上市公司291家。被调研方多属于电子、机械设备、医药生物、电力设备、计算机、国防军工等板块，各板块均有20家以上公司入榜，合计占比近六成。其中，智能操作系统龙头中科创达共计获得365家机构调研居首，交银施罗德、汇添富基金、嘉实基金等知名投资公司均有参与。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6960968.d.html</link>
-            <guid>2890043</guid>
-            <pubDate>Sat, 03 Dec 2022 19:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦一煤矿发生瓦斯爆炸 6名矿工死亡】当地时间12月3日，据巴基斯坦俾路支省灾害部门和地方政府救援队消息，位于俾路支省哈奈地区的一个煤矿发生瓦斯爆炸，导致6名矿工被困在矿井内。矿场总督察阿卜杜勒加尼说，经过长达8小时的救援，6名矿工的遗体被从矿场运走。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqqsmrp8503872.d.html</link>
-            <guid>2890041</guid>
-            <pubDate>Sat, 03 Dec 2022 18:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美国44个州处于呼吸系统疾病高活动水平】据《国会山报》当地时间12月3日报道，呼吸系统疾病在美国各地呈上升趋势。在流感季节恶化的情况下，有44个州目前处于呼吸系统疾病高活动水平。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6959906.d.html</link>
-            <guid>2890040</guid>
-            <pubDate>Sat, 03 Dec 2022 18:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙警方：6封可疑邮件或均来自巴利亚多利德省】据西班牙警方当地时间12月3日报告，针对乌克兰驻西班牙大使馆、西班牙首相府和国防部等机构在最近数日内收到可疑信件，警方目前已经锁定可疑信件的发出地点。六封带有爆炸物和燃烧物的可疑信件来源地点很可能均位于西班牙西北部的巴利亚多利德省，但目前尚未查明发信人的身份。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6959472.d.html</link>
-            <guid>2890039</guid>
-            <pubDate>Sat, 03 Dec 2022 18:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【0糖茶饮正成为越来越多年轻人的选择】《2022年中国无糖茶饮行业洞察报告》显示，无糖茶饮产业已步入成长期，无糖茶饮市场规模从2014年6亿增长至2020年48.5亿，年复合增长率超过40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-04/detail-imqmmthc6959315.d.html</link>
-            <guid>2890038</guid>
-            <pubDate>Sat, 03 Dec 2022 18:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港太空馆推出月球火星VR展 全面展示香港团队科研贡献】卫星探测、月球车、VR(虚拟实境)体验“嫦娥四号”和“天问一号”着陆……香港太空馆3日起推出全新互动展品“月球、火星虚拟实境”，全方位展示为航天任务提供技术支持的香港团队的科研贡献及成果。主办方介绍，是次展览为期一年，展品通过中国国家航天局及香港理工大学(理大)团队提供的数据，构建出月球及火星虚拟实境，让参观者亲身体验“探月落火”之旅。展品会同时介绍“嫦娥”和“天问”探测工程，以及理大为这两项任务提供的技术支援，让参观者可以详细了解团队的科研贡献及成果。（中新网）]]></title>
-            <guid>2890037</guid>
-            <pubDate>Sat, 03 Dec 2022 18:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
