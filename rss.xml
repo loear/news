@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 05 Dec 2022 18:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 19:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据公司声明：MercadoLibre(MELI.O)称苹果(AAPL.O)滥用对ios设备应用分发的垄断权。]]></title>
+            <guid>2893314</guid>
+            <pubDate>Mon, 05 Dec 2022 18:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股水滴盘中上涨25.78%，现报2.025美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8707465.d.html</link>
+            <guid>2893313</guid>
+            <pubDate>Mon, 05 Dec 2022 18:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据公司声明：MercadoLibre(MELI.O)称已针对苹果(AAPL.O)在墨西哥和巴西涉嫌反竞争的行为提出投诉。]]></title>
+            <guid>2893309</guid>
+            <pubDate>Mon, 05 Dec 2022 18:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  DA Davidson：将Chargepoint(CHPT.N)目标价下调至18美元 维持买入评级。]]></title>
             <guid>2893306</guid>
@@ -199,24 +215,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-05/detail-imqmmthc7160199.d.html</link>
             <guid>2893219</guid>
             <pubDate>Mon, 05 Dec 2022 15:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海南省海口、三亚、儋州、澄迈对省外来（返）人员不再实施分类管控。（海南发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-05/detail-imqmmthc7160177.d.html</link>
-            <guid>2893218</guid>
-            <pubDate>Mon, 05 Dec 2022 15:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福星股份：拟定增募资不超13.41亿元】 福星股份12月5日晚间披露非公开发行A股股票预案，拟向不超35名特定对象非公开发行不超2.85亿股股份，募资不超13.41亿元，用于红桥城K6住宅项目、红桥城K15项目和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-05/detail-imqqsmrp8700641.d.html</link>
-            <guid>2893217</guid>
-            <pubDate>Mon, 05 Dec 2022 15:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国11月就业趋势指数下降】 当地时间12月5日，据世界大型企业联合会公布的数据显示，美国11月就业趋势指数为117.65，低于10月份修正后的118.74。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-05/detail-imqmmthc7159724.d.html</link>
-            <guid>2893213</guid>
-            <pubDate>Mon, 05 Dec 2022 15:14:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
