@@ -4,13 +4,13 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Dec 2022 19:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 20:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[赛诺菲、葛兰素史克股价迅速走高，均涨约5%。]]></title>
+            <title><![CDATA[  葛兰素史克(GSK.N)涨超10%，赛诺菲(SNY.O)涨7.7%。消息面上，葛兰素史克和赛诺菲据称赢得有关Zantac的诉讼案。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7272746.d.html</link>
             <guid>2894904</guid>
             <pubDate>Tue, 06 Dec 2022 19:13:39 GMT</pubDate>
@@ -187,12 +187,6 @@
             <title><![CDATA[  波音公司将停产747飞机——最后一批产品将在12月6日深夜“出厂”，该机型已经生产超过50年。波音747，又称为“珍宝客机”，亦是全世界首款生产出的宽体民航飞机。]]></title>
             <guid>2894809</guid>
             <pubDate>Tue, 06 Dec 2022 15:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【立华股份：正推进黄羽鸡半成品料理及预制菜品研发和推广】立华股份在互动平台表示，公司正积极推进黄羽鸡半成品料理及预制菜品的研发和推广。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8803862.d.html</link>
-            <guid>2894803</guid>
-            <pubDate>Tue, 06 Dec 2022 14:57:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
