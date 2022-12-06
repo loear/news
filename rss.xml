@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Dec 2022 17:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 18:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  苹果(AAPL.O)：对App Store定价进行升级，增加700个新价位；开发者将能够灵活管理全球定价。]]></title>
+            <guid>2894889</guid>
+            <pubDate>Tue, 06 Dec 2022 18:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国：将由地方政府决定如何发展陆上风电项目。英国就建设新的陆上风电场问题开始征求意见。]]></title>
+            <guid>2894888</guid>
+            <pubDate>Tue, 06 Dec 2022 18:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英联股份：目前复合箔材、铝塑膜业务尚未形成业务收入】英联股份12月6日在投资者互动平台表示：公司目前复合箔材、铝塑膜业务尚未形成业务收入，公司将会积极推进相关业务实施；公司已采购的复合铜箔相关设备将会于3个月内交付。对于适用于消费类电池及动力电池的铝塑膜产品，公司正在研发测试、送样反馈阶段。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8810304.d.html</link>
+            <guid>2894887</guid>
+            <pubDate>Tue, 06 Dec 2022 18:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在大规模资产外流后 瑞士信贷致力于再吸收资产】瑞士信贷正试图用更高收益的票据和更高的存款利率来吸引富有的客户，以尽快收回最近从该银行撤出的近900亿美元。瑞信财富管理部门的负责人Francesco de Ferrari正在动员1800名客户经理进行大规模宣传，提供的条件包括降低5%至6%利率的存款门槛。此外，该行还在发行收益率接近7%的固定利率票据，以补偿投资者在几个月内将现金借给银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8809988.d.html</link>
+            <guid>2894886</guid>
+            <pubDate>Tue, 06 Dec 2022 17:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：瑞士信贷(CS.N)财富管理部门提供票面利率为7%的票据以赢得客户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8809758.d.html</link>
+            <guid>2894883</guid>
+            <pubDate>Tue, 06 Dec 2022 17:50:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音(BA.N)短线走低，现跌2.8%，此前空客警告称2022年共计交付约700架飞机的目标无法实现。]]></title>
             <guid>2894871</guid>
@@ -194,59 +222,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8803116.d.html</link>
             <guid>2894791</guid>
             <pubDate>Tue, 06 Dec 2022 14:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克将部分推特办公室改成卧室，方便员工通宵工作】当地时间12月5日，社交平台推特的新老板埃隆·马斯克已将推特旧金山总部的部分办公室改造成了卧室，以便通宵工作的员工们使用。目前尚不清楚共有多少间办公室被改造成了卧室，但一位知情人士称，每层楼可能有四到八间卧室。11月中旬，马斯克曾在推特上表示，他将在推特总部工作和睡觉，直到推特被改造好，不仅如此，他还晒出了在推特总部睡觉的照片，不过，该推文已被删除。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8803101.d.html</link>
-            <guid>2894790</guid>
-            <pubDate>Tue, 06 Dec 2022 14:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行(BAC.N)CEO：预计本季度支出约为155亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8802959.d.html</link>
-            <guid>2894788</guid>
-            <pubDate>Tue, 06 Dec 2022 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根大通：将爱奇艺(IQ.O)目标价从7美元下调至6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263737.d.html</link>
-            <guid>2894786</guid>
-            <pubDate>Tue, 06 Dec 2022 14:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士信贷：将礼来(LLY.N)目标价从395美元上调至400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263728.d.html</link>
-            <guid>2894785</guid>
-            <pubDate>Tue, 06 Dec 2022 14:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意国家统计局：预计2023年意大利国内生产总值将增长0.4%】 当地时间12月6日，意大利国家统计局发布2022-2023年经济前景报告，预计2022年意国内生产总值增长3.9%，而2023年则会明显放缓至0.4%。意大利国家统计局认为，如果未来几个月内商品价格的上升压力有所缓解，在油价和汇率稳定的情况下，该国2023年的通胀率将可能得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263665.d.html</link>
-            <guid>2894782</guid>
-            <pubDate>Tue, 06 Dec 2022 14:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东风EV新能源宣布涨价 旗下车型预计上调7000至9000元】东风EV新能源官方微博宣布，将对旗下所有车型的官方指导价进行上调，预计上调幅度为7000元-9000元不等，具体调价通知将另行发布。东风EV新能源承诺，在2022年12月31日前支付全款且完成车辆登记上牌的用户不受此次调价影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263548.d.html</link>
-            <guid>2894780</guid>
-            <pubDate>Tue, 06 Dec 2022 14:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将美国合众银行(USB.N)目标价从57美元下调至55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263454.d.html</link>
-            <guid>2894778</guid>
-            <pubDate>Tue, 06 Dec 2022 14:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将富国银行(WFC.N)目标价从54美元上调至60美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8802526.d.html</link>
-            <guid>2894777</guid>
-            <pubDate>Tue, 06 Dec 2022 14:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车地带(AZO.N)跌1.14%，报2498美元，2023财年Q1净利润同比减少2.9%至5.39亿美元。]]></title>
-            <guid>2894776</guid>
-            <pubDate>Tue, 06 Dec 2022 14:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
