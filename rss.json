@@ -6,6 +6,19 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2894871,
+            "content_html": "",
+            "title": "波音(BA.N)短线走低，现跌2.8%，此前空客警告称2022年共计交付约700架飞机的目标无法实现。",
+            "date_modified": "2022-12-06T16:59:43.000Z"
+        },
+        {
+            "id": 2894869,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8808477.d.html",
+            "title": "  空客ADR回吐美股盘中稍早涨幅，并转而下跌2%。",
+            "date_modified": "2022-12-06T16:55:20.000Z"
+        },
+        {
             "id": 2894856,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8807703.d.html",
@@ -271,70 +284,6 @@
             "content_html": "",
             "title": "  汽车地带(AZO.N)跌1.14%，报2498美元，2023财年Q1净利润同比减少2.9%至5.39亿美元。",
             "date_modified": "2022-12-06T14:33:57.000Z"
-        },
-        {
-            "id": 2894774,
-            "content_html": "",
-            "title": "  Gossamer Bio（GOSS）周二低开63%，创该公司美国IPO以来最大盘中跌幅，此前该公司发布了药品研究结果。",
-            "date_modified": "2022-12-06T14:33:20.000Z"
-        },
-        {
-            "id": 2894772,
-            "content_html": "",
-            "title": "  Gitlab(GTLB.O)涨超13%，2023财年Q3营收同比增长69%至1.13亿美元好于市场预期，公司将全财年营收指引上调至4.205-4.205亿美元。",
-            "date_modified": "2022-12-06T14:32:52.000Z"
-        },
-        {
-            "id": 2894771,
-            "content_html": "",
-            "title": "  水滴(WDH.N)涨约6%，Q3营收环比增长10.1%至7.72亿元，净利润录得1.7亿元连续四个季度实现盈利。",
-            "date_modified": "2022-12-06T14:32:44.000Z"
-        },
-        {
-            "id": 2894770,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7263288.d.html",
-            "title": "世界银行：世界最贫穷的国家将超过10%的出口收入用于偿债。",
-            "date_modified": "2022-12-06T14:31:47.000Z"
-        },
-        {
-            "id": 2894769,
-            "content_html": "",
-            "title": "世界银行：2022年，世界最贫穷国家的公共债务还本付息额预计将同比增长35%，达到620亿美元以上。",
-            "date_modified": "2022-12-06T14:31:33.000Z"
-        },
-        {
-            "id": 2894764,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8801966.d.html",
-            "title": "  美国银行CEO Moyinhan：（美国消费者的）开支增速开始放缓。",
-            "date_modified": "2022-12-06T14:25:03.000Z"
-        },
-        {
-            "id": 2894763,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-06/detail-imqmmthc7262814.d.html",
-            "title": "【亚马逊同意达成最终协议以结束欧盟反垄断调查】亚马逊(AMZN.O)已与欧盟反垄断监管机构就其使用数据损害竞争对手的担忧达成最终协议。亚马逊承诺提高竞争对手产品的可见度，在亚马逊的“Buy Box”（黄金购物车）上给予平等待遇，承诺将在五年内有效。知情人士称，欧盟委员会计划在12月20日宣布这项交易，但日期仍可能在最后一刻改变。此举代表着欧盟遏制大型科技公司权力的新《数字市场法案》的一次胜利，也意味着亚马逊将避免违反欧盟法律的正式指控和高达全球收入10%的巨额罚款。",
-            "date_modified": "2022-12-06T14:24:40.000Z"
-        },
-        {
-            "id": 2894761,
-            "content_html": "",
-            "title": "  福特汽车与SK位于美国肯塔基州BlueOval城的BlueOval SK电池工厂破土动工。",
-            "date_modified": "2022-12-06T14:22:47.000Z"
-        },
-        {
-            "id": 2894759,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-06/detail-imqqsmrp8801743.d.html",
-            "title": "市场消息：俄罗斯考虑石油销售的最低限价，以回应七国集团的油价限制。",
-            "date_modified": "2022-12-06T14:21:20.000Z"
-        },
-        {
-            "id": 2894758,
-            "content_html": "",
-            "title": "高盛CEO David Solomon针对（美国）经济前景（的不确定性）发出警告：如果高盛削减奖金甚至裁员，请大家不要感到惊讶。",
-            "date_modified": "2022-12-06T14:20:01.000Z"
         }
     ]
 }
