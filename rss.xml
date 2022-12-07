@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Dec 2022 16:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：12月8日00时54分在中国台湾省花莲县海域发生5.1级地震，震源深度30千米。]]></title>
+            <guid>2896325</guid>
+            <pubDate>Wed, 07 Dec 2022 17:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟寻求增加对三家俄罗斯银行的制裁，以及切断俄罗斯的无人机配件（供应）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8927391.d.html</link>
+            <guid>2896322</guid>
+            <pubDate>Wed, 07 Dec 2022 17:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩宣布第九轮对俄制裁一揽子措施。欧盟计划增加对俄罗斯能源和矿业的制裁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7389295.d.html</link>
+            <guid>2896321</guid>
+            <pubDate>Wed, 07 Dec 2022 17:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：秘鲁总统卡斯蒂略解散国会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8927062.d.html</link>
+            <guid>2896320</guid>
+            <pubDate>Wed, 07 Dec 2022 17:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特驻华大使哈勒比：首届中阿峰会将成为中阿关系史上重要里程碑】在首届中国—阿拉伯国家峰会即将召开之际，沙特驻华大使阿卜杜拉赫曼·哈勒比表示，首届中阿峰会将成为中阿关系史上重要里程碑，并在提升双边关系、深化友好合作、巩固政治互信进程中具有重要意义。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7388962.d.html</link>
+            <guid>2896317</guid>
+            <pubDate>Wed, 07 Dec 2022 16:59:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚玛芬再传上市传闻，安踏拒绝正面置评】有消息称，安踏正在考虑启动亚玛芬的首次公开募股（IPO）。安踏及亚玛芬的共同投资者正与投资银行就IPO进行初步谈判。此次IPO或将募资超10亿美元，包括中国私募基金方源资本在内的投资者，正考虑最早明年推动该公司上市。此次IPO的规模与交易地点尚未确定。对此，安踏相关负责人表示：“不就市场传闻发表评论。”（北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7388889.d.html</link>
+            <guid>2896316</guid>
+            <pubDate>Wed, 07 Dec 2022 16:57:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【西班牙发生火车相撞事故，已致155人受伤】据英国广播公司报道，当地时间7日早晨7时50分左右，西班牙东北部加泰罗尼亚地区发生一起火车相撞事故。西班牙应急部门称，该事故已造成155人受伤。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8926435.d.html</link>
+            <guid>2896313</guid>
+            <pubDate>Wed, 07 Dec 2022 16:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙儿科传染病协会称儿童A型链球菌已在该国传播】根据西班牙儿科传染病协会当地时间12月7日发布的公告，该协会认为，儿童A型链球菌已经在该国进行传播，且感染病例数已大幅上升，但绝大多数病例症状较轻，因此该国正在对儿童A型链球菌感染病例情况进行调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8926293.d.html</link>
+            <guid>2896311</guid>
+            <pubDate>Wed, 07 Dec 2022 16:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通：将诺德斯特龙(JWN.N)目标价从20美元下调至16美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8925634.d.html</link>
@@ -173,40 +220,6 @@
             <title><![CDATA[MKM Partners：将汽车地带(AZO.N)目标价从2350美元上调至2650美元。]]></title>
             <guid>2896227</guid>
             <pubDate>Wed, 07 Dec 2022 14:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车板块走低，小牛电动(NIU.O)跌超11%，蔚来汽车(NIO.N)跌超7%，理想汽车(LI.O)跌近6%，特斯拉(TSLA.O)跌超2%。]]></title>
-            <guid>2896224</guid>
-            <pubDate>Wed, 07 Dec 2022 14:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果遭法国环保组织投诉：不允许用备件修复iPhone】法国环保组织HOP协会今日投诉苹果公司，称其商业行为限制了用备件修复其产品的可能性，这是一种浪费行为。HOP协会在一份声明中称：“我们发现，在许多投诉案件中，用备件修复的苹果产品，即使是用同一型号的原厂配件，也都会出现故障，不被苹果的软件所授权（识别）。”对此，苹果尚未发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381233.d.html</link>
-            <guid>2896223</guid>
-            <pubDate>Wed, 07 Dec 2022 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  达达集团美股盘初下跌11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381198.d.html</link>
-            <guid>2896222</guid>
-            <pubDate>Wed, 07 Dec 2022 14:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobileye Global(MBLY.O)涨超7%，第三季度营收同比增长38%至4.5亿美元。]]></title>
-            <guid>2896220</guid>
-            <pubDate>Wed, 07 Dec 2022 14:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：数字零售SaaS平台多点数智有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380704.d.html</link>
-            <guid>2896211</guid>
-            <pubDate>Wed, 07 Dec 2022 14:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将Velodyne(VLDR.O)目标价从1.7美元下调至1.3美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380368.d.html</link>
-            <guid>2896208</guid>
-            <pubDate>Wed, 07 Dec 2022 14:20:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
