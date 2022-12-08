@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 08 Dec 2022 16:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 17:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[墨西哥能源部长：墨西哥在OPEC+获得175.3万桶/日的石油生产配额，这将持续至2023年12月份。]]></title>
+            <guid>2897850</guid>
+            <pubDate>Thu, 08 Dec 2022 17:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)：成本削减已开始达到2023年目标的80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7513588.d.html</link>
+            <guid>2897848</guid>
+            <pubDate>Thu, 08 Dec 2022 17:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)：证券产品部门的出售交易将于明年上半年结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9049516.d.html</link>
+            <guid>2897847</guid>
+            <pubDate>Thu, 08 Dec 2022 17:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)短线拉升，现涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9049331.d.html</link>
+            <guid>2897846</guid>
+            <pubDate>Thu, 08 Dec 2022 17:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拥堵油轮数升至25艘：土耳其新规竟令美欧俄同时担忧】船代公司Tribeca周四（12月8日）最新的航运数据显示，共计有25艘油轮无法通过土耳其的两个海峡。具体数据显示，在黑海等待通过博斯普鲁斯海峡进入马尔马拉海的邮轮数量较昨日增加了9艘至16艘；而在马尔马拉海等待通过达达尼尔海峡进入地中海的油轮数量从昨日的12艘减少至9艘。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048959.d.html</link>
+            <guid>2897841</guid>
+            <pubDate>Thu, 08 Dec 2022 17:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大摩加入华尔街看衰大军：全球经济正处衰退边缘】继摩根大通、高盛、花旗等之后，摩根士丹利也加入了看衰明年经济前景的华尔街机构队伍。美东时间周三，大摩经济学家表示，2023年全球经济增长可能会非常缓慢，美国和欧洲可能会陷入衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7512850.d.html</link>
+            <guid>2897838</guid>
+            <pubDate>Thu, 08 Dec 2022 16:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：首予洛克希德马丁(LMT.N)买入评级 目标价为546美元】花旗分析师Jason Gursky首次覆盖洛克希德马丁，予其买入评级，目标价为546美元。该分析师表示，看好美国国防部在本十年剩余时间内的国防支出的增长前景，以及洛克希德马丁公司在所有领域的能力的多样性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048588.d.html</link>
+            <guid>2897836</guid>
+            <pubDate>Thu, 08 Dec 2022 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英财政大臣将就征收能源暴利税与石油巨头会面】英国财政大臣杰里米·亨特将于周五与北海主要石油和天然气生产商会面，讨论扩大对能源行业征收暴利税的范围。参加会议公司将包括石油巨头壳牌（SHEL.US）、英国石油和道达尔（TTE.US）的代表，以及Harbour（PMOIF.US）和Neptune等独立公司的代表。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048543.d.html</link>
+            <guid>2897834</guid>
+            <pubDate>Thu, 08 Dec 2022 16:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：德国军方将斥资13.5亿欧元购买2万台加密无线电设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7512275.d.html</link>
+            <guid>2897831</guid>
+            <pubDate>Thu, 08 Dec 2022 16:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美加重要输油管线Keystone因漏油而关停 重启或需数日】加拿大和美国墨西哥湾的主要输油管道Keystone因为原油泄漏问题而被关闭。管道运营商TC能源公司称，漏油点位于内华达州Steele Cityl以南约20英里处，已经将受影响的区域隔离，工作人员正在努力控制和回收泄漏的石油。Keystone管道系统原油输送量超过60万桶/日。目前美国库欣原油库存处于7月以来最低水平。中西部地区炼油厂的原油加工量处于月以来最高水平，在关键管道关闭的情况下，原油供应可能会非常紧张。交易员表示，鉴于泄漏的原油流入水路，预计管道可能要关停数天。TC暂未提供对原油泄漏量或管道重启时间的估计。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048132.d.html</link>
+            <guid>2897830</guid>
+            <pubDate>Thu, 08 Dec 2022 16:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Tigress Financial：将英伟达(NVDA.O)目标价下调至250美元 维持买入评级】Tigress Financial分析师Ivan Feinseth将英伟达的目标价从310美元下调至250美元，并维持对该股的买入评级，英伟他对该股估值进行重新评估。该分析师指出，调整后的目标价代表了较目前水平仍有超过55%的潜在上升空间，他认为英伟达在人工智能领域的行业领先地位、多种新产品及伙伴关系使其能够克服近期的不利因素影响，并为新的业务周期做好准备。]]></title>
+            <guid>2897826</guid>
+            <pubDate>Thu, 08 Dec 2022 16:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【郭明錤：推特砍单伺服器 英特尔为主要输家】天风国际证券分析师郭明錤最新研报指出，在Elon Musk并购Twitter后，Twitter砍了伺服器订单约80%。Twitter伺服器几乎都采用Intel的处理器，故此砍单不利于Intel 2023年的营收与利润。因伺服器处理器是Intel关键利润驱动，故Intel为此砍单的主要输家。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7511744.d.html</link>
@@ -214,117 +278,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7505068.d.html</link>
             <guid>2897751</guid>
             <pubDate>Thu, 08 Dec 2022 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在偿还10亿美元伊斯兰债券之前，巴基斯坦外汇储备降至67亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040815.d.html</link>
-            <guid>2897748</guid>
-            <pubDate>Thu, 08 Dec 2022 14:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利国债价格跌幅扩大，10年期意债收益率上涨10个基点，报3.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504789.d.html</link>
-            <guid>2897747</guid>
-            <pubDate>Thu, 08 Dec 2022 14:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科拓生物接受调研：公司基本面正常 尾盘下跌可能是某股东交易错误造成】科拓生物今日在接受调研时表示，公司股价今日在收盘集合竞价阶段下跌约20%，据公司初步了解，可能是某股东交易错误造成，但具体情况仍应由交易所和相关股东最终确认。今日收盘集中竞价的成交额与公司正常交易的成交额相比具有较大差距。公司基本面正常，不存在应披露而未披露的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040530.d.html</link>
-            <guid>2897746</guid>
-            <pubDate>Thu, 08 Dec 2022 14:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，科笛集团向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504493.d.html</link>
-            <guid>2897745</guid>
-            <pubDate>Thu, 08 Dec 2022 14:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔世界杯前两星期接待游客76.5万人 显著低于预期】据路透社、美国消费者新闻与商业频道12月8日消息，卡塔尔在世界杯的前两星期接待了超76.5万名游客，远低于此前120万人的预期数字。国际游客人数远低于预期，导致卡塔尔的住宿出现意外过剩情况。路透社认为，卡塔尔住宿费用过高、禁售酒精饮料规定等都是外国游客数低于预期的原因。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040292.d.html</link>
-            <guid>2897744</guid>
-            <pubDate>Thu, 08 Dec 2022 14:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国和新西兰政商界人士看好两国经贸务实合作前景】中新两国政商界人士7日在新西兰奥克兰举行“愿景2023”双边经贸研讨会，与会人士坚定看好两国基于经贸务实合作的互利共赢前景。新西兰前总理约翰·基表示，对新西兰而言，中国有无限投资机会。“毋庸置疑，中国仍是今天亚洲地区最重要的市场，我对两国贸易前景充满信心。”银蕨农场、恒天然、佳沛等新西兰知名企业高管均在会上表示，过去几年公司在中国市场的销售业绩保持增长和韧性，未来将持续投资中国市场。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504048.d.html</link>
-            <guid>2897741</guid>
-            <pubDate>Thu, 08 Dec 2022 14:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：周四油价反弹 但年内仍有可能继续下跌】美国原油期货价格周四有所反弹，此前四个交易日下跌11%，昨日更是创下今年最低收盘价72.01美元。不过Spartan资本证券分析师Peter Cardillo在一份报告中称，今天的反弹并没有让市场走出看跌的技术结构，并表示更多的2022年低点可能将会到来。“事实上，我们认为油价可能很快跌破70美元/桶，短期目标为68美元/桶。”但一些分析师也提醒投资者，欧佩克官员可能会开始就潜在的减产计划发表意见，以吸引买家重返市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504035.d.html</link>
-            <guid>2897740</guid>
-            <pubDate>Thu, 08 Dec 2022 14:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪：在马来西亚吉隆坡召开品牌发布会暨首款车型上市发布会】比亚迪汽车消息，12月8日，比亚迪在马来西亚吉隆坡召开品牌发布会暨首款车型上市发布会，宣布正式进入马来西亚乘用车市场，发布首款车型元PLUS，并公布标准续航版售价为149,800马来西亚林吉特（约合23万人民币），长续航版售价为167,800马来西亚林吉特（约合26万人民币）。发布会现场，海豚和海豹两款车型也作为彩蛋惊喜亮相。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9039941.d.html</link>
-            <guid>2897739</guid>
-            <pubDate>Thu, 08 Dec 2022 14:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数继续下跌，现跌0.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7503944.d.html</link>
-            <guid>2897738</guid>
-            <pubDate>Thu, 08 Dec 2022 14:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【由于内布拉斯加州石油泄漏，TC能源公司停止了石油泵送】TC能源公司周四表示，在美国内布拉斯加州发现石油泄漏后，该公司已停止从产能为61万桶/日的Keystone管道输油。紧急关闭发生在当地时间周三晚上8点左右，此前由于检测到管道压力下降，警报响起。该管道受影响的部分已被隔离，并部署了拦油栅以控制泄漏往下游迁移。这一消息推动WTI原油日内大涨4%，布油涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7503551.d.html</link>
-            <guid>2897737</guid>
-            <pubDate>Thu, 08 Dec 2022 14:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：英国、西班牙银行对住宅房地产风险敞口最大，地方政府投资池将在2022年第三季度出现季节性资金外流。]]></title>
-            <guid>2897736</guid>
-            <pubDate>Thu, 08 Dec 2022 14:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉夫罗夫：欧盟应该成为新多极世界一员，不应100%依赖美国】俄罗斯外交部长拉夫罗夫表示，俄罗斯希望欧盟成为多极世界的平等（组成）部分，为此欧盟不应该100%依赖美国。拉夫罗夫说道，欧洲与美国利益并不一致，但欧洲现在还不能捍卫自身利益。他认为，法国总统马克龙近日访问美国的结果可以证实这一点。他说，“欧洲有与美国不一致的利益，这很明显。在我看来，欧洲无法捍卫这些利益，这目前也是一个明显的事实。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7502799.d.html</link>
-            <guid>2897734</guid>
-            <pubDate>Thu, 08 Dec 2022 14:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部部务会议召开 研究水利工程供水价格管理工作】据水利部12月8日消息，12月8日，水利部党组书记、部长李国英主持召开部务会议，审议《取水计量技术导则》和《洪水影响评价技术导则》，研究水利工程供水价格管理工作。会议指出，取水计量是落实水资源刚性约束制度的重要基础性工作。要认真审视新形势下水资源管理的新任务新要求，强化取水计量设施建设与管理，加快构建现代化取水计量系统，及时、准确、全面掌握取用水情况，精打细算用好水资源，从严从细管好水资源。会议强调，进一步深化水利工程供水价格改革，建立健全有利于促进水资源集约节约利用和水利工程良性运行、与投融资体制相适应的水价形成机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9038736.d.html</link>
-            <guid>2897733</guid>
-            <pubDate>Thu, 08 Dec 2022 14:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“元宇宙公司”Meta Platform发言人：将转租位于爱尔兰首都都柏林新欧洲总部的部分（办公）空间。]]></title>
-            <guid>2897732</guid>
-            <pubDate>Thu, 08 Dec 2022 14:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内政大臣和同行们表示，他们愿意努力达成欧盟-英国移民合作协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7502201.d.html</link>
-            <guid>2897731</guid>
-            <pubDate>Thu, 08 Dec 2022 13:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟专员约翰逊：保加利亚和罗马尼亚还没有被允许加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9038280.d.html</link>
-            <guid>2897730</guid>
-            <pubDate>Thu, 08 Dec 2022 13:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内政大臣布雷弗曼在与荷兰、比利时、法国和德国的联合声明中表示，他们将继续致力于解决西北欧的非正常移民问题。]]></title>
-            <guid>2897729</guid>
-            <pubDate>Thu, 08 Dec 2022 13:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：亚太地区液化天然气需求将复苏，价格将居高不下。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501827.d.html</link>
-            <guid>2897727</guid>
-            <pubDate>Thu, 08 Dec 2022 13:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新湖中宝：控股股东拟转让公司不超10%股份引入国资】新湖中宝公告，公司控股股东新湖集团拟通过协议转让方式，由新湖集团或其指定主体向衢州市国有资本运营有限公司、衢州控股集团有限公司、衢州工业发展集团有限公司(合称“衢州方”)或其指定主体出售并转让公司股份合计不超8.6亿股（不超公司总股本的10%）。衢州方将在股份转让交易后，全力协助公司进一步争取地方政策支持、全面深化合作，推进公司转型。如上述股份转让完成，公司控股股东和实控人不会发生变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501822.d.html</link>
-            <guid>2897726</guid>
-            <pubDate>Thu, 08 Dec 2022 13:53:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
