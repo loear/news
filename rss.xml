@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 09 Dec 2022 21:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[微软：本公司收购Lumenisity。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwcsve8472881.d.html</link>
+            <guid>2898982</guid>
+            <pubDate>Fri, 09 Dec 2022 21:56:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【富国银行：予博通(AVGO.O)持股观望评级和580美元的目标价】富国银行分析师Aaron Rakers重新覆盖博通，予其持股观望评级和580美元的目标价。该分析师对博通的竞争力和核心特许经营定位以及重大资本回报理论的持续驱动力持积极态度，对于进入2023年上半年的半导体下行周期相关风险，该公司采取了谨慎的短期策略。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwcsvc1652582.d.html</link>
@@ -205,33 +211,6 @@
             <title><![CDATA[力拓(RIO.N)：收购加拿大矿物勘探和开发公司Turquoise Hill Resources Ltd.(TRQ.CN)已获得股东批准，预计将在法院批准后的几天内完成收购。]]></title>
             <guid>2898892</guid>
             <pubDate>Fri, 09 Dec 2022 18:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大矿物勘探和开发公司Turquoise Hill Resources Ltd.（TRQ.CN）的投资者投票，批准力拓（RIO.LN）收购该公司49%已发行和发行在外普通股的协议。]]></title>
-            <guid>2898882</guid>
-            <pubDate>Fri, 09 Dec 2022 17:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约市将启动大麻配送工作，将由人们通过自行车和滑板车等方式交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwchfk8472947.d.html</link>
-            <guid>2898879</guid>
-            <pubDate>Fri, 09 Dec 2022 17:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Coinbase(COIN.O)评级从中性下调至跑输大市，目标价从42美元下调至30美元。]]></title>
-            <guid>2898877</guid>
-            <pubDate>Fri, 09 Dec 2022 17:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华纳兄弟探索公司(WBD.O)：家庭与食品内容和流媒体总裁Jane Latman将离职。]]></title>
-            <guid>2898875</guid>
-            <pubDate>Fri, 09 Dec 2022 17:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Rivian在塞尔维亚开设研发中心 计划在年底前招聘200名工程师】Rivian(RIVN.O)在塞尔维亚贝尔格莱德开设了一个研发中心。Rivian表示，首批员工在前几天开始工作，该公司计划在未来几周和几个月内扩大其贝尔格莱德团队。该公司计划在2022年底前招聘200名工程师，明年将再增加1000个职位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwchfi1674630.d.html</link>
-            <guid>2898874</guid>
-            <pubDate>Fri, 09 Dec 2022 17:16:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
