@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Dec 2022 13:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 14:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【比利时对私人飞机和短途航班征税】根据一份政府声明，比利时将对老旧、噪音较大的飞机以及私人飞机和短途航班征收新税，以减少噪音和空气污染。目前，使用布鲁塞尔机场的飞机必须缴纳起飞和降落时产生的噪音税款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwfewn8696579.d.html</link>
+            <guid>2899765</guid>
+            <pubDate>Sat, 10 Dec 2022 14:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：12月10日21时47分在青海海北州门源县附近发生4.3级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2899764</guid>
+            <pubDate>Sat, 10 Dec 2022 13:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白皮书：中国成为车联网关键技术专利最大产出国】10日在四川成都发布的《车联网知识产权白皮书（2022年）》显示，中国已成为车联网关键技术专利最大产出国。白皮书显示，截至2022年5月，全球车联网领域专利申请累计达到125326件。主要申请人集中分布在传统车厂、汽车元器件企业、通信企业和互联网高科技企业。从各国的研究实力看，日本和美国企业仍占据较高地位；中国是最大的专利产出国，部分公司（如华为、中兴、百度等）表现突出。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwfewn8662819.d.html</link>
+            <guid>2899763</guid>
+            <pubDate>Sat, 10 Dec 2022 13:39:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【日本服装大企业TSI与阿里合作开发元宇宙服务】日本大型服装企业TSI控股（HD）将与阿里巴巴集团旗下的企业等合作，开发网上虚拟空间“元宇宙（Metaverse）”服务。将通过举办时装与运动相结合的活动，营造购物环境，与顾客建立新的接触点。涉足元宇宙业务的动向也开始在零售行业活跃起来。]]></title>
             <guid>2899761</guid>
@@ -383,28 +400,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxweisv1794879.d.html</link>
             <guid>2899566</guid>
             <pubDate>Sat, 10 Dec 2022 04:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【猫眼：全国营业影院数超8000 营业率恢复至6成】据猫眼专业版，截至12月10日12时，12月9日大盘票房1715.9万，营业影院8438家，全国营业率67.87%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxweisw8542635.d.html</link>
-            <guid>2899565</guid>
-            <pubDate>Sat, 10 Dec 2022 04:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部部长金壮龙视频会见沙特通信和信息技术部部长苏瓦哈并签署两部间合作备忘录】近日，工业和信息化部部长金壮龙视频会见沙特通信和信息技术部部长苏瓦哈，双方共同签署了《中华人民共和国工业和信息化部与沙特阿拉伯王国通信和信息技术部合作谅解备忘录》。金壮龙表示，中沙两国在信息通信技术和人工智能等领域有着良好的合作基础，此次签署部门间合作谅解备忘录，将为中沙全面战略伙伴关系发展注入新动力。中方愿同沙方一道，认真落实两国元首的重要共识，携手推动双方信息通信技术和数字领域合作不断取得新成效。苏瓦哈表示，沙方高度重视中沙信息通信领域合作，相信此次合作谅解备忘录签署将进一步深化双边务实合作，推进中沙信息通信技术和数字领域高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxweisv1762406.d.html</link>
-            <guid>2899564</guid>
-            <pubDate>Sat, 10 Dec 2022 04:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faraday Future将于美国西部时间2022年12月15日星期四（北京时间2022年12月16日星期五) 举办FF业务更新全球投资人会议。将宣布公司的全球业务更新及相关计划，其中包括FF 91 Futurist的车辆交付计划。]]></title>
-            <guid>2899563</guid>
-            <pubDate>Sat, 10 Dec 2022 04:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海国际仲裁中心：过去三年受理两千余起涉金融资本市场和公司股权投融资类仲裁案件 争议金额近千亿元】在今天举行的＂全球资产管理中心 上海国际活动周2022＂分论坛——“资产管理信义责任国际论坛2022”上，上海市国际贸易促进委员会会长、上海国际仲裁中心主任周敏浩表示，2018年至2021年，上海国际仲裁中心共受理2458起涉及金融资本市场和公司股权投融资类的仲裁案件，占受案总数的41%，争议金额人民币988.75亿元，占金额总数的86%，个案平均争议金额超过了人民币四千万元。金融案件中，资管类案件857件，占比最高。周敏浩表示，未来，上海国际仲裁中心将进一步加强仲裁机构专业化建设，加强与金融监管部门、行业协会和人民法院的协同合作，发挥仲裁在促进保障金融创新、有效防控金融风险、高效解决金融争议方面的优势，助力上海金融中心和全球资产管理中心建设。 (上海证券报)]]></title>
-            <guid>2899562</guid>
-            <pubDate>Sat, 10 Dec 2022 04:10:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
