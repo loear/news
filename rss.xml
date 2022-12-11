@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 11 Dec 2022 18:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 19:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -381,11 +381,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwhxfs8821974.d.html</link>
             <guid>2900499</guid>
             <pubDate>Sun, 11 Dec 2022 08:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间12月11日，阿联酋“拉希德漫游者”号月球车成功发射升空，将开启为期5个月的月球任务。]]></title>
-            <guid>2900498</guid>
-            <pubDate>Sun, 11 Dec 2022 08:40:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
