@@ -4,13 +4,216 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Dec 2022 10:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 11:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[腾讯控股(00700.HK)：于2022年12月13日回购110万股，回购价格为315.6-324.8港元，共耗资约3.5亿港元。]]></title>
+            <title><![CDATA[美国证交会（SEC）：美国纽约南区检察官办公室、CFTC也宣布了对FTX创始人SBF的指控。]]></title>
+            <guid>2903320</guid>
+            <pubDate>Tue, 13 Dec 2022 11:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会（SEC）：FTX创始人SBF策划了“长达数年的欺诈”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9588029.d.html</link>
+            <guid>2903319</guid>
+            <pubDate>Tue, 13 Dec 2022 11:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国核聚变取得重大突破？商用聚变发电距离我们依然相当遥远】核聚变能源拥有其他能源品种无可比拟的诸多优点，但它在未来10年、20年甚至50年的能源体系中能扮演何种角色，答案依然模糊。国内核聚变研究领域专业人士表示，如果得到证实，该进展的物理意义更大，证明了除磁约束聚变之外，惯性约束聚变技术的可行性。但由于持续时间太短，这并不意味着清洁、无穷无尽的核聚变发电已经触手可及。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6364813.d.html</link>
+            <guid>2903318</guid>
+            <pubDate>Tue, 13 Dec 2022 11:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【光莆股份：控股股东提议以7500万元-1.5亿元回购股份】光莆股份：控股股东提议以7500万元-1.5亿元回购股份，回购股份的价格不超过人民币18.00元/股（含）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6362494.d.html</link>
+            <guid>2903317</guid>
+            <pubDate>Tue, 13 Dec 2022 11:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证券交易委员会（SEC）指控FTX创始人Sam Bankman-Fried欺诈投资者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9583365.d.html</link>
+            <guid>2903316</guid>
+            <pubDate>Tue, 13 Dec 2022 11:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证券交易委员会：FTX创始人Sam Bankman-Fried从股权投资者那里筹集了18亿美元。]]></title>
+            <guid>2903315</guid>
+            <pubDate>Tue, 13 Dec 2022 11:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京恢复跨省游及机酒业务，当地旅游热度上涨31%】12月13日，北京文旅局发布关于恢复旅行社及在线旅游企业经营进出京跨省团队旅游及“机票+酒店”业务的通知。上述通知发出后，大量游客登陆旅行平台搜索相关信息。同程旅行数据显示，消息发布一小时内北京旅游搜索量较前日同一时段上涨31%。其中，除北京本市外，最关注北京旅游产品和信息的游客主要来自河北、吉林、山东、广东和黑龙江。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9581327.d.html</link>
+            <guid>2903313</guid>
+            <pubDate>Tue, 13 Dec 2022 11:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【拓维信息：子公司参与全国一体化算力网络国家（贵州）主枢纽中心IT设备采购项目投标】拓维信息公告，控股子公司参与全国一体化算力网络国家（贵州）主枢纽中心IT设备采购（一期）项目投标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6355895.d.html</link>
+            <guid>2903311</guid>
+            <pubDate>Tue, 13 Dec 2022 11:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽芜湖：启用一批单管核酸采样点，收费价格为14元/人】“芜湖发布”微信公众号12月13日消息，芜湖市从12月14日起，在各县（市）区、开发区设置有一定数量的单管核酸采样点，各采样点可提供单采单检服务，费用个人承担。根据安徽省医保局、省卫健委《关于进一步下调我省新型冠状病毒核酸检测价格的通知》（皖医保秘〔2022〕99号）文件规定收费价格为14元/人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6355538.d.html</link>
+            <guid>2903310</guid>
+            <pubDate>Tue, 13 Dec 2022 11:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【泰达股份：拟投资设立碳资产管理公司】泰达股份公告，拟以自有资金出资设立全资子公司天津泰达碳资产管理有限公司，未来拟在以下方面开展业务，包括开展配额管理及履约申报、开展减排项目（CCER）碳资产管理、开展碳交易、开展碳托管、开展碳金融、开展碳资产管理制度建设、开展对温室气体排放的统计工作、开展碳交易咨询服务、开展碳资产开发、开展绿色发展基金、开展人才储备、培训咨询等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9574980.d.html</link>
+            <guid>2903308</guid>
+            <pubDate>Tue, 13 Dec 2022 11:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰议题国际会议在法国巴黎召开】当地时间12月13日上午，由法国总统马克龙与乌克兰总统泽连斯基共同筹划、马克龙主持召开的题为“与乌克兰人民团结在一起”的国际会议在法国外交部举行。乌克兰总统泽连斯基通过视频方式参会。欧盟委员会主席冯德莱恩、乌克兰总理什梅加尔出席会议。 此次会议旨在再次动员国际社会支持并援助乌克兰，应对乌克兰过冬需求，并为日后重建做准备。据悉，此次会议重点关注五个方面：能源、食品、水、卫生和交通。 泽连斯基在视频讲话中表示，眼下最关键的，是确保今冬乌克兰供电系统正常运转，不会造成断电。因此，必须确保基础设施正常运转，以便民众能够顺利过冬。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9574587.d.html</link>
+            <guid>2903307</guid>
+            <pubDate>Tue, 13 Dec 2022 11:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【地狱犬已在9省份检出但尚未流行】近日网络流传，一种名为BQ.1.1的新型变异毒株已经出现。中国疾控中心今天表示，BQ.1是奥密克戎BA.5在人群流行传播过程中通过病毒的变异变迁产生的第六代亚分支，BQ.1.1是BQ.1的第一代亚分支，这些进化亚分支致病力明显减弱，致重症和死亡的比例明显低于早期流行的变异病毒。我国现阶段流行的毒株仍为BA.5.2和BF.7。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6351084.d.html</link>
+            <guid>2903306</guid>
+            <pubDate>Tue, 13 Dec 2022 11:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁波港：头门港务拟购买头门港一期、二期码头资产】宁波港(601018)12月13日晚间公告，二级子公司头门港务拟以现金方式购买头门港投资公司持有的头门港一期、二期码头资产，标的资产评估值为17.88亿元（不含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6339660.d.html</link>
+            <guid>2903301</guid>
+            <pubDate>Tue, 13 Dec 2022 10:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国台办：民进党当局漠视岛内业者的利益、谋求一党政治私利】针对民进党当局就台湾食品企业相关注册事宜发表的不当言论，国台办发言人朱凤莲13日表示，民进党当局持续恶意歪曲事实，纯属故意抹黑、欲盖弥彰的政治操弄。民进党当局不但不采取有效措施协助有关企业，反而将大陆正常的食品安全监管措施污蔑为“贸易障碍”“歧视待遇”，充分暴露他们漠视岛内业者的利益、谋求一党政治私利的本质。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9561935.d.html</link>
+            <guid>2903300</guid>
+            <pubDate>Tue, 13 Dec 2022 10:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国造车新势力Lucid开始在华招人，不久前被马斯克暗示即将倒闭】曾被誉为特斯拉杀手的造车新势力Lucid开始在中国招聘，涉及数字信息化、硬件工程、法律、物流管理、供应链、零售等多个领域共14个岗位。Lucid没有透露各个岗位具体招聘人数，多数岗位要求精通中英双语或者在中国企业有两年及以上工作经验。从岗位设置可以看出，Lucid着重在中国市场的本地化服务、充电设施布局以及供应链管理。此次启动人才招聘可以被视作Lucid在中国市场布局的信号。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6338347.d.html</link>
+            <guid>2903298</guid>
+            <pubDate>Tue, 13 Dec 2022 10:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涉嫌哄抬能源价格 意大利7家能源企业遭反垄断机构调查】当地时间12月13日，意反垄断机构意大利竞争和市场管理局公告说，因涉嫌单方面非法改变电力和天然气供应价格，7家能源企业正接受调查。公告显示，被调查的7家能源企业占意大利80%的市场份额，超750万消费者受到其电、气供应价格变化影响，约266万用户遭受不合理涨价。今年8月9日，意大利针对高能源价格颁布的援助法令规定，2023年4月30日前不允许相关企业单方面改变供应价格。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6331866.d.html</link>
+            <guid>2903295</guid>
+            <pubDate>Tue, 13 Dec 2022 10:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【桥水基金在中国的外商独资私募基金最近展开了新一轮募资】据中国基金报，桥水基金在国内的外商独资私募基金（WOFE PFM）桥水（中国）投资管理有限公司（简称桥水中国），最近展开了新一轮募资。由其担任投资顾问的信托计划，本周在大型商业银行渠道发售，200万元起，封闭一年，限额十几个亿；据相关人士透露，目前有几个号已经售罄，受到客户热捧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9553823.d.html</link>
+            <guid>2903294</guid>
+            <pubDate>Tue, 13 Dec 2022 10:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港交所：双柜台庄家机制旨在提升人民币柜台的流动性及收窄价差】港交所：在双柜台模式下，香港交易所将优化相关交易及结算安排，让投资者可以互换同一个发行人发行的港币柜台及人民币柜台证券。为提升人民币柜台的流动性及收窄两个柜台之间的价差，香港交易所将引入双柜台庄家机制，待相关法例经立法会通过后，从事流通量供应活动的市场庄家在进行特定交易时可以豁免印花税。各项新措施亦将为后续内地投资者通过港股通交易以人民币定价的证券做好前期准备工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6329751.d.html</link>
+            <guid>2903292</guid>
+            <pubDate>Tue, 13 Dec 2022 10:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国支付清算协会调查：移动支付用户月收入3000-10000元占比65%】中国支付清算协会12月13日发布2022年移动支付用户使用情况问卷调查报告。调查显示，中青年用户是移动支付用户的主要使用者，年龄较大的用户群体稳中有升，用户群体的年龄分布基本平稳。移动支付用户月收入集中在3千至1万元，该区间占比为65%，万元以上用户占比为20%，3千元以下用户占比为15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9552043.d.html</link>
+            <guid>2903291</guid>
+            <pubDate>Tue, 13 Dec 2022 10:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【嫦娥五号月壤揭示太阳风为月球带来可利用的水】中国科学家对嫦娥五号样品的最新研究显示，月表中纬度区域太阳风在月壤颗粒表层中注入的水比以往认为的更多，而月球高纬度区域可能含有大量具有利用价值的水资源。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6328888.d.html</link>
+            <guid>2903290</guid>
+            <pubDate>Tue, 13 Dec 2022 10:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【立方制药：甲磺酸多沙唑嗪缓释片收到一致性评价受理通知书】立方制药公告，甲磺酸多沙唑嗪缓释片收到一致性评价受理通知书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6327264.d.html</link>
+            <guid>2903289</guid>
+            <pubDate>Tue, 13 Dec 2022 10:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门发文，管理“数字人”！千亿市场大消息】国家互联网信息办公室、工业和信息化部、公安部近日联合发布《互联网信息服务深度合成管理规定》，明确了相关部门的监督管理职责和深度合成服务的总体要求。与征求意见稿相比，《规定》新增“数字人物”，将其明确列入监管重点。《规定》要求，不得利用深度合成服务从事法律、行政法规禁止的活动，要求深度合成服务提供者落实信息安全主体责任，将于2023年1月10日起施行。业内人士接受采访表示，数字人市场升温很快，预估2025年市场规模将达到千亿元，《规定》对前沿技术公司业务拓展具有促进作用。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6325766.d.html</link>
+            <guid>2903287</guid>
+            <pubDate>Tue, 13 Dec 2022 10:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球科学家倡议共建人类表型组数据库，拟于2025年正式营业】据澎湃新闻，北京时间12月13日上午，国际人类表型组研究协作组（IHPC）第四次理事会在线召开，来自14个国家30余位协作组理事和多位表型组学领域的一流科学家出席。会议倡议共建全球人类表型组数据库（PhenoBank），并计划于2025年完成首期建设并实现正式运营服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6323877.d.html</link>
+            <guid>2903286</guid>
+            <pubDate>Tue, 13 Dec 2022 10:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【马斯克参加脱口秀登台时被观众喝倒彩 回应：现实中首次被嘘】美媒报道，特斯拉首席执行官埃隆·马斯克12月11日晚亮相美国单口喜剧演员戴夫·查佩尔的脱口秀表演。马斯克登台时观众席上爆发出阵阵嘘声，持续了近10分钟，让他几乎无法插话。事后马斯克在推特上调侃说：“这是自己在现实生活中首次被嘘(平常多在推特上被嘘)。”  （参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6323243.d.html</link>
+            <guid>2903285</guid>
+            <pubDate>Tue, 13 Dec 2022 10:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合国：索马里面临严重粮食安全危机】据联合国机构和援助组织13日称，2022年10月至2022年12月期间，索马里有214000人遭遇粮食安全危机。预计2023年1月至2023年3月期间，将有322000人面临粮食安全危机。目前，索马里正面临历史上最严重的干旱之一，饥荒迫在眉睫。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6322185.d.html</link>
+            <guid>2903284</guid>
+            <pubDate>Tue, 13 Dec 2022 10:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科创板上市委：华丰科技首发获通过】据科创板上市委2022年第107次审议会议结果公告，四川华丰科技股份有限公司首发获通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6321856.d.html</link>
+            <guid>2903283</guid>
+            <pubDate>Tue, 13 Dec 2022 10:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恒华科技：预中标5.19亿元农业光伏电站项目】恒华科技(300365)12月13日晚间公告，公司预中标望谟县乐元管州一期农业光伏电站项目EPC招标，拟建设光伏发电装机100MW及集电线路，新建220kV升压站1座及送出线路，项目估算总投资约5.19亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9539800.d.html</link>
+            <guid>2903281</guid>
+            <pubDate>Tue, 13 Dec 2022 10:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南省广播电视局党组成员、副局长伍皓被查】据云南省纪委监委消息：云南省广播电视局党组成员、副局长伍皓涉嫌严重违纪违法，目前正在接受纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9539365.d.html</link>
+            <guid>2903280</guid>
+            <pubDate>Tue, 13 Dec 2022 10:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国宝安：子公司马应龙拟转让所持大佛药业全部股份】中国宝安(000009)12月13日晚间公告，近日，公司下属子公司马应龙、华一发展有限公司、中国宝安集团控股有限公司、国发建富实业有限公司拟将合计持有的深圳大佛药业股份有限公司5946.9万股股份（占大佛药业当前总股本的86.816%）转让给杭州云柏医药科技有限公司，交易单价为4.38元/股。交易完成后，马应龙将不再持有大佛药业股份。若交易达成，预计增加公司净利润1亿元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6315883.d.html</link>
+            <guid>2903279</guid>
+            <pubDate>Tue, 13 Dec 2022 10:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【帝尔激光：控股股东、董事长兼总经理李志刚拟减持不超1%】帝尔激光公告，控股股东、董事长兼总经理李志刚拟减持不超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6314740.d.html</link>
+            <guid>2903276</guid>
+            <pubDate>Tue, 13 Dec 2022 10:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其海事局：我们欢迎与同行达成协议，并接受其（保险）确认函规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6314025.d.html</link>
+            <guid>2903274</guid>
+            <pubDate>Tue, 13 Dec 2022 10:30:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第九城市美股盘前涨超25%】第九城市美股盘前涨超25%，此前暴雪中国称，正就《魔兽世界》与国服地区一些潜在发行合作伙伴进行洽谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6313877.d.html</link>
+            <guid>2903273</guid>
+            <pubDate>Tue, 13 Dec 2022 10:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其海事局：将继续要求通过土耳其海峡的原油油轮提供保险确认函。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9534704.d.html</link>
+            <guid>2903272</guid>
+            <pubDate>Tue, 13 Dec 2022 10:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际纺联：全球纺织业务继续转差 未来预期仍未改善】根据国际纺联（ITMF）第十七次调查，2022年11月全球纺织业平均业务状况在进一步转差。同时，全球纺织业对未来六个月的预期仍为负面，只是没有进一步下降。全球范围内新订单指数、未交货订单指数以及开机率均下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6311686.d.html</link>
+            <guid>2903271</guid>
+            <pubDate>Tue, 13 Dec 2022 10:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯控股：12月13日耗资约3.5亿港元回购110万股】腾讯控股公告，于2022年12月13日回购110万股，回购价格为315.6-324.8港元，共耗资约3.5亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9531417.d.html</link>
             <guid>2903269</guid>
             <pubDate>Tue, 13 Dec 2022 10:25:02 GMT</pubDate>
         </item>
@@ -229,250 +432,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9483604.d.html</link>
             <guid>2903221</guid>
             <pubDate>Tue, 13 Dec 2022 09:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：我们预计2022年全球钢铁消费量将减少6000万至6500万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6260471.d.html</link>
-            <guid>2903220</guid>
-            <pubDate>Tue, 13 Dec 2022 09:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：2023年全球钢铁行业将无法从2022年下半年消费减少导致的有利于终端市场的供需转变中完全恢复。]]></title>
-            <guid>2903219</guid>
-            <pubDate>Tue, 13 Dec 2022 09:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国金融行为监管局（FCA）：现在将负责设计和制定新的披露规则，以满足英国市场的需求并支持投资者。]]></title>
-            <guid>2903216</guid>
-            <pubDate>Tue, 13 Dec 2022 09:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国金融行为监管局（FCA）正在就如何确保投资者获得清晰、有用的信息征求意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6257000.d.html</link>
-            <guid>2903215</guid>
-            <pubDate>Tue, 13 Dec 2022 09:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【酷特智能：深圳前海复星瑞哲恒益拟减持不超6%】酷特智能公告，深圳前海复星瑞哲恒益拟减持不超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9478723.d.html</link>
-            <guid>2903214</guid>
-            <pubDate>Tue, 13 Dec 2022 09:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州二套房可申请公积金贷款 首付款比例不低于40%】12月13日，杭州市人民政府网站发布了《杭州住房公积金管理委员会关于调整住房公积金贷款政策的通知》。职工家庭名下无住房，无住房贷款记录或有商业性住房贷款记录且相应贷款已结清，为改善居住条件申请住房公积金贷款购买普通自住住房的，执行首套房政策，贷款首付款比例不低于30%。职工家庭名下拥有1套住房，或无住房但有住房公积金贷款记录且相应贷款已结清，再次申请住房公积金贷款购买普通自住住房的，执行二套房政策，贷款首付款比例不低于40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6255487.d.html</link>
-            <guid>2903213</guid>
-            <pubDate>Tue, 13 Dec 2022 09:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：欧洲，中东和非洲地区的宏观环境疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6255099.d.html</link>
-            <guid>2903212</guid>
-            <pubDate>Tue, 13 Dec 2022 09:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国船舶：与中免集团打造中国海上最大免税购物中心】中国船舶消息，12月12日，中国船舶集团旗下中船嘉年华正式宣布与中免集团旗下中免邮轮达成战略合作，将携手为中船嘉年华全新中国邮轮自主品牌爱达邮轮（Adora Cruises）首艘国产大型邮轮建造2000平方米的中国海上最大免税购物中心。这是继中船嘉年华旗下“大西洋号”、“地中海号”之后双方的再度合作。根据商定，中船嘉年华将首艘国产大型邮轮上的免税购物中心独家经营权交由中免邮轮。双方将充分发挥资源聚集优势和业务协同效应，共同为中国宾客打造世界级一站式精品购物体验，推动中国邮轮旅游产业的高质量发展。目前在建的首艘国产大型邮轮作为该品牌旗下的首艘邮轮，在项目开始之初便备受国内外关注，目前已全面进入内部装潢和设备（系统）调试关键阶段，朝着最终的命名交付里程碑节点稳步迈进，将于2023年年底交付。同时，旗下第二艘国产新造大型邮轮也正式进入设计和建造阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6252948.d.html</link>
-            <guid>2903211</guid>
-            <pubDate>Tue, 13 Dec 2022 09:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明晟公司（MSCI）将海底捞纳入全球标准指数（MSCI Global Standard Indexes），该调整自12月19日起生效。]]></title>
-            <guid>2903210</guid>
-            <pubDate>Tue, 13 Dec 2022 09:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部预计2022年俄罗斯的投资将增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9472527.d.html</link>
-            <guid>2903208</guid>
-            <pubDate>Tue, 13 Dec 2022 09:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国首个营商环境建设厅在海南揭牌成立】经中央批准，海南成立全国首个营商环境建设厅，作为正厅级省政府组成部门。12月13日，海南省营商环境建设厅在海口正式揭牌成立，省委书记沈晓明、省长冯飞出席揭牌仪式。海南省营商环境建设厅力争到2025年营商环境总体达到国内一流水平，到2035年营商环境更加优化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6249263.d.html</link>
-            <guid>2903207</guid>
-            <pubDate>Tue, 13 Dec 2022 09:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南向资金今日净买入16.61亿元】港股通（沪）方面，山东新华制药股份、华虹半导体分别获净买入1.21亿港元、1.0亿港元；恒生中国企业净卖出额居首，金额为6.13亿港元；港股通（深）方面，美团-W、比亚迪股份分别获净买入2.82亿港元、2.24亿港元；腾讯控股净卖出额居首，金额为1.71亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9470272.d.html</link>
-            <guid>2903206</guid>
-            <pubDate>Tue, 13 Dec 2022 09:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：南非10月黄金产量同比下降6.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6247184.d.html</link>
-            <guid>2903204</guid>
-            <pubDate>Tue, 13 Dec 2022 09:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盛航股份：与扬州金陵签署深度合作协议】盛航股份公告，公司与扬州金陵于2022年12月13日签署了《深度合作协议》。双方基于良好的信任，出于双方长远发展合作上的考虑，决定共同携手，以7,450吨不锈钢化学品船和5,500m³半冷半压式LPG/NH3/VCM运输船建造项目为起点，就双方各自拥有的经营和市场资源，在新造船及航运等领域开展深度合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9468157.d.html</link>
-            <guid>2903203</guid>
-            <pubDate>Tue, 13 Dec 2022 09:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：越南电力公司寻求定期调整电价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6245119.d.html</link>
-            <guid>2903202</guid>
-            <pubDate>Tue, 13 Dec 2022 09:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部介绍谢锋与康达、罗森伯格在河北廊坊会谈情况】 据央视新闻，外交部副部长谢锋与美国务院亚太事务助理国务卿康达、白宫国安会中国事务高级主任罗森伯格在河北廊坊会谈，外界高度关注。中国外交部发言人汪文斌在今天（13日）的例行记者会上介绍，双方围绕落实中美元首巴厘岛会晤共识、推进中美关系指导原则磋商、妥善处理双边关系中的台湾等重要敏感问题、加强各层级交往和开展相关领域合作进行了深入沟通，并就共同关心的国际和地区问题广泛交换了意见。]]></title>
-            <guid>2903200</guid>
-            <pubDate>Tue, 13 Dec 2022 09:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国向肯尼亚提供1.12亿欧元建设可再生能源】德国政府表示将向肯尼亚提供1.12亿欧元资金，帮助这个东非国家填补实现100%可再生能源和制氢目标的缺口。肯尼亚已经有大约90%的电力来自水力发电、地热和风能等可再生能源。它打算到2030年完全停止使用化石燃料发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6239600.d.html</link>
-            <guid>2903199</guid>
-            <pubDate>Tue, 13 Dec 2022 09:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川长虹：公司纳米抗菌材料项目处于研制阶段】四川长虹(600839)在互动平台表示，公司“纳米抗菌材料项目”处于研制阶段，实验测试在空气净化器上有一定抗黄色葡萄球菌和大肠杆菌的效果。该项目未来商业化价值和变现能力存在不确定性，敬请投资者注意相关风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6239385.d.html</link>
-            <guid>2903198</guid>
-            <pubDate>Tue, 13 Dec 2022 09:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里巴巴集团与哈萨克斯坦贸易政策发展中心签署合作备忘录】近日，阿里巴巴(BABA.N)与哈萨克斯坦贸易政策发展中心（Qaztrade）于数字经济和数字贸易重大项目签约仪式上签署了合作备忘录。哈萨克斯坦贸易政策发展中心计划通过与阿里巴巴国际站的合作，助力当地商品一键卖全球。2022年6月，哈萨克斯坦在阿里巴巴国际站开设专属国家馆，至今，在阿里巴巴国际站电子商务平台上交易的哈萨克斯坦商品货值已超7300万美元。（36氪）]]></title>
-            <guid>2903197</guid>
-            <pubDate>Tue, 13 Dec 2022 09:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷将美光科技目标价从78美元下调至66美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6237519.d.html</link>
-            <guid>2903195</guid>
-            <pubDate>Tue, 13 Dec 2022 09:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其政府：土耳其药品价格可能每年上调一次以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9458189.d.html</link>
-            <guid>2903191</guid>
-            <pubDate>Tue, 13 Dec 2022 09:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印尼11月国内汽车销量降至91081辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9456923.d.html</link>
-            <guid>2903190</guid>
-            <pubDate>Tue, 13 Dec 2022 09:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【强冷空气将影响我国大部 南方气温或跌破极值】中央气象台预计，12月15日至17日，强冷空气将影响我国大部地区，带来大风降温和雨雪天气，最低气温0℃线将南压至广西北部、广东北部一带，上海、浙江、福建、广东等地部分地区的最低气温将接近或突破历史同期极值。本次过程持续低温特征显著，需关注对交通出行和人体健康等不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9456688.d.html</link>
-            <guid>2903189</guid>
-            <pubDate>Tue, 13 Dec 2022 09:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理梅洛尼：美国《通胀削减法案》令人担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9455469.d.html</link>
-            <guid>2903188</guid>
-            <pubDate>Tue, 13 Dec 2022 09:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻阿富汗大使：喀布尔遇袭酒店内我公民已妥善安置 有5名同胞受伤】据央视新闻，当地时间13日，中国驻阿富汗大使王愚接受中央广播电视总台记者采访时表示，喀布尔遭袭酒店内所有中国公民得到妥善安置，在袭击事件中有5位中国公民受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6231143.d.html</link>
-            <guid>2903187</guid>
-            <pubDate>Tue, 13 Dec 2022 09:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京限购区域部分人群可购三套房？多位业内人士：已有购房者开出购房证明】近日有市场消息称，南京市限购区内有2套房产的家庭，可在江心洲、秦淮区南部新城、玄武区红山新城、鼓楼区幕府创新城四地范围内购买第3套房，可新增购房名额人群包括：家中有60岁以上老人能提供南京居住证明的家庭；工作地点在限购四区内的南京户籍家庭；南京户籍的A、B、C、D类人才及博士人才。南京多位业内人士向记者表示，已有购房者开出购房证明。不过，南京市住房保障和房产局相关人士表示，并未传达过该通知。南京市房地产市场交易中心工作人员表示，“我们未得到政策改变的明确通知。每户情况各不相同，是否能开出购房证明，向办事窗口提交相关审核资料后便可得知结果。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9453067.d.html</link>
-            <guid>2903186</guid>
-            <pubDate>Tue, 13 Dec 2022 09:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其方面表示，目前还剩下4艘船尚未提供通过海峡的保险函。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9449567.d.html</link>
-            <guid>2903185</guid>
-            <pubDate>Tue, 13 Dec 2022 09:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人寿参投的江西交投高速公路投资基金设立 总规模100.01亿元】中国人寿集团旗下国寿投资公司携手江西省交通投资集团有限责任公司及江西交通发展基金，共同发起江西交投高速公路投资基金，总规模100.01亿元。该基金已于近日完成签约及设立。国寿投资公司所属国寿金石公司担任基金管理人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9449167.d.html</link>
-            <guid>2903184</guid>
-            <pubDate>Tue, 13 Dec 2022 09:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【振华股份：控股孙公司拟5亿元投建智慧公路港项目】振华股份公告，控股孙公司国胜公司拟在黄石新港(物流)工业园区投资建设黄石新港国胜智慧公路港项目，预计项目总投资为5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6222084.d.html</link>
-            <guid>2903182</guid>
-            <pubDate>Tue, 13 Dec 2022 09:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国药现代：硫酸阿巴卡韦原料药通过WHO的PQ认证】国药现代公告，硫酸阿巴卡韦原料药通过WHO的PQ认证。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6221543.d.html</link>
-            <guid>2903181</guid>
-            <pubDate>Tue, 13 Dec 2022 09:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伯克希尔哈撒韦12月8日出售133万股比亚迪股份H股】据港交所文件，伯克希尔哈撒韦12月8日出售133万股比亚迪股份H股，持股比例从15.07%降至14.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6220651.d.html</link>
-            <guid>2903180</guid>
-            <pubDate>Tue, 13 Dec 2022 09:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汉莎航空(Lufthansa) 预计全财年调整后息税前利润 (EBIT)为15亿欧元，此前预估为10亿欧元，市场预估为11.3亿欧元。]]></title>
-            <guid>2903179</guid>
-            <pubDate>Tue, 13 Dec 2022 09:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特信任与安全委员会被解散，该组织曾就平台仇恨言论提建议】 据澎湃新闻，当地时间12月12日，推特公司解散了其信任与安全委员会（Trust and Safety Council）。该委员会主要针对推特平台上的仇恨言论、儿童剥削、自杀自残等问题提供咨询建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9442147.d.html</link>
-            <guid>2903178</guid>
-            <pubDate>Tue, 13 Dec 2022 09:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所（LME）铜库存创一个月以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6218822.d.html</link>
-            <guid>2903177</guid>
-            <pubDate>Tue, 13 Dec 2022 09:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：消息人士称，普京可能于12月27日发表国情咨文】环球网消息，据俄新社13日报道，一名消息人士称，俄罗斯总统普京可能于12月27日向俄议会发表国情咨文。]]></title>
-            <guid>2903176</guid>
-            <pubDate>Tue, 13 Dec 2022 09:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国农业部估计2022年谷物玉米产量为1058万吨，上月预期为1074万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6217713.d.html</link>
-            <guid>2903175</guid>
-            <pubDate>Tue, 13 Dec 2022 09:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉第未来(FFIE.O)盘前续涨超20%，该股周一大幅收涨超55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9439401.d.html</link>
-            <guid>2903173</guid>
-            <pubDate>Tue, 13 Dec 2022 09:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：消息人士称，普京可能于12月27日发表国情咨文】据俄新社13日报道，一名消息人士称，俄罗斯总统普京可能于12月27日向俄议会发表国情咨文。  （环球网）]]></title>
-            <guid>2903172</guid>
-            <pubDate>Tue, 13 Dec 2022 09:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰瑞机器：泰德瑞克拟减持不超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6216283.d.html</link>
-            <guid>2903171</guid>
-            <pubDate>Tue, 13 Dec 2022 09:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加纳和世界货币基金组织就30亿美元的计划达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtv6216165.d.html</link>
-            <guid>2903170</guid>
-            <pubDate>Tue, 13 Dec 2022 09:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钒钛股份：与大连融科签订《2023年钒电池储能原料合作年度框架协议》】钒钛股份公告，与大连融科储能集团股份有限公司签订《2023年钒电池储能原料合作年度框架协议》，2023年度预计总数量（折五氧化二钒）8000吨，预计交易总金额约10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwprtt9438869.d.html</link>
-            <guid>2903169</guid>
-            <pubDate>Tue, 13 Dec 2022 09:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰瑞机器：泰德瑞克拟减持不超过2%股份】泰瑞机器公告，股东泰德瑞克拟减持不超过591.44万股，即不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwpmmv9568778.d.html</link>
-            <guid>2903168</guid>
-            <pubDate>Tue, 13 Dec 2022 09:03:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
