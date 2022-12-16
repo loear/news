@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 16 Dec 2022 20:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 21:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国总统拜登签署临时拨款法案 避免政府停摆】当地时间12月16日，美国总统拜登签署了一项临时拨款法案，该法案将把联邦拨款延长一周，以便让国会有时间就2023财政年度的支出达成协议，避免政府停摆。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxkke0006346.d.html</link>
+            <guid>2907400</guid>
+            <pubDate>Fri, 16 Dec 2022 20:33:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧元区11月通胀率终值为10.1%】当地时间12月16日，欧盟统计局发布修正后的数据显示，欧元区11月通货膨胀率为10.1%，欧盟27国11月通货膨胀率为11.1%，均远高于去年同一时期。报告指出，能源和食品价格上涨仍是推高通胀的主因。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxkkc9995933.d.html</link>
@@ -97,17 +103,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeaf9964064.d.html</link>
             <guid>2907331</guid>
             <pubDate>Fri, 16 Dec 2022 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商业保险公司Chubb(CB.N)：计划在5年内在宾夕法尼亚州创造3200个就业岗位。]]></title>
-            <guid>2907298</guid>
-            <pubDate>Fri, 16 Dec 2022 16:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油价下周一迎年内“最后一调”，或将“三连跌”】12月19日24时，国内新一轮成品油调价窗口将开启。本轮调价将是2022年国内油价“最后一调”。继上轮成品油价格“两连跌”后，机构预计，本轮成品油价格或继续下跌，国内油价在年末将呈“三连跌”走势。机构测算，截至12月16日本轮成品油调价周期第九个工作日，参考原油品种均价为每桶76.76美元，变化率为-6.84%，预计国内汽油、柴油下调幅度约为每吨460元，折合汽油、柴油每升下调0.34-0.38元。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxuk0038985.d.html</link>
-            <guid>2907297</guid>
-            <pubDate>Fri, 16 Dec 2022 16:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
