@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 16 Dec 2022 19:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 20:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧元区11月通胀率终值为10.1%】当地时间12月16日，欧盟统计局发布修正后的数据显示，欧元区11月通货膨胀率为10.1%，欧盟27国11月通货膨胀率为11.1%，均远高于去年同一时期。报告指出，能源和食品价格上涨仍是推高通胀的主因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxkkc9995933.d.html</link>
+            <guid>2907393</guid>
+            <pubDate>Fri, 16 Dec 2022 20:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登签署了为期一周的政府融资法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxkkc9980044.d.html</link>
+            <guid>2907391</guid>
+            <pubDate>Fri, 16 Dec 2022 19:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国劳工统计局：没有证据表明CPI数据遭黑客攻击】美国劳工统计局周五表示，没有发现任何证据表明其系统遭到破坏，也没有发现关于本周早些时候美国CPI数据的发布存在任何可疑活动。周二，好于预期的通胀数据挂上劳工部网站前数秒内，美国国债期货大涨，人们担心这一备受关注的数据可能被泄露或是被黑客入侵。劳工统计局发布服务部负责人Karen Ransom表示，“没有证据表明我们的信息技术系统受到了任何形式的破坏。我们目前尚未发现可疑活动，会持续进行监控。”在被问及这次CPI发布与上个月的报告相比是否有什么不同，无论是在发布前的过程中还是在实际发布中，Ransom回应称，“没有，我们遵循了所有的正常程序。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxkkf6751602.d.html</link>
+            <guid>2907390</guid>
+            <pubDate>Fri, 16 Dec 2022 19:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【备战车市“大考“，多家车企向公司组织架构“动刀”】近日，理想汽车发布最新人事调整计划，公司核心管理层“大换血”。无独有偶，同为造车新势力的小鹏汽车，不久前也对公司组织架构“动刀”。除新势力外，吉利控股集团、长城汽车等也围绕着各自的组织架构、品牌资源进行较大规模的变动与整合。浙江大学国际联合商学院数字经济与金融创新研究中心联席主任、研究员盘和林表示：“新能源汽车补贴下降后，对造车新势力会造成较大压力。”对于现阶段的“蔚小理”，要么靠提升销量规模来保证利润率，要么只能依靠技术提升降低制造成本。（证券时报）]]></title>
             <guid>2907382</guid>
@@ -90,35 +108,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxuk0038985.d.html</link>
             <guid>2907297</guid>
             <pubDate>Fri, 16 Dec 2022 16:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商业保险公司Chubb(CB.N)：计划在费城设立新办公室，届时将有1250名员工。]]></title>
-            <guid>2907294</guid>
-            <pubDate>Fri, 16 Dec 2022 16:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼电影：阿凡达：水之道上映2天，总票房破2亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxum6797750.d.html</link>
-            <guid>2907291</guid>
-            <pubDate>Fri, 16 Dec 2022 16:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：将Roblox(RBLX.N)目标价从35美元下调至27.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6796298.d.html</link>
-            <guid>2907289</guid>
-            <pubDate>Fri, 16 Dec 2022 15:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特汽车跌4% 提高F-150 Lightning电动皮卡的价格】福特汽车(F.US)跌4.49%，报12.45美元，总市值500亿美元。福特汽车公司网站周四显示，该公司将其最便宜款的F-150 Lightning 电动皮卡的价格上调了9%，至55974美元。这家汽车制造商在三个月内两次提高其电动皮卡的价格，以应对成本上升和供应链干扰给公司带来的困难。据悉，包括特斯拉和Rivian Automotive Inc .在内的全球汽车制造商也在努力应对锂等原材料价格上涨的问题，并警告称高成本将持续下去。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxuk0018381.d.html</link>
-            <guid>2907288</guid>
-            <pubDate>Fri, 16 Dec 2022 15:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦格理：上调携程(TCOM.O)目标价至42.5美元 评级跑赢大市】麦格理发研报指，携程第三季业绩表现向好，主要由于夏季旅游需求改善及海外增长势头强劲所带动，令收入增长29%，高于市场及该行预期，经调整净利润达10亿元亦超出市场预期约31%。该行认为，国内旅游活动于第三季表现展现韧性，国际业务增长势头亦持续。麦格理指，出境旅游市场料于明年实现更快速复苏。将携程2022年经调每股ADS盈利预测下调27%，以反映近期市场疲软，并将明年及2024年预测上调7%及12%，基于2024年预测市盈率约23倍，将目标价上调至42.5美元，评级跑赢大市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6791481.d.html</link>
-            <guid>2907286</guid>
-            <pubDate>Fri, 16 Dec 2022 15:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
