@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 19 Dec 2022 16:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 17:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  罗尔斯罗伊斯：公司一款新的航空发动机即将进行地面测试，该型发动机被设计来在未来数十年降低碳排放量。]]></title>
+            <guid>2910858</guid>
+            <pubDate>Mon, 19 Dec 2022 17:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【320家A股上市公司发布董责险投保计划】今年以来已有320家A股上市公司发布董责险投保计划，而去年发布投保计划的公司数量为248家。安联全球企业与特殊风险公司（AGCS）研究认为，展望2023年，上市公司董事和高级管理人员面临的主要风险包括宏观经济、网络风险和ESG问题等五大风险。同时，有险企认为，董责险市场前景广阔，但如何控制风险并建立科学的分摊机制是该业务持续健康发展的关键。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxfvfs0769758.d.html</link>
+            <guid>2910855</guid>
+            <pubDate>Mon, 19 Dec 2022 16:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧盟委员会认定脸书母公司滥用市场支配地位】当地时间12月19日，欧盟委员会初步认定，美国社交平台脸书的母公司Meta在整个欧洲的个人社交网络市场以及社交媒体在线广告市场中占据主导地位，而该公司将其在线分类广告服务与其社交网络挂钩，从而排挤对手。该公司还涉嫌单方面对在脸书或照片墙上投放广告的竞争性在线分类广告服务施加不公平的交易条件。欧盟委员会认为，这些做法违反了《欧盟运作条约》第102条，该条款禁止滥用市场支配地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxfvfq3973561.d.html</link>
+            <guid>2910848</guid>
+            <pubDate>Mon, 19 Dec 2022 16:33:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【小摩与林肯金融合并保险信托基金 加强可变保险信托领域合作】摩根大通资产管理公司和林肯金融集团宣布加强合作关系，将摩根大通的世界级投资能力作为林肯金融集团平台的一部分，进一步增强林肯领先的保险、退休和可变年金解决方案的广泛产品。四个摩根大通保险信托投资组合(JPM VITs)的股东将被要求批准一项提案，将JPM VITs合并至四个相应的新成立的林肯金融可变保险产品信托(LVIP收购基金)系列。JPM VITs代表了摩根大通在股票和固定收益资产类别方面的四种旗舰投资策略。该交易预计将于2023年5月进行。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxfvfq3955902.d.html</link>
@@ -356,57 +373,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3884463.d.html</link>
             <guid>2910755</guid>
             <pubDate>Mon, 19 Dec 2022 13:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利商务部长Urso：放宽欧盟的国家援助规则将会分裂欧洲，欧盟应该对企业采取类似美国那样的援助。]]></title>
-            <guid>2910753</guid>
-            <pubDate>Mon, 19 Dec 2022 13:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本下年度防卫费弹药经费将增至近4倍】日本政府已就2023年度预算案的防卫费展开协调，拟作为包括长射程导弹在内的弹药经费计入8283亿日元（约合人民币425亿元）。这是提高自卫队持续战斗能力（续战能力）的一环，近年维持在2000亿日元前后的该项经费将增至近4倍。为强化防空能力而新建“宙斯盾系统搭载舰”的经费计入2208亿日元。 (共同社)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3876200.d.html</link>
-            <guid>2910752</guid>
-            <pubDate>Mon, 19 Dec 2022 13:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美参议员提出质疑 马斯克或将卸任推特CEO】据悉，在近日致特斯拉董事会的一封信中，美国民主党参议员沃伦询问到：马斯克是否挪用了特斯拉的资源（此前他抽调了多名特斯拉的软件工程师和高管到推特工作）。沃伦还暗示，马斯克有可能故意做空推特或特斯拉，从而让另一方受益，比如调整推特的算法，让特斯拉从中获益等。最后，沃伦警告称，推特和特斯拉的关系存在“重大法律问题”，包括可能违反公司规则和劳动法。周一，马斯克在推特就其“是否应该卸任推特CEO”发起投票，截至投票通道关闭，投赞成票的有57.5%，投反对票的有42.5%。马斯克表示，他将遵守此次投票结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3875040.d.html</link>
-            <guid>2910751</guid>
-            <pubDate>Mon, 19 Dec 2022 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据德国媒体rbb24：德国检察官正在调查关于特斯拉在德国特斯拉工厂经营未经授权的危险品储存设施的指控。]]></title>
-            <guid>2910750</guid>
-            <pubDate>Mon, 19 Dec 2022 13:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三羊马：拟发行可转债募资不超过2.1亿元】三羊马公告，拟发行可转债募资不超过2.1亿元，用于运力提升项目、偿还银行借款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxu0642481.d.html</link>
-            <guid>2910747</guid>
-            <pubDate>Mon, 19 Dec 2022 13:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：币安将以10.22亿美元收购加密货币交易平台Voyager的资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxu0642127.d.html</link>
-            <guid>2910746</guid>
-            <pubDate>Mon, 19 Dec 2022 13:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市生态环境局：为保障本市纳入配额管理单位顺利完成本年度清缴履约工作，经研究，本市2021年度碳排放交易配额清缴期截止至2022年12月30日。]]></title>
-            <guid>2910745</guid>
-            <pubDate>Mon, 19 Dec 2022 13:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟指控Facebook母公司Meta违反反垄断法】欧盟已指控Facebook母公司Meta违反了反垄断法，因为该公司将其在线分类广告服务与其社交网络挂钩，涉嫌扭曲竞争。欧盟的反垄断执法机构欧盟委员会周一发布了一份针对Meta的指控书，称这家美国科技公司让Facebook用户自动获取使用其市场服务的权限，这有可能将竞争对手挤到一边。该委员会表示，还担心Meta通过其条款和条件对竞争性在线广告服务施加不公平的条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxu0639979.d.html</link>
-            <guid>2910744</guid>
-            <pubDate>Mon, 19 Dec 2022 13:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北灵寿抽水蓄能电站项目开工，总投资100亿元】据石家庄发布，12月19日上午，石家庄市2022年度投资最大的百亿元产业项目——河北灵寿抽水蓄能电站项目开工建设。该项目位于灵寿县寨头乡、陈庄镇境内，装机容量140万千瓦，项目总投资100.05亿元，建设期限为2022年至2027年。项目建成后，主要服务于河北南部电网。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3860609.d.html</link>
-            <guid>2910743</guid>
-            <pubDate>Mon, 19 Dec 2022 13:02:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
