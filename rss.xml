@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 19 Dec 2022 19:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 20:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国白宫发言人Jean-Pierre：总统拜登将在未来数月内接受体检，结果将向公众发布。]]></title>
+            <guid>2910895</guid>
+            <pubDate>Mon, 19 Dec 2022 20:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：FTX创始人SBF放弃在引渡听证会的权利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxfzpq0761478.d.html</link>
+            <guid>2910888</guid>
+            <pubDate>Mon, 19 Dec 2022 19:22:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【南华基金：债市迎配置交易机会】12月19日，南华基金发表债市投资观点指出，11月以来债市经历了一轮调整，但逻辑与基本面关系不大，更多是基于理财赎回和防疫、地产政策强预期所作出的负反馈，叠加年底机构止盈，也会加剧债市投资者的离场情绪，利率底部抬升。南华基金认为，短期内债市或已进入配置交易阶段。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxfzpn3969307.d.html</link>
@@ -224,67 +235,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxu0741107.d.html</link>
             <guid>2910791</guid>
             <pubDate>Mon, 19 Dec 2022 14:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙开启一键预约，24小时上门核酸采样服务！家庭套餐5人内服务费298元】据湖南省12320健康咨询平台（健康320平台）12月19日消息，该平台联合权威的核酸检测实验室推出了24小时“上门核酸采样”服务。据悉，“上门核酸采样”服务目前暂时只开通长沙市区范围，健康码为黄码或红码的人员均可进行采样。采样时间可以根据自己的时间进行预约，时间灵活，结果可同步至湖南省居民健康卡。据平台客服人员介绍，目前上门时间约在预约完成后3至5小时之内。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3961562.d.html</link>
-            <guid>2910790</guid>
-            <pubDate>Mon, 19 Dec 2022 14:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据奥地利新闻通讯社(APA)：奥地利考虑设立国家天然气采购协调员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3956738.d.html</link>
-            <guid>2910789</guid>
-            <pubDate>Mon, 19 Dec 2022 14:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙：倡议药品零售企业进一步规范医药用品市场】长沙市市场监管局向全市药品零售企业发出倡议：积极组织上游货源，通过多种渠道、争取本市及外地药品资源，储备适量的防疫药品和医疗器械，力争极端情况下供应充足、调配顺畅、及时到位，努力保证全市药品的正常供应；保障药品及相关防疫物资的价格稳定，维护市场公平的竞争环境和社会秩序；着力保障公众购药需求，无特殊原因不得随意关停，有条件的门店保证24小时售药窗口。]]></title>
-            <guid>2910787</guid>
-            <pubDate>Mon, 19 Dec 2022 14:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【达美乐比萨中国特许经营商达势股份：延迟全球发售并退回香港公开发售的申请股款】 达美乐比萨中国特许经营商达势股份在港交所公告称，股份原订于2022年12月23日（星期五）上午九时正在联交所开始买卖。鉴于现行市况，经征询独家整体协调人后，公司已决定延迟全球发售，因此，全球发售将不会根据招股章程所载条款进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3950977.d.html</link>
-            <guid>2910786</guid>
-            <pubDate>Mon, 19 Dec 2022 14:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中共中央、国务院：支持探索多样化、符合数据要素特性的定价模式和价格形成机制】中共中央、国务院发布关于构建数据基础制度更好发挥数据要素作用的意见，其中提到，鼓励探索数据流通安全保障技术、标准、方案。支持探索多样化、符合数据要素特性的定价模式和价格形成机制，推动用于数字化发展的公共数据按政府指导定价有偿使用，企业与个人信息数据市场自主定价。加强企业数据合规体系建设和监管，严厉打击黑市交易，取缔数据流通非法产业。建立实施数据安全管理认证制度，引导企业通过认证提升数据安全管理水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3945967.d.html</link>
-            <guid>2910785</guid>
-            <pubDate>Mon, 19 Dec 2022 14:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管总局：持续优化市场环境和营商环境 大力激发市场主体活力和创造力】市场监管总局党组召开会议，传达学习中央经济工作会议精神。会议强调，进一步强化市场监管职能作用，持续优化市场环境和营商环境，大力激发市场主体活力和创造力，坚决维护市场秩序，守牢安全底线，不断夯实促进经济平稳增长的市场底盘。会议要求，要深化对做好当前经济工作几个重大问题的认识，准确把握明年市场监管工作履职重点。习近平总书记对扩大内需、建立现代化产业体系、落实“两个毫不动摇”、更大力度吸引和利用外资、有效防范化解重大经济金融风险等重大问题进行了深刻阐述。我们要深刻领会中央战略意图，立足市场监管职能，围绕扩大市场准入、优化营商环境、促进公平竞争、提升平台经济监管常态化水平、防范和遏制重特大事故等重点任务，系统谋划有力有效举措，纲举目张做好市场监管各项工作，为全面建设社会主义现代化国家开好局起好步作出应有贡献。]]></title>
-            <guid>2910784</guid>
-            <pubDate>Mon, 19 Dec 2022 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【行情】WTI原油短线涨超1美元，日内涨幅达2.00%，现报75.92美元/桶]]></title>
-            <guid>2910783</guid>
-            <pubDate>Mon, 19 Dec 2022 14:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南省牵头第一批自贸港封关运作项目全部开工】 海南省发展和改革委员会19日发布消息，由海南省牵头的25个全岛封关运作第一批项目已全部开工建设。全岛封关运作项目建设是海南自贸港建设的标志性和基础性工程。项目建成后将有效满足海南自贸港全岛封关运作软硬件设施需求，为实现多手段、少手续的安全监管和低干预、便利化的精准监管提供重要支撑。根据要求，海南将确保2023年底具备封关运作硬件条件。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxs3943663.d.html</link>
-            <guid>2910782</guid>
-            <pubDate>Mon, 19 Dec 2022 14:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）：游戏公司Epic Games将支付超过5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-19/detail-imxxfqxu0719170.d.html</link>
-            <guid>2910781</guid>
-            <pubDate>Mon, 19 Dec 2022 14:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大TC能源公司：Keystone输油管线可能会缓慢地恢复石油输送服务，因为天气寒冷的缘故。]]></title>
-            <guid>2910780</guid>
-            <pubDate>Mon, 19 Dec 2022 14:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元上涨0.1%，报136.77，追随美债收益率上涨的表现；日内稍早曾跌0.6%。]]></title>
-            <guid>2910779</guid>
-            <pubDate>Mon, 19 Dec 2022 14:05:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
