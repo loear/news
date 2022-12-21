@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 21 Dec 2022 16:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 17:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：赛诺菲(SNY.O)就加州的胃灼热治疗药物Zantac案件达成和解，该案原定于2月审理。]]></title>
+            <guid>2914067</guid>
+            <pubDate>Wed, 21 Dec 2022 17:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：将Block(SQ.N)目标价从135美元降至90美元 维持买入评级】花旗银行分析师Peter Christiansen将Block(SQ.N)的目标价从135美元降至90美元，并保持对该股的买入评级。Christiansen在研报中表示，按企业价值与EBITDA的比例计算，Block“现在处于历史低点”，“代表了引人注目的买入机会”。分析师成，2023年的关键是提高效率、收紧可支配支出以及放慢招聘，这已经使得在过去两个季度的支出减少了20%-25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimn4178175.d.html</link>
+            <guid>2914065</guid>
+            <pubDate>Wed, 21 Dec 2022 17:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《阿凡达2》周二全球票房达到5880万美元，总票房超过5.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimn4177581.d.html</link>
+            <guid>2914062</guid>
+            <pubDate>Wed, 21 Dec 2022 17:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：FTX创始人班克曼在巴哈马的引渡听证会延期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimn4161886.d.html</link>
+            <guid>2914060</guid>
+            <pubDate>Wed, 21 Dec 2022 16:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英特尔副总裁Raja Koduri转任首席架构师一职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimq0938379.d.html</link>
+            <guid>2914059</guid>
+            <pubDate>Wed, 21 Dec 2022 16:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔分拆显卡芯片部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimq0938164.d.html</link>
+            <guid>2914058</guid>
+            <pubDate>Wed, 21 Dec 2022 16:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三星显示计划推迟与日本Ulvac的第八代OLED面板合作项目的投资】三星显示公司已经改变了开发第八代IT用OLED面板的优先次序，计划推迟对其与日本Ulvac公司共同开发了一年多的全切割、垂直沉积法的投资，转而投资其一直推进的佳能Tokki的半切水平沉积法。这是因为后一种方法已经商业化，正在开发的目的是为苹果公司提供平板电脑的OLED面板。而另一个原因可能是技术还不够成熟。三星显示公司正计划使用8.7代基板，而不是8.5代基板，但沉积机的开发是考虑到后者的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-22/detail-imxxnimq0927925.d.html</link>
+            <guid>2914051</guid>
+            <pubDate>Wed, 21 Dec 2022 16:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西部陆海新通道经广西钦州港口岸进出口总值破千亿元】据南宁海关统计，今年1月至11月底，西部陆海新通道沿线经广西钦州港口岸进出口值达到1005.5亿元，同比增长98.9%，创历史新高。当前，钦州港海关运用“两步申报”“提前申报”等便利化通关政策，对进出口企业的红利持续释放。广西北部湾港钦州港区自动化集装箱码头泊位如期建成运营，进出口集装箱实现了“船边直提、抵港直装”，西部陆海新通道海铁联运效能稳步提升。（央视新闻）]]></title>
+            <guid>2914049</guid>
+            <pubDate>Wed, 21 Dec 2022 16:35:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国DAX 30指数初步收涨1.49%，报14091.41点。法国股指初步收涨2.07%，意大利股指初步收涨1.54%，英国股指初步收涨1.67%。]]></title>
             <guid>2914046</guid>
@@ -209,97 +255,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4168961.d.html</link>
             <guid>2913972</guid>
             <pubDate>Wed, 21 Dec 2022 14:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯里兰卡国家统计局于当地时间12月21日表示，该国消费者价格指数继10月份跃升至70.6%后，11月份又同比下降至65%。（澎湃）]]></title>
-            <guid>2913969</guid>
-            <pubDate>Wed, 21 Dec 2022 14:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股盘初走高，道指涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccs0936960.d.html</link>
-            <guid>2913968</guid>
-            <pubDate>Wed, 21 Dec 2022 14:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股行业ETF周三盘初多数上涨，银行业ETF涨超1.6%领跑，区域银行ETF、能源业ETF、金融业ETF、全球航空业ETF、可选消费ETF也涨超1.0%，生物科技指数ETF则跌将近0.2%，网络股指数ETF跌超0.5%。]]></title>
-            <guid>2913967</guid>
-            <pubDate>Wed, 21 Dec 2022 14:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小鹏汽车-W：根据2019年股权激励计划发行148.55万股A类普通股】小鹏汽车-W12月21日在港交所公告，于2022年12月21日，根据于2020年6月28日采纳及2020年8月20日获公司股东批准的2019年股权激励计划而发行148.55万股A类普通股（占此股份发行前已发行股份的0.086%）以满足限制性股份单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccs0933755.d.html</link>
-            <guid>2913965</guid>
-            <pubDate>Wed, 21 Dec 2022 14:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟糖市参考价较11月份上涨14%，至586欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4149787.d.html</link>
-            <guid>2913962</guid>
-            <pubDate>Wed, 21 Dec 2022 14:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济第一大省，开始逆向“抢人”了】返乡潮即将来临，当很多省份还在忙着出海抢订单时，用工大省已经提前打响招工“第一枪”。12月19日，广东首批出省招工团从中山出发，赴广西跨省“抢人”，开展新一年的用工对接。这仅仅只是开始。据当地媒体报道，为了确保数以万家企业生产稳定，把抢来的“订”单变“定”单，从12月19日到2023年3月底，一百天左右的时间里，广东省市联动，将与省外重点劳务输出省开展线下对接、线上对接、人社部门对接、校企对接、人力资源机构对接、共享用工对接、服务专员对接，活动累计达两千场以上。更早前，浙江义乌、绍兴等地在12月上旬也纷纷推出就地过年“大礼包”，助力春节前后稳岗留工。21日，湖州也发布稳生产奖励、员工返岗补助等硬核政策，支持企业稳岗留工连续生产。与返乡潮逆向而行的“抢人”、留人背后，一个趋势不容忽视：吸纳了全国半数以上农民工的东部地区，农民工总量已从2015年16439万人减少到2021年15438万人，短短6年减少了1000万人。仅珠三角地区，过去4年间就减少超500万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4147344.d.html</link>
-            <guid>2913961</guid>
-            <pubDate>Wed, 21 Dec 2022 14:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国核建：预计在十四五规划末期公司最高同时建设核电机组数量有可能达到40-50台】中国核建12月21日披露投资者关系活动记录表显示，2022年全国范围内一共新核准了10台核电机组，目前已经有8台完成了招投标，还有2台处于招投标的前期阶段。对于已经完成招投标的8台核电机组，公司全部参与投标且全部中标；对于还处在招投标的前期阶段的另外2台核电机组，公司将积极准备并参与投标，对中标充满信心。公司具备同时建设40余台核电机组的能力。目前同时建设核电机组的数量为22台，过往最高同时建设核电机组数量是34台。公司预计明年同时建设的核电机组数量将达到30台以上，预计在十四五规划末期公司最高同时建设核电机组数量有可能达到40-50台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccs0924372.d.html</link>
-            <guid>2913960</guid>
-            <pubDate>Wed, 21 Dec 2022 14:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Coinbase在社交媒体上表示，已获得爱尔兰监管机构的批准，可以作为虚拟资产服务提供商。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4144493.d.html</link>
-            <guid>2913959</guid>
-            <pubDate>Wed, 21 Dec 2022 14:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Blink Charging(BLNK.O)与博世签署协议，成为通用汽车(GM.N)经销商的官方电动汽车充电解决方案提供商，推动拉丁美洲电动汽车的普及。]]></title>
-            <guid>2913958</guid>
-            <pubDate>Wed, 21 Dec 2022 14:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元上涨0.6%，报132.53。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4141178.d.html</link>
-            <guid>2913957</guid>
-            <pubDate>Wed, 21 Dec 2022 14:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西部陆海新通道经广西钦州港口岸进出口总值破千亿元】据南宁海关统计，今年1月至11月底，西部陆海新通道沿线经广西钦州港口岸进出口值达到1005.5亿元，同比增长98.9%，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4137116.d.html</link>
-            <guid>2913955</guid>
-            <pubDate>Wed, 21 Dec 2022 14:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港举行2022“一带一路”金融高峰论坛】2022“一带一路”金融高峰论坛21日在香港举行。与会人士就香港在“一带一路”建设中的角色和机遇等进行了探讨。香港特区政府财政司司长陈茂波致辞时表示，在“一带一路”建设过程中，香港国际金融中心的地位必然会越做越大，越做越强。未来香港将以自身所长全力服务国家所需，积极融入国家发展大局，必定能受惠于国家和区域的持续发展，画出亮丽的前景。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4134873.d.html</link>
-            <guid>2913954</guid>
-            <pubDate>Wed, 21 Dec 2022 14:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告显示APEC各经济体经贸有序恢复、合作活跃】21日发布的《APEC中小企业合作发展报告（2022）》显示，当前APEC各经济体经贸有序恢复，区域内合作更显活跃。报告分析指出，2021年APEC经济体中有71.4%的经济外向度水平处于中高水平，其中中小企业发挥了重要作用。APEC各经济体政府主要在融资、税收、就业等领域给予中小企业专项支持，且都专门出台了支持中小企业数字化、绿色化、智能化发展的政策，使下一步推进APEC中小企业合作明确了方向和领域。（新华社）]]></title>
-            <guid>2913953</guid>
-            <pubDate>Wed, 21 Dec 2022 14:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TC Energy：Keystone输油管线在漏油事故的响应和恢复方面取得进展。]]></title>
-            <guid>2913952</guid>
-            <pubDate>Wed, 21 Dec 2022 14:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【著名经济学家曹凤岐逝世】著名经济学家、北京大学光华管理学院荣休教授曹凤岐因病医治无效，于2022年12月21日中午在北京逝世，享年77岁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4127503.d.html</link>
-            <guid>2913950</guid>
-            <pubDate>Wed, 21 Dec 2022 14:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿铭股份中签号出炉 共2.5万个】鸿铭股份披露首次公开发行股票网上中签结果，中签号码共有25000个，每个中签号码只能认购500股鸿铭股份股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxnccq4123437.d.html</link>
-            <guid>2913947</guid>
-            <pubDate>Wed, 21 Dec 2022 13:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
