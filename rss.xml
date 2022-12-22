@@ -4,11 +4,44 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 22 Dec 2022 20:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 21:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国新能源汽车产业“链接”全球】中国新能源汽车的产业链优势正在向全球辐射。无论是在配套基础设施领域，还是在垂直细分市场，无论是在更先进的智能技术还是在更丰富的产品线，中国新能源汽车产业链多个环节都以高性价比、高技术、高稳定性在国际市场闯出一片蓝海。中国汽车产业一路奔向低碳智能的未来，其厚积多年的产业竞争力也开始在全球竞争中显现出来。]]></title>
+            <guid>2915785</guid>
+            <pubDate>Thu, 22 Dec 2022 20:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州2022年冬季用电需求逼近季节性历史最高位，严寒天气增加人们的取暖需求。得州电力可靠性委员会（ERCT）预计，当地用电需求将在周五早间达到70.9 GW，然后回落至69.8 GW。在部分地区，周五夜间交付的电价已经突破500美元/MWh，较周四上涨超过五倍。]]></title>
+            <guid>2915784</guid>
+            <pubDate>Thu, 22 Dec 2022 20:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：12月23日04时41分在新疆伊犁州巩留县（北纬43.36度，东经82.36度）发生3.4级地震，震源深度22千米。]]></title>
+            <guid>2915783</guid>
+            <pubDate>Thu, 22 Dec 2022 20:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：将美光科技(MU.O)目标价从49美元降至46美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxrchh0924369.d.html</link>
+            <guid>2915782</guid>
+            <pubDate>Thu, 22 Dec 2022 20:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【严寒天气威胁到美国小麦作物的存活率，牛也面临被冻死的风险】极端寒冷的天气正在横扫美国得州和达科塔州等地，让农作物、牲畜、铁路线、供水面临风险，这将进一步威胁到美国的粮食供应。温度处于历史性最低位，意味着农场机械面临抛锚的风险。在持续的干旱已经影响到农作物生长的情况下，冷冻势必让大平原上的小麦作物生长环境雪上加霜。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxrche4146244.d.html</link>
+            <guid>2915781</guid>
+            <pubDate>Thu, 22 Dec 2022 20:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞穗：首予波士顿科学(BSX.N)中性评级 目标价52美元】瑞穗银行分析师Anthony Petrone开始对波士顿科学(BSX.N)进行追踪，评级为中性，目标价为52美元。分析师认为，波士顿科学公司的投资组合倾向于重症监护产品，“应该是一种安全的经济衰退对冲”。然而，他认为该股目前的估值已达到饱和水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxrchh0916165.d.html</link>
+            <guid>2915779</guid>
+            <pubDate>Thu, 22 Dec 2022 20:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【蒙特利尔银行：美光科技(MU.O)第一财季业绩比预测的要差 维持跑赢大市评级】蒙特利尔银行分析师Ambrish Srivastava表示，该公司的负自由现金流、管理层的评论、资产负债表上的库存、未充分利用支出对毛利率的影响，以及随之而来的成本/比特的增加，都比他所模拟的要糟糕。该分析师保持其跑赢大市的评级，目标价为67美元，因为该股提供了“更好的风险回报概况”，但将其2023财年的每股亏损预测从亏损0.65美元降至亏损1.55美元，将其2024财年预测从盈利3.00美元降至1.95美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqwyk1031538.d.html</link>
@@ -176,63 +209,6 @@
             <title><![CDATA[纳指跌幅扩大至3%，明星科技股集体下挫，特斯拉大跌超8%，英特尔跌近5%，亚马逊跌超4%，微软跌超3%。]]></title>
             <guid>2915699</guid>
             <pubDate>Thu, 22 Dec 2022 17:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首个新能源金属期货品种上市，工业硅期货首日运行总体稳定】作为我国首个新能源金属期货品种，同时也是广州期货交易所首个上市品种，工业硅期货12月22日正式挂牌交易。12月23日，工业硅期权也将迎来首个交易日。从首日情况来看，工业硅期货运行总体稳定，走势符合现货基本面情况。但资金入场意愿有待提升，短期以日内投机资金为主，产业资金和机构资金仍在观望。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssk4252379.d.html</link>
-            <guid>2915698</guid>
-            <pubDate>Thu, 22 Dec 2022 17:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【NASA火星探测器电力耗尽 4年太空探索任务画上句号】美国国家航空航天局(NASA)21日宣布，由于太阳能电池板积聚大量灰尘，火星探测器“洞察号”(InSight)电池电量耗尽，其4年的太空探索任务画上句号。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssn1011875.d.html</link>
-            <guid>2915694</guid>
-            <pubDate>Thu, 22 Dec 2022 17:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西候任总统卢拉宣布新一批内阁成员名单】当地时间12月22日，在巴西首都巴西利亚的巴西银行文化中心，该国候任总统卢拉宣布了新一批内阁成员名单。本次新宣布了16位内阁部长人选，其中，当选副总统的杰拉尔多·阿尔克明将兼任工商部长，卫生部长一职由尼西亚·特林达德担任，这是该职位首次由女性出任。此前，卢拉已经宣布了包括司法和公共安全部长、国防部长在内的6名部长人选。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssn1009135.d.html</link>
-            <guid>2915693</guid>
-            <pubDate>Thu, 22 Dec 2022 17:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因工资和人员配备问题，英国Unison工会的救护车工人将于明年1月11日和23日举行两次罢工。]]></title>
-            <guid>2915692</guid>
-            <pubDate>Thu, 22 Dec 2022 17:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房地美：12月22日，美国30年期固定利率抵押贷款为6.27%，前一周为6.31%。]]></title>
-            <guid>2915691</guid>
-            <pubDate>Thu, 22 Dec 2022 17:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分稀土永磁股获得外资青睐】部分稀土永磁股获得外资青睐。截至12月21日，北上资金所持有稀土永磁股共计21只。其中，对金力永磁、厦门钨业、盛和资源的持仓占流通A股比例居前，依次为3.93%、3.48%、3.14%；对盛新锂能、北方稀土和中色股份的持仓占流通A股比例也均超过2%。自10月末以来，多只稀土资源股获北上资金加仓。北上资金对中色股份加仓幅度居首，最新持仓较10月末增长205.58%；宁波韵升次之，增持力度为85.67%；另有横店东磁和盛新锂能加仓幅度超过10%，对中国稀土和北方稀土也均有不同程度的增持。不少磁材企业则遭到北上资金减持，中钢天源、银河磁体、中科三环等股减仓幅度在50%以上。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssn1003362.d.html</link>
-            <guid>2915690</guid>
-            <pubDate>Thu, 22 Dec 2022 17:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Needham：下调奈飞2023财年预期 维持持有评级】Needham分析师Laura Martin保持对奈飞的持有评级，并将其23财年的每股收益预期从11.57美元下调至9.31美元，同时将其收入预期从358亿美元下调至334亿美元。分析师在研报中表示，该公司的用户峰值可能已经过去，因为所有OTT（过顶内容服务）供应商的流失率都在上升。Martin补充，第四季度57%的广告订阅订阅来自奈飞的高价广告，该公司的业务面临着每用户平均收入下降的压力。分析师进一步指出，美国联邦贸易委员会(FTC)对微软收购动视暴雪的诉讼破坏了奈飞的股东价值，因为这降低了奈飞成为其收购目标的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssn1002541.d.html</link>
-            <guid>2915689</guid>
-            <pubDate>Thu, 22 Dec 2022 17:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受益于国际移民，2022年美国人口录得增长】美国人口普查局周四公布的估计数字显示，美国人口在今年增长了120万人，主要是受国际移民的推动。美国目前有3.332亿居民。从2021年到2022年，净国际移民（进入美国的人数减去离开美国的人数）超过了100万。根据2022年的人口估计数，这比前一年的37.6万名国际移民增长了168%。自然增长（出生人数减去死亡人数）又增加了24.5万人，这是自2007年以来出生总数首次出现同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssn0997225.d.html</link>
-            <guid>2915687</guid>
-            <pubDate>Thu, 22 Dec 2022 16:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股航空板块走低，夏威夷控股(HA.O)跌超5%，美国航空集团(AAL.O)跌近5%，美国联合航空(UAL.O)、达美航空(DAL.N)跌超3%。]]></title>
-            <guid>2915684</guid>
-            <pubDate>Thu, 22 Dec 2022 16:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：俄罗斯的目标是结束俄乌冲突】当地时间12月22日，俄罗斯总统普京在克里姆林宫与媒体代表进行交流，回答了俄乌冲突相关问题。普京表示，所有的冲突都会以某种方式通过谈判解决，冲突各方早晚都会进行谈判，俄罗斯从来没有拒绝谈判。普京还表示，特别军事行动中战斗节奏的加强导致了战损。俄罗斯的目标不是加速俄乌冲突，而是结束这场冲突。俄罗斯将致力于结束冲突，而且是越快越好。对美国是否更多地插手乌克兰局势，普京称应该更广泛和更深入地看待这一问题，美国长期以来一直参与这一进程，插手苏联和后苏联空间事务。普京还提及，将于12月26日或27日签署总统令，宣布应对西方对俄罗斯石油设置价格上限的反制措施，并于明年年初发表国情咨文。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxqssk4212303.d.html</link>
-            <guid>2915683</guid>
-            <pubDate>Thu, 22 Dec 2022 16:44:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
