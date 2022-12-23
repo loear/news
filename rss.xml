@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 23 Dec 2022 20:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 21:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【为避免政府停摆 拜登签署延期拨款法案】当地时间12月23日，美国总统拜登正式签署一项临时拨款法案，为联邦政府再注资一周至12月30日，以避免政府在12月24日陷入停摆。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxthfe4324337.d.html</link>
+            <guid>2916903</guid>
+            <pubDate>Fri, 23 Dec 2022 20:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FTX关联交易公司Alameda Research前首席执行官Caroline Ellison称，她和FTX创始人班克曼编造了虚假陈述，并同意误导FTX的贷款方。]]></title>
+            <guid>2916894</guid>
+            <pubDate>Fri, 23 Dec 2022 20:22:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【调查称英国超半数成年人减少购买食品饮料】英国食品标准局公布的最新调查结果显示，英国超过一半的成年人正在减少购买食品和饮料。在英格兰最贫困的地区，有61%的受访者说，他们上个月购物时减少了购买食品。这一比例在最富裕地区为44%，在全英国为51%。有将近四分之一受访者说，因买不起食品而不吃某顿饭或减少饭量。英国国家统计局最新数据显示，截至11月，英国食品和非酒精类饮料今年涨价16.5%，为1977年9月以来的最大涨幅。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxthfh1036006.d.html</link>
@@ -228,33 +239,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxsvrn1099755.d.html</link>
             <guid>2916814</guid>
             <pubDate>Fri, 23 Dec 2022 15:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本保险公司暂停为俄罗斯承保船体保险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxsvrk4312606.d.html</link>
-            <guid>2916809</guid>
-            <pubDate>Fri, 23 Dec 2022 15:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度将根据“全印粮食计划”向超过8亿人口免费提供粮食，为期一年。将为分发免费的食品而开支2万亿卢比。]]></title>
-            <guid>2916802</guid>
-            <pubDate>Fri, 23 Dec 2022 15:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构评美国11月新屋销售总数年化：过去几个月新房销售强劲，但其中很大一部分是之前的积压，房屋建筑商最近在谈论订单量缓慢。30年期固定利率已经从10月份峰值时的7%下降到6.4%，预计低于6%的利率水平才会把人们从困境中拉出来。]]></title>
-            <guid>2916798</guid>
-            <pubDate>Fri, 23 Dec 2022 15:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华为官网消息，2022年12月23日，华为与诺基亚宣布续签双方专利许可协议，具体条款保密。]]></title>
-            <guid>2916797</guid>
-            <pubDate>Fri, 23 Dec 2022 15:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通威与澳大利亚Blue Sun Group签署合作备忘录】12月22日，通威组件亚太区商务团队代表与澳大利亚最大的可再生能源产品分销商之一的Blue Sun Group举行了线上合作洽谈会。会上，双方达成一致合作意见并签署MOU（合作备忘录），初步计划2023年在澳洲市场合作完成100MW通威高效半片组件出货，标志着通威组件进军澳洲市场迈出了实质性一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-23/detail-imxxsvrk4286530.d.html</link>
-            <guid>2916796</guid>
-            <pubDate>Fri, 23 Dec 2022 15:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
