@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 24 Dec 2022 16:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 17:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今年春运集中式客流或将变分散 热门线路火车票仍有余票】今年春运呈现出错峰出行的特点。预约订单的出行时间比较分散，1月14日、15日、16日、19日的预约量稍高，整体较为平均。较为热门的北京-长沙、北京-成都线路目前还有不少余票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxvewr1423073.d.html</link>
+            <guid>2918140</guid>
+            <pubDate>Sat, 24 Dec 2022 16:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京为高校毕业生搭建就业平台】从北京市人力社保局了解到，岁末年初，为更好助力各行各业复工复产，促进求职招聘供需双方有序对接，该局联合4家经营性人力资源服务机构共同推动主题活动将持续到2023年1月中旬，确保服务活动不止步、无缝衔接有保障。同时，“北京毕业生就业创业服务平台”和“好工作”微信公众号将全年无休，持续为广大毕业生提供岗位招聘、职业指导、就业见习等就业服务。]]></title>
+            <guid>2918139</guid>
+            <pubDate>Sat, 24 Dec 2022 16:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府正在考虑效仿澳大利亚，加强赌博广告中的警告，以遏制赌博成瘾。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxvewr1409439.d.html</link>
+            <guid>2918138</guid>
+            <pubDate>Sat, 24 Dec 2022 16:40:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国联邦快递公司表示，所有联邦快递网点都受到了严冬天气的影响。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxvewr1393770.d.html</link>
@@ -434,23 +451,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxuisz1446908.d.html</link>
             <guid>2918039</guid>
             <pubDate>Sat, 24 Dec 2022 08:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报道：以枪杀安倍嫌犯为原型电影“完成版”今上映，删减版已引发争议】据日本《每日新闻》24日报道，以枪杀日本前首相安倍晋三的嫌犯山上彻也为原型的电影《REVOLUTION+1》的完成版当天在名古屋市上映。报道称，在雪天里，有多名民众早上在售票开始前就来到上映地点排队。报道称，《REVOLUTION+1》讲述了一名以山上彻也为原型的男子的生活经历以及暗杀前首相的过程等。9月下旬日本政府为安倍晋三举行国葬仪式的时候，制片方曾上映了时长为50分钟的未完成版影片。而最新上映的完成版时长则为75分钟。（环球网）]]></title>
-            <guid>2918038</guid>
-            <pubDate>Sat, 24 Dec 2022 08:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华夏旗下基金调整铜陵有色估值方法】12月24日华夏基金公告称，23日起旗下基金采用“指数收益法”对停牌股票“铜陵有色”进行估值。待该股票复牌且其交易体现活跃市场交易特征后，将恢复采用当日收盘价格对其进行估值。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxuisz1442263.d.html</link>
-            <guid>2918037</guid>
-            <pubDate>Sat, 24 Dec 2022 08:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金公司增资再掀小高潮，又有两家基金公司增资】近日，创金合信、南华基金相继增加注册资本金，其中，创金合信将注册资本金从2.33亿元增加至2.61亿元，伴随着注册资金金提升，创金合信的股权激励范围再度扩大，包括总经理在内的多位公司核心员工持股比例有所提升。南华基金也将注册资本金从2亿元提升至2.5亿元，这也是南华基金今年以来第二次增资。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxuita8215436.d.html</link>
-            <guid>2918035</guid>
-            <pubDate>Sat, 24 Dec 2022 08:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
