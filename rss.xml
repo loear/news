@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 24 Dec 2022 18:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 19:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯一家养老院火灾遇难人数升至22人】俄罗斯侦查委员会24日发布消息称，相关部门人员在克麦罗沃州首府克麦罗沃市发生火灾的养老院现场新发现2名遇难者遗体。至此，该事故死亡人数上升至22人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxvmeq8157067.d.html</link>
+            <guid>2918150</guid>
+            <pubDate>Sat, 24 Dec 2022 18:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：12月25日02时15分在云南丽江市宁蒗县（北纬26.85度，东经100.80度）发生3.1级地震，震源深度16千米。]]></title>
+            <guid>2918148</guid>
+            <pubDate>Sat, 24 Dec 2022 18:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国宣布德克萨斯州电力进入紧急状态】美国能源部宣布德克萨斯州进入电力紧急状态。北极冬季大风导致发电厂瘫痪，导致电力短缺。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxvmeq8129889.d.html</link>
@@ -434,18 +445,6 @@
             <title><![CDATA[【王一鸣：要抓紧出台支持平台经济规范健康发展的具体措施】12月24日，在以“经济高质量发展与中国特色金融发展之路”为主题的中国财富管理50人论坛2022年会上，国务院发展研究中心原副主任王一鸣表示，推动经济回升的当务之急是稳定预期，提振信心。王一鸣提出，要出台支持平台经济发展的政策举措。他认为，平台经济是数字经济的重要形态，也是影响各国竞争力消涨的重要力量。去年下半年以来，受多重因素影响，我国平台企业发展势头明显放缓，信心受挫，投资预期不稳，与国外头部企业差距拉大。]]></title>
             <guid>2918049</guid>
             <pubDate>Sat, 24 Dec 2022 08:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南冬春水利建设计划加固水库1050座 改善灌溉面积近800万亩】据央视新闻，记者从湖南省水利厅了解到，从今年10月份至明年3月份，湖南冬春水利建设计划加固水库1050座，完成建设任务后，预计新增灌溉面积280.05万亩，改善灌溉面积786.27万亩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxuita8254967.d.html</link>
-            <guid>2918048</guid>
-            <pubDate>Sat, 24 Dec 2022 08:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Celltrion向FDA提交CT-P13 SC申请】Celltrion周五宣布已完成向美国药品监管机构（FDA）提交抗炎药Remicade皮下生物类似药的生物制剂许可申请。CT-P13 SC，是Celltrion公司英夫利昔单抗生物仿制药的皮下制剂，参考了强生公司的类风湿关节炎治疗药物Remicade。CT-P13 SC是全球首个英夫利昔单抗生物类似药，已在包括加拿大和欧洲在内的约40个国家获得销售许可。根据Symphony Health的数据，Celltrion的Inflectra或Remsima 4的销售额目前约占美国市场30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-24/detail-imxxuita8253916.d.html</link>
-            <guid>2918046</guid>
-            <pubDate>Sat, 24 Dec 2022 08:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
