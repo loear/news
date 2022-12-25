@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Dec 2022 20:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 21:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据阿尔及利亚国家通讯社：阿尔及利亚将2023-2025年原油市场价格定在70美元/桶，参考价格定为60美元/桶；预计2023年通货膨胀率将达到5.1%，经济增长将达到4.1%。]]></title>
+            <guid>2918866</guid>
+            <pubDate>Sun, 25 Dec 2022 20:52:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【冬季风暴已造成美国至少28人死亡】据美国国家广播公司（NBC）当地时间12月25日报道，目前冬季风暴已在全美导致至少28人死亡，科罗拉多州、堪萨斯州、俄克拉荷马州、内布拉斯加州和纽约州等州均有死亡记录。其中，受灾严重的纽约州布法罗市有7人死亡，该市国际机场已经关闭。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxumm1275689.d.html</link>
@@ -433,12 +438,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8090268.d.html</link>
             <guid>2918304</guid>
             <pubDate>Sun, 25 Dec 2022 08:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东望时代：控股子公司拟2500万元参投影视剧《英雄志》】东望时代公告，公司控股子公司浙江歌画文化发展有限公司(“歌画文化”)拟与东阳东控聚文文化发展有限公司(“东控聚文”)共同投资影视剧《英雄志》(暂定名)，公司拟出资2500万元，其中1250万元为固定回报投资，1250万元为风险回报投资。东控聚文拟以同样比例和方式投资同等金额。歌画文化与东控聚文拟分别与该影视剧的主控制作方签署《关于影视剧<英雄志>之联合投资合同》。若本次交易出资完成，根据上述协议，该剧投资成本不高于3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxx1310946.d.html</link>
-            <guid>2918301</guid>
-            <pubDate>Sun, 25 Dec 2022 08:20:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
