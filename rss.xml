@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Dec 2022 15:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 16:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据报道，俄罗斯总统普京在接受俄国家电视台一档节目采访时表示，俄方并不拒绝就乌克兰周边局势进行谈判，并愿意与所有相关方进行谈判。（澎湃新闻）]]></title>
+            <guid>2918391</guid>
+            <pubDate>Sun, 25 Dec 2022 15:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【再度出手！深圳国资成中国宝安第一大股东】凭借“钞能力”，深圳国资超过粤民投，成为中国宝安第一大股东。中国宝安12月23日公告称，承兴投资在12月8日至22日，累计增持公司股份1.2498%。加上鲲鹏新产业持有公司股份0.8469%，两者合计持有公司股份16.0402%，且均为深圳国资二级全资子公司。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxxivs8078815.d.html</link>
+            <guid>2918390</guid>
+            <pubDate>Sun, 25 Dec 2022 15:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海电气收证监局处罚 并对公司副总裁陈干锦给予警告】上海电气公告，近日收到上海证监局出具的《行政处罚决定书》，责令上海电气改正，给予警告，并处500万元罚款；对上海电气副总裁、电气通讯董事长陈干锦给予警告，并处50万元罚款。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxxivs8061905.d.html</link>
@@ -426,18 +437,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxx1286973.d.html</link>
             <guid>2918288</guid>
             <pubDate>Sun, 25 Dec 2022 07:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首航高科：联合体中标上海电力新疆哈密北10万千瓦光热发电项目EPC总承包工程】首航高科公告，公司与中国电力工程顾问集团华北电力设计院有限公司、中能建西北城市建设有限公司组成的投标联合体，参与了上海电力股份有限公司新疆哈密北10万千瓦光热发电项目EPC总承包工程招标，2022年12月23日收到该项目《中标通知书》，确认投标联合体中标上海电力新疆哈密北10万千瓦光热发电项目EPC总承包工程，中标价12.16亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8063501.d.html</link>
-            <guid>2918287</guid>
-            <pubDate>Sun, 25 Dec 2022 07:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中贝通信：预中标2.08亿元中国移动集采项目】中贝通信公告，公司参与了“中国移动北京公司2023-2025年室分及集客工程施工服务集中采购项目”投标。近日相关项目的中标候选人公示公告已发布，公司预估中标金额合计2.08亿元。招标范围包括：室内分布系统工程、企业宽带与集客专线接入类工程。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8063042.d.html</link>
-            <guid>2918286</guid>
-            <pubDate>Sun, 25 Dec 2022 07:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
