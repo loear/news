@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Dec 2022 18:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 19:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【拟投资25亿元跨界光伏领域 三五互联坦言存在各种风险】12月25日晚间，三五互联发布公告称，公司控股子公司天津三五互联移动通讯有限公司（简称“天津通讯”）拟与眉山市丹棱县人民政府签署《一期新能源5GW异质结电池项目投资合作协议书》，投资建设“5GW超高效异质结（HJT）电池5G智慧工厂”项目，项目计划总投资约25亿元，项目资金来源为公司自筹。三五互联表示，“公司在充分分析光伏行业蓬勃发展现状、产业政策、未来市场空间及公司现有技术等因素的基础上，拟发展异质结（HJT）电池项目，寻求新利润增长点，增强公司的盈利能力，该项目对公司的业务战略发展具有积极影响，符合公司的发展需要和长远规划，也符合国家‘碳达峰、碳中和’的战略要求。”（证券日报）]]></title>
+            <guid>2918768</guid>
+            <pubDate>Sun, 25 Dec 2022 19:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上门核酸检测降至200元 500元以上高价产品下线】随着核酸采样亭减少和居家人群的增加，核酸检测上门服务开始引起关注。查询各大平台后发现，上门核酸检测一度达到200元~700多元不等，但目前700多元和500多元的相对高价产品已经悄然下线，不少检测平台都进行了降价，目前的上门核酸检测价格大多在200元左右。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxqcq8083219.d.html</link>
@@ -435,11 +440,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8080530.d.html</link>
             <guid>2918296</guid>
             <pubDate>Sun, 25 Dec 2022 08:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿里云发布香港可用区C服务中断事件说明，称将尽快处理赔偿事宜】12月25日，阿里云发布香港Region可用区C服务中断事件说明，并向所有受到故障影响的客户公开致歉，称将尽快处理赔偿事宜。阿里云表示，将尽一切努力从此次事件中吸取经验教训，持续提升云服务的稳定性。]]></title>
-            <guid>2918294</guid>
-            <pubDate>Sun, 25 Dec 2022 08:06:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
