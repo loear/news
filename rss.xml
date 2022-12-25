@@ -4,11 +4,63 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Dec 2022 11:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 12:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【三星大规模召回洗衣机产品，因存在过热起火风险】 据美国有线电视新闻网（CNN）报道，三星公司日前宣布在全美召回约66万台洗衣机，原因是这些洗衣机在运行时可能会发生短路或过热，有发生火灾的风险。报道称，公司已收到51份涉及相关型号洗衣机发生“冒烟、过热或起火”的报告。其中有十起已经造成财产损失，有三起据称有消费者因吸入烟雾而受伤。据了解，此次召回的洗衣机销售时间为去年年中到今年12月，价格在900美元到1500美元之间不等，约合人民币六千到一万多元。（央视财经）]]></title>
+            <guid>2918361</guid>
+            <pubDate>Sun, 25 Dec 2022 12:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数字人民币APP迎来重大更新！过年“发红包”有了玩法】 日前，数字人民币APP迎来重大版本更新，新增了“现金红包”和“专属头像”功能。人们可以通过数字人民币APP发放现金红包，也可以在数字人民币APP以及微信、QQ、支付宝等社交平台领取他人发放的现金红包。随着新年临近，本次更新正当其时，将为人们收发红包提供一项全新的选择。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxxcpu8047114.d.html</link>
+            <guid>2918360</guid>
+            <pubDate>Sun, 25 Dec 2022 12:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【梦洁股份及董事长等人被罚400万：未按规定披露非经营性关联交易】 梦洁股份25日公告称，因未按规定披露非经营性关联交易，公司收到湖南证监局下发的《行政处罚决定书》，对梦洁股份给予警告，并处以50万元罚款；董事长姜天武，副董事长李菁，董事李建伟，董事、董事会秘书李军，股东张爱纯等相关责任人被罚350万元。（中新经纬）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxxcpt1269564.d.html</link>
+            <guid>2918359</guid>
+            <pubDate>Sun, 25 Dec 2022 12:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【TCL中环：至2022年底，公司光伏单晶总产能预计超过140GW】TCL中环12月25日在互动平台表示，至2022年底，公司光伏单晶总产能预计超过140GW，公司晶体、晶片全产能兼容N型产品，依靠工业4.0生产体系可实现N、P型产品灵活切换。公司根据下游订单需求合理制定排产计划，保障产品供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfv1391203.d.html</link>
+            <guid>2918358</guid>
+            <pubDate>Sun, 25 Dec 2022 12:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中式咖啡搜索热度暴增近5000%】近年来，随着咖啡消费的不断增长，咖啡馆的数量也随之增加。记者从浙江杭州多家咖啡门店了解到，目前，市面上的一些新式特调咖啡，每杯的售价从40多元到80多元不等，其中，年轻消费者居多。 生活服务电商平台的数据显示，今年第三季度，“咖啡+艺术”关键词搜索量同比增长3025%。今年以来，用户对“特调咖啡”的搜索量同比增长207%，“中式咖啡”搜索热度同比提升4713%。 （央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfw8147300.d.html</link>
+            <guid>2918355</guid>
+            <pubDate>Sun, 25 Dec 2022 11:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电影《阿凡达：水之道》总票房破7亿】猫眼专业版数据显示，电影《阿凡达：水之道》上映10天，总票房破7亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfv1361380.d.html</link>
+            <guid>2918354</guid>
+            <pubDate>Sun, 25 Dec 2022 11:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家体育总局25日在网站上发布《体育仲裁规则》和《中国体育仲裁委员会组织规则》，这两项规则将于2023年1月1日起施行。（新华社）]]></title>
+            <guid>2918353</guid>
+            <pubDate>Sun, 25 Dec 2022 11:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大兴机场廊坊城市航站楼12月26日起正式恢复运营】来自北京大兴国际机场公共区管理部的消息显示，大兴机场廊坊城市航站楼自12月26日起正式恢复运营。航站楼恢复运营后不再查验旅客核酸检测阴性证明及健康码。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfw8119663.d.html</link>
+            <guid>2918352</guid>
+            <pubDate>Sun, 25 Dec 2022 11:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【厚普股份：北京星凯参与转融通出借业务股份减少达1.74%】厚普股份公告，公司近日收到持股5%以上股东北京星凯的通知，获悉北京星凯于2022年6月21日-12月23日参与转融通出借业务致使持股数量减少671.76万股，占公司总股本的1.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfv1338874.d.html</link>
+            <guid>2918350</guid>
+            <pubDate>Sun, 25 Dec 2022 11:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【李东生称时刻提醒自己不能成为企业发展瓶颈】TCL创始人、董事长李东生谈到企业的发展时，李东生不断提醒自己“一定不能够成为企业发展的瓶颈和障碍。”为了更加适应企业未来发展的要求，他必须不断为集团注入新鲜力量。饭间当员工们聊起“00后”整顿职场的话题时，李东生表示年轻人的思想比较活跃。 (央视财经)]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwxfv1335236.d.html</link>
@@ -385,18 +437,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwnsa8119650.d.html</link>
             <guid>2918258</guid>
             <pubDate>Sun, 25 Dec 2022 06:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【1-11月深圳规模以上工业增加值同比增长5.6%】深圳市统计局官网发布最新统计数据显示，1-11月深圳规模以上工业增加值同比增长5.6%，经济延续恢复态势。从行业门类看，深圳市规模以上采矿业，制造业，电力、热力、燃气及水生产和供应业增加值分别增长11.5%、5.1%、9.4%。主要行业大类中，规模以上汽车制造业增加值增长110.1%，石油和天然气开采业增长10.1%，专用设备制造业增长4.0%，计算机、通信和其他电子设备制造业增长2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwnrz1332739.d.html</link>
-            <guid>2918256</guid>
-            <pubDate>Sun, 25 Dec 2022 06:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应急管理部调度新疆西部黄金伊犁有限公司金矿坍塌事故救援处置，派出工作组赶赴现场】12月24日13时40分许，新疆西部黄金伊犁有限公司一金矿发生坍塌事故，造成18人被困。接报后，应急管理部立即作出部署，要求抓紧核实人员被困情况，调派专业救援队伍，指导帮助新疆开展搜救工作，尽最大努力确保被困人员生命安全，并视频连线现场，调度指导处置工作。 应急管理部派出由国家矿山安全监察局负责同志带队的工作组赴现场指导救援处置和事故调查，同时选派3名矿山救援专家紧急赶往现场协助指导救援工作。当地已组织专业队伍95人、救援车辆17辆、各类应急救援装备467台（套）投入救援，事故救援工作正在紧张进行中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwnsa8056585.d.html</link>
-            <guid>2918248</guid>
-            <pubDate>Sun, 25 Dec 2022 05:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
