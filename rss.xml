@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 27 Dec 2022 19:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 20:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -190,18 +190,6 @@
             <title><![CDATA[美股航空板块走低，AZUL SA跌超6%，西南航空跌超5%，美国航空集团、美国联合航空跌约2%。]]></title>
             <guid>2921163</guid>
             <pubDate>Tue, 27 Dec 2022 14:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员：阿根廷比索在灰市下跌1.7%，至1美元兑352比索的历史低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-27/detail-imxycvzw3696621.d.html</link>
-            <guid>2921160</guid>
-            <pubDate>Tue, 27 Dec 2022 14:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚经济部长：哥伦比亚-委内瑞拉边境重新开放以促进出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-27/detail-imxycvzu6919070.d.html</link>
-            <guid>2921159</guid>
-            <pubDate>Tue, 27 Dec 2022 14:29:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
