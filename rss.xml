@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 29 Dec 2022 19:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 20:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【以色列总理内塔尼亚胡就职后首次召开内阁会议】 当地时间12月29日晚，新就职的以色列总理内塔尼亚胡首次召开内阁会议并发表讲话。内塔尼亚胡在讲话中表示，目前，新政府有4个主要目标，首要目标是遏制伊朗以确保以色列的安全，其次是加强以色列的社会安全和治理，再次是解决以色列高企的生活成本和住房问题，最后是扩大以色列在地区的“安全圈”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxykuvw9359903.d.html</link>
+            <guid>2924265</guid>
+            <pubDate>Thu, 29 Dec 2022 19:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法拉第未来(FFIE.O)盘中跳水，现跌10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxykuvv2565847.d.html</link>
+            <guid>2924263</guid>
+            <pubDate>Thu, 29 Dec 2022 19:22:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴西足坛传奇人物贝利去世】据媒体报道，巴西足坛传奇人物贝利去世，享年82岁。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxykuvv2548129.d.html</link>
@@ -231,23 +243,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-29/detail-imxykkfz2594940.d.html</link>
             <guid>2924166</guid>
             <pubDate>Thu, 29 Dec 2022 14:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抗疫概念股走强，Ocugen涨超6%，诺瓦瓦克斯医药涨约5%，BioNTech SE涨约2%。]]></title>
-            <guid>2924164</guid>
-            <pubDate>Thu, 29 Dec 2022 14:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内涨幅达0.50%，现报1.2074。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-29/detail-imxykkha9368940.d.html</link>
-            <guid>2924163</guid>
-            <pubDate>Thu, 29 Dec 2022 14:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-29/detail-imxykkfz2590476.d.html</link>
-            <guid>2924161</guid>
-            <pubDate>Thu, 29 Dec 2022 14:38:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
