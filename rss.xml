@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 30 Dec 2022 16:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 17:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特斯拉有望在2022年实现美国市场50%的增长目标】根据考克斯汽车公司的说法，特斯拉在2022年的成绩单上表现强劲，考克斯汽车公司预计，特斯拉在2022年最后一个季度将在美国销售13.38万辆汽车。这将比2021年第四季度增长16.2%。这一数字将使该公司2022年的总销量达到52.46万辆，对美国市场来说是实现了48.9%的上涨。同样，特斯拉2022年在其他国家也表现的非常出色，它打破了大众甲壳虫50多年前在挪威创下的销售纪录，同时在亚销售额洲也出现了巨大的增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyntnx2671814.d.html</link>
+            <guid>2925392</guid>
+            <pubDate>Fri, 30 Dec 2022 16:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今年以来，默沙东公司股价已上涨44%，目前正处于历史高位，是标普500指数中表现最好的制药公司。]]></title>
+            <guid>2925391</guid>
+            <pubDate>Fri, 30 Dec 2022 16:34:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【墨西哥西部发生5.0级地震】根据墨西哥国家地震监测局（SSN）的信息，当地时间12月30日9时35分51秒，距离墨西哥米却肯州科利马特曼101公里处发生5.0级地震。墨西哥地震预警系统没有启动，目前暂无人员伤亡和财产损失的报告。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyntny9428821.d.html</link>
@@ -364,24 +375,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxynpez2666242.d.html</link>
             <guid>2925295</guid>
             <pubDate>Fri, 30 Dec 2022 14:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东国信：出售富国基金股权、睿远76号债权及睿远61号债权的所有先决条件已获达成】内容有关出售其于富国基金管理有限公司的股权(富国基金股权)及山东信托•睿远76号集合资金信托计划项下的债权(睿远76号债权);以及内容有关出售山东信托•睿远61号集合资金信托计划项下的债权(睿远61号债权)。 各转让协议项下有关出售富国基金股权、睿远76号债权及睿远61号债权的所有先决条件已获达成。出售富国基金股权及睿远76号债权于2022年12月28日完成交割;出售睿远61号债权于2022年12月30日完成交割。于出售富国基金股权完成交割后，富国基金管理有限公司不再为集团的联营公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxynpez2664644.d.html</link>
-            <guid>2925293</guid>
-            <pubDate>Fri, 30 Dec 2022 14:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中煤集团携手国家电投 央企专业化整合再下一城】央企专业化整合再下一城。12月30日，中煤集团与国家电投煤电项目专业化整合签约仪式在北京举办。记者了解到，此次专业化整合通过市场化方式开展，涉及的电力装机规模将超过1000万千瓦，是近年来国内煤电领域涉及资产数额较大、影响力较强、整合效益较为显著、示范引领作用较为突出的合作项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxynpez2663843.d.html</link>
-            <guid>2925291</guid>
-            <pubDate>Fri, 30 Dec 2022 14:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最高时速160公里 氢能源市域列车在成都下线】28日，具有自主知识产权的氢能源市域列车在成都下线。列车由中车长客股份公司联合成都轨道集团共同研制，采用四辆编组，最高时速160公里，内置“氢能动力”系统为车辆运用提供动力源，可实现600公里续航。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-30/detail-imxynpfa9435600.d.html</link>
-            <guid>2925287</guid>
-            <pubDate>Fri, 30 Dec 2022 14:06:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
