@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 31 Dec 2022 10:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 11:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【武汉房交会延长十天，已线上累计成交7540套】12月31日，据官方微信公众号“武汉房地产经纪行业协会”消息，为满足广大购房群众和开发企业的需求，第39届武汉房地产交易会将延长10天，至2023年1月10日结束，房交会期间各项补贴和优惠政策同步延长，即房交会购房享万元补贴和房交会成交享住宅专项维修资金补贴。据介绍，此次房交会12月8日启幕，截至12月30日，房交会线上平台累计浏览量143.45万次，累计用户数3.64万人。线上累计成交7540套，累计网签7457套，网签面积90.26万平方米，金额156.44亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9310548.d.html</link>
+            <guid>2926431</guid>
+            <pubDate>Sat, 31 Dec 2022 10:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国2022年对北约成员国军售几乎翻倍】据美国《外交政策》杂志当地时间12月29日报道，在美西方持续向乌克兰输送武器的情况下，2022年美国向北约成员国出售的武器数量与2021年相比，几乎翻倍。根据美国五角大楼的数据，2021年，美国政府批准了14项对北约成员国的武器销售，总金额约为155亿美元；到了2022年，美国政府批准了24项对北约成员国的武器销售，总金额约280亿美元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9298079.d.html</link>
+            <guid>2926428</guid>
+            <pubDate>Sat, 31 Dec 2022 10:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2023元旦档总票房突破2亿元】猫眼专业版数据显示，2023年元旦档总票房（含预售）突破2亿元，用时近18.5个小时。《阿凡达：水之道》、《想见你》、《绝望主夫》位列元旦档票房榜前三位，其中，《阿凡达：水之道》今日票房已接近1亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9296773.d.html</link>
@@ -373,17 +385,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxypzhi2485955.d.html</link>
             <guid>2926120</guid>
             <pubDate>Sat, 31 Dec 2022 05:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联合国大会批准总额约34亿美元的2023年联合国预算】联合国大会主席发言人保利娜·库比亚克对卫星通讯社表示，联合国大会批准了2023年的联合国预算，总额接近34亿美元。2022年的联合国预算为31.2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxypuyn9381982.d.html</link>
-            <guid>2926049</guid>
-            <pubDate>Sat, 31 Dec 2022 04:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗举行年度大规模军演】自当地时间30日凌晨起，伊朗军队在伊东南部举行“佐勒法加尔-1401”年度大规模军演。伊军方强调，演习显示了伊朗军队的决心，同时也向地区国家传递一个事实，即该地区不需要任何外国势力来维护安全，美国、英国等外国势力必须从该地区撤离，只有这样才有助于地区和平与稳定。  （央视）]]></title>
-            <guid>2926025</guid>
-            <pubDate>Sat, 31 Dec 2022 04:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
