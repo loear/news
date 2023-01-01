@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 01 Jan 2023 18:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 19:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月02日02时35分在美国加利福尼亚州（北纬40.42度，西经123.95度）发生5.2级地震，震源深度30千米。]]></title>
+            <guid>2927415</guid>
+            <pubDate>Sun, 01 Jan 2023 19:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约时报广场跨年活动外围发生挥刀袭警案 三警察受伤】当地时间2023年1月1日，美国纽约市警察局长表示，跨年夜时报广场安全区域外发生了一起挥刀袭警案，造成三名警察受伤，目前嫌疑人已被拘留。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxytmyu9112888.d.html</link>
+            <guid>2927414</guid>
+            <pubDate>Sun, 01 Jan 2023 18:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月02日02时24分在印尼巴布亚省（南纬2.70度，东经140.80度）发生5.1级地震，震源深度20千米。]]></title>
+            <guid>2927413</guid>
+            <pubDate>Sun, 01 Jan 2023 18:49:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【私募业新规要来了！登记备案设新标准】日前，中国基金业协会发布通知，就新修订的《私募投资基金登记备案办法（征求意见稿）》及多个配套指引，向社会公开征求意见。由于新规将对行业带来较大影响，因此引起了业内热议。修订后的《办法》进一步明确私募登记备案标准，延续了监管扶优限劣的导向。从管理人登记、产品备案等相关环节规定看，有不少方面的门槛得到完善和提高。其中，私募管理人实缴资本不低于1000万、证券私募产品初始募集不低于1000万元等条款都备受关注。此外，新规对私募负责投资的高管也提出了明确的工作经验要求。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxytmyt2315368.d.html</link>
@@ -430,24 +446,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxysqve9165804.d.html</link>
             <guid>2927315</guid>
             <pubDate>Sun, 01 Jan 2023 09:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第三代半导体企业超芯星半导体完成亿元B轮融资】近日，江苏超芯星半导体有限公司宣布完成亿元B轮融资，由渶策资本领投，浙江创智、大有资本、佳银资本跟投，多维资本鼎力支持。本轮融资资金将用于超芯星二期项目的扩产、运营以及研发的持续投入。目前公司已实现晶体生长、加工、检测全线贯通，6英寸碳化硅衬底已量产。（集微网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxysqve9153149.d.html</link>
-            <guid>2927311</guid>
-            <pubDate>Sun, 01 Jan 2023 09:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家减灾委员会办公室、应急管理部发布1月份全国自然灾害风险形势】近日，国家减灾委员会办公室、应急管理部会同自然资源部、气象局、能源局、林草局等部门单位召开会商会，对1月份全国自然灾害风险形势进行会商研判。经综合分析，1月份将有3次冷空气过程影响我国，东北及新疆等地低温雨雪灾害风险较高；西南和江南等地干旱可能发展加强；江南、华南、西南等部分地区森林火险等级较高；中南、西南部分地区存在地质灾害风险。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxysqve9153090.d.html</link>
-            <guid>2927310</guid>
-            <pubDate>Sun, 01 Jan 2023 09:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[零跑汽车：2022年累计交付达111168台，同比增长超154%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxysqvc2367963.d.html</link>
-            <guid>2927309</guid>
-            <pubDate>Sun, 01 Jan 2023 09:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
