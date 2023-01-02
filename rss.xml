@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 02 Jan 2023 19:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 20:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  巴西农牧业和食品供应部部长表示，新一届巴西政府的第一个挑战是战胜饥饿；巴西种植面积可能在20年内翻一番。]]></title>
+            <guid>2927956</guid>
+            <pubDate>Mon, 02 Jan 2023 20:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【博雷利：美国《通胀削减法案》不尊重世贸组织规则】当地时间1月2日，欧盟外交与安全政策高级代表博雷利发表文章，批评美国《通胀削减法案》。博雷利在文中写道，该项法案为在美国本土进行生产活动的公司提供公共补贴，这种行为损害了欧洲企业的利益，不尊重世贸组织规则。博雷利坦言，欧盟的财政能力有限，在各成员国层面采取与美国类似的政策将分裂欧盟内部市场。欧盟正在与美国当局展开对话解决分歧。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyvvfz5986502.d.html</link>
+            <guid>2927929</guid>
+            <pubDate>Mon, 02 Jan 2023 19:41:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【巴西12月铁矿石日均发货量为146万吨】巴西经济部公布数据显示，2022年12月的22个交易日的日均铁矿石发货量为146万吨，而2021年12月为132万吨，今年11月为150万吨/日。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyvvfx9191298.d.html</link>
@@ -298,17 +309,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuyam6112768.d.html</link>
             <guid>2927741</guid>
             <pubDate>Mon, 02 Jan 2023 11:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【歌礼制药-B：美国药企Viking就集团候选药物ASC41及ASC43F向公司、创始人吴劲梓等作出若干控告】歌礼制药-B公告，近日获悉，VikingTherapeutics,Inc（一家位于美国的制药公司）于2022年12月29日就集团候选药物ASC41及ASC43F向公司、其创始人吴劲梓博士及公司若干附属公司作出若干控告。一项控告向位于华盛顿特区的美国国际贸易委员会提出，另一项控告则向加利福尼亚州南区圣迭戈分部的美国地方法院提出，各项控告所列指控相似。截至本公告日期，Viking尚未向公司送达该等控告，或于提出该等控告前向公司提出相关指控。公司认为该等指控并无根据，并将就该等控告进行有力抗辩。公司将密切关注上述法律诉讼，集团的业务及运营一切正常。]]></title>
-            <guid>2927738</guid>
-            <pubDate>Mon, 02 Jan 2023 11:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚钾国际第二个百万吨钾肥项目试车成功】据亚钾国际消息，2023年1月1日，亚钾国际第二个百万吨钾肥项目启动开机试车。该项目自2022年3月正式启动，在历经10个月的紧张建设后于12月31日投建完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuyam6099885.d.html</link>
-            <guid>2927737</guid>
-            <pubDate>Mon, 02 Jan 2023 11:11:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
