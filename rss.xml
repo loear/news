@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 03 Jan 2023 19:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 20:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国法官将FTX创始人SBF的受审日期定在了2023年10月2日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyyenx5840264.d.html</link>
+            <guid>2929613</guid>
+            <pubDate>Tue, 03 Jan 2023 19:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美、布两油均跌超4%】布伦特原油日内大跌4.00%，现报82.35美元/桶；WTI原油日内大跌4.00%，现报77.08美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyxyex9187273.d.html</link>
@@ -230,24 +236,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyxtxc5935764.d.html</link>
             <guid>2929528</guid>
             <pubDate>Tue, 03 Jan 2023 15:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄宇航员将从国际空间站美国段进入太空进行舱外活动】俄国家航天集团公司当地时间3日表示，俄宇航员将接受训练，准备从国际空间站美国段进入外太空，相应合同已于2022年签署。据报道，根据与美国国家航空航天局(NASA)的合同，俄国家航天集团公司2022年为国际空间站的“曙光”号功能货舱提供工程支持，并与NASA签署了一系列补充合同，包括在国际空间站美国段培训俄罗斯宇航员进行舱外活动及使用机器人技术。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyxtwz9148332.d.html</link>
-            <guid>2929523</guid>
-            <pubDate>Tue, 03 Jan 2023 15:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【约旦外交部传唤以色列大使 谴责以国家安全部部长访问圣殿山】约旦外交部当地时间1月3日传唤以色列驻约旦大使，谴责以国家安全部部长于当天访问位于耶路撒冷老城圣殿山的行为。约旦外交部发言人表示，以方的行为违背了国际法和相关准则，有可能带来严重后果，将导致紧张局势和暴力冲突升级，以方必须立即停止此类行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyxtwz9131233.d.html</link>
-            <guid>2929516</guid>
-            <pubDate>Tue, 03 Jan 2023 15:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟收到意大利第三批190亿欧元复苏基金申请】据当地媒体1月3日报道，欧盟委员会已收到意大利提交的第三批190亿欧元“下一代欧盟”复苏资金申请。意大利关于如何使用欧盟复苏资金的《国家复苏和韧性计划》涉及金额达1916亿欧元，其中690亿为拨款，1226亿为贷款。截至目前，欧盟已拨付249亿欧元预付款和第一批和第二批各210亿欧元复苏资金。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-03/detail-imxyxtwz9130130.d.html</link>
-            <guid>2929514</guid>
-            <pubDate>Tue, 03 Jan 2023 15:09:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
