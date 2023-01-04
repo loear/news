@@ -4,11 +4,63 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 04 Jan 2023 16:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 17:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[迪士尼：《阿凡达》续集在全球获得了14.8亿美元的票房。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccx9084425.d.html</link>
+            <guid>2931384</guid>
+            <pubDate>Wed, 04 Jan 2023 17:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国电信运营商威瑞森（VZ）将2024（财）年的资本开支预期下调至大约170亿美元，该公司主要的5G网络搭建计划完工、战略侧重点转向销售增长和现金增值。]]></title>
+            <guid>2931383</guid>
+            <pubDate>Wed, 04 Jan 2023 17:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【瑞信发行蓝筹债券】瑞士信贷在2023年初加入美国高评级债券的发行热潮，该公司两年期和五年期公司债可能会较可比美国国债收益率实现387.5个基点的溢价，意味着发行利率大约为8.00%，那将远远高于这家蓝筹发行人5.39%的均值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5852033.d.html</link>
+            <guid>2931381</guid>
+            <pubDate>Wed, 04 Jan 2023 17:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  腾讯控股美股粉单市场涨幅扩大至6.2%，追随中概股普遍大幅上涨的表现，刷新2022年7月初以来盘中高位至44.96美元。知名投资人段永平宣称，换了一些伯克希尔哈撒韦B类股到苹果，已经将手上美股腾讯换成苹果，但港股的还没动。]]></title>
+            <guid>2931378</guid>
+            <pubDate>Wed, 04 Jan 2023 16:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】
+德国DAX30指数1月4日（周三）收盘上涨305.98点，涨幅2.16%，报14487.65点；
+英国富时100指数1月4日（周三）收盘上涨32.71点，涨幅0.43%，报7586.80点；
+法国CAC40指数1月4日（周三）收盘上涨152.54点，涨幅2.30%，报6776.43点；
+欧洲斯托克50指数1月4日（周三）收盘上涨92.56点，涨幅2.38%，报3974.85点；
+西班牙IBEX35指数1月4日（周三）收盘上涨157.49点，涨幅1.88%，报8554.89点；
+意大利富时MIB指数1月4日（周三）收盘上涨417.53点，涨幅1.71%，报24854.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccx9064329.d.html</link>
+            <guid>2931373</guid>
+            <pubDate>Wed, 04 Jan 2023 16:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利与德国10年期国债收益率之差降至200个基点以下。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5839439.d.html</link>
+            <guid>2931372</guid>
+            <pubDate>Wed, 04 Jan 2023 16:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【瑞士2022年通货膨胀率创下近30年新高】瑞士联邦统计局当地时间1月4日宣布，2022年瑞士通货膨胀率为2.8%，创下1993年后的新高。1993年，瑞士的通货膨胀率为3.4%。瑞士联邦统计局表示，推动瑞士通货膨胀率上升的主要原因是石油产品、天然气、汽车和租金成本的上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5839406.d.html</link>
+            <guid>2931371</guid>
+            <pubDate>Wed, 04 Jan 2023 16:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股收盘全线上涨 德国DAX指数涨2.18%】欧股收盘全线上涨，德国DAX指数涨2.18%，法国CAC40指数涨2.3%，英国富时100指数涨0.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5837970.d.html</link>
+            <guid>2931370</guid>
+            <pubDate>Wed, 04 Jan 2023 16:42:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西全国谷物出口商协会（ANEC）：巴西1月小麦出口量有望达到280715吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5823282.d.html</link>
@@ -199,45 +251,6 @@
             <title><![CDATA[美股半导体板块走高，美光科技涨5.5%，意法半导体涨4.17%，高通涨3.8%，英伟达涨3.3%，AMD涨2.7%。]]></title>
             <guid>2931282</guid>
             <pubDate>Wed, 04 Jan 2023 14:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：我希望经济能在年底前增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyzwwc5864662.d.html</link>
-            <guid>2931281</guid>
-            <pubDate>Wed, 04 Jan 2023 14:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安哥拉国家石油公司Sonangol CEO：安哥拉正在采取措施缓解石油产量下降，并投资新油田。]]></title>
-            <guid>2931280</guid>
-            <pubDate>Wed, 04 Jan 2023 14:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳斯达克中国金龙指数涨幅扩大至超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyzwwc5863863.d.html</link>
-            <guid>2931277</guid>
-            <pubDate>Wed, 04 Jan 2023 14:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股行业ETF盘初普遍上涨】其中，全球航空业ETF涨2.00%领跑，银行业ETF、区域银行ETF、金融业ETF至多涨1.22%，能源业ETF则跌超0.9%处于连续第二个交易日下跌之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyzwvz9086733.d.html</link>
-            <guid>2931276</guid>
-            <pubDate>Wed, 04 Jan 2023 14:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大型科技股普遍反弹，英特尔、特斯拉涨超3%，苹果涨近2%，奈飞涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-04/detail-imxyzwwc5862955.d.html</link>
-            <guid>2931274</guid>
-            <pubDate>Wed, 04 Jan 2023 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)：同意了结纽约金融服务局对公司的调查，将支付5000万美元罚款，并投资5000万元用于合规。]]></title>
-            <guid>2931270</guid>
-            <pubDate>Wed, 04 Jan 2023 14:34:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)涨3.7%，报道称Coinbase与纽约监管机构达成1亿美元的和解协议。]]></title>
-            <guid>2931268</guid>
-            <pubDate>Wed, 04 Jan 2023 14:33:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
