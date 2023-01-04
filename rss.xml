@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 04 Jan 2023 19:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 20:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国加州政府在风暴来临前宣布进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaimx5855249.d.html</link>
+            <guid>2931510</guid>
+            <pubDate>Wed, 04 Jan 2023 20:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AT＆T首席财务官：2022年、2023年是5G资本支出高峰，2024年将温和放缓。]]></title>
+            <guid>2931471</guid>
+            <pubDate>Wed, 04 Jan 2023 19:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 2月原油期货收跌4.09美元，跌幅5.31%，报72.84美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaimx5822920.d.html</link>
+            <guid>2931465</guid>
+            <pubDate>Wed, 04 Jan 2023 19:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国铁路工人大罢工 数百万人通勤受影响】因薪酬、工作岗位和工作条件等方面的诉求长期未得到解决，英国铁路工人本周再次进行罢工，英国铁路系统将再次面临几乎瘫痪的状态。根据英国全国铁路、海路与公路运输工会的声明，工会成员在本周二、周三、周五和周六进行罢工。同时，英国火车司机联盟也将于本周四参与到罢工之中。据报道，本轮参与罢工的工人超过4万名，英国有近五分之四的铁路服务停摆，苏格兰和威尔士的大部分地区铁路服务瘫痪。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaimv9040084.d.html</link>
+            <guid>2931456</guid>
+            <pubDate>Wed, 04 Jan 2023 19:26:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特斯拉提交新的商标申请 为飞机、船只等制造电动马达】特斯拉在一份新的商标申请中暗示，将为飞机、船只等制造电动马达，但这一申请并未引起人们的注意。特斯拉正在将其商标扩展到一个新的类别，以销售“非陆地车辆”的电动马达。特斯拉首席执行官马斯克一直在考虑制造电动飞机，他甚至说他有eVTOL飞机的设计，但他也一直说特斯拉目前需要专注于地面交通工具。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaimx5791298.d.html</link>
@@ -105,75 +128,6 @@
             <title><![CDATA[  腾讯控股美股粉单市场涨幅扩大至6.2%，追随中概股普遍大幅上涨的表现，刷新2022年7月初以来盘中高位至44.96美元。知名投资人段永平宣称，换了一些伯克希尔哈撒韦B类股到苹果，已经将手上美股腾讯换成苹果，但港股的还没动。]]></title>
             <guid>2931378</guid>
             <pubDate>Wed, 04 Jan 2023 16:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】
-德国DAX30指数1月4日（周三）收盘上涨305.98点，涨幅2.16%，报14487.65点；
-英国富时100指数1月4日（周三）收盘上涨32.71点，涨幅0.43%，报7586.80点；
-法国CAC40指数1月4日（周三）收盘上涨152.54点，涨幅2.30%，报6776.43点；
-欧洲斯托克50指数1月4日（周三）收盘上涨92.56点，涨幅2.38%，报3974.85点；
-西班牙IBEX35指数1月4日（周三）收盘上涨157.49点，涨幅1.88%，报8554.89点；
-意大利富时MIB指数1月4日（周三）收盘上涨417.53点，涨幅1.71%，报24854.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccx9064329.d.html</link>
-            <guid>2931373</guid>
-            <pubDate>Wed, 04 Jan 2023 16:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利与德国10年期国债收益率之差降至200个基点以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5839439.d.html</link>
-            <guid>2931372</guid>
-            <pubDate>Wed, 04 Jan 2023 16:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞士2022年通货膨胀率创下近30年新高】瑞士联邦统计局当地时间1月4日宣布，2022年瑞士通货膨胀率为2.8%，创下1993年后的新高。1993年，瑞士的通货膨胀率为3.4%。瑞士联邦统计局表示，推动瑞士通货膨胀率上升的主要原因是石油产品、天然气、汽车和租金成本的上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5839406.d.html</link>
-            <guid>2931371</guid>
-            <pubDate>Wed, 04 Jan 2023 16:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧股收盘全线上涨 德国DAX指数涨2.18%】欧股收盘全线上涨，德国DAX指数涨2.18%，法国CAC40指数涨2.3%，英国富时100指数涨0.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5837970.d.html</link>
-            <guid>2931370</guid>
-            <pubDate>Wed, 04 Jan 2023 16:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西全国谷物出口商协会（ANEC）：巴西1月小麦出口量有望达到280715吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5823282.d.html</link>
-            <guid>2931361</guid>
-            <pubDate>Wed, 04 Jan 2023 16:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日产汽车2022年四季度在美国市场销售量为19.1012万台，同比下降2.0%。2022年全年在美国市场销售量为72.9530万台，同比下降25.4%。]]></title>
-            <guid>2931360</guid>
-            <pubDate>Wed, 04 Jan 2023 16:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西全国谷物出口商协会（ANEC）：巴西2022年出口4317万吨玉米，2021年为2060万吨。]]></title>
-            <guid>2931359</guid>
-            <pubDate>Wed, 04 Jan 2023 16:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西全国谷物出口商协会（ANEC）：巴西2022年出口7780万吨大豆，2021年为8660万吨。]]></title>
-            <guid>2931358</guid>
-            <pubDate>Wed, 04 Jan 2023 16:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【现代汽车2022年在美销量同比下降2%】现代汽车美国公司1月4日公布销量数据：2022年12月销量为72058辆，同比增长40%，为历史同期新高；2022年第四季度销量为195967辆，同比增长29%；2022年全年销量为724265辆，同比微降2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccx9032846.d.html</link>
-            <guid>2931354</guid>
-            <pubDate>Wed, 04 Jan 2023 16:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【爱尔兰监管机构对脸书母公司Meta开出3.9亿欧元罚单】爱尔兰数据隐私监管机构周三（1月4日）对Meta公司开出3.9亿欧元的罚款。爱尔兰数据保护委员会（DPC）称Meta公司旗下的社交媒体脸书和Instagram所提供的服务，存在违规行为，要求两家平台必须重新评估在欧盟境内基于个人数据运营广告的法律依据。DPC要求Meta公司在三个月内使数据处理程序符合规定。目前，DPC还在对Meta公司的其他11项服务进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5809614.d.html</link>
-            <guid>2931353</guid>
-            <pubDate>Wed, 04 Jan 2023 16:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰2022年录得50亿欧元的财政盈余。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-05/detail-imxzaccz5803640.d.html</link>
-            <guid>2931350</guid>
-            <pubDate>Wed, 04 Jan 2023 16:10:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
