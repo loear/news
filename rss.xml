@@ -4,11 +4,44 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Jan 2023 20:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 21:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fate Therapeutics（FATE）收跌61.45%，创该公司美国IPO以来最大单日跌幅，刷新最近五年收盘最低位至4.24美元。]]></title>
+            <guid>2934635</guid>
+            <pubDate>Fri, 06 Jan 2023 21:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客收涨7.3%，创2020年3月份以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhzxt5604999.d.html</link>
+            <guid>2934634</guid>
+            <pubDate>Fri, 06 Jan 2023 21:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Wrestling Entertainment Inc.（WWE）收涨17%，创2015年以来最大单日涨幅。]]></title>
+            <guid>2934633</guid>
+            <pubDate>Fri, 06 Jan 2023 21:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空CEO：SpaceX的星链“还没有准备好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhzxt5601248.d.html</link>
+            <guid>2934627</guid>
+            <pubDate>Fri, 06 Jan 2023 20:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空首席执行官表示，2023年对于美国旅游业而言是非常强劲的一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhzxr8818401.d.html</link>
+            <guid>2934624</guid>
+            <pubDate>Fri, 06 Jan 2023 20:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[价值投资大师、Miller Value Partners创办人兼首席执行官Bill Miller表示，今天通过个人账户做空了更多特斯拉股票。]]></title>
+            <guid>2934620</guid>
+            <pubDate>Fri, 06 Jan 2023 20:39:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国宣布向乌克兰提供超30亿美元的额外军事援助】美国国防部当地时间1月6日宣布向乌克兰提供价值30.75亿美元的额外军事援助，其中包括总统拜登授权的28.5亿美元军事援助和国务院宣布提供的2.25亿美元军事融资。国防部当天发布的声明表示，拜登政府将继续鼓励盟国和合作伙伴为乌克兰提供额外的防空系统、火炮、战车和其他关键能力。国务院当天还宣布追加6.82亿美元的军事融资，以激励和回填盟国及合作伙伴向乌克兰捐赠的军事装备。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhzxr8802746.d.html</link>
@@ -102,24 +135,6 @@
             <title><![CDATA[美国食品药品管理局（FDA）：并不认为Evusheld会中和奥密克戎变异毒株XBB.1.5。]]></title>
             <guid>2934548</guid>
             <pubDate>Fri, 06 Jan 2023 17:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥将延长暂停对一些食品和卫生用品征收关税的期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8926833.d.html</link>
-            <guid>2934531</guid>
-            <pubDate>Fri, 06 Jan 2023 16:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥政府将续签抗通货膨胀协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8925174.d.html</link>
-            <guid>2934530</guid>
-            <pubDate>Fri, 06 Jan 2023 16:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年春运大幕今日开启，超20亿人次大迁徙再度回归】今日（1月7日）起，为期40天的2023年春运大幕将正式开启，同时旅客今起可以开抢除夕当天的火车票。作为“乙类乙管”后迎来的第一个春运，官方预计今年春运期间客流总量将超20亿人次。一些返乡线路的火车票再现“一票难求”。1月6日下午，12306网站显示，不少热门线路的火车票已经售罄。谈及2023年春运火车票预售情况，国铁集团客运部主任黄欣6日介绍，从目前的售票情况来看，各方面旅客出行需求都有比较明显的增长，铁路客流也呈现了逐步回暖的态势。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhrix5677250.d.html</link>
-            <guid>2934519</guid>
-            <pubDate>Fri, 06 Jan 2023 16:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
