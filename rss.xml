@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Jan 2023 16:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 17:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[墨西哥将延长暂停对一些食品和卫生用品征收关税的期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8926833.d.html</link>
+            <guid>2934531</guid>
+            <pubDate>Fri, 06 Jan 2023 16:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥政府将续签抗通货膨胀协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8925174.d.html</link>
+            <guid>2934530</guid>
+            <pubDate>Fri, 06 Jan 2023 16:47:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2023年春运大幕今日开启，超20亿人次大迁徙再度回归】今日（1月7日）起，为期40天的2023年春运大幕将正式开启，同时旅客今起可以开抢除夕当天的火车票。作为“乙类乙管”后迎来的第一个春运，官方预计今年春运期间客流总量将超20亿人次。一些返乡线路的火车票再现“一票难求”。1月6日下午，12306网站显示，不少热门线路的火车票已经售罄。谈及2023年春运火车票预售情况，国铁集团客运部主任黄欣6日介绍，从目前的售票情况来看，各方面旅客出行需求都有比较明显的增长，铁路客流也呈现了逐步回暖的态势。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhrix5677250.d.html</link>
@@ -79,30 +91,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8967727.d.html</link>
             <guid>2934450</guid>
             <pubDate>Fri, 06 Jan 2023 15:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成渝金融法院受理“首案”：一审案件涉证券虚假陈述责任纠纷】1月5日，成渝金融法院公布，该院于1月3日受理了“首案”。其中，一审案件“首案”，由成都办公区受理；二审案件“首案”，由重庆办公区受理。本次成渝金融法院受理的一审案件“首案”，案由为证券虚假陈述责任纠纷。据悉，一位二级市场的普通投资者以某上市公司的虚假陈述行为对其造成投资损失为由向该院提起诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzz5743252.d.html</link>
-            <guid>2934444</guid>
-            <pubDate>Fri, 06 Jan 2023 15:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大去年12月新增逾10万个就业岗位】加拿大统计局当地时间1月6日发表的数据显示，加拿大在2022年12月增加了10.4万个就业岗位，失业率为5%。与此同时，加拿大的工资连续第七个月继续以超过5%的同比增速增长。然而，工资增长速度仍然落后于通货膨胀率，加拿大11月份的通胀率为6.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8959928.d.html</link>
-            <guid>2934434</guid>
-            <pubDate>Fri, 06 Jan 2023 15:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国希望推特打击虚假信息】德国数字和交通部长Volker Wissing最近会见了特斯拉CEO马斯克，表达了德国方面对推特的期望，尤其是在打击虚假信息方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8958485.d.html</link>
-            <guid>2934429</guid>
-            <pubDate>Fri, 06 Jan 2023 15:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家知识产权局：2022年共授权发明专利79.8万件】2023年全国知识产权局局长会议上介绍，2022年共授权发明专利79.8万件，注册商标617.7万件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8958371.d.html</link>
-            <guid>2934428</guid>
-            <pubDate>Fri, 06 Jan 2023 15:00:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
