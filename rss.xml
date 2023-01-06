@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Jan 2023 18:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 19:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“人造太阳”基础物理研究取得新进展】从中科院合肥物质科学研究院获悉，该院“人造太阳”东方超环EAST团队在高能量约束模式等离子体运行方面取得了重要科研进展。相关成果北京时间1月7日在国际学术期刊《科学进展》发表。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhvrv5665733.d.html</link>
+            <guid>2934596</guid>
+            <pubDate>Fri, 06 Jan 2023 19:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三星2022年从IBM手中夺取了美国的专利领导权，IBM数十年来首次跌下专利榜首。]]></title>
+            <guid>2934594</guid>
+            <pubDate>Fri, 06 Jan 2023 19:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品管理局（FDA）批准渤健和日本卫材加速开发针对阿尔茨海默症的疗法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhvrt8886305.d.html</link>
+            <guid>2934593</guid>
+            <pubDate>Fri, 06 Jan 2023 19:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国防部发言人柯比：拜登将于周一会见墨西哥总统，周二会见加拿大总理。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhvrv5618641.d.html</link>
@@ -60,36 +77,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhrix5647146.d.html</link>
             <guid>2934499</guid>
             <pubDate>Fri, 06 Jan 2023 15:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行：将富国银行(WFC.N)目标价下调至50美元 维持买入评级】德意志银行分析师Matt O'Connor将富国银行的目标价从60美元下调至50美元，并维持对该股的买入评级。该分析师认为，美国银行股似乎有可能继续创下新的低点。他假设银行股的交易价格将低于其60%-80%的历史区间，称银行盈利可能已经达到顶峰。他还认为，如果出现经济衰退，储备金增加和估值将会带来下行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhriv8862364.d.html</link>
-            <guid>2934493</guid>
-            <pubDate>Fri, 06 Jan 2023 15:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【十年来1099万人迫于信用惩戒压力主动履行义务】从今天（1月6日）召开的全国法院工作会议上获悉，十年来，各级法院受理执行案件6631.7万件，执结6485.9万件，执行到位金额14万亿元。人民法院建成网络执行查控、司法拍卖、司法评估系统，有力破解查人找物、财产变现等难题，联合信用惩戒体系让失信被执行人“一处失信、处处受限”，执行模式发生根本性变革和重塑。全国法院累计查控案件1.3亿件、冻结资金2.5万亿元，网络拍卖成交136.9万件、成交额超过2.2万亿元、为当事人节约佣金680.5亿元，有效祛除暗箱操作和权力寻租空间，1099万人迫于信用惩戒压力主动履行义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhrix5638953.d.html</link>
-            <guid>2934492</guid>
-            <pubDate>Fri, 06 Jan 2023 15:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至12月30日当周ECRI领先指标年率 -7.3%，前值-8.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzz5760743.d.html</link>
-            <guid>2934477</guid>
-            <pubDate>Fri, 06 Jan 2023 15:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至12月30日当周ECRI领先指标 143.8，前值143.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzz5760734.d.html</link>
-            <guid>2934476</guid>
-            <pubDate>Fri, 06 Jan 2023 15:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商品货币纽元兑美元上涨1.0%，在美国ISM非制造业指数发布后报0.6291。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8980231.d.html</link>
-            <guid>2934475</guid>
-            <pubDate>Fri, 06 Jan 2023 15:26:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
