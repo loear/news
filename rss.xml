@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Jan 2023 17:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 18:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国防部发言人柯比：拜登将于周一会见墨西哥总统，周二会见加拿大总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhvrv5618641.d.html</link>
+            <guid>2934559</guid>
+            <pubDate>Fri, 06 Jan 2023 17:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国2022年电动汽车销售盘点：特斯拉仍第一但份额下降，福特跃居第二】据机构统计，去年美国电动车销量跃升了2/3，在总汽车销量跌8%至十多年新低的背景下可谓亮眼。展望2023年，电动车仍被行业高管视为主要增长机遇，但电池短缺、大宗商品涨价推高车价等，在高利率和高通胀的环境中或将压抑需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8964678.d.html</link>
+            <guid>2934557</guid>
+            <pubDate>Fri, 06 Jan 2023 17:46:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品管理局（FDA）：并不认为Evusheld会中和奥密克戎变异毒株XBB.1.5。]]></title>
+            <guid>2934548</guid>
+            <pubDate>Fri, 06 Jan 2023 17:34:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥将延长暂停对一些食品和卫生用品征收关税的期限。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8926833.d.html</link>
@@ -73,24 +90,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8980231.d.html</link>
             <guid>2934475</guid>
             <pubDate>Fri, 06 Jan 2023 15:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团签署新协议，将把欧洲新总部设于爱尔兰首都都柏林。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8975886.d.html</link>
-            <guid>2934470</guid>
-            <pubDate>Fri, 06 Jan 2023 15:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：网易游戏收购《光晕》游戏开发商SkyBox Labs。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzz5752711.d.html</link>
-            <guid>2934468</guid>
-            <pubDate>Fri, 06 Jan 2023 15:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发出业务警告后，3B家居据悉正在准备破产申请】3B家居已开始准备破产申请，可能在今年第一个营业季度提交。据悉，3B家居周四取消了拟议的债务交换计划，并表示可能无法持续经营。在一份申报文件中，该公司表示正在采取措施改善现金状况，但在截至11月26日的9个月中，经常性亏损和负现金流使得公司能否继续经营存在“重大疑问”。该公司表示正在探讨各种选项，包括重组债务、出售资产或申请破产，但“这些措施可能不会成功”。该公司一位代表在声明中表示，公司“目前尚未下定决心”重新获得市场份额和增强流动性。周五美股盘初，3B家居一度重挫约24.8%，刷新1992年三季度以来盘中低点至1.27美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-06/detail-imxzhkzx8967727.d.html</link>
-            <guid>2934450</guid>
-            <pubDate>Fri, 06 Jan 2023 15:11:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
