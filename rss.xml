@@ -4,11 +4,32 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Jan 2023 21:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 22:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家粮食和物资储备局：全国累计收购秋粮逾1亿吨】国家粮食和物资储备局6日发布数据显示，截至2022年12月31日，主产区各类粮食企业累计收购秋粮1.1亿吨，同比基本持平；其中，中晚籼稻2451万吨、粳稻2968万吨、玉米5326万吨、大豆195万吨。南方中晚籼稻旺季收购进入收尾阶段，收购进度已达九成；东北粳稻收购进度近七成、玉米约四成；华北地区玉米收购进度超四成。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhzxt5629790.d.html</link>
+            <guid>2934645</guid>
+            <pubDate>Fri, 06 Jan 2023 21:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源位于德克萨斯州亚瑟港(Port Arthur)的炼油厂一直无法重新启动，原因是无法提供足够的蒸汽为设备提供动力。]]></title>
+            <guid>2934643</guid>
+            <pubDate>Fri, 06 Jan 2023 21:35:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源旗下位于美国得州的Port Arthur炼油厂自2022年12月23日因暴风雪天气而关闭。]]></title>
+            <guid>2934641</guid>
+            <pubDate>Fri, 06 Jan 2023 21:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  梅西百货预计四季度净销售恐将处于先前业绩指引区间的下端至中部，仍预计四季度调整后每股收益为1.47至1.67美元。]]></title>
+            <guid>2934640</guid>
+            <pubDate>Fri, 06 Jan 2023 21:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fate Therapeutics（FATE）收跌61.45%，创该公司美国IPO以来最大单日跌幅，刷新最近五年收盘最低位至4.24美元。]]></title>
             <guid>2934635</guid>
@@ -130,11 +151,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzhriv8964678.d.html</link>
             <guid>2934557</guid>
             <pubDate>Fri, 06 Jan 2023 17:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国食品药品管理局（FDA）：并不认为Evusheld会中和奥密克戎变异毒株XBB.1.5。]]></title>
-            <guid>2934548</guid>
-            <pubDate>Fri, 06 Jan 2023 17:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
