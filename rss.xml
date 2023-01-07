@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 07 Jan 2023 19:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 20:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【入境北京国际客运 航班分流今起取消】日前，民航局发布公告称，根据《关于对新型冠状病毒感染实施“乙类乙管”的总体方案》和《关于中外人员往来暂行措施的通知》要求，决定自1月8日零时（北京时间）开始，取消目的地为北京的国际客运航班从指定第一入境点入境。]]></title>
+            <guid>2935488</guid>
+            <pubDate>Sat, 07 Jan 2023 20:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023年度国考今举行：拟招3.7万人，近260万人报考】今日，中央机关及其直属机构2023年度考试录用公务员公共科目笔试将举行，本次国考计划招录3.71万人，近260万人报名过审，通过资格审查人数与录用计划数之比约为70:1。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww9005662.d.html</link>
+            <guid>2935487</guid>
+            <pubDate>Sat, 07 Jan 2023 19:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京大兴机场：预计17日起多家航司恢复大兴机场国际航线】各国内外航空公司积极筹备复航工作，预计1月17日起，南方航空、东方航空、首都航空、喜马拉雅航空等恢复大兴机场国际及地区客运航线。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww8997278.d.html</link>
+            <guid>2935486</guid>
+            <pubDate>Sat, 07 Jan 2023 19:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢甘斯克地区一天然气管道发生爆炸】当地时间1月7日，卢甘斯克地区卢图吉诺一处天然气管道发生爆炸，事故导致约1.1万用户天然气供应中断。当地政府派出了消防和救援团队前往现场救援，管道爆炸造成的大火已被扑灭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2545691.d.html</link>
+            <guid>2935485</guid>
+            <pubDate>Sat, 07 Jan 2023 19:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国洛杉矶发生枪击事件 致1死2伤】当地时间1月7日，美国加州洛杉矶发生枪击事件，造成1人死亡、2人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2539888.d.html</link>
+            <guid>2935484</guid>
+            <pubDate>Sat, 07 Jan 2023 19:32:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【推特削减更多负责全球内容审核的员工】据知情人士透露，推特公司在新所有者马斯克的领导下，进一步削减了其处理全球内容审核的信任和安全团队，以及与仇恨言论和骚扰有关的部门。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2526871.d.html</link>
@@ -280,24 +309,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5528288.d.html</link>
             <guid>2935272</guid>
             <pubDate>Sat, 07 Jan 2023 08:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾12月进口年率 -11.4%，预期-10.2%，前值-8.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmc8751157.d.html</link>
-            <guid>2935271</guid>
-            <pubDate>Sat, 07 Jan 2023 08:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾12月出口年率 -12.1%，预期-13.3%，前值-13.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5528161.d.html</link>
-            <guid>2935270</guid>
-            <pubDate>Sat, 07 Jan 2023 08:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月17日起，大兴机场恢复国际客运航线】据“北京大兴国际机场”微信公众号，1月17日起，大兴机场将有中国南方航空、中国东方航空、首都航空、喜马拉雅航空等航空公司陆续恢复国际客运航线。春运期间，预计有5家航司共计5条国际航线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmc8740186.d.html</link>
-            <guid>2935267</guid>
-            <pubDate>Sat, 07 Jan 2023 07:51:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
