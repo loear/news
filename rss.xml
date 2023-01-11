@@ -4,11 +4,43 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 11 Jan 2023 19:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 20:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：亚马逊负责游戏业务的执行官John Smedley已经辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-12/detail-imxzwfhx8954878.d.html</link>
+            <guid>2940623</guid>
+            <pubDate>Wed, 11 Jan 2023 20:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌母公司Alphabet旗下的业务部门Verily将裁员15%，大约将裁撤200个工作岗位。]]></title>
+            <guid>2940622</guid>
+            <pubDate>Wed, 11 Jan 2023 20:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法庭文件显示，谷歌母公司Alphabet提交了修订版动议，寻求驳回美国司法部对其提起的诉讼。]]></title>
+            <guid>2940578</guid>
+            <pubDate>Wed, 11 Jan 2023 19:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：联邦航空局正在查明系统中断的根本原因，当局正在努力确保此类故障不会再次发生。]]></title>
+            <guid>2940571</guid>
+            <pubDate>Wed, 11 Jan 2023 19:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康卡斯特（CMCSA）旗下环球主题乐园及度假村部门酝酿在美国得州和拉斯维加斯新开两个地区性的项目，以抓住越来越火热的户外娱乐机遇。]]></title>
+            <guid>2940564</guid>
+            <pubDate>Wed, 11 Jan 2023 19:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【发现新的安全威胁迹象，巴西联邦最高法院宣布强化安保措施】当地时间11日，巴西政府称，监测到了新的威胁国家安全事件的有关信息。巴西联邦最高法院法官亚历山大·德·莫赖斯当天表示，将采取一系列安保措施，以避免类似1月8日冲击国家权力机构的事件再次发生。据介绍，巴西政府在监测极端分子策划示威活动的过程中发现了新的安全威胁。莫赖斯对媒体表示，将采取措施禁止极端分子在全国范围内实施一切中断和阻碍交通的行为，试图破坏和阻碍交通以及侵入公共建筑的人将会被立即逮捕。据介绍，巴西政府将封锁首都巴西利亚的关键区域，军警等安保团队已经处于全面戒备状态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-12/detail-imxzwfhw2136923.d.html</link>
+            <guid>2940549</guid>
+            <pubDate>Wed, 11 Jan 2023 19:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【预计2022年全国粮食收购入库4亿吨】据国家粮食和物资储备局预计，2022年全国各类粮食企业累计收购粮食4亿吨左右，与近年来平均水平相当。2023年，全国粮食和物资储备系统将保持粮食市场平稳，服务能源资源保供。有关部门将根据调控要求适时做好储备投放，维护产业链供应链稳定。国家有关部门已于1月11日启动政策性小麦拍卖，每周投放14万吨，预计将较好满足企业用粮需求，为粮食市场平稳运行提供有力支撑，确保节日粮油市场平稳运行。（新华网）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-12/detail-imxzwfhx8904040.d.html</link>
@@ -270,46 +302,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvutc9008657.d.html</link>
             <guid>2940387</guid>
             <pubDate>Wed, 11 Jan 2023 15:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  当地时间11日，俄罗斯总统普京和伊朗总统莱希通电话，讨论了叙利亚局势以及两国在能源、运输和物流领域的合作问题。（央视新闻）]]></title>
-            <guid>2940380</guid>
-            <pubDate>Wed, 11 Jan 2023 15:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  科文：将Alphabet(GOOGL.O)目标价从135美元下调至125美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvutc9000190.d.html</link>
-            <guid>2940379</guid>
-            <pubDate>Wed, 11 Jan 2023 15:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国联邦航空局系统故障已排除 空中交通逐步恢复正常】据新华社，美国联邦航空局11日上午在社交媒体上发布的最新消息说，暂停起飞措施已解除，美国各地空中交通运行正逐步恢复正常，将继续调查此前发生的空中任务通知系统故障原因。联邦航空局11日早些时候说，空中任务通知系统出现故障，暂停所有国内航班起飞，直到美国东部时间当天上午9时（北京时间11日22时）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvutc8997391.d.html</link>
-            <guid>2940376</guid>
-            <pubDate>Wed, 11 Jan 2023 15:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  3B家居（BBBY）股价涨幅扩大至42%，刷新最近三个交易日盘中高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvuta2219389.d.html</link>
-            <guid>2940374</guid>
-            <pubDate>Wed, 11 Jan 2023 15:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法兴银行：将美国银行(BAC.N)目标价从39美元上调至50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvutc8994206.d.html</link>
-            <guid>2940373</guid>
-            <pubDate>Wed, 11 Jan 2023 15:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国10年期国债收益率当日下跌12个基点至2.18%，为去年12月19日以来的最低水平。]]></title>
-            <guid>2940371</guid>
-            <pubDate>Wed, 11 Jan 2023 15:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其主要股指收盘跌5.2％，为去年11月21日以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-11/detail-imxzvutc8988282.d.html</link>
-            <guid>2940369</guid>
-            <pubDate>Wed, 11 Jan 2023 15:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
