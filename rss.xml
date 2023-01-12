@@ -4,11 +4,51 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 12 Jan 2023 21:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 22:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beauty Farm Medical将香港IPO股票发行价定在每股19.32港元，将净筹资3.872亿港元，面向散户部分获得22.0倍超额认购，将从1月16日开始交易。]]></title>
+            <guid>2942063</guid>
+            <pubDate>Thu, 12 Jan 2023 22:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：康菲石油洽谈在美国销售产自委内瑞拉的石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyuvs2159824.d.html</link>
+            <guid>2942062</guid>
+            <pubDate>Thu, 12 Jan 2023 22:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase：已经解决登录故障问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyuvs2156345.d.html</link>
+            <guid>2942059</guid>
+            <pubDate>Thu, 12 Jan 2023 22:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证券交易委员会起诉加密货币交易所Gemini和Genesis，指控其在“EARN”产品方面违反若干监管制度。]]></title>
+            <guid>2942057</guid>
+            <pubDate>Thu, 12 Jan 2023 22:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克2023年薪酬将减少逾40%至4900万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyuvt8924631.d.html</link>
+            <guid>2942056</guid>
+            <pubDate>Thu, 12 Jan 2023 22:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美电动汽车制造商Lucid去年产量7180辆 超过年度指引】美国电动汽车制造商Lucid集团官网宣布，2022年第四季度，公司在亚利桑那州工厂生产3493辆汽车，同期交付1932辆；全年产量7180辆，超过此前提供的6000-7000辆的年度产量指引，并交付4369辆汽车。该公司将于美国东部时间2023年2月22日公布2022年第四季度财务业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyuvs2137712.d.html</link>
+            <guid>2942054</guid>
+            <pubDate>Thu, 12 Jan 2023 21:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表办公室：美国和瑞士签署了《药品生产规范协议》。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyqpv9024616.d.html</link>
+            <guid>2942044</guid>
+            <pubDate>Thu, 12 Jan 2023 21:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【标普500指数的11个板块周四多数收涨】其中，能源板块涨1.87%领跑，成分股全线收涨，EQT能源涨约4.7%领跑，赫斯（HES）、先锋自然资源（PXD）、阿帕契（APA）也至少涨约3.5%，瓦莱罗能源（VLO）涨约1.3%，马拉松石油（MRO）涨超1.2%，雪佛龙（CVX）涨约1.1%，金德尔摩根（KMI）涨约0.6%表现垫底。房地产板块涨约1.1%，保健板块则收跌将近0.4%，公用事业板块跌超0.6%，日用消费品板块跌约0.8%表现最差。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzyqpu2240581.d.html</link>
@@ -195,24 +235,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzykfw2263519.d.html</link>
             <guid>2941964</guid>
             <pubDate>Thu, 12 Jan 2023 18:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国联邦调查局在备忘录中敦促对电网袭击保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzykfw2255781.d.html</link>
-            <guid>2941959</guid>
-            <pubDate>Thu, 12 Jan 2023 18:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一年停业47家，香港券商业务处境艰难】在刚刚过去的2022年，香港停业券商的数量创出了新高。根据港交所公告统计发现，2022年全年，共有47家香港券商宣布停业，远多于2021年的17家；而香港联交所参与者中，正常开业的券商数量为598家，明显低于2019年的658家。种种迹象表明，在低迷的市场行情下，香港券商的停业潮仍在继续。宏观环境不佳、港股行情下行等客观因素的存在，使得香港券商近三年收入持续下滑，经营压力增大，但当地券商本身竞争加剧也在进一步推动行业整合。香港联交所数据显示，港股A组经纪商的市占率从2021年的60.36%增加至2022年11月的66.18%，B组和C组经纪商市占率均有下滑，显示港股头部券商市占率持续提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzykfx9032392.d.html</link>
-            <guid>2941958</guid>
-            <pubDate>Thu, 12 Jan 2023 18:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部长：司法部任命特别检察官对拜登家中发现的机密文件进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-13/detail-imxzykfw2254463.d.html</link>
-            <guid>2941957</guid>
-            <pubDate>Thu, 12 Jan 2023 18:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
