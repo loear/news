@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 14 Jan 2023 20:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 21:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌克兰第聂伯罗市一公寓楼遭袭 死亡人数上升至10人】当地时间14日，据第聂伯罗彼得罗夫斯克军政管理局负责人称，当日发生在乌克兰第聂伯罗市的公寓楼遭袭击事件中的死亡人数已上升至10人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-15/detail-imyafatt8922095.d.html</link>
+            <guid>2944328</guid>
+            <pubDate>Sat, 14 Jan 2023 21:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被控“为英国从事间谍活动” 伊朗前国防部副部长被执行死刑】伊朗司法机构下属平衡通讯社14日报道，伊朗前国防部副部长阿里-礼萨·阿克巴里因“为英国从事间谍活动”被执行死刑。阿克巴里2019年被捕，被控与英国秘密情报局合作，进行危害国家安全的间谍活动，“对国家公共秩序造成了严重和广泛的破坏”。伊朗司法机构11日宣布阿克巴里被判处死刑。（央视新闻）]]></title>
+            <guid>2944327</guid>
+            <pubDate>Sat, 14 Jan 2023 20:56:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪深交易所强化退市风险揭示】为严格执行退市制度，巩固常态化退市机制，上海证券交易所和深圳证券交易所日前发布相关通知，对已被实施财务类退市风险警示的上市公司（2022年年度报告信息披露工作提出监管要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-15/detail-imyafats2127624.d.html</link>
+            <guid>2944326</guid>
+            <pubDate>Sat, 14 Jan 2023 20:37:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【白宫特别法律顾问：在拜登威尔明顿寓所的材料中发现更多机密文件】白宫特别法律顾问Richard Sauber表示，在总统拜登特拉华州威尔明顿寓所的材料中又发现五页份机密文件。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-15/detail-imyafats2109024.d.html</link>
@@ -404,18 +421,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-14/detail-imyaefqa2153442.d.html</link>
             <guid>2944227</guid>
             <pubDate>Sat, 14 Jan 2023 10:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广深港高铁西九龙站口岸15日起恢复正常通关。（深圳口岸发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-14/detail-imyaefqc8925258.d.html</link>
-            <guid>2944225</guid>
-            <pubDate>Sat, 14 Jan 2023 10:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【王宁当选云南省人大常委会主任，王予波当选省长】 云南省第十四届人民代表大会第一次会议1月14日选举王宁为省人大常委会主任，李小三、宗国英、王树芬（女，藏族）、李文荣、徐彬、任军号、罗红江（傣族）为省人大常委会副主任；选举王予波为省长，刘非、张治礼、杨斌（彝族）、王浩、郭大进、纳云德（傈僳族）、杨洋（女，彝族）、岳修虎为副省长；选举冯志礼为省监察委员会主任；选举张应杰为省高级人民法院院长。  （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-14/detail-imyaefqc8919445.d.html</link>
-            <guid>2944221</guid>
-            <pubDate>Sat, 14 Jan 2023 10:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
