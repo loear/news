@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 21 Jan 2023 13:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 14:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  俄罗斯外交部表示，如果黑海运粮协议落实起来都困难重重，俄农产品和化肥出口正常化问题就更指望不上联合国的帮助了。]]></title>
+            <guid>2953582</guid>
+            <pubDate>Sat, 21 Jan 2023 13:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Wolfspeed将在德国建造芯片厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyayiti2060909.d.html</link>
+            <guid>2953581</guid>
+            <pubDate>Sat, 21 Jan 2023 13:29:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[荷兰国际银行：对欧元兑瑞典克朗适度看跌，预计该货币对在2023年第三季度之前将跌至10.5水平下方，然后在第四季度反弹。]]></title>
             <guid>2953580</guid>
@@ -366,24 +377,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxhfv2219509.d.html</link>
             <guid>2953373</guid>
             <pubDate>Sat, 21 Jan 2023 02:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尤文图斯再陷丑闻 因财务造假被扣15分】意大利足协北京时间21日凌晨宣布，尤文图斯俱乐部因为财务造假，被扣除15分联赛积分，内德维德等11名高管处以时间不等的禁足处罚。尤文图斯有权在30天内之内提出上诉，而这也是继2006年的“电话门”丑闻后，尤文图斯再次深陷争议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxhfv2211465.d.html</link>
-            <guid>2953331</guid>
-            <pubDate>Sat, 21 Jan 2023 02:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年春运 全国铁路客运量及货运量持续增长】春运前十四天，铁路客流持续增长。其中，连续一周客流量超过800万人次。春运以来，西部陆海新通道铁海联运集装箱班列发送货物2.5万标箱，同比增长4%。国家铁路发送电煤5418万吨，同比增长12%。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxhft5416537.d.html</link>
-            <guid>2953255</guid>
-            <pubDate>Sat, 21 Jan 2023 01:47:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年江苏GDP为122875.6亿元，同比增长2.8%】江苏省统计局网站1月20日公布2022年江苏省经济社会发展情况：初步核算，2022年全省实现生产总值122875.6亿元，按不变价格计算，比上年增长2.8%。其中，第一产业增加值4959.4亿元，增长3.1%；第二产业增加值55888.7亿元，增长3.7%；第三产业增加值62027.5亿元，增长1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxhft5409341.d.html</link>
-            <guid>2953242</guid>
-            <pubDate>Sat, 21 Jan 2023 01:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
