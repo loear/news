@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 21 Jan 2023 10:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中信建投：关注电信运营商数据要素投资机会】中信建投研报认为，近期，数据要素政策不断加码，顶层设计逐步明晰，数据要素市场建设有望加速落地。电信运营商拥有丰富的数据资源，在数据要素市场大有可为。一是可作为数据的提供方参与数据要素市场交易；二是可以深度参与数据处理、数据交易等环节。此外，也建议关注运营商数据治理相关公司。一是DPI（深度报文检测）相关公司；二是运营商大数据系统供应商。此外，DPI与系统供应商也可直接参与运营商的数据变现。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaycmm2070952.d.html</link>
+            <guid>2953570</guid>
+            <pubDate>Sat, 21 Jan 2023 10:40:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【寒潮蓝色预警 内蒙古、吉林、辽宁等地降温可达10℃至14℃】据中央气象台官方微博消息，中央气象台1月21日18时发布寒潮蓝色预警。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxxcm5407047.d.html</link>
@@ -402,18 +408,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawzxv5516616.d.html</link>
             <guid>2953155</guid>
             <pubDate>Sat, 21 Jan 2023 01:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国联邦当局查封与破产的FTX有关的额外资产】美国联邦当局周五表示，查封了与FTX有关的额外资产，继续努力控制与这家倒闭加密货币交易所有关的数亿美元。美国司法部在向特拉华州威尔明顿的美国破产法院提交的一份文件中表示，已从Moonstone Bank和Silvergate Capital Corp.的账户中查封了5,600万美元和8,700万欧元（约合9,450万美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawzxv5514216.d.html</link>
-            <guid>2953133</guid>
-            <pubDate>Sat, 21 Jan 2023 01:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年黑龙江GDP为15901亿元 同比增2.7%】黑龙江省统计局近日发布2022年1—4季度黑龙江省地区生产总值统一核算结果。根据地区生产总值统一核算结果，2022年1—4季度黑龙江省地区生产总值为15901.0亿元，同比增长2.7%。其中，第一产业增加值为3609.9亿元，增长2.4%；第二产业增加值为4648.9亿元，增长0.9%；第三产业增加值为7642.2亿元，增长3.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawzxv5513951.d.html</link>
-            <guid>2953132</guid>
-            <pubDate>Sat, 21 Jan 2023 01:06:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
