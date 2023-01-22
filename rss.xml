@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 22 Jan 2023 18:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 19:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒：白宫办公厅主任拟数周内离职】美国媒体21日披露，白宫办公厅主任罗恩·克莱因打算数周内离职。媒体援引消息人士的话报道克莱因打算离职的消息。去年11月初美国中期选举结束以来，克莱因一直向同事透露卸任的想法，克莱因可能在总统约瑟夫·拜登于2月7日发表国情咨文后离职。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycccpx4884386.d.html</link>
+            <guid>2954078</guid>
+            <pubDate>Sun, 22 Jan 2023 18:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国能源巨头Uniper CEO：北溪管道可以在一年内修复】德国能源巨头Uniper即将离任的首席执行官克劳斯-迪特尔·莫巴赫说，北溪管道可以在一年内修复，但目前尚不清楚德国是否愿意接受俄罗斯的天然气。在莫斯科切断北溪管道的供应之前，Uniper是俄罗斯最大的天然气客户。去年夏天，德国政府对Uniper进行了纾困。俄罗斯6月份削减了通过北溪管道输送的天然气，9月初又切断了供应，导致这家德国公司的亏损继续扩大。12月底，Uniper在新开放的液化天然气终端迎来了第一艘装载液化天然气（LNG）的油轮，这些货物来自美国液化气供应商Calcasieu Pass。与此同时，针对去年9月底北溪管道爆炸事件的调查仍在继续，俄罗斯指责一些西方情报机构“有所隐瞒”。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycaxfz4968069.d.html</link>
@@ -442,12 +448,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-22/detail-imyazvur1931854.d.html</link>
             <guid>2953876</guid>
             <pubDate>Sun, 22 Jan 2023 06:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哥伦比亚政府和反政府武装将开启第二轮和谈】哥伦比亚政府和反政府武装“哥伦比亚民族解放军”21日说，他们将于下月在墨西哥开始第二轮和平谈判。哥伦比亚政府与“哥伦比亚民族解放军”本周在委内瑞拉首都加拉加斯召开紧急会议，商定2月13日在墨西哥重启和谈。挪威、委内瑞拉、古巴等国参与斡旋。根据双方会后发表的声明，在第二轮和平谈判中，“双方将讨论参与和平建设的问题，同时就停火协议展开讨论和商定”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imyazvup5149346.d.html</link>
-            <guid>2953875</guid>
-            <pubDate>Sun, 22 Jan 2023 06:46:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
