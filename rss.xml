@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 22 Jan 2023 10:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 11:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2023年春节档总票房突破16亿】猫眼专业版数据显示，2023年1月22日18时31分，2023年春节档（1月21日-1月27日）总票房（含预售）突破16亿元，《流浪地球2》《满江红》《无名》分列春节档票房前三位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahki5058101.d.html</link>
+            <guid>2953938</guid>
+            <pubDate>Sun, 22 Jan 2023 10:47:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【琼州海峡春运客流量创5年以来最高峰 提醒游客返程预约过海】记者22日从海南省交通运输厅获悉，今年春运以来，琼州海峡旅客出行客流数据连创新高。（中国新闻网）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahki5038707.d.html</link>
@@ -421,24 +427,6 @@
             <title><![CDATA[1月22日，恒大地产珠三角公司发布消息称，2022年1-12月，累计交付44个项目，实现34978户交付。]]></title>
             <guid>2953838</guid>
             <pubDate>Sun, 22 Jan 2023 05:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【面部识别技术助力灭鼠】鼠患困扰着不少城市。英国企业基于面部识别技术开发监控软件，帮助灭鼠人员在相对可控的环境下掌握鼠类行为，提高灭鼠效率。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imyazvup5058696.d.html</link>
-            <guid>2953835</guid>
-            <pubDate>Sun, 22 Jan 2023 04:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“碳中和积分”可兑现金 韩国鼓励环保消费出新招】韩国环境部22日宣布新的环保项目，通过以“碳中和积分”兑换现金的方式来鼓励民众进行环保消费。 依据这一项目，民众如购买食品时自带容器、外出租用零尾气排放汽车或配合回收旧手机等，将获得最多2000韩元（约合11元人民币）的“碳中和积分”。 以购买饮品为例，消费者如在咖啡馆等场所购买饮品时自带杯子或退还店家外卖时提供的可重复使用杯子，每杯可获得300韩元（1.65元人民币）积分。这些积分既可以兑换现金，也可用于店内消费。 韩国目前有四家大型连锁咖啡品牌参与这一项目，包括星巴克、保罗·巴西特、The Venti以及Mega MGC Coffee。 据韩联社报道，有意愿参加这一项目的消费者需先在环境部指定网站注册，每月最多可兑换7万韩元（386元人民币）积分。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imyazvup5057793.d.html</link>
-            <guid>2953834</guid>
-            <pubDate>Sun, 22 Jan 2023 04:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本多个中央部门电邮地址遭泄露 厚生劳动大臣也中招】据日本内阁官房情报安全中心（NISC）等处消息，日本厚生劳动大臣加藤胜信的电子邮箱地址被泄露到了暗网。这是日本众院事务局分派的电邮地址，被用于注册推特账号。除加藤外，NISC还发现多个中央部门的电邮地址泄露。报道称，美国推特被报道有至少2.3亿个用户电邮地址疑似泄露。NISC表示：“网络攻击可能会增加，希望相关人员注意。”据报道，泄露的电邮地址等数据在被称为黑客论坛的暗网上遭售卖，NISC已确认内容。其中包含加藤胜信的电邮地址和粉丝数量等数据。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imyazvur1834447.d.html</link>
-            <guid>2953833</guid>
-            <pubDate>Sun, 22 Jan 2023 04:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
