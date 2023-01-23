@@ -6,6 +6,19 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 2955379,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnz1387935.d.html",
+            "title": "【科威特内阁向科王储递交辞呈】据科威特国家媒体当地时间1月23日报道，科威特首相艾哈迈德·纳瓦夫·艾哈迈德·萨巴赫因与国民议会出现分歧而向科威特王储米沙勒递交政府辞职书，这已经是科威特内阁在两年内的第五次辞职。",
+            "date_modified": "2023-01-23T18:42:07.000Z"
+        },
+        {
+            "id": 2955378,
+            "content_html": "",
+            "title": "美国联邦能源管理委员会：自由港天然气公司申请重启在德州的液化天然气出口工厂，公司表示已完成修复工作。",
+            "date_modified": "2023-01-23T18:41:55.000Z"
+        },
+        {
             "id": 2955372,
             "content_html": "",
             "title": "锂矿类股普遍上涨，师董会纽约中午目前涨7.3%，SQM涨4.6%，美国雅宝涨3.7%，LAC涨3.1%，PLL涨2.6%，LTHM涨1.8%，此前加拿大丰业银行分析师Ben Isaacson将锂矿类股视作优先选择类股，称这类股票“提供最佳的风险/回报机遇”。",
@@ -311,33 +324,6 @@
             "url": "https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4699678.d.html",
             "title": "市场消息：意大利加油站将于1月25日至26日举行罢工。",
             "date_modified": "2023-01-23T14:31:13.000Z"
-        },
-        {
-            "id": 2955279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-01-23/detail-imycevxf1476016.d.html",
-            "title": "商品货币纽元兑美元下跌0.5%，报0.6438。",
-            "date_modified": "2023-01-23T14:29:14.000Z"
-        },
-        {
-            "id": 2955278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4698923.d.html",
-            "title": "沙特证交所全股指数收涨0.38%，报10765.77点。",
-            "date_modified": "2023-01-23T14:29:08.000Z"
-        },
-        {
-            "id": 2955276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4698639.d.html",
-            "title": "惠誉：预计由于需求降温和负担能力恶化，美国名义房价增长将在2023年大幅放缓。",
-            "date_modified": "2023-01-23T14:27:56.000Z"
-        },
-        {
-            "id": 2955275,
-            "content_html": "",
-            "title": "惠誉：高通胀和加息带来的不确定性将加剧抵押贷款利率的波动，以及2023年的下行风险。",
-            "date_modified": "2023-01-23T14:27:48.000Z"
         }
     ]
 }

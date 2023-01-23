@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 23 Jan 2023 18:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 19:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【科威特内阁向科王储递交辞呈】据科威特国家媒体当地时间1月23日报道，科威特首相艾哈迈德·纳瓦夫·艾哈迈德·萨巴赫因与国民议会出现分歧而向科威特王储米沙勒递交政府辞职书，这已经是科威特内阁在两年内的第五次辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnz1387935.d.html</link>
+            <guid>2955379</guid>
+            <pubDate>Mon, 23 Jan 2023 18:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦能源管理委员会：自由港天然气公司申请重启在德州的液化天然气出口工厂，公司表示已完成修复工作。]]></title>
+            <guid>2955378</guid>
+            <pubDate>Mon, 23 Jan 2023 18:41:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[锂矿类股普遍上涨，师董会纽约中午目前涨7.3%，SQM涨4.6%，美国雅宝涨3.7%，LAC涨3.1%，PLL涨2.6%，LTHM涨1.8%，此前加拿大丰业银行分析师Ben Isaacson将锂矿类股视作优先选择类股，称这类股票“提供最佳的风险/回报机遇”。]]></title>
             <guid>2955372</guid>
@@ -269,29 +280,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4699678.d.html</link>
             <guid>2955281</guid>
             <pubDate>Mon, 23 Jan 2023 14:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商品货币纽元兑美元下跌0.5%，报0.6438。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycevxf1476016.d.html</link>
-            <guid>2955279</guid>
-            <pubDate>Mon, 23 Jan 2023 14:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特证交所全股指数收涨0.38%，报10765.77点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4698923.d.html</link>
-            <guid>2955278</guid>
-            <pubDate>Mon, 23 Jan 2023 14:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计由于需求降温和负担能力恶化，美国名义房价增长将在2023年大幅放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycevxc4698639.d.html</link>
-            <guid>2955276</guid>
-            <pubDate>Mon, 23 Jan 2023 14:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：高通胀和加息带来的不确定性将加剧抵押贷款利率的波动，以及2023年的下行风险。]]></title>
-            <guid>2955275</guid>
-            <pubDate>Mon, 23 Jan 2023 14:27:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
