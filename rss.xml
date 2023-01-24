@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 24 Jan 2023 21:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 22:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特立尼达和多巴哥总理：该国在2022年年中向美国申请了在委内瑞拉能源行业工作的许可证。]]></title>
+            <guid>2956460</guid>
+            <pubDate>Tue, 24 Jan 2023 21:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞士机构提议取消该国向乌克兰再出口武器的障碍】瑞士议会机构周二提议放弃一项禁止其生产的弹药从其他国家再出口到乌克兰的再出口禁令。该建议以14票赞成、11票反对获得通过，稍后将需要议会批准。“委员会的大多数成员认为，瑞士应该为欧洲安全做出贡献，其中包括向乌克兰提供更多援助，”瑞士议会的一个委员会在一份新闻稿中表示。瑞士此前曾拒绝德国的请求，拒绝允许瑞士向乌克兰再出口瑞士制造的弹药，称此举将违反瑞士的中立性。但要求瑞士方面重新审视其政策的压力一直在上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyciwaa1307915.d.html</link>
+            <guid>2956459</guid>
+            <pubDate>Tue, 24 Jan 2023 21:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第四季度CPI季率为1.4%，预期1.3%，前值2.2%；年率为7.2%，预期7.1%，前值7.2%。]]></title>
+            <guid>2956456</guid>
+            <pubDate>Tue, 24 Jan 2023 21:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[默多克（Rupert Murdoch）取消原定福克斯新闻与新闻集团公司合并的提议。]]></title>
+            <guid>2956454</guid>
+            <pubDate>Tue, 24 Jan 2023 21:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刚果（金）一架战机进入卢旺达领空】刚果（金）当地时间24日一架苏-25战机进入卢旺达领空，卢方已采取防御措施，并要求刚果（金）停止该行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyciwaa1296768.d.html</link>
+            <guid>2956452</guid>
+            <pubDate>Tue, 24 Jan 2023 21:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【索马里首都摩加迪沙遭炮击】索马里首都摩加迪沙多个区域当地时间1月24日遭炮击，包括总统府所在区域，造成数人受伤，暂无组织或个人宣称对此次事件负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycivzy4519586.d.html</link>
+            <guid>2956451</guid>
+            <pubDate>Tue, 24 Jan 2023 21:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF普遍收跌】 周二（1月24日），区域银行ETF收跌1.19%表现最差，网络股指数ETF和银行业ETF也跌约1.0%，医疗业ETF、能源业ETF、全球科技股指数ETF等至多跌超0.6%，金融业ETF则涨不足0.1%，日常消费品ETF涨超0.4%，公用事业ETF涨超0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycivzy4515767.d.html</link>
+            <guid>2956448</guid>
+            <pubDate>Tue, 24 Jan 2023 21:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[壳牌：美国得克萨斯州休斯顿南部的DEER PARK化学设施在恶劣天气后发生“事故”。事件不会对社区构成威胁，正在设施范围内处理。]]></title>
+            <guid>2956447</guid>
+            <pubDate>Tue, 24 Jan 2023 21:27:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通和纽银梅隆银行暂停俄罗斯天然气公司Gazprom的美元账户服务，Gazprom将从1月27日开始暂停美元跨境交易。]]></title>
             <guid>2956445</guid>
@@ -224,67 +268,6 @@
             <title><![CDATA[阿布扎比国家石油公司（ADNOC）据称加速将天然气业务IPO的进程，寻求最快2月份IPO，高盛和美国银行放弃其主导地位。]]></title>
             <guid>2956366</guid>
             <pubDate>Tue, 24 Jan 2023 16:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克就“2018年发布‘股价涨至420美元就将特斯拉私有化’推文”连续第三个交易日出庭受审。]]></title>
-            <guid>2956365</guid>
-            <pubDate>Tue, 24 Jan 2023 16:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛（WMT）上调最低薪资，目前美国零售劳动力市场仍然供应紧俏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycimnh1362092.d.html</link>
-            <guid>2956361</guid>
-            <pubDate>Tue, 24 Jan 2023 16:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁CEO：计划在2025年之前制造156架F-35战斗机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycimnh1349705.d.html</link>
-            <guid>2956360</guid>
-            <pubDate>Tue, 24 Jan 2023 16:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大摩投资管理正撤离美国股市，称：新兴市场领军年代开启】 摩根士丹利投资管理公司表示，新兴市场股票势将成为当前这个十年的赢家。该公司成为最新一家看淡美国转而看好其他地区的投资者。该公司副首席投资官兼新兴市场宏观经济研究主管Jitania Kandhari表示，其正在撤离美国股市，以增加发展中市场的风险敞口。她表示，发展中市场的股票估值有吸引力，印度等经济体的增长势必好于美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycimne4565478.d.html</link>
-            <guid>2956357</guid>
-            <pubDate>Tue, 24 Jan 2023 16:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）称，正就1月24日美股开盘时发生的许多股票因剧烈波动而临时停牌一事接触当事的证交所。]]></title>
-            <guid>2956356</guid>
-            <pubDate>Tue, 24 Jan 2023 16:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约市监察官Brad Lander和当地三个退休系统在股东提议中呼吁：美国银行、摩根大通、高盛、加拿大皇家银行应当披露2030年的绝对温室气体（GHG）排放目标。]]></title>
-            <guid>2956355</guid>
-            <pubDate>Tue, 24 Jan 2023 15:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙首相桑切斯：西班牙预计未来几天将获得新的欧盟资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4689005.d.html</link>
-            <guid>2956354</guid>
-            <pubDate>Tue, 24 Jan 2023 15:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦：将AMD(AMD.O)评级从跑赢大市下调至与大市同步 目标价从95美元下调至80美元。]]></title>
-            <guid>2956353</guid>
-            <pubDate>Tue, 24 Jan 2023 15:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国支持扩建价值数十亿欧元的氢能源管道】 德国将支持扩建一条衔接“葡萄牙、西班牙、法国”的关键性氢能源管道系统H2Med，这样的行动可能会显著地降低（氢能源的）进口成本。德国经济部发言人表示，对于德国和欧洲未来的能源供应而言，通过H2Med从伊比利亚半岛供应绿氢是一个极度有趣的项目。德国通过法国接入H2Med被视作一系列计划的一部分。聚集了大部分德国重工业的Moselle和上莱茵河（Upper Rhine）地区将从中受益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1464539.d.html</link>
-            <guid>2956352</guid>
-            <pubDate>Tue, 24 Jan 2023 15:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空航天局局长表示，作为火星探索工作的一部分，美国将在2027年发射和测试核动力航天器发动机。]]></title>
-            <guid>2956350</guid>
-            <pubDate>Tue, 24 Jan 2023 15:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：本田将进行组织变革，它将把6个地区业务合并为三个地区业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4683447.d.html</link>
-            <guid>2956347</guid>
-            <pubDate>Tue, 24 Jan 2023 15:46:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
