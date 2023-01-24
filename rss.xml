@@ -4,11 +4,108 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 24 Jan 2023 14:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 15:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[杰富瑞：将道富银行(STT.N)目标价从95美元上调至101美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1438432.d.html</link>
+            <guid>2956334</guid>
+            <pubDate>Tue, 24 Jan 2023 15:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY向上触及131，日内涨0.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1430100.d.html</link>
+            <guid>2956323</guid>
+            <pubDate>Tue, 24 Jan 2023 14:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道，土耳其、瑞典、芬兰三方会议应土耳其要求取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4651175.d.html</link>
+            <guid>2956320</guid>
+            <pubDate>Tue, 24 Jan 2023 14:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指转涨，特斯拉涨近2%，英伟达、奈飞涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1428096.d.html</link>
+            <guid>2956319</guid>
+            <pubDate>Tue, 24 Jan 2023 14:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国PMI数据公布后，美元兑日元USD/JPY涨幅扩大至54点，报130.90。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1426898.d.html</link>
+            <guid>2956317</guid>
+            <pubDate>Tue, 24 Jan 2023 14:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普全球市场情报首席经济学家Chris Williamson评美国1月Markit PMI数据】2023年伊始，美国经济表现疲软，令人失望，1月份商业活动再次大幅收缩。尽管与去年12月相比有所放缓，但降幅是自全球金融危机以来最大的之一，反映出制造业和服务业的活动都在下降。就业增长也有所降温，1月份的就业人数增长远弱于去年大部分时间，反映出在未来几个月贸易环境不确定的情况下，企业在扩大产能方面犹豫不决。尽管调查显示，订单损失率有所放缓，企业信心出现令人鼓舞的好转，但以历史标准衡量，总体信心水平仍较低。企业表示，他们担心高物价和利率上升的持续影响，以及对供应和劳动力短缺的持续担忧。]]></title>
+            <guid>2956314</guid>
+            <pubDate>Tue, 24 Jan 2023 14:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所：所有系统目前正常运行，股票交易状况“正常”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4648309.d.html</link>
+            <guid>2956313</guid>
+            <pubDate>Tue, 24 Jan 2023 14:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国PMI数据均好于预期，美元指数DXY短线跳涨15点，报102.34。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4648088.d.html</link>
+            <guid>2956310</guid>
+            <pubDate>Tue, 24 Jan 2023 14:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车发言人称，该公司正调查研究德国Saarlouis工厂未来使用的选项，福特与大量潜在买家持续磋商。]]></title>
+            <guid>2956309</guid>
+            <pubDate>Tue, 24 Jan 2023 14:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国法院裁定，英国政府必须重新审查拒绝同意投资公司Aquind连接英法海底电缆项目的决定。]]></title>
+            <guid>2956305</guid>
+            <pubDate>Tue, 24 Jan 2023 14:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兔年湖北首趟中欧班列启程】1月24日凌晨3时34分，一列编号为75200次的列车满载着空调、吸尘器、办公用品、人造花等货物，从位于湖北武汉的汉西车务段吴家山车站安全开出。这些货物全部都是由武汉及周边地区生产的。这也是农历兔年湖北省安全开出的首趟中欧班列。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4641029.d.html</link>
+            <guid>2956304</guid>
+            <pubDate>Tue, 24 Jan 2023 14:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所上市股票触发数十只股票开盘剧烈波动和盘中临时停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4640507.d.html</link>
+            <guid>2956303</guid>
+            <pubDate>Tue, 24 Jan 2023 14:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3M的CFO：电子产品需求恐将在2023年“大幅”下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifeh4638353.d.html</link>
+            <guid>2956302</guid>
+            <pubDate>Tue, 24 Jan 2023 14:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【温氏股份2025年到期美元债势创2个月最大跌幅】温氏股份2025年10月到期美元债势创11月7日以来最大跌幅。截至北京时间22:23，该公司2.349%债券每1美元跌3美分，至87美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1409899.d.html</link>
+            <guid>2956300</guid>
+            <pubDate>Tue, 24 Jan 2023 14:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[满帮ADR美股盘前下跌8%，J Capital做空该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1406940.d.html</link>
+            <guid>2956298</guid>
+            <pubDate>Tue, 24 Jan 2023 14:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[木薯科学（SAVA）美股盘前下跌14%，该公司称其阿尔茨海默症药品在第二阶段临床试验中产生积极的结果。]]></title>
+            <guid>2956297</guid>
+            <pubDate>Tue, 24 Jan 2023 14:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球油服巨头哈里伯顿：预计在2023年，国际业务至少将增长15%左右，大部分新业务来自中东和拉丁美洲。]]></title>
+            <guid>2956296</guid>
+            <pubDate>Tue, 24 Jan 2023 14:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全球油服巨头哈里伯顿：预计未来几年石油服务需求将不断增长。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycifek1400939.d.html</link>
@@ -217,200 +314,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychywk4619348.d.html</link>
             <guid>2956238</guid>
             <pubDate>Tue, 24 Jan 2023 11:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用电气2022年Q4营收为218亿美元，市场预期为215.93亿美元。预计2023年调整后的每股收益为1.6美元至2美元，分析师预期为2.37美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychywk4618967.d.html</link>
-            <guid>2956237</guid>
-            <pubDate>Tue, 24 Jan 2023 11:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公安部交管局：春节假期前三天全国查获酒驾醉驾1万余起】据公安部交管局官微消息，春节期间走亲访友、聚餐聚会明显增多，酒驾醉驾风险尤为突出。各地公安交管部门按照全国统一部署，结合本地情况特点，每天严查酒驾醉驾。春节假期前三天，全国查获酒驾醉驾1万余起。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4745657.d.html</link>
-            <guid>2956236</guid>
-            <pubDate>Tue, 24 Jan 2023 11:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外贸总局（DFGT）：允许化肥生产企业进口用于农业的尿素。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1518015.d.html</link>
-            <guid>2956234</guid>
-            <pubDate>Tue, 24 Jan 2023 11:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外贸总局（DFGT）：将修改尿素进口政策条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4740790.d.html</link>
-            <guid>2956233</guid>
-            <pubDate>Tue, 24 Jan 2023 11:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟金融服务专员mairead McGuinness表示，有必要“改革”欧盟金融产品销售的“体系”。]]></title>
-            <guid>2956232</guid>
-            <pubDate>Tue, 24 Jan 2023 11:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构评英国1月CBI工业订单差值】好消息是，英国工厂的成本压力正以近两年来最慢的速度增长，但订单量仍然疲软。季度商业乐观指数也从之前的-48升至-5，这是一个积极的数据，但产量和新订单仍然低迷。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1516276.d.html</link>
-            <guid>2956231</guid>
-            <pubDate>Tue, 24 Jan 2023 11:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国将在周三公布最新经济预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4738762.d.html</link>
-            <guid>2956230</guid>
-            <pubDate>Tue, 24 Jan 2023 11:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国将预测今年经济增长0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1515441.d.html</link>
-            <guid>2956229</guid>
-            <pubDate>Tue, 24 Jan 2023 11:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国1月CBI工业产出预期差值 19，前值-10。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4737876.d.html</link>
-            <guid>2956228</guid>
-            <pubDate>Tue, 24 Jan 2023 11:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一月份欧洲发行债券创下了2440亿欧元的记录。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4737332.d.html</link>
-            <guid>2956226</guid>
-            <pubDate>Tue, 24 Jan 2023 11:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国1月CBI工业出口订单差值 -22，前值-19。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1509847.d.html</link>
-            <guid>2956225</guid>
-            <pubDate>Tue, 24 Jan 2023 11:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国1月CBI工业订单差值录得-17，为2021年2月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4732719.d.html</link>
-            <guid>2956224</guid>
-            <pubDate>Tue, 24 Jan 2023 11:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国1月CBI工业订单差值为-17，预期-8，前值-6。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4732606.d.html</link>
-            <guid>2956223</guid>
-            <pubDate>Tue, 24 Jan 2023 11:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈铁日均装运4000车电煤全力应对极寒天气】中国铁路哈尔滨局集团有限公司24日发布消息，年初以来，哈尔滨局集团公司累计发送电煤595万吨，同比增长19.6%，日均完成装车近4000车，34家铁路直供重点电厂存煤470万吨，平均可燃天数达26天，稳定在合理水平，有力保障了极寒天气下民众度过温暖、祥和的新春佳节和国民经济平稳运行。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4731714.d.html</link>
-            <guid>2956222</guid>
-            <pubDate>Tue, 24 Jan 2023 10:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【灯塔专业版：2023大年初三票房破10亿】据灯塔专业版实时数据，1月24日18时49分，兔年大年初三（1月24日）总票房突破10亿，《满江红》《流浪地球2》《熊出没·伴我“熊芯”》分列当日票房前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4729942.d.html</link>
-            <guid>2956221</guid>
-            <pubDate>Tue, 24 Jan 2023 10:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吴京总票房300亿，国内影史票房第一人】 猫眼专业版数据显示，1月24日16时51分，2023年春节档（1月21日-1月27日）总票房（含预售）破36亿。《满江红》《流浪地球2》《熊出没·伴我“熊芯”》分列票房榜前三位。其中，《流浪地球2》和《满江红》的主演吴京和沈腾目前也是中国电影个人票房累计最高的两位。灯塔专业版数据显示，24日17时41分，吴京的个人总票房达到300亿元，成为中国影史首个达到此票房成就的演员。（红星新闻）]]></title>
-            <guid>2956220</guid>
-            <pubDate>Tue, 24 Jan 2023 10:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰社区和领土发展部两名副部长递交辞呈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4727258.d.html</link>
-            <guid>2956217</guid>
-            <pubDate>Tue, 24 Jan 2023 10:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典议会议员Wykman：将可能会讨论国家援助和共同债务计划的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4727174.d.html</link>
-            <guid>2956216</guid>
-            <pubDate>Tue, 24 Jan 2023 10:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【反战组织要求加拿大放弃购买F-35战机并退出北约】加拿大反战组织汉密尔顿停战联盟当地时间23日在加拿大总理特鲁多及内阁成员下榻的酒店和会场外举行抗议活动，要求放弃购买F-35战机并退出北约。加拿大政府1月9日宣布，将为加空军采购88架F-35战斗机，以取代老旧机群。加拿大为此将斥资约190亿加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4725006.d.html</link>
-            <guid>2956212</guid>
-            <pubDate>Tue, 24 Jan 2023 10:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典议会议员Wykman表示，瑞典的银行体系很稳健；瑞典银行可以应对日益恶化的房价下跌问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4723308.d.html</link>
-            <guid>2956211</guid>
-            <pubDate>Tue, 24 Jan 2023 10:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：服务业帮助德国经济站稳脚跟】DWS首席欧洲经济学家Martin Moryson在一份报告中表示，德国经济正处于预期中的疲软阶段，但目前的评估好于过去7个月。此前，德国1月综合PMI指数初值较12月份有所改善。他表示，有迹象表明，疲弱阶段正在慢慢结束。服务业的表现相对好于制造业。他称，这肯定得益于劳动力市场，事实证明，劳动力市场非常强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4720249.d.html</link>
-            <guid>2956210</guid>
-            <pubDate>Tue, 24 Jan 2023 10:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：几家法国私人军事公司目前在欧亚上空的太空开展业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1496961.d.html</link>
-            <guid>2956209</guid>
-            <pubDate>Tue, 24 Jan 2023 10:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国家航天集团：俄罗斯计划于2027年建立自己的空间站】当地时间1月24日，俄罗斯国家航天公司总经理鲍里索夫表示，俄罗斯计划于2027年建立自己的空间站，今年4月12日将展示空间站的最终外观。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4717309.d.html</link>
-            <guid>2956206</guid>
-            <pubDate>Tue, 24 Jan 2023 10:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今明两年散户投资者或会对英国融资需求做出更多贡献】英国债务管理局（DMO）在与英国国债做市商和投资者磋商后表示，随着2023/24财年公共部门净借款需求上升，散户投资者可能会通过投资英国国债市场，对英国政府融资需求做出更大贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1493947.d.html</link>
-            <guid>2956205</guid>
-            <pubDate>Tue, 24 Jan 2023 10:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18:30:23香港电台网站1月24日消息，据香港入境处统计，由年廿八至昨日年初二（1月19-23日），累计有超过6.2万人次内地旅客入境。]]></title>
-            <guid>2956204</guid>
-            <pubDate>Tue, 24 Jan 2023 10:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气价格因预测天气转暖而下跌】由于预测显示下周寒流将过去，气温将上升，欧洲天然气价格大幅下跌。基准TTF天然气期货下跌11%，而英国天然气价格下跌了10%。此前西欧一直处于寒潮之中，这增加了取暖用天然气的需求。然而，由于库存保持健康，而且寒冷的天气预计不会持续太久，天然气价格仍然低迷。据英国气象局称，周一伦敦的气温预计将升至10摄氏度，巴黎的气温预计也将恢复到两位数。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1489711.d.html</link>
-            <guid>2956203</guid>
-            <pubDate>Tue, 24 Jan 2023 10:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰防长：德国已收到波兰关于援乌坦克的申请】波兰国防部长布瓦什恰克当地时间24日在社交媒体上表示，德国已经收到波兰发出的关于向乌克兰提供“豹2”式坦克的申请，他呼吁德方加入向乌克兰援助坦克的联盟中来。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4706838.d.html</link>
-            <guid>2956202</guid>
-            <pubDate>Tue, 24 Jan 2023 10:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典外长：瑞典希望尽快加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1482297.d.html</link>
-            <guid>2956201</guid>
-            <pubDate>Tue, 24 Jan 2023 10:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因能源价格飙升，英国12月借款大幅增加】高企的能源价格正对英国公共财政造成巨大影响，周二公布的数据显示，英国政府借款在去年12月创下历史新高。AJ Bell分析师Danni Hewson在一份报告中表示，到目前为止，能源支持计划的成本已接近50亿英镑，但10月份能源价格对通胀的影响最大，当时英国的账单大幅上涨。由于约四分之一的政府债券与零售价格指数挂钩，应付债务利息比去年翻了一番。去年12月，不包括国有银行在内的公共部门净借款为274亿英镑，上年同期为107亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqn4705049.d.html</link>
-            <guid>2956200</guid>
-            <pubDate>Tue, 24 Jan 2023 10:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄官员：爱沙尼亚无权限制俄罗斯船只在芬兰湾航行】当地时间1月24日，俄罗斯驻爱沙尼亚大使利帕耶夫表示，爱沙尼亚方面没有权力限制俄罗斯船只在芬兰湾爱沙尼亚领海毗连水域内的航行。此前，据俄媒报道，爱沙尼亚政府下令制定实施24海里毗连区制度的相关规则，实施后爱沙尼亚可在毗连区内对俄罗斯船只进行检查。（央视新闻）]]></title>
-            <guid>2956198</guid>
-            <pubDate>Tue, 24 Jan 2023 10:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区企业活动新年初始意外增长，标普经济学家认为困境犹存】欧元区的民营经济在2023年初意外恢复增长。标普全球1月份采购经理人指数(PMI)初值升至50.2，优于彭博调查预估的49.8，也是该指数自去年6月份以来首次高于荣枯分界线50。通胀放缓、能源紧张的欧洲迎来比往常温暖的冬季以及供应链制约减缓等各种因素，都在激发欧元区的乐观情绪。S&P Global Market Intelligence首席商业经济学家Chris Williamson表示，虽然经济企稳进一步证明欧元区或能摆脱衰退，但“该地区绝没有走出困境”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1475846.d.html</link>
-            <guid>2956197</guid>
-            <pubDate>Tue, 24 Jan 2023 10:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克里姆林宫呼吁在外技术人员返俄】克里姆林宫周二表示，希望目前在国外工作的技术工人返回俄罗斯，继续为国家工作。过去一年，由于俄乌冲突，数十万人逃往国外。此前，俄罗斯最富有的大亨之一呼吁有关当局应该容忍而不是惩罚工人，特别是那些目前在海外IT行业工作的人员，并称俄罗斯需要他们的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1469926.d.html</link>
-            <guid>2956195</guid>
-            <pubDate>Tue, 24 Jan 2023 10:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯计划2023年前将其太空人造卫星数量增至1000颗】俄罗斯国家航天公司总经理鲍里索夫当地时间1月24日表示，计划至2030年前将俄罗斯太空中人造卫星数量从目前的200颗增加至1000颗。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychuqq1469148.d.html</link>
-            <guid>2956194</guid>
-            <pubDate>Tue, 24 Jan 2023 10:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
