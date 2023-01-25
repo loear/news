@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 25 Jan 2023 16:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 17:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[智利国家铜业委员会报告显示，智利2022年铜产量可能为534.5万吨，今年将增至564.7万吨，2024年将增至589.1万吨。智利铜产量可能在2030年达到713.5万吨的峰值，低于且晚于此前预期。]]></title>
+            <guid>2957569</guid>
+            <pubDate>Wed, 25 Jan 2023 17:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将在未来几周宣布新的乌克兰援助措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmute0999204.d.html</link>
+            <guid>2957567</guid>
+            <pubDate>Wed, 25 Jan 2023 17:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行投资部门双倍下注ETF，继续寄望于成为欧洲第二大ETF供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmuta4221860.d.html</link>
+            <guid>2957566</guid>
+            <pubDate>Wed, 25 Jan 2023 17:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门古萨巴王朝遗址被列入世界遗产名录】联合国教科文组织当地时间1月25日宣布将位于也门马里卜省的古萨巴王朝遗址列入世界遗产名录，同时将其列入世界濒危遗产名录。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmute0996163.d.html</link>
+            <guid>2957564</guid>
+            <pubDate>Wed, 25 Jan 2023 17:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌0.06%】欧洲主要股指集体收跌，德国DAX30指数跌0.06%，英国富时100指数跌0.18%，法国CAC40指数跌0.09%，欧洲斯托克50指数跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmuta4219019.d.html</link>
+            <guid>2957563</guid>
+            <pubDate>Wed, 25 Jan 2023 17:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏伊士运河管理局表示，2022年苏伊士运河收入达到历史新高，为80亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmuta4218957.d.html</link>
+            <guid>2957562</guid>
+            <pubDate>Wed, 25 Jan 2023 17:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：01月26日00时02分在新疆和田地区和田县（北纬35.83度，东经79.89度）发生4.9级地震，震源深度10千米。]]></title>
             <guid>2957545</guid>
@@ -176,47 +211,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqmh1034756.d.html</link>
             <guid>2957470</guid>
             <pubDate>Wed, 25 Jan 2023 15:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内走低0.5%，现报129.45。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqmh1034599.d.html</link>
-            <guid>2957469</guid>
-            <pubDate>Wed, 25 Jan 2023 15:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线拉升50点，报1.3406。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqme4255124.d.html</link>
-            <guid>2957464</guid>
-            <pubDate>Wed, 25 Jan 2023 15:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其方面考虑限制里拉对冲以抑制美元需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqme4252062.d.html</link>
-            <guid>2957456</guid>
-            <pubDate>Wed, 25 Jan 2023 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国常驻联合国粮农机构代表McCain：全球仍面临历史性的粮食危机】美国官员Cindy McCain表示，尽管主要粮食价格下跌，但因俄罗斯与乌克兰的战争对各农业市场造成干扰，全球依然处于历史性的粮食危机之中。“食品价格正在下跌的事实并不意味着这场危机接近结束，”驻罗马的美国常驻联合国粮农机构代表McCain说。“我们正面临一些困难时期。”McCain表示，随着乌克兰的战火持续，包括种子在内的商品流动持续遇阻，非洲相当一部分地区处于饥荒边缘。她表示，乌克兰产粮区的土地和机械受损导致播种中断，同时乌克兰的出口也受到限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqmh1027941.d.html</link>
-            <guid>2957455</guid>
-            <pubDate>Wed, 25 Jan 2023 14:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在受风暴影响后，美国最大的炼油厂正常运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqme4250341.d.html</link>
-            <guid>2957454</guid>
-            <pubDate>Wed, 25 Jan 2023 14:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线上扬近30点，报1.2359。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycmqmh1024527.d.html</link>
-            <guid>2957452</guid>
-            <pubDate>Wed, 25 Jan 2023 14:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得克萨斯州和路易斯安那州经历至少14场龙卷风】据美国有线电视新闻网报道，截至当地时间1月25日，已有至少14场龙卷风袭击了得克萨斯州和路易斯安那州部分地区，摧毁大量建筑。预计这种气象灾害将在美国南部各州持续。美国电力跟踪网站PowerOutage.us数据显示，截至25日清晨，得克萨斯州和阿肯色州有超过10万户家庭和企业处于断电状态。（央视新闻）]]></title>
-            <guid>2957450</guid>
-            <pubDate>Wed, 25 Jan 2023 14:43:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
