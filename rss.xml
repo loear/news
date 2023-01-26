@@ -4,11 +4,51 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 26 Jan 2023 16:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 17:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[即时社交媒体平台Buzzfeed将使用OpenAI的服务来协助内容创作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxsa3982502.d.html</link>
+            <guid>2958891</guid>
+            <pubDate>Thu, 26 Jan 2023 17:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德专家称人类移植猪心脏研究已进入“最后冲刺阶段”】 德国慕尼黑大学医院的研究团队近日表示，人类移植猪心脏研究正处于“最后冲刺阶段”，估计两年可投入应用。领导这一团队的著名心脏外科专家布鲁诺·赖夏特对德国媒体介绍，经过基因改造的猪的心脏要先在狒狒身上进行试验，达到相关标准后才可进行人体移植研究。2018年，赖夏特研究团队在英国《自然》杂志上发表报告说，他们将经过基因改造的猪的心脏移植到狒狒体内，狒狒接受移植后最长存活时间达六个半月。（新华网）]]></title>
+            <guid>2958890</guid>
+            <pubDate>Thu, 26 Jan 2023 17:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼政府声明：印尼就欧盟钢铁关税向世贸组织提出申诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxsa3977900.d.html</link>
+            <guid>2958889</guid>
+            <pubDate>Thu, 26 Jan 2023 17:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国抵押贷款利率降至6.13%，连续第三周回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxse0754778.d.html</link>
+            <guid>2958888</guid>
+            <pubDate>Thu, 26 Jan 2023 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国一勒索软件集团暗网被查封 涉案金额超1亿美元】据报道，美国联邦调查局（FBI）查封了一个勒索软件集团的暗网网站，这个名为“蜂巢”（Hive）勒索软件集团向受害者组织勒索了超过1亿美元，包括路易斯安那州一家医院。医院表示，他们在10月份拦截了一起勒索软件攻击，但黑客仍然窃取了近27万名病人的个人数据。美国联邦调查局和其他联邦机构警告称，截至11月，“蜂巢”勒索软件已被用于向全球1300多家公司勒索约1亿美元，其中许多是医疗保健公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxse0745812.d.html</link>
+            <guid>2958882</guid>
+            <pubDate>Thu, 26 Jan 2023 16:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉和墨西哥尚未就新的超级工厂达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxsa3961117.d.html</link>
+            <guid>2958880</guid>
+            <pubDate>Thu, 26 Jan 2023 16:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴西国家石油公司CEO将于周四会见巴西总统卢拉，讨论董事会任命事宜，并将于周五提名高级管理人员。]]></title>
+            <guid>2958878</guid>
+            <pubDate>Thu, 26 Jan 2023 16:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【调查显示能源危机使超半数比利时民众经济状况恶化】比利时媒体1月26日报道，比利时消费者组织Test-aankoop的一项调查表明，在能源危机的影响下，许多受访者目前处于财务困境。调查数据显示，57%的比利时人认为他们的经济状况相较2021年显著恶化。27%的民众是“月光族”，八分之一的民众需要父母和朋友的帮助实现收支平衡。女性、失业者、比利时首都布鲁塞尔和南部瓦隆大区的居民更多受到高昂能源价格和通货膨胀飙升的影响。三分之一的民众表示不能再承受任何价格上涨，40%的民众一直在用积蓄支付账单。报道同时指出，此前多项调查同样描绘了经济悲观景象，2022年12月的一项研究表明，四分之三的比利时独立经销商担心破产。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxse0720715.d.html</link>
@@ -276,59 +316,6 @@
             <title><![CDATA[IBM(IBM.N)跌超3%，2022年Q4营收166.9亿美元与上年同期持平，公司宣布全球裁员1.5%，约3900人。]]></title>
             <guid>2958795</guid>
             <pubDate>Thu, 26 Jan 2023 14:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将纳斯达克OMX交易所(NDAQ.O)目标价从72美元下调至60美元。]]></title>
-            <guid>2958790</guid>
-            <pubDate>Thu, 26 Jan 2023 14:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：多样化措施保障火车站夜间抵京乘客顺利出行】北京市交通委员会官微消息，1月26日、27日，北京市迎来返京客流高峰。为保障节日期间火车站地区晚间抵京旅客顺利出行，北京市公交、地铁、出租行业通过延长运营时间、开行摆渡线、加强“保点”等措施，满足抵京旅客接续出行需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3991819.d.html</link>
-            <guid>2958789</guid>
-            <pubDate>Thu, 26 Jan 2023 14:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银集团：将Shopify(SHOP.N)目标价从32美元上调至34美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3989402.d.html</link>
-            <guid>2958788</guid>
-            <pubDate>Thu, 26 Jan 2023 14:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团(BX.N)CEO：第四季度公司私人财富渠道录得30亿美元的净资金流入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3988634.d.html</link>
-            <guid>2958784</guid>
-            <pubDate>Thu, 26 Jan 2023 14:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将奈飞(NFLX.O)目标价由315美元上调至395美元 评级买入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3988577.d.html</link>
-            <guid>2958783</guid>
-            <pubDate>Thu, 26 Jan 2023 14:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将美国合众银行(USB.N)目标价从70美元上调至74美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptkh0765520.d.html</link>
-            <guid>2958782</guid>
-            <pubDate>Thu, 26 Jan 2023 14:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将纳斯达克OMX交易所(NDAQ.O)目标价从71美元下调至66美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3988350.d.html</link>
-            <guid>2958781</guid>
-            <pubDate>Thu, 26 Jan 2023 14:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[山姆会员店宣布计划在未来几年在美国开设30多家新门店。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3985478.d.html</link>
-            <guid>2958778</guid>
-            <pubDate>Thu, 26 Jan 2023 14:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷诺与日产计划于2月6日宣布就重组联盟达成协议】知情人士表示，法国汽车制造商雷诺及其日本合作伙伴日产汽车计划于2月6日在伦敦正式宣布就重组联盟达成协议。两家公司的领导人周四通过视频连线举行了联盟董事会会议，此前双方就如何重启长期合作关系进行了数月的紧张谈判。周四会议后，双方的董事会仍需单独批准一项潜在的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptke3981262.d.html</link>
-            <guid>2958777</guid>
-            <pubDate>Thu, 26 Jan 2023 14:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
