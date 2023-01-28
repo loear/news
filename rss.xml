@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 28 Jan 2023 19:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 20:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【印尼北马鲁古省附近海域发生5.6级地震】据印尼气象、气候和地球物理局官网消息，当地时间1月29日2时15分，印尼北马古鲁省西南21公里附近海域发生5.6级地震（东经128.13度，北纬1.95度），震源深度136公里。预计没有发生海啸的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycuwmu3335695.d.html</link>
+            <guid>2960669</guid>
+            <pubDate>Sat, 28 Jan 2023 20:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯里兰卡宣布暂停本国议会】据当地媒体报道，斯里兰卡总统维克拉马辛哈签署特别法令，宣布从当地时间1月27日午夜起暂停本国议会直至2月8日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycuscw3452744.d.html</link>
+            <guid>2960664</guid>
+            <pubDate>Sat, 28 Jan 2023 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月29日03时15分在印尼哈马黑拉岛（北纬1.95度，东经128.10度）发生5.3级地震，震源深度150千米。]]></title>
+            <guid>2960662</guid>
+            <pubDate>Sat, 28 Jan 2023 19:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塞内加尔一加油站发生爆炸 致2人受伤】据塞内加尔当地媒体报道，当地时间1月28日，塞内加尔达喀尔麦地那区的一个加油站储油罐发生爆炸，造成两人受伤，其中一人伤势严重。受伤人员目前已经被送往医院。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycuscw3440953.d.html</link>
+            <guid>2960661</guid>
+            <pubDate>Sat, 28 Jan 2023 19:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【深圳2022年规模以上工业增加值增长4.8%】2022年深圳规模以上工业增加值同比增长4.8%。统计数据显示，2022年深圳专精特新企业发挥强力支撑作用，全年增加值合计增长8.3%，对全市规上工业增加值的贡献率达22.1%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycuscw3428166.d.html</link>
@@ -410,18 +433,6 @@
             <title><![CDATA[【瑞典外交大臣：已满足土耳其就瑞典加入北约提出的条件】1月27日，瑞典外交大臣比尔斯特伦表示，瑞典已经满足了土耳其对瑞典“入约”提出的条件，正接近土耳其议会开启批准流程的关头。据路透社1月28日报道，比尔斯特伦27日作出了上述表态。（澎湃新闻）]]></title>
             <guid>2960454</guid>
             <pubDate>Sat, 28 Jan 2023 09:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌开发出从文本生成高保真音乐的人工智能，但不计划发布】当地时间1月27日，谷歌公司发布了对AI模型MusicLM的研究，该系统可以从文本描述中生成任何类型的高保真音乐。但因担心风险，谷歌没有立即发布它的计划。“我们强调，需要在未来开展更多工作来应对这些与音乐生成相关的风险——我们目前没有发布模型的计划。”谷歌发布的论文写道。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imyctuyk0285634.d.html</link>
-            <guid>2960451</guid>
-            <pubDate>Sat, 28 Jan 2023 09:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海新阳：ArF类光刻胶样品目前在国内晶圆制造企业验证中】上海新阳在互动平台表示，公司KrF光刻胶已批量化生产销售，ArF类光刻胶样品目前在国内晶圆制造企业验证中，EUV光刻胶尚在开发阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imyctuyh3499869.d.html</link>
-            <guid>2960449</guid>
-            <pubDate>Sat, 28 Jan 2023 09:27:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
