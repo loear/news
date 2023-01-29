@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 29 Jan 2023 18:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 19:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【去年末券商私募资管存量超6万亿元 头部效应显著】截至2022年末，券商私募资管产品存量规模为6.28万亿元。中金公司认为券商资管空间广阔，预计2030年券商资管规模达18万亿元。资管新规对券商资管主动管理能力提出更高要求，推动券商私募资管市场优化，证券行业头部效应明显。中基协近日发布的2022年四季度证券公司私募资产管理月均规模数据显示，前20强月均规模合计为5.3万亿元，环比下降7.48%。其中前三强依旧是中信证券、中银证券、中金公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwzme7063452.d.html</link>
+            <guid>2961913</guid>
+            <pubDate>Sun, 29 Jan 2023 19:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华夏幸福境外债务重组获法院裁定 金融债务重组完成近八成】1月29日晚间，华夏幸福披露境外间接全资子公司美元债券债务重组进展。公告称，英格兰及威尔士高等法院于英国时间1月23日下午2点30分召开裁决庭审，庭审裁决了华夏幸福境外债协议安排重组生效。华夏幸福相关负责人表示，“公司于2023年1月24日取得英国法院出具的书面裁决决定，并于当日在英国公司注册处完成登记，公司协议安排正式生效，预计于2023年1月31日完成重组交割。”]]></title>
+            <guid>2961897</guid>
+            <pubDate>Sun, 29 Jan 2023 18:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全美今年已经发生44起群体性枪击事件】近日，美国加利福尼亚州在8天内发生4起群体性枪击事件，引发关注。美国“枪支暴力档案”网站29日更新的数据显示，全美今年已经发生44起群体性枪击事件，是这一独立机构2014年开始收集发布这类数据以来的同期最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvcf0404695.d.html</link>
+            <guid>2961878</guid>
+            <pubDate>Sun, 29 Jan 2023 18:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界第三个！我国具备量子计算机整机交付能力】从安徽省量子计算工程研究中心获悉，合肥本源量子已研发出多台中国量子计算机，并成功交付一台量子计算机给用户使用。该量子计算机的成功交付使我国成为世界上第三个具备量子计算机整机交付能力的国家。这是我国继实现“量子优越性”之后，又一次确立了在国际量子计算研究领域的领先地位。]]></title>
+            <guid>2961864</guid>
+            <pubDate>Sun, 29 Jan 2023 18:34:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【涉非洲裔男子尼科尔斯之死 美国5名警察将被传讯】当地时间29日，被指控与非洲裔男子泰尔·尼科尔斯之死有关的五名美国田纳西州警察将于2月中旬被传讯。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvch7164311.d.html</link>
@@ -347,18 +369,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwefp0394996.d.html</link>
             <guid>2961567</guid>
             <pubDate>Sun, 29 Jan 2023 10:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国联通：截至2022年12月，5G套餐用户累计21272.7万户】中国联通1月29日在港交所公告，截至2022年12月“大联接”用户累计到达数86,174.4万户，5G套餐用户累计到达数21,272.7万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwefq7169976.d.html</link>
-            <guid>2961565</guid>
-            <pubDate>Sun, 29 Jan 2023 10:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京链家回应不再为中海项目带客传闻：是误会 正在协商2023新合同内容】有市场消息称“北京链家除了中海首钢云尚项目之外，不再为中海项目带客”，对此北京链家方面回复称，“网传链家与中海停止合作是一个误会，北京链家目前正在与中海协商2023年新的合同内容，每一年年初链家都会与合作公司进行新一年的合同签订，这是每年的常规动作。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwefq7168630.d.html</link>
-            <guid>2961563</guid>
-            <pubDate>Sun, 29 Jan 2023 10:17:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
