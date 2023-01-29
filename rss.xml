@@ -4,11 +4,41 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 29 Jan 2023 17:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 18:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【涉非洲裔男子尼科尔斯之死 美国5名警察将被传讯】当地时间29日，被指控与非洲裔男子泰尔·尼科尔斯之死有关的五名美国田纳西州警察将于2月中旬被传讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvch7164311.d.html</link>
+            <guid>2961858</guid>
+            <pubDate>Sun, 29 Jan 2023 18:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦客车坠桥事故死亡人数升至41人】当地时间1月29日，巴基斯坦俾路支省拉斯贝拉客车坠桥事故死亡人数升至为41人。当地时间29日上午，巴基斯坦西南部俾路支省一辆客车从桥上坠落并起火，造成至少40人死亡。事发时，客车上载有近50名乘客。当地官员认为，事故是由客车超速行驶导致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvcf0378968.d.html</link>
+            <guid>2961846</guid>
+            <pubDate>Sun, 29 Jan 2023 18:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【捷克总统泽曼访问塞尔维亚】当地时间1月29日下午，捷克总统泽曼抵达贝尔格莱德，对塞尔维亚进行为期两天的正式访问。塞尔维亚总统武契奇在机场迎接，武契奇表示，泽曼是当今最伟大的政治家之一，也是塞尔维亚真诚的朋友。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvcf0362853.d.html</link>
+            <guid>2961821</guid>
+            <pubDate>Sun, 29 Jan 2023 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节假期消费数据喜人 专家建议加大政策支持】近日公布的多项数据显示，今年春节假期（1月21日至27日），出行人数明显增多，旅游、餐饮、住宿、观影等消费均现强劲复苏。专家认为，为更好地激发居民消费潜力，除了政策面继续适当发放消费券、消费补贴，针对汽车、家电、住房等大宗消费出台阶段性的定向支持政策外，金融机构也可围绕教育、文化、体育、娱乐等重点服务消费领域开发更多适销对路的金融产品，加强对服务消费的综合金融支持。就业和收入是居民消费的基础，短期内政策上可进一步通过减免企业税费、发放就业补贴、强化就业服务等方式，促进就业形势好转。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvcf0356301.d.html</link>
+            <guid>2961815</guid>
+            <pubDate>Sun, 29 Jan 2023 17:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【净利预减七成 太平鸟“联名推新”失效】1月29日，太平鸟发布业绩预告称，预计2022年度实现归属于上市公司股东的净利润为1.95亿元左右，与上年同期相比，预计减少4.82亿元，同比减少71%左右。预计2022年度实现归属于上市公司股东的扣除非经常性损益的净利润为-0.14亿元左右，与上年同期相比预计减少5.34亿元，同比减少103%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvch7126977.d.html</link>
+            <guid>2961805</guid>
+            <pubDate>Sun, 29 Jan 2023 17:26:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国英格兰和威尔士地区教师将于2月1日举行罢工】英国国家教育联盟宣布，英格兰和威尔士地区的教师将在2月1日举行罢工，本次罢工涉及教师数量超过10万人，大约23000所学校将受到影响。2月和3月还可能有更多教师罢工活动。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwvcf0325403.d.html</link>
@@ -329,12 +359,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwefq7168630.d.html</link>
             <guid>2961563</guid>
             <pubDate>Sun, 29 Jan 2023 10:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晶科能源2022年组件出货量超44GW 今年N型组件出货占比升至60%】记者从晶科能源获悉，2022年全年，公司组件出货量超过44GW，整体出货量位居全球第二，其中N型组件出货超过10GW, 成为首家N型年出货突破10GW量级的组件企业。一体化产能方面，截至去年末达到硅片65GW、电池55GW、组件70GW。此外，晶科能源日前发布了第二代Tiger Neo组件，公司已投产N型产能35GW，实现了N型组件与P型组件一体化成本持平，N型TOPCon电池量产平均效率已达25.1%。展望2023年，晶科能源预期N型组件将成为出货主力，占比将从2022年的25%进一步提升至60%以上。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwefp0388627.d.html</link>
-            <guid>2961559</guid>
-            <pubDate>Sun, 29 Jan 2023 10:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
