@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 31 Jan 2023 19:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 20:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多公司年报预告被问询，交易所紧盯业绩波动】 随着A股上市公司2022年业绩预告密集披露，多家公司因业绩预告情况异常受到交易所密切关注。经初步统计发现，1月最后两个交易日，就有数十家上市公司因业绩预告收到交易所关注函或监管函，业绩波动较大成为关注焦点。从关注函内容来看，对于业绩变化较大的上市公司，交易所紧盯其是否属于年底突击交易、虚假交易或提前确认收入从而规避退市。对于大幅亏损的企业，交易所则重点关注公司的持续经营能力。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpqz0096168.d.html</link>
+            <guid>2964888</guid>
+            <pubDate>Tue, 31 Jan 2023 20:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国巴黎警方称，近9万人在巴黎集会反对养老金改革，有30人被拘留。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpra6872535.d.html</link>
+            <guid>2964887</guid>
+            <pubDate>Tue, 31 Jan 2023 20:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Paypal(PYPL.O)将裁减7%的员工，涉及约2000名员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpqz0061854.d.html</link>
+            <guid>2964874</guid>
+            <pubDate>Tue, 31 Jan 2023 19:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paypal(PYPL.O)拉升，涨幅扩大至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpra6838765.d.html</link>
+            <guid>2964873</guid>
+            <pubDate>Tue, 31 Jan 2023 19:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国有望成为拉动2023世界经济的“火车头”，国际组织纷纷上调今年中国经济增长预期】 国际组织纷纷上调对中国经济的发展预期。IMF预计，随着中国经济活动的复苏和人员流动的改善，2023年中国经济增速将大幅升至5.2%。联合国在报告中预测，随着中国政府优化防疫政策、采取利好经济措施，中国经济增长今年将加速，达到4.8%。世界银行也预计，中国经济增长将从2022年的2.7%上升到今年的4.3%。在全球经济增长相对乏力的背景下，中国被视为拉动2023年全球经济免于衰退的关键“引擎”。世界看好中国经济增长前景，强力提振了全球投资者的信心。全球资金闻风而动，外资布局中国资产跑出“加速度”。今年1月以来，北向资金累计净买入额达1412.90亿元，再度刷新沪深股通单月净买入的新高。（上证报）]]></title>
+            <guid>2964872</guid>
+            <pubDate>Tue, 31 Jan 2023 19:26:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国白宫：总统拜登坚信，债务上限问题不应该被作为政治筹码，这是个无可谈判的问题。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpqz0054877.d.html</link>
@@ -25,18 +54,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpra6831611.d.html</link>
             <guid>2964867</guid>
             <pubDate>Tue, 31 Jan 2023 19:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO Dave Calhoun：商用飞机将实现自主驾驶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpqz0054333.d.html</link>
-            <guid>2964866</guid>
-            <pubDate>Tue, 31 Jan 2023 19:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司计划到2028年开始测试桁架支撑翼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecpqz0053413.d.html</link>
-            <guid>2964865</guid>
-            <pubDate>Tue, 31 Jan 2023 19:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[马斯克：与布雷顿就欧盟数字服务法案进行了良好的会谈。有关透明度、问责制和信息准确性的目标与我们的目标一致。]]></title>
@@ -218,69 +235,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyeciic0069356.d.html</link>
             <guid>2964787</guid>
             <pubDate>Tue, 31 Jan 2023 16:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰终止乌俄之间航空运输协议】 乌克兰国际文传电讯社当地时间1月31日报道称，乌克兰政府终止了乌克兰和俄罗斯政府之间关于空中交通和航空运输领域合作的协议。乌克兰政府在当天的内阁会议上作出了上述决定。乌克兰政府与俄罗斯政府于1994年1月12日缔结了关于空中交通和航空运输领域合作的协定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyeciic0066428.d.html</link>
-            <guid>2964786</guid>
-            <pubDate>Tue, 31 Jan 2023 16:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫基础基础设施协调人Landrieu：已经与特斯拉CEO马斯克就新能源汽车配套设施问题进行了会谈。]]></title>
-            <guid>2964785</guid>
-            <pubDate>Tue, 31 Jan 2023 16:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【社保基金再次减持人保，这次是H股，分析人士：系日常市场化投资行为】 港交所披露易信息显示，社保基金会近期减持了超1亿股人保集团H股，截至1月20日，对其H股持股比例降至4.86%。由于对人保集团H股股比相继跌破6%、5%两个整数百分比，从而触发港股权益申报。有分析人士认为，近期社保基金会减持人保集团H股的动作，应是委托景顺香港（Invesco Hong Kong Limited ）等专业机构投资后，对人保H股进行的日常市场化投资行为，与此前减持人保A股的思路并不相同，二者应无直接关系。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyeciie6842329.d.html</link>
-            <guid>2964784</guid>
-            <pubDate>Tue, 31 Jan 2023 16:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：2023年国企改革或将持续加速】国企改革还有一个爆点有待起爆。成飞集团或将通过重组借壳完成上市，中航电测披露，公司正在筹划发行股份购买资产事项，标的资产初步确定为成飞集团的100%股权，成飞集团或将通过重组借壳完成上市。天风证券认为，打造央企旗舰龙头、专业领航上市公司，2023年国企改革或将持续加速。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyeciic0059818.d.html</link>
-            <guid>2964783</guid>
-            <pubDate>Tue, 31 Jan 2023 16:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马拉松石油公司：冬季风暴ELLIOTT导致第四季度原油产能利用率降低了2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyeciie6836655.d.html</link>
-            <guid>2964782</guid>
-            <pubDate>Tue, 31 Jan 2023 16:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国食品药品管理局（FDA）：鉴于婴儿配方食品丑闻危机爆发，将任命专职的食品安全监督专员，并重新设计对人类食品产品的监管流程。]]></title>
-            <guid>2964780</guid>
-            <pubDate>Tue, 31 Jan 2023 16:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【路特斯科技将通过与L Catterton Asia Acquisition Corp合并上市】L Catterton路威凯腾”微信公众号1月31日消息，电动车制造商路特斯科技有限公司和特殊目的收购公司L Catterton Asia Acquisition Corp（LCAA），双方已达成最终并购协议。L Catterton Asia Acquisition Corp隶属于消费投资公司L Catterton。并购协议规定的交易完成之后，公司将保留路特斯科技作为公司名称。交易完成后公司将在纳斯达克上市，股票代码“LOT”。此次交易意味着路特斯科技的企业估值约为54亿美元。]]></title>
-            <guid>2964778</guid>
-            <pubDate>Tue, 31 Jan 2023 16:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统泽连斯基与加拿大总理特鲁多通话】据央视新闻，当地时间1月31日，乌克兰总统泽连斯基与加拿大总理特鲁多通话。在通话中泽连斯基向特鲁多通报了前线局势以及乌克兰在装甲车、火炮和航空方面的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecazh6954872.d.html</link>
-            <guid>2964777</guid>
-            <pubDate>Tue, 31 Jan 2023 16:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦：将纽蒙特矿业(NEM.N)目标价从45美元上调至55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-01/detail-imyecazh6949384.d.html</link>
-            <guid>2964775</guid>
-            <pubDate>Tue, 31 Jan 2023 16:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦：将通用电气(GE.N)目标价从80美元上调至85美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-31/detail-imyecazf0162880.d.html</link>
-            <guid>2964772</guid>
-            <pubDate>Tue, 31 Jan 2023 15:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫官员：白宫将于3月9日发布2024财年预算提案】据美国《国会山》报，白宫官员1月31日表示，白宫将于3月9日发布2024财年的预算提案。此外，拜登和麦卡锡将于周三在白宫会面，讨论债务上限问题。一些美国共和党人表示，他们计划利用债务上限谈判作为筹码，确保削减开支和改革政府项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-31/detail-imyecazh6937913.d.html</link>
-            <guid>2964769</guid>
-            <pubDate>Tue, 31 Jan 2023 15:47:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
