@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 02 Feb 2023 20:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 21:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[星巴克一季度同店销售增长5%，分析师预期增长6.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyekhau9783146.d.html</link>
+            <guid>2968050</guid>
+            <pubDate>Thu, 02 Feb 2023 21:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车四季度预计全年调整后EBIT为90-110亿美元，分析师预期99.4亿美元。]]></title>
+            <guid>2968049</guid>
+            <pubDate>Thu, 02 Feb 2023 21:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特外交大臣访问伊拉克推动两国合作】 伊拉克总统拉希德、总理苏丹尼2日在巴格达分别会见到访的沙特外交大臣费萨尔，强调要推进两国关系发展，加强协调以缓和地区紧张局势。费萨尔表示，沙特愿意开展两国包括天然气开发在内的合作。当天早些时候，伊拉克外交部长侯赛因与费萨尔举行会谈。侯赛因在会后召开的联合记者会上说，两国在经贸和投资领域关系密切，在安全领域和打击贩毒团伙方面持续合作，并在石油输出国组织（欧佩克）和“欧佩克+”框架内进行了有关石油政策的协调。此外，两国也在努力缓和地区紧张局势。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyekhaw6552100.d.html</link>
+            <guid>2968043</guid>
+            <pubDate>Thu, 02 Feb 2023 20:56:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿达尼据称在磋商提前偿还以股票作为质押的贷款以提振信心】 一位知情人士透露，身陷困境的亿万富豪高塔姆·阿达尼(Gautam Adani)正在与债权人磋商提前偿还一些以股票作为质押的贷款，以寻求恢复外界对其集团财务状况的信心。这位知情人士称，此举将使贷款机构解冻一些作为质押品的阿达尼集团公司的股票。该集团尚未接到这些质押品的追加保证金通知，目前正在主动寻求提前还款。虽然没有迹象表明阿达尼集团的实体将难以偿还即将到期的美元债务，而且该集团透露的利息覆盖率表明其有能力偿债，但一些银行在与客户的交易中已经停止接受该集团的证券作为抵押品。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeizuw9880607.d.html</link>
@@ -16,7 +33,7 @@
             <pubDate>Thu, 02 Feb 2023 20:14:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【约旦国王与美国总统举行会谈】据央视新闻，当地时间2月2日，约旦国王阿卜杜拉二世在美国首都华盛顿和美国总统拜登举行会谈，双方讨论了两国双边合作关系，并表达了进一步加强多领域合作的共同意愿。此外，阿卜杜拉二世在会谈中强调，必须加紧努力支持巴勒斯坦人民获得其正当合法权利，以期实现建立以1967年边界为基础、以东耶路撒冷为首都、拥有完全主权、独立的巴勒斯坦国。]]></title>
+            <title><![CDATA[【约旦国王与美国总统举行会谈】 当地时间2月2日，约旦国王阿卜杜拉二世在美国首都华盛顿和美国总统拜登举行会谈，双方讨论了两国双边合作关系，并表达了进一步加强多领域合作的共同意愿。此外，阿卜杜拉二世在会谈中强调，必须加紧努力支持巴勒斯坦人民获得其正当合法权利，以期实现建立以1967年边界为基础、以东耶路撒冷为首都、拥有完全主权、独立的巴勒斯坦国。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeizuy6646336.d.html</link>
             <guid>2968038</guid>
             <pubDate>Thu, 02 Feb 2023 20:02:43 GMT</pubDate>
@@ -219,29 +236,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeivny9863782.d.html</link>
             <guid>2967951</guid>
             <pubDate>Thu, 02 Feb 2023 16:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛大宗商品交易部门去年创收逾30亿美元 摇钱树地位无可撼动】高盛大宗商品交易员去年实现了有史以来最佳业绩，巩固了该部门在高盛权力中心的地位。据知情人士透露，大宗商品交易部门收入在2022年飙升至30亿美元以上，远远超过前两年每年不到20亿美元的水平。在扣除与业务相关的费用后， Ed Emerson领导的大宗商品交易部门仍是高盛主要盈利增长来源之一。虽然高盛在1月中旬发布了业绩报告，但没有对大宗商品部门的收入和利润做细分披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeivpa6633141.d.html</link>
-            <guid>2967948</guid>
-            <pubDate>Thu, 02 Feb 2023 16:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truist：将Spotify(SPOT.N)目标价从115美元上调至132美元。]]></title>
-            <guid>2967943</guid>
-            <pubDate>Thu, 02 Feb 2023 16:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科文：将埃克森美孚(XOM.N)目标价从108美元上调至113美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeivpa6621557.d.html</link>
-            <guid>2967942</guid>
-            <pubDate>Thu, 02 Feb 2023 16:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率跌穿3%，为2022年11月份以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyeivpa6618942.d.html</link>
-            <guid>2967941</guid>
-            <pubDate>Thu, 02 Feb 2023 16:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
