@@ -4,11 +4,43 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 09 Feb 2023 17:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 18:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证券日报评论：换把尺子测量上市公司价值】证券日报头版文章称，在上市公司年报的三大报表中，如果说资产负债表是企业的“底子”，利润表是企业的“面子”，那么，现金流量表则是企业的“日子”。企业要实实在在过好日子，就需要长期保持充足的自由现金流量，持续为股东创造更多价值，这才是丈量上市公司价值最合适的尺子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctke6294673.d.html</link>
+            <guid>2978387</guid>
+            <pubDate>Thu, 09 Feb 2023 18:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：雅虎缩减广告业务，将裁员20%以上。裁员将影响雅虎广告技术部门50%以上的员工，预计超过1600人。]]></title>
+            <guid>2978386</guid>
+            <pubDate>Thu, 09 Feb 2023 18:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D.A. Davidson：将Affirm Holdings(AFRM.O)的目标价从24美元下调至20美元。]]></title>
+            <guid>2978385</guid>
+            <pubDate>Thu, 09 Feb 2023 18:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国交通部发言人表示，该机构正在调查伊隆·马斯克的脑机接口公司Neuralink是否存在危险病原体的潜在非法转移。]]></title>
+            <guid>2978379</guid>
+            <pubDate>Thu, 09 Feb 2023 17:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿迪达斯表示，2023年其营业亏损可能高达7亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctkh3042767.d.html</link>
+            <guid>2978377</guid>
+            <pubDate>Thu, 09 Feb 2023 17:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国西南航空公司首席运营官：公司执行层将因为此前发生的航班大面积取消事件而集体降薪。]]></title>
+            <guid>2978372</guid>
+            <pubDate>Thu, 09 Feb 2023 17:25:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧盟驻美大使：欧盟的绿色能源价值链需要加强。美国和欧盟应该在质量上竞争，而不是进行补贴竞赛。]]></title>
             <guid>2978370</guid>
@@ -47,6 +79,12 @@
             <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcpah6339707.d.html</link>
             <guid>2978355</guid>
             <pubDate>Thu, 09 Feb 2023 16:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部回应近期国际经贸热点：愿与澳方共同努力提振两国企业信心】商务部部长王文涛近日应约与澳大利亚贸易部长法瑞尔举行视频会谈。此次会谈是否意味着中澳经贸往来全面恢复？商务部新闻发言人束珏婷在9日举行的例行新闻发布会上表示，中澳两国在经贸领域开展互利合作，符合两国人民的共同利益。愿与澳方共同努力，为双边贸易投资合作创造良好环境，提振两国企业合作信心，稳定他们未来合作的预期。中方愿就双边贸易中各自关心的一些技术问题进行沟通，寻找互利共赢的解决方案。同时，也希望澳方与中方相向而行，为中国企业投资提供公平、开放、非歧视的营商环境，推动双边经贸合作高质量发展。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcpah6339381.d.html</link>
+            <guid>2978354</guid>
+            <pubDate>Thu, 09 Feb 2023 16:29:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[禾赛科技(HSAI.O)于纳斯达克上市首日开涨23.75%，IPO发行价为19美元/股。]]></title>
@@ -302,46 +340,6 @@
             <title><![CDATA[俄罗斯天然气工业股份公司（Gazprom）有意收购俄罗斯电信运营商MegaFon。]]></title>
             <guid>2978288</guid>
             <pubDate>Thu, 09 Feb 2023 14:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【禾赛科技在纳斯达克成功上市成为“中国激光雷达第一股”】禾赛科技正式在美国纳斯达克挂牌上市，股票代码为“HSAI”，发行价为每ADS（美国存托股份）19.00美元，公开发行1000万股ADS，募资总额约为1.9亿美元。截至目前，禾赛科技累计交付超10万台激光雷达。此次禾赛科技成功上市，也是过去18个月以来，中国公司赴美上市的最大IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6256727.d.html</link>
-            <guid>2978287</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股普遍走高，Boss直聘涨8%，爱奇艺涨7.5%，新东方涨6%，阿里巴巴、理想汽车、哔哩哔哩、小鹏汽车均涨超4%。]]></title>
-            <guid>2978286</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在现货市场交易中，巴西雷亚尔兑美元下跌1.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6253764.d.html</link>
-            <guid>2978285</guid>
-            <pubDate>Thu, 09 Feb 2023 14:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国总统施泰因迈尔与斯洛文尼亚总统穆萨尔举行会见】德国联邦总统施泰因迈尔当地时间2月9日在柏林会见了到访的斯洛文尼亚新任总统穆萨尔。双方就俄乌冲突、西巴尔干地区局势、气候变化等议题进行了会谈，并表示希望进一步加强良好的双边关系。施泰因迈尔在联合记者会上表示，德国对与斯洛文尼亚在不同领域的合作感到“高兴和自豪”，他希望这样良好的关系能够得到进一步发展。施泰因迈尔向穆萨尔承诺，将竭尽全力维持、加强并进一步深化两国关系。穆萨尔指出，德国是斯洛文尼亚最大的经济伙伴和最重要的投资者，而这也是她在当选总统不久后就选择访问柏林的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6250333.d.html</link>
-            <guid>2978283</guid>
-            <pubDate>Thu, 09 Feb 2023 14:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TC能源公司：我们将产量从最初估计的最大值为14000桶修正为12937桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3024670.d.html</link>
-            <guid>2978281</guid>
-            <pubDate>Thu, 09 Feb 2023 14:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙中国指数盘初涨2.7%，成分股悦商集团涨11%领跑，微美全息涨9.3%，爱奇艺涨6.3%，B站涨5.8%，理想汽车、陆金所、小鹏汽车至少涨超4.0%。]]></title>
-            <guid>2978278</guid>
-            <pubDate>Thu, 09 Feb 2023 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恢复业务办理首月 上海出入境办证量超38万证次】自有序恢复出入境证件办理一个月以来，上海出入境证件办理量呈井喷式增长，2023年1月9日至2月8日，上海公安出入境管理部门共受理中国公民出入境证件超38万证次，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6243033.d.html</link>
-            <guid>2978275</guid>
-            <pubDate>Thu, 09 Feb 2023 14:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
