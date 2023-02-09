@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 09 Feb 2023 18:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 19:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国抵押贷款利率五周来首次上涨】 美国房地美周四在一份声明中表示，30年期固定利率贷款的平均利率为6.12％，高于之前一周的6.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2970058.d.html</link>
+            <guid>2978392</guid>
+            <pubDate>Thu, 09 Feb 2023 19:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地预算报告圈定重点支持领域：助企纾困、稳投资促消费、发展数字经济】近日，多地发布2022年预算执行情况和2023年预算报告。梳理发现，多地在预算报告中提出，2023年积极的财政政策要加力提效，保持必要的支出强度，并提出了2023年财政重点支持领域，包括助企纾困、稳投资促消费、发展数字经济等，强化精准施策，全力促经济稳增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctkh3072050.d.html</link>
+            <guid>2978388</guid>
+            <pubDate>Thu, 09 Feb 2023 18:28:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证券日报评论：换把尺子测量上市公司价值】证券日报头版文章称，在上市公司年报的三大报表中，如果说资产负债表是企业的“底子”，利润表是企业的“面子”，那么，现金流量表则是企业的“日子”。企业要实实在在过好日子，就需要长期保持充足的自由现金流量，持续为股东创造更多价值，这才是丈量上市公司价值最合适的尺子。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctke6294673.d.html</link>
@@ -325,21 +337,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6263546.d.html</link>
             <guid>2978295</guid>
             <pubDate>Thu, 09 Feb 2023 15:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯：联合国需要进入叙利亚西北部，现在是时候探索所有途径，让援助和救援人员进入所有受影响地区。]]></title>
-            <guid>2978292</guid>
-            <pubDate>Thu, 09 Feb 2023 15:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trian Partners联合创始人Peltz表示，迪斯尼的代理权之争已经结束。]]></title>
-            <guid>2978291</guid>
-            <pubDate>Thu, 09 Feb 2023 14:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司（Gazprom）有意收购俄罗斯电信运营商MegaFon。]]></title>
-            <guid>2978288</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
