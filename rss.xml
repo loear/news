@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 11 Feb 2023 18:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 19:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国内华达州州长宣布该州因燃料管道泄漏进入紧急状态】美国内华达州州长乔·隆巴多10日晚宣布，该州因燃料管道泄漏事件而进入紧急状态。据悉，美国能源基础设施公司金德摩根位于加利福尼亚州长滩的沃森站内的燃料管道于9日发生泄漏事件，该管道向拉斯维加斯山谷及周边地区供应约90%所需汽油、柴油、喷气燃料和其他精炼石油。金德摩根在一份声明中表示正在对泄漏原因和数量进行调查，此次泄漏事故暂无人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfkmvy5773578.d.html</link>
+            <guid>2980696</guid>
+            <pubDate>Sat, 11 Feb 2023 19:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国人继续抗议养老金改革】法国内政部周六表示，全国各地约有96.3万人抗议拟议中的养老金改革，高于2月7日记录的75.7万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfkmvy5764627.d.html</link>
+            <guid>2980671</guid>
+            <pubDate>Sat, 11 Feb 2023 18:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国纽约市接连发生两起枪击事件 致1死1伤】当地时间2月11日，美国纽约市接连发生两起独立枪击事件，累计造成1人死亡，1人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfkmvy5759863.d.html</link>
+            <guid>2980660</guid>
+            <pubDate>Sat, 11 Feb 2023 18:41:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【叙利亚反对派武装控制区地震死亡人数超2167人】据当地救援队11日晚表示，在叙利亚西北部反对派武装控制区，地震导致超2167人死亡，超2950人受伤，死伤人数或将进一步上升，救援行动还在进行中。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfkfqe2657041.d.html</link>
@@ -505,23 +523,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-11/detail-imyfiqsk5957114.d.html</link>
             <guid>2980410</guid>
             <pubDate>Sat, 11 Feb 2023 11:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其灾害管理局：土耳其地震死亡人数升至20937人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-11/detail-imyfiqsk5952646.d.html</link>
-            <guid>2980408</guid>
-            <pubDate>Sat, 11 Feb 2023 11:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社11日最新报道，世界卫生组织总干事谭德塞已抵达叙利亚地震重灾区阿勒颇。（环球网）]]></title>
-            <guid>2980407</guid>
-            <pubDate>Sat, 11 Feb 2023 11:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通裕重工大型高压鼠笼式异步电机轴顺利交付】 据通裕重工消息，近日，某客户大型高压鼠笼式异步电机轴在通裕成功下线。该电机轴系目前世界较大的24.6MW齿轮箱测试平台的核心部件，轴长5.6米，最大直径1.1米，轴身的8处鸽尾加工工序复杂且难度大。该产品涉及国内知名客户的重大风电项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-11/detail-imyfiqsk5937978.d.html</link>
-            <guid>2980406</guid>
-            <pubDate>Sat, 11 Feb 2023 11:03:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
