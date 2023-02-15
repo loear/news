@@ -4,11 +4,50 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 15 Feb 2023 20:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 21:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roku流媒体四季度净收入8.671亿美元，分析师预期8.045亿美元。预计一季度净收入7.00亿美元，分析师预期6.871亿美元。预计一季度调整后EBITDA亏损1.10亿美元，分析师预期亏损0.804亿美元。预计一季度毛利润大约3.10亿美元。Roku流媒体（ROKU）美股盘后上涨15.89%。奈飞（NFLX）美股盘后涨0.15%。]]></title>
+            <guid>2987424</guid>
+            <pubDate>Wed, 15 Feb 2023 21:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roblox(RBLX.N)收涨26%，创2021年11月以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvspz2196585.d.html</link>
+            <guid>2987422</guid>
+            <pubDate>Wed, 15 Feb 2023 21:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通交易主管：预计波动率将继续上升，尤其是宏观市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvsqa8966072.d.html</link>
+            <guid>2987415</guid>
+            <pubDate>Wed, 15 Feb 2023 20:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莫桑比克政府宣布投入1000万美元用于洪灾后重建】当地时间2月14日，莫桑比克总统纽西在视察了该国受洪灾最严重的马普托省后向全国发表讲话。他宣布立即拨款1000万美元用于灾后重建活动，并表示政府已经制定了一项“联合应对计划”，在未来7天内为超过5.3万人提供食物和干净饮用水。目前，该国首都马普托市和省内受风暴和洪水影响的人数超过3.9万人，有306所学校受到影响，11.8万名学生无法上课。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvsqa8966018.d.html</link>
+            <guid>2987414</guid>
+            <pubDate>Wed, 15 Feb 2023 20:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌CEO告诉员工：谷歌的某些“顶级”产品“不会优先推向市场”，因为AI压力与日俱增的缘故。]]></title>
+            <guid>2987412</guid>
+            <pubDate>Wed, 15 Feb 2023 20:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洪都拉斯发生里氏5.6级地震 无人员伤亡报告】当地时间15日上午，中美洲国家洪都拉斯近海海域发生里氏5.6级地震，震源深度15公里。当地民防部门表示受地震影响，部分沿海城镇有震感，但没有人员伤亡或财产损失的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvsqa8958840.d.html</link>
+            <guid>2987407</guid>
+            <pubDate>Wed, 15 Feb 2023 20:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股公司GDR发行提速】 同花顺数据显示，截至2月15日发稿，自2022年以来，除10家公司GDR上市外，还有41家公司正在推进GDR发行。另有多家公司披露GDR发行最新进展情况，境外发行GDR步伐加快。目前正在推进GDR发行的41家公司中，共有17家、5家、7家公司分别处于证监会反馈、核准、受理阶段，另有10家公司处于董事会通过或股东大会通过阶段。还有部分公司处于预案、申请证监会审批阶段。从上市地点来看，瑞交所仍是首选，共有36家公司选择于瑞交所上市。（经参）]]></title>
+            <guid>2987404</guid>
+            <pubDate>Wed, 15 Feb 2023 20:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[截至美国东部时间下午2:35，美国有超过8,500份推特服务中断的报告。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvnhe9079832.d.html</link>
@@ -234,58 +273,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvnhc2227349.d.html</link>
             <guid>2987329</guid>
             <pubDate>Wed, 15 Feb 2023 18:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克发推晒狗，竟拉动多款“犬系”加密货币走强】 多款与“狗”相关的加密货币，如狗狗币（DOGE），Floki与柴犬币（SHIB）在周三上涨，其中狗狗币在亚洲时段曾短时跳涨超过3%，而Floki币则劲涨超过50%。此前，马斯克在美国当地时间周二（2月14日）晚间发布推文并配图，称其爱犬Floki将成为推特公司的“杰出CEO”，比其他所有职业经理人都要棒。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyf2348422.d.html</link>
-            <guid>2987324</guid>
-            <pubDate>Wed, 15 Feb 2023 18:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国石油公司计划与赫兹租车 (Hertz)合作建设快速充电基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyf2342882.d.html</link>
-            <guid>2987323</guid>
-            <pubDate>Wed, 15 Feb 2023 17:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国石油公司计划在2030年前在美国各地投资10亿美元在电动汽车充电上。]]></title>
-            <guid>2987321</guid>
-            <pubDate>Wed, 15 Feb 2023 17:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄申请22日召开联合国安理会会议 讨论“北溪”管道事件】俄罗斯常驻联合国第一副代表波利扬斯基称，俄罗斯已向联合国安理会提出申请，要求在2月22日召开会议，以讨论“北溪”管道爆炸事件最新信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyf2339766.d.html</link>
-            <guid>2987320</guid>
-            <pubDate>Wed, 15 Feb 2023 17:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙外交部：西班牙将拨款7500万美元用于与非洲国家的合作，作为“新阶段”关系的一部分，旨在促进非洲大陆的繁荣。]]></title>
-            <guid>2987318</guid>
-            <pubDate>Wed, 15 Feb 2023 17:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威将家庭电力补贴延长至2024年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyh9110899.d.html</link>
-            <guid>2987314</guid>
-            <pubDate>Wed, 15 Feb 2023 17:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空客公司任命Covestro的CFO Thomas Toepfer为财务主管。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyh9110759.d.html</link>
-            <guid>2987313</guid>
-            <pubDate>Wed, 15 Feb 2023 17:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)盘中小幅走低后回涨，现涨0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyf2332504.d.html</link>
-            <guid>2987311</guid>
-            <pubDate>Wed, 15 Feb 2023 17:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国20年期国债收益率涨穿4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-16/detail-imyfvfyf2330504.d.html</link>
-            <guid>2987309</guid>
-            <pubDate>Wed, 15 Feb 2023 17:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
