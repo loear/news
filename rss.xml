@@ -4,11 +4,32 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 17 Feb 2023 18:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 19:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MoffettNathanson：将DocuSign(DOCU.O)目标价从63美元下调至50美元，维持跑输大市评级。]]></title>
+            <guid>2990699</guid>
+            <pubDate>Fri, 17 Feb 2023 19:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：在美国对FTX的调查中，FTX创始人SBF的高级合伙人接近达成认罪协议。]]></title>
+            <guid>2990698</guid>
+            <pubDate>Fri, 17 Feb 2023 19:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist：将ROKU(ROKU.O)目标价从50美元上调至70美元，维持持有评级。]]></title>
+            <guid>2990690</guid>
+            <pubDate>Fri, 17 Feb 2023 18:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将Salesforce(CRM.N)目标价从164美元上调至182美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzyni9121361.d.html</link>
+            <guid>2990689</guid>
+            <pubDate>Fri, 17 Feb 2023 18:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧美充电桩市场快速增长 国内“桩企”出海需求旺盛】海外充电桩毛利率水平高、需求增长快，“桩企”出海持续。连续三年火爆的新能源出口行业，今年保持高增长下，涌现出新商机——新能源车充电桩。阿里国际站最新跨境指数显示，过去一年新能源车充电桩的海外商机快速增长245%，未来还有将近3倍的需求空间。]]></title>
             <guid>2990685</guid>
@@ -197,12 +218,6 @@
             <title><![CDATA[伯恩斯坦：将阿里巴巴(BABA.N)目标价从125美元上调至130美元。]]></title>
             <guid>2990599</guid>
             <pubDate>Fri, 17 Feb 2023 15:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国商务部任命专家成立芯片团队监管半导体制造及研究】美国商务部当日表示，将任命十几名成员成立一个团队，负责监管527亿美元的政府资金，以促进半导体制造和研究。据悉，新成立的团队成员包括具有管理大型联邦项目经验的官员、半导体行业的专家，以及具有金融行业经验的高管。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzpwp9232077.d.html</link>
-            <guid>2990594</guid>
-            <pubDate>Fri, 17 Feb 2023 15:22:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
