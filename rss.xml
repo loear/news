@@ -4,11 +4,72 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 17 Feb 2023 19:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 20:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[科技公司BMC Software据称秘密递交IPO申请，这家获得私募KKR持股的公司目前估值高达150亿美元。]]></title>
+            <guid>2990741</guid>
+            <pubDate>Fri, 17 Feb 2023 20:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：将Shopify(SHOP.N)目标价从50美元上调至55美元，维持买入评级。]]></title>
+            <guid>2990735</guid>
+            <pubDate>Fri, 17 Feb 2023 20:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行：将DoorDash(DASH.N)目标价从60美元上调至75美元。]]></title>
+            <guid>2990733</guid>
+            <pubDate>Fri, 17 Feb 2023 20:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DraftKings(DKNG.O)CEO：曾与娱乐体育节目电视网(ESPN)就更多合作进行讨论。]]></title>
+            <guid>2990719</guid>
+            <pubDate>Fri, 17 Feb 2023 19:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benchmark：将DraftKings(DKNG.O)目标价上调至23美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzyni9164331.d.html</link>
+            <guid>2990718</guid>
+            <pubDate>Fri, 17 Feb 2023 19:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DraftKings(DKNG.O)CEO：公司专注于削减成本，提高效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzyni9161241.d.html</link>
+            <guid>2990715</guid>
+            <pubDate>Fri, 17 Feb 2023 19:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：推特将允许用户调整算法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzyni9158885.d.html</link>
+            <guid>2990713</guid>
+            <pubDate>Fri, 17 Feb 2023 19:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：将Roblox(RBLX.N)目标价从45美元上调至55美元，维持买入评级。]]></title>
+            <guid>2990710</guid>
+            <pubDate>Fri, 17 Feb 2023 19:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将DoorDash(DASH.N)目标价从65美元上调至75美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzynm5927910.d.html</link>
+            <guid>2990705</guid>
+            <pubDate>Fri, 17 Feb 2023 19:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国二手车价格重拾快速上涨】据美国最大汽车线上线下（O2O）交易平台Cox Automotive统计，追踪二手车拍卖价格的Manheim（美瀚）二手车价值指数显示，今年2月的头15天里，该指数较1月同期上涨4.1%，创2009年2月全月环比涨4.4%以来的最大2月涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzynm5926310.d.html</link>
+            <guid>2990702</guid>
+            <pubDate>Fri, 17 Feb 2023 19:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登的政治助手Carla Frank即将离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzynm5920612.d.html</link>
+            <guid>2990700</guid>
+            <pubDate>Fri, 17 Feb 2023 19:19:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MoffettNathanson：将DocuSign(DOCU.O)目标价从63美元下调至50美元，维持跑输大市评级。]]></title>
             <guid>2990699</guid>
@@ -166,58 +227,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyfzuem9138133.d.html</link>
             <guid>2990629</guid>
             <pubDate>Fri, 17 Feb 2023 16:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：微软(MSFT.O)计划在早期向广告商推销人工智能广告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzuep5904677.d.html</link>
-            <guid>2990623</guid>
-            <pubDate>Fri, 17 Feb 2023 15:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[招商蛇口：公司拟发行股份数量不超过发行前公司总股本的30%，募集资金金额不超过85亿元。]]></title>
-            <guid>2990622</guid>
-            <pubDate>Fri, 17 Feb 2023 15:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将道富银行(STT.N)目标价从88美元上调至91美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzuep5897628.d.html</link>
-            <guid>2990619</guid>
-            <pubDate>Fri, 17 Feb 2023 15:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将贝莱德(BLK.N)目标价从857美元上调至884美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzuep5897529.d.html</link>
-            <guid>2990618</guid>
-            <pubDate>Fri, 17 Feb 2023 15:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[币安正在重新评估于美国的VC投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzpwr6022702.d.html</link>
-            <guid>2990614</guid>
-            <pubDate>Fri, 17 Feb 2023 15:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其地震灾区损毁严重建筑物已达61722座】土耳其环境、城市化和气候变化部长库鲁姆当地时间2月17日表示，截至目前，政府相关部门已派出超过7000名人员在地震灾区进行损毁评估工作，已排查建筑物481685座，其中损毁严重的建筑物达61722座，需要紧急拆除，另有19917座建筑物中度受损。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzpwp9244307.d.html</link>
-            <guid>2990611</guid>
-            <pubDate>Fri, 17 Feb 2023 15:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行：将应用材料(AMAT.O)目标价从130美元上调至135美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzpwp9243618.d.html</link>
-            <guid>2990608</guid>
-            <pubDate>Fri, 17 Feb 2023 15:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【直径800米小行星以每秒24公里速度掠过地球】莫斯科时间16日凌晨，一颗直径800米的行星以每秒24公里的速度掠过地球。位于赤道以南的国家，如南非、澳大利亚、新西兰等国的居民能看到它。这颗小行星被命名为2005YY128，此前科学家用模拟程序展示了它的运动轨迹，他们对该行星的观察已持续17年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-17/detail-imyfzpwr6014264.d.html</link>
-            <guid>2990601</guid>
-            <pubDate>Fri, 17 Feb 2023 15:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦：将阿里巴巴(BABA.N)目标价从125美元上调至130美元。]]></title>
-            <guid>2990599</guid>
-            <pubDate>Fri, 17 Feb 2023 15:27:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
