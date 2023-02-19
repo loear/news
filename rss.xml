@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 Feb 2023 15:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 16:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[今日重点关注的财经数据与事件：2023年2月20日 周一（因美国总统日，美股休市，CME旗下合约提前收市）① 09:15 中国至2月20日一年期贷款市场报价利率。]]></title>
+            <guid>2991863</guid>
+            <pubDate>Sun, 19 Feb 2023 16:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美官员：美国暂无计划结束对乌援助】美国白宫国家安全委员会战略沟通协调员约翰·柯比当日在接受采访时表示，美国目前没有计划结束对乌克兰的援助支持。他还援引拜登此前言论称，只要乌克兰需要，美国就会继续支持乌克兰。据悉，自2022年初俄乌冲突升级以来，美国已经向乌克兰提供了超过1130亿美元的援助支持。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhhhkm5296751.d.html</link>
+            <guid>2991856</guid>
+            <pubDate>Sun, 19 Feb 2023 15:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本防盗商品热销】最新数据显示，去年日本刑事案件20年来首次出现增加，当地民众的不安情绪随之增加，防患意识助推防盗商品热销。在日本东京市区的一家商场，店方在醒目位置设置了防盗用品专柜，包括感应灯、红外报警器、监控探头在内，共有上百种相关商品，售价从约合人民币几十元到几千元不等。由于入室盗窃以撬门和砸窗为主，店内销售的防盗用品中，用于门窗的相关设备最多，占到整体的八成以上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhhhki8503603.d.html</link>
+            <guid>2991828</guid>
+            <pubDate>Sun, 19 Feb 2023 15:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟更新税收司法管辖区名单 BVI首次被列入黑名单】根据欧盟理事会官网发布的公告，此次更新的名单决定将英属维尔京群岛（BVI）、哥斯达黎加、马绍尔群岛和俄罗斯四个税收管辖区列入欧盟税收不合作黑名单，其中BVI是2017年欧盟理事会发布首份“税收非合作司法管辖区名单”以来首次“入围”的地区。欧盟理事会相关人士在公告中称，BVI被列入黑名单，主要是因为其没有充分遵守经合组织（OECD）关于应要求交换信息的标准，即评级标准没有被全球透明度和税收信息交换论坛评为“基本合规”。]]></title>
+            <guid>2991814</guid>
+            <pubDate>Sun, 19 Feb 2023 15:24:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【拓维信息：公司在人工智能领域与华为全面合作 携手华为参与全国各地的人工智能计算中心建设】拓维信息近日在机构电话会议表示，公司作为华为唯一“昇腾 AI/鲲鹏计算+开源鸿蒙操作系统”的战略合作伙伴，未来将在AI领域进行更多探索。公司兆瀚RA5900系列是基于鲲鹏处理器和昇腾处理器的AI训练服务器，主要应用于深度学习模型开发和训练，具有高计算密度、高能效比等优点，可以运用在AIGC、算力中心、数据中心等场景使用，目前已应用于长沙人工智能创新中心、重庆人工智能创新中心、全国一体化算力网络国家(贵州)主枢纽中心等项目中。公司在人工智能领域与华为全面合作。在AI产品方面，公司控股子公司湘江鲲鹏拥有华为昇腾整机伙伴授权，基于鲲鹏处理器和昇腾处理器，先后发布AI推理、AI训练、AI小站、AI集群、智能边缘等数十款兆瀚AI产品，并携手华为参与全国各地的人工智能计算中心建设。在 AI 技术与行业应用方面，公司作为华为“昇腾智造”及“昇腾智行”双领域解决方案合作伙伴，先后推出基于昇腾的 AI 稽核、AI质检等解决方案产品。目前，公司主要聚焦盘古大模型算力基础设施的建设，后续将结合行业客户的发展需求，推出行业发行版。]]></title>
             <guid>2991799</guid>
@@ -461,24 +483,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhfrnt5365012.d.html</link>
             <guid>2991649</guid>
             <pubDate>Sun, 19 Feb 2023 08:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟外交与安全政策高级代表博雷利：西方必须增加和加快对乌克兰的军事支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhfrnt5364922.d.html</link>
-            <guid>2991648</guid>
-            <pubDate>Sun, 19 Feb 2023 08:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兵器工业集团与南京航空航天大学签署战略合作框架协议】根据协议，双方将在兵器领域战略研究、重大项目联合攻关、科技成果转化、创新平台建设、创新人才培养等方面开展深入合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhfrnr8586431.d.html</link>
-            <guid>2991647</guid>
-            <pubDate>Sun, 19 Feb 2023 08:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东玻纤：拟择机出售200千克铑粉】山东玻纤公告称，为盘活存量资产，进一步提高资产运营质量，公司拟将贵金属铑粉进行出售。同时授权公司总经理及其指定的授权代理人，在遵守相关法律法规条件下，根据公司发展战略、贵金属市场情况择机出售200千克铑粉。授权事项包括但不限于确定交易方式、交易时机、交易数量、交易价格、签署相关协议等，授权期限自本次董事会审议通过之日起12个月内。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhfrnr8583091.d.html</link>
-            <guid>2991646</guid>
-            <pubDate>Sun, 19 Feb 2023 08:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
