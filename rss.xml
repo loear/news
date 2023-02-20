@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Feb 2023 20:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 21:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[韩国2月消费者信心指数为90.2，前值90.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhmafc5065970.d.html</link>
+            <guid>2993524</guid>
+            <pubDate>Mon, 20 Feb 2023 21:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间2月20日晚，中国驻土耳其使馆发布安全警告，提醒在土中国公民注意防范地震和次生灾害。（央视）]]></title>
+            <guid>2993522</guid>
+            <pubDate>Mon, 20 Feb 2023 21:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道，美国俄亥俄州贝德福德市一家金属制造厂发生大爆炸，造成多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkvxf5184774.d.html</link>
+            <guid>2993521</guid>
+            <pubDate>Mon, 20 Feb 2023 20:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受土耳其哈塔伊省地震影响 黎巴嫩所有学校关闭一天】当地时间2月20日晚，黎巴嫩教育和高教部长阿巴斯·哈拉比宣布，黎境内所有学校在2月21日关闭一天，以检查校舍等建筑物是否存在裂缝等安全威胁。20日早些时候，土耳其哈塔伊省连续发生两次地震，距离震中数百公里的黎巴嫩全境有震感，北部地区震感强烈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkvxf5169490.d.html</link>
+            <guid>2993520</guid>
+            <pubDate>Mon, 20 Feb 2023 20:30:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其内政部长：哈塔伊省地震已致3死213伤】 土耳其内政部长索伊卢当地时间2月20日晚表示，当天发生在该国哈塔伊省的地震已导致3人死亡、213人受伤。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkvxc8386438.d.html</link>
@@ -300,23 +323,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkrri5163149.d.html</link>
             <guid>2993431</guid>
             <pubDate>Mon, 20 Feb 2023 16:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：目前还没有对特斯拉运营选址做出任何决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkrri5142813.d.html</link>
-            <guid>2993422</guid>
-            <pubDate>Mon, 20 Feb 2023 16:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：特斯拉应该在墨西哥有水资源和服务资源的地方设立其基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-21/detail-imyhkrri5140678.d.html</link>
-            <guid>2993421</guid>
-            <pubDate>Mon, 20 Feb 2023 16:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部：伊朗高度重视与国际原子能机构的专业合作】 伊朗外交部发言人卡纳尼20日在记者会上说，伊朗高度重视与国际原子能机构的专业合作，致力于遵守《不扩散核武器条约》和机构全面保障监督协定。卡纳尼当天回应有媒体援引国际原子能机构消息源报道伊朗生产丰度为84%的浓缩铀时说，伊朗希望国际原子能机构在伊朗核活动问题上表现专业，与包括伊朗在内的成员国在专业的框架内进行合作。双方正在计划国际原子能机构代表团访问伊朗的行程。（新华网）]]></title>
-            <guid>2993420</guid>
-            <pubDate>Mon, 20 Feb 2023 16:24:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
