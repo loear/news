@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Feb 2023 18:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 19:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【比亚迪启动年内首次降价 由“保利润”向“稳份额”转变】2023年的新能源车市波澜起伏。此前选择逆势涨价的比亚迪如今启动了年内首次降价，以期稳住现有市场份额并冲击更高的销量目标。“保利润”还是“稳份额”，比亚迪用行动给出了答案。从北京、上海和杭州等地的比亚迪经销商处获悉，比亚迪王朝系列产品已经降价，交车周期较去年出现不同程度的缩短。截至2月26日，比亚迪暂未通过官方渠道公布降价讯息。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiakpi8185758.d.html</link>
+            <guid>3001552</guid>
+            <pubDate>Sun, 26 Feb 2023 19:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管点名“伪市值管理” 上市公司须树立正确观念】近日，证监会公开部分对2022年全国人大代表建议的回复。其中，“伪市值管理”被再次点名，表明监管部门对资本市场违法违规行为的“零容忍”态度。华东政法大学国际金融法律学院教授郑彧表示，“伪市值管理”的本质是借市值管理之名，行操纵市场之实，涉及上市公司实控人、掮客、私募机构等多方主体，要秉持“有一起查处一起”的理念，向市场持续传递强监管信号。同时，要进一步健全异常交易预警机制，提早识别风险。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiakpm4945738.d.html</link>
+            <guid>3001551</guid>
+            <pubDate>Sun, 26 Feb 2023 18:47:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒调查：2021年以来美国童工劳动力呈爆炸式增长】根据一项调查发现，移民儿童在没有父母监护的情况下进入美国的人数达到了创纪录的水平，这些儿童最终从事的是违反童工法律的工作。童工劳动力遍布全美各州的各个行业，包括在屠宰场从事高危清洁工作和制造汽车零部件。据报道，自2021年以来，美国童工劳动力呈爆炸式增长，2022年无人监护的未成年人进入美国的人数攀升至13万人，这一数字是五年前的三倍，预计今年夏天将继续攀升。报道称，美国旨在保护儿童的体系已经崩溃。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiakpm4931245.d.html</link>
@@ -461,18 +473,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzx5108176.d.html</link>
             <guid>3001144</guid>
             <pubDate>Sun, 26 Feb 2023 07:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度AI数字人希加加亮相全球人工智能开发者先锋大会 讲述AIGC新未来】2月25日至26日，2023全球人工智能开发者先锋大会（GAIDC）在上海临港召开。百度AI数字人希加加以AIGC首席架构师身份发表演讲《神奇大模型之AIGC：人人皆是天才创造者》，为人类嘉宾朋友们讲解百度文心大模型在AIGC领域的运用，分享她的“心路历程”。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzx5103850.d.html</link>
-            <guid>3001143</guid>
-            <pubDate>Sun, 26 Feb 2023 07:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【格灵深瞳：2022年净利3299.69万元 同比扭亏】格灵深瞳发布业绩快报，2022年实现营业总收入3.54亿元，同比增长20.47%；净利润3299.69万元，上年同期亏损6841.77万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzv8326576.d.html</link>
-            <guid>3001142</guid>
-            <pubDate>Sun, 26 Feb 2023 07:53:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
