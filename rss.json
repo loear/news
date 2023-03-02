@@ -6,6 +6,71 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3008681,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprez7706369.d.html",
+            "title": "戴尔：本季度客户解决方案业务同比下降23%至134亿美元。",
+            "date_modified": "2023-03-02T21:17:33.000Z"
+        },
+        {
+            "id": 3008680,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprez7706038.d.html",
+            "title": "公布财报后，C3.ai(AI.N)盘后超10%。",
+            "date_modified": "2023-03-02T21:16:47.000Z"
+        },
+        {
+            "id": 3008679,
+            "content_html": "",
+            "title": "区块链公司Riot Platforms Inc.（RIOT）美股盘后下跌4%，该公司推迟向美国证券交易委员会（SEC）递交10 K报告。",
+            "date_modified": "2023-03-02T21:16:05.000Z"
+        },
+        {
+            "id": 3008677,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4479405.d.html",
+            "title": "公布财报后，戴尔盘后涨超6%。",
+            "date_modified": "2023-03-02T21:13:22.000Z"
+        },
+        {
+            "id": 3008676,
+            "content_html": "",
+            "title": "迈威尔科技2023财年Q4营收（亿美元）：前值13.43，预期14，公布14.19。",
+            "date_modified": "2023-03-02T21:11:09.000Z"
+        },
+        {
+            "id": 3008675,
+            "content_html": "",
+            "title": "戴尔科技四季度调整后EPS为1.80美元，分析师预期1.64美元。四季度调整后净收入250.4亿美元，分析师预期234.3亿美元。戴尔美股盘后上涨8.0%。",
+            "date_modified": "2023-03-02T21:10:34.000Z"
+        },
+        {
+            "id": 3008674,
+            "content_html": "",
+            "title": "Zscaler第二财季收入3.876亿美元，分析师预期3.654亿美元。预计全年收入15.6亿美元，公司先前预计15.3亿美元。预计第三财季收入3.96-3.98亿美元，分析师预期3.874亿美元。Zscaler美股盘后下跌8.83%。",
+            "date_modified": "2023-03-02T21:09:23.000Z"
+        },
+        {
+            "id": 3008659,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4471884.d.html",
+            "title": "Silvergate收跌58%，创该公司美国IPO以来最大单日跌幅。",
+            "date_modified": "2023-03-02T21:01:40.000Z"
+        },
+        {
+            "id": 3008655,
+            "content_html": "",
+            "title": "【Piper Sandler：将Zoom(ZM.O)目标价从75美元上调至78美元 维持中性评级】Piper Sandler分析师James Fish将Zoom的目标价从75美元上调至78美元，并对该股维持中性评级。该分析师在一份研究报告中告诉投资者，第四季度的销售业绩略高于计划，因为Zoom继续在在线客户群中找到一些稳定性，Zoom Phone和Zoom Contact Center等关键产品领域继续看到强劲的应用。分析师表示，尽管看空者将指出，领先指标将继续减速，2024财年的收入增长仅为1%，但Zoom 2024年的利润率仍高于预期，甚至对宣布的裁员进行了调整。",
+            "date_modified": "2023-03-02T20:40:29.000Z"
+        },
+        {
+            "id": 3008651,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4453857.d.html",
+            "title": "12名美国参议员重新提出将夏令时永久化的法案。",
+            "date_modified": "2023-03-02T20:26:59.000Z"
+        },
+        {
             "id": 3008650,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4451615.d.html",
@@ -184,146 +249,6 @@
             "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7830477.d.html",
             "title": "AMC院线(AMC.N)的投资者将于3月14日对股票变动进行投票。",
             "date_modified": "2023-03-02T17:38:21.000Z"
-        },
-        {
-            "id": 3008581,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7829834.d.html",
-            "title": "嘉年华邮轮公司于2024年在欧洲上市的融资规模将相比预期进一步扩大。",
-            "date_modified": "2023-03-02T17:36:55.000Z"
-        },
-        {
-            "id": 3008580,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4605218.d.html",
-            "title": "【短暂会晤10分钟，美国务卿布林肯向俄外长提了三点】美国官员称，布林肯和拉夫罗夫在印度新德里举行的G20会议间隙，聊了大约10分钟。一位匿名美国高级官员表示，布林肯利用这次会谈，向拉夫罗夫提出三点：1.美国会一直支持乌克兰直至危机结束。2.俄罗斯应该改变暂停履行《新削减战略武器条约》的决定。3.莫斯科应释放在俄被关押的美国公民韦兰(Paul Whelan)。截至目前，俄罗斯方面对二人此次会晤尚未发表评论。据悉，这是布林肯与拉夫罗夫自2022年夏天以来的首次接触。（中国新闻网）",
-            "date_modified": "2023-03-02T17:35:20.000Z"
-        },
-        {
-            "id": 3008579,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4603759.d.html",
-            "title": "Silvergate跌幅扩大至50%，创上市以来新低。",
-            "date_modified": "2023-03-02T17:33:54.000Z"
-        },
-        {
-            "id": 3008578,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7825046.d.html",
-            "title": "加密货币公司Gemini：正在密切关注Silvergate的情况。",
-            "date_modified": "2023-03-02T17:31:21.000Z"
-        },
-        {
-            "id": 3008577,
-            "content_html": "",
-            "title": "加密货币公司Gemini：目前存放在Silvergate的客户资金与GUSD资金为零。",
-            "date_modified": "2023-03-02T17:31:15.000Z"
-        },
-        {
-            "id": 3008576,
-            "content_html": "",
-            "title": "加密货币公司Gemini：已停止通过加密货币交易银行Silvergate接受客户存款。",
-            "date_modified": "2023-03-02T17:29:47.000Z"
-        },
-        {
-            "id": 3008575,
-            "content_html": "",
-            "title": "【中泰证券冯艺东：降低北交所投资门槛，建设全国统一碳交易所，加大REITs发行盘活城投资产】今年的全国两会，全国政协委员、中泰证券总经理冯艺东将提交近十份与资本市场及经济领域有关的提案。内容涉及：优化北京证券交易所配套制度、优化碳减排政策体系、妥善化解城投公司债务风险、压实全面注册制下各方市场主体责任、完善境外上市企业股权激励政策、优化个人养老金配套制度、绿色金融等多方面。据悉，作为第十三、十四届全国政协委员，冯艺东深入调查研究，积极建言献策，5年多来提交了近70项提案，涉及股票发行注册制改革、多层次资本市场建设、能源安全、金融风险防范、绿色发展、依法治国、基层社会治理、素质教育等诸多领域。",
-            "date_modified": "2023-03-02T17:23:02.000Z"
-        },
-        {
-            "id": 3008574,
-            "content_html": "",
-            "title": "市场消息：加密货币平台Crypto.com暂停通过Silvergate进行美元转账。",
-            "date_modified": "2023-03-02T17:19:11.000Z"
-        },
-        {
-            "id": 3008573,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4588148.d.html",
-            "title": "【福特汽车计划3月13日重启F-150 Lightning纯电动皮卡的生产】福特汽车计划在3月13日重启F-150 Lightning纯电动皮卡的生产，一个多月前，一辆该型号汽车因电池问题起火。福特周四表示，公司的生产安排将使其电池供应商SK On重新开始生产并交付电动皮卡的电池组。据悉，电池起火事件发生时车辆正在充电，并正在进行交货前质量检查。福特便暂停了该型号汽车的生产，并向经销商发出了停运通知。",
-            "date_modified": "2023-03-02T17:08:31.000Z"
-        },
-        {
-            "id": 3008572,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7809997.d.html",
-            "title": "【商务部：全年安排“6+12+52+N”消费活动】商务部部长王文涛表示，“消费提振年”具体安排是“6+12+52+N”。串起来以后，“季季有主题、月月有展会、周周有场景”，确保全年消费活动不断、精彩纷呈，形成波浪式的消费热潮。",
-            "date_modified": "2023-03-02T17:06:18.000Z"
-        },
-        {
-            "id": 3008571,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7808495.d.html",
-            "title": "【意大利南部海域移民船只沉没事故死亡人数升至68人】据当地媒体3月2日报道，2月26日意大利南部卡拉布里亚大区克罗托内市附近海域发生的移民船只沉没事故中，死亡人数已上升至68人。",
-            "date_modified": "2023-03-02T17:04:52.000Z"
-        },
-        {
-            "id": 3008570,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7807111.d.html",
-            "title": "诺基亚：为确保能够继续投资于必要的研发工作，总现金至少占销售额的30%。",
-            "date_modified": "2023-03-02T17:03:31.000Z"
-        },
-        {
-            "id": 3008567,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7804953.d.html",
-            "title": "摩根士丹利：将Rivian的目标价从28美元下调至26美元。",
-            "date_modified": "2023-03-02T16:59:54.000Z"
-        },
-        {
-            "id": 3008566,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7804871.d.html",
-            "title": "福特汽车计划在3月13日重启F-150 Lightning纯电动皮卡的生产。",
-            "date_modified": "2023-03-02T16:59:34.000Z"
-        },
-        {
-            "id": 3008565,
-            "content_html": "",
-            "title": "中国地震台网正式测定：03月03日00时48分在台湾宜兰县海域（北纬24.52度，东经121.92度）发生4.1级地震，震源深度11千米。",
-            "date_modified": "2023-03-02T16:59:02.000Z"
-        },
-        {
-            "id": 3008564,
-            "content_html": "",
-            "title": "中国地震台网自动测定：03月03日00时48分在台湾宜兰县附近（北纬24.58度，东经121.84度）发生4.3级左右地震，最终结果以正式速报为准。",
-            "date_modified": "2023-03-02T16:56:24.000Z"
-        },
-        {
-            "id": 3008560,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7794723.d.html",
-            "title": "【沪渝蓉高铁汉江特大桥全面进入主塔施工】沪渝蓉沿江高铁节点工程钟祥汉江铁路特大桥316号主墩承台3月2日顺利封底，标志着该桥水下施工及主墩封底全部完成，进入主塔施工阶段。",
-            "date_modified": "2023-03-02T16:42:59.000Z"
-        },
-        {
-            "id": 3008559,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4570808.d.html",
-            "title": "加拿大自然资源公司：若天然气价格进一步下跌，可能将减少天然气钻井数量。",
-            "date_modified": "2023-03-02T16:40:48.000Z"
-        },
-        {
-            "id": 3008556,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7788927.d.html",
-            "title": "【私募比特资产随意跨越5%的举牌线，实控人李勇被罚超3000万元】近日，证监会公布一则行政处罚书显示，浙江比特资产管理有限公司的实控人、原执行董事李勇控制17个证券账户，超比例持股及限制期内交易“陕西金叶”，两项违规合计被处罚3050万元。从持股及交易情况来看，李勇控制账户组持股最高达到总股本的7.42%，累计成交额超过10亿元，但长期未履行信披义务。而定期报告数据亦显示，李勇所控制账户曾数次现身于陕西金叶前十大股东名单中。（中国基金报）",
-            "date_modified": "2023-03-02T16:35:35.000Z"
-        },
-        {
-            "id": 3008552,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7779399.d.html",
-            "title": "美国民主党参议员曼钦：债务违约不是一个可行的选项，也不会发生。",
-            "date_modified": "2023-03-02T16:27:48.000Z"
-        },
-        {
-            "id": 3008551,
-            "content_html": "",
-            "title": "Coinbase(COIN.O)跌幅扩大至7%，据悉该公司切断了与Silvergate的财务关系。",
-            "date_modified": "2023-03-02T16:21:49.000Z"
         }
     ]
 }
