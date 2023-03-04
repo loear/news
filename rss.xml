@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 04 Mar 2023 02:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 03:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【东风汽车：全新一代商乘通用燃料电池产品完成公告】东风汽车消息，东风在氢能领域又有新成果。东风公司自主研发的东风氢元H2·One 130燃料电池系统日前已经完成公告，各项参数均达行业领先水平，标志着东风公司在氢能和燃料电池产业化发展进程中又迈出了坚实一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyismae1405079.d.html</link>
+            <guid>3010533</guid>
+            <pubDate>Sat, 04 Mar 2023 03:06:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国计划对海外技术投资制定新的规则。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyismae1390922.d.html</link>
@@ -250,24 +256,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1404443.d.html</link>
             <guid>3010434</guid>
             <pubDate>Fri, 03 Mar 2023 21:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI工具Stable Diffusion以40亿美元的估值寻求资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4619834.d.html</link>
-            <guid>3010431</guid>
-            <pubDate>Fri, 03 Mar 2023 21:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【步步高董事长王填：建议将消费类基础设施纳入公募REITs资产池】“将优质的消费类基础设施纳入公募REITs资产池，一方面将极大改善商业不动产存量空间，帮助企业降低资产负债率；另一方面，将丰富资本市场投资品种，为投资者提供具备稳定收益的投资产品，改善和优化居民的投资结构。”全国政协委员、步步高董事长王填表示。今年全国两会，王填准备的建议聚焦消费类基础设施领域的变革、百货零售业的高质量发展等问题。王填表示，消费是经济增长的核心拉动力之一。消费类基础设施作为承接居民消费行为、释放居民消费潜力的重要载体，在扩大内需、促进消费方面不可或缺。随着消费类基础设施持续完善、优质供给日益增加、居民消费不断升级，消费的市场活力有望被进一步激发。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1392271.d.html</link>
-            <guid>3010427</guid>
-            <pubDate>Fri, 03 Mar 2023 21:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会民主党议员：拜登总统若是批准石油开采项目，将会背弃其抗击气候变暖的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4613627.d.html</link>
-            <guid>3010425</guid>
-            <pubDate>Fri, 03 Mar 2023 21:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
