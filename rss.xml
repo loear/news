@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 05 Mar 2023 16:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 17:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国总理朔尔茨在接受采访时表示，德国计划长期扩大主要武器和弹药的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak3981943.d.html</link>
+            <guid>3011793</guid>
+            <pubDate>Sun, 05 Mar 2023 16:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：英国联合工会取消救护车工人罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak3980775.d.html</link>
+            <guid>3011792</guid>
+            <pubDate>Sun, 05 Mar 2023 16:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【十四届全国人大设立10个专门委员会】十四届全国人大一次会议第一次全体会议5日表决通过了大会关于设立十四届全国人大专门委员会的决定，决定设立10个专门委员会。这10个专门委员会是：民族委员会、宪法和法律委员会、监察和司法委员会、财政经济委员会、教育科学文化卫生委员会、外事委员会、华侨委员会、环境与资源保护委员会、农业与农村委员会、社会建设委员会。各专门委员会由主任委员、副主任委员若干人、委员若干人组成。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak3965423.d.html</link>
@@ -253,12 +265,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0907787.d.html</link>
             <guid>3011605</guid>
             <pubDate>Sun, 05 Mar 2023 11:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其外长：土方正致力于延长黑海运粮协议】当地时间3月5日，土耳其外交部长恰武什奥卢在多哈参加第五次联合国最不发达国家问题会议时称，土耳其正在为顺利实施和进一步延长黑海港口农产品外运协议而努力。当地时间3月1日，恰武什奥卢与俄罗斯外长拉夫罗夫在印度新德里举行会晤，双方讨论了延长粮食协议的前景。俄方强调，只有在俄罗斯农民和化肥商的利益获得考虑、俄农产品和化肥产品“不受阻碍”地进入世界市场的前提下，俄方才会继续执行协议。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0899608.d.html</link>
-            <guid>3011599</guid>
-            <pubDate>Sun, 05 Mar 2023 10:57:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
