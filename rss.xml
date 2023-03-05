@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 05 Mar 2023 18:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 19:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国佐治亚州发生枪击事件 致2死6伤】当地时间3月4日晚，美国佐治亚州亚特兰大市郊区一处住宅发生枪击事件，造成2人死亡、6人受伤。事发时100多名青少年正聚集在一起参加派对。截至5日上午，当地警方表示没有嫌疑人被捕，尚不清楚是否有多人实施了枪击，案件还在进一步调查中。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwhkh3907381.d.html</link>
+            <guid>3011853</guid>
+            <pubDate>Sun, 05 Mar 2023 18:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国际货币基金组织代表：塞尔维亚应继续收紧货币政策。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4029662.d.html</link>
@@ -265,18 +271,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0913511.d.html</link>
             <guid>3011607</guid>
             <pubDate>Sun, 05 Mar 2023 11:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：南非总统将于下周一宣布新内阁成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmes4131004.d.html</link>
-            <guid>3011606</guid>
-            <pubDate>Sun, 05 Mar 2023 11:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欣贺股份：具备抑菌、抗菌、抗病毒等功能的第一批口罩产品已上架】公司相关布料的抑菌、抗菌、抗病毒等功能已经福建省纤维检验中心检测确认，具备上述功能的第一批口罩产品已于3月2日在天猫JORYA官方旗舰店和抖音JORYAweekend官方旗舰店上架，后续相关产品也在规划逐步推入市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0907787.d.html</link>
-            <guid>3011605</guid>
-            <pubDate>Sun, 05 Mar 2023 11:10:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
