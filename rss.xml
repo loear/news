@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 05 Mar 2023 20:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 21:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：菲律宾棉兰老岛发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwnsh0622748.d.html</link>
+            <guid>3011992</guid>
+            <pubDate>Sun, 05 Mar 2023 21:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国2月外汇储备 4252.9亿美元，前值4299.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwnse3845229.d.html</link>
+            <guid>3011988</guid>
+            <pubDate>Sun, 05 Mar 2023 21:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以数字京津冀引领三地高质量协同发展】京津冀协同发展9年“成绩单”近日发布。9年里，三地携手在交通、生态、产业、公共服务等重点领域实现新突破。专家表示，面对已经到来的数字新时代，推进京津冀数字经济发展，是适应区域竞争新变化的客观要求。“可以说，‘数字京津冀’将成为京津冀高质量协同发展的战略制高点。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwnse3843843.d.html</link>
+            <guid>3011983</guid>
+            <pubDate>Sun, 05 Mar 2023 20:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧盟委员会主席冯德莱恩：正就禁售燃油车的禁令进行建设性对话。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwhkk0735026.d.html</link>
@@ -258,23 +276,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivrnq4035962.d.html</link>
             <guid>3011646</guid>
             <pubDate>Sun, 05 Mar 2023 12:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星湖科技被纳入沪股通标的名单】日前，港交所宣布进一步扩大互联互通股票标的范围，去年底完成重大资产重组的星湖科技将于3月13日起被纳入沪股通标的名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0924660.d.html</link>
-            <guid>3011621</guid>
-            <pubDate>Sun, 05 Mar 2023 11:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罕见暖热下周迎最高点 强冷空气也将登场或达寒潮级别】中央气象台中期预报显示，9日至12日，将有一股强冷空气自西向东侵袭我国，西北、华北部分地区将有沙尘天气，南方地区将出现较大范围降雨过程，西北及中东部部分地区气温下降幅度可达10~16℃。由于前期大幅偏暖制造极大降温空间，预计这股强冷空气或可达寒潮级别，3月上旬偏暖少雨的天气格局将彻底扭转，11日至12日影响到中东部大部并造成气温急速下跌，多地的累计降温幅度可以超过15℃甚至20℃，气温短短两天内将由异常偏高转为偏低水平。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmes4143064.d.html</link>
-            <guid>3011617</guid>
-            <pubDate>Sun, 05 Mar 2023 11:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来实习生遭同事强奸未遂后未获留用，律师：拒绝理由要合理合法】蔚来“实习生事件”仍在发酵。3月3日，网名为“雪糕今天拉了吗”（以下简称“雪糕”）的网友在社交平台发帖称，自己在蔚来汽车工作期间被同事徐某强奸未遂。目前，徐某因强奸罪获刑10个月，但“雪糕”却被公司人事认为是“一个有风险的人”“会影响公司形象”而被拒绝留用。3月5日中午，新京报记者致电蔚来客服，工作人员表示，目前公司已经成立了调查小组，具体结果以官方发布的情况为准。（新京报）]]></title>
-            <guid>3011615</guid>
-            <pubDate>Sun, 05 Mar 2023 11:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
