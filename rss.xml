@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 05 Mar 2023 17:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 18:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[国际货币基金组织代表：塞尔维亚应继续收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4029662.d.html</link>
+            <guid>3011849</guid>
+            <pubDate>Sun, 05 Mar 2023 18:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十大券商策略：“两会行情”可期！A股积极因素正逐步累积 关注国企改革、数字经济】中金公司：A股积极因素正逐步累积，两会期间关注政策方向；海通证券：从两会报告看产业亮点，数字经济代表的成长空间或更大；财通证券：“两会行情”可期，国企改革有望助推上证50；中信证券：增量资金入场，把握中大盘成长的黄金配置窗口。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4004757.d.html</link>
+            <guid>3011797</guid>
+            <pubDate>Sun, 05 Mar 2023 17:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国总理朔尔茨在接受采访时表示，德国计划长期扩大主要武器和弹药的产能。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak3981943.d.html</link>
