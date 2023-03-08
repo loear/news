@@ -6,6 +6,92 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3017336,
+            "content_html": "",
+            "title": "美国总统拜登的预算将通过降低药品价格节省（至少）数十亿美元（面向医疗保险的财政开支）。",
+            "date_modified": "2023-03-08T21:18:59.000Z"
+        },
+        {
+            "id": 3017335,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0095313.d.html",
+            "title": "美国总统拜登的预算案将增加对违反劳动法的处罚。",
+            "date_modified": "2023-03-08T21:18:50.000Z"
+        },
+        {
+            "id": 3017334,
+            "content_html": "",
+            "title": "美国运通(AXP.N)：董事会批准将季度股息提高0.08美元（15%）至0.60美元/股。",
+            "date_modified": "2023-03-08T21:18:43.000Z"
+        },
+        {
+            "id": 3017333,
+            "content_html": "",
+            "title": "据相关文件显示，美国总统拜登的预算案将集中更多资源用于追查与政府项目有关的欺诈行为。",
+            "date_modified": "2023-03-08T21:18:37.000Z"
+        },
+        {
+            "id": 3017332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3318090.d.html",
+            "title": "据相关文件显示，美国总统拜登的预算案还将取消对房地产的“同类资产置换条款”补贴。",
+            "date_modified": "2023-03-08T21:18:31.000Z"
+        },
+        {
+            "id": 3017331,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3318039.d.html",
+            "title": "美国运通(AXP.N)：董事会批准根据公司资本计划回购最多1.2亿股普通股。",
+            "date_modified": "2023-03-08T21:18:22.000Z"
+        },
+        {
+            "id": 3017326,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0089964.d.html",
+            "title": "标普：确认南非BB-/B评级，前景展望上修至稳定。",
+            "date_modified": "2023-03-08T21:08:12.000Z"
+        },
+        {
+            "id": 3017323,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0087591.d.html",
+            "title": "市场消息：Uber(UBER.N)据悉考虑分拆货运物流部门。",
+            "date_modified": "2023-03-08T21:03:41.000Z"
+        },
+        {
+            "id": 3017322,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0086821.d.html",
+            "title": "Uber(UBER.N)盘后拉升，现涨2.4%。",
+            "date_modified": "2023-03-08T21:02:55.000Z"
+        },
+        {
+            "id": 3017318,
+            "content_html": "",
+            "title": "英国石油公司（BP）首席经济学家Dale：美国对其战略石油储备（SPR）的释放与回报操作带来的影响可能会外溢到全球能源市场。",
+            "date_modified": "2023-03-08T20:57:23.000Z"
+        },
+        {
+            "id": 3017317,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0080211.d.html",
+            "title": "石油交易商贡渥集团（Gunvor）表示他们仍在对冲美国天然气。",
+            "date_modified": "2023-03-08T20:44:16.000Z"
+        },
+        {
+            "id": 3017316,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3300968.d.html",
+            "title": "花旗集团(C.N)CFO：本季度投资银行业务下降约四成。",
+            "date_modified": "2023-03-08T20:40:15.000Z"
+        },
+        {
+            "id": 3017314,
+            "content_html": "",
+            "title": "市场消息：美国民营航天公司航天公司Relativity Space宣布推迟其首款3D打印火箭的测试发射。此前该公司曾宣布会在美国当地时间3月8日首飞全球首款全3D打印的火箭。",
+            "date_modified": "2023-03-08T20:24:46.000Z"
+        },
+        {
             "id": 3017312,
             "content_html": "",
             "title": "壳牌石油：将抗诉巴西政府的石油出口税政策，因该国政府事件未就此事咨询过生产商的意见。巴西征收石油出口税的措施将给投资带来巨大的不确定性。",
@@ -256,78 +342,6 @@
             "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3338160.d.html",
             "title": "【加拿大皇家银行CFO：正寻在特定领域缩减招聘规模】加拿大皇家银行CFO表示，公司正寻在特定领域缩减招聘规模；正聚焦于提升运营效率，以推动收益增长；公司在抵押贷款领域的资产负债表状况预计仍将保持健康。",
             "date_modified": "2023-03-08T17:19:18.000Z"
-        },
-        {
-            "id": 3017236,
-            "content_html": "",
-            "title": "Alphabet(GOOG.O、GOOGL.O)CFO承诺，公司将提供人工智能服务“组合”。",
-            "date_modified": "2023-03-08T17:17:25.000Z"
-        },
-        {
-            "id": 3017233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3336900.d.html",
-            "title": "【美国加州将再遭遇风暴袭击 部分地区大雨或引发洪水】据报道，加州在本周将再遭遇风暴袭击，部分地区的强降雨可能导致山洪暴发。美国国家气象局警告说，“大气河流”天气现象和冬季风暴的结合将给加州带来雨雪天气，预计将引发洪水泛滥和进一步的暴风雪。（央视）",
-            "date_modified": "2023-03-08T17:16:05.000Z"
-        },
-        {
-            "id": 3017231,
-            "content_html": "",
-            "title": "市场消息：波音(BA.N)有意在即将开展的美国国家安全发射采购计划中提供商业版太空发射系统火箭。",
-            "date_modified": "2023-03-08T17:15:37.000Z"
-        },
-        {
-            "id": 3017229,
-            "content_html": "",
-            "title": "谷歌(GOOG.O、GOOGL.O)：将在未来几周内将VPN访问扩展到所有Google One云储存服务方案，订阅起价为1.99美元/月。",
-            "date_modified": "2023-03-08T17:14:22.000Z"
-        },
-        {
-            "id": 3017228,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3333910.d.html",
-            "title": "【坐住坐稳基础研究“冷板凳”——代表委员热议科技自立自强】 政府工作报告提出，科技政策要聚焦自立自强。如何让科研人员坐住坐稳基础研究“冷板凳”？代表委员认为，要从人才评价导向、多元资金投入、创新环境优化等方面厚植基础研究的“土壤”。“要科学设置合理考核周期，注重长期考核，着眼于长期突破，而非短期目标，为科研人员静下心来‘十年磨一剑’创造安稳的环境。”中国电子科技集团公司第三十八研究所所长张成伟代表说。“支持科技创新，要‘计之深远’。”合肥市市长罗云峰代表说，地方政府要营造宽容失败、支持长周期创新的环境，在资金支持、资源配给等方面给予最大支持。“只要用心浇灌、精心培育、耐心等待，创新之花终将在春天绚烂绽放。”（新华网）",
-            "date_modified": "2023-03-08T17:11:16.000Z"
-        },
-        {
-            "id": 3017227,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykexpp0110349.d.html",
-            "title": "通用汽车的目标是今年在美国生产36000辆凯迪拉克首款纯电车型LYRIQ，比原定目标低9%，部分原因是电池供应比预期紧张。",
-            "date_modified": "2023-03-08T17:09:50.000Z"
-        },
-        {
-            "id": 3017222,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imykexpp0107675.d.html",
-            "title": "USDA月报公布后，CBOT大豆、玉米、豆粕、小麦主力合约均短线上涨。",
-            "date_modified": "2023-03-08T17:04:01.000Z"
-        },
-        {
-            "id": 3017220,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imyketfr0237854.d.html",
-            "title": "【美国农业部维持棉花库存、出口、产量预期不变】 美国农业部（USDA）：预计美国棉花期末库存450亿蒲式耳，分析师预期426万捆，USDA之前预计430万捆。预计美国棉花出口1200万捆，分析师预期1205万捆，USDA之前预计1200万捆。预计美国棉花产量1468万捆，分析师预期1466万捆，USDA之前预计1468万捆。",
-            "date_modified": "2023-03-08T17:03:27.000Z"
-        },
-        {
-            "id": 3017218,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-09/detail-imyketfp3460191.d.html",
-            "title": "【美国农业部维持棉花库存、出口、产量预期不变】 美国农业部（USDA）：预计美国棉花期末库存450亿蒲式耳，分析师预期426万捆，USDA之前预计430万捆。预计美国棉花出口1200万捆，分析师预期1205万捆，USDA之前预计1200万捆。预计美国棉花产量1468万捆，分析师预期1466万捆，USDA之前预计1468万捆。",
-            "date_modified": "2023-03-08T17:02:52.000Z"
-        },
-        {
-            "id": 3017217,
-            "content_html": "",
-            "title": "市场消息：人机交互技术开发公司Humane获得1亿美元融资，并与OpenAI及微软达成合作伙伴关系。",
-            "date_modified": "2023-03-08T16:59:35.000Z"
-        },
-        {
-            "id": 3017216,
-            "content_html": "",
-            "title": "美国能源公司Sempra总裁：美国液化天然气受到基础设施限制，而不是产能限制，允许改革将解决这一问题。",
-            "date_modified": "2023-03-08T16:59:07.000Z"
         }
     ]
 }

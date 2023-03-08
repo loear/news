@@ -4,11 +4,84 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 08 Mar 2023 20:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 21:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登的预算将通过降低药品价格节省（至少）数十亿美元（面向医疗保险的财政开支）。]]></title>
+            <guid>3017336</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登的预算案将增加对违反劳动法的处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0095313.d.html</link>
+            <guid>3017335</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运通(AXP.N)：董事会批准将季度股息提高0.08美元（15%）至0.60美元/股。]]></title>
+            <guid>3017334</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据相关文件显示，美国总统拜登的预算案将集中更多资源用于追查与政府项目有关的欺诈行为。]]></title>
+            <guid>3017333</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据相关文件显示，美国总统拜登的预算案还将取消对房地产的“同类资产置换条款”补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3318090.d.html</link>
+            <guid>3017332</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运通(AXP.N)：董事会批准根据公司资本计划回购最多1.2亿股普通股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3318039.d.html</link>
+            <guid>3017331</guid>
+            <pubDate>Wed, 08 Mar 2023 21:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认南非BB-/B评级，前景展望上修至稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0089964.d.html</link>
+            <guid>3017326</guid>
+            <pubDate>Wed, 08 Mar 2023 21:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Uber(UBER.N)据悉考虑分拆货运物流部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0087591.d.html</link>
+            <guid>3017323</guid>
+            <pubDate>Wed, 08 Mar 2023 21:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uber(UBER.N)盘后拉升，现涨2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0086821.d.html</link>
+            <guid>3017322</guid>
+            <pubDate>Wed, 08 Mar 2023 21:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司（BP）首席经济学家Dale：美国对其战略石油储备（SPR）的释放与回报操作带来的影响可能会外溢到全球能源市场。]]></title>
+            <guid>3017318</guid>
+            <pubDate>Wed, 08 Mar 2023 20:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[石油交易商贡渥集团（Gunvor）表示他们仍在对冲美国天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvm0080211.d.html</link>
+            <guid>3017317</guid>
+            <pubDate>Wed, 08 Mar 2023 20:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团(C.N)CFO：本季度投资银行业务下降约四成。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykfcvi3300968.d.html</link>
+            <guid>3017316</guid>
+            <pubDate>Wed, 08 Mar 2023 20:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民营航天公司航天公司Relativity Space宣布推迟其首款3D打印火箭的测试发射。此前该公司曾宣布会在美国当地时间3月8日首飞全球首款全3D打印的火箭。]]></title>
+            <guid>3017314</guid>
+            <pubDate>Wed, 08 Mar 2023 20:24:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[壳牌石油：将抗诉巴西政府的石油出口税政策，因该国政府事件未就此事咨询过生产商的意见。巴西征收石油出口税的措施将给投资带来巨大的不确定性。]]></title>
             <guid>3017312</guid>
@@ -222,67 +295,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3338160.d.html</link>
             <guid>3017237</guid>
             <pubDate>Wed, 08 Mar 2023 17:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alphabet(GOOG.O、GOOGL.O)CFO承诺，公司将提供人工智能服务“组合”。]]></title>
-            <guid>3017236</guid>
-            <pubDate>Wed, 08 Mar 2023 17:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州将再遭遇风暴袭击 部分地区大雨或引发洪水】据报道，加州在本周将再遭遇风暴袭击，部分地区的强降雨可能导致山洪暴发。美国国家气象局警告说，“大气河流”天气现象和冬季风暴的结合将给加州带来雨雪天气，预计将引发洪水泛滥和进一步的暴风雪。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3336900.d.html</link>
-            <guid>3017233</guid>
-            <pubDate>Wed, 08 Mar 2023 17:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：波音(BA.N)有意在即将开展的美国国家安全发射采购计划中提供商业版太空发射系统火箭。]]></title>
-            <guid>3017231</guid>
-            <pubDate>Wed, 08 Mar 2023 17:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌(GOOG.O、GOOGL.O)：将在未来几周内将VPN访问扩展到所有Google One云储存服务方案，订阅起价为1.99美元/月。]]></title>
-            <guid>3017229</guid>
-            <pubDate>Wed, 08 Mar 2023 17:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【坐住坐稳基础研究“冷板凳”——代表委员热议科技自立自强】 政府工作报告提出，科技政策要聚焦自立自强。如何让科研人员坐住坐稳基础研究“冷板凳”？代表委员认为，要从人才评价导向、多元资金投入、创新环境优化等方面厚植基础研究的“土壤”。“要科学设置合理考核周期，注重长期考核，着眼于长期突破，而非短期目标，为科研人员静下心来‘十年磨一剑’创造安稳的环境。”中国电子科技集团公司第三十八研究所所长张成伟代表说。“支持科技创新，要‘计之深远’。”合肥市市长罗云峰代表说，地方政府要营造宽容失败、支持长周期创新的环境，在资金支持、资源配给等方面给予最大支持。“只要用心浇灌、精心培育、耐心等待，创新之花终将在春天绚烂绽放。”（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykexpm3333910.d.html</link>
-            <guid>3017228</guid>
-            <pubDate>Wed, 08 Mar 2023 17:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车的目标是今年在美国生产36000辆凯迪拉克首款纯电车型LYRIQ，比原定目标低9%，部分原因是电池供应比预期紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykexpp0110349.d.html</link>
-            <guid>3017227</guid>
-            <pubDate>Wed, 08 Mar 2023 17:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USDA月报公布后，CBOT大豆、玉米、豆粕、小麦主力合约均短线上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imykexpp0107675.d.html</link>
-            <guid>3017222</guid>
-            <pubDate>Wed, 08 Mar 2023 17:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国农业部维持棉花库存、出口、产量预期不变】 美国农业部（USDA）：预计美国棉花期末库存450亿蒲式耳，分析师预期426万捆，USDA之前预计430万捆。预计美国棉花出口1200万捆，分析师预期1205万捆，USDA之前预计1200万捆。预计美国棉花产量1468万捆，分析师预期1466万捆，USDA之前预计1468万捆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imyketfr0237854.d.html</link>
-            <guid>3017220</guid>
-            <pubDate>Wed, 08 Mar 2023 17:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国农业部维持棉花库存、出口、产量预期不变】 美国农业部（USDA）：预计美国棉花期末库存450亿蒲式耳，分析师预期426万捆，USDA之前预计430万捆。预计美国棉花出口1200万捆，分析师预期1205万捆，USDA之前预计1200万捆。预计美国棉花产量1468万捆，分析师预期1466万捆，USDA之前预计1468万捆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-09/detail-imyketfp3460191.d.html</link>
-            <guid>3017218</guid>
-            <pubDate>Wed, 08 Mar 2023 17:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：人机交互技术开发公司Humane获得1亿美元融资，并与OpenAI及微软达成合作伙伴关系。]]></title>
-            <guid>3017217</guid>
-            <pubDate>Wed, 08 Mar 2023 16:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源公司Sempra总裁：美国液化天然气受到基础设施限制，而不是产能限制，允许改革将解决这一问题。]]></title>
-            <guid>3017216</guid>
-            <pubDate>Wed, 08 Mar 2023 16:59:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
