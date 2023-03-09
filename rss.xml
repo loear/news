@@ -4,11 +4,82 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 09 Mar 2023 20:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 21:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)：上调季度现金股息25%至0.4美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9775148.d.html</link>
+            <guid>3018766</guid>
+            <pubDate>Thu, 09 Mar 2023 21:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)：第三财季调整后运营利润51.9亿美元，市场预期51亿美元；调整后运营利润率42%，市场预期41.2%。]]></title>
+            <guid>3018759</guid>
+            <pubDate>Thu, 09 Mar 2023 21:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)：第三财季调整后营收124亿美元，市场预期124.1亿美元。]]></title>
+            <guid>3018758</guid>
+            <pubDate>Thu, 09 Mar 2023 21:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)：第三财季云计算及认证支持业务营收89.2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9772209.d.html</link>
+            <guid>3018757</guid>
+            <pubDate>Thu, 09 Mar 2023 21:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，DocuSign(DOCU.O)盘后涨2.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9772187.d.html</link>
+            <guid>3018756</guid>
+            <pubDate>Thu, 09 Mar 2023 21:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DocuSign(DOCU.O)2023财年Q4营收（亿美元）：前值5.81，预期6.32，公布6.6。]]></title>
+            <guid>3018755</guid>
+            <pubDate>Thu, 09 Mar 2023 21:10:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)2023财年Q3净利润（亿美元）：前值23.19，预期20.56，公布18.96。]]></title>
+            <guid>3018754</guid>
+            <pubDate>Thu, 09 Mar 2023 21:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)2023财年Q3营收（亿美元）：前值105.13，预期124.24，公布123.98。]]></title>
+            <guid>3018752</guid>
+            <pubDate>Thu, 09 Mar 2023 21:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，甲骨文(ORCL.N)盘后跌2.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9770931.d.html</link>
+            <guid>3018751</guid>
+            <pubDate>Thu, 09 Mar 2023 21:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文(ORCL.N)：第三财季调整后每股盈利为1.22美元，市场预期1.2美元。]]></title>
+            <guid>3018750</guid>
+            <pubDate>Thu, 09 Mar 2023 21:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：总统拜登将会见加拿大总理特鲁多，讨论防务合作和北美航空航天防御司令部现代化问题，此外还将讨论俄乌问题。]]></title>
+            <guid>3018746</guid>
+            <pubDate>Thu, 09 Mar 2023 21:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部表示考虑建立氢能交易中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipaf2985794.d.html</link>
+            <guid>3018734</guid>
+            <pubDate>Thu, 09 Mar 2023 20:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰研究：将SEA(SE.N)目标价从87美元上调至92美元，维持买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykipaf2984572.d.html</link>
+            <guid>3018727</guid>
+            <pubDate>Thu, 09 Mar 2023 20:45:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加密货币交易所KuCoin在美国纽约州监管机构发起的加密货币行业整顿行动中被起诉。]]></title>
             <guid>3018699</guid>
@@ -204,78 +275,6 @@
             <title><![CDATA[嘉信理财跌幅扩大至11%，创2022年4月18日以来最大盘中跌幅。在标普500金融板块的成分股中，硅谷银行（SIVB）跌幅扩大至51.2%，第一共和银行（FRC）跌超15.7%。]]></title>
             <guid>3018609</guid>
             <pubDate>Thu, 09 Mar 2023 18:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金融业运行稳健风险收敛 金融稳定保障体系持续强化】当前，我国金融风险总体收敛，为应对“风高浪急”和困难挑战赢得了时间与空间。一些重大金融风险被妥善化解，难处置的“硬骨头”最终被“啃”下，过去野蛮生长的金融乱象得到遏制。更可贵的是，着眼于长远的金融风险防控体制机制建设正有力推进。加强金融法治建设，使防范化解金融风险的工作迈上制度化、法治化轨道意义重大。今年全国两会期间，金融系统代表委员聚焦金融风险处置机制、存款保险制度、征信体系建设等领域，以真知灼见助力金融稳定保障体系完善。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihui3054595.d.html</link>
-            <guid>3018605</guid>
-            <pubDate>Thu, 09 Mar 2023 18:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国加州州长及检察长起诉了该州橙县（Orange County）地方政府，称当地政府在城市规模方面的不当措施将窒息州政府为了重振房地产市场而付出的努力。]]></title>
-            <guid>3018603</guid>
-            <pubDate>Thu, 09 Mar 2023 18:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韦德布什：将CrowdStrike(CRWD.O)目标价从135美元上调至145美元，维持跑赢大市评级。]]></title>
-            <guid>3018601</guid>
-            <pubDate>Thu, 09 Mar 2023 18:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国地质勘探局，巴布亚新几内亚PANGUNA以南89公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9830360.d.html</link>
-            <guid>3018600</guid>
-            <pubDate>Thu, 09 Mar 2023 18:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京向埃及总统概述了俄罗斯对粮食一揽子协议的态度，强调了全面实施这些协议的必要性。]]></title>
-            <guid>3018598</guid>
-            <pubDate>Thu, 09 Mar 2023 18:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[壳牌CEO：基本面表明油价将上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9827608.d.html</link>
-            <guid>3018597</guid>
-            <pubDate>Thu, 09 Mar 2023 18:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[壳牌CEO：业绩和纪律是股票估值的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihui3050382.d.html</link>
-            <guid>3018595</guid>
-            <pubDate>Thu, 09 Mar 2023 18:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将CrowdStrike(CRWD.O)目标价从115美元上调至130美元 维持持有评级。]]></title>
-            <guid>3018590</guid>
-            <pubDate>Thu, 09 Mar 2023 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：加密货币经纪公司Blockchain.com已暂停其资产管理部门相关工作。]]></title>
-            <guid>3018588</guid>
-            <pubDate>Thu, 09 Mar 2023 18:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司称，在Penly-1和Cattenom-3两座核反应堆上都发现了因为应力疲劳而产生的细微裂纹。]]></title>
-            <guid>3018587</guid>
-            <pubDate>Thu, 09 Mar 2023 18:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华特迪士尼CEO：公司肯定会考虑在自己的平台上对内容进行窗口化和排他性处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9820332.d.html</link>
-            <guid>3018586</guid>
-            <pubDate>Thu, 09 Mar 2023 18:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国商务部长雷蒙多和印度电子和信息技术部长瓦什纳讨论芯片合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9820293.d.html</link>
-            <guid>3018585</guid>
-            <pubDate>Thu, 09 Mar 2023 18:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据欧洲地中海地震中心，所罗门群岛发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykianm3170061.d.html</link>
-            <guid>3018579</guid>
-            <pubDate>Thu, 09 Mar 2023 18:01:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

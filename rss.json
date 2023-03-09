@@ -6,6 +6,90 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3018766,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9775148.d.html",
+            "title": "甲骨文(ORCL.N)：上调季度现金股息25%至0.4美元/股。",
+            "date_modified": "2023-03-09T21:15:11.000Z"
+        },
+        {
+            "id": 3018759,
+            "content_html": "",
+            "title": "甲骨文(ORCL.N)：第三财季调整后运营利润51.9亿美元，市场预期51亿美元；调整后运营利润率42%，市场预期41.2%。",
+            "date_modified": "2023-03-09T21:12:03.000Z"
+        },
+        {
+            "id": 3018758,
+            "content_html": "",
+            "title": "甲骨文(ORCL.N)：第三财季调整后营收124亿美元，市场预期124.1亿美元。",
+            "date_modified": "2023-03-09T21:10:50.000Z"
+        },
+        {
+            "id": 3018757,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9772209.d.html",
+            "title": "甲骨文(ORCL.N)：第三财季云计算及认证支持业务营收89.2亿美元。",
+            "date_modified": "2023-03-09T21:10:30.000Z"
+        },
+        {
+            "id": 3018756,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9772187.d.html",
+            "title": "公布财报后，DocuSign(DOCU.O)盘后涨2.38%。",
+            "date_modified": "2023-03-09T21:10:26.000Z"
+        },
+        {
+            "id": 3018755,
+            "content_html": "",
+            "title": "DocuSign(DOCU.O)2023财年Q4营收（亿美元）：前值5.81，预期6.32，公布6.6。",
+            "date_modified": "2023-03-09T21:10:18.000Z"
+        },
+        {
+            "id": 3018754,
+            "content_html": "",
+            "title": "甲骨文(ORCL.N)2023财年Q3净利润（亿美元）：前值23.19，预期20.56，公布18.96。",
+            "date_modified": "2023-03-09T21:09:41.000Z"
+        },
+        {
+            "id": 3018752,
+            "content_html": "",
+            "title": "甲骨文(ORCL.N)2023财年Q3营收（亿美元）：前值105.13，预期124.24，公布123.98。",
+            "date_modified": "2023-03-09T21:08:30.000Z"
+        },
+        {
+            "id": 3018751,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipah9770931.d.html",
+            "title": "公布财报后，甲骨文(ORCL.N)盘后跌2.63%。",
+            "date_modified": "2023-03-09T21:06:45.000Z"
+        },
+        {
+            "id": 3018750,
+            "content_html": "",
+            "title": "甲骨文(ORCL.N)：第三财季调整后每股盈利为1.22美元，市场预期1.2美元。",
+            "date_modified": "2023-03-09T21:06:40.000Z"
+        },
+        {
+            "id": 3018746,
+            "content_html": "",
+            "title": "美国白宫：总统拜登将会见加拿大总理特鲁多，讨论防务合作和北美航空航天防御司令部现代化问题，此外还将讨论俄乌问题。",
+            "date_modified": "2023-03-09T21:04:47.000Z"
+        },
+        {
+            "id": 3018734,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipaf2985794.d.html",
+            "title": "美国能源部表示考虑建立氢能交易中心。",
+            "date_modified": "2023-03-09T20:50:12.000Z"
+        },
+        {
+            "id": 3018727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykipaf2984572.d.html",
+            "title": "汇丰研究：将SEA(SE.N)目标价从87美元上调至92美元，维持买入评级。",
+            "date_modified": "2023-03-09T20:45:13.000Z"
+        },
+        {
             "id": 3018699,
             "content_html": "",
             "title": "加密货币交易所KuCoin在美国纽约州监管机构发起的加密货币行业整顿行动中被起诉。",
@@ -235,91 +319,6 @@
             "content_html": "",
             "title": "嘉信理财跌幅扩大至11%，创2022年4月18日以来最大盘中跌幅。在标普500金融板块的成分股中，硅谷银行（SIVB）跌幅扩大至51.2%，第一共和银行（FRC）跌超15.7%。",
             "date_modified": "2023-03-09T18:44:10.000Z"
-        },
-        {
-            "id": 3018605,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihui3054595.d.html",
-            "title": "【金融业运行稳健风险收敛 金融稳定保障体系持续强化】当前，我国金融风险总体收敛，为应对“风高浪急”和困难挑战赢得了时间与空间。一些重大金融风险被妥善化解，难处置的“硬骨头”最终被“啃”下，过去野蛮生长的金融乱象得到遏制。更可贵的是，着眼于长远的金融风险防控体制机制建设正有力推进。加强金融法治建设，使防范化解金融风险的工作迈上制度化、法治化轨道意义重大。今年全国两会期间，金融系统代表委员聚焦金融风险处置机制、存款保险制度、征信体系建设等领域，以真知灼见助力金融稳定保障体系完善。 (上证报)",
-            "date_modified": "2023-03-09T18:37:10.000Z"
-        },
-        {
-            "id": 3018603,
-            "content_html": "",
-            "title": "美国加州州长及检察长起诉了该州橙县（Orange County）地方政府，称当地政府在城市规模方面的不当措施将窒息州政府为了重振房地产市场而付出的努力。",
-            "date_modified": "2023-03-09T18:35:36.000Z"
-        },
-        {
-            "id": 3018601,
-            "content_html": "",
-            "title": "韦德布什：将CrowdStrike(CRWD.O)目标价从135美元上调至145美元，维持跑赢大市评级。",
-            "date_modified": "2023-03-09T18:34:50.000Z"
-        },
-        {
-            "id": 3018600,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9830360.d.html",
-            "title": "据美国地质勘探局，巴布亚新几内亚PANGUNA以南89公里处发生5.1级地震。",
-            "date_modified": "2023-03-09T18:33:53.000Z"
-        },
-        {
-            "id": 3018598,
-            "content_html": "",
-            "title": "克里姆林宫：普京向埃及总统概述了俄罗斯对粮食一揽子协议的态度，强调了全面实施这些协议的必要性。",
-            "date_modified": "2023-03-09T18:27:25.000Z"
-        },
-        {
-            "id": 3018597,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9827608.d.html",
-            "title": "壳牌CEO：基本面表明油价将上涨。",
-            "date_modified": "2023-03-09T18:27:14.000Z"
-        },
-        {
-            "id": 3018595,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihui3050382.d.html",
-            "title": "壳牌CEO：业绩和纪律是股票估值的关键。",
-            "date_modified": "2023-03-09T18:26:38.000Z"
-        },
-        {
-            "id": 3018590,
-            "content_html": "",
-            "title": "德意志银行：将CrowdStrike(CRWD.O)目标价从115美元上调至130美元 维持持有评级。",
-            "date_modified": "2023-03-09T18:15:47.000Z"
-        },
-        {
-            "id": 3018588,
-            "content_html": "",
-            "title": "市场消息：加密货币经纪公司Blockchain.com已暂停其资产管理部门相关工作。",
-            "date_modified": "2023-03-09T18:12:11.000Z"
-        },
-        {
-            "id": 3018587,
-            "content_html": "",
-            "title": "法国电力公司称，在Penly-1和Cattenom-3两座核反应堆上都发现了因为应力疲劳而产生的细微裂纹。",
-            "date_modified": "2023-03-09T18:11:36.000Z"
-        },
-        {
-            "id": 3018586,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9820332.d.html",
-            "title": "华特迪士尼CEO：公司肯定会考虑在自己的平台上对内容进行窗口化和排他性处理。",
-            "date_modified": "2023-03-09T18:11:14.000Z"
-        },
-        {
-            "id": 3018585,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykihuk9820293.d.html",
-            "title": "市场资讯：美国商务部长雷蒙多和印度电子和信息技术部长瓦什纳讨论芯片合作。",
-            "date_modified": "2023-03-09T18:11:07.000Z"
-        },
-        {
-            "id": 3018579,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-10/detail-imykianm3170061.d.html",
-            "title": "据欧洲地中海地震中心，所罗门群岛发生5.3级地震。",
-            "date_modified": "2023-03-09T18:01:18.000Z"
         }
     ]
 }
