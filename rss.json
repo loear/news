@@ -6,6 +6,96 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3020824,
+            "content_html": "",
+            "title": "生物制药公司AC Immune：公司在硅谷银行的存款余额不足10万美元，在联邦存款保险公司赔付范围之内。该公司股价周五收盘跌4.7%。",
+            "date_modified": "2023-03-10T22:14:59.000Z"
+        },
+        {
+            "id": 3020823,
+            "content_html": "",
+            "title": "制药公司Cara Therapeutics称其在硅谷银行没有存款，也未持有该行的证券资产。",
+            "date_modified": "2023-03-10T22:13:06.000Z"
+        },
+        {
+            "id": 3020822,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwie9476951.d.html",
+            "title": "诺福克南方铁路公司与工会达成协议，同意授予参加了工会的员工每年7天带薪病假。",
+            "date_modified": "2023-03-10T22:12:21.000Z"
+        },
+        {
+            "id": 3020821,
+            "content_html": "",
+            "title": "生物制药公司Wave Life Sciences称其在硅谷银行的直接风险敞口规模有限。该公司股价周五收盘下跌6%。",
+            "date_modified": "2023-03-10T22:09:51.000Z"
+        },
+        {
+            "id": 3020820,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwic2695313.d.html",
+            "title": "同行借贷服务金融公司LendingClub，在硅谷银行的风险敞口对公司影响极小；风险敞口限于存款资金，规模约为2100万美元。LendingClub股价周五收盘下跌7.6%。",
+            "date_modified": "2023-03-10T22:02:58.000Z"
+        },
+        {
+            "id": 3020818,
+            "content_html": "",
+            "title": "制药公司Enanta Pharma：公司持有的硅谷银行股份占所有证券资产比重不超过5%，不会对公司现金流及业务造成影响。",
+            "date_modified": "2023-03-10T21:50:28.000Z"
+        },
+        {
+            "id": 3020817,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwie9462787.d.html",
+            "title": "【硅谷银行崩塌令空头一天获利5亿美元，但如何变现利润是难题】硅谷银行周四重挫60%，令做空该股的交易员一天的按市值计价利润达到约5.13亿美元，但他们现在面临的一个挑战是如何平仓。该股周五盘前交易中再度下跌63%，后来停牌，最终联邦存款保险公司宣布接管硅谷银行。“这家银行的倒闭给做空方带来了巨额利润，但现在他们必须经历有时较为艰难的平仓和盯市利润变现过程，”S3 Partners预测分析主管Ihor Dusaniwsky说。“股票借入的资金成本每天都在累积，哪怕是在周末，即使该股已停牌，因此在做空方平仓并归还所借的股票之前，利润将持续减少。”",
+            "date_modified": "2023-03-10T21:49:57.000Z"
+        },
+        {
+            "id": 3020814,
+            "content_html": "",
+            "title": "Precision Biosciences和Macrogenics两家生物科技公司均表示其在硅谷银行没有以存款或证券方式存在的任何风险敞口。",
+            "date_modified": "2023-03-10T21:41:27.000Z"
+        },
+        {
+            "id": 3020813,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwie9457755.d.html",
+            "title": "制药公司ANI Pharma表示，公司未在硅谷银行有任何存款或投资。",
+            "date_modified": "2023-03-10T21:38:33.000Z"
+        },
+        {
+            "id": 3020812,
+            "content_html": "",
+            "title": "制药公司Syros Pharmaceuticals：公司在硅谷银行有两个存款账户。一个资金余额不足25万美元，另一个约有310万美元；公司仍有足够的现金储备，至少可以用到2025年二季度；Syros股价在周五收盘下跌13.3%。",
+            "date_modified": "2023-03-10T21:36:42.000Z"
+        },
+        {
+            "id": 3020811,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwic2676512.d.html",
+            "title": "富时A50期指连续夜盘收涨0.02%，报12971.000点。",
+            "date_modified": "2023-03-10T21:30:06.000Z"
+        },
+        {
+            "id": 3020809,
+            "content_html": "",
+            "title": "福特汽车召回18辆F-150 Lightning电动皮卡，该车型此前发生电池起火。",
+            "date_modified": "2023-03-10T21:27:47.000Z"
+        },
+        {
+            "id": 3020808,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmwic2674934.d.html",
+            "title": "保富银行：公司在风投及加密货币领域没有风险敞口。",
+            "date_modified": "2023-03-10T21:25:01.000Z"
+        },
+        {
+            "id": 3020807,
+            "content_html": "",
+            "title": "美国第一大居民用光伏公司Sunrun收跌12.3%，纽约下午一度重挫大约17.0%，创最近九个月最大跌幅，投资者担心该公司对硅谷银行存在风险敞口。太阳能公司诺凡麦也跌超6.4%，该公司称其对硅谷银行的风险敞口非常小。",
+            "date_modified": "2023-03-10T21:19:40.000Z"
+        },
+        {
             "id": 3020806,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2801067.d.html",
@@ -249,94 +339,6 @@
             "content_html": "",
             "title": "瑞士信贷：瑞士监管部门Finma对董事会主席Axel Lehmann的调查已经结束，不会再启动任何新的监管程序。",
             "date_modified": "2023-03-10T17:57:24.000Z"
-        },
-        {
-            "id": 3020726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9622900.d.html",
-            "title": "苹果公司首席执行官蒂姆·库克：在招聘和支出方面非常谨慎。",
-            "date_modified": "2023-03-10T17:52:04.000Z"
-        },
-        {
-            "id": 3020723,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9620247.d.html",
-            "title": "苹果公司首席执行官蒂姆·库克：在印度看到了难以置信的巨大机遇。",
-            "date_modified": "2023-03-10T17:43:33.000Z"
-        },
-        {
-            "id": 3020721,
-            "content_html": "",
-            "title": "美国加州电网运营商：因风暴天气发布输电紧急状况提示，加州西北部Humboldt县供电可能受影响。",
-            "date_modified": "2023-03-10T17:39:28.000Z"
-        },
-        {
-            "id": 3020720,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2839378.d.html",
-            "title": "【美国金融服务和金融技术公司Brex周四从硅谷银行收到了数十亿美元的资金】美国金融服务和金融技术公司Brex周四（3月9日）从硅谷银行收到了数十亿美元的资金。一位直接了解情况的人士说，Brex周四开设了数千个新账户，总计流入数十亿美元。摩根大通、摩根士丹利和第一共和银行等其他公司周四的资金流入也有所增加，SVB的股价因风投引发的银行挤兑担忧而大幅下跌。存款外流给SVB带来了更大的压力，该公司本周早些时候曾试图筹集股权融资，并积极开展资产出售。周五，该银行被美国联邦存款保险公司接管。",
-            "date_modified": "2023-03-10T17:35:01.000Z"
-        },
-        {
-            "id": 3020719,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9616327.d.html",
-            "title": "美国国会民主党参议员曼钦：风电与太阳能光伏发电当前已是成熟产业。",
-            "date_modified": "2023-03-10T17:34:31.000Z"
-        },
-        {
-            "id": 3020718,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9616287.d.html",
-            "title": "币安：对硅谷银行没有风险敞口，资金是安全的。",
-            "date_modified": "2023-03-10T17:34:25.000Z"
-        },
-        {
-            "id": 3020717,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9615512.d.html",
-            "title": "瑞士信贷：瑞士金融市场监督管理局（FINMA）认为没有必要启动监管程序。",
-            "date_modified": "2023-03-10T17:33:01.000Z"
-        },
-        {
-            "id": 3020715,
-            "content_html": "",
-            "title": "Western Alliance银行表示，截至3月9日，存款总额为615亿美元，存款依然强劲。",
-            "date_modified": "2023-03-10T17:29:10.000Z"
-        },
-        {
-            "id": 3020714,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2829310.d.html",
-            "title": "苹果股价跌0.79%，现报149.40美元。",
-            "date_modified": "2023-03-10T17:23:22.000Z"
-        },
-        {
-            "id": 3020711,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2827092.d.html",
-            "title": "美国世界银行行长候选人Banga：世界银行的扶贫模式已经放缓。",
-            "date_modified": "2023-03-10T17:20:38.000Z"
-        },
-        {
-            "id": 3020709,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2825898.d.html",
-            "title": "美国达美航空将于2023年招聘4000-6000名空乘人员。",
-            "date_modified": "2023-03-10T17:17:10.000Z"
-        },
-        {
-            "id": 3020708,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2820685.d.html",
-            "title": "生物技术公司Rocket Pharmaceuticals：在SVB没有现金存款。",
-            "date_modified": "2023-03-10T17:06:30.000Z"
-        },
-        {
-            "id": 3020707,
-            "content_html": "",
-            "title": "美国共和党参议员Murkowski：国会必须提高债务上限，否则将向世界传递错误的信息。",
-            "date_modified": "2023-03-10T17:05:59.000Z"
         }
     ]
 }
