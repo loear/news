@@ -4,11 +4,68 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 12 Mar 2023 19:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 21:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：如果SVB英国分行的出售失败，英国银行业联合拯救该行的计划将是备选方案，目前英国银行业中的大型银行正在争取政府担保以吸引客户。]]></title>
+            <guid>3022648</guid>
+            <pubDate>Sun, 12 Mar 2023 21:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：PNC金融服务集团和加拿大皇家银行是硅谷银行的早期竞购者，但目前他们已无意竞购。]]></title>
+            <guid>3022647</guid>
+            <pubDate>Sun, 12 Mar 2023 21:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国银行业正在就救助SVB英国分行储户的计划进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imykskpi8819094.d.html</link>
+            <guid>3022646</guid>
+            <pubDate>Sun, 12 Mar 2023 21:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大工业部长发言人：加拿大方面正监测SVB银行的情况，并正与风投机构密切联系。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefm8948222.d.html</link>
+            <guid>3022645</guid>
+            <pubDate>Sun, 12 Mar 2023 21:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Axcelis预计与硅谷银行的关系不会给公司带来重大影响】离子注入设备公司Axcelis Technologies称，预计公司与硅谷银行的关系不会给公司带来重大影响；公司与多家美国和外国银行等机构存在银行业务关系，不存在由硅谷银行倒闭引发的流动性问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefm8945259.d.html</link>
+            <guid>3022644</guid>
+            <pubDate>Sun, 12 Mar 2023 21:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃塞俄比亚统计办公室的数据显示，埃塞俄比亚2月份通货膨胀同比增长率为32.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefp5707392.d.html</link>
+            <guid>3022642</guid>
+            <pubDate>Sun, 12 Mar 2023 20:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间12日晚，白俄罗斯总统卢卡申科抵达伊朗首都德黑兰，开启为期两天的访问。据悉，卢卡申科将同伊朗总统莱希就双边关系及各领域合作等展开会晤和磋商。（央视）]]></title>
+            <guid>3022638</guid>
+            <pubDate>Sun, 12 Mar 2023 20:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伦敦银行确认对硅谷银行英国分行提出了正式收购提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefp5687576.d.html</link>
+            <guid>3022637</guid>
+            <pubDate>Sun, 12 Mar 2023 19:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列风险投资平台OurCrowd从硅谷银行中拿到了几乎所有的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefm8907155.d.html</link>
+            <guid>3022636</guid>
+            <pubDate>Sun, 12 Mar 2023 19:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【投行Jefferies首席执行官：硅谷银行倒闭事件不应该引发系统性危机】投行Jefferies首席执行官Rich Handler在谈到硅谷银行倒闭事件时表示，硅谷银行的存款出现温和减计是现实的；这个事件及本身不应该引发系统性危机；公司正在积极寻找切实可行的解决方案，以帮助存款人获得应收账款预付款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-13/detail-imyksefp5682859.d.html</link>
+            <guid>3022635</guid>
+            <pubDate>Sun, 12 Mar 2023 19:32:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国地区银行最有可能在硅谷银行拍卖中胜出】美国联邦存款保险公司(FDIC)当地时间周六晚间启动了对硅谷银行的拍卖程序，据美国科技媒体The Information报道，地区银行最有可能在在拍卖中获胜，而摩根大通或美国银行等大型银行不大可能竞标成为硅谷银行的买家。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-13/detail-imykrxxr5789076.d.html</link>
@@ -290,59 +347,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9116115.d.html</link>
             <guid>3022202</guid>
             <pubDate>Sun, 12 Mar 2023 10:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金盘科技：1-2月签订订单12.92亿元 同比增长51.87%】金盘科技公告，在我国新能源和产业数字化快速发展的大背景下，公司数字化工厂陆续建成投产，为公司承接订单提供了有力的支撑。2023年度1-2月签订订单12.92亿元，同比增长51.87%。3月1日至今，各业务板块订单依然保持快速增长，已获得订单5.31亿元，其中包含储能系列产品订单3.4亿元，已超过2022全年所获得的储能系列产品订单总额，呈现高速增长的发展趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9114357.d.html</link>
-            <guid>3022201</guid>
-            <pubDate>Sun, 12 Mar 2023 10:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美CEO纳赛尔：未来有兴趣在中国和印度进行收购。考虑包括天然气在内的主要扩张，着眼于全球液化天然气市场的潜在机会。]]></title>
-            <guid>3022197</guid>
-            <pubDate>Sun, 12 Mar 2023 10:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美CEO纳赛尔：Jazan炼油厂的产能为40万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9104475.d.html</link>
-            <guid>3022195</guid>
-            <pubDate>Sun, 12 Mar 2023 10:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美CEO纳赛尔：公司对亚洲主要市场的原油供应没有受到俄罗斯亚洲销售的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzx5876088.d.html</link>
-            <guid>3022194</guid>
-            <pubDate>Sun, 12 Mar 2023 10:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LG新能源CEO据悉开启赴华行程，预计前往南京电池工厂视察生产线】业内人士透露，韩国LG新能源CEO权映寿周日开启在中国的5日商务行程，预计将前往公司在南京的电动汽车电池工厂。据报道，权映寿可能会视察南京工厂的圆柱形电池生产线，并检视将工厂一部分改造为磷酸铁锂电池生产线的计划进展。这家世界第二大电池制造商的目标是在2023年将设施投资额增加50%以上，并使年销售额同比增长25%至30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9098838.d.html</link>
-            <guid>3022193</guid>
-            <pubDate>Sun, 12 Mar 2023 10:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亚盛医药：未在美国硅谷银行或其关联公司有任何存款】亚盛医药在港交所公告，有鉴于近期美国硅谷银行（Silicon Valley Bank）被勒令关闭的事件，公司特此声明，公司自成立以来未曾与美国硅谷银行或其关联公司发生过业务合作。此外，截止本公告日期，公司未在美国硅谷银行或其关联公司有任何存款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9098091.d.html</link>
-            <guid>3022192</guid>
-            <pubDate>Sun, 12 Mar 2023 10:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加科思：硅谷银行现金存款余额不足40万美元，已全部转出】加科思在港交所公告，截至2023年3月9日晚（美国东部时间），集团在硅谷银行的现金存款余额不足40万美元，约占集团总现金及银行结余的0.2%。公司已于2023年3月9日晚（美国东部时间）执行了全部硅谷银行余额转出手续。硅谷银行事件不会对集团产生重大不利影响，集团的业务运营和财务状况保持正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzx5874447.d.html</link>
-            <guid>3022191</guid>
-            <pubDate>Sun, 12 Mar 2023 10:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【土耳其防长：已有约2400万吨粮食通过黑海运粮协议送至有需要的国家】土耳其国防部长阿卡尔当地时间12日表示，目前已有约2400万吨粮食通过黑海港口农产品外运协议运送到有需要的国家。土耳其支持该协议并相信其会继续延长。2022年11月17日，俄外交部宣布将黑海农产品外运协议延长120天。这一协议将于2023年3月18日到期，只有在各方没有正式提出反对的情况下才会继续延长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9091787.d.html</link>
-            <guid>3022188</guid>
-            <pubDate>Sun, 12 Mar 2023 10:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美CEO纳赛尔：对原油市场持谨慎乐观态度，认为中国的需求会增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrhzv9089341.d.html</link>
-            <guid>3022187</guid>
-            <pubDate>Sun, 12 Mar 2023 10:09:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
