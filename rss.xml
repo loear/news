@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 12 Mar 2023 15:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 16:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【从硅谷、伦敦到孟买，SVB风暴波及全球：投资人受惊，初创企业受伤，少数庆幸转出了资金，更多还在焦虑等待】当地时间3月10日，美国监管机构紧急接管了硅谷银行（Silicon Valley Bank，SVB）的资产，美国见证了自2008年金融危机华盛顿互惠银行破产以来最大规模的银行倒闭事件。高樟资本创始人范卫锋在接受采访时认为，这次事件受影响更多的是直接受损的基金和科技公司，这会促使投资人、公司对于资金安全性的黑天鹅风险警惕性提高，因此更多转向和那些享受“大而不倒”待遇的金融机构合作。对于许多初创公司来说，他们面临的现状是账户被冻结，引发资金链断裂、发不起工资的担忧，甚至有的可能将无法维持公司运营。SVB风波仍在蔓延，席卷全球。在伦敦，有企业试图从硅谷银行转账，但无果；在印度，多位企业创始人和投资人甚至已经48小时没睡觉了，有人表示未能收回公司资金，现在只剩下营运资金。 而在美国监管机构迅速接管硅谷银行后，相关事宜正在处理当中。一位在硅谷从事跨境电商的创业人士表示，“有资金存在硅谷银行的公司基本上下周一能拿到25万美元继续发工资，剩下的钱应该最终几个月内能够拿到。钱都是在的，只是流动性差了些。”（每日经济新闻）]]></title>
+            <guid>3022510</guid>
+            <pubDate>Sun, 12 Mar 2023 16:20:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国资委发文，207家入选创建世界一流示范企业和专精特新示范企业名单】 从多家企业和单位获悉，国资委日前下发了《关于印发创建世界一流示范企业和专精特新示范企业名单的通知》。据了解，共有七家国企入选创建世界一流示范企业，200家央地国企入选创建世界一流专精特新示范企业。目前，尽管该名单尚未公开发布，但记者从多家企业和单位了解到，多家国有控股上市公司已确定入围。另据记者获悉，各地国资委和中央企业上报的企业总数超400家，入选概率不到五成。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykrtrr9020493.d.html</link>
@@ -331,29 +336,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykratx9186091.d.html</link>
             <guid>3022170</guid>
             <pubDate>Sun, 12 Mar 2023 09:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【何雪卿：建议大力开展宪法与澳门基本法宣传教育】今年全国两会，澳门特区全国人大代表何雪卿建议，以澳门基本法颁布30周年为契机，大力开展宣传教育，让广大澳门居民进一步认识宪法和基本法，为更好地落实“爱国者治澳”原则打下基础。此外，她还建议推动横琴粤澳深度合作区的政策措施再明确、再细化，让各项政策在基层能够落地开花。（大湾区之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykratx9184647.d.html</link>
-            <guid>3022169</guid>
-            <pubDate>Sun, 12 Mar 2023 09:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[格力地产：2023年1-2 月，公司共实现地产项目签约面积5.8万平方米，同比增加395%；实现签约金额43.27亿元，同比增加1332%。]]></title>
-            <guid>3022168</guid>
-            <pubDate>Sun, 12 Mar 2023 09:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道达尔：法国工厂的罢工仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykratx9182989.d.html</link>
-            <guid>3022167</guid>
-            <pubDate>Sun, 12 Mar 2023 09:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国“龙”飞船载美俄日宇航员安全返航】美国太空探索技术公司的“龙”飞船运载美国、俄罗斯和日本宇航员11日安全返回地球。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykratz5957532.d.html</link>
-            <guid>3022166</guid>
-            <pubDate>Sun, 12 Mar 2023 09:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
