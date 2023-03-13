@@ -6,6 +6,65 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3023971,
+            "content_html": "",
+            "title": "GitLab四季度营收1.229亿美元，预期为1.197亿美元经调整后每股亏损3美分，预期为亏损14美分。公司预计一季度营收1.17-1.18亿美元，市场预期为1.267亿美元预计2024财年全年营收5.29亿-5.33亿美元，市场预期5.873亿美元。预计2024财年全年每股亏损24-29美分，市场预期亏损54美分。GitLab股价盘后暴跌30%。",
+            "date_modified": "2023-03-13T20:19:44.000Z"
+        },
+        {
+            "id": 3023967,
+            "content_html": "",
+            "title": "标普500指数收跌5.83点，跌幅10.15%，报3855.76点。道琼斯工业平均指数收跌90.50点，跌幅0.28%，报31819.14点。纳斯达克综合指数（纳指）收涨49.95点，涨幅0.45%，报11188.84点。费城银行指数（KBW）收盘下跌12%，创2020年3月以来最大跌幅。",
+            "date_modified": "2023-03-13T20:12:09.000Z"
+        },
+        {
+            "id": 3023957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykupni8492476.d.html",
+            "title": "航空器公司Archer确认，硅谷银行破产事件对其业务无影响。",
+            "date_modified": "2023-03-13T20:00:25.000Z"
+        },
+        {
+            "id": 3023954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuiem8619835.d.html",
+            "title": "人工智能驱动平台公司Amesite：确认公司在硅谷银行没有风险敞口。",
+            "date_modified": "2023-03-13T19:52:25.000Z"
+        },
+        {
+            "id": 3023953,
+            "content_html": "",
+            "title": "市场消息：硅谷银行证券（SVB Securities）对首席行政官Joseph gentile目前和以前的角色进行了澄清。",
+            "date_modified": "2023-03-13T19:50:16.000Z"
+        },
+        {
+            "id": 3023950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuiem8610571.d.html",
+            "title": "联合国声明：仍将全力支持黑海粮食倡议，努力促进俄罗斯粮食和化肥出口。",
+            "date_modified": "2023-03-13T19:39:04.000Z"
+        },
+        {
+            "id": 3023949,
+            "content_html": "",
+            "title": "IMF与阿根廷官员在中期贷款（EFF）评审中达成协议，将向该国发放53亿美元援助资金。",
+            "date_modified": "2023-03-13T19:37:23.000Z"
+        },
+        {
+            "id": 3023948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuiem8610094.d.html",
+            "title": "夏威夷银行：公司拥有充足的流动性，资本比率状况强健。",
+            "date_modified": "2023-03-13T19:37:17.000Z"
+        },
+        {
+            "id": 3023945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuiem8601623.d.html",
+            "title": "“新债王”冈拉克：应该避免较低等级信贷。",
+            "date_modified": "2023-03-13T19:18:31.000Z"
+        },
+        {
             "id": 3023939,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuiem8598732.d.html",
@@ -207,70 +266,6 @@
             "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuawp8657172.d.html",
             "title": "意大利上周电力价格下跌16.2%。",
             "date_modified": "2023-03-13T16:38:20.000Z"
-        },
-        {
-            "id": 3023867,
-            "content_html": "",
-            "title": "标准普尔全球市场情报显示，ITRAXX欧洲交叉指数收于460个基点，较上周五上升36个基点，为1月3日以来最高。",
-            "date_modified": "2023-03-13T16:33:14.000Z"
-        },
-        {
-            "id": 3023866,
-            "content_html": "",
-            "title": "银行业云端服务供应商Q2 Holdings：在硅谷银行的存款总额不足5000美元。未持有硅谷银行和Signature Bank的证券资产。",
-            "date_modified": "2023-03-13T16:33:03.000Z"
-        },
-        {
-            "id": 3023865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuawp8651421.d.html",
-            "title": "【风电行业开年延续景气态势，今年料迎业务“大年”】 数据显示，今年1-2月，国内风电开标规模为12.28GW，同比大幅增长112.09%，延续了这几年的持续景气态势。业内人士认为，2023年将迎来风电“大年”，此前风电项目招标后，部分将于今年年底前建成并实现并网发电。随着风电招标量和装机量的增加，上游企业的业绩也有望得到提振。国盛证券电力设备新能源首席分析师杨润思表示：对于整个上游产业链来说，自身的出货同比去年，会有差不多50%到翻倍的增长。 （央视财经）",
-            "date_modified": "2023-03-13T16:29:53.000Z"
-        },
-        {
-            "id": 3023863,
-            "content_html": "",
-            "title": "自动驾驶技术公司Argo AI：在硅谷银行和SilverGate银行都没有风险敞口。",
-            "date_modified": "2023-03-13T16:25:00.000Z"
-        },
-        {
-            "id": 3023862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuawp8646568.d.html",
-            "title": "卡塔尔电力公司将在未来至少7年内继续代该国政府运营国有发电厂。",
-            "date_modified": "2023-03-13T16:24:35.000Z"
-        },
-        {
-            "id": 3023858,
-            "content_html": "",
-            "title": "摩根大通旗下资产与财富管理公司的首席执行官Mary Erdoes因涉案被起诉，将于本周三（3月15日）被公司管理层除名。",
-            "date_modified": "2023-03-13T16:17:23.000Z"
-        },
-        {
-            "id": 3023856,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-14/detail-imykuawr5405534.d.html",
-            "title": "市场消息：俄罗斯官员表示，不反对将粮食协议延长60天。",
-            "date_modified": "2023-03-13T16:03:17.000Z"
-        },
-        {
-            "id": 3023853,
-            "content_html": "",
-            "title": "美国银行业服务公司Bancorp34：有能力继续满足来自银行业的服务需求。公司当前拥有“充足”的可用资金流动性。",
-            "date_modified": "2023-03-13T15:57:38.000Z"
-        },
-        {
-            "id": 3023845,
-            "content_html": "",
-            "title": "网络安全公司Supercom：未在硅谷银行和Signature Bank有风险敞口。",
-            "date_modified": "2023-03-13T15:44:20.000Z"
-        },
-        {
-            "id": 3023844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-13/detail-imykuawr5390489.d.html",
-            "title": "【中国人寿：1-2月累计原保险保费收入更正为约2459亿元】 中国人寿3月13日晚间发布更正公告，公司于2023年1月1日至2023年2月28日期间的累计原保险保费收入应由“约为人民币2412亿元”更正为“约为人民币2459亿元”。",
-            "date_modified": "2023-03-13T15:42:42.000Z"
         }
     ]
 }
