@@ -4,11 +4,67 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 14 Mar 2023 21:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 22:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【朝鲜宣布试射弹道导弹】 据朝中社当地时间3月15日报道，朝鲜于14日试射了弹道导弹。（央视新闻）]]></title>
+            <guid>3025914</guid>
+            <pubDate>Tue, 14 Mar 2023 22:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国监管机构开始征求签名银行潜在买家的兴趣】知情人士透露，美国监管机构已经开始征求签名银行潜在买家的兴趣。联邦存款保险公司已经开设了一个所谓的数据室，以便让潜在买家能够开始对该银行进行尽职调查。在签名银行被监管机构接管之前，侧重加密货币业务的Silvergate和侧重为初创公司服务的硅谷银行都倒闭。纽约州金融服务局的官员称，在监管机构对签名银行管理层失去信心并且储户纷纷取款后，该银行被关闭。签名银行的所有客户存款和几乎所有的公司资产都已转入由FDIC运营的Signature Bridge Bank NA。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8145307.d.html</link>
+            <guid>3025913</guid>
+            <pubDate>Tue, 14 Mar 2023 22:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第四季度经常帐赤字94.58亿纽元，前值赤字102.05亿纽元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8127323.d.html</link>
+            <guid>3025907</guid>
+            <pubDate>Tue, 14 Mar 2023 21:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国会参议员要求监管部门施压硅谷银行高管，从而让他们退还奖金收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8123273.d.html</link>
+            <guid>3025902</guid>
+            <pubDate>Tue, 14 Mar 2023 21:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【燃油车降价销售火爆，业内：部分豪华车品牌的降价实际力度并没有那么大】 近日，湖北地区东风系汽车大规模补贴降价的海报全网刷屏，“去湖北买车”成了车市热门话题。从武汉多家东风汽车4S店处了解到，降价消息发出后，店内客流猛增，用“人满为患”来形容毫不夸张。另外，补贴达9万元的东风雪铁龙C6货源稀缺，部分车型已无现货。有接近东风集团人士称，不少经销商手里的订单量是远多于库存货源的，东风的几个工厂目前已在加班赶订单。多家车企采取了跟进举措，奔驰、宝马、奥迪、别克、比亚迪等在内的超30个汽车品牌通过厂家补贴或经销商降价等方式参与其中。不过有业内人士认为，部分豪华车品牌的降价实际力度并没有那么大，往往叠加其他条件才能享受优惠。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8121052.d.html</link>
+            <guid>3025901</guid>
+            <pubDate>Tue, 14 Mar 2023 21:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地图软件开发商 Life360：在本周一（3月13日）已经重新取得了存放在硅谷银行的公司资金的控制权。]]></title>
+            <guid>3025900</guid>
+            <pubDate>Tue, 14 Mar 2023 21:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[飓风过后，新西兰2023年水果产量预计下降21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8118281.d.html</link>
+            <guid>3025899</guid>
+            <pubDate>Tue, 14 Mar 2023 21:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰食品生产商康维他（Comvita）：在美国的合资公司存放在硅谷银行的资金已经得到了保全。]]></title>
+            <guid>3025898</guid>
+            <pubDate>Tue, 14 Mar 2023 21:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[矿业公司Northern Star：美国阿拉斯加州的Pogo金矿当前暂停运行。矿方正在修理球磨机的马达，预计可能要花费6个星期。]]></title>
+            <guid>3025891</guid>
+            <pubDate>Tue, 14 Mar 2023 21:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：硅谷银行的倒闭或由社交媒体上的言论所诱发】 商业内幕（Business Insider）文章称，美国硅谷银行（SVB）的倒闭或由推特等社交媒体上的言论所诱发，这是第一次在如此情况下发生这样的事。文章写道：“社交媒体，特别是推特（的信息）加深了科技领域从业人员们的不安。（上）周四，在推特上有大概20万条有关硅谷银行的推文被发布出来，其中许多内容都是科技公司的创始人和高管称他们从银行把钱取走了。许多已在硅谷银行存款多年的科技领域从业者都忍不住（从银行取款）。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8112613.d.html</link>
+            <guid>3025890</guid>
+            <pubDate>Tue, 14 Mar 2023 21:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美能源部长：开发Willow油田有助于维持美国的能源独立地位】美国能源部长Jennifer Granholm表示，开发阿拉斯加州的Willow油田有助于维持美国的能源独立地位；在未来许多年里，化石燃料仍将是能源拼图的组成部分；支持美国联邦政府之前做出的批准在阿拉斯加地区进行油气钻井决定。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwti4886633.d.html</link>
@@ -42,6 +98,12 @@
             <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwwtf8105663.d.html</link>
             <guid>3025880</guid>
             <pubDate>Tue, 14 Mar 2023 21:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工业大省挑大梁，稳增长举措力度大落点实】 近段时间，山东、广东、江苏、四川等地积极部署，加快制造业项目投产，保持产业链供应链稳定畅通，培育壮大新兴产业新动能等，持续推动稳工业举措落地显效，进一步巩固工业经济回升向好趋势。工信部赛迪研究院工业经济研究所所长关兵表示，从工业增加值规模看，2022年，江苏、广东、浙江、山东、福建、河南、湖北、四川八个省份占我国工业增加值的比重为56.9%。“稳住这些省份的工业经济，也就稳住了工业的基本盘。”（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwsmm5008878.d.html</link>
+            <guid>3025879</guid>
+            <pubDate>Tue, 14 Mar 2023 20:58:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【两年期加债收益率周二涨20个基点，阿根廷股指收跌超1.9%】 加拿大标普/TSX综合指数收涨0.54%，报19694.16点；小盘股指收涨0.79%，报706.66点。周二（3月14日）北美尾盘，加拿大10年期基准国债收益率涨12.7个基点，报2.896%。两年期加债收益率涨20.2个基点，报3.735%。墨西哥综合指数收跌0.55%，报52722.27点。巴西圣保罗证交所指数收跌0.18%，报10.3万点。巴西雷亚尔兑美元跌0.13%，报5.2540雷亚尔。阿根廷MERVAL指数收跌1.93%，报22.1万点。]]></title>
@@ -190,79 +252,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8283021.d.html</link>
             <guid>3025814</guid>
             <pubDate>Tue, 14 Mar 2023 17:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果（AAPL）股价快速回落，日内涨幅缩窄至不足0.1%，早盘曾一度上涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8272801.d.html</link>
-            <guid>3025810</guid>
-            <pubDate>Tue, 14 Mar 2023 17:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI：我们从实际应用中持续改进GPT-4，已经将之前模型的实际应用经验应用到GPT-4的安全研究和监测系统中。]]></title>
-            <guid>3025809</guid>
-            <pubDate>Tue, 14 Mar 2023 17:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI：在我们的内部评估中，GPT-4对禁止内容的请求做出回应的可能性比GPT-3.5低82%，而做出事实性回应的可能性比GPT-3.5高40%。]]></title>
-            <guid>3025807</guid>
-            <pubDate>Tue, 14 Mar 2023 17:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人民代表大会常务委员会任命名单】 （2023年3月14日第十四届全国人民代表大会常务委员会第一次会议通过）任命刘俊臣、郭振华、何新、胡晓犁、欧阳昌琼为第十四届全国人民代表大会常务委员会副秘书长。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5048869.d.html</link>
-            <guid>3025806</guid>
-            <pubDate>Tue, 14 Mar 2023 17:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Cathie Wood旗舰产品ARKK获2021年4月以来最大资金流入】“木头姐”Cathie Wood管理的旗舰产品获得了廉价资金时代其受欢迎程度达到顶峰以来的最大规模资金流入。根据媒体汇编的隔夜数据，ARK创新ETF上周五吸引了3.97亿美元的资金流入。这是自2021年4月以来最大规模的资金流入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8270089.d.html</link>
-            <guid>3025804</guid>
-            <pubDate>Tue, 14 Mar 2023 17:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：叙利亚总统阿萨德抵达莫斯科，这是自地震以来他首次访问中东以外的地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8269973.d.html</link>
-            <guid>3025803</guid>
-            <pubDate>Tue, 14 Mar 2023 17:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[评级机构标普称，欧洲银行业受硅谷银行危机外溢风险程度有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8266742.d.html</link>
-            <guid>3025802</guid>
-            <pubDate>Tue, 14 Mar 2023 17:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉信理财CEO：公司现在获得大规模资金流入，哪怕公司股价因美国区域性银行股被抛售而遭受重创。]]></title>
-            <guid>3025801</guid>
-            <pubDate>Tue, 14 Mar 2023 17:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登签署扩大枪支购买背景调查的行政令】美国总统拜登当地时间3月14日签署扩大枪支购买背景调查的行政令，以减少美国的大规模枪击暴力事件。根据白宫发布的命令，拜登还要求国会采取额外行动，减少枪支暴力，并敦促联邦贸易委员会发布一份公开报告，分析枪支制造商如何向未成年人销售枪支，以提高公众对非法持有枪支的警醒意识。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5041116.d.html</link>
-            <guid>3025799</guid>
-            <pubDate>Tue, 14 Mar 2023 17:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：在理论上仍可以修复北溪天然气管道。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8263108.d.html</link>
-            <guid>3025798</guid>
-            <pubDate>Tue, 14 Mar 2023 17:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲复兴开发银行首席经济学家：硅谷银行的倒闭不是“雷曼时刻”，美国监管机构已经迅速采取行动限制蔓延范围。]]></title>
-            <guid>3025797</guid>
-            <pubDate>Tue, 14 Mar 2023 17:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自动驾驶汽车公司Cruise创始人Vogt：共享汽车服务公司Uber(UBER.N)和Lyft(LYFT.O)的定价太高，以致只有最有钱的1%人群才能天天乘坐。]]></title>
-            <guid>3025794</guid>
-            <pubDate>Tue, 14 Mar 2023 17:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)CEO博拉：第一季度的汽车销售强于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5033900.d.html</link>
-            <guid>3025788</guid>
-            <pubDate>Tue, 14 Mar 2023 17:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
