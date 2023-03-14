@@ -4,11 +4,89 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 14 Mar 2023 16:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 17:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：在理论上仍可以修复北溪天然气管道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8263108.d.html</link>
+            <guid>3025798</guid>
+            <pubDate>Tue, 14 Mar 2023 17:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲复兴开发银行首席经济学家：硅谷银行的倒闭不是“雷曼时刻”，美国监管机构已经迅速采取行动限制蔓延范围。]]></title>
+            <guid>3025797</guid>
+            <pubDate>Tue, 14 Mar 2023 17:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自动驾驶汽车公司Cruise创始人Vogt：共享汽车服务公司Uber(UBER.N)和Lyft(LYFT.O)的定价太高，以致只有最有钱的1%人群才能天天乘坐。]]></title>
+            <guid>3025794</guid>
+            <pubDate>Tue, 14 Mar 2023 17:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：第一季度的汽车销售强于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5033900.d.html</link>
+            <guid>3025788</guid>
+            <pubDate>Tue, 14 Mar 2023 17:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：:预计第一共和银行将增加批发借款，以支撑其表内流动性，这可能会拖累盈利能力。]]></title>
+            <guid>3025787</guid>
+            <pubDate>Tue, 14 Mar 2023 17:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：正在努力提高悍马电动车的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5030205.d.html</link>
+            <guid>3025785</guid>
+            <pubDate>Tue, 14 Mar 2023 17:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：将在2023年上半年生产5万辆电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8253079.d.html</link>
+            <guid>3025784</guid>
+            <pubDate>Tue, 14 Mar 2023 17:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其外长恰武什奥卢与联合国秘书长古特雷斯通电话】土耳其外交部当地时间3月14日发表声明称，土外交部长恰武什奥卢当天与联合国秘书长古特雷斯通电话，双方讨论了黑海港口农产品外运协议延期以及乌克兰局势等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8246971.d.html</link>
+            <guid>3025779</guid>
+            <pubDate>Tue, 14 Mar 2023 16:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总理：俄罗斯将继续扩大与有兴趣的国家的贸易关系】俄罗斯总理米舒斯京说，俄罗斯将继续扩大与那些对合作感兴趣的国家的经贸关系。俄罗斯总理在扩大与友好国家协作的战略会议上说：“我们面临的任务是在不友好国家的限制下确保国家经济的发展。俄罗斯仍然是全球世界的一部分，因此我们将继续扩大和加强与那些对这种合作感兴趣的国家的经贸联系。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5023314.d.html</link>
+            <guid>3025777</guid>
+            <pubDate>Tue, 14 Mar 2023 16:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车CEO：自动驾驶出租车将成为公司巨大的业务增长点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8243916.d.html</link>
+            <guid>3025775</guid>
+            <pubDate>Tue, 14 Mar 2023 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡特彼勒(CAT.N)CEO：美国非住宅地产市场正得到改善，建筑业活动表现强劲；预计公司销售及利润状况将同比改善。]]></title>
+            <guid>3025773</guid>
+            <pubDate>Tue, 14 Mar 2023 16:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自动驾驶汽车公司Cruise创始人Vogt：特斯拉所宣的“全自动驾驶”功能对消费者造成了误导。]]></title>
+            <guid>3025771</guid>
+            <pubDate>Tue, 14 Mar 2023 16:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车(GM.N)全球首席营销官Deborah Wahl将于3月31日退休。]]></title>
+            <guid>3025768</guid>
+            <pubDate>Tue, 14 Mar 2023 16:40:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰最大银行Pko CEO认为硅谷银行事件对波兰银行没有直接影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5015439.d.html</link>
+            <guid>3025767</guid>
+            <pubDate>Tue, 14 Mar 2023 16:38:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国DAX 30指数初步收涨1.90%，报15244.26点。法国股指初步收涨2.04%，意大利股指初步收涨2.51%，英国股指初步收涨1.18%。]]></title>
             <guid>3025765</guid>
@@ -287,123 +365,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8292769.d.html</link>
             <guid>3025695</guid>
             <pubDate>Tue, 14 Mar 2023 14:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国地方发展、社区及住房大臣戈夫：要求11家建筑开发商立即签署建筑外墙涂层修复协议，拒绝签署此协议者将不得在英格兰地区开建新住宅。]]></title>
-            <guid>3025694</guid>
-            <pubDate>Tue, 14 Mar 2023 14:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司（EDF）计划将2023年核能发电量预期维持在既有水平上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8290354.d.html</link>
-            <guid>3025693</guid>
-            <pubDate>Tue, 14 Mar 2023 14:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通达股份：2022年净利润同比增长398.96% 拟回购股份】通达股份公布年报，公司2022年实现营业收入54.99亿元，同比增长133.53%；归母净利润1.22亿元，同比增长398.96%；基本每股收益0.23元。同日公告，公司拟使用自有资金不低于609.04万元且不超过1218.08万元回购股份，用于后续实施股权激励或员工持股计划，回购价格不超过14元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8286420.d.html</link>
-            <guid>3025690</guid>
-            <pubDate>Tue, 14 Mar 2023 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国或取消马来西亚棕榈油进口关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8286193.d.html</link>
-            <guid>3025689</guid>
-            <pubDate>Tue, 14 Mar 2023 14:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝馨科技：2022年净利润3035.48万元 同比增长146.15%】宝馨科技公布年报，公司2022年实现营业收入6.84亿元，同比增长7.81%；归母净利润为3035.48万元，同比增长146.15%；基本每股收益0.0487元。报告期内，公司坚定以“新能源产业综合服务商”为核心战略定位，以“新能源+智能制造”双轮驱动为发展方针，稳步开展各项经营活动，加快产业结构调整，新能源业务开拓初见成效，并且对于原有业务形成正向促进。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8284759.d.html</link>
-            <guid>3025687</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典金融服务局（FSA）：瑞典大型银行对陷入困境的美国银行的敞口并不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5061661.d.html</link>
-            <guid>3025686</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国最大轮胎制造商米其林计划在加拿大新斯科舍省投资3亿加元建造工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5061596.d.html</link>
-            <guid>3025685</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌在Gmail等办公应用中引入AI技术：可自动生成所需内容】据报道，谷歌今日宣布，将进一步在其产品中引入人工智能（AI）技术，这一次将把它整合到Gmail电子邮件和Google Docs文档等办公应用中。当前，谷歌正在测试其AI产品，允许一部分Google Workspace用户访问。Google Workspace是谷歌的一整套办公组件，包括Gmail和Google Docs等。此外，谷歌还表示，计划在今年晚些时候将更多人工智能功能引入Google Workspace，包括在工作表中生成公式，在幻灯片中自动生成图像，以及在Google Meet中做笔记等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8284191.d.html</link>
-            <guid>3025683</guid>
-            <pubDate>Tue, 14 Mar 2023 14:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘扩大涨幅，纳斯达克100指数上涨2%，标普500指数上涨1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5057974.d.html</link>
-            <guid>3025681</guid>
-            <pubDate>Tue, 14 Mar 2023 14:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区国债收益率持续上涨，德国10年期国债收益率上升16个基点，报2.44%；德国2年期国债收益率上升22.5个基点，报2.92%；意大利10年期国债收益率上升7个基点，至4.28%。]]></title>
-            <guid>3025680</guid>
-            <pubDate>Tue, 14 Mar 2023 14:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今年1-2月，阿塞拜疆石油产量同比下降6.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8279391.d.html</link>
-            <guid>3025679</guid>
-            <pubDate>Tue, 14 Mar 2023 14:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大皇家银行：如果油价暴跌，欧佩克+可能减产】加拿大皇家银行分析师Helima Croft表示，尽管欧佩克在硅谷银行崩溃后一直保持沉默，但预计如果油价有崩盘的迹象，欧佩克+将减产。将于4月3日举行的欧佩克+联合部长级监督委员会（JMMC）会议确实为欧佩克调整产量政策提供了一次机会。不过最近的市场动荡只会增强欧佩克对去年减产政策的信心。此外，分析师表示，沙特和伊朗上周达成的恢复外交关系的协议可能会降低沙特关键（产油）基础设施遭到袭击的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5054323.d.html</link>
-            <guid>3025676</guid>
-            <pubDate>Tue, 14 Mar 2023 14:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【农业农村部：强化大豆政策支持 全力稳定东北大豆种植面积】农业农村部党组书记、部长唐仁健主持召开部党组会议。会议强调，要抓紧抓实夏季粮油生产，督促指导各地加密冬小麦墒情苗情监测，落实好春浇春管等措施，促进苗情转化升级。要强化大豆政策支持，全力稳定东北大豆种植面积，尽可能扩大新疆棉豆轮作和西南、黄淮海地区大豆玉米带状复合种植，系统抓好大豆大面积提单产，确保面积稳定、产量提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5052648.d.html</link>
-            <guid>3025675</guid>
-            <pubDate>Tue, 14 Mar 2023 14:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国富时100指数日内涨幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8274952.d.html</link>
-            <guid>3025674</guid>
-            <pubDate>Tue, 14 Mar 2023 14:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欣贺股份：功能性成衣产品将于3月中旬上市】欣贺股份近日接受机构调研时表示，经福建省纤维检验中心检测报告确认，公司相关功能性面料可抵抗三大病菌：大肠杆菌、金黄色葡萄球菌、白色念球菌球菌，抗菌标准均达到AAA级。抗甲型流感病毒H3N2活性率达97.15%，水洗50次抑菌率仍大于99%。具备上述功能的口罩产品已于3月2日在相关官方旗舰店上架，相关功能性成衣产品也将于3月中旬上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8274418.d.html</link>
-            <guid>3025673</guid>
-            <pubDate>Tue, 14 Mar 2023 14:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟能源委员西姆森：欧盟将于周四概述氢银行情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5051439.d.html</link>
-            <guid>3025672</guid>
-            <pubDate>Tue, 14 Mar 2023 14:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【卡莱特：2022年净利润同比增长22.11% 拟10派6元】卡莱特公布年报，公司2022年实现营业收入6.79亿元，同比增长16.62%；归母净利润1.31亿元，同比增长22.11%；基本每股收益2.5元。公司拟向全体股东每10股派发现金红利6元（含税）。随着5G+8K等技术的普及和应用，高性能，盈利能力更强的视频处理设备销售占比显著提高，以及相关配套设备随着主营产品的销售增长而增长。同时，报告期内公司深度挖掘海外客户，加大海外市场营销网络建设，实现境外营业收入7014.67万元，同比增长45.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5050220.d.html</link>
-            <guid>3025671</guid>
-            <pubDate>Tue, 14 Mar 2023 14:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成飞集成：2022年度净利润同比增长4.82% 拟10股派0.5元】成飞集成公布年报，2022年度净利润5841.6万元，同比增长4.82%；拟10股派0.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5050150.d.html</link>
-            <guid>3025670</guid>
-            <pubDate>Tue, 14 Mar 2023 14:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国司法部和美国证交会正在调查硅谷银行的信息披露和高管交易方面的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8271685.d.html</link>
-            <guid>3025669</guid>
-            <pubDate>Tue, 14 Mar 2023 14:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲投资银行（EIB）与意大利政府及各大银行正联手融资34亿欧元，用于升级改造该国西西里岛的铁路网。]]></title>
-            <guid>3025666</guid>
-            <pubDate>Tue, 14 Mar 2023 14:08:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
