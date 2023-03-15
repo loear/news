@@ -4,11 +4,61 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 15 Mar 2023 17:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 18:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国政府可能只希望把硅谷银行出售给另一家银行，这可能会排除正在考虑竞购的私募股权公司和风投。]]></title>
+            <guid>3027371</guid>
+            <pubDate>Wed, 15 Mar 2023 18:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Gemini：遇到存款和取款延迟/超时问题；所有客户帐户和资金仍然百分百安全。]]></title>
+            <guid>3027370</guid>
+            <pubDate>Wed, 15 Mar 2023 18:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：摩根士丹利(MS.N)任命Atta-Mensah为大宗商品业务负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyvkm4716528.d.html</link>
+            <guid>3027367</guid>
+            <pubDate>Wed, 15 Mar 2023 18:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会：建议扩大监管系统合规与诚信条例(Reg SCI)的适用范围并更新其内容。]]></title>
+            <guid>3027362</guid>
+            <pubDate>Wed, 15 Mar 2023 17:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF突破0.93，日内涨1.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyvkm4694289.d.html</link>
+            <guid>3027359</guid>
+            <pubDate>Wed, 15 Mar 2023 17:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：继续监测美国银行业快速变化的资金和流动性环境，评估获评级银行投资组合以确定其存款流量。]]></title>
+            <guid>3027357</guid>
+            <pubDate>Wed, 15 Mar 2023 17:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：部分美国银行面临迅速的流动性压力，但并非所有银行都面临此问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyvkm4692653.d.html</link>
+            <guid>3027356</guid>
+            <pubDate>Wed, 15 Mar 2023 17:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通新兴市场主权（债券较可比美债收益率）溢价指标扩大至501个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyvkm4692529.d.html</link>
+            <guid>3027355</guid>
+            <pubDate>Wed, 15 Mar 2023 17:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西门子能源将通过售股筹集约13亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyrap4816123.d.html</link>
+            <guid>3027352</guid>
+            <pubDate>Wed, 15 Mar 2023 17:24:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟官员：将加紧制定新规处置银行破产问题】 欧盟官员周三表示，最近发生的美国银行业危机，正令欧盟加紧针对破产银行去制定更严密的处置方案，欧盟官员将赶在2023年春季结束前提交出详细的法案。欧元集团主席Donohoe表示，硅谷银行的破产，突显了欧盟持续推进建立“银行业联盟”的重要性。他面对瑞信最新发生的危机更是强调：没人能准确预测到下一场危机会从何处开始。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-16/detail-imykyram8034908.d.html</link>
@@ -155,38 +205,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykyram7960986.d.html</link>
             <guid>3027278</guid>
             <pubDate>Wed, 15 Mar 2023 15:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长奥斯汀表示，九个西方国家做出承诺，共将向乌克兰提供超过150辆德制“豹”式坦克。]]></title>
-            <guid>3027272</guid>
-            <pubDate>Wed, 15 Mar 2023 15:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊股指收跌超4%，瑞信危机蔓延至欧元区外围成员国】 俄罗斯交易系统现金指数RTS（美元计价）初步收跌2.28%，报935.99点，追随国际油价一度跌5%的遭遇。莫斯科交易所（MOEX）指数初步收跌1.19%，报2263.20点。希腊股指初步收跌4.55%，报1025.22点，大股东拒绝加大救助瑞士信贷的力度，造成恐慌情绪蔓延至欧元区外围成员国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykyrap4728200.d.html</link>
-            <guid>3027264</guid>
-            <pubDate>Wed, 15 Mar 2023 15:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科大讯飞：讯飞智能音效在一汽、上汽、广汽等汽车厂商已有多款车型完成了定点】 科大讯飞2023年3月15日投资者关系活动记录表显示，讯飞AI学习机、讯飞听见等产品将成为该项技术率先落地的产品，并于2023年5月6日进行产品级发布。科大讯飞AI学习机将成为认知智能大模型技术率先落地的产品，预计于2023年5月6日进行产品级发布。讯飞智能音效经车企第三方优选竞品车盲测，盲听效果超越百万豪车。讯飞智能音效在一汽、上汽、广汽等汽车厂商已有多款车型完成了定点。中国当前已成为全球最大的新能源汽车市场，汽车出口总量持续增长，未来新能源汽车将成为国内新能源出海的关键驱动力。讯飞多语种技术全球领先，将助力中国汽车出海。]]></title>
-            <guid>3027259</guid>
-            <pubDate>Wed, 15 Mar 2023 15:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【iQOO手机发布彻底清除手机数据教程：需点击“清除所有数据”后 勾选“格式化手机存储”】3月15日晚间消息，针对央视3·15晚会提到的手机恢复出厂设置问题，iQOO手机在官微发布了相关教程。央视3·15晚会中提到，3·15信息安全实验室用iQOO手机测试时发现，“恢复出厂设置”被许多人认为手机可以恢复至“激活”前状态。但“恢复出厂设置”后音乐、图片等文件还可以被找回。测试人员表示，手机恢复出厂设置操作一般不默认勾选SD卡和手机存储项。故而操作时，一定要将所有存储项目都进行勾选，手机里的个人信息才会被安全删除。iQOO手机在官微表示，如果希望彻底清除手机数据，需在点击“清除所有数据”后，勾选“格式化手机存储”。iQOO手机同时提醒，在清除手机数据前请做好备份，数据一旦丢失很难找回，请大家根据个人需要正确选择需要清除的数据。（新浪科技）]]></title>
-            <guid>3027258</guid>
-            <pubDate>Wed, 15 Mar 2023 15:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部：在对加密货币混合器公司Chipmixer的突击搜查行动中，已经没收了该公司的域名服务器，以及其名下价值4600万美元的加密货币资产。]]></title>
-            <guid>3027257</guid>
-            <pubDate>Wed, 15 Mar 2023 15:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷的激进主义银行家Ludwig被传将从该公司离职，转投竞争对手巴克莱。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykyrap4714089.d.html</link>
-            <guid>3027252</guid>
-            <pubDate>Wed, 15 Mar 2023 15:14:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
