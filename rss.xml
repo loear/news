@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 16 Mar 2023 20:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 21:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【70城新房价格近八成环比上涨，分析师：3月份“小阳春”可期】2月份，70个大中城市中，新建商品住宅和二手住宅销售价格环比上涨城市分别有55个和40个，比上月分别增加19个和27个。这也意味着近八成城市新房市场重回上涨区间，过半数城市二手房价格开始上涨。诸葛数据研究中心高级分析师陈霄认为：“从变化来看，新房、二手房价格环比双双实现转正，这也是新房近18个月以来首次转正，二手房近19个月来首次转正。房价正式进入企稳回升阶段，预计3月份传统‘小阳春’如期到来。”但陈霄和贝壳研究院市场分析师刘丽杰也表示，随着需求快速释放，预计3月份市场修复速度较2月份有所放缓。市场真正的全面回暖还需要一定时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymckxf4297067.d.html</link>
+            <guid>3029728</guid>
+            <pubDate>Thu, 16 Mar 2023 21:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：硅谷过渡银行将放宽存款规则，包括取消对借款人的罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymckxf4295408.d.html</link>
+            <guid>3029723</guid>
+            <pubDate>Thu, 16 Mar 2023 21:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase：当前正在对错误率居高不暇的状况进行调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymckxf4295226.d.html</link>
+            <guid>3029716</guid>
+            <pubDate>Thu, 16 Mar 2023 21:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国铝业（AA）宣布关闭其位于美国西北部华盛顿州的Intalco冶炼厂。该处厂址将被重新开发，预计将在一季度产生约1.2亿美元的营建及其他相关支出。]]></title>
+            <guid>3029702</guid>
+            <pubDate>Thu, 16 Mar 2023 21:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联邦快递（FDX）美股盘后涨幅扩大至超过10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymckxf4288793.d.html</link>
+            <guid>3029700</guid>
+            <pubDate>Thu, 16 Mar 2023 21:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑山总统久卡诺维奇签署法令解散黑山议会】当地时间3月16日，黑山总统久卡诺维奇签署了关于解散黑山议会的法令。据悉，解散黑山第27届议会的法令自签署之日起生效，并将在黑山官方公报上公布。根据黑山宪法第92条第3项，如果议会不能如期组建政府，总统有权解散议会并要求举行议会选举。根据黑山宪法，提前举行议会选举的具体日期将于3月17日公布。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymckxf4285453.d.html</link>
+            <guid>3029699</guid>
+            <pubDate>Thu, 16 Mar 2023 20:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nikola预计，到4月份，将把电池生产工厂迁移到美国亚利桑那州。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymceri4408233.d.html</link>
+            <guid>3029653</guid>
+            <pubDate>Thu, 16 Mar 2023 20:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝莱德旗下私人信贷管理公司TCP称其在硅谷银行及签名银行没有现金结余。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymceri4407437.d.html</link>
+            <guid>3029645</guid>
+            <pubDate>Thu, 16 Mar 2023 20:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[第一共和银行股价在盘后跌幅进一步扩大至21%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymceri4401596.d.html</link>
@@ -195,80 +242,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymcerf7573039.d.html</link>
             <guid>3029509</guid>
             <pubDate>Thu, 16 Mar 2023 18:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利裕信银行（UniCredit）在致投资者信中称，公司CEO的奖金是合理的，符合其杰出的工作表现。此前，有代理持股人对该公司的高管薪资状况提出异议。]]></title>
-            <guid>3029504</guid>
-            <pubDate>Thu, 16 Mar 2023 18:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：将与国会、监管机构密切合作，加强对银行业的监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7701914.d.html</link>
-            <guid>3029503</guid>
-            <pubDate>Thu, 16 Mar 2023 18:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Block(SQ.N)评级从中性上调至买入，目标价从80美元上调至93美元。]]></title>
-            <guid>3029501</guid>
-            <pubDate>Thu, 16 Mar 2023 18:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms CEO扎克伯格：裁员、重组将持续多年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7698957.d.html</link>
-            <guid>3029500</guid>
-            <pubDate>Thu, 16 Mar 2023 18:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银：重申Meta Platforms买入评级 目标价235美元】瑞银重申对Meta Platforms的买入评级，目标价为235美元，并继续将该股列为“最佳选择”，预计30亿美元的运营成本削减加上30亿美元的重组费用，2023年核心运营成本将减少60亿美元，2024年将节省约80亿美元的运营成本。瑞银表示，这相当于受税收影响的每股收益近2.50美元，而该行对2024财年GAAP每股收益预期（13美元）高于共识预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7698032.d.html</link>
-            <guid>3029497</guid>
-            <pubDate>Thu, 16 Mar 2023 18:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟和北约成立工作组 以加强合作保护关键基础设施】据挪威广播电视公司当地时间16日报道，欧盟和北约成立了一个工作组，以加强在保护关键基础设施方面的合作。欧盟委员会在一份新闻稿中表示，该小组现已正式成立并举行了第一次会议。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4473805.d.html</link>
-            <guid>3029494</guid>
-            <pubDate>Thu, 16 Mar 2023 18:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：麦当劳特许经营商集团批评新的公司运营规则，谴责其为“破坏性道路”；特许经营代表将与麦当劳董事会成员会面。]]></title>
-            <guid>3029489</guid>
-            <pubDate>Thu, 16 Mar 2023 18:07:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌将YouTube TV的订阅价格提高到每月73美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4469011.d.html</link>
-            <guid>3029487</guid>
-            <pubDate>Thu, 16 Mar 2023 18:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉瑞信在获得担保后寻求时间进行全面改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4466978.d.html</link>
-            <guid>3029485</guid>
-            <pubDate>Thu, 16 Mar 2023 17:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉瑞银不愿承担与瑞信相关的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7688778.d.html</link>
-            <guid>3029484</guid>
-            <pubDate>Thu, 16 Mar 2023 17:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷(CS.N)短线下挫，涨幅一度收窄至2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7688665.d.html</link>
-            <guid>3029483</guid>
-            <pubDate>Thu, 16 Mar 2023 17:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟向北马其顿军队提供价值900万欧元援助】欧盟理事会当地时间3月16日通过一项价值900万欧元的欧洲和平基金援助措施，以援助北马其顿军队。欧盟理事会发布的公告称，该举措是欧盟加强西巴尔干地区安全措施的一部分。该批次援助将用于升级北马其顿轻步兵部队装备，包括提供后勤、医疗设备、通信和信息系统、情报和三防装备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7686954.d.html</link>
-            <guid>3029482</guid>
-            <pubDate>Thu, 16 Mar 2023 17:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国阿尔斯通（Alstom）集团与纽约三大航空枢纽之一的纽瓦克自由机场签订了为期7年的合作协议，将负责该机场的日常运行与维护。合同总价约2.5亿欧元。]]></title>
-            <guid>3029480</guid>
-            <pubDate>Thu, 16 Mar 2023 17:50:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
