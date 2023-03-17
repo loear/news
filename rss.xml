@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 17 Mar 2023 20:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 21:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌1.90%，报1757.50点，逼近1月4日收盘位1737.67点，本周累跌7.52%。]]></title>
+            <guid>3031304</guid>
+            <pubDate>Fri, 17 Mar 2023 21:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一共和银行盘后下跌4%，该公司计划通过非公开配售股票增加现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwn4377838.d.html</link>
+            <guid>3031270</guid>
+            <pubDate>Fri, 17 Mar 2023 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【TD Cowen：将UiPath(PATH.N)目标价上调至20美元 维持跑赢大市评级】TD Cowen分析师Bryan Bergin将对UiPath的目标价从18美元上调至20美元，并维持对该股的跑赢大市评级。该分析师表示，由于该公司第四季度表现稳健，且2024年的财务指引提供了良好的年度经常性收入(ARR)和收入起点，比共识预期高出3%/4%，调整后经营利润超出预期60%。]]></title>
+            <guid>3031264</guid>
+            <pubDate>Fri, 17 Mar 2023 20:23:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【富国银行：将Meta Platforms(META.O)目标价上调至280美元 维持增持评级】富国银行将Meta Platforms的目标价从250美元上调至280美元，并维持对该股的增持评级。该行指出，Meta公司加强了对提高组织效率的承诺，宣布在2023年期间裁减约1万名员工，并将2023年的运营支出指引从之前的890亿至950亿美元降至860亿至920亿美元。]]></title>
             <guid>3031228</guid>
@@ -198,22 +214,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4412914.d.html</link>
             <guid>3031126</guid>
             <pubDate>Fri, 17 Mar 2023 17:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大皇家银行：将UiPath(PATH.N)目标价上调至17美元 维持与行业一致评级】加拿大皇家银行将对UiPath的目标价从15美元上调至17美元，并维持对该股的与行业一致评级。分析师在一份研究报告中告诉投资者，尽管宏观条件不平衡，该公司第四季度的业绩仍是稳健的，也上调了业绩指引。该行仍然看好UiPath核心业务的发展势头，以及围绕生成性人工智能和ChatGPT整合潜力的更广泛对话。]]></title>
-            <guid>3031123</guid>
-            <pubDate>Fri, 17 Mar 2023 17:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将欢聚(YY.O)目标价从45美元下调至43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfchs4535189.d.html</link>
-            <guid>3031118</guid>
-            <pubDate>Fri, 17 Mar 2023 17:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：对冲基金Graticule Asset Management Asia（GAMA）将因亏损而关闭。]]></title>
-            <guid>3031117</guid>
-            <pubDate>Fri, 17 Mar 2023 17:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
