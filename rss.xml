@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Mar 2023 18:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 19:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【9万亿巨头传来大消息！瑞信大结局猜想：重写战略计划、分拆资产、并购或破产】这个周末对于风暴眼中的瑞士信贷来说，生死攸关！最新市场消息称，瑞银寻求瑞士当局为任何与瑞信的交易提供支持。虽然这几天瑞信常与硅谷银行放在一起相提并论，但实际上市场担心的是两件事情——瑞信并没有流动性问题，而是银行本身的经营模式不赚钱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvq0737575.d.html</link>
+            <guid>3031709</guid>
+            <pubDate>Sat, 18 Mar 2023 19:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：瑞银表示担心瑞士信贷投资银行的风险。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvq0713725.d.html</link>
@@ -363,12 +369,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvrw4163825.d.html</link>
             <guid>3031608</guid>
             <pubDate>Sat, 18 Mar 2023 10:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热带气旋“弗雷迪”在马拉维已致438人遇难】马拉维灾害管理事务部表示，截至当地时间3月17日晚9时，热带气旋“弗雷迪”在马拉维南部地区造成的死亡人数至少达到438人，累计受伤人数达到918人，另有282人失踪。该部门称，约有34.5万人流离失所，已建立500多个营地来安置灾民。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvry0940713.d.html</link>
-            <guid>3031607</guid>
-            <pubDate>Sat, 18 Mar 2023 10:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
