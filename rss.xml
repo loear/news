@@ -4,11 +4,80 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Mar 2023 16:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普：如果交易按计划进行，预计瑞信和瑞银的评级将在控股公司和运营公司层面持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0105556.d.html</link>
+            <guid>3034709</guid>
+            <pubDate>Mon, 20 Mar 2023 17:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：我们认为瑞银集团比瑞信集团“明显更强大”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytn3327657.d.html</link>
+            <guid>3034707</guid>
+            <pubDate>Mon, 20 Mar 2023 17:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国巴黎制粉小麦期货跌幅扩大，至2021年以来最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0103326.d.html</link>
+            <guid>3034704</guid>
+            <pubDate>Mon, 20 Mar 2023 17:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克政府批准在2023年6月和8月续签与埃及的400万桶原油合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytn3323524.d.html</link>
+            <guid>3034703</guid>
+            <pubDate>Mon, 20 Mar 2023 17:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰农业部：2023年乌克兰粮食收成可能包括1660万吨小麦、2170万吨玉米和480万吨大麦。]]></title>
+            <guid>3034702</guid>
+            <pubDate>Mon, 20 Mar 2023 17:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰农业部：乌克兰2023年的粮食产量将从2022年的5310万吨降至4430万吨。]]></title>
+            <guid>3034701</guid>
+            <pubDate>Mon, 20 Mar 2023 17:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利最大的银行和保险公司没有瑞信AT1债券的风险敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0099628.d.html</link>
+            <guid>3034699</guid>
+            <pubDate>Mon, 20 Mar 2023 17:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球范围内多家银行针对Ineos Enterprises推迟8.79亿英镑（折合8.20亿美元）贷款承销，欧美银行机构接连暴雷，让市场情绪紧张。]]></title>
+            <guid>3034696</guid>
+            <pubDate>Mon, 20 Mar 2023 16:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡方面表示，国际货币基金组织董事会已经批准了援助计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytn3314232.d.html</link>
+            <guid>3034693</guid>
+            <pubDate>Mon, 20 Mar 2023 16:49:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际货币基金组织同意阿根廷推迟偿还约27亿美元到期债务】据央视新闻，当地时间3月20日，阿根廷经济部宣布，国际货币基金组织（IMF）已同意阿根廷推迟偿还于本周到期的两笔总计27.06亿美元的到期债务，并将偿还日期确定在3月31日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0088702.d.html</link>
+            <guid>3034689</guid>
+            <pubDate>Mon, 20 Mar 2023 16:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典总理：欧盟承诺向地震灾区的土耳其和叙利亚提供7亿欧元援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0087082.d.html</link>
+            <guid>3034684</guid>
+            <pubDate>Mon, 20 Mar 2023 16:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元刷新2月2日以来高位至1.2275。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imympytq0084013.d.html</link>
+            <guid>3034678</guid>
+            <pubDate>Mon, 20 Mar 2023 16:34:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国红十字会：也门冲突各方同意在5月再次召开会议，讨论进一步释放人质的问题，各方已同意释放887名人质。]]></title>
             <guid>3034667</guid>
@@ -125,137 +194,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0157493.d.html</link>
             <guid>3034619</guid>
             <pubDate>Mon, 20 Mar 2023 15:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本企业Ubitus与谷歌云合作推出基于云（技术）的游戏流媒体服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3372120.d.html</link>
-            <guid>3034610</guid>
-            <pubDate>Mon, 20 Mar 2023 15:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[思摩尔国际(06969.HK)：2022年全面综合收益总额从2021年人民币52.87亿元减少至本年人民币24.95亿元，毛利为人民币52.6亿元，较上年减少了28.7%。]]></title>
-            <guid>3034609</guid>
-            <pubDate>Mon, 20 Mar 2023 15:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国富时100日内涨幅达1.0%，报7409.08点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0147492.d.html</link>
-            <guid>3034607</guid>
-            <pubDate>Mon, 20 Mar 2023 15:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟宣布制裁伊朗8名个人和1个实体】欧盟理事会当地时间3月20日宣布追加制裁伊朗8名个人和1个实体。目前欧盟共对伊朗204名个人和34个实体实施制裁。制裁包括资产冻结、停发欧盟签证以及禁止向所列人员提供资金等措施。欧盟还禁止向伊朗出口安防设备和电信监测设备等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0146311.d.html</link>
-            <guid>3034602</guid>
-            <pubDate>Mon, 20 Mar 2023 15:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[思摩尔国际(06969.HK)：2022年全年实现收益人民币121.45亿元，较2021年减少了11.7%。其中直接和间接出口（通过贸易商出口）收入为人民币98.98亿元，占收入总额的比重为81.5%（2021年：66.0%）；内销收入为人民币22.46亿元，占总收入的比重为18.5%（2021年：34.0%）。]]></title>
-            <guid>3034600</guid>
-            <pubDate>Mon, 20 Mar 2023 15:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：交易包括旗星银行从签名银行过渡银行购买总价值为129亿美元的贷款组合，并承担340亿美元的存款。]]></title>
-            <guid>3034596</guid>
-            <pubDate>Mon, 20 Mar 2023 14:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊宣布再裁员9000多人 云计算和广告部门受影响】据报道，亚马逊CEO安迪·贾西（Andy Jassy ）今日在致员工的一份备忘录中表示，亚马逊将在未来几周内进一步裁员9000多人。此次裁员是在此前宣布的大裁员基础上进行的。去年11月，亚马逊已经宣布裁员18000多人，一直持续到今年1月份。贾西今日在备忘录中称，最新一轮裁员将主要影响亚马逊的云计算、人力资源、广告和Twitch直播业务部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3365466.d.html</link>
-            <guid>3034594</guid>
-            <pubDate>Mon, 20 Mar 2023 14:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克总理将于3月21-22日访问土耳其。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3362272.d.html</link>
-            <guid>3034591</guid>
-            <pubDate>Mon, 20 Mar 2023 14:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银正考虑采取措施以留住瑞信关键员工】周一，一位知情人士透露，瑞银向瑞士信贷的财富管理人员表示，为了在收购后安抚关键员工，该行正在考虑提供财务优惠措施，以让他们留下来。该人士称，在瑞信的财富管理部门员工会议上，瑞银集团全球财富管理联席总裁Iqbal Khan和瑞信财富管理部门首席执行官Francesco de Ferrari向员工保证，两家银行将像一个"大家庭"。会议期间，高管们还表示，将会有留任方案，很可能是针对前台员工的，但没有提供更多细节。瑞银发言人拒绝置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3362120.d.html</link>
-            <guid>3034590</guid>
-            <pubDate>Mon, 20 Mar 2023 14:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珍视明7.84%股权公开挂牌转让，或离上市又近一步】 据康恩贝3月20日晚间公告，为积极推动珍视明公司加快发展和对接资本市场，同意公司公开挂牌转让所持有的珍视明公司7.84%股权，挂牌底价为2.9亿元。珍视明是始建于1968年的知名眼药公司。2022年2月19日，抚州日报曾报道称，珍视明计划2023年在香港IPO上市。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0138384.d.html</link>
-            <guid>3034589</guid>
-            <pubDate>Mon, 20 Mar 2023 14:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊(AMZN.O)CEO贾西：鉴于经济以及近期环境的不确定性，选择在成本和人员方面更加精简。]]></title>
-            <guid>3034588</guid>
-            <pubDate>Mon, 20 Mar 2023 14:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国轩高科与日本爱迪生能源达成战略合作，开拓日本储能和回收市场】3月20日，新京报贝壳财经记者从国轩高科官方获悉，国轩高科与日本爱迪生能源达成战略合作协议，双方将共同开拓日本储能和回收市场，促进可再生能源在日本普及，推进国轩电池走进日本市场。按照双方达成的协议，合作期内双方根据市场需求落地市场策略，第一年计划销售目标为1GWh（吉瓦时），从第二年起提升至每年2GWh。国轩高科将提供电芯、模组和BMS等，爱迪生能源将负责日本储能客户管理、EPC服务、储能系统运营维护等市场端服务。此外，国轩高科也将与爱迪生能源共同致力于在日本建立循环储能电池回收体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0131800.d.html</link>
-            <guid>3034586</guid>
-            <pubDate>Mon, 20 Mar 2023 14:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊(AMZN.O)短线拉升，跌幅收窄至1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3354224.d.html</link>
-            <guid>3034585</guid>
-            <pubDate>Mon, 20 Mar 2023 14:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乐华娱乐港交所公告，公司2022年实现收入9.8亿元人民币，同比增长24%，经调整净利润2.67亿元人民币，同比增长32.4%。]]></title>
-            <guid>3034584</guid>
-            <pubDate>Mon, 20 Mar 2023 14:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，瑞银考虑提供“甜头”以留住瑞信的财富管理人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0126758.d.html</link>
-            <guid>3034581</guid>
-            <pubDate>Mon, 20 Mar 2023 14:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trian Partners联合创始人Peltz表示，银行业恐慌的高峰可能已经过去。]]></title>
-            <guid>3034580</guid>
-            <pubDate>Mon, 20 Mar 2023 14:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国发展高层论坛2023年年会将于3月25日至27日在京举行】据新京报，3月20日，中国发展高层论坛2023年年会新闻发布会在北京举行。记者于发布会上获悉，中国发展高层论坛2023年年会将于3月25日至27日在钓鱼台国宾馆举行。论坛2023年年会的主题为“经济复苏：机遇与合作”。据介绍，截至目前，已有三十余位中央部委领导、二十余位中央企业和中央金融机构负责人确认参会。与往年一样，今年论坛境外代表范围仍限于世界500强或行业领先企业的董事长或首席执行官、主要国际经济组织负责人、国际著名学者，目前境外正式参会代表已达100余位，涵盖了能源矿产、金融保险、信息通讯、装备制造、生物制药、消费品和咨询服务等十多个产业的跨国企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0125716.d.html</link>
-            <guid>3034579</guid>
-            <pubDate>Mon, 20 Mar 2023 14:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：AT1发行成本可能会“显著”上升，有可能上升到两位数。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3347410.d.html</link>
-            <guid>3034578</guid>
-            <pubDate>Mon, 20 Mar 2023 14:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：决定对瑞信AT1债券进行减记可能会导致整个行业的批发融资成本蔓延。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3346662.d.html</link>
-            <guid>3034577</guid>
-            <pubDate>Mon, 20 Mar 2023 14:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中科曙光：曙光存储中标1.7亿元中国移动集中采购项目】中科曙光消息，近日，曙光存储ParaStor以总额1.7亿元，容量型和性能型两个标段双双第一份额的成绩，中标中国移动2023年至2024年分布式文件存储集中采购项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympums0123669.d.html</link>
-            <guid>3034576</guid>
-            <pubDate>Mon, 20 Mar 2023 14:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所基础设施公募REITs3月20日成交约2.45亿元】据微信公众号“上交所REITs”3月20日晚消息，截至当日，上交所基础设施公募REITs市值合计600.6亿元，2023年3月20日成交额合计为24540.4万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3343274.d.html</link>
-            <guid>3034574</guid>
-            <pubDate>Mon, 20 Mar 2023 14:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所自律委倡议从科创板扩展到全市场：建议合规理性参与询价、实施定价】据上交所官网消息，根据《上海证券交易所股票公开发行自律委员会工作规则》，上海证券交易所第一届股票公开发行自律委员会（以下简称自律委）近日召开了第一次工作会议。会议讨论认为，全面实行股票发行注册制，对市场各方组织参与证券发行承销业务提出了更高要求。为促进稳妥过渡衔接、平稳有序发行，防范可能出现的潜在风险，建议发行人、保荐人、承销商和投资者从市场实际情况出发，强化责任意识，规范开展发行承销业务。基于上述考虑，自律委提出如下行业倡导建议：一是合规理性参与询价、实施定价；二是结合发行实际，规范实施战略配售等安排；三是发挥组织市场能力，规范收费行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympumq3342466.d.html</link>
-            <guid>3034572</guid>
-            <pubDate>Mon, 20 Mar 2023 14:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Growatt Technology Co.,Ltd向港交所递交上市申请，瑞信及中金公司为联席保荐人。]]></title>
-            <guid>3034571</guid>
-            <pubDate>Mon, 20 Mar 2023 14:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
