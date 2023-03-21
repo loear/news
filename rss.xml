@@ -4,11 +4,76 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 21 Mar 2023 19:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 20:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【耐克三季度收入123.9亿美元 分析师预期115.2亿美元】耐克三季度收入123.9亿美元，分析师预期115.2亿美元；第三季度大中华营收19.9亿美元，分析师预期20.3亿美元；第三季度毛利率43.3％，分析师预期43.7％；第三季度每股收益0.79美元，上年同期0.87美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhh2959386.d.html</link>
+            <guid>3036744</guid>
+            <pubDate>Tue, 21 Mar 2023 20:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站（GME）美股盘后涨幅扩大至36%，业绩报告显示，该公司四季度调整后利润好于预期。]]></title>
+            <guid>3036743</guid>
+            <pubDate>Tue, 21 Mar 2023 20:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数字货币交易所Coinbase连涨七天，创该公司美国IPO以来最长连涨天数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhi9731641.d.html</link>
+            <guid>3036737</guid>
+            <pubDate>Tue, 21 Mar 2023 20:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞士信贷减记170亿美元AT1后 债券持有人准备提起诉讼】瑞士信贷的额外一级(AT1)债券的部分债权人周二表示，由于瑞信在向瑞银紧急出售的过程中，该行价值170亿美元的AT1债券被减计为零，他们正在考虑采取法律行动。Axiom Alternative Investments的首席投资官、瑞士信贷AT1债券的持有人David Benamou周二表示，他将与“可能是大多数债券持有人”一起加入诉讼。律师事务所Quinn Emanuel Urquhart & Sullivan此前于周一也表示，在救助协议达成后，该公司组建了一个“来自瑞士、美国和英国的多个司法管辖区的律师团队”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhh2945730.d.html</link>
+            <guid>3036725</guid>
+            <pubDate>Tue, 21 Mar 2023 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥小麦期货周二跌约2.7%】 周二（3月21日）纽约尾盘，谷物分类指数跌1.19%，报45.2612点。CBOT玉米期货跌0.55%，报6.29-1/2美元/蒲式耳。CBOT小麦期货跌2.68%，报6.80-1/2美元/蒲式耳。CBOT大豆期货跌1.20%，报14.66-3/4美元/蒲式耳，豆粕期货跌0.13%，豆油期货跌3.03%。ICE棉花期货涨0.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhh2945587.d.html</link>
+            <guid>3036724</guid>
+            <pubDate>Tue, 21 Mar 2023 19:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（3月21日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌1.91%，报256.25欧元/吨。油菜籽期货跌2.59%，报441.50欧元/吨。]]></title>
+            <guid>3036723</guid>
+            <pubDate>Tue, 21 Mar 2023 19:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月14日当周，NYMEX、ICE市场的天然气期货净空头持仓减少14,110手至37,516手。]]></title>
+            <guid>3036722</guid>
+            <pubDate>Tue, 21 Mar 2023 19:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月14日当周，投机者将COMEX白银的净多头头寸减少14,443手，至3,762手。]]></title>
+            <guid>3036721</guid>
+            <pubDate>Tue, 21 Mar 2023 19:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月14日当周，投机者将COMEX黄金的净多头头寸增加61,255手至85,362手。]]></title>
+            <guid>3036720</guid>
+            <pubDate>Tue, 21 Mar 2023 19:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月14日当周，投机者减少了WTI净多头头寸58593份合约，至104431份合约。]]></title>
+            <guid>3036719</guid>
+            <pubDate>Tue, 21 Mar 2023 19:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：投机者于3月14日当周将CBOT美国2年期国债期货净空头头寸减少了86,327手，降至531,513手。将CBOT美国10年期国债期货净空头头寸减少了48,707份合约，至507,366份。]]></title>
+            <guid>3036718</guid>
+            <pubDate>Tue, 21 Mar 2023 19:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时罗素指数公司：硅谷银行和签名银行将被剔除出投资级债券指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhi9705963.d.html</link>
+            <guid>3036715</guid>
+            <pubDate>Tue, 21 Mar 2023 19:17:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【与国际油价明显背离 需求回暖推高PTA价格】据上证报，受美欧银行业危机的持续影响，3月中旬以来，PTA（精对苯二甲酸）价格重心跟随国际油价暴跌而大幅下移。然而，PTA自上周五开始一改颓势，本周一盘中更是一度触及涨停，截至昨日已连涨3个交易日，与国际油价走势背离。业内人士分析，PTA价格走势与国际油价出现明显背离，主要是产业链的周期调整对原油价格的传导机制形成了冲击，随着下游消费端需求回暖，PTA价格大幅走高。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsqhi9701176.d.html</link>
@@ -253,73 +318,6 @@
             <title><![CDATA[律所Pallas Partners LLP：成立群组，采取诉讼策略，旨在寻求减轻AT1持有人遭受的损失，并允许进行赔偿。]]></title>
             <guid>3036649</guid>
             <pubDate>Tue, 21 Mar 2023 17:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京杭大运河二通道杭州段贯通】 3月20日，京杭大运河二通道杭州段顺利贯通，位于杭州段和海宁段的交界处，两端的水面已经畅通，具备了800吨船舶的通航条件。京杭大运河二通道全长约23公里，预计今年5月底竣工。全线通航后，大部分货运船舶将不再通过杭州市区，而是改由运河二通道航行。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2995561.d.html</link>
-            <guid>3036642</guid>
-            <pubDate>Tue, 21 Mar 2023 17:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳新银行：（欧美）银行业危机是重建原油多头仓位的良机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9769988.d.html</link>
-            <guid>3036633</guid>
-            <pubDate>Tue, 21 Mar 2023 16:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地人称，巴基斯坦和阿富汗首都感受到强烈的震动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2992076.d.html</link>
-            <guid>3036631</guid>
-            <pubDate>Tue, 21 Mar 2023 16:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（3月21日）欧市尾盘，ICE英国天然气期货涨6.65%，报100.550便士/千卡，上日曾跌至93.000便士。TTF基准荷兰天然气期货涨5.61%，报41.400欧元/兆瓦时，上日曾跌至38.800欧元。ICE欧盟碳排放交易许可（期货价格）涨2.67%，报87.38欧元/吨，连续第二个交易日上涨，之前连跌五天。]]></title>
-            <guid>3036630</guid>
-            <pubDate>Tue, 21 Mar 2023 16:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银行间市场交易商协会：截至2月末共有131家企业发行乡村振兴票据1500多亿元】 3月21日，中国银行间市场交易商协会官方公众号发布消息称，截至2023年2月末，共有131家企业发行乡村振兴票据1500多亿元，发行金额占公司信用类乡村振兴债比重超7成，支持项目覆盖全国27个省（自治区、直辖市），涵盖农民就业增收、农业现代化以及农村基础设施建设等多个领域，形成良好示范带动效应。交易商协会表示，乡村振兴票据推出以来，广大市场机构积极参与，为债券市场支持乡村振兴积累了宝贵的经验。从春耕到秋收，从民生到安全，乡村振兴票据紧扣每年的中央一号文件，不断创新完善支持乡村振兴的切入点、发力点和细分领域，乡村振兴票据覆盖的地区和发行人业态日益丰富多元。（证券日报）]]></title>
-            <guid>3036626</guid>
-            <pubDate>Tue, 21 Mar 2023 16:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数3月21日（周二）收盘上涨264.77点，涨幅1.77%，报15198.15点；英国富时100指数3月21日（周二）收盘上涨134.05点，涨幅1.81%，报7537.90点；法国CAC40指数3月21日（周二）收盘上涨99.77点，涨幅1.42%，报7112.91点；欧洲斯托克50指数3月21日（周二）收盘上涨61.13点，涨幅1.48%，报4180.55点；西班牙IBEX35指数3月21日（周二）收盘上涨218.01点，涨幅2.47%，报9051.11点；意大利富时MIB指数3月21日（周二）收盘上涨661.43点，涨幅2.55%，报26561.00点。]]></title>
-            <guid>3036621</guid>
-            <pubDate>Tue, 21 Mar 2023 16:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内跌超2.00%，现报1385.13美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3115225.d.html</link>
-            <guid>3036620</guid>
-            <pubDate>Tue, 21 Mar 2023 16:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有律师事务所表示，瑞士决定清零瑞信AT1债券后，部分持有人正在寻求法律建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9887978.d.html</link>
-            <guid>3036619</guid>
-            <pubDate>Tue, 21 Mar 2023 16:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX白银期货下跌1.5%，报22.31美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3109958.d.html</link>
-            <guid>3036618</guid>
-            <pubDate>Tue, 21 Mar 2023 16:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收涨1.75%，报15194.04点。法国股指初步收涨1.52%，意大利股指初步收涨2.58%、银行指数大涨5.07%，英国股指初步收涨1.87%。瑞士市场指数初步收涨1.38%，瑞士表现指数涨1.18%。]]></title>
-            <guid>3036617</guid>
-            <pubDate>Tue, 21 Mar 2023 16:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨1.40%，报446.80点。欧元区STOXX 50指数初步收涨1.57%，报4184.21点。富时泛欧绩优300指数初步收涨1.33%，报1765.66点。]]></title>
-            <guid>3036616</guid>
-            <pubDate>Tue, 21 Mar 2023 16:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：瑞银无意践行瑞信投行梦，更看重后者的优秀银行家】 据知情人士透露，瑞银集团希望从瑞信集团的投资银行部门挑选出佼佼者来增强自己的投行业务，无意支持瑞信首席执行官Michael Klein将投行部门分拆成独立公司的计划。瑞银高管称更倾向于有选择地加强自身投行部门实力，同时抛弃风险较高的业务。在最初的会谈中，瑞银表示出对继续推进瑞士信贷第一波士顿分拆计划兴趣不大，因为这等于是给自己创造一个新的竞争对手。这一切意味着，Klein在第一波士顿品牌下重塑投行业务的梦想变得越来越遥不可及。一些高管已经在为投行部门接洽潜在收购者，包括日本瑞穗金融集团，希望能激起这些机构的收购兴趣，然后他们会再向瑞银推介此事。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3107698.d.html</link>
-            <guid>3036614</guid>
-            <pubDate>Tue, 21 Mar 2023 16:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
