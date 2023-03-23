@@ -4,11 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 23 Mar 2023 19:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 20:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Block收跌15%，在兴登堡发布做空报告之际创2022年5月份以来最大单日跌幅。]]></title>
+            <guid>3040163</guid>
+            <pubDate>Thu, 23 Mar 2023 20:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zions Bancorporation NA收跌8.8%，Comerica跌8.7%，西太平洋银行（PACW）跌8.5%，拖累费城银行指数收跌1.7%。]]></title>
+            <guid>3040161</guid>
+            <pubDate>Thu, 23 Mar 2023 20:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙指数初步收涨2.9%，成分股世纪互联涨超16.6%，达达涨约16.2%，金山云涨15.3%，人人涨约14%，B站涨超6%。]]></title>
+            <guid>3040156</guid>
+            <pubDate>Thu, 23 Mar 2023 20:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国银行机构OLB（Oldenburgische Landesbank AG）据称暂停IPO计划，因为欧美接连发生银行机构危机（美国SilverGate、硅谷银行、签名银行接连倒闭，且瑞士信贷爆发危机）的缘故。OLB的股东包括美国私募阿波罗。]]></title>
+            <guid>3040150</guid>
+            <pubDate>Thu, 23 Mar 2023 19:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：微软(MSFT.O)的竞争对手表示，在监管机构考虑调查之际，微软需要采取更多措施来应对欧盟的反垄断投诉。]]></title>
+            <guid>3040143</guid>
+            <pubDate>Thu, 23 Mar 2023 19:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，在瑞信AT1债券减记后，北美债务投资者集团信贷圆桌决定不采取法律行动。]]></title>
+            <guid>3040142</guid>
+            <pubDate>Thu, 23 Mar 2023 19:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，埃克森美孚贝城炼油厂的汽油生产催化裂化装置经过维修后已恢复全面生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymxant9847582.d.html</link>
+            <guid>3040139</guid>
+            <pubDate>Thu, 23 Mar 2023 19:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易平台币安：修复“已完成”菜单的问题，所有受影响的资金已到账。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymxant9845771.d.html</link>
+            <guid>3040138</guid>
+            <pubDate>Thu, 23 Mar 2023 19:26:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黑山内政部门：Terra联合创始人Do Kwon在黑山被逮捕。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymxant9840077.d.html</link>
@@ -169,79 +211,6 @@
             <title><![CDATA[瑞士信贷（CSGN.SW）初步收跌3.78%，连续第二个交易日下跌，报0.7994瑞郎，为历史上首次收于0.8瑞郎下方，逼近3月20日所创盘中历史新低0.66瑞郎。瑞银集团（UBSG.SW）初步收跌4.01%，也连跌两天，报17.95瑞郎。]]></title>
             <guid>3040070</guid>
             <pubDate>Thu, 23 Mar 2023 16:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，加拿大预算提出的投资税收抵免用于电动汽车供应链的所有制造部件，包括电池。]]></title>
-            <guid>3040065</guid>
-            <pubDate>Thu, 23 Mar 2023 16:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，加拿大预算将包括30%的投资税收抵免，用于电动汽车所需的关键矿产开采和加工设备。]]></title>
-            <guid>3040064</guid>
-            <pubDate>Thu, 23 Mar 2023 16:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：很难解释13.75%的利率，巴西必须找到经济增长的路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrwy0011832.d.html</link>
-            <guid>3040061</guid>
-            <pubDate>Thu, 23 Mar 2023 16:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股地区性银行板块走低，Silvergate(SI.N)跌12%，西太平洋合众银行(PACW.O)跌超10%，第一共和银行(FRC.N)跌9%。]]></title>
-            <guid>3040058</guid>
-            <pubDate>Thu, 23 Mar 2023 16:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[维珍轨道(VORB.O)短线走低跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrww3225527.d.html</link>
-            <guid>3040051</guid>
-            <pubDate>Thu, 23 Mar 2023 16:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：沙特和叙利亚突然同意重开大使馆】据路透社23日报道，叙利亚和沙特阿拉伯两国政府已经同意在对方的国家重新开放大使馆，时机会选在4月下旬的开斋节之后。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrww3223284.d.html</link>
-            <guid>3040050</guid>
-            <pubDate>Thu, 23 Mar 2023 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲议员批评美国对于银行监管过于宽松 但警惕自己不要过于自满】一些欧盟议员表示，美国监管机构未能阻止硅谷银行和其他金融机构的倒闭，在这方面做的不好。他们认为，美国对银行监管过于宽松，特别是对小型银行的资本金规定更为宽松。欧洲议会议员Stéphanie Yon-Courtin指出，“美国和欧洲主要的区别在于巴塞尔协议III的适用上面，在美国该规则只适用于极少数银行，这就是问题所在。”据悉，巴塞尔协议III适用于大多数欧洲银行，但资产负债表低于2500亿美元的美国银行不必遵循该规则。虽然欧洲的部分议员对美国在银行监管方面进行了批评，但他们也承认，欧洲现在也不能自满，需要对此保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrwx9998265.d.html</link>
-            <guid>3040047</guid>
-            <pubDate>Thu, 23 Mar 2023 16:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克旗下SpaceX获沙特与阿联酋投资数十亿美元 估值达到1400亿美元】据悉，沙特阿拉伯投资基金的一家子公司和一家阿布扎比投资公司计划为马斯克旗下太空探索技术公司SpaceX投资数十亿美元。该轮融资预计对SpaceX的估值约为1400亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrww3220891.d.html</link>
-            <guid>3040046</guid>
-            <pubDate>Thu, 23 Mar 2023 16:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总理：俄经济重回增长轨道】俄罗斯总理米舒斯京23日在年度政府工作报告中指出，2022年俄罗斯经济保持坚挺并重回增长轨道。米舒斯京表示，过去一年对俄罗斯是“艰难的适应期和经济关系重组的一年”，俄罗斯经济现已重回增长轨道。他强调，俄罗斯面对的外部压力不太可能减弱，俄经济适应期将在2024年结束，国家将走上长期渐进发展道路。米舒斯京说，部分国际组织预测，俄罗斯经济2023年将呈现积极态势。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymwrww3220630.d.html</link>
-            <guid>3040045</guid>
-            <pubDate>Thu, 23 Mar 2023 16:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相发言人戴维斯：英国能源制造商的分分合合策略是不可接受的，英国能源监管机构“紧急”调查能源发电商的行为。]]></title>
-            <guid>3040043</guid>
-            <pubDate>Thu, 23 Mar 2023 15:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：瑞信危机后，欧盟监管机构将重新考虑流动性风险处理的问题，据悉监管机构正在寻求对存款粘性做出更明确的规定。]]></title>
-            <guid>3040042</guid>
-            <pubDate>Thu, 23 Mar 2023 15:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通：上调猫眼娱乐(01896.HK)评级至增持 目标价上调至12.2港元】摩根大通发表报告，指猫眼娱乐作为内地最大线上电影票务分销商，是内地线下消费复苏的主要受惠者之一。中国票房迅速回升，猫眼娱乐内地线上电影票务分销的市占率超过六成。因此，该行预期公司今年的收入将强劲增长33%。该行指出，相对于阿里影业，更为偏好猫眼娱乐，主要由于其估值较低，以及因投资带来的财务不确定性较低。该行对其目标价由6.5港元上调至12.2港元，评级亦由中性升至增持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-23/detail-imymwrwx9984655.d.html</link>
-            <guid>3040041</guid>
-            <pubDate>Thu, 23 Mar 2023 15:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯考虑将粮食收购量提高700万吨】俄罗斯考虑将粮食收购量提高700万吨；俄罗斯政府将建议，针对国家外汇交易中的食品贸易立法。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-23/detail-imymwrwx9983617.d.html</link>
-            <guid>3040038</guid>
-            <pubDate>Thu, 23 Mar 2023 15:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
