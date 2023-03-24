@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 24 Mar 2023 16:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 17:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国要求众多航司下周二和下周三砍掉20%的进出ORLY机场的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcu2948106.d.html</link>
+            <guid>3041505</guid>
+            <pubDate>Fri, 24 Mar 2023 16:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚启动首个太阳能电池厂，以促进清洁能源发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcv9725072.d.html</link>
+            <guid>3041504</guid>
+            <pubDate>Fri, 24 Mar 2023 16:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：瑞信银行AT1债券减记为零不应成为欧盟和英国保险公司RT1债券的模板。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcu2947771.d.html</link>
+            <guid>3041503</guid>
+            <pubDate>Fri, 24 Mar 2023 16:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统府：马克龙和阿尔及利亚总统同意有必要加强两国之间的合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcv9719463.d.html</link>
+            <guid>3041502</guid>
+            <pubDate>Fri, 24 Mar 2023 16:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统府：马克龙与阿尔及利亚总统交谈，阿尔及利亚大使将在未来几天返回法国。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcv9719047.d.html</link>
+            <guid>3041501</guid>
+            <pubDate>Fri, 24 Mar 2023 16:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局(FAA)将在发射批准前审查蓝色起源事故报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcu2938057.d.html</link>
+            <guid>3041500</guid>
+            <pubDate>Fri, 24 Mar 2023 16:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报数据显示，瑞银五年期信贷违约掉期（CDS）较周五早些时候下跌4个基点至135个基点。]]></title>
+            <guid>3041499</guid>
+            <pubDate>Fri, 24 Mar 2023 16:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西总统府：巴西总统卢拉将于周五下午与部长们举行会议。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-25/detail-imymyzcu2925495.d.html</link>
@@ -207,110 +248,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2971102.d.html</link>
             <guid>3041419</guid>
             <pubDate>Fri, 24 Mar 2023 14:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究机构Ortex：对德意志银行股票的卖空在过去两周翻了一番，达到3.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9748142.d.html</link>
-            <guid>3041418</guid>
-            <pubDate>Fri, 24 Mar 2023 14:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元峰会在比利时布鲁塞尔举行】欧元峰会在比利时首都布鲁塞尔举行。会后发表的声明指出，尽管通货膨胀和能源价格居高不下，但经济状况比之前预期的要好。欧盟将继续致力于密切协调经济政策，增加经济弹性，吸引持续投资，支持创新和创造就业机会，并加快绿色和数字化转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2969066.d.html</link>
-            <guid>3041417</guid>
-            <pubDate>Fri, 24 Mar 2023 14:33:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦当劳中国CEO：一季度生意回暖，今年新开超900家餐厅】在第七届“麦麦全席”发布会上，麦当劳中国首席执行官张家茵透露，今年第一季度生意有回暖，今年将新开超900家餐厅。张家茵指出，公司第一季度的生意有所回暖，同时也能明显看到消费和人流多了很多，线下消费的恢复非常明显。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2967535.d.html</link>
-            <guid>3041415</guid>
-            <pubDate>Fri, 24 Mar 2023 14:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱立信与联发科技实现4.36Gbps 5G下行速率】据爱立信中国官微，近日，爱立信与联发科技成功实现了四个载波的聚合，包括一个频分双工（FDD）载波和三个时分双工（TDD）载波，实现了4.36Gbps的下行速率。这也是基于该频段组合的已知最高速率。这种4CC载波聚合（CA）通过聚合不同的频段，增加电信运营商的5G部署选项。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9744206.d.html</link>
-            <guid>3041414</guid>
-            <pubDate>Fri, 24 Mar 2023 14:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世贸组织：韩国撤回了在WTO对日本出口限制的申诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9743864.d.html</link>
-            <guid>3041413</guid>
-            <pubDate>Fri, 24 Mar 2023 14:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【智度股份：海外子公司目前在部分业务中已经接入ChatGPT】智度股份在互动平台表示，公司积极跟进ChatGPT技术的发展与应用，探讨研究该技术对公司现有行业、公司客户的潜在影响，并探索该技术与公司业务结合的可能。海外子公司目前在部分业务中已经接入ChatGPT（3.5版本）。 自有浏览器Wave的侧栏开发了快捷登陆功能，用户可以在侧栏直接用自己的账户登录并方便、快捷的使用ChatGPT。 此外，公司积极准备、接触、探索最新的技术前沿与不同的相关产品，例如GPT-4、Bard与公司产品、商业模式的进一步结合。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2964853.d.html</link>
-            <guid>3041412</guid>
-            <pubDate>Fri, 24 Mar 2023 14:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【寻求更高IPO估值？软银旗下Arm拟提高芯片版税收费模式增收】上市时间表一再推迟的英国IP设计公司Arm，计划提高其芯片的版税收费模式，从而在IPO之前，实现更高的估值水平。Arm是软银集团收购的子公司。据报道，为了能够在今年纽约证券交易所IPO之前增加收入，Arm正在改变芯片设计的版税收费模式，以提高整体的收入与利润水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9741828.d.html</link>
-            <guid>3041411</guid>
-            <pubDate>Fri, 24 Mar 2023 14:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南株洲：公积金最高贷款额提至80万，首套房“可提可贷”】湖南省株洲市第五届住房公积金管理委员会第一次全体会议审议通过了《关于优化住房公积金业务政策和流程的议案》，6项住房公积金惠民新政策将于4月1日起实施。其中，新政明确实施首套房“可提可贷”政策。新政还提出提高住房公积金最高贷款额度，缴存职工住房公积金贷款最高额度由60万元调整至70万元；按政策生育二孩以上（至少有一个未成年子女）的缴存职工家庭最高额度为80万元。（株洲发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9741576.d.html</link>
-            <guid>3041410</guid>
-            <pubDate>Fri, 24 Mar 2023 14:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通分析师就德意志银行问题表示：我们不认为（CDS扩大）和相关股价下跌反映了该行的基本面。]]></title>
-            <guid>3041409</guid>
-            <pubDate>Fri, 24 Mar 2023 14:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通分析师就德意志银行问题表示：在我们看来，近期CDS扩大与所有市场参与者的一种去风险交易方式有关。]]></title>
-            <guid>3041407</guid>
-            <pubDate>Fri, 24 Mar 2023 14:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国与欧盟签署“温莎框架”协议】当地时间24日，英国外交发展大臣克莱弗利和欧盟委员会副主席塞夫科维奇在伦敦签署了旨在解决“脱欧”后北爱尔兰贸易争端的“温莎框架”协议。这一原则性政治协议包括一套全面的解决方案，旨在保护北爱尔兰公民和企业的利益，确保欧盟单一市场的完整性，让北爱尔兰拥有独特的准入渠道，从而解决“脱欧”后北爱尔兰的贸易安排问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9740371.d.html</link>
-            <guid>3041405</guid>
-            <pubDate>Fri, 24 Mar 2023 14:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【佳兆业集团：预期2022年度录得亏损净额约120亿元至140亿元】佳兆业集团在港交所公告，根据对集团2022年度的未经审核管理帐目及目前可得资料的初步评估，集团预期将于本年度录得亏损净额介乎约120亿元至140亿元。减少主要由于物业交付减少导致来自销售物业的收益减少；及美元兑人民币的汇率波动导致以美元计值的债务产生汇兑亏损。此外，集团预期录得公司拥有人应占核心亏损介乎约35亿元至55亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9739538.d.html</link>
-            <guid>3041404</guid>
-            <pubDate>Fri, 24 Mar 2023 14:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全志科技：已基于阿里平头哥RISC-V内核开发多款芯片产品，并在多个下游应用场景实现量产】全志科技近期接受机构调研时表示，公司已经基于阿里平头哥RISC-V内核开发了多款芯片产品并在多个下游应用场景实现量产。]]></title>
-            <guid>3041403</guid>
-            <pubDate>Fri, 24 Mar 2023 14:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通分析师就德意志银行问题表示：我们今天不担心交易对手以及流动性问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9739100.d.html</link>
-            <guid>3041401</guid>
-            <pubDate>Fri, 24 Mar 2023 14:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建设银行：2023年跨境融资人民币投放规模不低于5000亿元】据“今日建行”微信公众号，近日，建设银行正式推出《支持扩大人民币跨境使用 促进贸易投资便利化行动方案》，出台一系列具体工作举措，提出2023年跨境融资人民币投放规模不低于5000亿元，持续全面推进人民币国际化业务发展，助力促进国内国际双循环发展与扩大对外开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2960978.d.html</link>
-            <guid>3041396</guid>
-            <pubDate>Fri, 24 Mar 2023 14:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【轮胎客户抢货 专家：轮胎行业拐点显现】在山东广饶的一家轮胎企业，负责人告诉记者，公司目前的内销和出口订单都较为充足，部分产品甚至出现了客户抢货的情况，库存也处于相对的低位。一位轮胎经销商的负责人告诉记者，节后大家对于市场都比较乐观，终端门店拿货拿得比较多，他们索性也在轮胎企业搞促销的时候，备了很多货。分析人士认为，目前国内的轮胎市场正处于修复期，在经过了节后快速补货的高峰期后，目前中下游正处于消化库存的阶段。从整个2023年来看，物流货运量恢复将加快轮胎置换周期，新能源车的继续发展也将推进国产轮胎配套市场增长。 (央视财经)]]></title>
-            <guid>3041395</guid>
-            <pubDate>Fri, 24 Mar 2023 14:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信银行行长方合英：房地产信贷需求正在企稳，要稳住按揭基本盘】中信银行行长方合英3月24日在中信银行2022年度业绩发布会上表示，信贷需求向好是今年的大趋势。中信银行今年一季度的信贷投放量，已经超过了近几年来每年上半年的信贷投放量。在零售信贷投向上，中信银行将聚焦三大主题——支持消费、支持实体经济和促进房地产平稳健康发展；重点培育四个产品线——信用卡、消费贷，按揭贷款和个人经营贷。“我们要继续强化零售信贷的主流地位。”方合英表示，要稳住按揭基本盘，深耕经营贷，继续做大信用卡贷款，提高分期投放力度，在支持消费升级的同时把信用卡规模做大。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvx9736361.d.html</link>
-            <guid>3041393</guid>
-            <pubDate>Fri, 24 Mar 2023 14:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国水事大会启动大规模河流修复工作，2030年前计划修复30万公里】哥伦比亚、刚果民主共和国、厄瓜多尔、加蓬、墨西哥和赞比亚于3月22日发起了一项重大倡议，旨在于2030 年前修复总计长30万公里的河流以及因人类活动而退化的湖泊和湿地。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-24/detail-imymyuvw2958816.d.html</link>
-            <guid>3041391</guid>
-            <pubDate>Fri, 24 Mar 2023 14:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
