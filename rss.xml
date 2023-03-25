@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 Mar 2023 19:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 20:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国密西西比州受龙卷风影响地区进入紧急状态】美国密西西比州州长泰特·里夫斯宣布该州所有受龙卷风影响的地区均进入紧急状态，并承诺密西西比州将尽一切努力向有需要的人提供资源并帮助地区重建。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imyncqsq2432320.d.html</link>
+            <guid>3042278</guid>
+            <pubDate>Sat, 25 Mar 2023 20:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其：若瑞典新反恐法案通过 将重新审核其“入约”申请】当地时间3月25日，土耳其总统府发言人卡伦表示，土耳其批准瑞典加入北约的大门尚未完全关闭，一旦瑞典的新反恐法案通过，土耳其看到解决其安全问题的具体措施后，将会重新审核瑞典的“入约”申请。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imyncqsr9201071.d.html</link>
+            <guid>3042277</guid>
+            <pubDate>Sat, 25 Mar 2023 19:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深度解读泰国游涨价：物价整体涨超两成，跟团游难回三千元 涨价原因包括这个国家游客猛增】“遍地都是中国游客”“看人下菜碟”“坐地起价”……出境游恢复后，曾经一些国人眼中的出境穷游天堂泰国，却成为网友口中“去不起”的目的地。从反馈情况来看，物价普涨20%-30%已成为泰国本地人的共识。在此基础上，游客的旅游成本涨幅会更大：酒店在淡季卖出了旺季价，民宿、机票价格上浮；团餐等基础项目涨价50%，让跟团游产品价格直接告别3000元以内的区间；游乐项目与物价涨幅基本持平，但项目经营商在此基础上向外地游客“再涨价”的现象也偶有发生。]]></title>
+            <guid>3042276</guid>
+            <pubDate>Sat, 25 Mar 2023 19:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：同意美记者关于美情报机构参与破坏“北溪”管道的结论】当地时间3月25日，俄罗斯全俄国家电视广播公司发布对俄罗斯总统普京的采访。普京表示，他完全同意美国记者赫什关于美国情报机构参与破坏“北溪”天然气管道的结论。普京认为，目前要获得真相是很难的，但总有一天事实会公之于众。普京同时表示，俄方收到丹麦方面有关答复，称在“北溪”管道附近发现的物体不是爆炸物，但是俄方人士不被允许前往调查。（央视新闻）]]></title>
+            <guid>3042275</guid>
+            <pubDate>Sat, 25 Mar 2023 19:29:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【资金逆势涌入新能源车主题ETF 有产品份额激增超80%】尽管年内新能源车板块表现低迷，相关主题ETF回报均告负，但资金却持续逆势涌入，对主题ETF呈越跌越买之势。数据显示，年内新能车主题ETF合计份额相较于年初增幅超30%，并有产品份额涨幅超80%。多位业内人士认为，投资者对新能车主题ETF的越跌越买，主要是基于对板块中长期投资价值的肯定。（中国基金报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imyncqsq2402655.d.html</link>
@@ -410,11 +432,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-25/detail-imynatny2595261.d.html</link>
             <guid>3041926</guid>
             <pubDate>Sat, 25 Mar 2023 10:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中信证券将中国平安A股评级上调至买进；目标价60元人民币。]]></title>
-            <guid>3041923</guid>
-            <pubDate>Sat, 25 Mar 2023 10:25:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
