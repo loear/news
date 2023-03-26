@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Mar 2023 15:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 16:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄原子能电力公司：格罗西将访问扎波罗热核电站】俄罗斯原子能电力公司总经理顾问卡尔恰阿当地时间3月26日表示，国际原子能机构总干事格罗西将于3月29日访问扎波罗热核电站，国际原子能机构专家的轮换也将在同一天进行。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynfpis2059168.d.html</link>
+            <guid>3042672</guid>
+            <pubDate>Sun, 26 Mar 2023 16:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日赚1.82亿元！中国石化晒2022年成绩单】2022年受多种因素影响，境内天然气、石化产品和成品油需求疲弱。中国一体化能源化工巨头中国石化仍然交出了不错的成绩单。该公司3月26日晚间披露2022年年报显示，2022年营收3.32万亿元，同比增长21.06%；全年净利润663.02亿元，同比减少6.89%。以一年365天来计算，中国石化2022年日赚约1.82亿元。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfpis2041305.d.html</link>
+            <guid>3042670</guid>
+            <pubDate>Sun, 26 Mar 2023 15:43:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根大通：总的来说，这些发展缩小了软着陆的可能性，并降低了大幅提高政策利率的可能性。]]></title>
             <guid>3042665</guid>
@@ -386,24 +398,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatx8870635.d.html</link>
             <guid>3042572</guid>
             <pubDate>Sun, 26 Mar 2023 11:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士再保险瑞再研究院：去年自然灾害致全球经济损失2750亿美元】 瑞士再保险瑞再研究院的一份年度报告显示，去年自然灾害导致的全球经济损失高达2750亿美元（约合人民币1.88万亿元）。具体来看，去年9月，飓风“伊恩”登陆美国佛罗里达州，造成了约500亿至650亿美元的保险损失，为去年最高的自然灾害保费，也是迄今为止最昂贵的自然灾害保费。报告还指出，去年全球洪灾造成的经济损失高于往年平均水平，仅去年2至3月，在澳大利亚东部发生的洪灾就造成了43亿美元（约合人民币295亿元）的保险损失。瑞士再保险瑞再研究院还表示，在过去30年里，自然灾害造成的保险损失平均每年增长5%-7%。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatw2089210.d.html</link>
-            <guid>3042570</guid>
-            <pubDate>Sun, 26 Mar 2023 10:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【游戏板块近期持续回暖 主题ETF领涨】据中国基金报，近期，游戏板块持续回暖，相关主题ETF涨幅也尤为明显。数据显示，截至3月24日，游戏主题ETF年内平均回报达44.38%，不仅领涨ETF产品，还有4只产品霸榜年内回报前四位。多位业内人士表示，游戏板块近期大幅上涨，除政策环境企稳、游戏版号的发放重启并趋于常态化外，也离不开GPT-4、文心一言等诸多AI领域应用的迅速发布，这一方面让大家看到了科技发展的空间和方向，另一方面也打开了市场对于“游戏+AI”行业的想象空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatw2089082.d.html</link>
-            <guid>3042569</guid>
-            <pubDate>Sun, 26 Mar 2023 10:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道达尔能源公司发言人：该公司法国炼油厂和仓库33%的运营人员周日举行罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatw2080919.d.html</link>
-            <guid>3042568</guid>
-            <pubDate>Sun, 26 Mar 2023 10:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
