@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Mar 2023 17:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 18:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄将在白俄罗斯部署战术核武器 乌外交部呼吁安理会召开紧急会议】据美联社、英国《卫报》等媒体报道，对于俄罗斯此前宣布将在白俄罗斯部署战术核武器一事，乌克兰外交部当地时间周日（26日）发表声明进行谴责，并呼吁联合国安理会就此召开紧急会议。（环球网）]]></title>
+            <guid>3042677</guid>
+            <pubDate>Sun, 26 Mar 2023 17:45:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国死于药物过量和酒精滥用的青少年人数在三年内翻倍】据美国《国会山报》当地时间3月26日报道，美国疾病控制和预防中心的数据显示，从2018年到2021年三年间，美国死于药物过量和酒精滥用的15至19岁青少年人数翻倍，从788人增加1755人。而根据2022年发表在《美国医学会杂志》上的一项研究显示，在2010年至2021年间，死于从黑市获得的芬太尼以及相关合成药物的青少年增加了20多倍，从38人增加到884人。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynfpit8868062.d.html</link>
@@ -376,17 +381,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatx8877485.d.html</link>
             <guid>3042578</guid>
             <pubDate>Sun, 26 Mar 2023 11:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰元股份：尽快推进宁德时代、厦门海辰、比克、LG等海内外客户批量供货工作】 客户方面，公司继续加强与已有重点客户比亚迪等下游企业的深度合作，尽快推进宁德时代、厦门海辰、比克、LG等海内外客户的批量供货工作，确保公司在锂电池正极材料市场的竞争力和市场占有率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatw2100202.d.html</link>
-            <guid>3042577</guid>
-            <pubDate>Sun, 26 Mar 2023 11:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，沙特阿美合资公司哈普科（Hapco）将在中国开始建设大型炼油和石化综合设施。根据声明，建设计划于2023年第二季度开始。相关综合设施预计将在2026年完全投入运营。沙特阿美石油公司将为该项目每天供应多达21万桶原油原料。]]></title>
-            <guid>3042576</guid>
-            <pubDate>Sun, 26 Mar 2023 11:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
