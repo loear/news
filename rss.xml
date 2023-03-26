@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Mar 2023 18:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 19:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西前总统罗塞夫当选金砖国家新开发银行行长】3月24日，金砖国家新开发银行（NDB）在其网站上发布声明表示，巴西前总统迪尔玛·罗塞夫当选为该银行行长。NDB在其声明中表示：“2023年3月24日，NDB理事会一致选举罗塞夫担任本行行长，立即生效，（这一程序）完全按照NDB的协议条款和行长选举程序进行。”按照计划，NDB前行长马可（Marcos Troyjo）于2023年3月24日卸任。根据《成立新开发银行的协议》，NDB行长从创始成员国中选举产生并轮流担任。NDB理事会将选出由巴西提名的新行长，履行将于2025年7月6日届满的现任巴西轮值任期。选举结束后，新行长就职。NDB在声明中表示，马可自2020年7月起担任NDB行长，对NDB的成功发挥了重要作用。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynftrq2016813.d.html</link>
+            <guid>3042680</guid>
+            <pubDate>Sun, 26 Mar 2023 18:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利兰佩杜萨岛单日迎来逾2000名移民】意大利官员当地时间3月25日表示，2000多名难民及非法移民过去24小时乘船抵达兰佩杜萨岛，刷新同期最高纪录。另据意大利内政部数据，今年1至2月，乘船抵达意大利的难民及非法移民人数已达到去年同期的3倍多。兰佩杜萨岛位于意大利最南端，是非洲和中东战乱地区难民及非法移民前往意大利本土和欧洲其他国家的主要中转地之一。近年来，大量偷渡者选择乘船横渡地中海，不时发生船只倾覆等悲剧事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynftrq2006885.d.html</link>
+            <guid>3042679</guid>
+            <pubDate>Sun, 26 Mar 2023 18:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄将在白俄罗斯部署战术核武器 乌外交部呼吁安理会召开紧急会议】据美联社、英国《卫报》等媒体报道，对于俄罗斯此前宣布将在白俄罗斯部署战术核武器一事，乌克兰外交部当地时间周日（26日）发表声明进行谴责，并呼吁联合国安理会就此召开紧急会议。（环球网）]]></title>
             <guid>3042677</guid>
@@ -369,18 +381,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatw2100686.d.html</link>
             <guid>3042580</guid>
             <pubDate>Sun, 26 Mar 2023 11:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷曼光电：从年初情况来看，原材料价格目前趋于稳定】 雷曼光电近期接受机构调研时表示，从今年年初的情况来看，原材料的价格目前趋于稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatx8877671.d.html</link>
-            <guid>3042579</guid>
-            <pubDate>Sun, 26 Mar 2023 11:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰元股份：短期内市场会有一定波动，长期来看新能源市场前景广阔】 短期内市场会有一定波动，长期来看，新能源市场前景广阔，公司看好未来新能源市场的发展前景，坚持深耕新能源材料产业方向不动摇，将凭借主流的产品路线，前沿的技术研发、精益的运营管理和优质的客户服务，为行业发展注入丰元力量，助力节能减排和绿色可持续发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfatx8877485.d.html</link>
-            <guid>3042578</guid>
-            <pubDate>Sun, 26 Mar 2023 11:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
