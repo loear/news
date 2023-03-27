@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 27 Mar 2023 18:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 19:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.18%，报19638点，高水70点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-28/detail-imynkawn1648102.d.html</link>
+            <guid>3044857</guid>
+            <pubDate>Mon, 27 Mar 2023 19:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国田纳西州一小学发生枪击事件 致7人死亡】美国田纳西州纳什维尔市当地时间3月27日一所小学发生枪击事件，造成包括3名儿童在内的6人遇害，枪手被警察击毙。纳什维尔市警方当天通报说，当地时间10时13分，警方接到报警电话，一名28岁的女性携带两支攻击性步枪和一把手枪在一所小学内开枪射击，造成3名儿童和3名成年人死亡。枪手被到场警察击毙。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-28/detail-imynkawp8422283.d.html</link>
+            <guid>3044855</guid>
+            <pubDate>Mon, 27 Mar 2023 18:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果收购视频AI创业公司WaveOne】综合多家媒体周一报道，就在ChatGPT大红大紫的背景下，苹果在今年2月悄悄买下了一家位于加州的AI算法公司WaveOne。虽然苹果公司拒绝回应这一消息，但包括WaveOne高管之一的Bob Stankosh和多名员工，目前已经在苹果公司的多个机器学习业务线上工作。与此同时，WaveOne的网站也已经在1月前后下线。Bob Stankosh也曾在社交媒体上确认这一交易，他写道：“在意识到机器学习/深度学习视频技术具有改变世界的潜力后，我们开始了WaveOne的旅程。现在苹果看到了这项技术的潜力，并将其收入他们的技术储备中。”]]></title>
+            <guid>3044853</guid>
+            <pubDate>Mon, 27 Mar 2023 18:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家国际零部件企业持续加码前沿技术投资，电气化业务成为增长引擎】 截至3月27日，据不完全统计，已有包括博世、采埃孚、电装、大陆集团、佛瑞亚、法雷奥、舍弗勒、博格华纳等在内的16家国际主流零部件企业发布2022年业绩财报。总体来看，尽管去年零部件供应商面临着诸多成本和经营方面的挑战，但其营收几乎全部实现上涨。从业务板块变化来看，智能化前沿领域业务研发支出投入权重递增，电气化业务表现抢眼。德基先进制造与出行产业合伙人张帆认为，一辆传统燃油车需要1800个到2500个独立的电子元件，而电动汽车的需求是传统燃油车的两倍，且更加昂贵和精密。这意味着零部件企业必须加速向电动汽车过渡，持续加码前沿技术投资，以培育新的利润增长点。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-28/detail-imynkawn1632996.d.html</link>
+            <guid>3044850</guid>
+            <pubDate>Mon, 27 Mar 2023 18:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【年内A股再融资规模超2400亿元，定增募资额同比增逾七成】 据统计，截至3月27日，今年以来A股再融资规模达2412.36亿元，同比增长11%。其中，定增（含配套融资）募资1977.53亿元，同比增长74.5%。可转债、配股分别募资412.51亿元、22.32亿元。受访专家表示，全面注册制改革进一步优化了再融资发行条件和审核流程，预计今年上市公司再融资需求将大幅增长，定增仍是主流选择。从行业来看，新能源、高科技等赛道再融资规模较高。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-28/detail-imyniwqr8536308.d.html</link>
@@ -256,57 +279,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-28/detail-imynisht8590078.d.html</link>
             <guid>3044761</guid>
             <pubDate>Mon, 27 Mar 2023 16:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江波龙释疑存储行业新趋势：下半年市场有望好转 AI或将带来新需求】据21财经，江波龙高级副总裁、COO王景阳认为，2022年存储市场价格波动大的领域主要集中在消费级产品，而工业级和车规级存储产品增长较快，公司的相关业务表现也非常健康，“我们从2020年开始规划研发企业级产品，到目前已经三年时间，刚刚进入收获期，今年量产规模不会很大，但成长性会非常高。”展望2023年后三个季度，王景阳认为下半年消费级存储市场陆续会有好转迹象，有望迎来价格的提升，此外，存储市场的工规级、车规级产品具备长期的增长趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-28/detail-imynishs1808731.d.html</link>
-            <guid>3044758</guid>
-            <pubDate>Mon, 27 Mar 2023 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列总理内塔尼亚胡同意推迟司法改革进程】据央视新闻，当地时间3月27日，以色列极右翼政党“犹太力量党”发表声明称，总理内塔尼亚胡已经同意将司法改革推迟到今年夏天。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynishs1808519.d.html</link>
-            <guid>3044757</guid>
-            <pubDate>Mon, 27 Mar 2023 15:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（3月27日）欧市尾盘，德国10年期国债收益率上涨10.0个基点，报2.229%，盘中交投于2.136%-2.276%区间。]]></title>
-            <guid>3044756</guid>
-            <pubDate>Mon, 27 Mar 2023 15:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内大跌6.00%，现报2.217美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynisht8579698.d.html</link>
-            <guid>3044753</guid>
-            <pubDate>Mon, 27 Mar 2023 15:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门各方将在4月10日和11日完成新一批被俘人员交换】据央视新闻，当地时间3月27日下午，也门胡塞武装换俘事务谈判代表团从瑞士返回也门，抵达胡塞武装控制下的首都萨那国际机场。代表团表示，根据各方3月20日在瑞士达成的协议，将在4月10日和11日完成新一批被俘人员交换，届时双方将有887名被俘人员获释，交换地点包括也门境内的首都萨那、临时首都亚丁、马里卜省和沙特首都利雅得，全程将在红十字国际委员会的监督下完成。下一轮换俘谈判将在五月展开。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynishs1797129.d.html</link>
-            <guid>3044750</guid>
-            <pubDate>Mon, 27 Mar 2023 15:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线走高0.6美元，现分别报71.20美元/桶和76.74美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynishs1797046.d.html</link>
-            <guid>3044749</guid>
-            <pubDate>Mon, 27 Mar 2023 15:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数3月27日（周一）收盘上涨173.42点，涨幅1.16%，报15130.65点；英国富时100指数3月27日（周一）收盘上涨66.15点，涨幅0.89%，报7471.60点；法国CAC40指数3月27日（周一）收盘上涨63.17点，涨幅0.90%，报7078.27点；欧洲斯托克50指数3月27日（周一）收盘上涨33.03点，涨幅0.80%，报4163.65点；西班牙IBEX35指数3月27日（周一）收盘上涨125.50点，涨幅1.43%，报8918.00点；意大利富时MIB指数3月27日（周一）收盘上涨310.82点，涨幅1.20%，报26203.00点。]]></title>
-            <guid>3044748</guid>
-            <pubDate>Mon, 27 Mar 2023 15:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数下跌】波罗的海干散货运价指数周一下跌，因所有船型需求走弱。波罗的海干散货运价指数下跌33点或2.2%，至1456点。海岬型船运价指数下跌87点或4.6%，至1795点。海岬型船日均获利减少723美元，至14888美元。巴拿马型船运价指数下跌7点或0.5%，至1565点，为3月3日以来最低水平。巴拿马型船日均获利减少64美元，至14085美元。超灵便型散货船运价指数下跌6点，至1326点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynishs1794420.d.html</link>
-            <guid>3044746</guid>
-            <pubDate>Mon, 27 Mar 2023 15:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）提交的诉讼信息显示，币安第一任首席合规官Samuel Lim也遭起诉，CFTC表示，Samuel Lim至少在2022年1月之前一直担任该职位，目前居住在新加坡，但币安拒绝提供其新加坡住址以回应CFTC的调查传票。]]></title>
-            <guid>3044745</guid>
-            <pubDate>Mon, 27 Mar 2023 15:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
