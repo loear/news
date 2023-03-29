@@ -4,11 +4,60 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 29 Mar 2023 21:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 22:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周四（3月30日）亚太盘初，纳斯达克100股指期货下跌0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqvkq8037045.d.html</link>
+            <guid>3047742</guid>
+            <pubDate>Wed, 29 Mar 2023 22:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国在野党要求对韩日领导人会谈发起调查】韩国最大在野党共同民主党29日强烈谴责日本政府审定通过争议教科书的做法，指责韩国总统尹锡悦在外交上的让步只换来日本的“背叛、挑衅”，要求国会对两国领导人会谈内容发起调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqvks4810081.d.html</link>
+            <guid>3047741</guid>
+            <pubDate>Wed, 29 Mar 2023 21:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚三年期国债收益率涨4.1个基点，在悉尼盘初报2.950%。10年期澳债收益率涨4.9个基点，报3.333%。]]></title>
+            <guid>3047740</guid>
+            <pubDate>Wed, 29 Mar 2023 21:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰2月营建许可月率下降9%，前值下降1.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqvkq8024264.d.html</link>
+            <guid>3047738</guid>
+            <pubDate>Wed, 29 Mar 2023 21:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国罢工浪潮持续 政府释放超过1000万桶石油库存】据一位知情人士透露，由于法国炼油厂和港口工人继续罢工，法国战略库存已释放逾1000万桶石油，其中大部分是成品油。自3月6日当周以来，法国政府释放了110万立方米汽油/柴油。40万立方米的航空燃油。15万立方米的原油。根据机构计算，法国政府累计释储总量为165万立方米，相当于约1040万桶石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqvks4800113.d.html</link>
+            <guid>3047737</guid>
+            <pubDate>Wed, 29 Mar 2023 21:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LendingTree Inc.（TREE）宣布裁员计划：公司将在现有人员的基础上裁员13%。]]></title>
+            <guid>3047735</guid>
+            <pubDate>Wed, 29 Mar 2023 21:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西太平洋合众银行（PACW）美股盘后上涨3%，标普道琼斯指数公司将该公司纳入标普小盘股600指数。]]></title>
+            <guid>3047732</guid>
+            <pubDate>Wed, 29 Mar 2023 21:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roark Capital Group等私募据称参与竞购美国康乃狄克州三明治连锁店赛百味（Subway）。赛百味寻求获得超过100亿美元估值，部分潜在买家可能会给出最高80亿美元的估值。]]></title>
+            <guid>3047730</guid>
+            <pubDate>Wed, 29 Mar 2023 21:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西财政框架预计2025年基本盈余为0.5%；预计2026年财政盈余1%。]]></title>
+            <guid>3047729</guid>
+            <pubDate>Wed, 29 Mar 2023 21:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周三（3月29日）纽约尾盘，ICE美元指数涨0.22%，报102.651点，日内交投区间为102.373-102.786点。美元指数涨0.22%，报1232.47点，日内交投区间为1229.71-1233.54点。]]></title>
             <guid>3047725</guid>
@@ -194,44 +243,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqkuw4956288.d.html</link>
             <guid>3047647</guid>
             <pubDate>Wed, 29 Mar 2023 17:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 4月黄金期货收跌0.33%，报1966.90美元/盎司。COMEX 6月黄金期货收跌0.29%，报1984.50美元/盎司。]]></title>
-            <guid>3047645</guid>
-            <pubDate>Wed, 29 Mar 2023 17:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新能源汽车公司Bestpath IoT Technology拟通过SPAC上市 标志十亿美元级大单并购回归】 Aquaron Acquisition Corp.对氢燃料电池汽车企业Bestpath IoT Technology的估值为12亿美元，预计今年晚些时候完成。汇编数据显示，这一初始估值约为3月宣布的其他交易平均估值的三倍。]]></title>
-            <guid>3047643</guid>
-            <pubDate>Wed, 29 Mar 2023 17:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Element将资产管理规模瘦身30亿美元，强迫部分客户赎回资金】 Jeff Talpins的公司Element Capital Management LLC.强迫部分客户赎回资金。该公司正试图将资产管理规模砍掉大约30亿美元，鼓励投资者撤回资金，并“驱逐”那些拒绝执行其建议的人。Element认为，自身规模过于庞大，在连续两年发生亏损的情况下，可以通过压缩资管规模实现灵活投资操作。数据显示，该公司1月份资产管理规模为126亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqkuw4937605.d.html</link>
-            <guid>3047638</guid>
-            <pubDate>Wed, 29 Mar 2023 17:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：预计失业率上升/可自由支配支出减少将主要影响消费者依赖型行业，这些行业占“ccc”至“c”级借款人的一半。]]></title>
-            <guid>3047636</guid>
-            <pubDate>Wed, 29 Mar 2023 17:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7年期国债拍卖后收益率走高，报3.647％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqkuu8149235.d.html</link>
-            <guid>3047632</guid>
-            <pubDate>Wed, 29 Mar 2023 17:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西：国际原子能机构现在正在寻求提高反应堆的物理保护措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-30/detail-imynqkuw4924965.d.html</link>
-            <guid>3047627</guid>
-            <pubDate>Wed, 29 Mar 2023 17:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西：国际原子能机构放弃在扎波罗热核电站周围建立安全区的提议。]]></title>
-            <guid>3047626</guid>
-            <pubDate>Wed, 29 Mar 2023 17:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
