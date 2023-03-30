@@ -4,11 +4,72 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 30 Mar 2023 19:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 20:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：智利马乌莱大区离岸发生6.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyis4508863.d.html</link>
+            <guid>3049651</guid>
+            <pubDate>Thu, 30 Mar 2023 20:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nikola盘后一度下挫超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyiq7728460.d.html</link>
+            <guid>3049645</guid>
+            <pubDate>Thu, 30 Mar 2023 20:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3B家居（BBBY）收跌26%，报0.59美元，创收盘历史新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyiq7725700.d.html</link>
+            <guid>3049638</guid>
+            <pubDate>Thu, 30 Mar 2023 20:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：马萨诸塞州证券监管机构正在调查第一共和银行内部人士出售股票的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyis4502462.d.html</link>
+            <guid>3049635</guid>
+            <pubDate>Thu, 30 Mar 2023 20:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evercore ISI：将沃尔玛(WMT.N)目标价从145美元上调至160美元。]]></title>
+            <guid>3049633</guid>
+            <pubDate>Thu, 30 Mar 2023 19:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raymond James：将英特尔(INTC.O)目标价从33美元上调至35美元。]]></title>
+            <guid>3049632</guid>
+            <pubDate>Thu, 30 Mar 2023 19:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克曾试图就推特问题与FTC主席会面，但遭到拒绝】马斯克曾要求与美国联邦贸易委员会（FTC）主席莉娜·可汗（Lina Khan）会面，但遭到了拒绝。该委员会一直在调查推特的隐私和数据操作。一位知情人士表示，马斯克是在去年年底做出这一尝试的。马斯克试图与FTC联系，表明了该机构对推特调查的严重性。该机构调查的重点是，在马斯克去年收购这家社交媒体公司并解雇了数千名员工之后，这家公司是否有足够的资源保护用户的隐私。据悉该机构曾单独寻求就调查与马斯克面谈，但一位知情人士说，会谈尚未进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyis4491154.d.html</link>
+            <guid>3049631</guid>
+            <pubDate>Thu, 30 Mar 2023 19:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【D.A. Davidson：将Pinterest(PINS.N)目标价从24美元下调至23美元 维持中性评级】D.A. Davidson分析师Tom Forte将Pinterest的目标价从24美元下调至23美元，并保持中性评级，此前该公司宣布重组计划。该分析师在研报中表示，虽然对Pinterest管理支出的进一步举措感到“鼓舞”，但2月份的裁员表明，第一季度的趋势比预期的要弱一些。]]></title>
+            <guid>3049630</guid>
+            <pubDate>Thu, 30 Mar 2023 19:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证协解析证券业2022年经营情况，前十券商贡献行业六成净利】中国证券业协会近日向券商下发了《证券公司2022年度经营情况分析》。该报告显示，2022年前十名券商的收入及净利总和分别占比46%、60%。此外，我国证券行业对外开放程度持续提升，17家外资参控股券商去年营收占比达7.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynsyiq7711748.d.html</link>
+            <guid>3049629</guid>
+            <pubDate>Thu, 30 Mar 2023 19:38:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蒙特利尔银行：将Lululemon(LULU.O)目标价从304美元上调至340美元 维持与大市同步评级】蒙特利尔银行将Lululemon的目标价从304美元上调至340美元，但对该股保持与大市同步评级。分析师在研报中表示，该公司好于预期的业绩应该会使股价上涨，但围绕清理库存和长期利润率的未来进程仍存在疑问。该行补充，虽然Lululemon的品牌实力将推动显著的销售增长，但该公司的EBIT利润率已接近峰值，该股的上升空间可能受到限制。]]></title>
+            <guid>3049624</guid>
+            <pubDate>Thu, 30 Mar 2023 19:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月31日03时11分在河北邢台市宁晋县（北纬37.47度，东经115.01度）发生2.2级地震，震源深度10千米。]]></title>
+            <guid>3049622</guid>
+            <pubDate>Thu, 30 Mar 2023 19:18:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴克莱：将CVS健康(CVS.N)目标价从110美元下调至100美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynstzu4605963.d.html</link>
@@ -149,11 +210,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynstzu4560382.d.html</link>
             <guid>3049554</guid>
             <pubDate>Thu, 30 Mar 2023 17:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：就第二季度全球信贷状况而言，银行业压力加剧，整体融资条件收紧，但影响相对缓和、受控。]]></title>
-            <guid>3049520</guid>
-            <pubDate>Thu, 30 Mar 2023 17:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
