@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 31 Mar 2023 21:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 22:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新疆阿克苏地区库车市发生3.0级地震】中国地震台网正式测定：04月01日05时22分在新疆阿克苏地区库车市（北纬41.15度，东经83.42度）发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4161443.d.html</link>
+            <guid>3051111</guid>
+            <pubDate>Fri, 31 Mar 2023 21:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国阿肯色州连遭两次龙卷风袭击 超7万用户停电】美国国家气象局当地时间3月31日证实，美国阿肯色州31日下午遭遇两次龙卷风袭击。美国电力跟踪网站PowerOutage.us的数据显示，截至美国东部时间16时53分，阿肯色州已经有7.4464万用户停电。阿肯色州州长办公室已经发布警告，疏散受灾严重地区的居民，紧急救援人员也将展开工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4159643.d.html</link>
+            <guid>3051110</guid>
+            <pubDate>Fri, 31 Mar 2023 21:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【联合国粮农组织：土耳其强震致该国粮食产量损失20%】土耳其阿纳多卢通讯社援引联合国粮农组织发布的报告称，2月6日发生在土耳其南部的强震使该国农业生产遭受重创，产量损失达20%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4144889.d.html</link>
@@ -110,28 +122,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4206939.d.html</link>
             <guid>3051017</guid>
             <pubDate>Fri, 31 Mar 2023 18:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美光科技称已知悉中国对其产品进行审查，将全力配合；美光称其产品安全可靠。]]></title>
-            <guid>3051015</guid>
-            <pubDate>Fri, 31 Mar 2023 18:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF：董事会批准了为乌克兰提供156亿美元的四年期贷款，这是1150亿美元国际援助总额的一部分资金。]]></title>
-            <guid>3051007</guid>
-            <pubDate>Fri, 31 Mar 2023 18:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AT&T(T.N)宣派每股普通股0.2775美元的季度股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4198903.d.html</link>
-            <guid>3051005</guid>
-            <pubDate>Fri, 31 Mar 2023 18:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国中南部将遭遇强风暴天气 21个州或受影响】美国南部以及中部地区预计31日下午将遭遇强风暴天气，强龙卷风和冰雹预计将影响21个州。目前，密西西比州北部至艾奥瓦州部分地区已将强风暴的风险级别提高到4级，预计风速将不低于每小时218.8公里（136英里）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4327602.d.html</link>
-            <guid>3051004</guid>
-            <pubDate>Fri, 31 Mar 2023 17:59:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
