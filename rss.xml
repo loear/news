@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 Apr 2023 15:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 16:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -454,17 +454,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynwmaa3927613.d.html</link>
             <guid>3052269</guid>
             <pubDate>Sat, 01 Apr 2023 08:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利驻欧盟能源专员Cernobbio：就更高的欧盟可再生能源目标达成一致是一项雄心勃勃的协议，应该有助于成员国升级国家能源和气候计划。]]></title>
-            <guid>3052268</guid>
-            <pubDate>Sat, 01 Apr 2023 08:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO Ermotti：就国际水平而言，瑞银—瑞信（合并后）的规模并未过大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynwmaa3922084.d.html</link>
-            <guid>3052267</guid>
-            <pubDate>Sat, 01 Apr 2023 08:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
