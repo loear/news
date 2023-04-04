@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Apr 2023 19:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 20:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[强生将向4万名受害者支付总计89亿美元赔偿金，以了结滑石粉致癌案的诉讼。公司称将就此重新提交破产申请，来限制赔偿额度。]]></title>
+            <guid>3056268</guid>
+            <pubDate>Tue, 04 Apr 2023 20:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利北部沿岸近海发生5.8级地震】中国地震台网正式测定：04月05日03时08分在智利北部沿岸近海（南纬27.50度，西经71.10度）发生5.8级地震，震源深度50千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imyphiyr2746451.d.html</link>
+            <guid>3056267</guid>
+            <pubDate>Tue, 04 Apr 2023 20:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西计划和预算部长Tebet：巴西财政规则法案将于明天完成，巴西需要约1100亿至1200亿雷亚尔才能将赤字降至零。]]></title>
+            <guid>3056264</guid>
+            <pubDate>Tue, 04 Apr 2023 20:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国小麦期货溢价扩大，农作物条件陡然变差】周二（4月4日）纽约尾盘，谷物分类指数跌0.41%，报46.8507点。CBOT玉米期货跌0.65%，报6.53-1/2美元/蒲式耳。CBOT小麦期货跌0.32%，报6.91-1/2美元/蒲式耳。硬红冬小麦期货/软红冬小麦期货溢价达到1.85美元/蒲式耳，创历史新高，美国农业部（USDA）最新高报显示，至4月2日，仅仅28%的麦田生长情况优良。CBOT大豆期货跌0.10%，报15.19美元/蒲式耳，豆粕期货跌1.27%，豆油期货跌1.45%。ICE原糖期货涨0.36%，ICE白糖期货涨0.68%。ICE阿拉比卡咖啡期货跌0.40%。ICE棉花期货跌1.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imyphiys9516157.d.html</link>
+            <guid>3056234</guid>
+            <pubDate>Tue, 04 Apr 2023 19:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰国家石油公司（Orlen）称其已经取消了与俄罗斯能源公司Tatneft的石油供应合约。]]></title>
+            <guid>3056232</guid>
+            <pubDate>Tue, 04 Apr 2023 19:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国中西部和南部将再遭恶劣天气袭击】根据美国国家气象局天气预报，当地时间4月4日至5日，美国中西部和南部部分地区将再次遭遇包括龙卷风在内的恶劣天气。4日晚间至5日清晨还可能出现“危险的夜间龙卷风”，这类龙卷风往往比白天龙卷风更为致命。美国国家气象局下属国家风暴预测中心预计，艾奥瓦、密苏里、伊利诺伊等州处于风暴风险区。据报道，预计近7000万人将受到新一轮恶劣天气的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imyphcsu9642943.d.html</link>
+            <guid>3056227</guid>
+            <pubDate>Tue, 04 Apr 2023 19:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利国家铜业公司（Codelco）：2月份铜产量同比下降15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imyphcsu9635128.d.html</link>
+            <guid>3056222</guid>
+            <pubDate>Tue, 04 Apr 2023 19:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国联邦航空管理局通知：SpaceX最早可能在4月10日进行星际飞船火箭发射测试。]]></title>
+            <guid>3056208</guid>
+            <pubDate>Tue, 04 Apr 2023 19:20:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paypal(PYPL.O)：德国多银行金融科技公司Finanzguru最新筹集1300万欧元，由Scor ventures和Paypal ventures领投。]]></title>
             <guid>3056181</guid>
@@ -31,7 +75,8 @@
             <pubDate>Tue, 04 Apr 2023 18:27:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【白宫表态：拜登会关注特朗普消息 但这“不是他的关注焦点”】美国前总统特朗普已抵达位于纽约下曼哈顿区中央大街100号的曼哈顿刑事法院，准备就丹尼尔斯“封口费”一案接受传讯。据美国有线电视新闻网（CNN）报道，白宫新闻秘书让-皮埃尔4日称，美国总统拜登“显然”会关注有关特朗普的消息，但这“不是他的关注焦点”。 (环球网)]]></title>
+            <title><![CDATA[【白宫表态：拜登会关注特朗普消息，但这“不是他的关注焦点”】 据报道，白宫新闻秘书让-皮埃尔4日称，美国总统拜登“显然”会关注有关特朗普的消息，但这“不是他的关注焦点”。报道称，让-皮埃尔称在接受CNN记者提问时说，“拜登总统会像他每天所做的那样关注美国民众，但这不是他的关注焦点”，“他将把重点放在继续确保为民众降低物价这样的事情上”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imyphcsu9602087.d.html</link>
             <guid>3056157</guid>
             <pubDate>Tue, 04 Apr 2023 18:18:59 GMT</pubDate>
         </item>
@@ -260,96 +305,6 @@
             <title><![CDATA[周二（4月4日），沙特证交所全股指数收涨1.31%，报10948.60点。土耳其伊斯坦布尔证交所全国100指数收涨2.99%，报4984.11点。伊斯坦布尔证交所银行指数收涨1.53%，报4504.70点。卡塔尔证交所指数收涨0.94%，报10396.21点。伊拉克ISX Main 60指数收涨0.76%，报645.14点。]]></title>
             <guid>3056097</guid>
             <pubDate>Tue, 04 Apr 2023 15:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用汽车CFO：将很快宣布在美第四座电池工厂计划】通用汽车首席财务官保罗·雅各布森4月4日表示，该汽车制造商在美第四座电池工厂的计划“非常顺利”，具体地点将很快宣布。去年8月，多家媒体曾报道，通用汽车与韩国LG新能源考虑在美国印第安纳州选址建立第四座美国电池工厂。不过今年1月，通用汽车和LG新能源表示不会在该项目上合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypfxkw9631046.d.html</link>
-            <guid>3056094</guid>
-            <pubDate>Tue, 04 Apr 2023 15:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省统计局：预期2023年广东常住人口将逐步恢复稳定增长】 日前，广东省统计局官网刊文称，2023年开春，广东召开全省高质量发展大会，加快推进实体经济为本、制造业当家重大战略部署，为全省经济发展注入强心剂。同时，随着防控政策优化调整，新型冠状病毒感染实施“乙类乙管”，广东社会经济发展将逐步恢复正常，跨省流动人口将继续选择流入广东。据运营商手机信令大数据显示，2023年1月返乡的跨省流动人口，2月已有84%回流广东。“随着经济社会发展，广东人口规模及其结构优势将长期保持稳定，劳动力资源依然丰富，常住人口保持长期稳定增长趋势不会改变。预期2023年广东常住人口将逐步恢复稳定增长。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypfxkw9628666.d.html</link>
-            <guid>3056093</guid>
-            <pubDate>Tue, 04 Apr 2023 15:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数尾盘回落，抹去日内早先涨幅，当前基本持平于周一收盘价位。]]></title>
-            <guid>3056091</guid>
-            <pubDate>Tue, 04 Apr 2023 15:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：通用汽车在发展电动汽车业务方面落后于特斯拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftay9754760.d.html</link>
-            <guid>3056089</guid>
-            <pubDate>Tue, 04 Apr 2023 15:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼对华合作牵头人卢胡特：印尼视中国为重要战略伙伴】 据外交部网站，2023年4月4日，中共中央政治局委员、中央外办主任王毅在北京同印尼对华合作牵头人、统筹部长卢胡特共同主持中印尼高级别对话机制第三次会议。王毅指出，印尼是21世纪海上丝绸之路首倡之地，中方愿同印尼一道，全力保障雅万高铁如期建成通车，积极推动“区域综合经济走廊”和“两国双园”项目，推进下阶段两国共建“一带一路”重点合作。加强发展融资、绿色经济、粮食安全等领域合作，深化海上合作，推动双边经贸投资合作量质齐升。双方还要加强防务及执法合作，密切人员往来，深化两国战略互信和民间友好。卢胡特表示，印尼视中国为重要战略伙伴，愿与中方一道，高质量共建“一带一路”，加快推进重大合作项目，积极探讨全球发展倡议，强化命运共同体意识，为两国关系发展不断注入新活力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftay9752796.d.html</link>
-            <guid>3056088</guid>
-            <pubDate>Tue, 04 Apr 2023 15:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)CFO：约75%的资本支出集中在电动汽车方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftay9747302.d.html</link>
-            <guid>3056084</guid>
-            <pubDate>Tue, 04 Apr 2023 14:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车：公司大约5000名受薪/白领工人将选择参与3月份已经宣布的一个买断计划，该计划旨在降低本公司的全球人数和固定成本，预计一季度将因此计提10亿美元费用。]]></title>
-            <guid>3056083</guid>
-            <pubDate>Tue, 04 Apr 2023 14:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：普京将召开俄联邦安全会议，讨论“公投入俄”四地执法问题】俄罗斯塔斯社4日消息称，克里姆林宫在一份声明中表示，俄罗斯总统普京计划于当地时间5日召开俄罗斯联邦安全会议线上会议，讨论“公投入俄”四地的执法问题。“要讨论的问题将包括在顿涅茨克、卢甘斯克、扎波罗热以及赫尔松地区境内的执法、秩序和公共安全。内务部长弗拉基米尔 科洛科利采夫将发表主旨演讲。 ”声明称。（环球网）]]></title>
-            <guid>3056082</guid>
-            <pubDate>Tue, 04 Apr 2023 14:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：普京将召开俄联邦安全会议，讨论“公投入俄”四地执法问题】俄罗斯塔斯社4日消息称，克里姆林宫在一份声明中表示，俄罗斯总统普京计划于当地时间5日召开俄罗斯联邦安全会议线上会议，讨论“公投入俄”四地的执法问题。“要讨论的问题将包括在顿涅茨克、卢甘斯克、扎波罗热以及赫尔松地区境内的执法、秩序和公共安全。内务部长弗拉基米尔•科洛科利采夫将发表主旨演讲。 ”声明称。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftay9744681.d.html</link>
-            <guid>3056081</guid>
-            <pubDate>Tue, 04 Apr 2023 14:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY日内跌超0.50%，现报101.51。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftax2965918.d.html</link>
-            <guid>3056080</guid>
-            <pubDate>Tue, 04 Apr 2023 14:50:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：我们很快将宣布在北美建立第四个电池工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftax2964735.d.html</link>
-            <guid>3056079</guid>
-            <pubDate>Tue, 04 Apr 2023 14:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：美国汽车价格不太可能大幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftax2964649.d.html</link>
-            <guid>3056078</guid>
-            <pubDate>Tue, 04 Apr 2023 14:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[费城银行指数跌超2%，个股第一共和银行目前跌超6.6%、ZION跌5.9%，WAL跌5.3%、PACW和KeyCorp跌4.8%、五三银行跌3.0%，嘉信理财跌0.3%，签名银行则涨1.8%。]]></title>
-            <guid>3056076</guid>
-            <pubDate>Tue, 04 Apr 2023 14:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：约有5000名员工接受自愿离职，预计公司每年将从自愿离职计划中节省10亿美元。公司应该能够避免进行非自愿性裁员。]]></title>
-            <guid>3056075</guid>
-            <pubDate>Tue, 04 Apr 2023 14:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赣江上游水文水资源监测中心发布洪水蓝色预警】今天（4日）21时12分赣江上游水文水资源监测中心发布洪水蓝色预警：受上游降雨影响，预计未来3小时前后，桃江全南县南迳河段可能出现超警0.2米左右的洪水，请全南县南迳镇等沿河低洼地带以及各相关单位和社会公众加强防范，及时避险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-04/detail-imypftax2960889.d.html</link>
-            <guid>3056074</guid>
-            <pubDate>Tue, 04 Apr 2023 14:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车首席财务官Paul Jacobson表示，约5000名员工接受了买断；买断计划将为公司节省约10亿美元的成本。]]></title>
-            <guid>3056071</guid>
-            <pubDate>Tue, 04 Apr 2023 14:40:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
