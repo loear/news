@@ -4,13 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 05 Apr 2023 20:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 21:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[特斯拉：修订公司章程，股东将在提名董事会成员方面获得更多权利。]]></title>
+            <title><![CDATA[周三（4月5日）纽约尾盘，ICE美元指数涨0.31%，报101.907点，日内交投区间为101.415-101.993点。美元指数涨0.25%，报1225.67点，日内交投区间为1220.69-1226.60点。]]></title>
+            <guid>3058086</guid>
+            <pubDate>Wed, 05 Apr 2023 21:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去年底六大行手机银行客户数合计超20亿户】手机银行作为重要数字化展示窗口及获客入口，其运营情况体现了银行在战略、技术、运营、品牌等各方面的综合实力，已成为检验银行数字化转型成果的重要指标之一。据梳理国有六大行2022年年报，截至2022年末，国有六大行手机银行客户数总计已超20亿户。具体来看，截至去年底，工商银行融e行个人手机银行客户数达5.16亿户，亦是同业中唯一率先跨越5亿客户数里程碑的银行；农业银行个人掌银客户数达4.60亿户位列第二名；建设银行个人手机用户数达4.4亿户位列第三名；邮储银行手机银行客户数达3.44亿户；中国银行个人手机用户数达2.5亿户。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-06/detail-imypktfp2201470.d.html</link>
+            <guid>3058084</guid>
+            <pubDate>Wed, 05 Apr 2023 21:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【17家上市银行房地产业不良贷款余额增长逾七成 业内预计今年不良贷款生成将大幅下降】截至4月5日，已有23家A股上市银行披露2022年年报。其中，有17家披露了备受资本市场和银行业关注的对公房地产不良贷款相关数据。上述17家银行2022年末的对公房地产不良贷款余额合计达2564亿元，同比增长72%。“2022年房地产市场风险事件频发，部分房企现金流出现了较为严重的问题，导致不良率上行。考虑到在政策引导、支持下，房地产业风险出清后将迎来更为健康的发展模式，预计2023年房地产业整体形势将优于去年，贷款不良率也会有所下滑。”中信证券首席经济学家明明表示。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-06/detail-imypknxr2325126.d.html</link>
+            <guid>3058081</guid>
+            <pubDate>Wed, 05 Apr 2023 20:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【24家北交所公司共计拟现金分红8.77亿元】据统计，截至4月5日，共计28家北交所上市公司披露2022年年报，其中24家公司发布现金分红方案，拟分红金额共计达8.77亿元。北京南山投资创始人周运南表示，北交所上市公司相关的现金分红方案基本遵循了上市前的承诺，并保证了较好的分红率。上市公司积极将未分配利润与股东们共享，以回报投资者，可以向市场传递积极信号，吸引更多的投资者，增强股东们的持股信心，展示公司的成长实力。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-06/detail-imypknxs9098120.d.html</link>
+            <guid>3058078</guid>
+            <pubDate>Wed, 05 Apr 2023 20:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝加哥期权交易所3月指数期权日均交易量增长67.9%，期货日均交易量增长36.3%。]]></title>
+            <guid>3058077</guid>
+            <pubDate>Wed, 05 Apr 2023 20:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦存款保险公司（FDIC）：为投资组合销售业务而聘请贝莱德集团金融市场顾问。本次聘请是为了签名银行（SBNY）和硅谷银行（SVB）证券组合的销售。]]></title>
+            <guid>3058075</guid>
+            <pubDate>Wed, 05 Apr 2023 20:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉修订公司章程，将赋予股东提名董事的更多权利，为股东提供代理访问权。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-06/detail-imypknxs9091146.d.html</link>
             <guid>3058074</guid>
             <pubDate>Wed, 05 Apr 2023 20:21:09 GMT</pubDate>
@@ -334,52 +367,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiv2405020.d.html</link>
             <guid>3057989</guid>
             <pubDate>Wed, 05 Apr 2023 15:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涉嫌将昂贵外国礼品据为己有 巴西前总统被联邦警察局传唤】巴西前总统博索纳罗因涉嫌试图将沙特阿拉伯赠送的价值约1650万雷亚尔（约合2249万人民币）的珠宝和手表据为己有，被该国联邦警察局传唤。他将于当地时间4月5日14时左右赴巴西联邦警察局就此案作证。目前联邦警察局加强了周边安保，并封锁了公共停车场区域。博索纳罗的前助理、前顾问和前国税局局长也将于当天赴巴西联邦警察局作证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiv2401374.d.html</link>
-            <guid>3057985</guid>
-            <pubDate>Wed, 05 Apr 2023 14:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统抵达俄罗斯首都莫斯科】白俄罗斯总统卢卡申科当地时间4月5日抵达俄罗斯首都莫斯科，开始为期两天的工作访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiw9178126.d.html</link>
-            <guid>3057984</guid>
-            <pubDate>Wed, 05 Apr 2023 14:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周小川：多维度审视消费信贷的模式】“从商业银行面临的挑战来看，一部分商业银行觉得自己比不过平台，就干脆靠平台，或者靠金融科技（Fintech）公司；后来说平台没有相关执照，有些业务不能办，于是就改为助贷。一些平台公司虽然补充了一定资本，但资本实力还是不强，所以就搞联合消费贷。”在4月4日举行的2023中国金融学会学术年会暨中国金融论坛年会上，博鳌亚洲论坛副理事长、中国人民银行原行长周小川说。周小川表示，联合消费贷规模从最高时的两万多亿降至目前的6000多亿，这一业务模式受到大家的怀疑。并指出，个贷和消费贷当前的市场需求很大，从扩大消费需求的角度看，消费信贷应该是受鼓励的。但需要仔细考虑，什么样的消费应该受鼓励，什么样的消费模式不可持续，对此应该有一个清醒的认识。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiv2399284.d.html</link>
-            <guid>3057982</guid>
-            <pubDate>Wed, 05 Apr 2023 14:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内跌幅达0.5%，现报1.2436。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiw9174789.d.html</link>
-            <guid>3057980</guid>
-            <pubDate>Wed, 05 Apr 2023 14:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沙特阿拉伯5月份将销往亚洲轻质油价格上调30美分/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiv2394557.d.html</link>
-            <guid>3057979</guid>
-            <pubDate>Wed, 05 Apr 2023 14:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2005.4万桶/日，较去年同期减少1.5%。]]></title>
-            <guid>3057978</guid>
-            <pubDate>Wed, 05 Apr 2023 14:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口增加65.5万桶/日至523.9万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-05/detail-imypkaiw9171145.d.html</link>
-            <guid>3057977</guid>
-            <pubDate>Wed, 05 Apr 2023 14:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口714.4万桶/日，较前一周增加181.9万桶/日。]]></title>
-            <guid>3057976</guid>
-            <pubDate>Wed, 05 Apr 2023 14:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
