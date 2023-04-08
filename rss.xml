@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 08 Apr 2023 17:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 18:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南通在沪举行文旅推介会：签约8个项目 总投资超50亿元】4月8日，2023南通文化旅游(上海)推介会在上海举办。会上发布了10个南通重大文旅招商项目，现场签约8个项目，涉及数字文化、精品酒店、工业旅游、沉浸体验等方面，总投资超50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypteav8231032.d.html</link>
+            <guid>3063061</guid>
+            <pubDate>Sat, 08 Apr 2023 18:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【期待“消博会”为世界经济增添亮色】以“共享开放机遇，共创美好生活”为主题的第三届中国国际消费品博览会，将于4月10日至15日在海南海口举行。本届“消博会”紧扣消费主题，突出品质、聚焦国际，旨在打造全球消费精品展示交易平台。将有来自65个国家和地区的3300余个品牌参展。许多细分行业的国际头部品牌首次参展，一大批国内精品和老字号也将于会上集中展出，包含大量“首发首秀首展”，参展人员能体验到更多“首尝首见首试”。尤其值得一提的是，本届“消博会”设立了新品集中发布专区，着力打造全球消费潮流风向标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypteav8224657.d.html</link>
+            <guid>3063060</guid>
+            <pubDate>Sat, 08 Apr 2023 17:59:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国海军向中东地区部署一艘核潜艇】据美国多家媒体当地时间4月8日报道，美国海军驻巴林的第五舰队发言人蒂莫西·霍金斯（Timothy Hawkins）当日表示，美国海军已经向中东地区部署了一艘能够携带多达154枚“战斧”巡航导弹的核潜艇，用以支持美国海军第五舰队。霍金斯表示，该核潜艇已于7日通过了苏伊士运河。（央视新闻）]]></title>
+            <guid>3063059</guid>
+            <pubDate>Sat, 08 Apr 2023 17:47:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非官员：所有金砖国家领导人都将出席2023年金砖国家领导人峰会】当地时间4月8日，南非亚洲及金砖事务特使苏克拉尔表示，“我们已经确认，所有领导人都将出席今年8月在南非举行的金砖国家领导人峰会。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypteax4976397.d.html</link>
@@ -455,18 +472,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypshxi5172920.d.html</link>
             <guid>3062960</guid>
             <pubDate>Sat, 08 Apr 2023 08:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为云田奇：大模型开发和训练一次1200万美元，市场将向大公司集中】据澎湃新闻，国际欧亚科学院院士、华为云人工智能领域首席科学家田奇分享了人工智能发展面临的两大趋势：第一，大模型发展资金需求高，技术门槛高，市场可能向大公司集中。他表示，从小模型到大模型，过去10年内AI算法的算力需求提升了40万倍。为此，大模型可能收编高度定制化的小模型，导致市场向大公司集中。大模型开发和训练一次1200万美元，资本门槛变高；技术门槛高，对AI框架深度优化和超强的并行计算能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypshxi5169980.d.html</link>
-            <guid>3062959</guid>
-            <pubDate>Sat, 08 Apr 2023 08:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【清华大学长聘副教授黄民烈：ChatGPT无法实现非0即1的精确计算】今日，由中国人工智能学会主办的“人工智能大模型技术高峰论坛”主论坛在杭州萧山启幕。论坛上，清华大学长聘副教授、聆心智能创始人、国家杰青获得者黄民烈发表了演讲。黄民烈表示，ChatGPT存在不足和缺陷，比如，无法实现数学计算和符号推理，具体表现为无法实现非0即1的精确计算。因为ChatGPT本质上是一个语言模型，其体现的能力来源于对训练数据的拟合；其运行机制中并没有显式的逻辑推理与判断。此外，ChatGPT还存在准确性、安全性等方面的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypshxf8388051.d.html</link>
-            <guid>3062958</guid>
-            <pubDate>Sat, 08 Apr 2023 08:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
