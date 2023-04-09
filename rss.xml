@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 Apr 2023 15:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 16:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【上海辟谣平台：网传“市委及家属旅游团”为不实信息】日前，有网友在社交媒体平台贴出一张图片，称在安徽池州旅游时，在一个服务区看到了一个老年游客团，其所乘坐的皖牌大巴前侧挂有“中共上海市委及家属旅游团”的条幅，质疑这样的旅游团名称不妥。上海辟谣平台就此向上海市相关部门核实，上海市委从未组织过相关旅游团，也不可能组织这样的“旅游团”。多方核实，网传图片中的旅游大巴属于安徽新客流旅游运输公司。该公司一名谢姓负责人表示，没有接到过中共上海市委组织安排的旅游业务，公司层面也没有安排过在车上贴横幅的行为。至于是否存在大巴驾驶员或游客个人自行张贴的情况，对方表示需要进一步了解调查。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypviae4801584.d.html</link>
+            <guid>3063589</guid>
+            <pubDate>Sun, 09 Apr 2023 15:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚总统与伊朗总统通电话】叙利亚总统巴沙尔·阿萨德与伊朗总统易卜拉欣·莱希通电话，双方讨论了叙伊双边关系以及中东地区的最新局势进展。两国元首一致强调，将继续保持两国的协调和沟通，共同助力两国关系发展，维护地区和平稳定。伊朗总统莱希还表示，伊朗尊重叙利亚的主权和领土完整，打击恐怖主义有助于维护叙利亚的国家主权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypvaue8135736.d.html</link>
+            <guid>3063588</guid>
+            <pubDate>Sun, 09 Apr 2023 15:24:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美军“泄密文件”爆新料 韩国政府高层疑遭美国监听】据美国《纽约时报》9日报道，在多家社交媒体近来出现的一批疑似美军秘密文件中，包含韩国政府高层讨论是否向乌克兰提供武器等内容，而这些信息来自美国情报部门对韩方的监听。针对上述报道，韩国总统办公室一名官员9日回应，韩方将就此事与美方沟通。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypvaue8131614.d.html</link>
@@ -541,18 +553,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusek8182126.d.html</link>
             <guid>3063356</guid>
             <pubDate>Sun, 09 Apr 2023 09:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晓鸣股份：3月销售鸡产品收入7755.26万元】晓鸣股份(300967)4月9日晚间发布3月鸡产品销售情况简报，3月销售鸡产品2345.08万羽，销售收入7755.26万元，环比变动分别为20.13%、16.09%，同比变动分别为41.51%、35.01%。3月公司商品代雏鸡销售均价较上月稳步上涨，同时由于公司部分新增产能持续释放，商品代雏鸡销售数量较上年同期有较大增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusec7846412.d.html</link>
-            <guid>3063355</guid>
-            <pubDate>Sun, 09 Apr 2023 09:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新开源：一季度净利预增268.04%-329.38%】新开源公告，预计2023年第一季度归属于上市公司股东的净利润1.2亿元-1.4亿元，同比增长268.04%-329.38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusec7846221.d.html</link>
-            <guid>3063354</guid>
-            <pubDate>Sun, 09 Apr 2023 09:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
