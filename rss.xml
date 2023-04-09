@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 Apr 2023 17:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 18:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【风波不止的B站真的出问题了吗？】作为热搜榜常客的B站，在3月发布财报时因“给UP主分了91亿”登上热搜后，刚进入4月又因UP主“停更潮”冲上热搜第一，此后余波不断。据了解，UP主“停更潮”的说法并不准确，近期仅有三位头部UP主因经济原因或暂时休息而停更。但热度之后，后续不断有停更的UP主发声阐述自己的商业困境，表示赚钱难是真的。这背后值得讨论的是，B站真的出问题了吗？在持续亏损、面临市场压力的情况下，降本增效是B站这两年来最重要的任务之一，在2022年财报电话会议上，陈睿再次强调，会更关注提升毛利率、降低亏损。随着B站逐渐减少激励补贴，提高商业合作的权重，未来更加考验UP主本身的商业价值，如果投入支出不成正比，停更的UP主只会越来越多。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-10/detail-imypviaa8094625.d.html</link>
+            <guid>3063595</guid>
+            <pubDate>Sun, 09 Apr 2023 17:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海辟谣平台：网传“市委及家属旅游团”为不实信息】日前，有网友在社交媒体平台贴出一张图片，称在安徽池州旅游时，在一个服务区看到了一个老年游客团，其所乘坐的皖牌大巴前侧挂有“中共上海市委及家属旅游团”的条幅，质疑这样的旅游团名称不妥。上海辟谣平台就此向上海市相关部门核实，上海市委从未组织过相关旅游团，也不可能组织这样的“旅游团”。多方核实，网传图片中的旅游大巴属于安徽新客流旅游运输公司。该公司一名谢姓负责人表示，没有接到过中共上海市委组织安排的旅游业务，公司层面也没有安排过在车上贴横幅的行为。至于是否存在大巴驾驶员或游客个人自行张贴的情况，对方表示需要进一步了解调查。（北京日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypviae4801584.d.html</link>
@@ -530,17 +536,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusek8184025.d.html</link>
             <guid>3063360</guid>
             <pubDate>Sun, 09 Apr 2023 09:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新数据：一季度住宿餐饮业指数创两年来最大升幅】在一季度中国中小企业发展指数分行业指数中，住宿餐饮业指数创两年来最大升幅。数据显示，今年以来，广东省酒店预订量同比增长107%。1-2月，深圳市酒店总体出租率和平均房价基本上达到了三年前的同期水平，酒店收益恢复到了三年前近8成水平。多数中小城市甚至是乡村旅游景点，今年以来的餐饮、住宿消费也迅速升温、回暖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusek8183472.d.html</link>
-            <guid>3063359</guid>
-            <pubDate>Sun, 09 Apr 2023 09:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智立方：2022年归母净利1.17亿元，拟10转5派10元，着重配置战略资源于电子烟及半导体等行业】 2022年，公司实现营业收入5.08亿元，同比下降7.35%；归母净利润1.17亿元，同比增长1.48%；扣非归母净利润1.08亿元，同比下降3.42%；基本每股收益3.34元，拟每10股派发现金红利10元(含税)，以资本公积金向全体股东每10股转增5股。 未来，公司将继续移动终端、可穿戴设备作为发展主线，着重将战略资源配置于电子烟及半导体等行业。]]></title>
-            <guid>3063358</guid>
-            <pubDate>Sun, 09 Apr 2023 09:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
