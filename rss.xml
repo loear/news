@@ -4,11 +4,51 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 19 Apr 2023 21:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 22:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大公共服务人员举行罢工】 当地时间4月19日，加拿大不列颠哥伦比亚省100多名公共服务联盟（PSAC）的成员在温哥华联邦办公室外举行集会。据当地媒体报道，加拿大全境共有250个罢工地点，目前近三分之一的联邦公务员参与罢工。当地媒体称，本轮罢工可能导致报税季受到影响。加拿大政府还预计全国范围多个联邦政府部门服务将出现放缓或完全停摆的情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqynxz5156334.d.html</link>
+            <guid>3076995</guid>
+            <pubDate>Wed, 19 Apr 2023 22:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多部委密集调研 更多产业有望迎政策“春雨”】今年以来，为了搭准经济发展脉搏，把脉发展中的痛点难点，让稳增长政策持续显效，多个部委组织人员前往各地开展调查研究工作。尤其是近一个月来，仅国家发展改革委各司局部门的调研频次就超70次，内容更多的是围绕高质量、数字化转型、产业发展等展开。笔者认为，“调研”的目的是对经济形势和产业发展趋势做出预判，为投资或发展方向的决策做准备，同时也为政策的有效制定和落实提供依据。结合一季度经济数据来看，国家发展改革委等部委调研组密集“开拔”，透露多方面政策信号。 (证券日报)]]></title>
+            <guid>3076986</guid>
+            <pubDate>Wed, 19 Apr 2023 21:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：公司继续大量购买英伟达的GPU。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyhsc5270330.d.html</link>
+            <guid>3076983</guid>
+            <pubDate>Wed, 19 Apr 2023 21:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：预计将于第三季度举行Cybertruck交付活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyhrx7759487.d.html</link>
+            <guid>3076982</guid>
+            <pubDate>Wed, 19 Apr 2023 21:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克表示，当前宏观经济环境仍然具有不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyhsc5269331.d.html</link>
+            <guid>3076981</guid>
+            <pubDate>Wed, 19 Apr 2023 21:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.8950元，较周二纽约尾盘跌127点，盘中整体交投于6.8731-6.9105元区间。]]></title>
+            <guid>3076976</guid>
+            <pubDate>Wed, 19 Apr 2023 21:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国铝业公司CEO：伦敦金属交易所（LME）仓库中53%的铝来自俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyhsc5262669.d.html</link>
+            <guid>3076975</guid>
+            <pubDate>Wed, 19 Apr 2023 21:23:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2023年新增装机规模目标提升 光伏上市公司持续加码一体化布局 】据中证报，4月以来，隆基绿能、TCL中环、上机数控等多家上市公司发布扩产公告，加码一体化布局。光伏上市公司一体化进程加速。国家能源局日前印发《2023年能源工作指导意见》，就全年能源工作部署以及发展目标给出指导意见。其中提出2023年风电、光伏发电装机新增160GW左右的规模目标，相比2022年的120GW新增装机规模目标进一步提升。业内人士表示，2023年国内光伏新增装机规模或超市场预期，首先利好光伏垂直一体化布局企业。]]></title>
             <guid>3076972</guid>
@@ -145,36 +185,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyaiz7821457.d.html</link>
             <guid>3076900</guid>
             <pubDate>Wed, 19 Apr 2023 18:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多部委密集调研 更多产业有望迎政策“春雨”】据证券日报，今年以来，为了搭准经济发展脉搏，把脉发展中的痛点难点，让稳增长政策持续显效，多个部委组织人员前往各地开展调查研究工作。尤其是近一个月来，仅国家发展改革委各司局部门的调研频次就超70次，内容更多的是围绕高质量、数字化转型、产业发展等展开。笔者认为，“调研”的目的是对经济形势和产业发展趋势做出预判，为投资或发展方向的决策做准备，同时也为政策的有效制定和落实提供依据。结合一季度经济数据来看，国家发展改革委等部委调研组密集“开拔”，透露多方面政策信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyaiz7820969.d.html</link>
-            <guid>3076899</guid>
-            <pubDate>Wed, 19 Apr 2023 18:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西现货市场交易中，巴西雷亚尔兑美元日内下跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyaiz7817672.d.html</link>
-            <guid>3076898</guid>
-            <pubDate>Wed, 19 Apr 2023 18:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会就解决东欧五国面临的乌克兰农产品问题提出建议】欧盟委员会发言人达娜·斯皮南特当地时间4月19日表示，为帮助欧盟成员国应对乌克兰农产品引发的问题，欧盟提出了三条建议。欧盟将出台一亿欧元的一揽子援助计划；针对乌克兰小麦、玉米、油菜籽和葵花籽在部分成员国大量滞留的情况，欧盟计划在现有贸易规则的基础上采取预防性措施，以保障欧盟生产商的利益；此外，欧盟还将对乌克兰运往欧盟的其他“敏感产品”展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyaiz7810241.d.html</link>
-            <guid>3076892</guid>
-            <pubDate>Wed, 19 Apr 2023 18:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股快递公司3月业绩出炉，市场呈现快速恢复势头】 4月19日晚间，顺丰、圆通、韵达和申通四大A股快递公司集中发布月度快递服务经营数据。从最新数据来看，除韵达股份外，头部快递上市企业在营业收入、业务量的关键指标上均实现同比增长。据国家邮政局报告，3月，快递市场呈现快速恢复势头，行业呈现出强大的发展韧性。截至3月9日，年内快递业务量已突破200亿件，较2022年提前6天。从分项指标来看，3月，快递业务量同比增速预计将在27.6%左右，业务收入同比增速有望超过23%。国信证券近期研报表示，快递需求增长修复趋势明显，预计2023年全年业务量增速有望明显高于一季度表现。目前，快递行业价格竞争的监管仍具持续性，无需过度担忧价格战。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyaiz7808545.d.html</link>
-            <guid>3076890</guid>
-            <pubDate>Wed, 19 Apr 2023 18:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：英国不可能退出人工智能竞赛。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyqyakf5313110.d.html</link>
-            <guid>3076882</guid>
-            <pubDate>Wed, 19 Apr 2023 18:07:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
