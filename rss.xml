@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 20 Apr 2023 18:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 19:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[梅赛德斯-奔驰：一季度初步业绩数字超出预期，一季度初步息税前利润55亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramqx7390831.d.html</link>
+            <guid>3078743</guid>
+            <pubDate>Thu, 20 Apr 2023 19:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总统施泰因迈尔将访问加拿大】加拿大总理特鲁多当地时间20日宣布，德国总统施泰因迈尔将于4月23日至26日访问加拿大。访问期间，双方将讨论俄乌冲突及外溢影响、气候变化及清洁能源，以及贸易相关问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4900437.d.html</link>
+            <guid>3078742</guid>
+            <pubDate>Thu, 20 Apr 2023 19:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议员银行业委员会公布了4月27日听证会的证人名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4897954.d.html</link>
+            <guid>3078741</guid>
+            <pubDate>Thu, 20 Apr 2023 19:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛(GS.N)为16亿美元的绿色基金寻求日本投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramqx7382495.d.html</link>
+            <guid>3078731</guid>
+            <pubDate>Thu, 20 Apr 2023 18:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银CEO：今年我们将招聘1万至1.2万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4891351.d.html</link>
+            <guid>3078730</guid>
+            <pubDate>Thu, 20 Apr 2023 18:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银CEO：我们不会裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4891036.d.html</link>
+            <guid>3078729</guid>
+            <pubDate>Thu, 20 Apr 2023 18:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚总统佩特罗：我们需要转向一个不使用煤炭、石油或天然气的经济模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4890882.d.html</link>
+            <guid>3078728</guid>
+            <pubDate>Thu, 20 Apr 2023 18:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：相信美国和哥伦比亚未来可以加深合作，我们正在共同努力打击毒品贩运。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4888998.d.html</link>
+            <guid>3078726</guid>
+            <pubDate>Thu, 20 Apr 2023 18:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安承诺，将向家庭免费提供一年的天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramrc4887575.d.html</link>
+            <guid>3078723</guid>
+            <pubDate>Thu, 20 Apr 2023 18:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO Moynihan：对于近期爆发的美国银行倒闭问题而言，“危机”是一个非常严重的形容。将有时间研究存款保险这个问题。]]></title>
+            <guid>3078721</guid>
+            <pubDate>Thu, 20 Apr 2023 18:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）：SpaceX的发射活动没有造成人员伤亡或公共财产损失，后续我们将监督星舰测试任务的事故调查。]]></title>
+            <guid>3078718</guid>
+            <pubDate>Thu, 20 Apr 2023 18:30:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[理柏（Lipper）：最近一周，美国垃圾级债券基金获得30.6亿美元资金流入。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyramqx7364938.d.html</link>
@@ -195,59 +259,6 @@
             <title><![CDATA[【俄罗斯联邦安全局挫败一起恐怖袭击企图】俄罗斯塔斯社当地时间4月20日援引俄联邦安全局的消息报道，该局抓捕了一名极端组织“伊斯兰国”的支持者，其准备在俄南部矿水城人流密集的设施内制造恐怖袭击。俄安全部门从该名“伊斯兰国”支持者的身上还搜出了自制爆炸物装置和与极端组织成员进行通信的工具。（央视新闻）]]></title>
             <guid>3078644</guid>
             <pubDate>Thu, 20 Apr 2023 16:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯联邦安全局挫败一起恐怖袭击企图】俄罗斯塔斯社当地时间4月20日援引俄联邦安全局的消息报道，该局抓捕了一名极端组织“伊斯兰国”的支持者，其准备在俄南部矿水城人流密集的设施内制造恐怖袭击。俄安全部门从该名“伊斯兰国”支持者的身上还搜出了自制爆炸物装置和与极端组织成员进行通信的工具。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafif4936073.d.html</link>
-            <guid>3078636</guid>
-            <pubDate>Thu, 20 Apr 2023 16:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯呼吁苏丹冲突各方停火三日】据央视新闻，当地时间4月20日，联合国秘书长古特雷斯发表声明，呼吁苏丹冲突各方在即将到来的开斋节期间停火三日，供平民撤离。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafif4934279.d.html</link>
-            <guid>3078634</guid>
-            <pubDate>Thu, 20 Apr 2023 16:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德债价格上涨，结束2022年2月以来最长连跌天数。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafhz7423844.d.html</link>
-            <guid>3078633</guid>
-            <pubDate>Thu, 20 Apr 2023 16:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄国防部：俄罗斯已经完成对太平洋舰队的突检。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafhz7420886.d.html</link>
-            <guid>3078632</guid>
-            <pubDate>Thu, 20 Apr 2023 16:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球最大塔式起重机交付，创12项世界首创】4月20日，全球最大塔式起重机R20000-720在湖南常德下线交付。R20000-720是目前全球最大的塔式起重机，额定起重力矩达到20000吨米，最大起重量720吨，最大起升高度400米，相当于一次将500辆小轿车起吊至130层楼的高度。此次新下线的R20000-720塔式起重机，再次刷新塔式起重机的技术高度，从设计到下线历时8个月，融合了158项创新科研成果、305项发明专利，其中有60余项核心关键技术、12项世界首创。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafhz7413944.d.html</link>
-            <guid>3078623</guid>
-            <pubDate>Thu, 20 Apr 2023 16:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国商会将与韩国总统举行圆桌会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-21/detail-imyrafif4923362.d.html</link>
-            <guid>3078621</guid>
-            <pubDate>Thu, 20 Apr 2023 16:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募产品亏到倒贴？ 回应：风险警示书为渠道方模板 产品本身不存在超过原始本金损失的情况】近日，业内人士透露，沪上一家百亿级私募旗下某指增策略产品在风险提示方面较为特殊，即提示投资人该称产品存在本金完全损失（或超过原始本金损失）可能。对此，记者第一时间向该私募核实，该私募透露，产品的风险警示书为渠道方模板，不仅仅用在了一家私募的产品合约签署过程中，实际上，产品本身不存在超过原始本金损失的情况。]]></title>
-            <guid>3078618</guid>
-            <pubDate>Thu, 20 Apr 2023 15:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰基辅市议会通过决议终止与俄驻乌使馆土地租赁协议】乌克兰媒体20日报道称，当天基辅市议会通过决议终止了与俄罗斯驻乌克兰大使馆的土地租赁协议。据报道，俄罗斯驻乌克兰使馆此前租用了基辅市区0.39公顷土地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyrafif4919950.d.html</link>
-            <guid>3078617</guid>
-            <pubDate>Thu, 20 Apr 2023 15:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宜家计划斥资22亿美元在美国开设新店】宜家商场所有者英格卡控股（Ingka Group）将在未来三年内斥资20亿欧元（22亿美元）在美国扩张，这是其在一个国家的最大投资。英格卡4月20日表示，计划在美国开设八家新的大型宜家商场和九家较小的商场，并升级现有商场，美国是宜家销售额仅次于德国的第二大市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-20/detail-imyrafhz7409769.d.html</link>
-            <guid>3078616</guid>
-            <pubDate>Thu, 20 Apr 2023 15:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
