@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Apr 2023 16:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 17:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[埃及供应部称，埃及禁止私人面粉厂使用当地小麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-24/detail-imyrmauc4957586.d.html</link>
+            <guid>3082050</guid>
+            <pubDate>Sun, 23 Apr 2023 17:07:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国国防部发言人：第一架德国军用飞机于下午4点前不久降落在苏丹喀土穆，撤离德国公民需要一些时间。]]></title>
             <guid>3082046</guid>
@@ -492,18 +498,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-23/detail-imyrkmwi3819737.d.html</link>
             <guid>3081949</guid>
             <pubDate>Sun, 23 Apr 2023 10:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一博科技：增收不增利，一季度归母净利同比下滑14.95%】一季度实现营业收入1.77亿元，同比增长7.12%；归属于上市公司股东的净利润2244.30万元，同比下降14.95%；基本每股收益0.2693元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-23/detail-imyrkmwm5068152.d.html</link>
-            <guid>3081948</guid>
-            <pubDate>Sun, 23 Apr 2023 10:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深兰科技：已开发出面向个人数字化的硅基知识大模型】硅基知识大模型由深兰科技自主研发，是一款针对垂直领域、特定应用场景的，用户可训练的大语言模型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-23/detail-imyrkmwi3819436.d.html</link>
-            <guid>3081947</guid>
-            <pubDate>Sun, 23 Apr 2023 10:26:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
