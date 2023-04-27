@@ -4,13 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 27 Apr 2023 20:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 21:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Cloudflare（NET）美股盘后跌26.1%。]]></title>
+            <title><![CDATA[【3月规模以上工业企业营收同比由降转增 利润降幅收窄】国家统计局4月27日公布的数据显示，3月全国规模以上工业企业营业收入同比增长0.6%，为去年11月以来首次由降转增；利润同比下降19.2%。汽车、食品、家具行业利润由降转增，装备制造业利润明显改善。专家分析称，工业企业利润呈现筑底企稳态势，有望在下半年由降转增。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwpuc2903417.d.html</link>
+            <guid>3088733</guid>
+            <pubDate>Thu, 27 Apr 2023 20:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【139家公司十年不分红 理由是经营业绩较差或现金流紧张】近些年，在A股公司现金分红已蔚然成风的背景下，一些公司却多年一毛不拔甘当“铁公鸡”。 据统计，截至4月27日，剔除2013年以后上市的公司，139家公司在最近十年（2013年至2022年）中从未进行过现金分红。这些公司主要分布在机械设备、电子、化工、医药等行业，其中医药生物公司家数最多。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwpuc2902923.d.html</link>
+            <guid>3088732</guid>
+            <pubDate>Thu, 27 Apr 2023 20:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊：公司一直都有能力降低仓储成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwpuc2902542.d.html</link>
+            <guid>3088731</guid>
+            <pubDate>Thu, 27 Apr 2023 20:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[吉利德科学一季度调整后EPS为1.37美元，分析师预期1.53美元。一季度营收63.5亿美元，分析师预期63.3亿美元。一季度Veklury营收5.73亿美元，分析师预期7.303亿美元。维持全年产品销售预期在260亿-265亿美元不变，分析师预期261.6亿美元。维持全年Veklury营收预期在大约20亿美元不变，分析师预期20.6亿美元。吉利德科学（GILD）美股盘后下跌将近7.84%。]]></title>
+            <guid>3088729</guid>
+            <pubDate>Thu, 27 Apr 2023 20:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安进一季度营收61.1亿美元，分析师预期61.4亿美元。一季度调整后运营利润28.0亿美元，分析师预期28.4亿美元。一季度Tezspire营收0.96亿美元，分析师预期0.963亿美元。一季度Lumakras营收0.74亿美元，分析师预期0.849亿美元。一季度调整后EPS为3.98美元，分析师预期3.84美元。预计全年营收262亿-273亿美元，公司原本预计260亿-272亿美元。预计全年调整后EPS为17.60-18.70美元，公司先前预计17.40-18.60美元。安进（AMGN）美股盘后跌超2.0%。]]></title>
+            <guid>3088728</guid>
+            <pubDate>Thu, 27 Apr 2023 20:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10余家公司拉响退市警报，“1元退市”加速出清绩差股】截至4月27日收盘，有14家上市公司股价低于1元，其中房地产及相关业务的上市公司有5家。此外，这些公司在股价跌破1元之前已面临多重风险。在业内人士看来，退市新规之下，今年以来，市场化、法治化、常态化的退市格局加速演进，资本市场优胜劣汰功能进一步加强，各类退市指标持续发挥作用。其中，“1元退市”指标对绩差公司的出清作用越来越明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwini4273120.d.html</link>
+            <guid>3088724</guid>
+            <pubDate>Thu, 27 Apr 2023 20:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云平台Cloudflare一季度营收2.902亿美元，分析师预期2.909亿美元。预计全年营收12.8亿-12.8亿美元，公司原本预计13.3亿-13.4亿美元。预计二季度营收3.05亿-3.06亿美元，分析师预期3.199亿美元。Cloudflare（NET）美股盘后跌26.1%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwinf3018958.d.html</link>
             <guid>3088719</guid>
             <pubDate>Thu, 27 Apr 2023 20:18:21 GMT</pubDate>
@@ -258,52 +292,6 @@
             <title><![CDATA[TD Cowen：将Lululemon(LULU.O)目标价从500美元上调至525美元。]]></title>
             <guid>3088639</guid>
             <pubDate>Thu, 27 Apr 2023 17:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大保守派希望阻止嘉能可公司收购Teck Resources。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcem4326453.d.html</link>
-            <guid>3088638</guid>
-            <pubDate>Thu, 27 Apr 2023 17:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国税局局长Werfel：将800亿美元的通胀削减法案资金用于日常运营，将无法达到改善纳税人体验、实现IT系统现代化和提高执法水平的目标。]]></title>
-            <guid>3088633</guid>
-            <pubDate>Thu, 27 Apr 2023 17:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Truist：将Visa(V.N)目标价上调至270美元 维持买入评级】Truist分析师Andrew Jeffrey将对Visa的目标价从260美元上调至270美元，并维持对该股的买入评级。该分析师在一份研究报告中告诉投资者，Visa第二财季的支付量增长“强劲”，也证明了其抵御不利的周期性因素的能力，同时在不同的地区实现货币化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcei3066911.d.html</link>
-            <guid>3088632</guid>
-            <pubDate>Thu, 27 Apr 2023 17:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫顾问Sperling：美国总统拜登仍然认为美国应该偿还过去的债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcem4310582.d.html</link>
-            <guid>3088629</guid>
-            <pubDate>Thu, 27 Apr 2023 17:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中阳金融集团ADR（TOP）一度上涨257.1%，创2022年6月份以来最大盘中涨幅，多次因波动较大而停牌，刷新10月份以来盘中高位至24.00美元。]]></title>
-            <guid>3088628</guid>
-            <pubDate>Thu, 27 Apr 2023 17:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西劳工部：3月份巴西净增195171个正式就业岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcei3058875.d.html</link>
-            <guid>3088626</guid>
-            <pubDate>Thu, 27 Apr 2023 17:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将波士顿科学(BSX.N)目标价从45美元上调至55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcei3055442.d.html</link>
-            <guid>3088623</guid>
-            <pubDate>Thu, 27 Apr 2023 17:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Truist：维持动视暴雪(ATVI.O)买入评级和84美元的目标价】在英国公平竞争及市场管理局（CMA）称将寻求阻止微软对动视暴雪的收购后，动视暴雪提前公布了第一季度的业绩，调整后的每股收益为0.6美元，订阅收入为18.6亿美元，均好于Truist的模型和共识预期。分析师补充说，鉴于《暗黑破坏神》将于6月6日发布，公司第二季度的订阅收入指引为增长至少30%，即超过21.3亿美元。分析师认为这一指引是保守的，维持对该股的买入评级和84美元的目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrwcei3049701.d.html</link>
-            <guid>3088620</guid>
-            <pubDate>Thu, 27 Apr 2023 16:47:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
