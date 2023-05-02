@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 02 May 2023 19:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 20:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周一（5月2日）纽约尾盘，谷物分类指数跌1.20%，报42.9587点。CBOT玉米期货跌0.98%，报5.78-3/4美元/蒲式耳。CBOT小麦期货跌1.29%，报6.10-1/4美元/蒲式耳。CBOT大豆期货跌跌1.28%，报14.09-1/4美元/蒲式耳。]]></title>
+            <guid>3093819</guid>
+            <pubDate>Tue, 02 May 2023 19:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以色列南部遭火箭弹袭击 至少12名平民受伤】据以色列国防军当地时间5月2日统计，当天有至少33枚火箭弹和迫击炮弹从加沙地带射向以色列南部，其中两枚火箭弹击中了南部城镇斯代罗特，一枚火箭弹击中了基苏菲姆，共造成至少12名平民受伤。巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）宣称对火箭弹袭击负责。另据巴勒斯坦媒体报道，当晚，以军坦克炮击了加沙地带，造成5名巴勒斯坦人受伤。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7495991.d.html</link>
@@ -45,7 +50,8 @@
             <pubDate>Tue, 02 May 2023 18:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯铁路表示，一列火车和20节货车在俄罗斯布良斯克地区脱轨。事故发生后，线路交通暂停，没有人员伤亡报告。]]></title>
+            <title><![CDATA[【俄罗斯布良斯克州再次发生货运列车脱轨事件】 俄罗斯布良斯克州2日晚再次发生货运列车脱轨事件，暂无人员伤亡报告。俄罗斯铁路公司当天在社交媒体发布消息说，当地时间19时47分，因无关人员非法干扰铁路运输，一台机车和20节车厢在布良斯克州一铁路路段脱轨。初步信息显示，没有人员伤亡。事发路段已经封闭，消防人员和救援人员正在现场抢修。布良斯克州州长博戈马兹在社交媒体证实这一消息。他说，事发原因是一个不明爆炸装置在斯涅热季火车站附近发生爆炸。此前一天，布良斯克州一段铁轨曾发生爆炸，导致一列货运列车的一台机车和7节车厢脱轨，没有人员伤亡。博戈马兹当时说，列车脱轨由一个不明爆炸装置爆炸引发。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4220230.d.html</link>
             <guid>3093802</guid>
             <pubDate>Tue, 02 May 2023 18:00:45 GMT</pubDate>
         </item>
@@ -196,12 +202,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4250069.d.html</link>
             <guid>3093728</guid>
             <pubDate>Tue, 02 May 2023 14:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国数据公布后，欧元区国债收益率保持波动】德国国债收益率下跌，逆转了此前涨势，10年期国债收益率下跌4个基点至2.28％、2年期国债收益率下跌4个基点至2.69％；意大利10年期国债收益率上涨1个基点至4.19％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4248599.d.html</link>
-            <guid>3093724</guid>
-            <pubDate>Tue, 02 May 2023 14:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
