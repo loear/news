@@ -4,11 +4,81 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 03 May 2023 20:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 21:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【ICE美元指数周三跌约0.7%】周三（5月3日）纽约尾盘，ICE美元指数下跌0.67%，报101.275点，日内交投区间为101.931-101.073点。美元指数跌0.44%，报1223.43点，日内交投区间为1229.30-1220.10点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6895116.d.html</link>
+            <guid>3094721</guid>
+            <pubDate>Wed, 03 May 2023 21:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港金管局买入46.71亿港元以捍卫联系汇率制度，因港元汇价触及弱方兑换保证水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6894934.d.html</link>
+            <guid>3094720</guid>
+            <pubDate>Wed, 03 May 2023 21:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通：预计2023年手机市场降幅将处于0%-10%区间的上端。预计未来两个季度的库存将会降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3514017.d.html</link>
+            <guid>3094716</guid>
+            <pubDate>Wed, 03 May 2023 21:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通首席执行官表示，将在未来几个月提高芯片性能，在智能手机上运行更大的人工智能模型。]]></title>
+            <guid>3094714</guid>
+            <pubDate>Wed, 03 May 2023 21:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国4月外汇储备 4266.8亿美元，前值4260.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6889632.d.html</link>
+            <guid>3094713</guid>
+            <pubDate>Wed, 03 May 2023 21:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[强生旗下Kenvue据称将美国IPO发行价定在每股22.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6888688.d.html</link>
+            <guid>3094711</guid>
+            <pubDate>Wed, 03 May 2023 20:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MKS Instruments一季度调整后每股盈利（EPS）为0.48美元，分析师预期每股亏损0.17美元。一季度净营收7.94亿美元，分析师预期7.799亿美元。预计二季度营收9.30亿-10.3亿美元，分析师预期9.969亿美元。]]></title>
+            <guid>3094710</guid>
+            <pubDate>Wed, 03 May 2023 20:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿莱恩斯西部银行美股盘后下跌10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3507010.d.html</link>
+            <guid>3094704</guid>
+            <pubDate>Wed, 03 May 2023 20:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SPDR标普地区银行ETF（KRE）美股盘后下跌2.3%。地区银行股中，西太平洋银行跌28.6%，WAL跌超10%，齐昂银行、CMA、KeyCorp、嘉信理财等至多跌3.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3506602.d.html</link>
+            <guid>3094699</guid>
+            <pubDate>Wed, 03 May 2023 20:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好市多4月同店销售总额增长1.4％，分析师预估增长1.5％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6882374.d.html</link>
+            <guid>3094688</guid>
+            <pubDate>Wed, 03 May 2023 20:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝加哥期权交易所四月期货平均每日成交量下降14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6881693.d.html</link>
+            <guid>3094687</guid>
+            <pubDate>Wed, 03 May 2023 20:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克公司四月份美国股票期权交易量为208.0万，同比下降11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3497767.d.html</link>
+            <guid>3094663</guid>
+            <pubDate>Wed, 03 May 2023 20:24:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[花旗集团(C.N)：将基本贷款利率从8.00%上调至8.25%，于5月4日生效。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6873585.d.html</link>
@@ -104,18 +174,6 @@
             <title><![CDATA[NYMEX 6月汽油期货收报2.3221美元/加仑。NYMEX 6月取暖油期货收报2.2323美元/加仑。]]></title>
             <guid>3094535</guid>
             <pubDate>Wed, 03 May 2023 18:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：美国总统拜登已获悉亚特兰大的枪击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imyspwac6951458.d.html</link>
-            <guid>3094524</guid>
-            <pubDate>Wed, 03 May 2023 18:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债2年期/10年期收益率曲线倒挂幅度缩窄，目前为53.90个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-04/detail-imyspwai3569126.d.html</link>
-            <guid>3094516</guid>
-            <pubDate>Wed, 03 May 2023 18:10:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

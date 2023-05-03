@@ -6,6 +6,88 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3094721,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6895116.d.html",
+            "title": "【ICE美元指数周三跌约0.7%】周三（5月3日）纽约尾盘，ICE美元指数下跌0.67%，报101.275点，日内交投区间为101.931-101.073点。美元指数跌0.44%，报1223.43点，日内交投区间为1229.30-1220.10点。",
+            "date_modified": "2023-05-03T21:11:08.000Z"
+        },
+        {
+            "id": 3094720,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6894934.d.html",
+            "title": "香港金管局买入46.71亿港元以捍卫联系汇率制度，因港元汇价触及弱方兑换保证水平。",
+            "date_modified": "2023-05-03T21:10:43.000Z"
+        },
+        {
+            "id": 3094716,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3514017.d.html",
+            "title": "高通：预计2023年手机市场降幅将处于0%-10%区间的上端。预计未来两个季度的库存将会降低。",
+            "date_modified": "2023-05-03T21:04:54.000Z"
+        },
+        {
+            "id": 3094714,
+            "content_html": "",
+            "title": "高通首席执行官表示，将在未来几个月提高芯片性能，在智能手机上运行更大的人工智能模型。",
+            "date_modified": "2023-05-03T21:01:53.000Z"
+        },
+        {
+            "id": 3094713,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6889632.d.html",
+            "title": "韩国4月外汇储备 4266.8亿美元，前值4260.7亿美元。",
+            "date_modified": "2023-05-03T21:00:11.000Z"
+        },
+        {
+            "id": 3094711,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6888688.d.html",
+            "title": "强生旗下Kenvue据称将美国IPO发行价定在每股22.00美元。",
+            "date_modified": "2023-05-03T20:57:00.000Z"
+        },
+        {
+            "id": 3094710,
+            "content_html": "",
+            "title": "MKS Instruments一季度调整后每股盈利（EPS）为0.48美元，分析师预期每股亏损0.17美元。一季度净营收7.94亿美元，分析师预期7.799亿美元。预计二季度营收9.30亿-10.3亿美元，分析师预期9.969亿美元。",
+            "date_modified": "2023-05-03T20:56:52.000Z"
+        },
+        {
+            "id": 3094704,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3507010.d.html",
+            "title": "阿莱恩斯西部银行美股盘后下跌10%。",
+            "date_modified": "2023-05-03T20:50:57.000Z"
+        },
+        {
+            "id": 3094699,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3506602.d.html",
+            "title": "SPDR标普地区银行ETF（KRE）美股盘后下跌2.3%。地区银行股中，西太平洋银行跌28.6%，WAL跌超10%，齐昂银行、CMA、KeyCorp、嘉信理财等至多跌3.75%。",
+            "date_modified": "2023-05-03T20:49:42.000Z"
+        },
+        {
+            "id": 3094688,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6882374.d.html",
+            "title": "好市多4月同店销售总额增长1.4％，分析师预估增长1.5％。",
+            "date_modified": "2023-05-03T20:41:35.000Z"
+        },
+        {
+            "id": 3094687,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6881693.d.html",
+            "title": "芝加哥期权交易所四月期货平均每日成交量下降14%。",
+            "date_modified": "2023-05-03T20:40:40.000Z"
+        },
+        {
+            "id": 3094663,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3497767.d.html",
+            "title": "纳斯达克公司四月份美国股票期权交易量为208.0万，同比下降11%。",
+            "date_modified": "2023-05-03T20:24:02.000Z"
+        },
+        {
             "id": 3094656,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6873585.d.html",
@@ -115,20 +197,6 @@
             "content_html": "",
             "title": "NYMEX 6月汽油期货收报2.3221美元/加仑。NYMEX 6月取暖油期货收报2.2323美元/加仑。",
             "date_modified": "2023-05-03T18:31:45.000Z"
-        },
-        {
-            "id": 3094524,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imyspwac6951458.d.html",
-            "title": "美国白宫新闻秘书让·皮埃尔：美国总统拜登已获悉亚特兰大的枪击事件。",
-            "date_modified": "2023-05-03T18:19:56.000Z"
-        },
-        {
-            "id": 3094516,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imyspwai3569126.d.html",
-            "title": "美国国债2年期/10年期收益率曲线倒挂幅度缩窄，目前为53.90个基点。",
-            "date_modified": "2023-05-03T18:10:12.000Z"
         }
     ]
 }
