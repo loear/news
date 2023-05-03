@@ -6,6 +6,67 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3094744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3549139.d.html",
+            "title": "WTI原油日内跌幅收窄至2.8%，报66.23美元/桶。",
+            "date_modified": "2023-05-03T22:10:14.000Z"
+        },
+        {
+            "id": 3094741,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6926814.d.html",
+            "title": "现货黄金短线回落30美元，报2046美元/盎司。",
+            "date_modified": "2023-05-03T22:06:26.000Z"
+        },
+        {
+            "id": 3094739,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6926367.d.html",
+            "title": "WTI原油开盘跌超2.4%，报66.47美元/桶。",
+            "date_modified": "2023-05-03T22:05:10.000Z"
+        },
+        {
+            "id": 3094738,
+            "content_html": "",
+            "title": "周四（5月4日）亚太盘初，标普500股指期货和道指期货跌超0.4%，纳斯达克100股指期货跌超0.2%。（罗素）2000股指期货跌1.49%。",
+            "date_modified": "2023-05-03T22:02:31.000Z"
+        },
+        {
+            "id": 3094735,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3539780.d.html",
+            "title": "【联邦贸易委员会再指Meta违背隐私承诺 后者回应该指控是“政治秀”】联邦贸易委员会(FTC)周三指控Meta一再违反对美国监管机构的隐私承诺，目前政府或将禁止该公司在未经独立隐私审查的情况下发布新社交媒体产品。作为Facebook平台的母公司，Meta十多年来一直在接受FTC的调查。美国联邦贸易委员会在周三发布的行政程序文件中指控Meta依然违反法律，允许第三方开发人员访问用户数据，并夸大父母对儿童使用Messenger Kids的监控程度。Meta回应称FTC的最新指控是一场“政治秀”，并表示将大力进行抗争。这项行政程序将由FTC的三位委员负责。他们将审查证据并作出决定。Meta将有机会回应这些指控，并可以向联邦上诉法院就FTC的裁决提出上诉。",
+            "date_modified": "2023-05-03T21:51:14.000Z"
+        },
+        {
+            "id": 3094731,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6911912.d.html",
+            "title": "穆迪：上调美国银行高级债券评级至A1，之前为A2评级。",
+            "date_modified": "2023-05-03T21:43:15.000Z"
+        },
+        {
+            "id": 3094729,
+            "content_html": "",
+            "title": "美国证交会官员：美国证券交易委员不会考虑禁止做空，尽管市场对银行财务健康状况的担忧打压股市。",
+            "date_modified": "2023-05-03T21:35:12.000Z"
+        },
+        {
+            "id": 3094727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3523818.d.html",
+            "title": "市场消息：高通考虑并购以加速多元化发展。",
+            "date_modified": "2023-05-03T21:24:38.000Z"
+        },
+        {
+            "id": 3094726,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqakf3521004.d.html",
+            "title": "市场消息：拉扎德投行（LAZ）计划在五个拉美国家关闭办事处，以期在并购顾问业务缩水之际削减成本。",
+            "date_modified": "2023-05-03T21:20:08.000Z"
+        },
+        {
             "id": 3094721,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imysqaiz6895116.d.html",
@@ -191,12 +252,6 @@
             "url": "https://finance.sina.cn/7x24/2023-05-04/detail-imyspwai3593383.d.html",
             "title": "现货黄金短线下跌5美元，现报2019.97美元/盎司。",
             "date_modified": "2023-05-03T19:10:44.000Z"
-        },
-        {
-            "id": 3094535,
-            "content_html": "",
-            "title": "NYMEX 6月汽油期货收报2.3221美元/加仑。NYMEX 6月取暖油期货收报2.2323美元/加仑。",
-            "date_modified": "2023-05-03T18:31:45.000Z"
         }
     ]
 }
