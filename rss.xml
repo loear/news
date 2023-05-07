@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 May 2023 15:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 16:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【斯洛伐克总统将任命卢多维特·欧多尔担任新总理】当地时间5月7日，斯洛伐克总统恰普托娃表示，她将在5月15日之后任命现国家银行副行长卢多维特·欧多尔（Ľudovít Ódor）担任看守政府总理。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysysep8872923.d.html</link>
+            <guid>3099617</guid>
+            <pubDate>Sun, 07 May 2023 15:46:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【叙利亚外交部：对阿盟外长会决定表示欢迎】阿拉伯国家联盟（阿盟）在埃及首都开罗举行外长级紧急会议，讨论与叙利亚关系正常化等议题。会议宣布，同意恢复叙利亚的阿盟成员国资格，叙利亚政府代表团可以参与阿盟理事会会议及其他附属机构或组织会议。对此，叙利亚外交部发表声明表示，叙利亚密切关注阿拉伯地区发生的积极趋势和互动，并认为这符合所有阿拉伯国家的利益，也认为这有利于实现阿拉伯人民的安全、稳定及繁荣。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysymwr8978518.d.html</link>
@@ -424,24 +430,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhs2426241.d.html</link>
             <guid>3099358</guid>
             <pubDate>Sun, 07 May 2023 09:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统尹锡悦：与日本首相岸田文雄一致同意进一步提高双边关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhs2426032.d.html</link>
-            <guid>3099357</guid>
-            <pubDate>Sun, 07 May 2023 09:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统尹锡悦：与日本首相岸田文雄达成协议，将在全球问题上密切合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhv9046251.d.html</link>
-            <guid>3099356</guid>
-            <pubDate>Sun, 07 May 2023 09:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“一优、一增、一享”，2023版“沪惠保”惠民升级】从业内获悉，2023版“沪惠保”保费129元/年，最高享310万医疗保障，在保费不变的前提下，实现“一优、一增、一享”，降低免赔额、增补特药清单、专享健康权益，提升参保全人群获得感。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhv9046195.d.html</link>
-            <guid>3099355</guid>
-            <pubDate>Sun, 07 May 2023 09:04:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
