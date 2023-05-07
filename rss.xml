@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 May 2023 16:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 17:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -418,18 +418,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhv9051318.d.html</link>
             <guid>3099360</guid>
             <pubDate>Sun, 07 May 2023 09:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国长城：基于S5000系列平台的服务器产品正在加速推进中】中国长城近期接受投资者调研时称，基于S5000系列平台的服务器产品正在加速推进中，新产品处于国内领先水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhs2427549.d.html</link>
-            <guid>3099359</guid>
-            <pubDate>Sun, 07 May 2023 09:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统尹锡悦：韩国和日本将在芯片领域加强合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhs2426241.d.html</link>
-            <guid>3099358</guid>
-            <pubDate>Sun, 07 May 2023 09:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
