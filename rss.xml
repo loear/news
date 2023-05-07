@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 May 2023 17:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 18:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -412,12 +412,6 @@
             <title><![CDATA[韩国总统尹锡悦：与日本首相岸田文雄就印度-太平洋地区的战略重要性达成一致，将加强在印度-太平洋战略方面的协调。]]></title>
             <guid>3099362</guid>
             <pubDate>Sun, 07 May 2023 09:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在ABC/POST民调中，美国总统拜登的支持率跌至创纪录的低点，为36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhv9051318.d.html</link>
-            <guid>3099360</guid>
-            <pubDate>Sun, 07 May 2023 09:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
