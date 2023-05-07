@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 May 2023 18:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 19:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【片仔癀锭剂不再“一粒难求”后 厂家主动涨价了】5月5日晚间，片仔癀宣布上调片仔癀锭剂零售价消息，这是时隔三年多后，公司再次提价。此次片仔癀在公告中表示，鉴于片仔癀产品主要原料及人工成本上涨等原因，公司决定自公告之日起，公司主导产品片仔癀锭剂国内市场零售价格将从590元/粒上调到760元/粒，供应价格相应上调约170元/粒；海外市场供应价格相应上调约35美元/粒。片仔癀锭剂属于肝病药物，其功能主治清热解毒、凉血化瘀、消肿止痛，用于热毒血瘀所致急慢性病毒性肝炎、痈疽疔疮、无名肿毒、跌打损伤及各种炎症。公司片仔癀系列产品，含片仔癀锭剂、片仔癀胶囊和复方片仔癀含片等，其中片仔癀锭剂占主导地位。2022年、2023年一季度，片仔癀系列产品销售收入分别为36.05亿元、13.71亿元，净利润分别为23.23亿元、7.34亿元。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-08/detail-imysywnm8827604.d.html</link>
+            <guid>3099707</guid>
+            <pubDate>Sun, 07 May 2023 18:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【斯洛伐克总统将任命卢多维特·欧多尔担任新总理】当地时间5月7日，斯洛伐克总统恰普托娃表示，她将在5月15日之后任命现国家银行副行长卢多维特·欧多尔（Ľudovít Ódor）担任看守政府总理。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysysep8872923.d.html</link>
@@ -407,11 +413,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysxzhs2431357.d.html</link>
             <guid>3099363</guid>
             <pubDate>Sun, 07 May 2023 09:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统尹锡悦：与日本首相岸田文雄就印度-太平洋地区的战略重要性达成一致，将加强在印度-太平洋战略方面的协调。]]></title>
-            <guid>3099362</guid>
-            <pubDate>Sun, 07 May 2023 09:16:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
