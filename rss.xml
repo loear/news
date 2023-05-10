@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 May 2023 20:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 21:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美元指数在美国CPI数据出炉当天跌超0.2%】周三（5月10日）纽约尾盘，ICE美元指数跌0.16%，报101.444点，日内交投区间为101.806-101.215点。彭博美元指数跌0.26%，报1218.81点，日内交投区间为1223.10-1216.68点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiyfi9629896.d.html</link>
+            <guid>3103949</guid>
+            <pubDate>Wed, 10 May 2023 21:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迪士尼CFO：预计内容重组产生的费用将在15-18亿美元之间】迪士尼CFO表示，预计内容重组产生的费用将在15-18亿美元之间；受季节性营销支出影响，流媒体业务亏损额在财年三季度将相比二季度再增加1亿美元；预计财年资本支出额为56亿美元，仍低于之前预计的60亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiyff0004061.d.html</link>
+            <guid>3103947</guid>
+            <pubDate>Wed, 10 May 2023 21:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收涨0.99%，报31.1万点，连续两个交易日创收盘历史新高。]]></title>
+            <guid>3103944</guid>
+            <pubDate>Wed, 10 May 2023 20:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼：本公司到2023年年底之前将推出融合了Disney+和Hulu的APP。本公司在旗下众多流媒体app上拥有大约5000家广告商（客户）。]]></title>
+            <guid>3103941</guid>
+            <pubDate>Wed, 10 May 2023 20:40:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：Robinhood(HOOD.O)在三月份申请了期货交易许可证，预计将在2023年底前推出期货交易。Robinhood将在工作日推出24小时的证券交易。]]></title>
             <guid>3103939</guid>
@@ -26,7 +48,7 @@
             <pubDate>Wed, 10 May 2023 20:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[索诺声（SONO）美股盘后跌13.95%。]]></title>
+            <title><![CDATA[【索诺声下调全年业绩指引，股价盘后崩跌20%】消费电子公司、发明无线多房间家庭音响的索诺声第二财季每股亏损0.24美元。第二财季调整后每股盈利（EPS）为0.04美元，分析师预期0.013美元。第二财季营收3.042亿美元，分析师预期2.98亿美元。预计全年营收16.3亿-16.8亿美元，公司原本预计17.0亿-18.0亿美元。预计全年调整后EBITDA为1.38亿-1.68亿美元，公司原本预计1.45亿-1.80亿美元。任命Julius Genachowski为董事会主席。索诺声（SONO）美股盘后暴跌20.0%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytitxm9731960.d.html</link>
             <guid>3103935</guid>
             <pubDate>Wed, 10 May 2023 20:14:33 GMT</pubDate>
@@ -41,11 +63,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytitxi0109104.d.html</link>
             <guid>3103932</guid>
             <pubDate>Wed, 10 May 2023 20:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[网红券商Robinhood一季度净营收4.41亿美元，分析师预期4.228亿美元。Robinhood（HOOD）美股盘后涨3.2%。]]></title>
-            <guid>3103931</guid>
-            <pubDate>Wed, 10 May 2023 20:07:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【以色列对加沙地带开展新一轮空袭】据央视，当地时间5月10日晚，以色列国防军表示，随着巴勒斯坦武装组织当晚从加沙地带再度向以色列南部和中部发射火箭弹，以军对加沙地带开展了新一轮空袭，目标是巴勒斯坦伊斯兰圣战组织（杰哈德）所在地。以军击中了4个地点，包括杰哈德的武器库和海军突击队所在地。巴勒斯坦媒体报道称，整个加沙地带都听到了爆炸声。以军称打击还在继续。截至当晚20时30分，巴勒斯坦武装组织当天已经从加沙地带向以色列发射了300多枚火箭弹。]]></title>
@@ -293,55 +310,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiprp9770042.d.html</link>
             <guid>3103853</guid>
             <pubDate>Wed, 10 May 2023 17:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌母公司Alphabet CEO：用户很快就可以在照片应用程序中使用人工智能编辑照片。]]></title>
-            <guid>3103851</guid>
-            <pubDate>Wed, 10 May 2023 17:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟：将于5月15日发布二氧化碳排放权市场过剩指标。]]></title>
-            <guid>3103849</guid>
-            <pubDate>Wed, 10 May 2023 17:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌母公司Alphabet CEO展示了用户如何在Gmail中使用生成式人工智能。]]></title>
-            <guid>3103848</guid>
-            <pubDate>Wed, 10 May 2023 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“大国重器”闪亮中国品牌博览会】 随中铁建大盾构潜江越海，和中国空间站逐梦寰宇，随高速磁浮感受“追风”速度……5月10日，第七个“中国品牌日”如约而至，在上海世博展览馆举办的中国品牌博览会上，900余家地方遴选品牌企业和38家中央企业进行集中展示，向世界传递中国品牌新势能。其中，多家央企携“大国重器”独立参展，展现着中国最尖端制造业水平，成为博览会最“吸睛”展台。（经参）]]></title>
-            <guid>3103847</guid>
-            <pubDate>Wed, 10 May 2023 17:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A(GOOGL.O)短线拉升，现涨2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiprm0146271.d.html</link>
-            <guid>3103844</guid>
-            <pubDate>Wed, 10 May 2023 17:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利矿业部长：智利将于6月开始锂模型的参与式进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiprm0143605.d.html</link>
-            <guid>3103842</guid>
-            <pubDate>Wed, 10 May 2023 17:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收跌1.14%，沪铜收跌1.03%，沪铝收跌0.71%，沪锌收跌1.21%，沪铅收涨0.10%，沪镍收跌4.01%，沪锡收涨0.40%。不锈钢夜盘收跌0.71%。]]></title>
-            <guid>3103840</guid>
-            <pubDate>Wed, 10 May 2023 17:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：美国面临越过债务上限“大限日”的重大风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiprm0142439.d.html</link>
-            <guid>3103839</guid>
-            <pubDate>Wed, 10 May 2023 17:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利方面表示，新的国有企业将参与锂产业的所有阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-11/detail-imytiprm0142371.d.html</link>
-            <guid>3103838</guid>
-            <pubDate>Wed, 10 May 2023 17:00:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
