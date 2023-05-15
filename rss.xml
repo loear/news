@@ -4,11 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 15 May 2023 21:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 22:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌克兰最高法院院长因贪污受贿被捕】 据乌克兰媒体RBC报道，乌克兰最高法院院长克尼亚泽夫15日因贪污受贿270万美元被捕。（央视）]]></title>
+            <guid>3110041</guid>
+            <pubDate>Mon, 15 May 2023 22:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[旭辉控股联交所公告：德勤辞任核数师。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytxiwa7131568.d.html</link>
+            <guid>3110040</guid>
+            <pubDate>Mon, 15 May 2023 22:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13F报告显示：Third Point一季度建仓做多谷歌母公司Alphabet（谷歌A）、Salesforce.com、阿里巴巴ADR、AMD、美光科技等14只股票。清仓TJX、迪士尼、iShares安硕1-3年期国债ETF（SHY）等12只股票等资产。增持杜邦、赫兹租车、太平洋瓦电（PG&E）等七只股票。减持联合健康、AIG、高露洁、以及微软。重仓太平洋瓦电、高露洁、Danaher、Bath & Body Works Inc.、以及谷歌A。]]></title>
+            <guid>3110038</guid>
+            <pubDate>Mon, 15 May 2023 22:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在加拿大上市的锂矿公司Lithium Americas（LAC.CN）一季度每股亏损0.04加元，分析师预期亏损0.19加元。]]></title>
+            <guid>3110032</guid>
+            <pubDate>Mon, 15 May 2023 21:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车在北美市场召回了超过100万辆使用问题安全气囊的车辆，其中包括在加拿大市场召回的4.2万辆。]]></title>
+            <guid>3110031</guid>
+            <pubDate>Mon, 15 May 2023 21:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.9589元，较上周五纽约尾盘涨122点，盘中整体交投于6.9750-6.9551元区间。]]></title>
+            <guid>3110028</guid>
+            <pubDate>Mon, 15 May 2023 21:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（5月15日）纽约尾盘，ICE美元指数跌0.23%，报102.444点，日内交投区间为102.752-102.382点。美元指数跌0.31%，报1227.36点。]]></title>
+            <guid>3110027</guid>
+            <pubDate>Mon, 15 May 2023 21:26:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会共和党议员Bill Huizenga表示，推动财政改革，才是走向达成债务协议的关键点所在。]]></title>
+            <guid>3110025</guid>
+            <pubDate>Mon, 15 May 2023 21:25:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：瑞银集团从竞争对手巴克莱处挖来了6位主攻科技行业的银行家。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytxiwa7107904.d.html</link>
@@ -189,51 +230,6 @@
             <title><![CDATA[美国货币监理署(OCC)代理审计长Michael Hsu在准备好的国会听证会证词中表示，监管机构正在制定“更强有力”的规则，使大型银行更具韧性。该机构在考虑银行合并提议时持开放态度，并致力于及时采取行动。]]></title>
             <guid>3109830</guid>
             <pubDate>Mon, 15 May 2023 17:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[评级机构惠誉确认澳大利亚评级为AAA，前景展望为稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytwxhq6872447.d.html</link>
-            <guid>3109827</guid>
-            <pubDate>Mon, 15 May 2023 17:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马拉松石油公司位于美国Galveston Bay的炼油厂周一因火灾关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytwxhk3466938.d.html</link>
-            <guid>3109826</guid>
-            <pubDate>Mon, 15 May 2023 17:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌提高了“群组”服务的人数上限，直接群组人数上限由2000人提高至3000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytwxhq6871720.d.html</link>
-            <guid>3109825</guid>
-            <pubDate>Mon, 15 May 2023 17:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大石油和天然气公司Baytex：加拿大阿伯塔省之前的火灾导致公司关停了每日2万桶原油当量的产能，至今该省中西部地区仍有4000桶原油当量的产能未能恢复。]]></title>
-            <guid>3109821</guid>
-            <pubDate>Mon, 15 May 2023 17:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中证协：券商要促进市场投资融资协调平衡发展】据中证协官网5月15日消息，5月11日，中证协以线上线下结合方式召开投资者服务与保护专业委员会全体会议。会议强调，2亿多的个人投资者是我国资本市场的最大市情，也是资本市场人民性的重要体现。证券公司作为资本市场“看门人”，要适应投资者权益保护新要求，充分认识资本市场的人民性，不断完善投资者保护工作，更好保护投资者合法权益；要促进市场投资融资协调平衡发展，持续提升中小投资者满意度；要发挥好桥梁纽带作用，积极搭建上市公司与广大中小投资者间的沟通平台，督促提升上市公司质量，做好信息披露工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytwxhh7289889.d.html</link>
-            <guid>3109818</guid>
-            <pubDate>Mon, 15 May 2023 17:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：已经安排周二与麦卡锡就债务上限问题举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytwxhk3462024.d.html</link>
-            <guid>3109816</guid>
-            <pubDate>Mon, 15 May 2023 17:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据塔斯社援引俄罗斯贸易部长的话报道，俄罗斯政府委员会批准将大众汽车在俄罗斯卡卢加地区的工厂出售给一家俄罗斯企业。]]></title>
-            <guid>3109814</guid>
-            <pubDate>Mon, 15 May 2023 17:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨20美元，报8272美元/吨。LME期铝收涨28美元，报2260美元/吨。LME期锌收跌17美元，报2532美元/吨。LME期铅收跌4美元，报2072美元/吨。LME期镍收跌595美元，报21622美元/吨。LME期锡收涨158美元，报24994美元/吨。]]></title>
-            <guid>3109811</guid>
-            <pubDate>Mon, 15 May 2023 17:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
