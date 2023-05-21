@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 21 May 2023 17:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 18:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧盟将开征充满争议的碳关税，全球影响巨大】4月18日欧洲议会通过了一项旨在应对气候变化，减低碳排放的议案，它是欧盟提出的在2050年之前达到碳中和的“绿色协议”的核心部分。该议案的措施就是人们俗称的碳关税，其正式名称为“碳边界调整机制”（CBAM）。欧盟此举对全球影响巨大，既创新了国际贸易规则，又借助贸易政策工具推动全球气候政策的调整。了解欧盟碳关税对认知和实现中国“碳中和”的重要性有直接意义。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqseu5422547.d.html</link>
+            <guid>3116642</guid>
+            <pubDate>Sun, 21 May 2023 18:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大山火失控 产油区岌岌可危】加拿大西部艾伯塔省的野火已经肆虐了近一个月，影响依然在继续。因为加拿大是世界第四大原油生产国，其中约八成石油产自艾伯塔省。目前这一重要产油区多家企业被迫暂停生产，石油和天然气的供应也不得不中断。另一方面，野火的烟雾还导致加拿大西部的空气质量变差，数万居民被疏散。（北京商报）]]></title>
+            <guid>3116641</guid>
+            <pubDate>Sun, 21 May 2023 17:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫确认拜登和麦卡锡周一会面，谈判代表将于当地时间周日下午六点举行会议。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmww5541365.d.html</link>
@@ -389,12 +400,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuyz3757424.d.html</link>
             <guid>3116324</guid>
             <pubDate>Sun, 21 May 2023 10:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登：泽连斯基明确保证乌克兰不会使用F-16战斗机进入俄罗斯领土】5月21日，美国总统拜登在日本广岛的新闻发布会上表示，已经得到乌克兰总统泽连斯基的“明确的保证”，乌克兰不会使用F-16战斗机进入俄罗斯领土。此前拜登说，美国将开始培训乌克兰飞行员使用第四代战斗机，包括F-16战斗机。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5858163.d.html</link>
-            <guid>3116323</guid>
-            <pubDate>Sun, 21 May 2023 10:37:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
