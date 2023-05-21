@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 21 May 2023 19:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 20:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：05月22日03时56分在四川宜宾市长宁县附近（北纬28.42度，东经104.86度）发生4.6级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3116688</guid>
+            <pubDate>Sun, 21 May 2023 20:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟将开征充满争议的碳关税，全球影响巨大】4月18日欧洲议会通过了一项旨在应对气候变化，减低碳排放的议案，它是欧盟提出的在2050年之前达到碳中和的“绿色协议”的核心部分。该议案的措施就是人们俗称的碳关税，其正式名称为“碳边界调整机制”（CBAM）。欧盟此举对全球影响巨大，既创新了国际贸易规则，又借助贸易政策工具推动全球气候政策的调整。了解欧盟碳关税对认知和实现中国“碳中和”的重要性有直接意义。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqseu5422547.d.html</link>
@@ -388,12 +393,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuza9082312.d.html</link>
             <guid>3116327</guid>
             <pubDate>Sun, 21 May 2023 10:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网易游戏发布超40款产品】5月21日获悉，2023年网易游戏“520”线上发布会于近期圆满结束，网易此次发布11款新游、35款热门游戏/IP及平台产品。其中11款新品不仅涵盖武侠、奇幻、射击、体育等题材，在画面风格、玩法上也各有千秋，例如借助高技术支持、打造出色视觉与玩法的《逆水寒》手游、以金庸笔下的武侠开放世界探索为特色的《射雕》、能够体验到东方文明奇幻冒险的《九畿：岐风之旅》，另类暗黑三国风格的《三国诛将录》等。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuyx2683950.d.html</link>
-            <guid>3116326</guid>
-            <pubDate>Sun, 21 May 2023 10:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
