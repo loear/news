@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 25 May 2023 19:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 20:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gap一季度调整后每股收益为0.01美元，分析师预期为0.16美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzwwk4917146.d.html</link>
+            <guid>3122202</guid>
+            <pubDate>Thu, 25 May 2023 20:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克和福特首席执行官吉姆·法利将在推特的语音连线中讨论电动汽车。]]></title>
+            <guid>3122201</guid>
+            <pubDate>Thu, 25 May 2023 20:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[扎克伯格告知Meta员工，公司的稳定性将会增强。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzwwn1692453.d.html</link>
+            <guid>3122197</guid>
+            <pubDate>Thu, 25 May 2023 20:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股收盘涨跌不一，英伟达绩后大涨带动纳指走高】美股收盘，纳指初步收涨1.71%，标普500指数涨0.88%，道指小幅收跌约30点。英伟达(NVDA.O)收涨逾24%，盘中股价一度创历史新高。AI板块大幅收涨，Palantir(PLTR.N)涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqm0873058.d.html</link>
+            <guid>3122194</guid>
+            <pubDate>Thu, 25 May 2023 20:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特工程总监Foad Dabiri辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqn5043909.d.html</link>
+            <guid>3122192</guid>
+            <pubDate>Thu, 25 May 2023 19:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：高加索地区的局势虽然困难，但正在朝着解决方向发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqq1819725.d.html</link>
+            <guid>3122191</guid>
+            <pubDate>Thu, 25 May 2023 19:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国投资公司协会（ICI）：5月24日当周，货币市场资产以5.39万亿美元连续第四周创历史新高。]]></title>
+            <guid>3122190</guid>
+            <pubDate>Thu, 25 May 2023 19:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯将参加欧佩克+会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqq1816926.d.html</link>
+            <guid>3122184</guid>
+            <pubDate>Thu, 25 May 2023 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：如有必要，欧佩克+可以在6月会议上做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqn5039738.d.html</link>
+            <guid>3122183</guid>
+            <pubDate>Thu, 25 May 2023 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：如有必要，欧佩克+将共同达成共识并采取措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqn5039719.d.html</link>
+            <guid>3122182</guid>
+            <pubDate>Thu, 25 May 2023 19:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯和欧佩克+成员国将作出对油市最佳的决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuzsqn5039695.d.html</link>
+            <guid>3122180</guid>
+            <pubDate>Thu, 25 May 2023 19:27:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克石油部：与包括沙特阿美在内的沙特公司就油气投资进行了讨论，但尚未达成最终协议。]]></title>
             <guid>3122170</guid>
@@ -197,75 +261,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhp0931404.d.html</link>
             <guid>3122103</guid>
             <pubDate>Thu, 25 May 2023 16:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长奥斯汀：丹麦和荷兰将领导F-16战斗机培训，其他国家也将加入训练。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhs1916139.d.html</link>
-            <guid>3122102</guid>
-            <pubDate>Thu, 25 May 2023 16:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长奥斯汀：联络小组讨论了对乌克兰飞行员进行F-16和其他战斗机培训的计划。]]></title>
-            <guid>3122101</guid>
-            <pubDate>Thu, 25 May 2023 16:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[维珍银河(SPCE.N)：VSS Unity飞船已进入太空。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhp0924954.d.html</link>
-            <guid>3122088</guid>
-            <pubDate>Thu, 25 May 2023 16:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京与阿塞拜疆总统阿利耶夫举行会谈】当地时间5月25日，俄罗斯总统普京与阿塞拜疆总统阿利耶夫举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhs1913483.d.html</link>
-            <guid>3122087</guid>
-            <pubDate>Thu, 25 May 2023 16:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯边境州遭袭击 反俄武装称美制武器从黑市购买】近期，位于俄乌边境地区的俄罗斯别尔哥罗德州安全形势紧张，特别是日前遭大规模武装人员潜入一事引发关注。俄罗斯指责乌方入境发动袭击，而乌方否认此事与自己有关，称是所谓的反俄武装团体所为。以乌克兰为活动基地、参加乌军对俄作战的两个准军事团体在社交媒体上“认领”了这波袭击。美国有线电视新闻网当地时间25日报道说，反俄武装团体成员发声，称他们在袭击前，与乌克兰方面有过沟通，而且手中所用的美制武器购买自黑市。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhq5134504.d.html</link>
-            <guid>3122086</guid>
-            <pubDate>Thu, 25 May 2023 16:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部：在波罗的海上空发现两架美军轰炸机接近该国空域】俄罗斯国防部发布公告称，5月25日，俄罗斯在波罗的海上空发现两个接近俄罗斯联邦空域的目标，俄西部军区的一架苏-27战斗机和一架苏-35战斗机立即升空以防止侵犯俄罗斯联邦国家边界的情况发生。俄军机组人员确认空中目标为美国空军的两架B-1B战略轰炸机。在外国军机飞离俄罗斯联邦边界方向后，俄军战斗机返回了驻地机场。俄国防部强调，俄军战斗机的飞行是在严格遵守国际空域使用规定的情况下进行的。外国军机没有侵犯俄罗斯联邦的国家边界。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhq5133631.d.html</link>
-            <guid>3122085</guid>
-            <pubDate>Thu, 25 May 2023 16:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【PIMCO考虑加入对瑞士信贷AT1债券减计提起诉讼的投资者行列】太平洋投资管理公司(PIMCO)正考虑加入数百名投资者的行列，对瑞士监管机构在瑞士银行集团收购瑞士信贷集团后减记约170亿美元债券的决定提起诉讼。据知情人士透露，PIMCO正在考虑是否可能采取法律行动，以收回其8亿美元瑞士信贷所谓的额外一级债券(AT1)中的一部分。据悉，瑞士信贷被收购后，这些额外一级债券被减记为零，而PIMCO是这些债券的最大持有者之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhp0921274.d.html</link>
-            <guid>3122084</guid>
-            <pubDate>Thu, 25 May 2023 16:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：太平洋投资管理公司（PIMCO）考虑加入对瑞士信贷破产提起诉讼的投资者行列。]]></title>
-            <guid>3122083</guid>
-            <pubDate>Thu, 25 May 2023 16:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第29次中国—东盟高官磋商在深圳举行】2023年5月25日，第29次中国—东盟高官磋商在广东深圳举行。外交部部长助理农融和缅甸外交部常秘千埃共同主持，东盟其他各国高官或高官代表和东盟秘书处代表出席会议，东帝汶以东盟观察员身份与会。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhs1909077.d.html</link>
-            <guid>3122082</guid>
-            <pubDate>Thu, 25 May 2023 16:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：开始向搜索实验室开放访问，这是一个访问谷歌早期实验的新项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-26/detail-imyuznhs1908020.d.html</link>
-            <guid>3122081</guid>
-            <pubDate>Thu, 25 May 2023 16:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和欧洲大陆天然气期货跌超9%】周四（5月25日）欧市尾盘，ICE英国天然气期货下跌9.51%，报58.250便士/千卡。TTF基准荷兰天然气期货跌9.35%，报25.200欧元/兆瓦时，徘徊于日低25.100欧元附近。ICE欧盟碳排放交易许可（期货价格）跌2.82%，报81.00欧元/吨。]]></title>
-            <guid>3122080</guid>
-            <pubDate>Thu, 25 May 2023 16:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和欧洲大陆天然气期货跌超9%】周四（5月25日）欧市尾盘，ICE英国天然气期货下跌9.51%，报58.250便士/千卡。TTF基准荷兰天然气期货跌9.35%，报25.200欧元/兆瓦时，徘徊于日低25.100欧元附近。ICE欧盟碳排放交易许可（期货价格）跌2.82%，报81.00欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuznhs1906390.d.html</link>
-            <guid>3122078</guid>
-            <pubDate>Thu, 25 May 2023 15:59:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
