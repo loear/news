@@ -4,13 +4,42 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 30 May 2023 17:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 18:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[英国法官Marcus Smith：法庭可以比英国反垄断监管部门所希望的日期提前（至少）数周审理微软690亿美元收购动视暴雪的案件。]]></title>
+            <title><![CDATA[【人工智能热潮正如火如荼，但AI企业上市潮还需等到2024年】人工智能（AI）正迅速成为寻找交易的投资银行家和私募股权公司的流行语，但任何一波独立的AI首次公开募股（IPO）可能都要等到明年。然而，专注于技术的投资银行Union Square Advisors的联合创始人兼总裁Ted Smith表示，英伟达的成功与许多处于发展阶段的AI公司形成鲜明对比，这些公司的财务模式对于IPO来说还不够稳健。“这个领域的公司正在做非常酷、有趣和有价值的事情，但他们仍然只有个位数或低两位数的收入，”Smith说。他认为AI IPO是“2024年的事”。今年迄今为止，在美国的上市公司通过IPO筹集了100亿美元，比2021年同期下降了94%，较去年同期也下降近一半。新IPO市场自2021年底来一直萎靡不振，公司分拆和低价股占据今年新入市者的大部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvqvxq7096466.d.html</link>
+            <guid>3127669</guid>
+            <pubDate>Tue, 30 May 2023 18:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【度小满开源 千亿参数金融大模型“轩辕”】据经参，记者从度小满获悉，近日，度小满正式开源国内首个千亿级中文金融大模型——“轩辕”。据介绍，轩辕大模型是在1760亿参数的Bloom大模型基础上训练而来，在金融名词理解、金融市场评论、金融数据分析和金融新闻理解等任务上，效果相较于通用大模型大幅提升，表现出明显的金融领域优势。在金融场景中的任务评测中，轩辕全面超越了市场上的主流开源大模型，赢得了150次回答中63.33%的胜率，充分凸显了其在金融领域的显著优势。在通用能力评测中，轩辕有10.2%的任务表现超越ChatGPT3.5，61.22%的任务表现与之持平，涉及数学计算、场景写作、逻辑推理、文本摘要等13个主要维度。]]></title>
+            <guid>3127668</guid>
+            <pubDate>Tue, 30 May 2023 18:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易平台Coinbase的前经理同意与美国证券交易委员会（SEC）了结一起关于内幕交易的指控。]]></title>
+            <guid>3127667</guid>
+            <pubDate>Tue, 30 May 2023 18:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专家普遍认为：人民币不存在较大贬值空间】 Wind数据显示，5月17日在岸人民币对美元汇率“破7”后，在5月18-29日约走贬1.15%，同期，美元指数约升值1.37%。在此期间，欧元、日元、英镑等主要非美货币对美元汇率分别走贬约1.22%、2.01%、1.10%。“此外，同期CFETS等三大一篮子人民币汇率指数保持基本稳定，这也意味着近期人民币对美元并未出现单独快速贬值走势。”东方金诚研究发展部高级分析师冯琳表示。展望后续人民币汇率走势，受访专家普遍认为，人民币不存在较大贬值空间。“下半年伴随国内经济修复过程持续，同时综合考虑其他影响因素，年底人民币对美元汇率同比有可能出现2.0%左右的小幅升值，也就是从去年底的6.95，小幅升至6.8左右。”冯琳预计。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvqvxs3872248.d.html</link>
+            <guid>3127666</guid>
+            <pubDate>Tue, 30 May 2023 18:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：迪士尼电影《小美人鱼》在美国本土录得1.186亿美元周末票房。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvqvxs3863135.d.html</link>
+            <guid>3127654</guid>
+            <pubDate>Tue, 30 May 2023 17:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软收购动视暴雪案获得法庭提前审理】英国法官Marcus Smith表示，法庭可以比英国反垄断监管部门所希望的日期提前至少数周审理微软690亿美元收购动视暴雪的案件。英国竞争和市场管理局(CMA)辩称，这么快就审理此案既不现实也不公平，并敦促在9月底或10月举行听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvqvxs3862183.d.html</link>
             <guid>3127651</guid>
             <pubDate>Tue, 30 May 2023 17:13:28 GMT</pubDate>
         </item>
@@ -249,72 +278,6 @@
             <title><![CDATA[谘商会经济学高级主管Ataman Ozyildirim：虽然过去三个月来消费者信心在各个年龄和收入类别中都有所下降，但5月份的下降反映出55岁及以上消费者的前景特别明显的恶化。]]></title>
             <guid>3127569</guid>
             <pubDate>Tue, 30 May 2023 14:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谘商会经济学高级主管Ataman Ozyildirim：消费者对未来的商业状况也变得更加悲观，对预期指数产生了影响。然而，对未来六个月的工作和收入的预期相对稳定。]]></title>
-            <guid>3127568</guid>
-            <pubDate>Tue, 30 May 2023 14:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谘商会经济学高级主管Ataman Ozyildirim：消费者对当前就业状况的评估出现了最明显的恶化，表示工作机会 “充足 "的消费者比例从4月份的47.5%下降到5月份的43.5%，下降了4个百分点。]]></title>
-            <guid>3127566</guid>
-            <pubDate>Tue, 30 May 2023 14:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谘商会经济学高级主管Ataman Ozyildirim：由于消费者对当前经济状况的看法有所减弱，而他们的预期仍然黯淡，因此消费者信心在5月份下降。]]></title>
-            <guid>3127564</guid>
-            <pubDate>Tue, 30 May 2023 14:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT小麦日内大跌4.00%，现报591.00美分/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrrs7178095.d.html</link>
-            <guid>3127562</guid>
-            <pubDate>Tue, 30 May 2023 14:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：预计乌克兰将在6月底前批准外汇自由化计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrru3955331.d.html</link>
-            <guid>3127561</guid>
-            <pubDate>Tue, 30 May 2023 14:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股热门中概股走低，贝壳和拼多多跌超6%，爱奇艺跌超4%，富途控股和网易跌约3%，阿里巴巴跌2.2%。]]></title>
-            <guid>3127560</guid>
-            <pubDate>Tue, 30 May 2023 14:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：总统拜登和英国首相苏纳克将讨论北爱尔兰问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrru3954147.d.html</link>
-            <guid>3127559</guid>
-            <pubDate>Tue, 30 May 2023 14:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登和英国首相苏纳克将讨论乌克兰和双边经济关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrru3954121.d.html</link>
-            <guid>3127558</guid>
-            <pubDate>Tue, 30 May 2023 14:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将于6月8日在白宫会见英国首相苏纳克。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrrs7176789.d.html</link>
-            <guid>3127557</guid>
-            <pubDate>Tue, 30 May 2023 14:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至5月27日，欧盟2022/23年度棕榈油进口量为358万吨，去年同期为459万吨。]]></title>
-            <guid>3127556</guid>
-            <pubDate>Tue, 30 May 2023 14:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至5月27日，欧盟2022/23年度大豆进口量为1163万吨，去年同期为1326万吨。]]></title>
-            <guid>3127555</guid>
-            <pubDate>Tue, 30 May 2023 14:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯旺科技：目前公司产品尚未应用于脑机接口领域】凯旺科技5月30日在互动平台回答投资者提问时表示，目前公司的产品尚未应用于脑机接口领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-30/detail-imyvqrrs7175443.d.html</link>
-            <guid>3127554</guid>
-            <pubDate>Tue, 30 May 2023 14:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
