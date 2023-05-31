@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 31 May 2023 17:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 18:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【水网建设拉动龙头企业PCCP订单大增】据上证报，记者从多家管业龙头了解到，随着我国持续加大水利建设投资力度，作为上游管网管材的行业景气度明显提升，相关公司今年以来相继斩获大额订单，企业业绩可期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfer9537120.d.html</link>
+            <guid>3129056</guid>
+            <pubDate>Wed, 31 May 2023 18:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊将支付580万美元，以了结因其Ring门铃涉嫌侵犯用户隐私而遭到的来自美国联邦贸易委员会（FTC）的起诉。]]></title>
+            <guid>3129052</guid>
+            <pubDate>Wed, 31 May 2023 18:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）起诉了亚马逊旗下的Ring业务部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfev3190753.d.html</link>
+            <guid>3129048</guid>
+            <pubDate>Wed, 31 May 2023 17:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软发言人称，将于7月底就英国否决动视交易提起上诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfev3190018.d.html</link>
+            <guid>3129047</guid>
+            <pubDate>Wed, 31 May 2023 17:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音：预计美国联邦航空管理局将在年内开始对MAX 10机型进行飞行测试。MAX 10机型在2024年获得认证的这一目标仍面临着来自监管领域的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9966643.d.html</link>
+            <guid>3129046</guid>
+            <pubDate>Wed, 31 May 2023 17:49:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯将炼油厂补贴减半的计划可能会推迟至9月。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9965822.d.html</link>
+            <guid>3129044</guid>
+            <pubDate>Wed, 31 May 2023 17:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI宣布：将打击AI幻想，将用最新方法来训练AI模型】OpenAI发布的最新研究论文显示，该公司正设法打击人工智能（AI）“幻想”。当OpenAI的聊天机器人ChatGPT或谷歌公司竞品Bard纯粹在捏造虚假信息时，就会发生“AI幻想”——表现得就像是在滔滔不绝地谈论事实一样。某些独立的专家对OpenAI这样做的效果表示怀疑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfeu0597988.d.html</link>
+            <guid>3129035</guid>
+            <pubDate>Wed, 31 May 2023 17:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利总理梅洛尼将创立一个规模10亿欧元的主权基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9962166.d.html</link>
+            <guid>3129032</guid>
+            <pubDate>Wed, 31 May 2023 17:22:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全球头号农产品贸易商嘉吉发言人：公司同意把嘉吉蛋白中国业务售予私募股权公司DCP Capital。]]></title>
             <guid>3129029</guid>
@@ -195,106 +242,6 @@ LME期锡收跌107美元，报25454美元/吨。]]></title>
             <title><![CDATA[【原小鹏互联网中心副总经理刘凡凡加入蔚来】从多方独立信源处获悉，原小鹏汽车互联网中心副总经理刘凡凡已加入蔚来，担任导航与位置服务部门的负责人，向蔚来汽车数字座舱与软件开发副总裁张磊汇报。刘凡凡同时还是蔚来 NT3.0 平台车型智能座舱交付的负责人。（晚点latepost）]]></title>
             <guid>3128959</guid>
             <pubDate>Wed, 31 May 2023 14:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰将可史上首次完全以国家安全为由限制外国投资或并购】根据荷兰周三宣布的立法，如果某项交易引发了国家安全担忧，荷兰将首次能够阻止外国公司收购在关键领域运营的荷兰公司。这份名为《投资、兼并与收购安全测试法案》的立法将于周四生效，该法案将允许荷兰政府完全以国家安全为由来限制投资规模或阻止交易。根据国防部网站上的声明显示，该立法旨在保护“知识密集型公司免受不必要的知识转移"。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0188256.d.html</link>
-            <guid>3128958</guid>
-            <pubDate>Wed, 31 May 2023 14:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL涨至5.10，为3月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0187491.d.html</link>
-            <guid>3128957</guid>
-            <pubDate>Wed, 31 May 2023 14:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【能链智电ADS完成增发，投资方包括郑志刚、中誉集团等】据上证报，5月31日，中国充电服务第一股能链智电公告显示，完成350万股美国存托股票（ADS）增发交易，投资人包括郑志刚及港股老牌上市公司中誉集团等。此次投资为郑志刚少有的以个人名义对企业进行的直接投资，说明其对新能源赛道和能链智电的青睐。之前郑志刚曾投资蔚来、小鹏等造车新势力，也曾投资美团等互联网企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3409291.d.html</link>
-            <guid>3128956</guid>
-            <pubDate>Wed, 31 May 2023 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【挪威国家石油公司：对管道进行了安全检查 一切正常】能源巨头挪威国家石油公司（Equinor）的一位高管表示，在北溪管道爆炸后，对挪威海上天然气管道的安全检查没有发现任何“可疑之处”，一切正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0185619.d.html</link>
-            <guid>3128953</guid>
-            <pubDate>Wed, 31 May 2023 14:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世茂集团：2022年营收368.804亿元人民币，2021年726.428亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqv9708457.d.html</link>
-            <guid>3128952</guid>
-            <pubDate>Wed, 31 May 2023 14:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司：将四家银行列入“问题银行名单”，目前名单上共有43银行，总价值580亿美元。]]></title>
-            <guid>3128949</guid>
-            <pubDate>Wed, 31 May 2023 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧股跌幅扩大，意大利富时MIB指数日内跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0184415.d.html</link>
-            <guid>3128948</guid>
-            <pubDate>Wed, 31 May 2023 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构前瞻美国初请数据：将推高失业率】Piper Sandler经济学家在一份报告中说，预计明日公布的美国申请失业救济人数将继续上升，导致第四季度就业人数开始下降。美国正处于劳动力疲软的初期阶段，初请失业救济人数是“劳动力健康状况的最佳领先指标”。他们指出，该指标“在从2022年9月的周期低点反弹后停滞不前”，但模型表明，申请失业救济人数到年底将攀升至28万，到2024年中期升至接近35万，分别对应5%和6%的失业率。受访经济学家预计，明天的初请失业金人数将从22.9万人上升至23.5万人，周五公布的非农数据中，失业率将从3.4%小幅上升至3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3407092.d.html</link>
-            <guid>3128947</guid>
-            <pubDate>Wed, 31 May 2023 14:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国主要银行股普跌，摩根大通下跌1.9%，摩根士丹利下跌1.6%，美国银行下跌2.2%。]]></title>
-            <guid>3128946</guid>
-            <pubDate>Wed, 31 May 2023 14:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云从科技：目前基础部分的算力需求能够被基本满足】云从科技近日在机构调研中表示，公司将结合客户实际需求，采用多种形式解决算力问题，包括但不限于自建、共建、合作、购买以及租用等方式。目前基础部分的算力需求能够被基本满足。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0183332.d.html</link>
-            <guid>3128944</guid>
-            <pubDate>Wed, 31 May 2023 14:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【交个朋友京东直播支付金额破亿】今日罗永浩现身京东“交个朋友”直播间带货，主要品类为3C、食品。截止22点，交个朋友京东直播间支付金额已经破亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqy0780246.d.html</link>
-            <guid>3128943</guid>
-            <pubDate>Wed, 31 May 2023 14:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥经济部副部长：墨西哥正在发展近岸风电基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqv9704979.d.html</link>
-            <guid>3128941</guid>
-            <pubDate>Wed, 31 May 2023 14:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见德国总理外事顾问普吕特纳】2023年5月31日，中共中央政治局委员、中央外办主任王毅在北京会见德国总理外事顾问普吕特纳。王毅说，作为全方位战略伙伴，中德不仅要稳定好发展好双边关系，也要为共同应对全球挑战作出贡献。面对当前国际局势不稳定、不确定因素增多，中德要携手努力，举办好第七轮中德政府磋商，向欧洲和世界发出积极信号。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3405721.d.html</link>
-            <guid>3128940</guid>
-            <pubDate>Wed, 31 May 2023 14:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊全球约1900名员工明日罢工 ：对管理层缺乏信心】亚马逊全球约1900名员工将举行罢工，其中约900人将聚集在亚马逊西雅图总部。这次罢工是由“亚马逊气候正义员工”（AECJ）组织的，该组织是一个颇具影响力的工人组织，曾多次就气候立场问题向亚马逊施压。AECJ表示，员工此次举行罢工，是为了彰显“对公司领导层决策缺乏信任”。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3405104.d.html</link>
-            <guid>3128939</guid>
-            <pubDate>Wed, 31 May 2023 14:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST新城：6月2日起撤销其他风险警示】ST新城公告，公司股票6月1日开市起停牌一天，6月2日开市起复牌并撤销其他风险警示，证券简称由“ST新城”变更为“铁岭新城”，股票交易日涨跌幅限制由5%变更为10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0181929.d.html</link>
-            <guid>3128936</guid>
-            <pubDate>Wed, 31 May 2023 14:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【创维数字：黄宏生家族成为公司实控人】创维数字公告，公司间接控股股东创维集团于香港联交所对创维集团股东的要约回购已实施完成并已将回购的股份注销。上述行为导致黄宏生、林卫平、林劲（简称“黄宏生家族”）及其一致行动人能够实际控制创维集团，进而使得黄宏生家族成为创维数字的实控人。黄宏生家族及其一致行动人须在国内A股履行法定要约收购义务。国内A股此次要约收购由创维数字的控股股东深圳创维-RGB电子有限公司作为收购人。此次要约收购的要约价格为14.82元/股，要约收购期限自6月2日起至7月3日止。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0181800.d.html</link>
-            <guid>3128935</guid>
-            <pubDate>Wed, 31 May 2023 14:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行零售银行主管：我们将继续看到消费支出的正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3404359.d.html</link>
-            <guid>3128933</guid>
-            <pubDate>Wed, 31 May 2023 14:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
