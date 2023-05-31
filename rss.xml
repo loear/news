@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 31 May 2023 20:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 21:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.1192元，较周二纽约尾盘跌281点，盘中整体交投于7.0873-7.1341元区间。]]></title>
+            <guid>3129112</guid>
+            <pubDate>Wed, 31 May 2023 21:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹民航局宣布延长领空关闭时间至6月15日】据央视新闻，当地时间5月31日，苏丹民航局发布通告称，将苏丹全境领空的关闭时间延长至6月15日，但人道主义援助和外国公民撤离不受限制。苏丹武装部队与快速支援部队自4月15日起在喀土穆等地发生持续冲突，喀土穆国际机场的廊桥、大厅等在冲突中遭到破坏，苏丹民航局随后宣布关闭苏丹领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9867531.d.html</link>
+            <guid>3129111</guid>
+            <pubDate>Wed, 31 May 2023 21:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucid集团：本公司增发股票。本公司预计将获得大约30亿美元融资，投资方包括沙特主权财富基金PIF。]]></title>
+            <guid>3129110</guid>
+            <pubDate>Wed, 31 May 2023 21:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌1.28%，报1644.79点，5月份累跌9.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9866601.d.html</link>
+            <guid>3129109</guid>
+            <pubDate>Wed, 31 May 2023 20:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞士信贷特殊目的收购公司(SPAC)负责人据称将加入桑坦德银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3087420.d.html</link>
+            <guid>3129107</guid>
+            <pubDate>Wed, 31 May 2023 20:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收跌0.39%，报34.2点，5月份累计上涨14.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9863791.d.html</link>
+            <guid>3129105</guid>
+            <pubDate>Wed, 31 May 2023 20:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月26日当周API原油库存增加520.2万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9863106.d.html</link>
+            <guid>3129104</guid>
+            <pubDate>Wed, 31 May 2023 20:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：据悉Lucid Group公司正在筹集约30亿美元的资金，其中包括来自沙特阿拉伯的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnp9449809.d.html</link>
+            <guid>3129100</guid>
+            <pubDate>Wed, 31 May 2023 20:24:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[维多利亚的秘密一季度调整后EPS为0.28美元，分析师预期0.56美元。一季度净销售14.1亿美元，分析师预期14.3亿美元。维多利亚的秘密（VSCO）美股盘后下跌6.37%。]]></title>
             <guid>3129098</guid>
@@ -190,62 +236,6 @@ LME期锡收跌107美元，报25454美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywx3305631.d.html</link>
             <guid>3129018</guid>
             <pubDate>Wed, 31 May 2023 16:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coincheck与美国特殊目的收购公司的并购交易最后期限被延后一年。]]></title>
-            <guid>3129013</guid>
-            <pubDate>Wed, 31 May 2023 16:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万兴科技加速AIGC布局，旗下墨刀上线AI功能】 近日，万兴科技旗下墨刀及其海外版Mockitt全球首发墨刀AI/Mockitt AI，上线AI生成原型页面、AI生成原型组件、AI文字智能填充、AI对话等功能。 全新墨刀AI为创作者提供更高效的解决方案，进一步减少创作者手动绘制原型的工作量，并保证组件的质量和一致性，助力产品设计进入智能化新时代。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsyww0700237.d.html</link>
-            <guid>3129011</guid>
-            <pubDate>Wed, 31 May 2023 16:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部称，俄罗斯4月GDP同比增长3.3％，上月修正后同比下降0.7％；1至4月GDP同比下降0.6%。]]></title>
-            <guid>3129009</guid>
-            <pubDate>Wed, 31 May 2023 16:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安哥拉原油出口量将在7月增至124万桶/日】 最新披露的计划表显示，非洲产油国安哥拉的原油出口量将在2023年7月攀升至124万桶/日，为 2020 年 10 月以来的最高水平。计划表显示，该国在7月将分40批次，总计出口3840万桶原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywz0077691.d.html</link>
-            <guid>3129008</guid>
-            <pubDate>Wed, 31 May 2023 16:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国得州3月份原油产量增长1.8%，至539.8万桶/日，为2020年3月以来的最高水平。]]></title>
-            <guid>3129007</guid>
-            <pubDate>Wed, 31 May 2023 16:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：多伦多道明银行旗下的投行Cowen关闭了其此前专注于加密货币的数字业务部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywx3298582.d.html</link>
-            <guid>3129006</guid>
-            <pubDate>Wed, 31 May 2023 16:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和欧洲大陆天然气期货5月份累跌超30%，欧盟碳税同期累跌超6%】周三（5月31日）欧市尾盘，ICE英国天然气期货涨6.89%，报61.560便士/千卡，5月份累计下跌大约30.20%。TTF基准荷兰天然气期货涨2.51%，报25.500欧元/兆瓦时，盘中交投于24.250-27.950欧元区间，5月份累跌约32.89%。ICE欧盟碳排放交易许可（期货价格）涨0.23%，报79.00欧元/吨，5月份累跌约6.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywz0075441.d.html</link>
-            <guid>3129005</guid>
-            <pubDate>Wed, 31 May 2023 16:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯4月零售销售同比增长7.4%，预期增长6.5%。3月实际薪资同比增长2.7%。4月失业率3.3%，预期3.5%。开年截至5月29日当周CPI上升2.27%。]]></title>
-            <guid>3129004</guid>
-            <pubDate>Wed, 31 May 2023 16:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚：仅有持股比重11%的股东投票支持“范围三”减排方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3296094.d.html</link>
-            <guid>3129001</guid>
-            <pubDate>Wed, 31 May 2023 15:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南钢股份：南钢集团请求法院确认对南京钢联60%股权享有优先购买权】 南钢股份上交所公告，南钢集团于5月22日向江苏省高级人民法院提交《有独立请求权第三人民事起诉状》，申请作为有独立请求权第三人加入 (2023)苏民初1号案件，并请求法院：确认南钢集团对于南京钢联60%股权（简称“标的股权”）享有优先购买权；确认复星方面（简称“转让方”）与南钢集团签订的《股权转让协议》合法有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3295997.d.html</link>
-            <guid>3128999</guid>
-            <pubDate>Wed, 31 May 2023 15:55:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
