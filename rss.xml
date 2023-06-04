@@ -4,13 +4,53 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 Jun 2023 16:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 17:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[沙特能源部：沙特将在整个2024年继续实行自愿减产石油。]]></title>
+            <title><![CDATA[俄罗斯副总理诺瓦克：我们有调整决策的可能性。我们将做出决策，使石油市场保持稳定。俄罗斯完全履行其减产义务。]]></title>
+            <guid>3132634</guid>
+            <pubDate>Sun, 04 Jun 2023 17:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋将延长其14.4万桶/日的自愿减产措施，直至2024年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqq9010642.d.html</link>
+            <guid>3132632</guid>
+            <pubDate>Sun, 04 Jun 2023 17:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿尔及利亚能源部声明：阿尔及利亚将延长其4.8万桶/日的自愿减产措施直至2024年底。]]></title>
+            <guid>3132631</guid>
+            <pubDate>Sun, 04 Jun 2023 16:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特能源部：沙特将在7月份实施额外的100万桶/日的减产。沙特的额外减产将持续一个月，也可能会延长。沙特试图通过自愿减产来加强欧佩克+的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqs5786470.d.html</link>
+            <guid>3132630</guid>
+            <pubDate>Sun, 04 Jun 2023 16:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：所有欧佩克+的额外减产措施将延长至2024年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqq9007824.d.html</link>
+            <guid>3132629</guid>
+            <pubDate>Sun, 04 Jun 2023 16:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿曼能源部：将其4万桶/日的自愿减产措施延长至2024年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywczhs9137886.d.html</link>
+            <guid>3132628</guid>
+            <pubDate>Sun, 04 Jun 2023 16:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克发表声明称，将其21.1万桶/日的自愿减产措施延长至2024年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywczhu5915158.d.html</link>
+            <guid>3132627</guid>
+            <pubDate>Sun, 04 Jun 2023 16:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特能源部：沙特将在整个2024年继续实行自愿减产石油。沙特将50万桶/日的自愿减产力度延长至2024年底。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywczhs9134061.d.html</link>
             <guid>3132625</guid>
             <pubDate>Sun, 04 Jun 2023 16:23:48 GMT</pubDate>
@@ -415,47 +455,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckma6232904.d.html</link>
             <guid>3132533</guid>
             <pubDate>Sun, 04 Jun 2023 09:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国和巴西清洁能源合作再创佳绩】据新华社，中广核巴西能源控股有限公司位于巴西巴伊亚州新坦基市的180兆瓦风电项目日前正式投产，为中国和巴西清洁能源合作再创佳绩，在创造经济效益的同时兼顾社会效益，实现了真正的共同发展。据介绍，新坦基风电项目是中广核在巴西第二个自主建设的绿地项目，于2021年11月开工建设，总装机容量为180兆瓦，项目配置40台风电机组，全部使用中国国产风机设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckma6232841.d.html</link>
-            <guid>3132532</guid>
-            <pubDate>Sun, 04 Jun 2023 09:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者阿蒙娜•巴克尔：欧佩克各成员国连夜联系本国政府，以获得政府对基线石油产量的最终批准。]]></title>
-            <guid>3132531</guid>
-            <pubDate>Sun, 04 Jun 2023 09:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翔腾新材：公司还未开展VR或AR设备相关的业务】翔腾新材在互动平台表示，公司主要产品包括各类规格的偏光片、光学膜片和功能性胶粘材料。目前公司还未开展VR或AR设备相关的业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckma6231328.d.html</link>
-            <guid>3132530</guid>
-            <pubDate>Sun, 04 Jun 2023 09:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【泰航寻求订购30架宽体喷气式飞机 下周将向空客和波音发出招标书】泰国国际航空公司首席执行官Chai Eamsiri周日表示，该航司将开始与飞机制造商谈判，寻求订购30架宽体喷气式飞机。Chai Eamsiri称，泰航将在下周正式向空客和波音发出招标书，预计将在2026年开始接收飞机。他表示，该航司还希望再增购几架A321neos飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckma6231276.d.html</link>
-            <guid>3132529</guid>
-            <pubDate>Sun, 04 Jun 2023 09:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东土科技：公司目前不涉及人脑工程的技术开发和产品销售】东土科技6月4日在互动平台上称，公司目前不涉及人脑工程的技术开发和产品销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckky9452330.d.html</link>
-            <guid>3132527</guid>
-            <pubDate>Sun, 04 Jun 2023 09:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国联通：下属公司收回云南全省委托承包运营权】中国联通公告，近日，公司下属子公司中国联合网络通信有限公司的分公司--云南联通收回北京中电兴发科技有限公司（或其指定主体云南中电典基网络科技有限公司）控股的楚雄、普洱、曲靖、昭通、西双版纳5州市运营公司委托承包运营权。至此，云南联通收回全省（含16州市）的委托承包运营权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckky9451567.d.html</link>
-            <guid>3132525</guid>
-            <pubDate>Sun, 04 Jun 2023 09:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST御银：拟收购无锡微研51%股份】*ST御银公告，与无锡微研、高昇投资、无锡海明达、和兴投资、蔡星海、蔡磊明、陈琦、曹艳、谢欣沅、胡冠宇签署《收购框架协议书》。公司拟收购无锡微研共计51%股份，收购完成后，无锡微研将成为公司子公司，公司将在现有基础上增加精密制造、智能生产和智慧能源系统解决方案的研发、生产和销售业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckma6228533.d.html</link>
-            <guid>3132524</guid>
-            <pubDate>Sun, 04 Jun 2023 09:07:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
