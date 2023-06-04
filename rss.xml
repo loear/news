@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 Jun 2023 18:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 19:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿联酋能源部长：俄罗斯的产量数据存在一些差异。我们不希望政治因素影响我们对俄罗斯石油产量的看法。]]></title>
+            <guid>3132638</guid>
+            <pubDate>Sun, 04 Jun 2023 18:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特能源部声明：7月份沙特石油产量将减少至900万桶/日。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqu3568786.d.html</link>
@@ -442,17 +447,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckky9458645.d.html</link>
             <guid>3132539</guid>
             <pubDate>Sun, 04 Jun 2023 09:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者阿蒙娜•巴克尔：欧佩克+将于今天作出对各成员国基线石油产量的调整。]]></title>
-            <guid>3132537</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因谈判仍在继续 欧佩克+会议推迟召开】欧佩克+各成员国的部长们在正式会议召开之前举行了预备会议，今日他们仍在进行相关的讨论，试图消除剩余的分歧。与会代表表示，阿联酋主张改变衡量其减产幅度的方式。但这将以牺牲非洲国家的利益为代价，部分非洲小产油国被要求放弃一些未使用的配额，这对他们来说是政治上难以接受的选择。此外，与会代表们表示，阿联酋和安哥拉正在就基线产量的修订问题举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckme3886787.d.html</link>
-            <guid>3132536</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
