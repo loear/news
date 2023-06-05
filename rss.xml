@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 05 Jun 2023 18:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 19:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unity Software股价涨幅扩大至11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywhqvx1870954.d.html</link>
+            <guid>3133886</guid>
+            <pubDate>Mon, 05 Jun 2023 19:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：将迪士尼(DIS.N)评级从“BBB+”上调至“A：”，展望为“积极”，此前该公司宣布与苹果(AAPL.O)就头显设备Apple Vision Pro的内容构建合作伙伴关系。]]></title>
+            <guid>3133883</guid>
+            <pubDate>Mon, 05 Jun 2023 18:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安：此前已经与SEC密切配合 不应成为被执法对象】币安表示，在美国证券交易委员会(SEC)提起诉讼前，币安与监管部门进行了“广泛合作和真诚讨论”。币安在声明中说，SEC的指控没有道理，“币安不应成为SEC执法行动的对象，更不用说加急行动了”。币安还称，“从一开始，我们就积极配合SEC的调查工作，为达成解决方案而和对方进行了真诚的讨论。SEC今天的诉讼表明他们不愿和我们一起认真解决此类关切。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywhqvx1864606.d.html</link>
+            <guid>3133873</guid>
+            <pubDate>Mon, 05 Jun 2023 18:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府宣布了清洁氢能发展目标。美国的目标是在2050年之前将温室气体排量削减10%。]]></title>
+            <guid>3133870</guid>
+            <pubDate>Mon, 05 Jun 2023 18:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士：Twitter正在开发直播视频产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywhqvu3848067.d.html</link>
+            <guid>3133869</guid>
+            <pubDate>Mon, 05 Jun 2023 18:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周一（6月5日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨3.16%，报237.00欧元/吨。油菜籽期货涨3.81%，报422.00欧元/吨。]]></title>
             <guid>3133865</guid>
@@ -213,73 +241,6 @@ LME期锡收跌86美元，报25565美元/吨。]]></title>
             <title><![CDATA[美国联邦选举监管机构文件显示，前美国副总统迈克·彭斯将寻求2024年共和党总统候选人提名。]]></title>
             <guid>3133788</guid>
             <pubDate>Mon, 05 Jun 2023 15:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特利雅得航空公司正在与空客及波音就飞机订单一事进行商谈，或将订购多架窄体客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhehc2085689.d.html</link>
-            <guid>3133787</guid>
-            <pubDate>Mon, 05 Jun 2023 15:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛将夏季天然气价格预测下调至2.85美元/百万英热，此前为3.30美元/百万英热；远期价格预测为2.31美元/百万英热。]]></title>
-            <guid>3133781</guid>
-            <pubDate>Mon, 05 Jun 2023 15:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特将7月售往美国的阿拉伯轻质原油价格定为较阿格斯含硫原油价格每桶升水7.15美元。]]></title>
-            <guid>3133780</guid>
-            <pubDate>Mon, 05 Jun 2023 15:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特将7月份售往西北欧的阿拉伯轻质原油价格定价为较洲际交易所布油价格每桶升水3美元。]]></title>
-            <guid>3133779</guid>
-            <pubDate>Mon, 05 Jun 2023 15:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰方面表示，俄罗斯恢复了黑海谷物协议下的船只登记，但其违反规定未对等待时间最长的船只进行检查。]]></title>
-            <guid>3133775</guid>
-            <pubDate>Mon, 05 Jun 2023 15:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄铝 (Rusal)董事会建议，基于2022年业绩状况，应暂停发放股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhehc2081508.d.html</link>
-            <guid>3133774</guid>
-            <pubDate>Mon, 05 Jun 2023 14:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯外长抵达塔吉克斯坦进行访问】俄罗斯外交部长拉夫罗夫当地时间6月5日抵达塔吉克斯坦进行为期两天的正式访问。访问期间，拉夫罗夫将与塔吉克斯坦总统拉赫蒙会见，并与外交部长穆赫里丁举行会谈。此外，拉夫罗夫还将访问俄罗斯驻塔吉克斯坦第201军事基地。（央视）]]></title>
-            <guid>3133768</guid>
-            <pubDate>Mon, 05 Jun 2023 14:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高近15点，现报104.11。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhefz5303302.d.html</link>
-            <guid>3133767</guid>
-            <pubDate>Mon, 05 Jun 2023 14:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国航空公司遭网络攻击 员工个人信息泄露】英国航空公司当地时间6月5日证实，因网络攻击，该航司所有在英国领取薪水的员工个人信息遭泄露。据悉，泄露的个人信息包括员工银行账户等。英国一家薪酬服务公司表示，其8家客户受到网络袭击影响。当地媒体报道称，除英国航空外，英国广播公司、英国医药美妆连锁店博姿也在受袭之列。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhehc2080370.d.html</link>
-            <guid>3133766</guid>
-            <pubDate>Mon, 05 Jun 2023 14:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯外长抵达塔吉克斯坦进行访问】俄罗斯外交部长拉夫罗夫当地时间6月5日抵达塔吉克斯坦进行为期两天的正式访问。访问期间，拉夫罗夫将与塔吉克斯坦总统拉赫蒙会见，并与外交部长穆赫里丁举行会谈。此外，拉夫罗夫还将访问俄罗斯驻塔吉克斯坦第201军事基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhehc2080314.d.html</link>
-            <guid>3133765</guid>
-            <pubDate>Mon, 05 Jun 2023 14:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科A：公司2022年度新增融资平均成本为3.88%】万科A6月5日在互动平台上称，公司2022年度新增融资的平均成本为3.88%。截至2022年底，公司银行贷款方面的融资成本区间为3.0%至Hibor按约定比例上浮之间。今年以来公司银行贷款的融资成本仍然保持在较低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhefz5303112.d.html</link>
-            <guid>3133764</guid>
-            <pubDate>Mon, 05 Jun 2023 14:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟不建议提高超边际电力收入上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywhefz5302724.d.html</link>
-            <guid>3133763</guid>
-            <pubDate>Mon, 05 Jun 2023 14:52:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
