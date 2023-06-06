@@ -4,11 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Jun 2023 20:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 21:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西全国谷物出口商协会（Anec）的数据显示，6月份巴西大豆出口量达到1311万吨，而去年同期为994.6万吨。]]></title>
+            <guid>3135095</guid>
+            <pubDate>Tue, 06 Jun 2023 21:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.1289元，较周一纽约尾盘跌97点，盘中整体交投于7.1063-7.1443元区间。]]></title>
+            <guid>3135094</guid>
+            <pubDate>Tue, 06 Jun 2023 21:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（6月6日）纽约尾盘，ICE美元指数上涨0.14%，报104.148点，日内交投区间为103.816-104.367点。美元指数跌0.01%，报1240.66点，日内交投区间为1243.53-1238.25点。]]></title>
+            <guid>3135092</guid>
+            <pubDate>Tue, 06 Jun 2023 21:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨2.14%，报1794.62点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4089274.d.html</link>
+            <guid>3135088</guid>
+            <pubDate>Tue, 06 Jun 2023 20:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收涨5.54%，报5.33点，创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyav0865381.d.html</link>
+            <guid>3135086</guid>
+            <pubDate>Tue, 06 Jun 2023 20:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月2日当周API原油库存减少171万桶，预期增加150.0万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyav0865364.d.html</link>
+            <guid>3135085</guid>
+            <pubDate>Tue, 06 Jun 2023 20:36:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗调查显示，墨西哥分析师预计2023年该国CPI为5%，2024年CPI为4.01%，预计墨西哥2023年GDP增速为2%，2024年GDP增速为1.7%。预计到2023年底，美元兑墨西哥比索将达到18.70。]]></title>
+            <guid>3135084</guid>
+            <pubDate>Tue, 06 Jun 2023 20:27:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国际原子能机构：卡霍夫卡水电站大坝被破坏不会对扎波罗热核电站造成短期风险，冷却池的水足够用几个月。]]></title>
             <guid>3135083</guid>
@@ -242,29 +280,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnx4296227.d.html</link>
             <guid>3134998</guid>
             <pubDate>Tue, 06 Jun 2023 15:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯：卡霍夫卡水电站大坝遭到破坏是“人道、经济和生态三重灾难”】当地时间6月6日，联合国秘书长古特雷斯就位于赫尔松地区的卡霍夫卡水电站大坝遭到破坏一事发表声明。古特雷斯称，这一事件是人道、经济和生态三重灾难。古特雷斯说，联合国方面没有独立信源核实该水坝遭破坏的原因，但水坝遭到破坏导致了洪水和人道撤离、环境破坏和粮田被毁，特别是威胁扎波罗热核电站的安全。联合国与乌克兰政府正在努力提供重要的人道主义援助。他再次呼吁针对平民和平民设施的攻击必须停止，各方应该按照联合国宪章、国际法和相关决议停止俄乌冲突。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnz1070978.d.html</link>
-            <guid>3134994</guid>
-            <pubDate>Tue, 06 Jun 2023 15:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[动视暴雪：《暗黑破坏神4》成为了公司有史以来最为畅销的一款游戏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnu2155803.d.html</link>
-            <guid>3134991</guid>
-            <pubDate>Tue, 06 Jun 2023 15:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油气巨头雪佛龙：全球天然气供给量出现下降】油气巨头雪佛龙称，全球天然气供给量出现下降；长期天然气需求仍看高，这将推动能源转型；需要3-5年时间来把天然气输送到新的市场；美国天然气管道审批流程当前较为缓慢。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnx4288813.d.html</link>
-            <guid>3134984</guid>
-            <pubDate>Tue, 06 Jun 2023 14:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒天然：6月6日全球乳品贸易（GDT）拍卖价格指数下跌0.9%，奶粉各合同期FAS拍卖均价3,399美元/吨。批发奶粉价格指数跌3.0%，批发奶粉均价3,173美元/吨。]]></title>
-            <guid>3134983</guid>
-            <pubDate>Tue, 06 Jun 2023 14:56:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
