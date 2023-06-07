@@ -6,6 +6,31 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3136357,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-08/detail-imywpiis9861480.d.html",
+            "title": "富时A50期指连续夜盘收涨0.02%，报12351.000点。",
+            "date_modified": "2023-06-07T21:33:35.000Z"
+        },
+        {
+            "id": 3136356,
+            "content_html": "",
+            "title": "欧洲铝业协会（EAA）主管Paul Voss：我认为，美西方仍然可能会制裁从俄罗斯进口的铝产品。",
+            "date_modified": "2023-06-07T21:33:26.000Z"
+        },
+        {
+            "id": 3136354,
+            "content_html": "",
+            "title": "美国总统拜登将于美国东部时间周四上午11点30分（北京时间6月8日23:30）与来访的英国首相苏纳克举行双边会谈，并将于当地时间下午1点30分出席联合新闻发布会。",
+            "date_modified": "2023-06-07T21:27:02.000Z"
+        },
+        {
+            "id": 3136352,
+            "content_html": "",
+            "title": "OpenAI创始人Altman：人工智能（AI）可以改善政府服务，这种技术值得印度等国政府提供支持。",
+            "date_modified": "2023-06-07T21:23:03.000Z"
+        },
+        {
             "id": 3136345,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-06-08/detail-imywpiis9852719.d.html",
@@ -270,39 +295,6 @@
             "content_html": "",
             "title": "谷歌：发现了一种新方法，将Bard对基于计算的单词和数学问题的回答准确性提高了约30%。",
             "date_modified": "2023-06-07T16:07:34.000Z"
-        },
-        {
-            "id": 3136263,
-            "content_html": "",
-            "title": "加密货币交易所Coinbase CEO：国会和白宫的几位立法者都已经认识到加密技术的重要性，目前Coinbase照常运行。",
-            "date_modified": "2023-06-07T16:05:15.000Z"
-        },
-        {
-            "id": 3136261,
-            "content_html": "",
-            "title": "加密货币交易平台Coinbase的CEO：美国证券交易委员会（SEC）的政策基调在过去一年间有所变化。",
-            "date_modified": "2023-06-07T16:01:28.000Z"
-        },
-        {
-            "id": 3136259,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-08/detail-imywnwua5264353.d.html",
-            "title": "俄罗斯统计局：数据显示，截至6月5日一周内，消费者物价指数周环比上涨0.21%。",
-            "date_modified": "2023-06-07T16:00:59.000Z"
-        },
-        {
-            "id": 3136256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtv3285130.d.html",
-            "title": "汇丰：将苹果(AAPL.O)目标价从150美元上调至185美元。",
-            "date_modified": "2023-06-07T15:56:44.000Z"
-        },
-        {
-            "id": 3136255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtx0061937.d.html",
-            "title": "【英国天然气期货涨超7%】 周三（6月7日）欧市尾盘，ICE英国天然气期货上涨7.17%，报63.390便士/千卡。TTF基准荷兰天然气期货涨4.70%，报26.750欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）涨1.71%，报81.42欧元/吨。",
-            "date_modified": "2023-06-07T15:54:49.000Z"
         }
     ]
 }
