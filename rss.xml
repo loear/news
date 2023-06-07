@@ -4,13 +4,118 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Jun 2023 15:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 16:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[渤健（BIIB）股价上涨大约2.0%，刷新日高至305.90美元，美股盘初一度跌约1.8%刷新日低至294.04美元。美国食品药品管理局（FDA）宣布，将于周五（6月9日）开会讨论/表决该公司与日本卫材的阿尔茨海默症药品Leqembi。]]></title>
+            <title><![CDATA[俄罗斯经济部：截至6月5日，消费者通胀年率为2.68％，一周前为2.41％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-08/detail-imywnwtv3289152.d.html</link>
+            <guid>3136271</guid>
+            <pubDate>Wed, 07 Jun 2023 16:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase CEO：Coinbase使用人工智能进行欺诈预防，人工智能正在减轻人们的工作负担。]]></title>
+            <guid>3136270</guid>
+            <pubDate>Wed, 07 Jun 2023 16:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[币安美国：决定简化我们的买卖和兑换服务，并暂停了我们的场外交易门户。与币安美国一起的资产仍然安全可靠，存款和提款功能正常运作。]]></title>
+            <guid>3136269</guid>
+            <pubDate>Wed, 07 Jun 2023 16:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase CEO：Coinbase不存在客户“挤兑”的风险。]]></title>
+            <guid>3136266</guid>
+            <pubDate>Wed, 07 Jun 2023 16:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：发现了一种新方法，将Bard对基于计算的单词和数学问题的回答准确性提高了约30%。]]></title>
+            <guid>3136265</guid>
+            <pubDate>Wed, 07 Jun 2023 16:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase CEO：国会和白宫的几位立法者都已经认识到加密技术的重要性，目前Coinbase照常运行。]]></title>
+            <guid>3136263</guid>
+            <pubDate>Wed, 07 Jun 2023 16:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易平台Coinbase的CEO：美国证券交易委员会（SEC）的政策基调在过去一年间有所变化。]]></title>
+            <guid>3136261</guid>
+            <pubDate>Wed, 07 Jun 2023 16:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯统计局：数据显示，截至6月5日一周内，消费者物价指数周环比上涨0.21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-08/detail-imywnwua5264353.d.html</link>
+            <guid>3136259</guid>
+            <pubDate>Wed, 07 Jun 2023 16:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰：将苹果(AAPL.O)目标价从150美元上调至185美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtv3285130.d.html</link>
+            <guid>3136256</guid>
+            <pubDate>Wed, 07 Jun 2023 15:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国天然气期货涨超7%】 周三（6月7日）欧市尾盘，ICE英国天然气期货上涨7.17%，报63.390便士/千卡。TTF基准荷兰天然气期货涨4.70%，报26.750欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）涨1.71%，报81.42欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtx0061937.d.html</link>
+            <guid>3136255</guid>
+            <pubDate>Wed, 07 Jun 2023 15:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[空客5月份交付了63架客机，2023年至今共交付244架客机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtv3283312.d.html</link>
+            <guid>3136250</guid>
+            <pubDate>Wed, 07 Jun 2023 15:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国DAX30指数6月7日（周三）收盘下跌33.79点，跌幅0.21%，报15958.65点；
+英国富时100指数6月7日（周三）收盘下跌2.60点，跌幅0.03%，报7625.50点；
+法国CAC40指数6月7日（周三）收盘下跌6.21点，跌幅0.09%，报7202.79点；
+欧洲斯托克50指数6月7日（周三）收盘下跌4.27点，跌幅0.10%，报4290.95点；
+西班牙IBEX35指数6月7日（周三）收盘上涨46.76点，涨幅0.50%，报9357.56点；
+意大利富时MIB指数6月7日（周三）收盘上涨11.33点，涨幅0.04%，报27048.00点。]]></title>
+            <guid>3136247</guid>
+            <pubDate>Wed, 07 Jun 2023 15:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投资公司Sixth Street Partners高管Chavez：尚不清楚大语言模型服务市场将有多少玩家处于主导地位。对人工智能（AI）在现实世界进一步扎根的前景感到乐观。]]></title>
+            <guid>3136246</guid>
+            <pubDate>Wed, 07 Jun 2023 15:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗驻沙特吉达总领馆及驻伊斯兰合作组织代表处正式重新开放】当地时间6月7日傍晚，伊朗驻吉达总领馆及伊朗驻伊斯兰合作组织代表处在沙特吉达正式重新开放。伊朗外交部派出的代表团在吉达哈姆拉区的总领馆馆舍内举行了重新开放仪式，伊朗驻伊斯兰合作组织代表处也同时重新启用。沙特外交部官员和部分国家驻吉达外交机构代表受邀出席了仪式。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtx0059440.d.html</link>
+            <guid>3136245</guid>
+            <pubDate>Wed, 07 Jun 2023 15:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国伦敦金库5月黄金持有量下降0.7%至8903吨】伦敦金银市场协会(London Bullion Market Association)周三称，英国伦敦金库5月黄金持有量下降0.7%至8903吨，白银持有量增加0.2%，至26,395吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtv3282227.d.html</link>
+            <guid>3136244</guid>
+            <pubDate>Wed, 07 Jun 2023 15:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国伦敦金库5月黄金储量下降0.7%，至8903吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtx5997032.d.html</link>
+            <guid>3136239</guid>
+            <pubDate>Wed, 07 Jun 2023 15:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（6月7日），沙特证交所全股指数收涨0.49%，连续第五个交易日上涨，报11372.83点。土耳其伊斯坦布尔证交所全国100指数收涨3.20%，延续5月25日以来的上涨趋势，报5561.18点，逼近1月2日收盘位5661.10点。伊斯坦布尔证交所银行指数收涨2.39%，报4939.60点。]]></title>
+            <guid>3136236</guid>
+            <pubDate>Wed, 07 Jun 2023 15:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯Yandex无人驾驶出租车在莫斯科测试运营】据俄罗斯卫星通讯社消息，俄罗斯Yandex公司发布消息称，Yandex公司在莫斯科西南区开展无人驾驶出租车测试运营，可使用Yandex Go应用程序叫车出行。该公司强调：“首批参加测试的用户此前均在项目网站提交了申请。其他居民之后将有机会试乘体验。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnwtv3279954.d.html</link>
+            <guid>3136235</guid>
+            <pubDate>Wed, 07 Jun 2023 15:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国药监局FDA宣布：周五审议渤健与卫材的阿尔茨海默症药品Leqembi】 渤健（BIIB）股价上涨大约2.0%，刷新日高至305.90美元，美股盘初一度跌约1.8%刷新日低至294.04美元。美国食品药品管理局（FDA）宣布，将于周五（6月9日）开会讨论/表决该公司与日本卫材的阿尔茨海默症药品Leqembi。其他老年痴呆症疗法概念股中，Annovis Bio涨1.9%，木薯科学涨1.6%，Longeveron和Anavex生命科学均涨1.1%，礼来制药则跌0.1%，Jazz医药跌0.8%，Axsome疗法跌1.1%，Prothena公司跌1.3%，Quince疗法跌3.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmz0185860.d.html</link>
             <guid>3136232</guid>
             <pubDate>Wed, 07 Jun 2023 15:18:41 GMT</pubDate>
         </item>
@@ -256,69 +361,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmu1468905.d.html</link>
             <guid>3136173</guid>
             <pubDate>Wed, 07 Jun 2023 14:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【艾布鲁：股东拟减持不超1%股份】艾布鲁公告，公司股东麻军拟减持公司股份不超过156万股，即不超过公司总股本的1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmx3392029.d.html</link>
-            <guid>3136172</guid>
-            <pubDate>Wed, 07 Jun 2023 14:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通灵股份：扬中市金控集团拟减持不超1%股份】通灵股份公告，股东扬中市金融控股集团有限公司拟减持公司股份不超过120万股（占公司总股本比例1.00%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmz6098609.d.html</link>
-            <guid>3136171</guid>
-            <pubDate>Wed, 07 Jun 2023 14:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞银将于8月31日发布二季度业绩 预计最快本月12日完成收购瑞信】瑞银集团在其官网披露，将于当地时间8月31日发布二季度财报，以反映对对瑞士信贷的收购情况。瑞银原定于7月25日公布第二季度业绩。瑞银5日表示，预计最早本月12日完成对瑞信的收购。交易完成后，瑞信股票和美国存托股票（ADS）将从瑞士证券交易所（SIX）和纽约证券交易所（NYSE）退市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmx3391059.d.html</link>
-            <guid>3136167</guid>
-            <pubDate>Wed, 07 Jun 2023 14:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科大讯飞：多款智能硬件系列产品迎来“618”开门红】科大讯飞近日接受机构调研时表示，根据统计，讯飞智能办公本、讯飞翻译机、讯飞录音笔等多款智能硬件系列产品在5月31日至6月1日迎来“618”开门红，其中：讯飞AI学习机荣获京东/天猫/抖音三大平台学习机品类销售额冠军；讯飞智能办公本系列获得京东&天猫双平台电纸书品类开门红销售额冠军；讯飞翻译机系列获得京东&天猫双平台翻译机品类开门红销售额冠军；讯飞智能录音笔系列获得京东&天猫双平台录音笔品类开门红销售额冠军；讯飞智能助听器系列获得京东&天猫双平台助听器品类开门红销售额冠军。]]></title>
-            <guid>3136166</guid>
-            <pubDate>Wed, 07 Jun 2023 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【汉威科技：公司积极布局脑机接口相关技术 并取得一定进展】汉威科技在互动平台表示，公司的多模态柔性微纳传感技术可以将压力、应变、湿度等触觉感知集成于智能可穿戴产品如：手套、眼境、鞋服等应用产品当中，很好的实现触觉感知、反馈和交互功能。同时公司积极布局脑机接口相关技术，并取得一定进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmx3389724.d.html</link>
-            <guid>3136162</guid>
-            <pubDate>Wed, 07 Jun 2023 14:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受加拿大国债收益率带动，美债收益率持续攀升，10年期美债现报3.724%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmz0166360.d.html</link>
-            <guid>3136160</guid>
-            <pubDate>Wed, 07 Jun 2023 14:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[云通信平台公司Twilio与谷歌强化了在人工智能领域的合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmz0165335.d.html</link>
-            <guid>3136155</guid>
-            <pubDate>Wed, 07 Jun 2023 14:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通资产管理首席全球策略师Kelly：我最担心的是美国商业地产市场。美国仍然存在爆发经济衰退的风险，只是还没有发生而已。]]></title>
-            <guid>3136137</guid>
-            <pubDate>Wed, 07 Jun 2023 13:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通资产管理首席全球策略师Kelly：预计美国通胀将于2024年年底回落至2%。]]></title>
-            <guid>3136135</guid>
-            <pubDate>Wed, 07 Jun 2023 13:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD向上触及1.25，日内涨0.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmx3386779.d.html</link>
-            <guid>3136134</guid>
-            <pubDate>Wed, 07 Jun 2023 13:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国印太事务协调员库尔特·坎贝尔：美国和欧盟需要就技术和某些限制进行深入讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywnsmz0163911.d.html</link>
-            <guid>3136133</guid>
-            <pubDate>Wed, 07 Jun 2023 13:58:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
