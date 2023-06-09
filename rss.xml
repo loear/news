@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 09 Jun 2023 20:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 21:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯成立政府委员会，消除大规模洪水对赫尔松地区的影响】当地时间9日，俄罗斯总统普京指示总理米舒斯京成立政府委员会，以消除卡霍夫卡水电站遭到破坏引发大规模洪水给赫尔松地区带来的后果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpp1168567.d.html</link>
+            <guid>3139044</guid>
+            <pubDate>Fri, 09 Jun 2023 21:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国抵押贷款服务公司Better.com解雇了房地产团队】据多名不愿透露姓名的知情人士，美国抵押贷款服务公司Better.com解雇了房地产团队，并关闭了业务部门。据悉，房地产团队已于当地时间6月7日被公司裁撤掉。目前不清楚有多少员工受到裁员影响。据报道，该公司正在从内部代理模式转向合伙代理模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpq7944443.d.html</link>
+            <guid>3139043</guid>
+            <pubDate>Fri, 09 Jun 2023 20:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国银行业存款余额在截至5月31日当周增加466亿美元，美国银行贷款余额在截至5月31日当周增加46亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpq7939350.d.html</link>
@@ -225,12 +237,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywtkxt1392951.d.html</link>
             <guid>3138947</guid>
             <pubDate>Fri, 09 Jun 2023 16:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国可能为来自美国的液化天然气运输提供保证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywtkxt1390896.d.html</link>
-            <guid>3138940</guid>
-            <pubDate>Fri, 09 Jun 2023 16:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

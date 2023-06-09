@@ -6,6 +6,20 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3139044,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpp1168567.d.html",
+            "title": "【俄罗斯成立政府委员会，消除大规模洪水对赫尔松地区的影响】当地时间9日，俄罗斯总统普京指示总理米舒斯京成立政府委员会，以消除卡霍夫卡水电站遭到破坏引发大规模洪水给赫尔松地区带来的后果。（央视新闻）",
+            "date_modified": "2023-06-09T21:04:28.000Z"
+        },
+        {
+            "id": 3139043,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpq7944443.d.html",
+            "title": "【美国抵押贷款服务公司Better.com解雇了房地产团队】据多名不愿透露姓名的知情人士，美国抵押贷款服务公司Better.com解雇了房地产团队，并关闭了业务部门。据悉，房地产团队已于当地时间6月7日被公司裁撤掉。目前不清楚有多少员工受到裁员影响。据报道，该公司正在从内部代理模式转向合伙代理模式。",
+            "date_modified": "2023-06-09T20:54:27.000Z"
+        },
+        {
             "id": 3139037,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-06-10/detail-imywtvpq7939350.d.html",
@@ -259,13 +273,6 @@
             "url": "https://finance.sina.cn/7x24/2023-06-10/detail-imywtkxt1392951.d.html",
             "title": "特斯拉(TSLA.O)盘中涨幅再次扩大，现涨4.60%。",
             "date_modified": "2023-06-09T16:57:33.000Z"
-        },
-        {
-            "id": 3138940,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-10/detail-imywtkxt1390896.d.html",
-            "title": "德国可能为来自美国的液化天然气运输提供保证。",
-            "date_modified": "2023-06-09T16:45:01.000Z"
         }
     ]
 }
