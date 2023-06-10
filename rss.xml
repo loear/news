@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 10 Jun 2023 19:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 20:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄外交部：将对冰岛降低两国外交关系级别的决定采取回应措施】当地时间6月10日，俄罗斯外交部发表声明表示，俄方将采取措施回应冰岛降低与俄罗斯外交关系级别的不友好决定，冰岛方面应对两国关系恶化负全责。此前冰岛外交部宣布，冰岛驻俄罗斯大使馆将于8月1日起暂停办公。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7248285.d.html</link>
+            <guid>3139393</guid>
+            <pubDate>Sat, 10 Jun 2023 19:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基称乌克兰正在采取反攻和防御行动】当地时间6月10日，乌克兰总统泽连斯基在其官方社交账户上发布消息称，他与到访的加拿大总理特鲁多举行了会谈。乌克兰国家通讯社报道称，在与特鲁多举行的联合发布会上，泽连斯基表示，乌克兰正在采取反攻和防御行动。但他没有透露目前所处的具体阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7246409.d.html</link>
+            <guid>3139392</guid>
+            <pubDate>Sat, 10 Jun 2023 19:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国榴莲重要产地开摘榴莲 办榴莲节庆祝】当地时间6月10日，泰国春蓬府府尹Wisa砍下了榴莲第一刀，开启了2023年榴莲收获季。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynx4022251.d.html</link>
+            <guid>3139391</guid>
+            <pubDate>Sat, 10 Jun 2023 19:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：西雅图港的货运业务因劳工行动而关闭。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7242138.d.html</link>
@@ -478,18 +496,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvcif7662436.d.html</link>
             <guid>3139293</guid>
             <pubDate>Sat, 10 Jun 2023 10:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大不列颠哥伦比亚省野火蔓延】 截至当地时间6月9日，加拿大今年以来共发生2422次野火，过火面积达4.5万平方公里。不列颠哥伦比亚省是野火灾情最严重的省份之一，在该省东北部小镇汤布勒里奇，约2500名居民被要求撤离。不列颠哥伦比亚省政府提醒居民，今年林火季节全省都可能面临风险，需要提前做好准备。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvcif7662300.d.html</link>
-            <guid>3139292</guid>
-            <pubDate>Sat, 10 Jun 2023 10:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大湾区首个S基金联盟在深圳成立】近日，在深圳证监局的指导下，深圳S基金联盟正式成立。据悉，深圳S基金联盟以深圳私募基金业协会S基金专业委员会为框架设立，由深圳市创新投资集团有限公司、中国信达资产管理股份有限公司、深圳市天使投资引导基金管理有限公司、深圳市达晨财智创业投资管理有限公司、招商局资本管理有限责任公司、清科母基金、TPG-NewQuest、越秀产业基金等市场头部机构组成的S基金专业委员会将作为联盟的常设机构。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvcif7661015.d.html</link>
-            <guid>3139290</guid>
-            <pubDate>Sat, 10 Jun 2023 09:58:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
