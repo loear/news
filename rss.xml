@@ -4,11 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Jun 2023 18:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 19:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国前总统特朗普对联邦指控拒不认罪。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4228816.d.html</link>
+            <guid>3142316</guid>
+            <pubDate>Tue, 13 Jun 2023 19:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Databricks Inc.：公司年收入10亿美元，已经通过人工智能（AI）新产品和工具实现业务多样化。]]></title>
+            <guid>3142315</guid>
+            <pubDate>Tue, 13 Jun 2023 19:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：API中的ChatGPT-4和ChatGPT-3.5 Turbo模型现在允许模型使用人们为它而设计的那些工具。]]></title>
+            <guid>3142311</guid>
+            <pubDate>Tue, 13 Jun 2023 18:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【退市名单不断加长，不良企业快速出清】 全面注册制的改革背景下，A股市场加速劣质企业出清，优胜劣汰机制愈加稳固，财务类退市指标精准出清“壳公司”和“僵尸企业”。今年以来，已有5家A股公司因触发“1元退市”指标告别A股，还有13家公司已基本锁定“1元退市”。至此，年内触及和锁定“1元退市”的公司多达18家。清华大学五道口金融学院副院长田轩表示，退市新规实施后，我国退市企业数量大幅增长，退市效率进一步提升、进程进一步加快。从退市公司情况来看，多数企业触及了交易类、财务类退市指标，关键原因不仅在于退市标准有了更为严格的要求，退市审查、执行力度也明显加大。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4225125.d.html</link>
+            <guid>3142307</guid>
+            <pubDate>Tue, 13 Jun 2023 18:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国初创公司Mistral AI进行第一轮融资，募集到1.05亿欧元（折合1.13亿美元），自称将成为人工智能（AI）领域“一个新的全球玩家”。该公司称，其将于2024年前期发布第一个模型。该公司由DeepMind和Meta Platforms的前研究员们创立。]]></title>
+            <guid>3142306</guid>
+            <pubDate>Tue, 13 Jun 2023 18:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5年期国债收益率上升至4.019％，为3月10日以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv1000349.d.html</link>
+            <guid>3142302</guid>
+            <pubDate>Tue, 13 Jun 2023 18:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司（AAPL）一度下跌约0.7%，刷新日低至182.46美元，6月5日曾涨至历史最高位184.95美元。在苹果股价接近创历史新高之际，投资者担忧iPhone需求降温，瑞银集团将苹果评级从买入下调至中性，意味着华尔街还剩67%的分析师对苹果持买入评级，这样的比例创2020年后期以来新低。]]></title>
+            <guid>3142298</guid>
+            <pubDate>Tue, 13 Jun 2023 18:27:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stellantis(STLA.N)：将继续评估特斯拉的充电标准，并期待在未来进行更多讨论。]]></title>
             <guid>3142294</guid>
@@ -200,60 +238,6 @@ CBOT大豆日内涨幅达2.5%，报1412.5美分/蒲式耳。]]></title>
             <title><![CDATA[穆迪：印度非金融企业的信用质量将受到强劲的经济增长、政府政策和大型基础设施项目的支持。]]></title>
             <guid>3142215</guid>
             <pubDate>Tue, 13 Jun 2023 15:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东股市周二涨跌各异，土耳其股指收跌超2.8%，里拉继续创历史新低】
-周二（6月13日），沙特证交所全股指数收跌0.08%，报11413.82点。
-土耳其伊斯坦布尔证交所全国100指数收跌2.86%，报5429.05点；伊斯坦布尔证交所银行指数收跌0.83%。
-土耳其里拉兑美元目前跌约0.1%，暂报23.6522里拉，亚太午盘曾跌至历史新低23.7164里拉。
-埃及证交所EGX 30指数收涨0.92%，卡塔尔证交所指数收涨0.64%，迪拜金融市场综合指数收涨0.29%，科威特证交所超级市场价格回报指数收涨0.24%。
-阿布扎比证券市场综合指数收跌0.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemix1095024.d.html</link>
-            <guid>3142213</guid>
-            <pubDate>Tue, 13 Jun 2023 15:29:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非富时/JSE非洲领先40可交易指数收涨2.14%，报72490.44点。南非兰特兑美元目前涨0.18%，报18.5362兰特，美国CPI数据发布后曾涨至18.5111兰特——逼平周一（6月12日）顶部。]]></title>
-            <guid>3142209</guid>
-            <pubDate>Tue, 13 Jun 2023 15:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数升至两周高位】波罗的海干散货运价指数周二上涨，受助于海岬型船运费上涨。波罗的海干散货运价指数上涨18点，或1.7%，至1074点，创两周最高水准。海岬型船运价指数连涨第七日，上涨55点，或3.6%，至1587点。海岬型船日均获利上涨461美元，至13163美元。巴拿马型船运价指数较前一日持平，报1144点。巴拿马型船日均获利增加2美元，至10297美元。超灵便型散货船运价指数下滑4点，至722点。灵便型船运价指数下滑10点，报481点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemiv4316940.d.html</link>
-            <guid>3142208</guid>
-            <pubDate>Tue, 13 Jun 2023 15:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[健康之路股份有限公司递表港交所申请港股主板IPO，建银国际担任独家保荐人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemiv4316885.d.html</link>
-            <guid>3142207</guid>
-            <pubDate>Tue, 13 Jun 2023 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[报道称，俄罗斯准备每年向古巴供应164万吨石油和石油产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemka7784198.d.html</link>
-            <guid>3142204</guid>
-            <pubDate>Tue, 13 Jun 2023 15:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：俄特别军事行动目标并无原则性改变】 据俄罗斯卫星通讯社最新消息，俄总统普京表示，俄在乌特别军事行动的目标并无原则性改变。报道称，普京13日在会见战地记者时表示，“特别军事行动的目标正在根据当前局势进行调整，但总的来说，当然，我们不会做出任何改变，对我们而言这些目标是牢不可破的。我们在行动之初设立的目标在今天基本没有任何原则性变化。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemiv4314204.d.html</link>
-            <guid>3142203</guid>
-            <pubDate>Tue, 13 Jun 2023 15:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司5月份737飞机交付量36架，较4月份翻倍。
-5月份（总体）交付50架飞机，其中包括八架梦想飞机。
-5月份总体预定量为69架，同期订单取消11架。
-2023年1-5月，已经交付206架飞机，包括167架737飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-13/detail-imyxemiv4312339.d.html</link>
-            <guid>3142199</guid>
-            <pubDate>Tue, 13 Jun 2023 15:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融创中国：将转让予计划债权人的融创服务股份最高数目为449,356,068股现有融创服务股份，占本公告日期已发行融创服务股份总数约14.7%。]]></title>
-            <guid>3142195</guid>
-            <pubDate>Tue, 13 Jun 2023 14:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
