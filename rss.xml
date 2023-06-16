@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 16 Jun 2023 21:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 22:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[连锁快餐公司赛百味（Subway）求购者正考虑发售30亿美元的证券来为收购行动筹资。]]></title>
+            <guid>3146643</guid>
+            <pubDate>Fri, 16 Jun 2023 21:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来计划进行反向股票分割。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxptkx1809322.d.html</link>
+            <guid>3146642</guid>
+            <pubDate>Fri, 16 Jun 2023 21:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迈克尔乔丹将出售在NBA夏洛特黄蜂队多数股权】夏洛特黄蜂队（Charlotte Hornets）周五宣布，迈克尔·乔丹正在敲定出售该球队多数股权的交易，此举将结束他掌管球队13年的生涯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxptkx1808205.d.html</link>
+            <guid>3146640</guid>
+            <pubDate>Fri, 16 Jun 2023 21:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉石油部长Tellechea：委内瑞拉当前石油产量为85万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxptkv5029227.d.html</link>
+            <guid>3146637</guid>
+            <pubDate>Fri, 16 Jun 2023 21:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【克宫发言人：不排除普京和南非总统进行双边会谈的可能性】俄罗斯总统新闻秘书佩斯科夫当地时间16日表示，不排除俄罗斯总统普京和南非总统拉马福萨进行双边会谈的可能性。讨论和平解决乌克兰问题倡议的非洲七国代表团将于17日与俄罗斯总统普京在圣彼得堡举行会谈，南非总统是代表团成员之一。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxptkx1805244.d.html</link>
@@ -184,24 +207,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxphuz5244478.d.html</link>
             <guid>3146543</guid>
             <pubDate>Fri, 16 Jun 2023 16:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：美国仍在努力解救在伊朗被拘留的美国人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxphuz5242859.d.html</link>
-            <guid>3146538</guid>
-            <pubDate>Fri, 16 Jun 2023 16:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚石油运费飙涨，油轮船东不愿接单】尼日利亚石油运输成本创最近逾一年新高，部分船东据称继续与这个非洲第一大产油国保持距离。波罗的海交易所数据显示，周五（6月16日），从尼日利亚承运大约100万桶前往欧洲的运费飙涨将近1.6万美元/日，创2022年4月份以来最大涨幅，至超过6.4万美元/日的水平。本周稍早，至少两家船东宣布，2010-2019年期间的账单像雪花一样飘被发送出去，在这样的情况下，他们的货轮不会靠岸尼日利亚。Fearnleys Shipbrokers UK Ltd.的油轮经纪Halvor Ellefsen表示，部分船东已经决定，除非迫不得已，它们是不会让油轮停靠尼日利亚港口的，这就意味着后续愿意承运尼日利亚石油的油轮规模会更少。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxphuz5242625.d.html</link>
-            <guid>3146536</guid>
-            <pubDate>Fri, 16 Jun 2023 16:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新报告：中小微外贸企业出口风险总体呈波动下降趋势】6月16日，由中国出口信用保险公司与商务部国际贸易经济合作研究院联合研发的《2023年中国中小微外贸企业出口风险指数报告》正式发布。从近三年的历史数据看，我国中小微外贸企业出口风险总体呈现出波动下降的发展趋势。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxphvc2019696.d.html</link>
-            <guid>3146535</guid>
-            <pubDate>Fri, 16 Jun 2023 16:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
