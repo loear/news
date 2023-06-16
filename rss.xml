@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 16 Jun 2023 18:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 19:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[用户报告称，扎克伯格Meta Platforms旗下社交媒体Facebook和Instagram出现若干故障。]]></title>
+            <guid>3146592</guid>
+            <pubDate>Fri, 16 Jun 2023 19:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯石油与中石油转向使用本国货币支付】俄罗斯石油（Rosneft）公司通过其网站公告称，该石油公司与中国石油天然气集团公司正转向使用本国货币进行支付。俄罗斯石油公司首席执行官伊戈尔·谢钦在圣彼得堡国际经济论坛期间会见了中石油集团董事长戴厚良，双方还讨论了联合开发油气产业链上游项目的前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxppax5137376.d.html</link>
+            <guid>3146591</guid>
+            <pubDate>Fri, 16 Jun 2023 19:00:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国会两位参议员致信讯问亚马逊公司CEO，此前有报道称该公司涉嫌收集用户个人健康数据。]]></title>
             <guid>3146584</guid>
@@ -232,23 +243,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-16/detail-imyxpapc5359969.d.html</link>
             <guid>3146499</guid>
             <pubDate>Fri, 16 Jun 2023 15:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市市长：建设全球数字能源先锋城市】据深圳发布6月16日消息，今日，2023中国新能源光明峰会在光明科学城举行。深圳市市长覃伟中出席活动并致辞。覃伟中表示，新能源产业是发展潜力巨大的战略性新兴产业，是实现碳达峰、碳中和的重要支撑。深圳把新能源产业作为“20+8”战略性新兴产业集群和未来产业的重点来抓，全力抢抓新型储能产业发展风口，加快打造新能源高质量发展高地，建设全球数字能源先锋城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-16/detail-imyxpapc5358175.d.html</link>
-            <guid>3146490</guid>
-            <pubDate>Fri, 16 Jun 2023 15:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部部长黄润秋会见巴西气候变化特使路易斯·马查多】据生态环境部消息，6月16日，生态环境部部长黄润秋在京会见巴西气候变化特使路易斯·马查多。双方围绕应对气候变化、生物多样性保护等议题进行了深入交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-16/detail-imyxpapc5357064.d.html</link>
-            <guid>3146489</guid>
-            <pubDate>Fri, 16 Jun 2023 15:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：已经将承诺的第一部分核装置运抵白俄罗斯境内】当地时间6月16日，俄罗斯总统普京在第26届圣彼得堡国际经济论坛上发表讲话，普京表示，俄罗斯已经将承诺的第一部分核装置运抵白俄罗斯境内，在白俄罗斯部署俄罗斯战术核武器的工作将在今年年底前全部完成。（央视新闻）]]></title>
-            <guid>3146488</guid>
-            <pubDate>Fri, 16 Jun 2023 15:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
