@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 17 Jun 2023 16:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 17:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月18日01时08分在新疆和田地区和田县（北纬35.80度，东经79.78度）发生3.8级地震，震源深度10千米。]]></title>
+            <guid>3146977</guid>
+            <pubDate>Sat, 17 Jun 2023 17:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼羽毛球公开赛国羽女单混双闯入决赛】2023印度尼西亚羽毛球公开赛17日展开半决赛的争夺，陈雨菲与“雅思”组合最终晋级女单和混双决赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxrrzz7832248.d.html</link>
+            <guid>3146976</guid>
+            <pubDate>Sat, 17 Jun 2023 16:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国青年初婚越来越迟，黑龙江平均超31岁，河南超29岁】民政部最新发布的统计季报数据显示，2022年我国结婚人数为683.3万对。梳理数据发现，这一数据创下1986年（民政部网站公布的数据为1986年以来的数据）来的新低。根据去年以来各省份陆续发布的人口普查年鉴（2020年）以及部分省份民政部门发布的数据，梳理了其中17个省份的平均初婚年龄数据。数据显示，统计的17省份平均初婚年龄均已超27岁，其中有8个省份平均初婚年龄已经超过29岁，黑龙江平均初婚年龄超过31岁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxrrzz0845066.d.html</link>
+            <guid>3146975</guid>
+            <pubDate>Sat, 17 Jun 2023 16:37:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月18日00时14分在新疆和田地区和田县（北纬35.79度，东经79.83度）发生4.4级地震，震源深度10千米。]]></title>
+            <guid>3146974</guid>
+            <pubDate>Sat, 17 Jun 2023 16:29:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质调查局：汤加奥霍瓦南西南243公里发生6.2级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxrmtz4194531.d.html</link>
@@ -517,18 +539,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxquwm1291539.d.html</link>
             <guid>3146876</guid>
             <pubDate>Sat, 17 Jun 2023 09:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三一重机湖州装载机产业园正式启用，年产能3万台】三一集团官微消息，6月16日，三一在浙江湖州举行产业园启用仪式，宣布三一重机湖州装载机产业园正式启用。三一重机湖州装载机产业园总投资108亿元，总用地面积1567亩，具备装载机年产能3万台。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxquwi4511356.d.html</link>
-            <guid>3146874</guid>
-            <pubDate>Sat, 17 Jun 2023 09:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯石油公司：已在北极地区发现约250亿吨油当量的能源资源】俄罗斯石油公司首席执行官伊戈尔·谢钦在圣彼得堡国际经济论坛上表示，俄石油在北极地区已发现约250亿吨油当量的能源资源。谢钦在发言时说：“气候变化也在带来新机遇，让我们能获取北极地区的资源。仅我们公司就在北极地区发现约250亿吨油当量的资源。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxquwm1284827.d.html</link>
-            <guid>3146872</guid>
-            <pubDate>Sat, 17 Jun 2023 09:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
