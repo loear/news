@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 18 Jun 2023 19:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 20:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -414,12 +414,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxteci0093655.d.html</link>
             <guid>3147180</guid>
             <pubDate>Sun, 18 Jun 2023 09:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：厄瓜多尔发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxteca2392872.d.html</link>
-            <guid>3147178</guid>
-            <pubDate>Sun, 18 Jun 2023 09:18:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
