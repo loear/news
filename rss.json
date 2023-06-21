@@ -6,6 +6,47 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3151186,
+            "content_html": "",
+            "title": "在推特新CEO Linda Yaccarino的推动下，推特恢复向谷歌云支付费用，双方关系得以修复，此前推特暂停向谷歌云服务支付费用。",
+            "date_modified": "2023-06-21T19:12:57.000Z"
+        },
+        {
+            "id": 3151185,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyawue7808881.d.html",
+            "title": "【欧洲卫星运营商SES和国际通信卫星公司的兼并谈判无果而终】 欧洲卫星运营商SES SA（SESG.FP）与国际通信卫星公司（Intelsat）的兼并磋商结束，这笔原来潜在交易的估值（含债务的合并后业务）为100亿美元。国际通信卫星公司无法与SES、甚至无法与自家大股东们达成共识。“钢铁侠”马斯克旗下太空探索公司SpaceX和亚马逊创始人贝佐斯旗下蓝色起源已经将（至少）数千颗卫星发射到太空的近地低轨道。",
+            "date_modified": "2023-06-21T19:06:08.000Z"
+        },
+        {
+            "id": 3151181,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyawuc1025913.d.html",
+            "title": "【摩根大通任命投资银行老将Heitsenrether负责推动人工智能开发】摩根大通任命Teresa Heitsenrether担任新的数据和分析部门负责人。首席执行官杰米·戴蒙称推动人工智能对公司未来的成功“至关重要”。根据戴蒙和总裁Daniel Pinto周三发布的内部备忘录，该任命即日生效。 已经在摩根大通工作三十余年的Heitsenrether将继续向Pinto汇报工作，并成为该公司最高领导层的一员。",
+            "date_modified": "2023-06-21T18:59:15.000Z"
+        },
+        {
+            "id": 3151180,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyawuc1017065.d.html",
+            "title": "谷歌首席执行官皮查伊今天在美国国会山与参议员贝内特会面。",
+            "date_modified": "2023-06-21T18:48:13.000Z"
+        },
+        {
+            "id": 3151174,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyawue7783950.d.html",
+            "title": "【媒体：美的已放弃收购伊莱克斯的意向】 据知情人士透露，美的集团发现，伊莱克斯不愿接受协议，随后放弃了对这家瑞典家电制造商的收购意向。2023年春季，美的初步接触伊莱克斯以来，两家公司一直在就潜在交易的条件进行谈判，但无法满足伊莱克斯及其最大股东Investor AB提出的所有要求。伊莱克斯和Investor AB希望，即使在监管上遇到障碍收购也会推进。",
+            "date_modified": "2023-06-21T18:36:43.000Z"
+        },
+        {
+            "id": 3151173,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyawtx7443008.d.html",
+            "title": "沃尔沃汽车下属公司Nova Bus已经停止了在美国生产大客车的业务。",
+            "date_modified": "2023-06-21T18:26:18.000Z"
+        },
+        {
             "id": 3151171,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-06-22/detail-imyyasnc4341450.d.html",
@@ -160,31 +201,6 @@
             "content_html": "",
             "title": "周三（6月21日）欧市尾盘，ICE英国天然气期货跌4.22%，报92.390便士/千卡。TTF基准荷兰天然气期货涨0.13%，报37.450欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌4.48%，报88.74欧元/吨。",
             "date_modified": "2023-06-21T15:39:16.000Z"
-        },
-        {
-            "id": 3151084,
-            "content_html": "",
-            "title": "市场消息：美国食品研发公司汉普顿溪食品获得美国农业部批准，允许其生产人造肉。",
-            "date_modified": "2023-06-21T15:38:35.000Z"
-        },
-        {
-            "id": 3151079,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-21/detail-imyyanef4336345.d.html",
-            "title": "市场消息：荷兰首相与摩洛哥签署可再生能源和新能源合作谅解备忘录。",
-            "date_modified": "2023-06-21T15:36:49.000Z"
-        },
-        {
-            "id": 3151073,
-            "content_html": "",
-            "title": "周三（6月21日），沙特证交所全股指数收涨0.30%，报11466.17点。土耳其伊斯坦布尔证交所全国100指数收跌1.23%，报5186.83点。伊斯坦布尔证交所银行指数收跌0.21%，报4972.60点。",
-            "date_modified": "2023-06-21T15:28:01.000Z"
-        },
-        {
-            "id": 3151071,
-            "content_html": "",
-            "title": "市场消息：巴黎塞纳河左岸发生燃气爆炸事件，巴黎警方表示，目前正在进行干预行动，要求人们避免前往该地区。",
-            "date_modified": "2023-06-21T15:26:06.000Z"
         }
     ]
 }

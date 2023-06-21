@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 21 Jun 2023 18:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 19:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在推特新CEO Linda Yaccarino的推动下，推特恢复向谷歌云支付费用，双方关系得以修复，此前推特暂停向谷歌云服务支付费用。]]></title>
+            <guid>3151186</guid>
+            <pubDate>Wed, 21 Jun 2023 19:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲卫星运营商SES和国际通信卫星公司的兼并谈判无果而终】 欧洲卫星运营商SES SA（SESG.FP）与国际通信卫星公司（Intelsat）的兼并磋商结束，这笔原来潜在交易的估值（含债务的合并后业务）为100亿美元。国际通信卫星公司无法与SES、甚至无法与自家大股东们达成共识。“钢铁侠”马斯克旗下太空探索公司SpaceX和亚马逊创始人贝佐斯旗下蓝色起源已经将（至少）数千颗卫星发射到太空的近地低轨道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyawue7808881.d.html</link>
+            <guid>3151185</guid>
+            <pubDate>Wed, 21 Jun 2023 19:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通任命投资银行老将Heitsenrether负责推动人工智能开发】摩根大通任命Teresa Heitsenrether担任新的数据和分析部门负责人。首席执行官杰米·戴蒙称推动人工智能对公司未来的成功“至关重要”。根据戴蒙和总裁Daniel Pinto周三发布的内部备忘录，该任命即日生效。 已经在摩根大通工作三十余年的Heitsenrether将继续向Pinto汇报工作，并成为该公司最高领导层的一员。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyawuc1025913.d.html</link>
+            <guid>3151181</guid>
+            <pubDate>Wed, 21 Jun 2023 18:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌首席执行官皮查伊今天在美国国会山与参议员贝内特会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyawuc1017065.d.html</link>
+            <guid>3151180</guid>
+            <pubDate>Wed, 21 Jun 2023 18:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：美的已放弃收购伊莱克斯的意向】 据知情人士透露，美的集团发现，伊莱克斯不愿接受协议，随后放弃了对这家瑞典家电制造商的收购意向。2023年春季，美的初步接触伊莱克斯以来，两家公司一直在就潜在交易的条件进行谈判，但无法满足伊莱克斯及其最大股东Investor AB提出的所有要求。伊莱克斯和Investor AB希望，即使在监管上遇到障碍收购也会推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyawue7783950.d.html</link>
+            <guid>3151174</guid>
+            <pubDate>Wed, 21 Jun 2023 18:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃尔沃汽车下属公司Nova Bus已经停止了在美国生产大客车的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyawtx7443008.d.html</link>
+            <guid>3151173</guid>
+            <pubDate>Wed, 21 Jun 2023 18:26:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中电联：1-5月全国跨区、跨省送出电量均实现同比增长】 据中新网，中国电力企业联合会(简称：中电联)21日发布2023年1-5月份电力工业运行简况：1-5月份，全国跨区送电完成2955亿千瓦时，同比增长15.8%。其中，华北送华东387亿千瓦时，同比增长46.4%；东北送华北281亿千瓦时，同比增长84.5%；华中送南方106亿千瓦时，同比增长42.1%。1-5月份，全国各省送出电量合计6619亿千瓦时，同比增长8.4%。1-5月份，全国规模以上电厂发电量34216亿千瓦时，同比增长3.9%；其中，火电发电量24206亿千瓦时，同比增长6.2%，核电发电量1747亿千瓦时，同比增长5.0%，全国并网风电厂发电量4068亿千瓦时，同比增长25.0%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyasnc4341450.d.html</link>
@@ -151,27 +186,6 @@ LME期锡收涨464美元，报27311美元/吨。]]></title>
             <title><![CDATA[周三（6月21日）欧市尾盘，ICE英国天然气期货跌4.22%，报92.390便士/千卡。TTF基准荷兰天然气期货涨0.13%，报37.450欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌4.48%，报88.74欧元/吨。]]></title>
             <guid>3151085</guid>
             <pubDate>Wed, 21 Jun 2023 15:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国食品研发公司汉普顿溪食品获得美国农业部批准，允许其生产人造肉。]]></title>
-            <guid>3151084</guid>
-            <pubDate>Wed, 21 Jun 2023 15:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰首相与摩洛哥签署可再生能源和新能源合作谅解备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-21/detail-imyyanef4336345.d.html</link>
-            <guid>3151079</guid>
-            <pubDate>Wed, 21 Jun 2023 15:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三（6月21日），沙特证交所全股指数收涨0.30%，报11466.17点。土耳其伊斯坦布尔证交所全国100指数收跌1.23%，报5186.83点。伊斯坦布尔证交所银行指数收跌0.21%，报4972.60点。]]></title>
-            <guid>3151073</guid>
-            <pubDate>Wed, 21 Jun 2023 15:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴黎塞纳河左岸发生燃气爆炸事件，巴黎警方表示，目前正在进行干预行动，要求人们避免前往该地区。]]></title>
-            <guid>3151071</guid>
-            <pubDate>Wed, 21 Jun 2023 15:26:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
