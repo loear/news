@@ -4,11 +4,79 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 22 Jun 2023 13:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 14:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧盟反垄断监管部门正在调查亚马逊收购机器人公司iRobot的交易。iRobot股价因此下跌8.9%。]]></title>
+            <guid>3151862</guid>
+            <pubDate>Thu, 22 Jun 2023 14:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：摩根大通将向美国证券交易委员会（SEC）支付400万美元，因其此前违法删除电子记录。]]></title>
+            <guid>3151861</guid>
+            <pubDate>Thu, 22 Jun 2023 14:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构评美国5月成屋销售数据】财经网站Forexlive表示，供应受到限制，因为所有持有30年期固定抵押贷款的人都不愿出售并放弃它们。这使得待售库存非常低，尽管利率不断上升。这反过来又帮助支撑了房价，刺激了房屋建筑商开工建设，尤其是在供应链改善的情况下。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0865374.d.html</link>
+            <guid>3151859</guid>
+            <pubDate>Thu, 22 Jun 2023 14:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国谘商会领先指标连续14个月下降 凸显未来经济疲软】世界大型企业联合会高级经理Justyna Zabinska-La Monica表示，5月份美国领先指标继续下降。在过去的14个月里，美国领先指标每个月都在下降，继续表明未来的经济活动将更加疲软。不断上升的利率加上持续的通货膨胀将继续进一步抑制经济活动。虽然我们将第二季度GDP预测从负增长修正为小幅增长，但我们预计美国经济将在2023年第三季度至2024年第一季度期间收缩。经济衰退可能是由于货币政策的持续紧缩和政府支出的减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerck7640565.d.html</link>
+            <guid>3151857</guid>
+            <pubDate>Thu, 22 Jun 2023 14:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区6月消费者信心指数初值 -16.1，预期-17，前值-17.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0858043.d.html</link>
+            <guid>3151854</guid>
+            <pubDate>Thu, 22 Jun 2023 14:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月成屋销售年化月率 0.2%，预期-0.70%，前值-3.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0857481.d.html</link>
+            <guid>3151853</guid>
+            <pubDate>Thu, 22 Jun 2023 14:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月谘商会领先指标月率 -0.7%，预期-0.7%，前值-0.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0857369.d.html</link>
+            <guid>3151852</guid>
+            <pubDate>Thu, 22 Jun 2023 14:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月成屋销售总数年化 430万户，预期425万户，前值428万户。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerck7634458.d.html</link>
+            <guid>3151851</guid>
+            <pubDate>Thu, 22 Jun 2023 14:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鞍钢集团与中国电信签署战略合作协议】6月21日，鞍钢集团与中国电信签署战略合作协议。双方将深化拓展合作关系，共同探索新兴业务领域发展机遇，携手推动钢铁行业数字化转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0855302.d.html</link>
+            <guid>3151849</guid>
+            <pubDate>Thu, 22 Jun 2023 13:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李强同法国总理博尔内举行会谈】当地时间6月22日上午，国务院总理李强在巴黎同法国总理博尔内举行会谈。李强指出，中方愿同法方坚持互利互惠，推动双边贸易平衡发展，相互扩大市场准入，不断优化营商环境，拓展新兴合作领域，做大共同利益的“蛋糕”，推动两国务实合作再上新台阶。双方要不断挖掘绿色发展、科技创新、数字贸易等方面合作潜力，助力两国实现“双碳”目标，为双方经贸合作扩容提质增效。会谈后，两国总理共同见证了航空、空间研究、核能等领域多项双边合作文件的签署。（新华社）]]></title>
+            <guid>3151843</guid>
+            <pubDate>Thu, 22 Jun 2023 13:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相苏纳克：根除通胀并非易事，需要做出艰难决策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyerci0836396.d.html</link>
+            <guid>3151840</guid>
+            <pubDate>Thu, 22 Jun 2023 13:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱确认了其对土耳其关键利率的预测，预计到10月份将达到35%的峰值，但在今天的会议之后，风险“明显是下行的”。]]></title>
+            <guid>3151839</guid>
+            <pubDate>Thu, 22 Jun 2023 13:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中建西部建设湖南有限公司签约70万方大项目】据中建西部建设消息，近日，中建西部建设湖南有限公司成功签约湖南省G4京港澳高速公路耒宜扩容项目业务，签约方量共计70万方。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyercf3997806.d.html</link>
@@ -191,65 +259,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvn7658863.d.html</link>
             <guid>3151761</guid>
             <pubDate>Thu, 22 Jun 2023 11:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际奥委会主席巴赫重申政治中立原则】国际奥委会特别全会22日以远程召开的方式举行。国际奥委会主席巴赫在全会上重申了国际奥委会对俄乌冲突的立场，即国际奥委会应保持政治中立。巴赫表示，国际奥委会必须建立桥梁，而不是筑起高墙，决不能加深分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0881509.d.html</link>
-            <guid>3151759</guid>
-            <pubDate>Thu, 22 Jun 2023 11:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特对贝利表示：通胀是最为重大的经济挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvn7658530.d.html</link>
-            <guid>3151758</guid>
-            <pubDate>Thu, 22 Jun 2023 11:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：再次重申，应对通胀必须是当务之急。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0874396.d.html</link>
-            <guid>3151750</guid>
-            <pubDate>Thu, 22 Jun 2023 11:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们将继续确保公共部门工资调整不会加剧通胀压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0874343.d.html</link>
-            <guid>3151749</guid>
-            <pubDate>Thu, 22 Jun 2023 11:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：目前通胀正在拖慢经济增长，侵蚀工资收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0874201.d.html</link>
-            <guid>3151747</guid>
-            <pubDate>Thu, 22 Jun 2023 11:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：下周，我将与能源监管机构会面，讨论如何确保输入成本的下降能够传递给消费者。]]></title>
-            <guid>3151746</guid>
-            <pubDate>Thu, 22 Jun 2023 11:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：家庭和企业应该毫无疑问地知道，我们将共同采取行动来控制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvn7651025.d.html</link>
-            <guid>3151745</guid>
-            <pubDate>Thu, 22 Jun 2023 11:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们对2%的通胀目标的承诺是坚不可摧的，适用于任何时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0873577.d.html</link>
-            <guid>3151743</guid>
-            <pubDate>Thu, 22 Jun 2023 11:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：高通胀是我们必须应对的最大即时经济挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvi4087058.d.html</link>
-            <guid>3151741</guid>
-            <pubDate>Thu, 22 Jun 2023 11:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市市场监管局：加装车篷、改装座位的电动车拟禁售】据央视新闻，为强化电动自行车产品质量安全，《北京市电动自行车产品目录退出规程》近日在北京市市场监管局网站面向社会公开征求意见。根据征求意见稿，加装车篷、改装座位的电动自行车，将退出本市电动自行车产品目录，不得在本市销售和登记上牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-22/detail-imyyekvm0872862.d.html</link>
-            <guid>3151739</guid>
-            <pubDate>Thu, 22 Jun 2023 11:11:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
