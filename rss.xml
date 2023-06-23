@@ -4,11 +4,44 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 23 Jun 2023 17:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 18:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国得州电网管理部门ERCOT警告称：周日（6月25日）开始，当地将出现极端炎热的天气。]]></title>
+            <guid>3152784</guid>
+            <pubDate>Fri, 23 Jun 2023 18:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：缅甸加强外汇交易以防止缅元贬值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyyikxy9689043.d.html</link>
+            <guid>3152783</guid>
+            <pubDate>Fri, 23 Jun 2023 18:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚、荷兰壳牌、雪佛龙等石油巨头因气候变化欺诈而在美国俄勒冈州被起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyyiese6593772.d.html</link>
+            <guid>3152781</guid>
+            <pubDate>Fri, 23 Jun 2023 18:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月24日01时39分在日本北海道地区（北纬45.75度，东经143.25度）发生5.6级地震，震源深度320千米。]]></title>
+            <guid>3152780</guid>
+            <pubDate>Fri, 23 Jun 2023 18:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本北海道地区发生5.5级地震，震源深度290公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyyiesa9812718.d.html</link>
+            <guid>3152775</guid>
+            <pubDate>Fri, 23 Jun 2023 17:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：截至6月20日当周，汽油期货投机性净多头头寸增加12,250份合约至16,191份合约；布伦特原油期货投机性净多头头寸增加16,116合约至190,386份合约。]]></title>
+            <guid>3152772</guid>
+            <pubDate>Fri, 23 Jun 2023 17:45:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：新一波供应可能会使得锂供应过剩状态持续至2027年。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyyiesa9803500.d.html</link>
@@ -285,78 +318,6 @@
             <title><![CDATA[美国PMI数据公布后，美股三大股指跌幅扩大，纳指跌1.3%，标普500指数跌0.9%，道指跌0.64%。]]></title>
             <guid>3152682</guid>
             <pubDate>Fri, 23 Jun 2023 13:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit制造业PMI初值 46.3，预期48.5，前值48.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9868595.d.html</link>
-            <guid>3152681</guid>
-            <pubDate>Fri, 23 Jun 2023 13:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit服务业PMI初值 54.1，预期54，前值54.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykk8986776.d.html</link>
-            <guid>3152680</guid>
-            <pubDate>Fri, 23 Jun 2023 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加速洗牌，吉林九台农村商业银行注销基金销售牌照】 据中证报，近期，吉林证监局官网公告显示，吉林九台农村商业银行股份有限公司（简称“吉林九台农村商业银行”）向证监会提交了注销公募基金销售业务许可证的申请，证监会决定注销其公募基金销售资格。近年来，基金代销行业洗牌节奏逐步加速。去年，丹东银行股份有限公司、辽阳银行股份有限公司等多家银行机构均注销了基金销售牌照。 在业内人士看来，作为基金代销的重要渠道，银行代销基金更要“苦练内功”。光大银行金融市场部宏观研究员周茂华表示，部分银行要严格落实落细基金代销业务监管要求，加快补齐内控制度短板，配备专业、综合素质高的销售人员，健全风控体系，落实好投资者适当性管理要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykk8986631.d.html</link>
-            <guid>3152679</guid>
-            <pubDate>Fri, 23 Jun 2023 13:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银行董事长葛海蛟会见法国欧安诺集团首席执行官菲利普·克诺赫】据中国银行消息，6月22日，中国银行董事长葛海蛟在巴黎会见法国欧安诺集团首席执行官菲利普·克诺赫 (Philippe Knoche)。葛海蛟感谢欧安诺集团长期以来对中国银行的信任与支持，介绍了中国银行经营发展情况。他表示，中国银行与欧安诺集团互为重要合作伙伴，在绿色金融、存量银团贷款、资金交易等领域取得了丰硕合作成果。中国银行将继续发挥全球化特色优势，在项目融资、国际结算、能源发展等领域进一步拓展双方合作，共同助力中法合作行稳致远。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9868242.d.html</link>
-            <guid>3152678</guid>
-            <pubDate>Fri, 23 Jun 2023 13:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建发国际集团：附属公司成立合营企业，以收购莆田一土地使用权，预计投资2.2亿元】建发国际集团6月23日在港交所公告，公司全资附属公司莆田兆玺于5月18日成功竞得拍卖位于中国莆田市城厢区霞林分区坂头西单元控规范围内，东至坂头路，南至胜利路的该土地（土地编号：莆田市PS拍-2022-04号）的土地使用权，总代价为人民币2.85亿元。于本公告日期，莆田兆玺已向莆田市自然资源局支付6000万元作为该土地的保证金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6645148.d.html</link>
-            <guid>3152677</guid>
-            <pubDate>Fri, 23 Jun 2023 13:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁夏银川市开展安全生产大排查大整治专项行动】记者从宁夏银川市政府获悉，银川市兴庆区富洋烧烤店燃气爆炸事故发生后，为有效排查和消除事故隐患，全面加强安全生产工作，银川市立即成立了7个督查检查组和1个监督执纪组，从22日起在全市开展拉网式、起底式安全生产大排查大整治行动。7个督查检查组分别针对危化矿山安全、燃气安全、消防安全、工业安全、交通安全、建筑施工安全及重点场所安全展开排查整治。按照属地负责和行业主管原则，采取抽查暗访、互检互查、督查检查的方式，重点检查城镇燃气、矿山、危险化学品、道路交通、建筑施工、长输油气管道、消防、特种设备、民爆器材等重点行业领域；餐饮场所、高层建筑、城市综合体、商场、客运站、娱乐场所、福利院、养老院等人员密集场所；城中村、棚户区、群租房、老旧小区、员工集体宿舍等人员聚居场所，最大限度把风险隐患消灭在萌芽状态。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9867545.d.html</link>
-            <guid>3152676</guid>
-            <pubDate>Fri, 23 Jun 2023 13:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球钻石价格较峰值下跌18% 分析人士称还将进一步“跳水”】根据最新公布的全球毛坯钻石价格指数，今年迄今，钻石价格已下跌了6.5%，较2022年2月的历史高点更是下跌了18%。一年前，1克拉天然钻石的价格是6700美元，目前的售价是5300美元。分析人士称，钻石的价格还将进一步“跳水”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6644080.d.html</link>
-            <guid>3152675</guid>
-            <pubDate>Fri, 23 Jun 2023 13:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝武澳大利亚西坡项目开业：设计年产2500万吨铁矿石 后年投产】全球最大钢企中国宝武和全球铁矿石巨头力拓（Rio Tinto）就西澳大利亚皮尔巴拉地区的西坡铁矿项目成立合资企业。据最新透露，该项目建设目前正紧锣密鼓进行中，设计年产能为2500万吨铁矿石，包括建造一台初级破碎设备和一条18公里长的输送系统，将其连接到帕拉伯杜现有加工厂，预计将于2025年建成投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9866778.d.html</link>
-            <guid>3152674</guid>
-            <pubDate>Fri, 23 Jun 2023 13:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线走低0.5美元，现分别报67.7美元/桶和72.57美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6768719.d.html</link>
-            <guid>3152668</guid>
-            <pubDate>Fri, 23 Jun 2023 13:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国广核集团发布关于他人涉嫌假冒我集团名义行骗的严正声明】中国广核集团发布严正声明，近期，中国广核集团接到群众反映，一款名为“广核集团”的APP程序，疑似假冒我集团名义和标识，推出投资交易平台和“新能源投资”等虚假投资理财项目。经核实，我集团及所属单位从未推出该等投资平台和发布该等理财项目。对此，我集团已向公安机关报案并向有关行政机关举报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9991109.d.html</link>
-            <guid>3152666</guid>
-            <pubDate>Fri, 23 Jun 2023 13:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：俄罗斯不会公布运往白俄罗斯的核弹数量信息】俄罗斯外交部副部长里亚布科夫表示，俄罗斯不打算公布运往白俄罗斯的核弹数量信息。几十年来，美国在一些欧洲国家的领土上部署了战术核武器，但他们从未给出确切的数字。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6768145.d.html</link>
-            <guid>3152665</guid>
-            <pubDate>Fri, 23 Jun 2023 13:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内下跌3.00%，现报2.529美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuaf2994344.d.html</link>
-            <guid>3152664</guid>
-            <pubDate>Fri, 23 Jun 2023 13:12:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
