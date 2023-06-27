@@ -4,11 +4,56 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 27 Jun 2023 20:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 21:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周二（6月27日）纽约尾盘，ICE美元指数下跌0.18%，报102.504点，日内交投区间为102.802-102.320点。美元指数跌0.21%，报1227.91点。]]></title>
+            <guid>3156284</guid>
+            <pubDate>Tue, 27 Jun 2023 21:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：委内瑞拉国家石油公司今年1月至5月的石油出口量较去年同期增长了13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyursa9830844.d.html</link>
+            <guid>3156283</guid>
+            <pubDate>Tue, 27 Jun 2023 21:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国6月消费者信心指数为100.7，前值98。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3052258.d.html</link>
+            <guid>3156282</guid>
+            <pubDate>Tue, 27 Jun 2023 21:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西全国谷物出口商协会（Anec）：6月份巴西大豆出口量预计将达到1420万吨，上周预测为1430万吨；玉米出口量预计将达到115.7万吨，上周预测为146万吨。豆粕出口量预计达到231.7万吨，上周预测为237万吨。]]></title>
+            <guid>3156279</guid>
+            <pubDate>Tue, 27 Jun 2023 20:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心（NHC）：热带风暴Adrian料将在6月28日加强为飓风。这将是太平洋东部海域在2023年飓风季生成的第一个飓风。]]></title>
+            <guid>3156276</guid>
+            <pubDate>Tue, 27 Jun 2023 20:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月23日当周API原油库存减少240.8万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrx5222498.d.html</link>
+            <guid>3156275</guid>
+            <pubDate>Tue, 27 Jun 2023 20:37:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队宣布单方面临时停火】据央视新闻，当地时间6月27日晚，苏丹武装部队总司令布尔汉发表声明，宣布苏丹武装部队将于本月28日实施单方面临时停火。他还表示，苏丹武装部队愿意将国家政权移交给民选政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3044154.d.html</link>
+            <guid>3156274</guid>
+            <pubDate>Tue, 27 Jun 2023 20:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杰富瑞二季度净收入10.4亿美元 符合预期】杰富瑞二季度净收入10.4亿美元，分析师预期10.4亿美元；二季度每股收益0.05美元；将回购授权增加至总计2.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3041850.d.html</link>
+            <guid>3156271</guid>
+            <pubDate>Tue, 27 Jun 2023 20:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【FTX停止出售其在人工智能初创公司Anthropic的股份】已破产的加密货币交易所FTX突然停止出售其最受欢迎的资产之一：人工智能初创公司Anthropic的股份。据知情人士透露，担任FTX顾问的精品投资银行Perella Weinberg Partners本月向竞标者通报了FTX暂停出售Anthropic股份的消息。知情人士说，在此之前的几个月里，多位潜在买家评估了有关Anthropic股份的私人信息。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3039980.d.html</link>
@@ -251,59 +296,6 @@ LME期锡收涨648美元，报26283美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-27/detail-imyyufah9989297.d.html</link>
             <guid>3156186</guid>
             <pubDate>Tue, 27 Jun 2023 15:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[区块链支付公司Ryvyl与信用卡公司Visa达成协议，该公司在欧洲的客户将可以直接使用Visa信用卡。]]></title>
-            <guid>3156184</guid>
-            <pubDate>Tue, 27 Jun 2023 15:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国DAX30指数6月27日（周二）收盘上涨41.69点，涨幅0.26%，报15854.75点；
-英国富时100指数6月27日（周二）收盘上涨10.10点，涨幅0.14%，报7463.68点；
-法国CAC40指数6月27日（周二）收盘上涨31.23点，涨幅0.43%，报7215.58点；
-欧洲斯托克50指数6月27日（周二）收盘上涨24.98点，涨幅0.58%，报4305.55点；
-西班牙IBEX35指数6月27日（周二）收盘上涨116.20点，涨幅1.25%，报9390.20点；
-意大利富时MIB指数6月27日（周二）收盘上涨159.09点，涨幅0.58%，报27402.00点。]]></title>
-            <guid>3156181</guid>
-            <pubDate>Tue, 27 Jun 2023 15:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国天然气期货涨超8.6%，荷兰天然气期货也涨约6.8%】 周二（6月27日）欧市尾盘，ICE英国天然气期货上涨8.62%，刷新日高至86.650便士/千卡。
-TTF基准荷兰天然气期货涨6.77%，刷新日高至34.700欧元/兆瓦时。
-ICE欧盟碳排放交易许可（期货价格）涨3.82%，报87.52欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-27/detail-imyyufah9987048.d.html</link>
-            <guid>3156180</guid>
-            <pubDate>Tue, 27 Jun 2023 15:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国法官驳回了山姆·班克曼-弗里德关于撤销对加密货币交易所FTX破产的刑事指控的动议。]]></title>
-            <guid>3156179</guid>
-            <pubDate>Tue, 27 Jun 2023 15:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔沃汽车（VOLCARB.SS）初步收跌3.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-27/detail-imyyufah9985023.d.html</link>
-            <guid>3156177</guid>
-            <pubDate>Tue, 27 Jun 2023 15:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收涨0.21%，报15845.94点。
-法国股指初步收涨0.43%，意大利股指初步收涨0.58%，英国股指初步收涨0.11%。
-希腊股指初步收涨0.12%，俄罗斯交易系统现金指数RTS（美元计价）初步收涨0.82%，莫斯科交易所（MOEX）指数初步收涨0.86%。]]></title>
-            <guid>3156175</guid>
-            <pubDate>Tue, 27 Jun 2023 15:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.05%，报452.89点。
-欧元区STOXX 50指数初步收涨0.57%，报4305.11点。
-富时泛欧绩优300指数初步收涨0.05%，报1797.07点。]]></title>
-            <guid>3156174</guid>
-            <pubDate>Tue, 27 Jun 2023 15:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌公司DeepMind的CEO Demis Hassabis：公司正在开发一个名为Gemini的系统。该系统将采用曾在2016年帮助AlphaGo击败Go冠军的技术。届时，公司的下一代算法将超越机器人聊天工具ChatGPT。]]></title>
-            <guid>3156172</guid>
-            <pubDate>Tue, 27 Jun 2023 15:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
