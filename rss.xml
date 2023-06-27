@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 27 Jun 2023 21:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 22:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中央气象台6月28日06时继续发布暴雨蓝色预警】中央气象台6月28日06时继续发布暴雨蓝色预警：预计，6月28日08时至29日08时，辽东半岛、北京东部、天津北部、河北东北部、山东中东部、四川东部、陕西南部、重庆大部、湖北西部等地部分地区有大到暴雨，其中，重庆北部局地有大暴雨（100～140毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～50毫米，局地可超过60毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyursa9846446.d.html</link>
+            <guid>3156302</guid>
+            <pubDate>Tue, 27 Jun 2023 22:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内37家整车与零部件上市公司谋定增 加大新能源汽车领域投入】数据显示，截至6月27日，今年年内累计已有37家汽车整车和零部件上市公司发布定增预案，相比去年同期的16家大幅增长，计划募资总额不超过485.84亿元。而值得关注的是，这些再融资多指向新能源汽车各领域。“从预案披露的募集金额可见，新能源汽相关企业普遍需要资金补血，几亿元、十几亿元的定增预案层出不穷。”德基先进制造与出行产业合伙人张帆表示，定增对于汽车产业链上市公司非常必要。一方面，能够缓解流动资金压力，改善可周转资金和盈利能力。另一方面，也有助于提高企业的融资能力，为上市公司布局新项目和新业务的开展提供更大空间。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyursa9845630.d.html</link>
+            <guid>3156301</guid>
+            <pubDate>Tue, 27 Jun 2023 22:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌公司在Waze地图部门裁员 】谷歌在Waze地图服务部门裁员，该部门正在与自己的地图产品合并。在周二发给员工的一封电子邮件中，负责谷歌地图部门Geo的Chris Phillips说，该公司正在改变其Waze战略，将谷歌的广告纳入其中，而不是使用单独的广告系统。媒体看到的这封电子邮件显示，此举将导致裁员。该公司希望“创造一个更具可扩展性和优化的Waze广告产品，”电子邮件说。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3067586.d.html</link>
+            <guid>3156297</guid>
+            <pubDate>Tue, 27 Jun 2023 21:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Stellantis将其在Archer Aviation的股份增持至10.6%】欧洲汽车生产商Stellantis提交的13D文件显示，该公司将其在城市空中交通电动飞机初创公司Archer Aviation的股份增持至10.6%。6月23日，Archer以2500万美元的价格向Stellantis出售了6,337,039股股票，即每股3.94506美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyurrz3064894.d.html</link>
+            <guid>3156294</guid>
+            <pubDate>Tue, 27 Jun 2023 21:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴西石油公司(PBR.N)与南加州天然气公司签署价值76亿巴西雷亚尔的天然气供应协议。]]></title>
+            <guid>3156293</guid>
+            <pubDate>Tue, 27 Jun 2023 21:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.12%，报12514.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyursa9839148.d.html</link>
+            <guid>3156292</guid>
+            <pubDate>Tue, 27 Jun 2023 21:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周二（6月27日）纽约尾盘，ICE美元指数下跌0.18%，报102.504点，日内交投区间为102.802-102.320点。美元指数跌0.21%，报1227.91点。]]></title>
             <guid>3156284</guid>
@@ -228,74 +263,6 @@ LME期锡收涨648美元，报26283美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufai0008263.d.html</link>
             <guid>3156208</guid>
             <pubDate>Tue, 27 Jun 2023 16:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国移动IPv6三大创新成果发布：向业界倡议全面推进IPv6单栈部署】 中国移动发布了IPv6三大创新成果。其中，《中国移动IPv6单栈演进倡议书》提出了“1234”演进策略，向业界倡议全面推进IPv6单栈部署。《中国移动IPv6技术演进及应用白皮书》阐述了中国移动打造基于IPv6的创新技术体系，推动产业成熟及规模应用。SRv6智能专线产品通过基于IPv6的智能转发技术向用户提供可视、可管、可控的智能专线产品，满足多元化需求，赋能企业数智化转型。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufaf3230859.d.html</link>
-            <guid>3156207</guid>
-            <pubDate>Tue, 27 Jun 2023 16:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国移动自智网络两大创新成果发布：打造“智枢”网络域能力开放平台】 中国移动发布了自智网络创新的系列成果。一是挂牌第一批“自智网络协同创新实验室”，聚焦全栈国产化适配、数字孪生网络构建、CHBN业务质量智能保障、智能运维等自智网络关键技术领域开展攻关，为自智网络创新成果的研发孵化、产品转化和规模推广提供体系化保障。二是发布“智枢”网络域能力开放平台，以自智网络内生能力、数智化运维能力为根基，打造承载业务的智慧中枢，本次优先开放国内领先的政企专网运力地图、游戏与直播加速、安全攻击溯源等高价值能力50个，为前端和客户提供多样化供给，打造开放共享生态。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufai0007916.d.html</link>
-            <guid>3156206</guid>
-            <pubDate>Tue, 27 Jun 2023 16:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西能源部长：预计海上风能、绿色氢法规将在今年年底前获得批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufai0007842.d.html</link>
-            <guid>3156205</guid>
-            <pubDate>Tue, 27 Jun 2023 16:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于欧盟贸易商着眼于储存，乌克兰天然气网络的订单大幅增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufai0000336.d.html</link>
-            <guid>3156203</guid>
-            <pubDate>Tue, 27 Jun 2023 16:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国债券的抛售现象在全球主权债中最突出，美国消费者信心数据推高对紧缩前景的预期】 周二（6月27日）欧市尾盘，德国10年期国债收益率涨4.7个基点，报2.356%，盘中交投于2.286%-2.366%区间。
-两年期德债收益率上涨7.4个基点，报3.160%，盘中交投于3.080%-3.174%区间；30年期德债收益率涨1.7个基点，报2.391%。
-2/10年期德债收益率利差跌2.735个基点，报-80.902个基点，一度跌至-82.303个基点，彭博数据显示，这是1992年9月22日以来新低（当天报-81.100个基点）、当年底部在-130.200个基点（9月7日）。
-英国10年期国债收益率涨7.4个基点，报4.375%。两年期英债收益率涨11.4个基点，报5.273%，美国消费者信心数据上升，推高对全球货币政策将在更长时期内维持紧缩状态的预期。
-2/10年期英债收益率利差下跌3.779个基点，报-90.799个基点，逼近2000年6月16日-93.362个基点的水平，当年底部在-118.698个基点（4月5日）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufai0000115.d.html</link>
-            <guid>3156202</guid>
-            <pubDate>Tue, 27 Jun 2023 16:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旅游服务公司缤客（Booking.com）的人工智能行程规划管理功能将于6月28日在其应用程序客户端上测试上线。ChatGPT的应用程序接口（API）对这款新功能提供了部分支持。]]></title>
-            <guid>3156198</guid>
-            <pubDate>Tue, 27 Jun 2023 16:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：在通胀压力下，全球信贷风险继续上升，因为利率上升将持续到下半年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufah9996771.d.html</link>
-            <guid>3156197</guid>
-            <pubDate>Tue, 27 Jun 2023 16:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国汽车工业行动集团：特斯拉的充电技术正快速成为美国标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyyufaf3218250.d.html</link>
-            <guid>3156196</guid>
-            <pubDate>Tue, 27 Jun 2023 16:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加利福尼亚州金融保护局（DFPI）指控Cryptofx违反法律，通过提供、销售未经合格的证券，并对投资者进行实质性的虚假陈述和发出遗漏信息。]]></title>
-            <guid>3156192</guid>
-            <pubDate>Tue, 27 Jun 2023 15:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家防办、应急管理部部署重点地区防汛抗旱工作】国家防总办公室、应急管理部27日组织防汛抗旱专题视频会商调度，研判当前汛情旱情发展趋势，部署重点地区防汛抗旱工作。
-
-据气象部门预测，自27日起，西北地区东南部、四川盆地、江汉、华北、黄淮南部、江淮、贵州以及东北等地有小到中雨，部分地区将有大雨或暴雨，局地有大暴雨。
-
-会商指出，我国南北方均已进入防汛关键期，强降雨趋多趋频，各地各部门要密切关注灾情变化，做好防汛抗旱救灾救助工作。针对西南、黄淮等地降雨过程，要督促各级防汛责任人特别是包乡包村干部提前下沉一线。要强化预警和应急响应联动机制、临灾预警“叫应”机制。要紧盯山洪地质灾害、中小河流和中小水库、城乡内涝等三个薄弱环节，重点关注山洪易发区、沟口谷地、植被稀疏地带、高陡边坡等风险区，密切监测中小河流洪水，加强中小水库包括山塘淤地坝、尾矿库的雨中巡查，强化城乡排水防涝等。
-
-此外，会商还要求，密切监测内蒙古等干旱地区雨情、水情和土壤墒情发展变化，跟踪研判城乡供水、农业受旱形势，动态调整抗旱应急方案，全力确保群众饮水安全，保障好畜牧业、农业用水。密切关注西北太平洋和南海海域气象变化，跟踪台风生成发展，推动沿海地区提前做好防范应对准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-27/detail-imyyufah9989297.d.html</link>
-            <guid>3156186</guid>
-            <pubDate>Tue, 27 Jun 2023 15:47:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
