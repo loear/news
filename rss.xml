@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 28 Jun 2023 15:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 16:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[卡塔尔财团当前称其有信心赢得对曼联俱乐部的竞购。俱乐部小股东称，另一竞购方Ratcliffe提出的收购方案太过复杂。收购曼联俱乐部的相关谈判目前仍在进行中，尚无最终结果。曼联（MANU）股价盘中走高，上涨5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-29/detail-imyywizc4445553.d.html</link>
+            <guid>3157735</guid>
+            <pubDate>Wed, 28 Jun 2023 16:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指集体收涨 德国DAX30指数涨0.68%】欧洲主要股指集体收涨，德国DAX30指数涨0.68%，英国富时100指数涨0.49%，法国CAC40指数涨0.98%，欧洲斯托克50指数涨0.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2471273.d.html</link>
+            <guid>3157727</guid>
+            <pubDate>Wed, 28 Jun 2023 15:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（6月28日）欧市尾盘，ICE英国天然气期货跌1.35%，报84.010便士/千卡。
+TTF基准荷兰天然气期货跌3.57%，报33.750欧元/兆瓦时。]]></title>
+            <guid>3157725</guid>
+            <pubDate>Wed, 28 Jun 2023 15:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[壳牌石油与埃克森美孚计划将其合资公司所持有的两处天然气储存设施移交给荷兰政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizc4442167.d.html</link>
+            <guid>3157724</guid>
+            <pubDate>Wed, 28 Jun 2023 15:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.67%，报455.95点。
+欧元区STOXX 50指数初步收涨0.90%，报4343.94点。
+富时泛欧绩优300指数初步收涨0.63%，报1808.51点。]]></title>
+            <guid>3157723</guid>
+            <pubDate>Wed, 28 Jun 2023 15:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨0.57%，报15937.85点。
+法国股指初步收涨0.99%，意大利股指初步收涨0.81%，英国股指初步收涨0.56%。]]></title>
+            <guid>3157722</guid>
+            <pubDate>Wed, 28 Jun 2023 15:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国DAX30指数6月28日（周三）收盘上涨107.59点，涨幅0.68%，报15954.45点；
+英国富时100指数6月28日（周三）收盘上涨36.93点，涨幅0.49%，报7498.39点；
+法国CAC40指数6月28日（周三）收盘上涨70.74点，涨幅0.98%，报7286.32点；
+欧洲斯托克50指数6月28日（周三）收盘上涨40.49点，涨幅0.94%，报4345.75点；
+西班牙IBEX35指数6月28日（周三）收盘上涨84.95点，涨幅0.90%，报9477.95点；
+意大利富时MIB指数6月28日（周三）收盘上涨237.91点，涨幅0.87%，报27639.00点。]]></title>
+            <guid>3157719</guid>
+            <pubDate>Wed, 28 Jun 2023 15:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极端天气持续 美国航空业及电力系统遭受巨大影响】据央视新闻，受雷暴等极端天气的影响，当地时间6月27日，超过九千架次美国境内以及进出美国的航班延误或取消，乘客出行受到极大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2468824.d.html</link>
+            <guid>3157717</guid>
+            <pubDate>Wed, 28 Jun 2023 15:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安博：将以31亿美元现金收购黑石旗下近1400万平方英尺工业地产】物流基础设施运营商安博和黑石宣布，日前双方达成一项最终协议，安博将以31亿美元现金从黑石旗下的机会型房地产基金收购占地近1400万平方英尺（约合130万平方米）的工业地产。按照本次收购价格计算，第一年的资本化率约为4%，根据目前的市场租金调整后的资本化率为5.75%。预计该交易将在第二季度末完成。]]></title>
+            <guid>3157716</guid>
+            <pubDate>Wed, 28 Jun 2023 15:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度在全球各国寻找铜矿与锂矿资源】印度政府消息人士称，印度一家国有公司即将与阿根廷签署协议，购买少量锂矿，并正在智利寻找锂矿。此外，印度在蒙古寻找铜矿资源，团队将于9月访问蒙古。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizh9241398.d.html</link>
+            <guid>3157712</guid>
+            <pubDate>Wed, 28 Jun 2023 15:23:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄外长：俄总统普京不拒绝任何有关对话的具体建议】 据塔斯社报道，当地时间6月28日，俄罗斯外交部长拉夫罗夫表示，最近一段时间，俄罗斯领导人与西方国家并未进行联系，但俄罗斯总统普京不会拒绝任何有关对话的具体建议。拉夫罗夫说，普京总统多次表示，俄方对国际合作持开放态度。但当前的问题在于，俄罗斯同以前的西方伙伴间的合作不可能继续基于既有协议，其中包括曾具有法律效力的协议。所以，俄罗斯与西方国家间的关系是不同世界之间的斗争。拉夫罗夫还指出，俄罗斯不可能放弃既定的特别军事行动目标。（央视）]]></title>
             <guid>3157708</guid>
@@ -203,71 +267,6 @@
             <title><![CDATA[【美团优选密集调整，重启 “抢增长”，找回战斗力】六月初，美团优选管理层召开了一次夏季会议，宣布发起为期三个月的 “夏季战役”。据知情人士转述，美团优选负责人郭万怀在会议上回顾了美团在生鲜零售业务的探索，从 2017 年上线第一个生鲜零售项目 “掌鱼生鲜”，到后来的小象生鲜、美团买菜、美团优选，美团已经这个业务上投入大量资源。对于美团优选，公司会持续投入，直至胜利。一位优选人士说，他理解会议释放的最大信号是，即便业务困难重重，进展不如预期，财务压力巨大，美团也不会放弃优选。本月，美团优选工区内，大厅和各个楼层的工位上已经挂满了红色的 “夏战” 标识牌和横幅。一楼的大屏幕上实时显示优选各个区域的业务竞赛情况。（晚点latepost）]]></title>
             <guid>3157633</guid>
             <pubDate>Wed, 28 Jun 2023 14:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆奉节菜籽坝百万千瓦抽水蓄能项目开工建设】据央视，今天（6月28日），国家“十四五”重点实施项目——重庆市奉节菜籽坝百万千瓦抽水蓄能项目正式开工建设，这是我国首个复杂岩溶地区的大型抽水蓄能电站。奉节菜籽坝百万千瓦抽水蓄能项目总投资84.03亿元，装机容量达120万千瓦，安装4台单机容量30万千瓦的电机。]]></title>
-            <guid>3157631</guid>
-            <pubDate>Wed, 28 Jun 2023 14:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：百望股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2447895.d.html</link>
-            <guid>3157628</guid>
-            <pubDate>Wed, 28 Jun 2023 14:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长：俄总统普京不拒绝任何有关对话的具体建议】据塔斯社报道，当地时间6月28日，俄罗斯外交部长拉夫罗夫表示，最近一段时间，俄罗斯领导人与西方国家并未进行联系，但俄罗斯总统普京不会拒绝任何有关对话的具体建议。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2447176.d.html</link>
-            <guid>3157626</guid>
-            <pubDate>Wed, 28 Jun 2023 14:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizh9224164.d.html</link>
-            <guid>3157623</guid>
-            <pubDate>Wed, 28 Jun 2023 14:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渝开发：拟定增募资不超7亿元 重庆城投拟参与认购】渝开发公告，拟定增募资不超7亿元，募集资金在扣除发行费用后的净额将全部用于格莱美城项目、贯金和府一期项目、南樾天宸一、二期高层项目及补充流动资金。其中，重庆城投拟认购不低于本次实际发行数量的5%且不超过实际发行数量的30%。重庆城投为公司的控股股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizc4429142.d.html</link>
-            <guid>3157620</guid>
-            <pubDate>Wed, 28 Jun 2023 14:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧菲光：全资子公司拟出售部分房屋及土地使用权】欧菲光公告，全资子公司苏州欧菲拟将其名下位于苏州市相城区黄埭镇康阳路233号的房屋及该房屋占用范围内的国有土地使用权以3.4亿元的价格出售给苏州春申。经公司初步测算，本次交易预计对公司2023年利润增加6781.11万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2446572.d.html</link>
-            <guid>3157619</guid>
-            <pubDate>Wed, 28 Jun 2023 14:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申万宏源：当前中国金融市场和实体经济、制造业最突出的矛盾 在于两者投资逻辑的背离】申万宏源证券首席经济学家杨成长表示，在金融赋能制造业的高质量发展中，需要优化要素成本，努力降低制造业的制度性、交易性成本。同时，杨成长指出，当前中国金融市场和实体经济、制造业最突出的矛盾，在于金融投资逻辑和实业投资逻辑的背离，且这种背离正处于历史上少有的极其尖锐阶段。“造成这种分歧的因素主要有五方面：一是双方对产业链的看法彼此很难统一；二是双方对技术的路径、运用，存在信息不对称和认知不统一；三是双方在数字化方面出现了分歧；四是双方对企业模式的认知存在分歧；五是企业的经营目标和理念的差异。”杨成长说。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizf2446478.d.html</link>
-            <guid>3157616</guid>
-            <pubDate>Wed, 28 Jun 2023 14:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD跌1%，跌至1.2620的日内低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizh9222581.d.html</link>
-            <guid>3157612</guid>
-            <pubDate>Wed, 28 Jun 2023 14:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线走低超20点，现报1.0917。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizh9222393.d.html</link>
-            <guid>3157611</guid>
-            <pubDate>Wed, 28 Jun 2023 14:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟认为美国提出的解决方案可能违反世界贸易组织规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywizh9222110.d.html</link>
-            <guid>3157609</guid>
-            <pubDate>Wed, 28 Jun 2023 14:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY日内涨幅扩大至0.50%，现报103.03。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-28/detail-imyywctf4559027.d.html</link>
-            <guid>3157608</guid>
-            <pubDate>Wed, 28 Jun 2023 14:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
