@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 30 Jun 2023 20:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 21:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.2677元，较周四纽约尾盘涨9点，盘中整体交投于7.2857-7.2517元区间。]]></title>
+            <guid>3160792</guid>
+            <pubDate>Fri, 30 Jun 2023 21:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国政府宣布取消大型活动以应对全国骚乱】法国总理府6月30日下午宣布，政府决定取消全国所有大型活动，以应对持续蔓延的骚乱。法国总理府当天向媒体宣布，根据当地情况，“可能对公共秩序构成风险的大型活动”都将被取消。法国媒体报道说，原计划在首都巴黎北郊的法兰西体育场举行的一场大型音乐会已被取消。法国总理博尔内当天宣布，将在街头增加部署宪兵装甲车，用于加强警戒。她在接受媒体采访时表示，政府正在考虑包括实施紧急状态在内的一切可能选项，来确保恢复国家秩序。此外，法国内政部长达尔马宁已要求全法国所有公共汽车和有轨电车从30日起将停运时间提前至晚9时。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzchux0541530.d.html</link>
+            <guid>3160783</guid>
+            <pubDate>Fri, 30 Jun 2023 20:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诺基亚与苹果公司签署长期性专利许可协议，条款保密】诺基亚与苹果公司签署长期性专利许可协议，条款保密；诺基亚预计，协议将从2024年1月份开始带来收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzchux0541152.d.html</link>
+            <guid>3160782</guid>
+            <pubDate>Fri, 30 Jun 2023 20:24:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：针对学生债务减免问题宣布新方案。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzchvc9114477.d.html</link>
@@ -182,12 +199,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7409259.d.html</link>
             <guid>3160701</guid>
             <pubDate>Fri, 30 Jun 2023 16:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第11届澳门国际旅游（产业）博览会开幕】为期3天的第11届澳门国际旅游（产业）博览会30日在澳门开幕，展现澳门全力扩展客源、推动旅游经济加快复苏的新气象。据主办方介绍，本届旅博会展览面积23000平方米，共有886个展位，吸引了39个国家及地区的旅行社、旅游产业相关机构和企业参展，参展商512家。澳门特区政府经济财政司司长李伟农致辞表示，旅博会把握国家发展机遇，善用澳门独特优势，并贯彻“1＋4”适度多元发展策略，打造“旅游＋”合作新平台，联系世界各地旅游业界共聚澳门，拓展区域及国际旅游合作，促成更多商机，实践“旅博领航、盛装迎客”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7407917.d.html</link>
-            <guid>3160689</guid>
-            <pubDate>Fri, 30 Jun 2023 16:31:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
