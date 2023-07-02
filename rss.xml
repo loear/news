@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 02 Jul 2023 16:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 17:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【受益于税收抵免政策，二季度特斯拉销量增加】特斯拉第二季度销量增长了10%，埃隆·马斯克领导的公司受益于政府激励措施和降价政策，使其电动汽车比同类汽油车型便宜。特斯拉周日表示，4月至6月期间交付了466000辆汽车，高于上一季度的423000辆。今年生效的规定允许美国特斯拉汽车的购买者有资格获得7500美元的联邦税收抵免。 有了这项优惠，最便宜的Model 3轿车售价不到33000 美元，比梅赛德斯-奔驰和宝马销售的汽油驱动的类似豪华轿车便宜，与丰田凯美瑞和本田雅阁等大众市场汽车一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5617441.d.html</link>
+            <guid>3161476</guid>
+            <pubDate>Sun, 02 Jul 2023 17:11:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国规模最大新能源跨长江输送通道投运 每年可减少二氧化碳排放1000万吨】国内规模最大新能源跨长江输送通道——江苏泰州凤城至无锡梅里500千伏输变电工程建成投运。工程投运后，可以提升江苏境内新能源过江输电能力约30%，最大年送电量超过260亿度，每年减少二氧化碳排放1000万吨。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzikmp3063323.d.html</link>
@@ -464,18 +470,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5920316.d.html</link>
             <guid>3161374</guid>
             <pubDate>Sun, 02 Jul 2023 10:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自然资源部与中国气象局联合发布地质灾害气象风险预警】自然资源部与中国气象局7月2日18时联合发布地质灾害气象风险预警：预计，7月2日20时至7月3日20时，重庆东北部和西部、四川东部、贵州西部、云南东南部和西部、陕西南部、甘肃中部等地的部分地区发生地质灾害的气象风险较高（黄色预警），其中，陕西南部的局部地区发生地质灾害的气象风险高（橙色预警）请当地居民注意防范强降水引发的地质灾害，尤其是地质灾害隐患点附近区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5920011.d.html</link>
-            <guid>3161373</guid>
-            <pubDate>Sun, 02 Jul 2023 10:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部和中国气象局联合发布山洪灾害气象黄色预警】水利部和中国气象局7月2日18时联合发布黄色山洪灾害气象预警：预计，7月2日20时至7月3日20时，河南西南部、四川北部、重庆北部、陕西南部、甘肃南部等地部分地区可能发生山洪灾害（蓝色预警），其中，四川东北部、重庆北部、陕西南部、甘肃南部局地发生山洪灾害可能性较大（黄色预警）其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvm7169601.d.html</link>
-            <guid>3161372</guid>
-            <pubDate>Sun, 02 Jul 2023 10:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
