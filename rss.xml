@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Jul 2023 18:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 19:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登提名Andrew Ferguso和Melissa Holyoak为联邦贸易委员会委员。]]></title>
+            <guid>3162781</guid>
+            <pubDate>Mon, 03 Jul 2023 19:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家国有大行下调美元存款利率，专家称美元存款主要面临汇兑风险】 多家国有大行已于7月1日起正式下调美元存款利率。就国有大行下调美元定期存款利率的原因，中信证券首席经济学家明明表示，根据2023年一季度货币政策执行报告，今年3月份，境内美元储蓄存款利率和美元贷款利率出现倒挂，因此从银行角度来看，降低美元存款利率存在一定必要性，以缓解美元存贷款的净息差。此外，美元存款利率与人民币存款利率的协同下行也存在一定合理性，抑制企业与个人短期囤积美元的行为，对于保持人民币汇率在合理均衡水平上的基本稳定具有重要意义。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyzmxyf1380841.d.html</link>
+            <guid>3162777</guid>
+            <pubDate>Mon, 03 Jul 2023 18:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度Adani Green Energy Ltd.董事会将于7月6日开会，讨论融资事宜。]]></title>
+            <guid>3162768</guid>
+            <pubDate>Mon, 03 Jul 2023 18:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家公司披露中标或投资环卫项目，下半年可关注三条主线】 7月3日晚间，多家上市公司公告披露了中标多个环卫类项目的情况。除了中标项目以外，也有多家公司宣布拟投资环卫类项目。民生证券表示，2023年下半年，建议关注三条主线：一是新能源环卫车销量同比保持高速增长，在相关政策推动下，渗透率有望进一步提升，有望带动环卫一体化及固废治理行业发展；二是监管趋严，水环境治理受重视，乡镇污水处理、流域治理、水资源化利用板块值得关注；三是环保企业积极探索第二成长曲线，寻求突破之道，部分企业利用自身资源优势，拓展氢能相关领域。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyzmxyf1376093.d.html</link>
+            <guid>3162767</guid>
+            <pubDate>Mon, 03 Jul 2023 18:36:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰总统泽连斯基与德国总理朔尔茨进行通话】乌克兰总统泽连斯基当地时间7月3日在其官方社交账户发布消息称，当天与德国总理朔尔茨进行了通话。双方在北约峰会前协调了立场并讨论了乌克兰未来安全保障的形式，以及黑海港口农产品外运协议的现状及其延续的重要性。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyzmxyc4595199.d.html</link>
@@ -198,92 +220,6 @@ LME期锡收涨590美元，报27377美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsf4684589.d.html</link>
             <guid>3162685</guid>
             <pubDate>Mon, 03 Jul 2023 15:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【昇腾AI大模型训推一体化解决方案将在WAIC发布】在2023 世界人工智能大会（WAIC）上，华为将协同20多家大模型研发单位共同启动基于昇腾AI的大模型创新仪式，加速各方大模型的研发和应用创新。同时，华为还将联合伙伴发布昇腾AI大模型训推一体化解决方案，解决大模型开发及应用成本高、周期长、技术难度大等行业痛点，推进大模型在各行业落地应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsi1459919.d.html</link>
-            <guid>3162681</guid>
-            <pubDate>Mon, 03 Jul 2023 14:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新能源赛道全线反击，有基金从AI热门股切换回补】在强劲的销售预期下，大型公募重仓的新能源汽车产业链迎来全线反击。尽管电动车股票的巨大波动往往带来惊人的回撤风险，但基金经理则倾向于认同高波动带来的高回报，这使得在市场调整风险最大的港股市场，也迎来了基金经理对电动车的重仓，部分非港股主题基金的持仓信息显示，港股电动车成为基金的核心仓位，凸显了基金在该产业链投资中“风浪越大鱼越贵”的逻辑。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsi1459704.d.html</link>
-            <guid>3162680</guid>
-            <pubDate>Mon, 03 Jul 2023 14:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲汽车生产商斯特兰蒂斯（Stellantis NV）：将在意大利Mirafiori投资一家新的“绿色园区”。]]></title>
-            <guid>3162679</guid>
-            <pubDate>Mon, 03 Jul 2023 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克和扎克伯格上半年领衔全球亿万富翁的净值增长，阿达尼和伊坎表现垫底】 2023年上半年，全球前500名最富裕的人的财富增长8520亿美元。机构亿万富翁指数显示，上半年人均单日增长1400万美元。创2020年以来最佳半年表现。值得一提的是，马斯克的个人财富在2023年上半年增加966亿美元，而与他约架的扎克伯格也增长了589亿美元。印度富翁阿达尼（Gautam Adani）的净值缩水602亿美元，这样的金额在机构追踪的亿万富翁中表现最差——空头Hindenburg Research的财务欺诈和股票操纵造成其于1月27日“流血”大约208亿美元。被Hindenburg击溃的还包括知名投资人卡尔·伊坎（Carl Icahn）——他的Icahn Enterprises LP遭遇美国IPO以来最差单日表现，伊坎的净值在上半年下滑134亿美元，降幅57%——在上半年超过机构追踪的其他亿万富翁。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpkp1931821.d.html</link>
-            <guid>3162678</guid>
-            <pubDate>Mon, 03 Jul 2023 14:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通全球能源战略主管Christyan Malek：俄罗斯减产意味着该国对石油市场稳定非常重视，并强调了对沙特的支持。]]></title>
-            <guid>3162676</guid>
-            <pubDate>Mon, 03 Jul 2023 14:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工银瑞信基金：随着“稳增长”信号明显 可关注“稳增长”对市场的催化作用】工银瑞信基金认为，受益于“国企改革”与“中特估”等政策催化，叠加“一带一路”十周年，今年以来“中字头”基建板块涨幅明显。作为逆周期调节经济的重要工具，基建板块在“稳增长”中承担着重要角色。随着近期“稳增长”信号明显，可关注“稳增长”对市场的催化作用。现有市场环境下基建仍是政策发力的重要方向，预计主要投向为大型重点项目。参考2021年11月-2022年5月的基建稳增长行情，建筑板块超50支个股最大涨幅超过50%，地方建工国企、设计院、建筑央企等均有亮眼表现，与今年上半年建筑板块的重点方向基本重合。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpkm1588299.d.html</link>
-            <guid>3162674</guid>
-            <pubDate>Mon, 03 Jul 2023 14:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工银瑞信基金：储能板块迎来较好布局时点】工银瑞信基金表示，伴随着全国多地刷新历史同期高温纪录，电力行业又迎来了“迎峰度夏”如何实现“削峰填谷”的难题，储能作用凸显。当前储能板块迎来了较好的布局时点。一方面，上半年储能出货实现高增长，据了解1-5月国内储能装机增长接近300%，6月末又有一批储能抢装完成。另一方面，储能招标持续降价引发价格战担忧，但类似于光伏产业链中上游的硅料降价则中游的组件受益，作为储能原料的碳酸锂降价也因期货属性会使得下游集成和EPC（工程总承包）环节受益，而市场对此预期较低。基于以上两点，储能板块业绩超预期的概率较高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpki4811071.d.html</link>
-            <guid>3162673</guid>
-            <pubDate>Mon, 03 Jul 2023 14:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股三大指数集体转跌】美股三大指数集体转跌，截至目前，道指跌0.11%，标普500指数跌0.06%，纳指跌0.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpki4810242.d.html</link>
-            <guid>3162672</guid>
-            <pubDate>Mon, 03 Jul 2023 14:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数跌至盈亏平衡水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpki4810032.d.html</link>
-            <guid>3162670</guid>
-            <pubDate>Mon, 03 Jul 2023 14:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工银瑞信基金：半导体板块的博弈还未完全落地】荷兰政府6月30日宣布了限制某些先进半导体制造设备出口的新规定。工银瑞信基金认为，总体上看，限制卡在2000i及以上型号符合市场预期，该法令的落地有利于国内晶圆厂制定下半年的扩产规划，为下半年板块的订单催化创造了条件。需要注意的是，路透社在6月29号的新闻也指出，美国可能在7月下旬加强荷兰公布的禁令力度，有可能要求6家大陆晶圆厂均需申请许可证，不考虑光刻机的型号在不在荷兰制定的监管范围之内，同时有可能加强去年10月发布的BIS半导体出口管制新规，该板块的博弈还未完全落地。]]></title>
-            <guid>3162669</guid>
-            <pubDate>Mon, 03 Jul 2023 14:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马自达6月北美汽车销量同比增长96.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpkf5814606.d.html</link>
-            <guid>3162668</guid>
-            <pubDate>Mon, 03 Jul 2023 14:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西方考虑放松部分制裁以换取俄延长黑海粮食外运协议】 英国《金融时报》3日披露，欧洲联盟正考虑以间接方式允许俄罗斯农业银行重新接入环球银行间金融通信协会(SWIFT)系统，从而促使俄方同意继续延长黑海港口农产品外运协议。据《金融时报》报道，欧盟正考虑一项方案，即俄罗斯农业银行成立一家子公司，后者接入环球银行间金融通信协会系统。就《金融时报》的报道，俄罗斯总统新闻秘书德米特里·佩斯科夫3日在记者会上说，在执行黑海农产品外运系列协议中相关俄方的内容方面，俄方没有消息要发布。他表示，协议继续延长的希望“不是很大”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpkm1586288.d.html</link>
-            <guid>3162666</guid>
-            <pubDate>Mon, 03 Jul 2023 14:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西农业部：巴西2022/23年度玉米总产量预计为1.323亿吨，而此前预测为1.274亿吨。]]></title>
-            <guid>3162665</guid>
-            <pubDate>Mon, 03 Jul 2023 14:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【易天股份：公司AMX系列微组装设备获得中国航天科技集团公司九院704所等客户认可】易天股份7月3日在互动平台回答投资者提问时表示，在光模块组装领域，微组半导体持续开发了AMX系列微组装设备，在精度和速度方面均持续提升，获得了中国航天科技集团公司九院704所、中航光电科技股份有限公司、西安微电子技术研究所等客户认可；同时，微组半导体也积极拓展索尔思光电、西安澳威激光等客户。在半导体微组装领域，微组半导体开发的探测器模块微组装生产线，在医疗器械断层扫描CT机生产工序中起到了重要的国产化替代作用，获得了航卫通用等客户的认可。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpki4809050.d.html</link>
-            <guid>3162664</guid>
-            <pubDate>Mon, 03 Jul 2023 14:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：密切监控约旦河西岸的局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmpki4808861.d.html</link>
-            <guid>3162663</guid>
-            <pubDate>Mon, 03 Jul 2023 14:33:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
