@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 03 Jul 2023 19:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 20:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：阿塞拜疆地区发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznefz4490913.d.html</link>
+            <guid>3162808</guid>
+            <pubDate>Mon, 03 Jul 2023 20:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：新西兰将与欧盟签署自由贸易协定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznehc1266892.d.html</link>
+            <guid>3162805</guid>
+            <pubDate>Mon, 03 Jul 2023 20:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国监管机构召集银行高管讨论储蓄率过低的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznefz4488132.d.html</link>
+            <guid>3162804</guid>
+            <pubDate>Mon, 03 Jul 2023 20:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷卡塔尔分行的私人银行家Aladdin Hangari料将和当地员工一起跳槽到汇丰控股等其他公司，凸显出中东地区财富管理业务竞争的激烈程度。]]></title>
+            <guid>3162798</guid>
+            <pubDate>Mon, 03 Jul 2023 19:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利政府计划在2023年底前提交锂法案】智利政府计划在2023年底前提交锂法案，该立法草案将有助于成立国家锂公司。智利政府计划在法案中简化锂许可程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznefz4482898.d.html</link>
+            <guid>3162795</guid>
+            <pubDate>Mon, 03 Jul 2023 19:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市板块选择增多，上半年科创板、创业板IPO受理数量同比减少】 6月最后一周，创业板密集受理68家公司的IPO申请，科创板也在6月最后两天集中受理27家公司的IPO申请。然而，上半年两板IPO受理总数同比均仍明显减少。截至6月30日，今年以来科创板受理企业数量为66家，去年同期为108家；创业板受理企业数量达到105家，去年同期则为180家。两板受理数量为去年同期的六成左右。有关投行专家表示，上半年科创板、创业板IPO受理数量减少的原因主要有两方面。一方面，全面注册制实施，部分公司存在向主板流动的倾向；另一方面，创业板对公司的“三创四新”等要求提高，部分拟申报创业板的公司不再符合板块定位。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznehc1259284.d.html</link>
+            <guid>3162793</guid>
+            <pubDate>Mon, 03 Jul 2023 19:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国2023年上半年企业破产申请数量增加了68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznefz4481210.d.html</link>
+            <guid>3162792</guid>
+            <pubDate>Mon, 03 Jul 2023 19:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达黄仁勋狂投AI，个个都是独角兽】据证券时报，去年年底至今，全世界掀起了AI投资的狂潮，作为AI芯片市场的绝对王者，英伟达挣得盆满钵满，市值也节节攀升。6月，Inflection AI、Cohere、Runway等多家AI独角兽企业先后官宣了新一轮募资的成果，英伟达均出现其中。除了投资类似OpenAI的独角兽企业，黄仁勋还“广撒网”，向艺术创意AI等细分领域的独角兽抛出橄榄枝。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyznefz4481089.d.html</link>
+            <guid>3162791</guid>
+            <pubDate>Mon, 03 Jul 2023 19:32:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国白宫：美国总统拜登提名Andrew Ferguso和Melissa Holyoak为联邦贸易委员会委员。]]></title>
             <guid>3162781</guid>
@@ -190,36 +237,6 @@ LME期锡收涨590美元，报27377美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsi1469698.d.html</link>
             <guid>3162708</guid>
             <pubDate>Mon, 03 Jul 2023 15:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利比亚石油部长声明：欢迎沙特决定延长其自愿减产100万桶/日原油的措施。沙特的决定对全球生产者、消费者之间的市场平衡以及全球经济产生了积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsi1468216.d.html</link>
-            <guid>3162704</guid>
-            <pubDate>Mon, 03 Jul 2023 15:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰寻求在冬季前储存147亿立方米天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsf4691047.d.html</link>
-            <guid>3162703</guid>
-            <pubDate>Mon, 03 Jul 2023 15:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.45%，报16074.64点。
-法国股指初步收跌0.12%，意大利股指初步收涨0.87%，英国股指初步收涨0.04%。]]></title>
-            <guid>3162696</guid>
-            <pubDate>Mon, 03 Jul 2023 15:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国肯塔基州要求电动车充电公司在申请补贴时须包括特斯拉北美充电标准】据相关文件显示，美国肯塔基州要求电动车充电公司在申请补贴时必须包括特斯拉北美充电标准。肯塔基州的计划于上周五生效，使其成为第一个强制要求使用特斯拉充电技术的州。此前得州和华盛顿州亦考虑过类似计划。据肯塔基州上周五对该州电动汽车充电计划的征求建议书，除了联邦政府对竞争对手联合充电系统(CCS)的要求外，肯塔基州还要求在充电站安装特斯拉被称为北美充电标准(NACS)的插头。文件称，每个端口必须配备一个SAE CCS 1连接器。且每个端口还应能够连接到配备符合北美充电标准（NACS）的充电端口的车辆并为其充电。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsm1804220.d.html</link>
-            <guid>3162692</guid>
-            <pubDate>Mon, 03 Jul 2023 15:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日产汽车第二季度在美国的销量为244,353辆，同比增长33.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyzmtsf4684589.d.html</link>
-            <guid>3162685</guid>
-            <pubDate>Mon, 03 Jul 2023 15:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
