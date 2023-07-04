@@ -4,13 +4,20 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Jul 2023 17:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 18:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[推特：浏览限制仅影响使用该平台的少部分用户。]]></title>
+            <title><![CDATA[【英国水务监管当局CEO：泰晤士水务公司需要大量资金 因业绩持续不佳且负债高企】英国水务监管当局首席执行官David Black说，不应该允许私有化的公用事业公司承担这么多债务，并警告说，泰晤士水务公司将需要超过10亿英镑(合12.7亿美元)才能扭亏为盈。该英国最大的水务公司已与考虑将其国有化的监管机构和政府官员举行了会谈，因为担心其130多亿英镑的债务成本不断上升。Black指责各个行业的监管机构在2000年代中期对债务采取了宽松的态度。他周二对英国上议院的一个委员会表示：“我们应该在那个时候介入，阻止企业增加债务。”他表示，尽管其他公司也需要筹集资金，但泰晤士水务公司的情况尤其严重，因为该公司“业绩持续不佳”，且“负债比率非常高”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzqaxf0458795.d.html</link>
+            <guid>3164090</guid>
+            <pubDate>Tue, 04 Jul 2023 18:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特：限制浏览措施对广告的影响微乎其微。
+每日浏览量上限措施仅对平台的一小部分用户造成影响。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzqaxf0451070.d.html</link>
             <guid>3164085</guid>
             <pubDate>Tue, 04 Jul 2023 17:21:02 GMT</pubDate>
@@ -423,23 +430,6 @@ ICE欧盟碳排放交易许可（期货价格）跌0.38%，报86.00欧元/吨。
             <title><![CDATA[法庭文件显示，俄罗斯天然气工业股份公司子公司对德意志银行和德商银行提起了总计310亿卢布的诉讼。]]></title>
             <guid>3163993</guid>
             <pubDate>Tue, 04 Jul 2023 14:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华侨银行：日本当局口头干预或只能减缓日元贬值】华侨银行经济学家认为，如果美元兑日元USD/JPY盘中再波动2-3日元，那么日本当局可能真的会采取行动。尽管如此，口头干预等行动可能只会减缓美元兑日元的上涨速度，特别是如果上升趋势保持不变的话。要想逆转美元兑日元的趋势，则需要市场动态发生变化，即美元转向或收益率差异缩小等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyzpwrc4551121.d.html</link>
-            <guid>3163990</guid>
-            <pubDate>Tue, 04 Jul 2023 14:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦交所集团：希望将更多的投资带到中国】据澎湃，7月4日，在伦敦证券交易所集团（LSEG）2023市场展望夏季论坛上，LSEG数据与分析业务大中华及北亚区董事总经理陈芳表示，伦交所集团希望能让境内外机构投资者能够更多地了解中国企业和产业，将更多的投资带到中国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-04/detail-imyzpwri0544036.d.html</link>
-            <guid>3163989</guid>
-            <pubDate>Tue, 04 Jul 2023 14:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据对冲基金公司Odey致投资者信，该公司旗下的Brook Developed Markets基金将自7月7日起结束暂停交易状态。]]></title>
-            <guid>3163988</guid>
-            <pubDate>Tue, 04 Jul 2023 14:21:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
