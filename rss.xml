@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 06 Jul 2023 20:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 21:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法拉第未来宣布一项特别股东大会补充提案 限制总股本增加】法拉第未来今天宣布一项特别股东大会补充提案，以限制公司的授权股份。董事会批准向即将到来的特别股东大会提交一个补充议案。之前披露的按1:2至1:90的比例对公司普通股进行反向股票分割的提议将保持现有授权股份数量不变，从而将总授权股数扩大到与反向股票分割相同的倍数。补充提案中，如果反向股票分割被批准并实施，公司新增授权股份总数将限制在反向分割后授权股份的6倍。公司预计将很快提交一份更新的初步代理文件，其中包括该限制授权股份提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-07/detail-imyzuztf5407689.d.html</link>
+            <guid>3167149</guid>
+            <pubDate>Thu, 06 Jul 2023 20:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[渤健（BIIB）美股盘后暂停交易，美国食品药品管理局（FDA）即将针对该公司阿尔茨海默症疗法做决定。]]></title>
+            <guid>3167148</guid>
+            <pubDate>Thu, 06 Jul 2023 20:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[L Catterton据称接触多家银行机构，寻求将Birkenstock美国IPO，预计将通过IPO获得超过60亿美元估值。]]></title>
             <guid>3167147</guid>
@@ -316,32 +327,6 @@
             <title><![CDATA[杜克能源公司在亚马逊公司位于美国肯塔基州的航空枢纽设立了公用事业规模的太阳能发电设施，装机容量约2兆瓦。]]></title>
             <guid>3167063</guid>
             <pubDate>Thu, 06 Jul 2023 16:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[失事深潜器“泰坦”号的拥有者海洋之门（Oceangate）公司宣布暂停所有业务，停止探险活动。]]></title>
-            <guid>3167059</guid>
-            <pubDate>Thu, 06 Jul 2023 16:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国伦敦地铁工会：将从7月23日起实施为期一周的滚动式罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-07/detail-imyzurce8154821.d.html</link>
-            <guid>3167054</guid>
-            <pubDate>Thu, 06 Jul 2023 16:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯表示，他理解以色列对其安全的合法关切，但升级局势不是解决办法。]]></title>
-            <guid>3167053</guid>
-            <pubDate>Thu, 06 Jul 2023 16:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯呼吁联合国安理会和关键潜在贡献国立即采取行动，为部署多国部队到海地创造条件。]]></title>
-            <guid>3167052</guid>
-            <pubDate>Thu, 06 Jul 2023 16:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司（EDF）将Dampierre-2核电站的停机时间延长1天至7月7日。]]></title>
-            <guid>3167050</guid>
-            <pubDate>Thu, 06 Jul 2023 16:33:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
