@@ -4,11 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 Jul 2023 13:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 14:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【律所合伙人：私募基金监管条例将推动行业合规稳健发展】7月9日，北京天驰君泰律师事务所合伙人、北京市律师协会公司法专业委员会副主任原森泰认为，此次《私募投资基金监督管理条例》的出台可以补足私募基金监管方面的短板，增加私募基金法律制度供给。《条例》一方面将近些年私募行业行政监管规则、政策和自律管理规则中的要求写入行政法规，提升规则效力层级别；另一方面，将《证券投资基金法》中只适用于私募证券投资基金的部分监管制度统一适用于所有类型私募基金；同时还完善了私募基金监管的一些基础性制度，必将推动私募基金行业合规稳健发展。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzachhf5749461.d.html</link>
+            <guid>3169400</guid>
+            <pubDate>Sun, 09 Jul 2023 14:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蓝盾转债将成为可转债历史上首只步入退市整理期的转债】自1992年中国宝安发行首只可转债以来，在我国可转债30多年的历史中，从未出现过可转债退市情形。这一纪录，被蓝盾转债打破。7月10日，蓝盾转债将步入退市整理期，这将是可转债历史上首只步入退市整理期的转债，30多年可转债零退市纪录由此被打破。连同蓝盾转债一起触及退市情形的还有搜特转债。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyi5878615.d.html</link>
+            <guid>3169399</guid>
+            <pubDate>Sun, 09 Jul 2023 14:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三超新材：硅棒磨倒一体机已进入最终的整机调试测试阶段】三超新材在互动平台表示，公司的硅棒磨倒一体机目前已经进入最终的整机调试测试阶段，试磨效果良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyi5877604.d.html</link>
+            <guid>3169398</guid>
+            <pubDate>Sun, 09 Jul 2023 14:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外长与俄罗斯外长就乌克兰局势和粮食协议进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyi5876758.d.html</link>
+            <guid>3169397</guid>
+            <pubDate>Sun, 09 Jul 2023 14:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外长与俄罗斯外长拉夫罗夫进行了电话交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyi5876673.d.html</link>
+            <guid>3169396</guid>
+            <pubDate>Sun, 09 Jul 2023 14:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄国防部：俄罗斯防空系统一昼夜击落10架乌克兰无人机】俄罗斯国防部新闻处9日表示，过去一昼夜，俄罗斯防空系统击落了10架乌克兰无人机。消息说：“一昼夜内，防空系统在顿涅茨克的奥尔林斯科耶、扎伊采沃、比得洛夫斯科耶和索列达尔、卢甘斯克的佐洛塔廖夫卡、普里沃利耶、达奇诺耶、赖霍罗德卡和科瓦列夫卡居民点地区摧毁了10架乌克兰无人机。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyf5708478.d.html</link>
+            <guid>3169395</guid>
+            <pubDate>Sun, 09 Jul 2023 13:57:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[埃及总统府：埃及将于7月13日举办苏丹邻国峰会。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaazyi5865811.d.html</link>
@@ -289,64 +325,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6060827.d.html</link>
             <guid>3169298</guid>
             <pubDate>Sun, 09 Jul 2023 08:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今天国际：上半年净利预增78.2%-96.96%】今天国际发布业绩预告，预计2023年半年度归母净利1.9亿元-2.10亿元，同比增长78.2%-96.96%。业绩增长的原因是上半年企业自动化数字化需求旺盛，报告期内公司完成实施并确认营业收入项目规模较上年同期有大幅度增加，同时报告期内公司加强成本管控，优化采购成本，公司综合毛利率水平提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkm5926305.d.html</link>
-            <guid>3169297</guid>
-            <pubDate>Sun, 09 Jul 2023 08:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【希腊米佐塔基斯政府赢得议会信任投票】据报道，希腊的保守派政府当地时间8日在议会赢得信任投票，将开始第二个四年任期，总理基里亚科斯·米佐塔基斯的新民主党两周前赢得选举。经过3天低调的辩论后，300名议员以158比142投票批准了政府的政策声明。结果并未出人意料，只有新民主党议员投票支持政府。报道称，米佐塔基斯的新民主党以40.56%的得票率赢得了6月25日的选举，激进左翼联盟赢得17.83%的选票，泛希腊社会主义运动赢得11.84%的选票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkr2837849.d.html</link>
-            <guid>3169296</guid>
-            <pubDate>Sun, 09 Jul 2023 08:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上期所副总经理李辉：航运指数期货方案设计和各项准备工作已基本完成，将采用人民币计价和结算】临港新片区举行首届滴水湖高能级航运服务业创新大会。上海期货交易所党委委员、副总经理李辉在会上表示，在各方大力支持下，航运指数期货方案设计和各项准备工作已基本完成。在计价货币方面，为丰富人民币应用场景，航运指数期货考虑将采用人民币作为计价和结算货币。（上证报）]]></title>
-            <guid>3169295</guid>
-            <pubDate>Sun, 09 Jul 2023 08:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因突发设备故障 京广高铁多趟列车晚点运行】据北京西站消息，7月9日15时左右，因突发设备故障，导致京广高铁G505、G89、G53次旅客列车晚点运行。铁路部门正在积极处置，由此给旅客带来的不便，铁路部门深表歉意。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6060234.d.html</link>
-            <guid>3169294</guid>
-            <pubDate>Sun, 09 Jul 2023 08:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中简科技：上半年净利预增8.33%-19.16%】中简科技发布业绩预告，预计2023年半年度归母净利2亿元-2.2亿元，同比增长8.33%-19.16%。报告期内，公司均衡组织排产，全力生产备货。一季度交付正常，二季度仅是受客户季度发货进度节奏影响，发生阶段性变化，产品交付进度环比一季度有所减缓。与客户确认后，公司全年供需总量未发生变化，公司按原计划均衡组织排产未发生变化，公司产能建设和生产组织未出现方向性和趋势性变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkt2041800.d.html</link>
-            <guid>3169293</guid>
-            <pubDate>Sun, 09 Jul 2023 08:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国天楹：签署3462万欧元垃圾焚烧发电厂设备销售合同】中国天楹公告，公司控股子公司欧洲天楹近日与Suez RV France就旗下新建的Novasteam垃圾焚烧发电厂有关焚烧炉及锅炉的工程设计、采购、施工、现场安装、启动和调试等事项签订了《Novasteam垃圾焚烧发电厂焚烧炉及锅炉设备销售合同》，合同总价为3462万欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6059960.d.html</link>
-            <guid>3169292</guid>
-            <pubDate>Sun, 09 Jul 2023 08:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天奇股份：与富奥股份签署合作备忘录】天奇股份公告，近日，公司与富奥股份签署合作备忘录，双方拟设立合资公司从事新能源汽车动力电池材料再生利用业务。如本次签署的合作备忘录能够顺利履行，将进一步扩大公司锂电池循环业务规模，加速公司锂电池循环业务的布局与发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6059118.d.html</link>
-            <guid>3169291</guid>
-            <pubDate>Sun, 09 Jul 2023 08:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[普利制药：公司注射用更昔洛韦（0.25 g）获得中国一致性评价的注册批件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkt2040943.d.html</link>
-            <guid>3169290</guid>
-            <pubDate>Sun, 09 Jul 2023 08:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【益生股份：6月白羽肉鸡苗销售收入2.13亿元 同比增48.94%】益生股份公告，公司6月白羽肉鸡苗销售数量6063.20万只，销售收入2.13亿元，同比变动分别为21.03%、48.94%，环比变动分别为-2.40%、-11.12%。益生909小型白羽肉鸡苗销售数量546.61万只，销售收入777.38万元，同比变动分别为29.95%、18.34%,环比变动分别为-22.19%、-19.18%。公司6月种猪销售数量120。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkr2835052.d.html</link>
-            <guid>3169289</guid>
-            <pubDate>Sun, 09 Jul 2023 08:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒生电子：蚂蚁集团所涉罚款预计对公司本年度财务报表无重大影响】恒生电子公告，公司获悉公司间接控股股东蚂蚁集团受到重大行政处罚。公司控股股东为杭州恒生电子集团有限公司（持股比例为20.72%），蚂蚁集团持有公司控股股东100%的股权。蚂蚁集团受到金融管理部门的行政处罚所涉及的罚款预计对公司2023年度财务报表无重大影响。]]></title>
-            <guid>3169286</guid>
-            <pubDate>Sun, 09 Jul 2023 08:13:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
