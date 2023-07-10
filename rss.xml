@@ -4,11 +4,76 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Jul 2023 20:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 21:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【ICE美元指数连跌三天】
+周一（7月10日）纽约尾盘，ICE美元指数跌下跌0.31%，连续第三个交易日下跌，报101.958点，日内交投区间为102.564-101.951点，为6月22日以来首次跌穿102.00。美元指数跌0.24%，报1223.84点，日内交投区间为1229.85-1223.54点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaax4579208.d.html</link>
+            <guid>3170880</guid>
+            <pubDate>Mon, 10 Jul 2023 21:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将在周三的北约峰会期间与乌克兰总统泽连斯基会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1356330.d.html</link>
+            <guid>3170879</guid>
+            <pubDate>Mon, 10 Jul 2023 21:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利铁路和航空系统将举行全国范围罢工】日前，意大利多家主要工会组织宣布，将分别于当地时间7月13日和15日在全国范围举行铁路和航空业罢工，要求企业雇佣更多员工，降低工作强度，更新劳动合同，提供更多工作保障。罢工期间，该国铁路和航空运输将会出现大面积取消的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaax4578022.d.html</link>
+            <guid>3170878</guid>
+            <pubDate>Mon, 10 Jul 2023 21:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.2294元，较上周五纽约尾盘涨30点，盘中整体交投于7.2491-7.2203元区间。]]></title>
+            <guid>3170877</guid>
+            <pubDate>Mon, 10 Jul 2023 21:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格林巴利综合征病例异常增加 秘鲁进入卫生紧急状态】秘鲁政府当地时间7月9日在《秘鲁官方公报》上宣布，由于格林巴利综合征病例异常增加，国家进入为期90天的卫生紧急状态。公报还称，2023年截至目前，秘鲁共报告了165例格林巴利综合征病例，其中有4例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1354838.d.html</link>
+            <guid>3170876</guid>
+            <pubDate>Mon, 10 Jul 2023 21:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特CEO Yaccarino：上周推特的单日使用量创下自2月份以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1353998.d.html</link>
+            <guid>3170873</guid>
+            <pubDate>Mon, 10 Jul 2023 21:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收跌0.54%，报42.1万点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1353442.d.html</link>
+            <guid>3170872</guid>
+            <pubDate>Mon, 10 Jul 2023 20:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北约、土耳其和瑞典发表联合声明】北约、土耳其和瑞典三方领导人当地时间7月10日会晤后发表联合声明。声明说，自上次北约峰会以来，瑞典和土耳其密切合作，解决土耳其的合理安全关切。作为这一进程的一部分，瑞典修改了宪法和法律，大幅扩大了针对库尔德工人党的反恐合作，并恢复了对土耳其的武器出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1352789.d.html</link>
+            <guid>3170870</guid>
+            <pubDate>Mon, 10 Jul 2023 20:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国首相苏纳克考虑将改组内阁的时间推迟到今年9月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1352781.d.html</link>
+            <guid>3170869</guid>
+            <pubDate>Mon, 10 Jul 2023 20:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：07月11日04时28分在波多黎各东南部背风群岛附近（北纬19.96度，西经61.11度）发生6.5级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3170868</guid>
+            <pubDate>Mon, 10 Jul 2023 20:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【头部大厂大幅调降硅片价格 未来或仍存下调空间】硅片作为光伏产业链的重要中间产品之一，价格再次下调的消息引发市场关注。硅片制造头部企业TCL中环7月9日公示最新单晶硅片价格，与上次（6月1日）公示价格相比，公司生产的150μm厚度的P型，130μm、110μm厚度的N型硅片价格均被调降，其中150μm/218.2/P型硅片报价4.07元/片，调降幅度约30%。记者以投资者身份致电TCL中环，其相关负责人表示，目前公司硅片产线正在按计划推进生产工作，此次价格下调主要是由于原材料硅料价格近期下调幅度较大，公司根据原料波动以及整体市场变化对硅片报价进行调整，“根据目前的市场需求情况来看，公司对于下半年光伏终端需求释放十分有信心。同时，虽然硅片价格有所下调，但是硅料价格下滑更甚，二者价差的扩大将对公司盈利产生积极影响。” (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaaz1352051.d.html</link>
+            <guid>3170866</guid>
+            <pubDate>Mon, 10 Jul 2023 20:27:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄总理：俄工业不会回到以前依赖进口发展的模式】 据新华网，俄罗斯总理米舒斯京10日在出席2023年俄罗斯国际创新工业展全体会议时表示，俄罗斯工业不会回到以前依赖进口发展的模式。俄罗斯需要在新的条件下提高生产的稳定性，尽量减少外部不利条件造成的影响。“这意味着有必要在所有关键行业中实现全面技术主权。”尽管受到制裁，但俄罗斯的工业生产仍在增长，增速也在加快。5月份俄加工制造业生产增长12.8%，汽车、冶金和化工等领域的生产增速也有所提升。俄罗斯加工制造业必须对制裁表现出更强的耐受力，为此各领域的竞争力必须达到更高水平。他还强调，俄政府不久前批准了有关国家技术发展构想，这将为机床制造、无线电、船舶与飞机制造、医药制品等重点领域发展提供强大动力。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahacc0242542.d.html</link>
@@ -34,7 +99,7 @@
             <pubDate>Mon, 10 Jul 2023 20:06:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rivian收涨3.3%，创下连涨9个交易日的纪录。]]></title>
+            <title><![CDATA[“特斯拉劲敌”Rivian Automotive（RIVN）收涨3.28%，连续九个交易日上涨，创该公司美国IPO以来最长连涨天数，报25.51美元，创2022年12月12日以来收盘新高。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzahaax4573359.d.html</link>
             <guid>3170852</guid>
             <pubDate>Mon, 10 Jul 2023 20:06:09 GMT</pubDate>
@@ -283,63 +348,6 @@ NYMEX 8月天然气期货收涨3.37%，报2.6690美元/百万英热单位。]]><
 不锈钢夜盘收涨0.88%。]]></title>
             <guid>3170784</guid>
             <pubDate>Mon, 10 Jul 2023 17:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德澳两国总理签署协议，澳将向德提供逾百辆装甲车】当地时间10日，德国总理朔尔茨在柏林会见到访的澳大利亚总理阿尔巴尼斯。两人重点就一系列双边、区域和国际问题进行了讨论。据悉，两国总理当天签署了一项原则协议。根据该协议，澳大利亚将向德国提供超过100辆“拳击手”多用途装甲车。阿尔巴尼斯称之为澳大利亚历史上规模最大的军备交易之一。朔尔茨在双边会晤结束后举办的新闻发布会上表示，德国在能源供应转型方面可以与澳大利亚展开更加密切的合作，双方计划将现有的能源伙伴关系拓展到“气候伙伴关系”。阿尔巴尼斯强调了欧盟和澳大利亚之间自由贸易协定的重要性。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpc4795567.d.html</link>
-            <guid>3170781</guid>
-            <pubDate>Mon, 10 Jul 2023 17:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理朔尔茨反对将瑞典入北约与土耳其入欧盟“挂钩”】当地时间10日，德国总理朔尔茨公开反对将瑞典加入北约与土耳其重启加入欧盟进程联系到一起。用他的话来说，这两个问题是无关的，因此不应该“将其融为一谈”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpc4795480.d.html</link>
-            <guid>3170780</guid>
-            <pubDate>Mon, 10 Jul 2023 16:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据冰岛国家广播公司（RUV）：冰岛雷克雅内斯半岛的火山开始喷发。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpc4794999.d.html</link>
-            <guid>3170779</guid>
-            <pubDate>Mon, 10 Jul 2023 16:57:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨2美元，报8372美元/吨。
-LME期铝收涨2美元，报2147美元/吨。
-LME期锌收跌9美元，报2353美元/吨。
-LME期铅收涨10美元，报20562美元/吨。
-LME期镍收涨215美元，报21014美元/吨。
-LME期锡收跌392美元，报27950美元/吨。]]></title>
-            <guid>3170778</guid>
-            <pubDate>Mon, 10 Jul 2023 16:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登抵达立陶宛参加北约峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpf1570477.d.html</link>
-            <guid>3170775</guid>
-            <pubDate>Mon, 10 Jul 2023 16:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德银：人民币汇率和波动性均将维持在相对稳定的水平】德意志银行集团中国区首席经济学家熊奕及团队近日联合发布研究报告，就今年下半年中国经济增长动力等进行前瞻分析。德银研究认为，人民币汇率和波动性均将维持在相对稳定的水平，人民币仍将是利于资产多元化的配置方向。熊奕认为，随着劳动力市场改善、信贷增长和房地产市场复苏，中国经济有望进一步复苏。为支持经济增长，预计政府将出台一系列宏观政策，以巩固市场信心。针对人民币资产价格波动，他表示，近期外汇市场出现的调整并未充分反映经济基本面的支撑因素，基于中国经济的增长预期，德银预计相关调整不会持续太久。（中国网）]]></title>
-            <guid>3170774</guid>
-            <pubDate>Mon, 10 Jul 2023 16:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长积极评价俄外贸银行行长建立新的全球结算系统的提议】俄罗斯外交部长拉夫罗夫积极评价了俄外贸银行行长科斯京关于建立新的全球结算系统的提议，认为此类提案属于“健康进程”。俄罗斯外贸银行行长科斯京早前提出建立一个新的国际结算和金融市场基础设施体系，具体措施有四点：建立可替代SWIFT的银行同业金融电讯交换系统、以当地银行之间的横向联系取代直接代理关系、另外成立国际托管结算中心、打造新的引资工具。科斯京指出，新的国际托管结算中心可在某个波斯湾国家成立。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpc4790408.d.html</link>
-            <guid>3170771</guid>
-            <pubDate>Mon, 10 Jul 2023 16:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟通过一项决定，要求美国对欧盟的个人数据提供足够保护】 当地时间7月10日，欧盟委员会通过了一项关于“欧盟-美国数据隐私框架协议”的决定，要求美国确保对从欧盟传输到美国公司的个人数据提供足够保护，达到与欧盟相当的保护水平，使得个人数据可以安全地从欧盟传输到参与该框架的美国公司，而无需采取额外的数据保护措施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpf1566808.d.html</link>
-            <guid>3170770</guid>
-            <pubDate>Mon, 10 Jul 2023 16:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元下跌0.5%，刷新6月21日以来盘中低点至141.42。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-11/detail-imzafrpf1565704.d.html</link>
-            <guid>3170766</guid>
-            <pubDate>Mon, 10 Jul 2023 16:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
