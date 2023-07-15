@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Jul 2023 20:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 21:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国联合航空与飞行员达成为期4年的初步劳工协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzavmtz3373250.d.html</link>
+            <guid>3177494</guid>
+            <pubDate>Sat, 15 Jul 2023 21:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月16日04时57分在新疆阿克苏地区沙雅县（北纬41.12度，东经83.56度）发生3.0级地震，震源深度19千米。]]></title>
+            <guid>3177493</guid>
+            <pubDate>Sat, 15 Jul 2023 21:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抗议结束后利比亚沙拉拉油田恢复生产】在本周早些时候关闭该设施的抗议者离开后，利比亚的沙拉拉油田正在逐步恢复生产。据悉，未来24小时内该油田产能可能会完全恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzavmtx6595164.d.html</link>
+            <guid>3177492</guid>
+            <pubDate>Sat, 15 Jul 2023 20:59:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：07月16日03时42分在新疆巴音郭楞州若羌县（北纬38.31度，东经89.34度）发生3.7级地震，震源深度10千米。]]></title>
             <guid>3177490</guid>
@@ -487,23 +504,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhm7133798.d.html</link>
             <guid>3177394</guid>
             <pubDate>Sat, 15 Jul 2023 10:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京解除大风蓝色预警信号】目前，本市大部分地区风力已减弱，北京市气象台今天18时15分解除大风蓝色预警信号。明天晴朗艳阳相伴，炎热天气持续，风力不大，最高气温上升到34℃左右，外出游玩还是要注意防暑防晒。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhm7133598.d.html</link>
-            <guid>3177393</guid>
-            <pubDate>Sat, 15 Jul 2023 10:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁波市级房票政策即将落地实施】经宁波市住建局，经市级部门和属地政府多方筹备，宁波市住建局、市资规局联合印发《宁波市房屋征收安置房票实施办法（试行）》，宁波市住建局、市资规局、市财政局联合发布《关于进一步深化宁波市房屋征收安置房票实施办法（试行）有关事项的通知》，市级房票政策即将落地实施。房票是专门发给选择货币补偿的被征迁人的，选择产权调换的被征迁人与房票无关。（宁波发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhp3910119.d.html</link>
-            <guid>3177392</guid>
-            <pubDate>Sat, 15 Jul 2023 10:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰国家边防局称将密切监视白俄罗斯境内瓦格纳集团人员动向】据乌克兰媒体15日报道，乌克兰国家边防局发言人安德烈·德姆琴科当天证实，瓦格纳集团的一些人员抵达了白俄罗斯。他表示乌边防部队将密切监视其在白俄罗斯的行动。德姆琴科表示，截至目前的情报显示，瓦格纳集团的一些人员正从俄罗斯转移到白俄罗斯境内。乌克兰方面会继续关注事态发展，进一步获得这些人员在白俄罗斯的人数、具体驻扎地点以及将执行何种任务等信息。（央视新闻）]]></title>
-            <guid>3177391</guid>
-            <pubDate>Sat, 15 Jul 2023 10:16:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
