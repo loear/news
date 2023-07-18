@@ -4,11 +4,135 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 18 Jul 2023 22:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 23:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【恒大自揭老底：日均亏11亿，11万员工人均月薪两千】深陷债务危机后，降薪、裁员也成为恒大员工逃不过的宿命。 业绩报告显示，截至2021年6月底，恒大共有163119名员工，付出的薪酬达到142.2亿元，人均薪酬为87053元。到了2022年6月底，恒大共有112430名员工，与上一年同期减少了50689人，付出的薪酬也仅28.7亿元，人均薪酬仅25527元，一年间平均月薪从7254元降至2127元。 据多家媒体报道，从2021年下半年开始，恒大多地城市公司给员工停工留职，只发最低工资。 （棱镜）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0577748.d.html</link>
+            <guid>3180683</guid>
+            <pubDate>Tue, 18 Jul 2023 23:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【到本世纪末地表水污染或影响55亿人】《自然·水》最新发表的一项建模研究显示，到2100年，地表水污染可能会影响到55亿人，具体取决于气候和社会经济场景以及污染类型。研究结果指出，到本世纪末，无论未来是哪种气候和社会经济场景，撒哈拉以南非洲可能都会成为全球新的地表水污染热点地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifc7354398.d.html</link>
+            <guid>3180682</guid>
+            <pubDate>Tue, 18 Jul 2023 23:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日4只新股上市：创业板苏州规划，科创板航材股份、埃科光电，北交所豪声电子】今日共有4只新股上市，分别为创业板的苏州规划，科创板的航材股份、埃科光电，北交所的豪声电子。苏州规划发行价26.35元/股，发行市盈率29.98倍，公司主营以规划设计与工程设计为核心业务，致力于为政府及各类开发建设主体提供精准有效并兼具操作性的城市规划建设解决方案。航材股份发行价78.99元/股，发行市盈率80.34倍，公司从事航空、航天用部件及材料研发、生产和销售。埃科光电发行价73.33元/股，发行市盈率85.36倍，公司主营工业机器视觉成像部件产品设计、研发、生产和销售。豪声电子发行价8.8元/股，发行市盈率14.99倍，公司主营微型电声元器件以及音响类电声产品的研发、生产和销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifc7354031.d.html</link>
+            <guid>3180680</guid>
+            <pubDate>Tue, 18 Jul 2023 23:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人工智能产业持续火热，85家上市公司预计上半年盈利】截至7月18日收盘，A股已有144家人工智能上市公司披露2023年中报业绩预告。其中，85家预计上半年盈利，占比达六成，59家预计亏损。目前，多家上市公司已在大模型、算法等方面进行布局，但相关项目还尚未实现业绩兑现。而在产业链上游的光模块、精密智造零部件、材料等领域布局并具备较强自给能力的公司，以及在AR/VR智能眼镜业务、智能机器人领域实现规模商业化的上市公司，普遍预计上半年净利润高增长。（证券日报）]]></title>
+            <guid>3180679</guid>
+            <pubDate>Tue, 18 Jul 2023 23:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【补贴政策密集出炉 汽车消费潜力有望进一步释放】记者注意到，进入下半年，多地政府推出不少举措促进汽车消费。业内人士表示，汽车出口的良好表现有效拉动市场增长。伴随地方新一轮汽车消费补贴政策密集出炉，汽车消费潜力将进一步释放，有助于推动行业全年实现稳健增长。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0576536.d.html</link>
+            <guid>3180678</guid>
+            <pubDate>Tue, 18 Jul 2023 23:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市公司扎堆布局异质结电池】 据中证报，记者注意到，近期，多家公司披露异质结组件订单情况，市场开拓加速推进。业内人士表示，当前制约异质结技术产业化的核心因素是成本太高，包括浆料成本、靶材成本、设备成本等。若降本措施超预期落地，异质结技术产业化进程将大幅加快。目前，头部企业已进入规模化生产阶段并具备批量供货能力，预计2023年国内高效异质结电池出货量有望达到15GW。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifc7353637.d.html</link>
+            <guid>3180677</guid>
+            <pubDate>Tue, 18 Jul 2023 23:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发行节奏加快 可转债市场稳步扩容】 截至7月18日，本周共有8只可转债发行，7月18日当天就有4只发行，可转债市场出现近年来罕见的高频发行节奏。业内人士预计，本周可转债累计发行规模将超过140亿元，有望创出2023年以来周度发行规模新高。可转债市场稳步扩容，丰富了投资标的，下半年投资机会值得期待。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceiex3159926.d.html</link>
+            <guid>3180676</guid>
+            <pubDate>Tue, 18 Jul 2023 23:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【16家A股券商上半年净利润预增 板块估值水平处于历史底部】 据中证报，上半年业绩预喜券商持续增加。截至记者发稿，已有17家A股上市券商披露2023年上半年业绩快报或预告，16家券商报告期内实现归母净利润同比增长或扭亏。业内人士表示，券商板块估值水平和机构配置处于历史底部，建议把握低估值头部券商布局机遇。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0575915.d.html</link>
+            <guid>3180675</guid>
+            <pubDate>Tue, 18 Jul 2023 23:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美首例机器人肝移植手术成功】美国圣路易斯华盛顿大学医学院的一个外科团队，今年5月完成了美国第一例机器人肝脏移植手术。术后一个月，患者不仅行走自如，还恢复了一定的运动能力。此次成功意味着微创机器人手术的优势扩展到了肝脏移植领域，可实现更小切口、更少疼痛和更快恢复，并且具备最有挑战性的腹部手术之一所需的精确度。]]></title>
+            <guid>3180673</guid>
+            <pubDate>Tue, 18 Jul 2023 23:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京警方严打有偿带客进高校参观 北京32名黄牛黑导游等违法人员被拘】7月18日，记者从北京海淀警方获悉，针对近期相关高校开放校园参观出现的“有偿”带客入校等违法行为，海淀警方加大整治力度，夏季治安打击整治行动开展以来，在辖区各热门景点、公园、高校等场所，共行政拘留“黄牛”、“黑导游”、无照游商等相关违法人员32名。 （北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0575645.d.html</link>
+            <guid>3180672</guid>
+            <pubDate>Tue, 18 Jul 2023 23:08:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报：构建农产品出村进城冷链物流网络】 人民日报刊发评论文章，我国冷链物流基础设施存在东多西少、销地多产地少等现象，产地“最先一公里”存在短板。对此，需要合理集中建设一批田头冷藏保鲜设施及商品化处理配套设施设备，满足田头预冷、冷藏需求。以广西推进农产品产地冷藏保鲜设施建设为例，截至2022年底，当地实际开工建设仓储保鲜设施1480个，建成仓储库容约77万立方米，有力保障全年寄出水果等特产2亿箱，带动产值100亿元。此外，还有必要围绕重要流通节点支持建设一批具有产地预冷、仓储保鲜、分拣分级、初加工、产地直销等综合服务能力的产地冷链集配中心，满足产地多层次冷链物流服务需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0575459.d.html</link>
+            <guid>3180671</guid>
+            <pubDate>Tue, 18 Jul 2023 23:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大位于太平洋沿岸各大港口的码头工人拒绝关于结束罢工的协议，工人将于当地时间周二恢复罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0574810.d.html</link>
+            <guid>3180669</guid>
+            <pubDate>Tue, 18 Jul 2023 23:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本7月短观制造业景气判断指数为3，前值为8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifc7351645.d.html</link>
+            <guid>3180668</guid>
+            <pubDate>Tue, 18 Jul 2023 23:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本大型制造商情绪指数在7月份为3，较6月份的8有所下降，六个月来首次出现下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifc7351347.d.html</link>
+            <guid>3180667</guid>
+            <pubDate>Tue, 18 Jul 2023 23:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股票私募仓位指数连续两周站上80％ 多家百亿元级私募机构看好后市】数据显示，截至7月7日，股票私募仓位指数为80.25％，虽然较此前一周小幅下降0.57％，但这已经是股票私募仓位指数连续2周站上80％。具体来看，百亿元级股票私募满仓占比为63.33％，中等仓位的占比为27.89％；低仓位的仅为8.78％，而空仓位的占比为零。多家百亿元级私募表示，机构投资者普遍对后市行情持乐观预期。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0573908.d.html</link>
+            <guid>3180666</guid>
+            <pubDate>Tue, 18 Jul 2023 22:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国官员：黑海港口农产品外运协议失效将加剧东非粮食短缺】据央视新闻，当地时间18日，世界粮食计划署东非地区负责人迈克尔·邓福德表示，黑海港口农产品外运协议的失效将加剧当前东非地区粮食短缺的严重局面。邓福德表示，因地区冲突、气候、经济等多种因素影响，东非地区有约8000万人面临粮食严重短缺的局面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0573425.d.html</link>
+            <guid>3180665</guid>
+            <pubDate>Tue, 18 Jul 2023 22:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元2年期利率互换在第二季度CPI数据发布后上涨了3个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0572180.d.html</link>
+            <guid>3180661</guid>
+            <pubDate>Tue, 18 Jul 2023 22:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD短线走高20点，最高至0.6311，新西兰CPI放缓速度低于预期。]]></title>
+            <guid>3180660</guid>
+            <pubDate>Tue, 18 Jul 2023 22:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第二季度CPI环比增长6%，预期增长5.90%，前值增长6.70%；新西兰第二季度CPI环比增长1.1%，预期增长1%，前值增长1.20%。]]></title>
+            <guid>3180659</guid>
+            <pubDate>Tue, 18 Jul 2023 22:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：美国扩大伊拉克向伊朗支付电费的款项渠道】外媒援引消息人士的话报道称，美国官员表示，美国国务卿布林肯签署豁免令，将允许伊拉克向伊朗支付电费的豁免时间延长120天；同时扩大豁免范围，允许伊拉克将支付伊朗电费的款项存入非伊拉克银行。美国官员希望豁免令将削弱伊朗从伊拉克获取资金的压力，之前这些资金只能存入伊拉克的受限账户。(第一财经)]]></title>
+            <guid>3180658</guid>
+            <pubDate>Tue, 18 Jul 2023 22:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[力拓二季度皮尔巴拉铁矿石产量8130万吨。
+二季度皮尔巴拉铁矿石发货量7910万吨。
+二季度铜矿产量13.02万吨，分析师预期14.2149万吨。
+维持全年皮尔巴拉部门成本预期在每吨21.00-22.50美元不变。
+预计全年铜产量16万-19万吨。]]></title>
+            <guid>3180654</guid>
+            <pubDate>Tue, 18 Jul 2023 22:28:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本转嫁核污染风险违反国际法】近段时间，日本政府不顾国内外强烈反对，执意推进福岛核污染水排海。为营造“无害”假象，日本政府将国际原子能机构发布的评估报告奉若至宝，企图将其包装成排海“护身符”。此举引起国际社会更为强烈的质疑和反对。日方为一己私利，置人类健康安全于不顾，与国际公约背道而驰，无论如何处心积虑地编造说辞，都“洗白”不了其转嫁核污染风险的错误决定。（经济日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceifa0567416.d.html</link>
@@ -204,90 +328,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzceaxi4929002.d.html</link>
             <guid>3180585</guid>
             <pubDate>Tue, 18 Jul 2023 19:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资逾2000亿元 光伏巨头向“上”扩产补短板】统计发现，截至7月18日，今年以来光伏组件五大巨头阿特斯、隆基绿能、晶科能源、天合光能、晶澳科技通过投资协议、募资预案等披露的扩产计划总投资额已超过2000亿元，四大光伏生产环节合计扩张产能约1000GW。其中，硅棒、切片、电池等产业中上游环节的投资计划，明显多于下游的组件环节。五大巨头原有业务主要在下游电池、组件方面，这一数据体现出它们向上游“补短板”的倾向。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwri7575372.d.html</link>
-            <guid>3180582</guid>
-            <pubDate>Tue, 18 Jul 2023 18:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（7月18日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.94%，报240.50欧元/吨。
-油菜籽期货涨1.31%，报482.00欧元/吨。]]></title>
-            <guid>3180580</guid>
-            <pubDate>Tue, 18 Jul 2023 18:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国银行CEO：通胀正在得到控制】美国银行CEO表示，通胀正在得到控制；仍预计2024年美国会出现经济衰退，但幅度将较小、且持续时间较短；交易渠道将保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0797783.d.html</link>
-            <guid>3180575</guid>
-            <pubDate>Tue, 18 Jul 2023 18:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建设支出激增 美国制造业“超级周期”要来了？】据上证报，今年以来，美国制造业建设支出显著增长，市场对美国制造业是否正酝酿新一轮“超级周期”猜测不断。美国联邦储备经济数据（FRED）显示，今年5月美国制造业建设支出季调后折年数升至1943亿美元，显著高于历史同期值。市场对这一领先指标十分关注，预期建设支出的上升将促进至后续产能和产出的增长。也因此，“美国正处于制造业超级周期早期阶段”的观点甚嚣尘上。分析人士表示，近期美国制造业建设支出的激增主要是由计算机、电子和电气行业拉动，其主因是受《芯片与科学法案》等产业政策推动，美国制造业能否进入“超级周期”还有待观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0797740.d.html</link>
-            <guid>3180574</guid>
-            <pubDate>Tue, 18 Jul 2023 18:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多部门推出组合政策促家居焕新消费】受多重因素影响，家电、家具、家装等家居消费上半年表现较疲弱，限额以上单位的家电、家具零售额同比增长1.0%和3.8%，建材的零售额同比下降6.7%。近日，商务部等13个部门印发了《关于促进家居消费的若干措施》（下称《若干措施》）。在7月18日举行的国务院政策例行吹风会上，多部门解读相关政策，并提出了下一步的部署。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwri7574619.d.html</link>
-            <guid>3180571</guid>
-            <pubDate>Tue, 18 Jul 2023 18:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股奈飞盘中涨超5%】美股奈飞盘中上涨5.05%，现报472.794美元，当前市值为2101.76亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0797241.d.html</link>
-            <guid>3180569</guid>
-            <pubDate>Tue, 18 Jul 2023 18:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 8月原油期货收涨1.60美元，涨幅2.16%，报75.75美元/桶。
-NYMEX 8月天然气期货收涨4.66%，报2.6290美/百万英热单位。]]></title>
-            <guid>3180564</guid>
-            <pubDate>Tue, 18 Jul 2023 18:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉表示将于12月与德国总理朔尔茨会面，讨论工业投资和可再生能源问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwri7572496.d.html</link>
-            <guid>3180563</guid>
-            <pubDate>Tue, 18 Jul 2023 18:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西钢铁协会：巴西的钢铁出口预计在2023年下降0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrm5056375.d.html</link>
-            <guid>3180557</guid>
-            <pubDate>Tue, 18 Jul 2023 18:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西钢铁协会：巴西钢铁消费量预计在2023年将下降2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0790552.d.html</link>
-            <guid>3180555</guid>
-            <pubDate>Tue, 18 Jul 2023 18:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国与印度透露双方将在清洁能源领域开展深入合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0790381.d.html</link>
-            <guid>3180554</guid>
-            <pubDate>Tue, 18 Jul 2023 18:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西钢铁协会：巴西2023年上半年钢铁产量下降8.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwri7566636.d.html</link>
-            <guid>3180553</guid>
-            <pubDate>Tue, 18 Jul 2023 17:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰电网运营商Ukrenergo将获得2.4亿美元援助】乌克兰电网运营商Ukrenergo的CEO在社交媒体上表示，该公司与西方捐助者签署了一项协议，将获得2.4亿美元的赠款。这笔资金包括德国政府提供的赠款，用于加强乌克兰输电系统的稳定运行，以及修复在俄罗斯空袭中受损的设备。这些援助旨在帮助乌克兰度过2023年至2024年的寒冷季节。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-19/detail-imzccwrh0789309.d.html</link>
-            <guid>3180551</guid>
-            <pubDate>Tue, 18 Jul 2023 17:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 8月黄金期货收涨1.25%，报1980.80美元/盎司，最高触及1978.40美元。
-COMEX 10月黄金期货收涨1.23%，报1999.8美元/盎司，最高触及2006.80美元。]]></title>
-            <guid>3180549</guid>
-            <pubDate>Tue, 18 Jul 2023 17:47:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
