@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 19 Jul 2023 20:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 21:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国共和党总统提名候选人克里斯蒂：通胀削减法案是一个错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6434107.d.html</link>
+            <guid>3181913</guid>
+            <pubDate>Wed, 19 Jul 2023 21:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（7月19日）纽约尾盘，标普500股指期货最终上涨0.21%，道指期货涨0.28%，纳斯达克100股指期货跌0.20%。]]></title>
+            <guid>3181911</guid>
+            <pubDate>Wed, 19 Jul 2023 21:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辉瑞：确认公司在美国北卡罗来纳州Rocky Mount市的生产设施因龙卷风而损毁，同时确认没有人员因此严重受伤。]]></title>
+            <guid>3181910</guid>
+            <pubDate>Wed, 19 Jul 2023 21:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌0.95%，报1982.88点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6431323.d.html</link>
+            <guid>3181908</guid>
+            <pubDate>Wed, 19 Jul 2023 20:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：制药公司辉瑞位于美国北卡罗来纳州的工厂遭龙卷风严重破坏。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6431051.d.html</link>
+            <guid>3181906</guid>
+            <pubDate>Wed, 19 Jul 2023 20:52:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏丹外交部：苏丹冲突双方停火谈判出现积极迹象】当地时间7月19日，苏丹外交部表示，苏丹武装部队与快速支援部队目前在沙特吉达进行的停火谈判出现了积极迹象，双方有望在未来几天签署长期停火协议。但苏丹外交部同时表示，快速支援部队从目前占据的民用基础设施和私人住宅内撤出，并释放扣押的无辜平民和苏丹武装部队被俘人员，是双方谈判成功的先决条件。(央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6425278.d.html</link>
@@ -16,10 +44,12 @@
             <pubDate>Wed, 19 Jul 2023 20:19:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国铝业二季度调整后每股亏损0.35美元，分析师预期亏损0.48美元。
+            <title><![CDATA[【美国铝业二季度销售额26.8亿美元 分析师预期26.9亿美元】
+ 美国铝业二季度调整后每股亏损0.35美元，分析师预期亏损0.48美元。
 二季度销售26.8亿美元，分析师预期 26.9亿美元。
 二季度调整后EBITDA为1.37亿美元，分析师预期1.58亿美元。
 维持全年铝发货量预期在250万-260万吨不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9647876.d.html</link>
             <guid>3181899</guid>
             <pubDate>Wed, 19 Jul 2023 20:18:01 GMT</pubDate>
         </item>
@@ -27,12 +57,6 @@
             <title><![CDATA[拉斯维加斯金沙（LVS）二季度EPS为0.41美元，分析师预期0.38美元。二季度净营收25.4亿美元，分析师预期23.6亿美元。]]></title>
             <guid>3181896</guid>
             <pubDate>Wed, 19 Jul 2023 20:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奈飞(NFLX.O)美股盘后下跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9645370.d.html</link>
-            <guid>3181895</guid>
-            <pubDate>Wed, 19 Jul 2023 20:03:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美联航二季度调整后EPS为5.03美元，分析师预期3.99美元。]]></title>
@@ -297,47 +321,6 @@ COMEX 10月黄金期货大致收平，报1999.90美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqf9859303.d.html</link>
             <guid>3181812</guid>
             <pubDate>Wed, 19 Jul 2023 16:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红杉资本高层改组 两名合伙人离职】红杉资本对其高层进行了改组，这是该公司领导人Roelof Botha在动荡时期重塑这家传奇风投公司的最新迹象。红杉资本发言人证实，该公司周三对有限合伙人表示，长期合伙人Michael Moritz将离开公司，专注于公司独立的财富管理业务——红杉传承基金（Sequoia Heritage）。与此同时，据一位知情人士透露，自2016年以来一直在该公司工作、专注于早期创业公司的合伙人Mike Vernal也将离开该公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqi6636370.d.html</link>
-            <guid>3181811</guid>
-            <pubDate>Wed, 19 Jul 2023 16:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉第未来(FFIE.O)延续跌势，现跌逾5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqf9858338.d.html</link>
-            <guid>3181810</guid>
-            <pubDate>Wed, 19 Jul 2023 16:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台商座谈会在广东东莞举行】 中共中央台办、国务院台办19日在广东省东莞市台资企业协会举办东莞台商座谈会。全国台企联荣誉会长郭山辉、东莞台商协会会长陈宏钦等台商代表参加。中共中央台办、国务院台办主任宋涛在座谈会上表示，大陆经济发展势头好、空间大，广大台商台企要坚定信心、把握机遇、积极应变，实现更快更好发展。当前台海形势复杂严峻，希望广大台胞台商坚定支持体现一个中国原则的“九二共识”，坚决反对“台独”分裂行径和外部势力干涉，推动两岸关系和平发展，推进祖国统一进程。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqf9858275.d.html</link>
-            <guid>3181809</guid>
-            <pubDate>Wed, 19 Jul 2023 16:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉第未来(FFIE.O)跌幅扩大至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqf9857118.d.html</link>
-            <guid>3181806</guid>
-            <pubDate>Wed, 19 Jul 2023 16:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：红杉资本合伙人Mike Vernal离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqf9857055.d.html</link>
-            <guid>3181805</guid>
-            <pubDate>Wed, 19 Jul 2023 16:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国加州公务员退休基金 （CalPERS）净值在过去财年增长5.8%，受股市与私募债券投资收益推动。]]></title>
-            <guid>3181803</guid>
-            <pubDate>Wed, 19 Jul 2023 16:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，美国制裁14家伊拉克银行，以打击伊朗美元交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzcfzqi6633546.d.html</link>
-            <guid>3181802</guid>
-            <pubDate>Wed, 19 Jul 2023 16:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
