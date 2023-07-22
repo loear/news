@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Jul 2023 18:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 19:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【霍尔果斯公路口岸出入境车辆突破10万辆次】据新疆出入境边防检查总站霍尔果斯出入境边防检查站提供的数据显示，2023年1月1日至7月21日，该口岸出入境车辆突破10万辆次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcik0540624.d.html</link>
+            <guid>3185144</guid>
+            <pubDate>Sat, 22 Jul 2023 18:49:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据猫眼数据，电影《八角笼中》上映18天 ，总票房破18亿。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzn0662369.d.html</link>
@@ -427,12 +433,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqhcu0977025.d.html</link>
             <guid>3184929</guid>
             <pubDate>Sat, 22 Jul 2023 10:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚总统鲁托会见王毅】当地时间2023年7月22日，肯尼亚总统鲁托在内罗毕会见在肯访问的中共中央政治局委员、中央外办主任王毅。王毅表示，双方要加强两国领导人的战略引领，增强政治互信，密切政府、政党等各领域交流。中方坚定支持肯方维护主权独立和民族尊严，支持肯方打击恐怖主义，支持肯方走符合自身国情的发展道路。中方愿结合共建“一带一路”和落实全球发展倡议、中非合作论坛“九项工程”，同肯方积极推进铁路、公路、航空、信息等领域合作，助力肯经济社会发展，促进非洲一体化建设。中方愿同肯方共同践行多边主义，维护联合国在国际事务中的核心作用和发展中国家共同权益，推进落实“非洲之角和平发展构想”，维护地区和平与发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqhcu0975655.d.html</link>
-            <guid>3184928</guid>
-            <pubDate>Sat, 22 Jul 2023 10:46:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
