@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Jul 2023 20:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 21:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【三地推进交通运输电子证照共享互认】北京、天津、河北近日联合印发《关于进一步推进京津冀交通运输电子证照共享互认的通知》和《关于推出京津冀交通运输领域首批“同事同标”事项的通知》，共同推进京津冀交通运输电子证照共享互认，推动京津冀政务服务事项“同事同标”，全链条优化政务服务，更便捷服务京津冀以及周边地区广大交通运输行业企业和从业人员生产经营，为区域经济协同发展提供有力交通运输支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrirh0428911.d.html</link>
+            <guid>3185149</guid>
+            <pubDate>Sat, 22 Jul 2023 21:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊罗得岛火势难控 20余艘船只协助疏散人员】近日，希腊境内发生多起森林火灾。据法新社22日报道，有20多艘船只加入紧急疏散行动，协助官方从希腊旅游胜地罗得岛上疏散人员。]]></title>
+            <guid>3185148</guid>
+            <pubDate>Sat, 22 Jul 2023 20:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年江苏外贸进出口总值2.48万亿】据南京海关统计，今年上半年江苏外贸进出口总值2.48万亿元，占同期我国进出口总值的12.4%。统计数据显示，今年上半年江苏民营企业进出口明显增长，进出口1.08万亿元，增长6.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcih3778321.d.html</link>
+            <guid>3185147</guid>
+            <pubDate>Sat, 22 Jul 2023 20:26:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国休斯敦市发生枪击事件 致1死4伤】当地时间7月22日，美国得克萨斯州休斯敦市一个公园发生一起枪击案，导致一名孕妇死亡，另有4人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcih3772700.d.html</link>
@@ -429,11 +446,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqhcu0980048.d.html</link>
             <guid>3184936</guid>
             <pubDate>Sat, 22 Jul 2023 11:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲准备迎接新一轮热浪，希腊面对高温和野火肆虐】近日，欧洲多地气温创新高，未来几天还将迎来新一轮热浪。希腊本周末也将迎来更加炎热的天气，气象学家称这可能会成为希腊50年来最热的7月周末。与此同时，希腊还有多处野火尚未被扑灭，法国、意大利等国已派消防飞机前往支援。据法新社援引希腊气象学家吉安诺普洛斯的预测称：“本周末可能是过去50年来最热的7月周末。”他补充说，直到7月底，雅典的气温将持续六到七天高于40摄氏度。]]></title>
-            <guid>3184932</guid>
-            <pubDate>Sat, 22 Jul 2023 10:59:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
