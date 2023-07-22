@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Jul 2023 17:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 18:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据猫眼数据，电影《八角笼中》上映18天 ，总票房破18亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzn0662369.d.html</link>
+            <guid>3185142</guid>
+            <pubDate>Sat, 22 Jul 2023 17:46:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【莫斯科市长称购物中心热水管爆裂重大事故已造成4死70伤】据今日俄罗斯电视台（RT）网站22日报道，莫斯科市长索比亚宁当天表示，莫斯科市一购物中心发生热水管爆裂的“重大事故”，已造成4人死亡，至少70人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzk3876018.d.html</link>
@@ -427,22 +433,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqhcu0975655.d.html</link>
             <guid>3184928</guid>
             <pubDate>Sat, 22 Jul 2023 10:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度一周内两位农民因西红柿被杀 一被害者生前曾通过出售西红柿赚了300万卢比】近期，印度西红柿价格飙涨超过400%，不仅加重民众生活负担，甚至引发了命案。据印度媒体18日报道，短短七天内就有两名农民被杀害。第一起案件发生在7月13日，种植番茄的62岁农民疑似因抢劫未遂被杀。被害者生前曾通过出售西红柿赚了300万卢比，约合人民币26万元。紧接着是16日，一位保护西红柿菜地的农民被勒死。接连两起命案引起人们担忧，已有蔬菜店为西红柿摊位配备了保镖。（央视）]]></title>
-            <guid>3184927</guid>
-            <pubDate>Sat, 22 Jul 2023 10:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州启动防汛IV级应急响应】7月22日中午起，杭州市出现了大范围雷阵雨天气，局地出现短时暴雨。据气象预报，预计今天傍晚到夜里全市大部分地区仍有阵雨和雷雨，局地大暴雨。目前，杭州市多地发布暴雨红色预警信号，根据《杭州市防汛防台抗旱应急预案》，市防指决定于7月22日18时启动防汛IV级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqhcu0974876.d.html</link>
-            <guid>3184926</guid>
-            <pubDate>Sat, 22 Jul 2023 10:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首个海洋油气全生命周期智能装备制造基地开建】我国首个海洋油气全生命周期智能装备制造基地奠基仪式在天津市滨海新区临港经济区举行，建成后将首次实现我国海洋油气装备从设计、制造、运行到检测、维保全生命周期的智能生产运营，标志着我国海洋油气核心装备制造及运维行业向数字化、智能化、低碳化发展迈出了关键一步。]]></title>
-            <guid>3184925</guid>
-            <pubDate>Sat, 22 Jul 2023 10:38:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
