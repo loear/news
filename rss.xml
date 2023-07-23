@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 23 Jul 2023 18:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 19:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【投资人直呼经历“从业以来最难一年” 创投市场等待回暖】“现在做投资实在太难了，太难了，募资难、投资难、退出难，难于上青天。”在7月21日长江独角兽峰会上，梅花创投创始合伙人吴世春一连说了六个难，道出当下创投的困境。据清科近日发布的股权投资市场数据，2023年上半年，国内投资金额下降42%，投资案例数下降了37.5%，“估计是最近20年下降最多的一次”，清科集团创始人、董事长倪正东在发布数据时提到。吴世春表示，风险投资人目前的出手更加谨慎和保守，导致创业者觉得募资、融资难，整个市场来到了冰点，“可以说是从业这么多年来最难的一年”。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-24/detail-imzcthhi9474754.d.html</link>
+            <guid>3185471</guid>
+            <pubDate>Sun, 23 Jul 2023 18:23:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上半年县域消费崛起：新开影院近四成在县城】近年来随着县域经济的发展，县城消费加快崛起，引领县域消费扩容和升级。包括电影院线、品牌咖啡店、奶茶店等纷纷布局县城市场。在新开影院方面，数据统计显示，上半年新开影院合计达391家，其中位于县城（包括经济大镇，不包括地区、州、盟所在地的县域）约有150家，占总数的38.4%，占比接近四成。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-24/detail-imzcthhi9468511.d.html</link>
@@ -505,18 +511,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcsmat9897966.d.html</link>
             <guid>3185372</guid>
             <pubDate>Sun, 23 Jul 2023 09:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川内江市威远县附近发生3.5级左右地震】中国地震台网自动测定：07月23日17时19分在四川内江市威远县附近（北纬29.60度，东经104.60度）发生3.5级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcsmat9897567.d.html</link>
-            <guid>3185371</guid>
-            <pubDate>Sun, 23 Jul 2023 09:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受低生育率影响，韩国国军兵力2022年底跌破50万】受到低生育率的影响，韩国国军兵力于2022年底跌破50万人，若要维持50万的常备军力，每年需要征兵22万人。据报道，韩国国防研究院资深研究委员赵宽镐23日发布的一份报告显示，去年韩国国军兵力名额为50万人，到了年底实际兵力仅为48万人。据韩国国防部去年12月公布的《2023至2027国防中期计划》，军方计划到2027年将常备兵力名额保持在50万人，但实际兵力恐难回升至50万人。赵宽镐分析认为，若维持现行兵役制度，今后十年每年年底的平均兵力将保持在47万人左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcsmav6595771.d.html</link>
-            <guid>3185370</guid>
-            <pubDate>Sun, 23 Jul 2023 09:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
