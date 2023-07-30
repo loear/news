@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jul 2023 21:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 22:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[马斯克表示，推特（现更名为“X”）将把总部保留在旧金山，尽管这座城市正面临着大企业纷纷撤离的“末日循环”。]]></title>
+            <guid>3193022</guid>
+            <pubDate>Sun, 30 Jul 2023 22:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国首相苏纳克会见了能源行业的关键人物。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzepkma2559058.d.html</link>
+            <guid>3193020</guid>
+            <pubDate>Sun, 30 Jul 2023 21:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【保定市防汛抗旱指挥部发布决定：7月31日居家办公】保定市防汛抗旱指挥部决定，因该市强降雨仍在持续，汛情异常严峻，为确保广大人民群众生命安全，7月31日，全市所有党政机关、企事业单位，除参与防汛抗旱救灾工作和应急值班值守人员外，其他人员一律居家办公，非必要不外出。 (河北日报)]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzenxvh2766120.d.html</link>
@@ -409,36 +420,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxr9850284.d.html</link>
             <guid>3192826</guid>
             <pubDate>Sun, 30 Jul 2023 08:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【和胜股份：拟发行可转债募资不超7.5亿元】和胜股份公告，拟发行可转债募资不超过7.5亿元，用于安徽和胜新能源生产基地项目（一期）、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxr9850187.d.html</link>
-            <guid>3192825</guid>
-            <pubDate>Sun, 30 Jul 2023 08:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三环集团：上半年净利预降13%-33%】三环集团发布业绩预告，预计上半年实现净利润6.29亿元-8.17亿元，同比下降13%-33%。报告期内，受宏观经济波动等因素的影响，电子产品行业整体需求仍较弱，公司主营业务产品盈利同比出现下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxr9849775.d.html</link>
-            <guid>3192824</guid>
-            <pubDate>Sun, 30 Jul 2023 08:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【vivo发布6nm制程自研影像芯片V3】vivo今日发布6nm制程自研影像芯片V3，配合多并发AI感知-ISP架构和第二代FIT互联系统，可支持4K电影人像模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxr9849624.d.html</link>
-            <guid>3192823</guid>
-            <pubDate>Sun, 30 Jul 2023 08:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄专家：2023年俄罗斯天然气产量可能降至2010年代中期水平】俄罗斯战略研究中心燃料和能源系统行业经济中心主任亚历山大∙阿米拉吉扬在发表的评论中说，2023年俄罗斯天然气产量可能降至2010年代中期6200亿-6400亿立方米的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxq3071638.d.html</link>
-            <guid>3192822</guid>
-            <pubDate>Sun, 30 Jul 2023 08:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华东医药：控股子公司注射用DR10624临床试验申请获批】华东医药公告，公司控股子公司道尔生物申报的注射用DR10624临床试验申请获得国家药监局批准，该药品用于超重或肥胖人群的体重管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenhxr9847384.d.html</link>
-            <guid>3192821</guid>
-            <pubDate>Sun, 30 Jul 2023 08:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
