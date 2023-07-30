@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 30 Jul 2023 18:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 19:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -500,12 +500,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenars3194309.d.html</link>
             <guid>3192810</guid>
             <pubDate>Sun, 30 Jul 2023 08:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深信服：可转债中签号出炉 共约24.81万个】深信服披露可转债网上中签结果，中签号码共有248116个，每个中签号码只能认购10张（1000元）信服转债。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenars3194209.d.html</link>
-            <guid>3192809</guid>
-            <pubDate>Sun, 30 Jul 2023 08:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
