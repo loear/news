@@ -4,11 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 31 Jul 2023 19:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 20:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[西部数据第四财季调整后每股亏损1.98美元，分析师预期亏损2.01美元。
+第四财季净营收26.7亿美元，分析师预期25.2亿美元。
+第四财季调整后毛利润率3.9%，分析师预期4.01%。
+第四财季运营开支7.42亿美元，分析师预期7.287亿美元。
+预计第一财季营收25.5亿-27.5亿美元，分析师预期27.5亿美元。]]></title>
+            <guid>3194269</guid>
+            <pubDate>Mon, 31 Jul 2023 20:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[强生（JNJ）收盘下跌4%，创2020年6月以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-01/detail-imzerpkk8748602.d.html</link>
+            <guid>3194268</guid>
+            <pubDate>Mon, 31 Jul 2023 20:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登决定将太空司令部留在科罗拉多州。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-01/detail-imzerpkn5523871.d.html</link>
+            <guid>3194264</guid>
+            <pubDate>Mon, 31 Jul 2023 19:54:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富士康计划在印度投资近5亿美元兴建苹果零部件厂】苹果公司主要供应商富士康（又名鸿海）计划投资近5亿美元在印度设立两家零部件工厂，以保持供应链多元化。据知情人士透露，富士康计划在卡纳塔克邦兴建的工厂中，至少有一家将生产iPhone等苹果产品的零部件，预计最早将于本周正式宣布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-01/detail-imzerpkn5522679.d.html</link>
+            <guid>3194262</guid>
+            <pubDate>Mon, 31 Jul 2023 19:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高温天气影响炼油厂开工率，进一步助推汽油价格涨势】 今年全球多国遭遇的破纪录夏季高温，正迫使炼油厂削减运营水平，从而导致汽油价格飙升。麦格理集团全球石油和天然气策略师表示，由于高温天气对炼厂运营构成威胁，全球原油加工量至少下降了2%。 这在一定程度上推动美国汽油价格升至2022年11月以来的最高水平。 预计高温在8月份仍将延续，令燃油价格回落希望渺茫。今年5月以来，美国至少有四家炼油厂厂报告发生火灾，另外七家则因停电和计划外维修而不得不关闭设备。同样问题也困扰着欧洲的炼油厂。数据显示，7月份全球炼厂日加工石油8250万桶，低于此前估计的8400万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-01/detail-imzerpkf3673983.d.html</link>
+            <guid>3194261</guid>
+            <pubDate>Mon, 31 Jul 2023 19:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸再次延长全国紧急状态6个月】缅甸国防和安全委员会7月31日举行会议，决定再次延长全国紧急状态6个月。国防和安全委员会当天发布公告说，国防军总司令敏昂莱在会上汇报了国家管理委员会过去6个月的工作及未来工作的需求等。国防和安全委员会成员经集体讨论后决定，为了确保国防军总司令能够圆满完成其职责，从8月1日起再次延长紧急状态6个月。缅甸临时总统敏瑞出席了当天会议并于当晚签署公告。敏瑞同时在会议上宣布，再次将国家各项职责移交给国家管理委员会主席及国防军总司令。（新华社）]]></title>
+            <guid>3194260</guid>
+            <pubDate>Mon, 31 Jul 2023 19:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMF：巴西总体通胀率已从去年的峰值迅速回落，但核心通胀率仍处于高位，通胀预期高于目标。]]></title>
             <guid>3194256</guid>
@@ -213,35 +251,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzeraui8623166.d.html</link>
             <guid>3194173</guid>
             <pubDate>Mon, 31 Jul 2023 15:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄执法人员查获2500万卢布假币】据俄新社报道，近日，俄罗斯联邦安全局和内务部在别尔哥罗德州破获一起重大假币案，现场查获假币面值高达2500万卢布（约合人民币194万元），同时查获多台制假设备。根据俄罗斯相关法律，制假男子将面临最高12年的监禁。(央视财经)]]></title>
-            <guid>3194169</guid>
-            <pubDate>Mon, 31 Jul 2023 15:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海多部门联合发文 完善多元支付机制支持创新药械发展】上海市医疗保障局等七部门联合发布《上海市进一步完善多元支付机制支持创新药械发展的若干措施》，包括九个方面28项重点工作任务，协同推进医药服务供给侧改革，鼓励生物医药企业创新，推进上海打造具有全球影响力的生物医药产业创新高地。其中提到，支持商业保险公司、医疗机构、医药企业合作探索引入专业化第三方服务机构加快商业健康保险产品开发，覆盖新药、好药和优质医疗服务以及未纳入基本医保保障范围的自费医疗费用重点支持将创新性强、疗效确切、临床急需的创新药械纳入商业健康保险支付范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzeraui8622026.d.html</link>
-            <guid>3194168</guid>
-            <pubDate>Mon, 31 Jul 2023 15:23:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年国内采矿业投资增速明显放缓】中国自然资源经济研究院7月31日官微发布《2023年上半年地质勘查行业形势分析》显示，2023年1—6月，中国采矿业固定资产投资同比微增0.8%，低于同期全国固定资产投资3.8%的平均增速，也低于2022年上半年9.8%的增速。中国自然资源经济研究院解释，市场预期不佳，部分子行业投资需求持续下降，今年第二季度同比增速下降最为明显，其中1-4月采矿业投资下降2.2%，也成为2021年以来的首次负增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzeraui8620495.d.html</link>
-            <guid>3194164</guid>
-            <pubDate>Mon, 31 Jul 2023 15:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“清朗·成都大运会网络环境整治”专项行动处置633个违法违规账号】据新华社，记者7月31日从中央网信办获悉，“清朗·成都大运会网络环境整治”专项行动启动以来，各地网信部门督促网站平台切实履行主体责任，深入开展自查自清，截至目前，重点平台累计处置违法违规账号633个，清理相关信息4200余条。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzerauh1842999.d.html</link>
-            <guid>3194162</guid>
-            <pubDate>Mon, 31 Jul 2023 15:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中格双边贸易额建交以来增长400余倍】据央视新闻，记者在今天（7月31日）召开的中国—格鲁吉亚经贸论坛上了解到，两国建交以来的31年间，双边贸易额增长了400多倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzeraui8619805.d.html</link>
-            <guid>3194159</guid>
-            <pubDate>Mon, 31 Jul 2023 15:11:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
