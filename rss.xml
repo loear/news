@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Aug 2023 17:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 18:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国联邦法官驳回对谷歌的部分反垄断指控】谷歌搜索业务面临的反垄断诉讼规模缩小。在当地时间周五公布的裁决中，美国地区法官Amit Mehta认为，州检察长无法证明谷歌的搜索结果旨在损害Yelp和Expedia等竞争对手。与此同时，Mehta维持了美国司法部对有关公司默认搜索引擎协议的指控，即谷歌与苹果、Mozilla公司和智能手机制造商签订的预装其搜索引擎的合同损害了竞争。该案件将于9月12日开庭审理，现在将重点放在默认搜索引擎协议上，原告声称，这些协议使微软旗下的必应等竞争对手无法获得与谷歌竞争所需的规模，此举违反了反垄断法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfapui8405724.d.html</link>
+            <guid>3199361</guid>
+            <pubDate>Fri, 04 Aug 2023 18:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纸浆巨头Suzano与一些私募公司都在考虑竞购维达国际的股份】据知情人士透露，全球最大的硬木纸浆生产商Suzano SA，还有几家私募股权投资公司，都在可能参与竞标港股纸巾生产商维达国际股权的下一轮竞标者之列。收购公司贝恩资本、CVC Capital Partners以及DCP Capital也在推进竞购Essity AB所持的维达国际多数股权。维达国际第二大股东兼创始人李朝旺正在考虑与一家竞标者联手。持股方正在考虑的一个指导性起始协商价格是每股20港元左右。竞标者可能在未来的过程中组队，不过目前尚不清楚哪些会最终提出收购报价。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfapui8405236.d.html</link>
+            <guid>3199360</guid>
+            <pubDate>Fri, 04 Aug 2023 18:14:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法院做出有利于谷歌的裁决，在9月12日的庭审中其所面临的反垄断处罚额度将受限。法官同时驳回美国地方政府对谷歌的起诉，相关起诉称谷歌不当侵害竞争对手Yelp和Expedia的权益。法官称谷歌仍将面临美国司法部关于其在搜索交易中滥用垄断地位的起诉。]]></title>
+            <guid>3199357</guid>
+            <pubDate>Fri, 04 Aug 2023 18:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银(UBS.N)计划重组科技、媒体和电信团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainp5308666.d.html</link>
+            <guid>3199356</guid>
+            <pubDate>Fri, 04 Aug 2023 17:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀与波兰国防部长讨论了瓦格纳集团在白俄罗斯的存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainp5308304.d.html</link>
+            <guid>3199355</guid>
+            <pubDate>Fri, 04 Aug 2023 17:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国石油钻井周度数据跌至近一年半新低，年内有望反弹】油田服务公司贝克休斯的每周数据显示，最近一周，美国活跃的石油钻井平台数量再次下降，减少了4口，至525口，为自2022年3月以来的最低水平。自今年年初以来，由于土地、劳动力和设备的通胀不断上升，再加上油价相对较低，许多生产商被迫推迟了新的钻井项目，钻机数量一直在缓慢而稳定地下降。但最近几周，这些问题开始出现逆转，原油价格反弹，通胀问题明显缓解。因此，分析人士表示，钻井数量可能会在今年晚些时候开始反弹。贝克休斯表示，天然气钻机数量与上周持平，为128口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainm6235051.d.html</link>
+            <guid>3199349</guid>
+            <pubDate>Fri, 04 Aug 2023 17:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：将新设大峡谷国家纪念地，以避免受到采矿业活动破坏。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainr5243431.d.html</link>
@@ -275,35 +310,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacep8622646.d.html</link>
             <guid>3199262</guid>
             <pubDate>Fri, 04 Aug 2023 14:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安联首席经济顾问埃里安：美国经济可以承受4%的薪资增幅】Gramercy Funds Management的董事长、德国安联首席经济学家埃里安（Mohamed El-Erian）表示，只要生产率提高，美国经济就可以承受4%的薪资增幅。他说：“只要生产率上升，我们就可以承受4%的薪资增幅……必须停止把工资增长作为通胀唯一的驱动因素来关注，还有其他驱动因素，美国经济可以承受低薪雇员的工资增长。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacer5398606.d.html</link>
-            <guid>3199260</guid>
-            <pubDate>Fri, 04 Aug 2023 14:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京签署了一项法律，允许将来自“不友好”国家的外国参与者排除在银行和公司的所有权结构之外。]]></title>
-            <guid>3199257</guid>
-            <pubDate>Fri, 04 Aug 2023 14:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数连续第二周上涨】波罗的海干散货运价指数周五上涨，周线录得连续第二周上涨，因巴拿马型船需求强劲。波罗的海干散货运价指数上涨8点或0.7%，至1136点；周线上涨2.3%。海岬型船运价指数上涨15点或0.8%，至1818点，周线下跌0.7%。海岬型船日均获利增加124美元，至15080美元。巴拿马型船运价指数上涨21点或1.9%，至1133点；周线上涨16.2%，为3月3日以来最大单周涨幅。巴拿马型船日均获利增加190美元，至10200美元。超灵便型散货船运价指数下跌7点至688点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacep8620547.d.html</link>
-            <guid>3199256</guid>
-            <pubDate>Fri, 04 Aug 2023 14:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑石CEO：预计需要一个类似WTO的全球机构来审查AI的安全性】黑石集团首席执行官苏世民表示评论了人工智能(AI)，称其为“平生最激动人心的进展之一”，是企业的竞争优势。他预测，将出现一个类似于世界贸易组织（WTO）的全球机构来审查AI技术的安全性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacer5397592.d.html</link>
-            <guid>3199255</guid>
-            <pubDate>Fri, 04 Aug 2023 14:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期至7年期国债收益率当日下跌至少10个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacep8619387.d.html</link>
-            <guid>3199249</guid>
-            <pubDate>Fri, 04 Aug 2023 14:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
