@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 04 Aug 2023 20:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 21:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国超导（AMSC）收涨7.40%，报10.31美元，本周累计上涨4.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfauaf8298656.d.html</link>
+            <guid>3199412</guid>
+            <pubDate>Fri, 04 Aug 2023 20:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官裁定：加密货币借贷平台Celsius Network的前CEO Mashinsky必须在纽约州法庭的民事欺诈诉讼中应诉，Mashinsky要求驳回纽约州检察长起诉的意见遭法官驳回。]]></title>
+            <guid>3199408</guid>
+            <pubDate>Fri, 04 Aug 2023 20:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国评级机构Scope将希腊评级从BB+提高至BBB，前景展望稳定。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfapum5203670.d.html</link>
@@ -174,24 +185,6 @@
             <title><![CDATA[【中国农业农村部副部长马有祥：提升亚太区域贸易自由化、便利化水平，更好维护农产品供应链稳定】据农业农村部网站，当地时间8月3日下午，亚太经合组织（APEC）第八届粮食安全部长会议在美国西雅图召开，中国农业农村部副部长马有祥率团出席。马有祥表示，APEC是亚太地区重要的经济合作机制，成员体在粮食安全和农业农村发展领域协商一致、形成共识，对促进实现区域及全球更加可持续和可靠的农业粮食体系至关重要。中方愿与各方一道，聚焦粮食产能提升，提高农业绿色发展水平，应对气候变化等挑战，不断推动粮食系统可持续转型；维护以世贸组织为核心的多边贸易体系，提升亚太区域贸易自由化、便利化水平，更好维护农产品供应链稳定；在全球发展倡议框架下加强农业高质量务实合作，加快推动联合国2030年可持续发展目标实现。]]></title>
             <guid>3199316</guid>
             <pubDate>Fri, 04 Aug 2023 16:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华商银行未及时将集团客户纳入统一授信管理被罚25万】8月4日，国家金融监督管理总局公布的行政处罚信息公开表显示，2023年7月27日，华商银行因未及时将集团客户纳入统一授信管理，被处罚款25万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainp5287598.d.html</link>
-            <guid>3199315</guid>
-            <pubDate>Fri, 04 Aug 2023 16:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：将阿里巴巴(BABA.N)的展望从“稳定”上调至“积极”，评级“BB+”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfainp5286741.d.html</link>
-            <guid>3199312</guid>
-            <pubDate>Fri, 04 Aug 2023 16:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诚迈科技：宝马集团到子公司智达诚远参观交流】据诚迈科技消息，8月3日，宝马集团Dr. Eric Hamm、Dr. Aschraf Abdelfattah一行到子公司智达诚远参观交流。双方围绕智能汽车操作系统进行了深入交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-04/detail-imzfacep6356354.d.html</link>
-            <guid>3199311</guid>
-            <pubDate>Fri, 04 Aug 2023 15:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
