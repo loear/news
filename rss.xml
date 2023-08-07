@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 07 Aug 2023 17:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 18:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普RPT：美国住房价格被高估状况有所缓和，但房价仍处于高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmexq2384716.d.html</link>
+            <guid>3201231</guid>
+            <pubDate>Mon, 07 Aug 2023 18:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股三大指数震荡整理 机构看好反弹趋势延续】据上证报，近日，政策暖风频吹，A股出现阶段性上行趋势。后续反弹行情能否持续呢？ 中金公司表示，一定幅度的反弹过后，当前A股市场估值仍处于历史偏低水平，因此，后续市场仍有较明显的改善空间。同时，稳增长相关政策也在继续加码。在此背景下，近期指数持续上涨后虽不排除短期反复的可能，但未来反弹趋势有望延续。 中信建投证券认为，当前A股反弹行情仍处于初期阶段。本次行情源于下半年盈利复苏与政策加码引发的共振，后续阶段将迎来政策与基本面共振增强，且市场风险偏好有望不断修复，A股有望逐步转为增量行情。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmexq2382191.d.html</link>
+            <guid>3201229</guid>
+            <pubDate>Mon, 07 Aug 2023 18:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西石油公司（Petrobras）可能在其2024-28年的业务计划中将投资力度提高10%。]]></title>
+            <guid>3201228</guid>
+            <pubDate>Mon, 07 Aug 2023 17:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪将力拓集团评级提升至A1，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmexm1602770.d.html</link>
+            <guid>3201222</guid>
+            <pubDate>Mon, 07 Aug 2023 17:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚马逊下周将与美国联邦贸易委员会（FTC）会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmexq2373990.d.html</link>
+            <guid>3201221</guid>
+            <pubDate>Mon, 07 Aug 2023 17:27:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周一（8月7日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨1.74%，报248.75欧元/吨。油菜籽期货跌1.79%，报465.25欧元/吨。]]></title>
             <guid>3201218</guid>
@@ -243,30 +272,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9367759.d.html</link>
             <guid>3201131</guid>
             <pubDate>Mon, 07 Aug 2023 14:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其一粮食筒仓爆炸】据土耳其科贾埃利省省长证实，代林杰港的粮食筒仓爆炸已造成10人受伤，其中2人伤势严重。该省长还称，爆炸发生时工人正在将船上的小麦转移至筒仓，初步判断为粉尘爆炸，但确切爆炸原因还在调查中。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9367728.d.html</link>
-            <guid>3201130</guid>
-            <pubDate>Mon, 07 Aug 2023 14:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄空天军发射一枚“联盟-2.1b”中型运载火箭】俄国防部发布公告称，当地时间8月7日16时20分，俄空天军在位于俄罗斯阿尔汉格尔斯克州的普列谢茨克航天发射场发射了一枚“联盟-2.1b”中型运载火箭。该火箭搭载了一个供俄罗斯国防部使用的航天器。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiu2590530.d.html</link>
-            <guid>3201129</guid>
-            <pubDate>Mon, 07 Aug 2023 14:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界奶业大会招商推介会举行 伊利签约总金额1200.63亿元】据伊利集团消息，8月7日上午，世界奶业大会全产业链招商推介会在呼和浩特国际农业博览园举行。推介会上，伊利与国内外38家企业进行签约合作，签约总金额1200.63亿元，在本次推介会总签约额中占比近六成，合作领域覆盖草业、奶源、原辅料、智能制造、包装、技术合作等全产业链各个环节。本次推介会共签约76个项目，协议投资额2083.46亿元，其中投资项目共15个，投资额76.83亿元；签署供销协议61个，交易额2006.63亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9366175.d.html</link>
-            <guid>3201127</guid>
-            <pubDate>Mon, 07 Aug 2023 14:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部部长金壮龙出席第七届金砖国家工业部长会议】金壮龙表示，金砖国家应秉持开放包容、合作共赢的金砖精神，更加紧密地团结在一起，深化新工业革命伙伴关系合作，抢抓机遇，共迎挑战，合作开创未来。一是把握数字时代机遇，运用工业互联网等关键手段，合作推动制造业数字化转型。二是合力营造开放、包容、公平、公正、非歧视的数字经济发展环境，共同构筑安全稳定、畅通高效、开放包容、互利共赢的全球产业链供应链体系。三是坚持共商共建共享的原则，聚焦工业互联网、区块链、人工智能、大数据等重点领域人才需求，加强政策沟通和技术交流，共同开展金砖国家新工业革命领域能力建设。（工信微报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9364209.d.html</link>
-            <guid>3201120</guid>
-            <pubDate>Mon, 07 Aug 2023 13:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
