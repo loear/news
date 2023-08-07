@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 07 Aug 2023 18:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 19:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[意大利副总理：内阁批准对银行征收40%的暴利税，该措施限于2023年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfm9579303.d.html</link>
+            <guid>3201242</guid>
+            <pubDate>Mon, 07 Aug 2023 19:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国6月消费信贷变动 178.47亿美元，预期 130亿美元，前值 72.4亿美元。]]></title>
+            <guid>3201239</guid>
+            <pubDate>Mon, 07 Aug 2023 19:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普RPT：美国住房价格被高估状况有所缓和，但房价仍处于高位。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmexq2384716.d.html</link>
@@ -227,51 +238,6 @@
             <title><![CDATA[微软(MSFT.O)旗下搜索引擎必应表示，很快就可以在网络和手机上的第三方浏览器上体验新的人工智能支持的必应。]]></title>
             <guid>3201141</guid>
             <pubDate>Mon, 07 Aug 2023 14:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东拟出台旅宿场所管理新规：接待未成年人旅宿记录同住人关系】记者从广东省公安厅获悉，《广东省旅宿场所治安管理规定（征求意见稿）》正在面向社会各界公开征求意见，截止时间为8月24日。《征求意见稿》提出，旅宿场所接待未成年人入住，或者接待未成年人和成年人共同入住时，应当询问未成年人父母或者其他监护人的联系方式、同住人员的身份关系等有关情况，并记录备查。 （广州日报）]]></title>
-            <guid>3201140</guid>
-            <pubDate>Mon, 07 Aug 2023 14:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄技集团：2022年俄罗斯作战飞机产量翻一番】俄技集团总裁谢尔盖∙切梅佐夫8月7日在与俄罗斯总统普京会谈时表示， 2022年全国作战飞机产量翻一番。在飞机工业方面，除了军用飞机2022年产量翻一番外，俄技集团还非常重视民用航空装备。而至于直升机行业，俄罗斯直升机控股公司2022年生产了296架，2021年为134架，增长显著。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9371162.d.html</link>
-            <guid>3201138</guid>
-            <pubDate>Mon, 07 Aug 2023 14:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：委内瑞拉反对派准备延长债券的法定期限。委内瑞拉国民议会起草协议以延长违约债券的截止日期，该提议可能在本周得到反对派的批准。]]></title>
-            <guid>3201137</guid>
-            <pubDate>Mon, 07 Aug 2023 14:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯法院冻结高盛在俄Detskiy Mir公司的股份】应Otkrytie银行的请求，俄罗斯莫斯科一家法院周一冻结了高盛持有的俄罗斯最大玩具零售商Detsky Mir公司5%的股份。法庭文件显示，Otkrytie银行称高盛欠其6.15亿卢布（合645万美元）。Otkrytie表示，高盛将美国和英国对俄罗斯实施的制裁列为未能解决债务的原因。该案的听证会定于9月7日举行。高盛没有立即回复置评请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9369795.d.html</link>
-            <guid>3201136</guid>
-            <pubDate>Mon, 07 Aug 2023 14:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度与美国讨论全球债务挑战和气候融资问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiu2592469.d.html</link>
-            <guid>3201135</guid>
-            <pubDate>Mon, 07 Aug 2023 14:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔牌集团：上半年归母净利润4.86亿元，同比增178.03%，水泥销量819.94万吨】公司上半年营业收入28.71亿元，同比增长10.72%；归属于上市公司股东的净利润4.86亿元，同比增长178.03%；基本每股收益0.42元。公司计划不派发现金红利，不送红股，不以公积金转增股本。报告期内，公司水泥销量小幅上升、成本同比下降，且降幅大于水泥价格同比降幅，公司经营效益较上年同期的较低基数上升明显。今年上半年，公司实现水泥销量819.94万吨、熟料销量43.46万吨，较上年同期分别增长了12.51%、32.42%。]]></title>
-            <guid>3201133</guid>
-            <pubDate>Mon, 07 Aug 2023 14:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥拓电子：上半年归母净利润同比增214.68%】奥拓电子公告，公司上半年营业收入3.22亿元，同比下降19.24%；归属于上市公司股东的净利润1830.22万元，同比增长214.68%；基本每股收益0.03元。公司计划不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiu2590686.d.html</link>
-            <guid>3201132</guid>
-            <pubDate>Mon, 07 Aug 2023 14:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5天3板国缆检测：公司目前没有与常温超导概念相关的技术，未产生收入】5天3板国缆检测公告，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。公司目前的经营情况及内外部经营环境未发生重大变化。公司目前没有与常温超导概念相关的技术，未产生收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-07/detail-imzfkuiv9367759.d.html</link>
-            <guid>3201131</guid>
-            <pubDate>Mon, 07 Aug 2023 14:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
