@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 08 Aug 2023 18:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 19:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.29%，报19084点，低水100点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-09/detail-imzfpqep8176068.d.html</link>
+            <guid>3202477</guid>
+            <pubDate>Tue, 08 Aug 2023 19:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：已破产的加密货币交易所FTX的前高管Ryan Salame正就认罪协商一事与美国检方进行谈判。]]></title>
+            <guid>3202474</guid>
+            <pubDate>Tue, 08 Aug 2023 18:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汤加群岛附近发生6.2级左右地震】中国地震台网自动测定：08月09日02时39分在汤加群岛附近（南纬15.28度，西经173.28度）发生6.2级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-09/detail-imzfpqep8173956.d.html</link>
+            <guid>3202473</guid>
+            <pubDate>Tue, 08 Aug 2023 18:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：TikTok已聘用两名资深零售业专家，以推动其电子商务业务。公司现任电子商业业务主管Sandie Hawkings将离职。]]></title>
+            <guid>3202472</guid>
+            <pubDate>Tue, 08 Aug 2023 18:47:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大自然资源部长表示，各省份需要转向零排放电网，以获得清洁电力投资税收抵免。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-09/detail-imzfpqep8168583.d.html</link>
+            <guid>3202466</guid>
+            <pubDate>Tue, 08 Aug 2023 18:28:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[谷歌与环球音乐正在进行谈判，从而尝试就人工智能“深度伪造”技术达成协议。双方商谈的内容包括为人工智能生成的歌曲申请“艺术家声音”授权。]]></title>
             <guid>3202463</guid>
@@ -213,76 +241,6 @@
             <title><![CDATA[8月8日，荣耀CEO赵明在媒体沟通会上表示，将在9月1日举办的德国柏林消费电子展（IFA）上面向全球发布Magic V2，并同步公布未来折叠屏技术。]]></title>
             <guid>3202389</guid>
             <pubDate>Tue, 08 Aug 2023 15:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿海子公司向创新新材增资近3亿元，持股约1.53%】鸿海在台交所公告，子公司富联裕展科技（深圳）8月8日向創新新材料科技股份有限公司增资近3亿元人民币，每单位价格人民币4.51元，持股比例约1.53%。鸿海称此次为战略投资。创新新材为上交所上市公司，为去年11月华联综超重组后更名而来，主要从事铝合金材料及产品的研发制造，产品包括棒材、型材、结构件、板带箔、铝杆线缆等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqs1606195.d.html</link>
-            <guid>3202376</guid>
-            <pubDate>Tue, 08 Aug 2023 14:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及通用商品供应总局（GASC）：埃及购买了23.5万吨俄罗斯小麦。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqs1605857.d.html</link>
-            <guid>3202375</guid>
-            <pubDate>Tue, 08 Aug 2023 14:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非启动小型企业能源贷款担保计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqr8751593.d.html</link>
-            <guid>3202374</guid>
-            <pubDate>Tue, 08 Aug 2023 14:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拟最低8亿元回购公司股份实际仅回购6.56亿元违反承诺，中国天楹收江苏证监局警示函】公司于当日收到江苏证监局出具的关于对公司采取出具警示函措施的决定。公司于2021年11月13日披露了《关于回购公司股份的报告书》，拟以自有资金回购公司股份，用于实施股权激励或员工持股计划，回购金额不低于8亿元且不超过15亿元，回购期限12个月。2022年11月12日，公司披露《关于回购股份期限届满暨回购实施结果的公告》，累计回购股份1.13亿股，回购金额6.56亿元，实际回购股份金额未达到回购报告书中的下限金额。公司上述未按照回购股份报告书约定实施回购的行为属于违反承诺的情形。根据规定，江苏证监局决定对公司采取出具警示函的监管措施，并记入证券期货市场诚信档案。]]></title>
-            <guid>3202373</guid>
-            <pubDate>Tue, 08 Aug 2023 14:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【暑假违规开展学科培训，深圳一家教育机构被罚款29万余元】8月8日，广东省教育厅通报，7月上旬，省教育厅执法人员在暑期校外培训巡查中发现，深圳市一家教育科技公司涉嫌利用网络平台发布学科培训的招生信息，违反了“双减”的有关规定。 经查，该公司在未取得办学许可证的情况下，招收了一批中小学生开展学科培训，共收取培训费用72600元。省教育厅果断立案查处，依法对该公司作出责令停止办学、退还所收费用的处罚，并处以违法所得四倍合计290400元的罚款。该公司已全额缴纳了罚款，并表示今后将不再从事面向中小学生的学科类培训。（广州日报）]]></title>
-            <guid>3202372</guid>
-            <pubDate>Tue, 08 Aug 2023 14:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[萨尔瓦多7月国际储备为26.17亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqt8381883.d.html</link>
-            <guid>3202370</guid>
-            <pubDate>Tue, 08 Aug 2023 14:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金砖国家第十三次经贸部长会议取得五方面重要成果】商务部国际司负责人8日介绍，7日以视频形式举行的金砖国家第十三次经贸部长会议上，五国经贸部长就一系列重大经贸议题进行深入讨论，达成诸多共识，取得五个方面重要成果。一是就数字经济和绿色发展等新兴领域加强合作。二是就供应链安全稳定、支持中小微企业发展等重点领域加强务实合作。达成《金砖国家关于加强韧性和可持续发展的供应链合作框架》，强调要加强合作，维护开放、韧性、高效和稳定的全球供应链。达成《金砖国家中小微企业合作框架》，各国将分享展会活动、贸易政策、市场机会等方面信息，加强企业对接，帮助中小微企业更好融入全球价值链。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqt8381052.d.html</link>
-            <guid>3202368</guid>
-            <pubDate>Tue, 08 Aug 2023 14:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰总理称卫生部长Niedzielski离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqv7759577.d.html</link>
-            <guid>3202367</guid>
-            <pubDate>Tue, 08 Aug 2023 14:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用汽车将扩大使用车到家技术的产品组合】通用汽车公司8月8日宣布，将在2026年之前在其基于Ultium平台的电动汽车零售产品组合中推广车到家（V2H）双向充电技术。首批采用该技术的车型包括之前宣布的2024款雪佛兰Silverado EV RST，随后是2024款GMC Sierra EV Denali Edition 1、2024款雪佛兰Blazer EV、2024款雪佛兰Equinox EV、2024款凯迪拉克LYRIQ和即将于8月9日亮相的凯迪拉克ESCALADE IQ。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqs1602033.d.html</link>
-            <guid>3202366</guid>
-            <pubDate>Tue, 08 Aug 2023 14:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迪士尼据称成立特别工作组 利用AI控制电影成本】据报道，多位知情人士今日称，迪士尼集团成立了一个特别工作组，致力于研究人工智能以及如何将其应用于整个集团，尽管好莱坞的编剧和演员们正努力抵制这项技术的入侵。知情人士今日称，今年早些时候，确切而言是在好莱坞编剧罢工之前，迪士尼就寻求在内部开发人工智能应用程序，并与初创公司建立合作伙伴关系。作为迪士尼对人工智能技术感兴趣的佐证之一，迪士尼目前有11个职位空缺，寻找拥有人工智能或机器学习专业知识的候选者。这些职位几乎涉及迪士尼的每一个角落，从工作室到主题公园、工程集团和幻想工程（Walt Disney Imagineering），再到迪士尼品牌的电视和广告团队。根据招聘广告描述，其中的广告团队正寻求构建一种由人工智能支持的“下一代”广告系统。对此，迪士尼发言人拒绝发表评论。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqs1601551.d.html</link>
-            <guid>3202365</guid>
-            <pubDate>Tue, 08 Aug 2023 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国国家飓风中心，主要飓风多拉继续快速向西南方向移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqv7759080.d.html</link>
-            <guid>3202364</guid>
-            <pubDate>Tue, 08 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦总理夏巴兹：本届政府任期将于9日结束】巴基斯坦总理夏巴兹·谢里夫当地时间8月8日表示，本届政府任期将于2023年8月9日结束，权力将移交给看守政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfpcqr8748239.d.html</link>
-            <guid>3202362</guid>
-            <pubDate>Tue, 08 Aug 2023 14:34:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
