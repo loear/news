@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 12 Aug 2023 17:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 18:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【货币信贷投放并非越多越好 7月金融数据应该怎么看】数据显示，7月新增人民币贷款3459亿元，同比少增3498亿元；新增社会融资规模5282亿元，同比少增2703亿元。广义货币(M2)同比增长10.7%，增速比上月末低0.6个百分点；狭义货币(M1)同比增长2.3%，增速比上月末低0.8个百分点。从单月来讲，这个数据的确超出预期的弱。但不能仅仅只看局部，要看全面，对于一个经济体的融资而言，仅仅看一个月的数据，显然属于只见树木不见森林，类似于盲人摸象。从半年甚至一年的角度看数据，并且看数据的走势，各种数据进行横向纵向比较，才是比较正确的方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfyqqq1085399.d.html</link>
+            <guid>3206617</guid>
+            <pubDate>Sat, 12 Aug 2023 17:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦航空局调查西南航空与塞斯纳飞机险些相撞事件】美国联邦航空管理局 (FAA) 周六表示，正在调查西南航空一架波音737飞机与一架塞斯纳公务机在圣地亚哥发生的险些相撞事件，这是美国一系列令人不安的航空事故中的最新一起。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfyqqt7982540.d.html</link>
+            <guid>3206616</guid>
+            <pubDate>Sat, 12 Aug 2023 17:32:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【亚马逊在投诉后退还了部分卖家资金】在许多英国和欧盟卖家抱怨资金被意外扣留后，亚马逊已开始将部分卖家的资金退还给他们。这一政策的改变导致一些卖家的业务几近崩溃。亚马逊告诉一些卖家，现在将把暂时扣款推迟到2024年1月。亚马逊在五月份发布的最初政策更新表示，它将暂时扣留卖家资金以满足客户的退款要求，卖家只能在交货日期加上另外7天后才能提取资金。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfykhv8107449.d.html</link>
@@ -495,18 +507,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxtkr7776082.d.html</link>
             <guid>3206412</guid>
             <pubDate>Sat, 12 Aug 2023 10:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一汽奔腾：成为中国国家田径队官方合作伙伴】一汽奔腾将向中国田径队在亚运会上获得冠军的运动员赠送奔腾T90，为在亚运会上打破个人最好成绩的田径运动员赠送奔腾小马。同时，中国国家田径队男子三级跳远运动员朱亚明，女子100米栏运动员吴艳妮分别官宣成为奔腾T90和奔腾小马产品代言人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxtkt4550071.d.html</link>
-            <guid>3206410</guid>
-            <pubDate>Sat, 12 Aug 2023 10:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海解除高温橙色预警】上海中心气象台2023年08月12日17时35分解除高温橙色预警信号：据最新气象资料分析，目前本市气温有所回落，本市今天的高温橙色预警信号解除。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxtkt4549678.d.html</link>
-            <guid>3206408</guid>
-            <pubDate>Sat, 12 Aug 2023 09:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
