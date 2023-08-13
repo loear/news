@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 13 Aug 2023 15:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 16:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国萨克森州州长反对向乌克兰供应 "金牛座 "巡航导弹】德国萨克森州州长迈克尔·克雷奇默尔公开反对向乌克兰供应 “金牛座 ”巡航导弹。他认为，德国政府一次又一次地越过了自己设定的 "红线"。先是提供豹式坦克，现在又提供巡航导弹。他补充说：“接下来会发生什么？”克雷奇默尔问道：“难道我们准备接受德国导弹可能会攻击俄罗斯这样的事吗？”相反，他呼吁“西方采取新的频繁的外交举措”。路透社此前援引消息人士的话报道称，德国政府正在与欧洲导弹公司 （MBDA ）就向乌克兰供应“金牛座”巡航导弹进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhapfu0212262.d.html</link>
+            <guid>3207063</guid>
+            <pubDate>Sun, 13 Aug 2023 15:58:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【软银集团正在就收购旗下愿景基金持有的25%的Arm的股份进行谈判】据知情人士透露，软银集团正在就收购其通过旗下愿景基金持有的Arm公司25%的股份进行谈判。该收购讨论正值软银集团将把该芯片设计公司进行上市之际，预计估值在600亿至700亿美元之间。目前，软银集团控制着Arm约75%的股份，其余25%由软银旗下愿景基金持有。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhapfv6984988.d.html</link>
@@ -518,17 +524,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwka0535564.d.html</link>
             <guid>3206818</guid>
             <pubDate>Sun, 13 Aug 2023 08:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：希腊帕拉伊科拉东北偏东17公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwkf6189200.d.html</link>
-            <guid>3206817</guid>
-            <pubDate>Sun, 13 Aug 2023 08:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自俄乌冲突以来，乌克兰敖德萨首次开放部分海滩】当地官员8月12日表示，乌克兰黑海城市敖德萨的几个海滩自俄乌冲突爆发以来首次正式开放供居民游玩，不过在空袭警报期间禁止游泳。据路透社报道，乌克兰最大的港口和海军基地敖德萨自去年2月冲突爆发以来多次遭到导弹和无人机袭击，海上布满了数百枚水雷。为了居民的安全，在海滩发生地雷爆炸事件后，海岸被关闭。（澎湃）]]></title>
-            <guid>3206816</guid>
-            <pubDate>Sun, 13 Aug 2023 08:09:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
