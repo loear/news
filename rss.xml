@@ -4,11 +4,63 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 16 Aug 2023 21:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 22:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[诺辉健康联交所公告，做空报告中对公司的指控失实、毫无依据、且具有误导性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqf6693905.d.html</link>
+            <guid>3210891</guid>
+            <pubDate>Wed, 16 Aug 2023 22:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证报头版：全面注册制实施半年，融资节奏保持平稳，A股市场生态优化】 2月17日，全面实行股票发行注册制正式实施。半年来，股票发行审核注册效率和发行定价市场化程度进一步提高；资本市场精准高效支持科技创新功能强化，引导资金流向更具有增长潜力的科技创新企业，双创板块成为IPO主阵地；资本市场“看门人”责任压得更实，市场生态持续优化。专家表示，在这项事关资本市场全局改革的牵引带动下，资本市场服务实体经济高质量发展的空间更加广阔。推动注册制改革走深走实，促进注册制功能更好发挥，应进一步完善多层次资本市场，加快投资端等领域改革。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqi3470962.d.html</link>
+            <guid>3210890</guid>
+            <pubDate>Wed, 16 Aug 2023 22:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚洲首艘新型“海上油气加工厂”船体建造完工】 8月17日，中国海油发布消息，由我国自主设计建造的亚洲首艘圆筒型“海上油气加工厂”——“海洋石油122”浮式生产储卸油装置在青岛完成船体建造，我国深水超大型海洋油气装备研发制造能力实现突破。“海洋石油122”由船体和甲板上的功能模块组成，最大直径约90米，主甲板面积相当于13个标准篮球场，最大排水量达10万吨。最大储油量达6万吨，可连续在海上运行15年不回坞。“海洋石油122”下一步将进入总装集成阶段，明年建成后将服役于珠江口盆地的流花油田，为我国深水油气田经济高效开发提供全新选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqi3470085.d.html</link>
+            <guid>3210889</guid>
+            <pubDate>Wed, 16 Aug 2023 22:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（8月17日）亚太盘初，美国三大股指期货涨幅均不到0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqi3469408.d.html</link>
+            <guid>3210887</guid>
+            <pubDate>Wed, 16 Aug 2023 22:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉下调厄瓜多尔长期发行人违约评级（IDR）至CCC+。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqn3461335.d.html</link>
+            <guid>3210884</guid>
+            <pubDate>Wed, 16 Aug 2023 21:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[平安证券恢复跟踪香港交易所，评级为买进。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmzqi3467439.d.html</link>
+            <guid>3210882</guid>
+            <pubDate>Wed, 16 Aug 2023 21:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.50%，报12572.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmvhi6820272.d.html</link>
+            <guid>3210879</guid>
+            <pubDate>Wed, 16 Aug 2023 21:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（8月16日）纽约尾盘，标普500股指期货最终下跌0.77%，道指期货跌0.44%，纳斯达克100股指期货跌1.09%。]]></title>
+            <guid>3210878</guid>
+            <pubDate>Wed, 16 Aug 2023 21:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.3363元，较周二纽约尾盘跌121点，盘中整体交投于7.3043-7.3427元区间。]]></title>
+            <guid>3210873</guid>
+            <pubDate>Wed, 16 Aug 2023 21:18:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[韩国7月出口物价指数年率为-12.8%，前值-14.7%；进口物价指数年率为-13.5%，前值-15.7%。]]></title>
             <guid>3210870</guid>
@@ -29,6 +81,12 @@
             <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmvhi6816934.d.html</link>
             <guid>3210861</guid>
             <pubDate>Wed, 16 Aug 2023 20:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前7个月邮政行业寄递业务量同比增长12.8% 专家预计将继续保持增长态势】前7个月，邮政行业寄递业务量累计完成873.7亿件，同比增长12.8%。展望未来快递行业发展趋势，浙江大学国际联合商学院数字经济与金融研究中心联席主任、研究员盘和林表示，预计快递业将继续保持增长态势。在快递业当前的存量博弈下，服务品质、价格、供应链等方面有优势的快递企业将有较快的业绩增速，并逐渐将同质化，无优势壁垒的快递企业挤出市场。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmvhi6816624.d.html</link>
+            <guid>3210859</guid>
+            <pubDate>Wed, 16 Aug 2023 20:29:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【美国大类资产ETF多数收跌】 恐慌指数做多涨1.61%，大豆基金涨1.40%，农产品基金涨0.52%。而美国布伦特油价基金跌2.01%，美国房地产ETF跌1.23%，罗素2000指数跌1.22%，纳指100 ETF跌1.06%，新兴市场ETF，美国国债20+年ETF、标普500价值指数ETF、标普500 ETF、日元做多、黄金ETF-SPDR以及道指ETF亦各跌超过0.5%。]]></title>
@@ -158,17 +216,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyp3702993.d.html</link>
             <guid>3210799</guid>
             <pubDate>Wed, 16 Aug 2023 18:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国参议员Warner就人工智能安全问题致函谷歌、Meta Platforms和微软等公司的CEO，同时也致函苹果、亚马逊和OpenAI等公司。]]></title>
-            <guid>3210773</guid>
-            <pubDate>Wed, 16 Aug 2023 17:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉下调共享办公公司WeWork评级至CC。WeWork（WE）维持超过15%的跌幅，徘徊于日低0.16美元附近。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyp3697198.d.html</link>
-            <guid>3210770</guid>
-            <pubDate>Wed, 16 Aug 2023 17:39:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
