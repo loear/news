@@ -4,11 +4,73 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 16 Aug 2023 18:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 19:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY日内涨超0.50%，现报146.30。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyp3712776.d.html</link>
+            <guid>3210829</guid>
+            <pubDate>Wed, 16 Aug 2023 19:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌1.26%，报18064点，低水265点。]]></title>
+            <guid>3210828</guid>
+            <pubDate>Wed, 16 Aug 2023 19:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌1.26%，报18064点，低水265点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyr2390314.d.html</link>
+            <guid>3210827</guid>
+            <pubDate>Wed, 16 Aug 2023 19:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员：阿根廷比索兑美元在非正式平行市场下跌6.41%，报780，此前一天创下795的纪录低点。]]></title>
+            <guid>3210826</guid>
+            <pubDate>Wed, 16 Aug 2023 19:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷蓝筹比索掉期扩大跌幅，触及日内低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqys3711095.d.html</link>
+            <guid>3210824</guid>
+            <pubDate>Wed, 16 Aug 2023 18:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银首席经济学家保罗·多诺万：“疯狂的加息”已经“造成了足够的破坏”，经济学家现在希望看到这种局面结束的迹象。不过，可能需要更多放缓的通胀数据才能表明这一点。]]></title>
+            <guid>3210821</guid>
+            <pubDate>Wed, 16 Aug 2023 18:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷2030年美元债券下跌至31.4美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqym6931419.d.html</link>
+            <guid>3210820</guid>
+            <pubDate>Wed, 16 Aug 2023 18:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷比索兑美元黑市汇率进一步走低，从730跌至780。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyp3706354.d.html</link>
+            <guid>3210814</guid>
+            <pubDate>Wed, 16 Aug 2023 18:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 9月天然气期货收跌2.52%，报2.5910美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyr2387072.d.html</link>
+            <guid>3210813</guid>
+            <pubDate>Wed, 16 Aug 2023 18:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典政府表示，国家贸易委员会将对瑞典对俄罗斯周边地区的出口增长进行调查，怀疑俄罗斯未完全遵守制裁措施。]]></title>
+            <guid>3210811</guid>
+            <pubDate>Wed, 16 Aug 2023 18:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2309合约夜盘收涨0.03%，报656.30元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyr2386764.d.html</link>
+            <guid>3210809</guid>
+            <pubDate>Wed, 16 Aug 2023 18:30:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[澳元兑美元AUD/USD日内跌幅达0.50%，现报0.6422。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhmqyp3702993.d.html</link>
@@ -147,96 +209,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksr3804798.d.html</link>
             <guid>3210730</guid>
             <pubDate>Wed, 16 Aug 2023 15:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙特内里费岛突发山火 多个村庄被疏散】据央视新闻，当地时间15日晚，西班牙特内里费岛东北部地区突发山火，当地出动了约150名消防员和10架直升机参与灭火。截至当地时间16日凌晨，过火面积已达到约300公顷。受大火影响，特内里费岛上有5个村庄的村民已被疏散。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmkst2497009.d.html</link>
-            <guid>3210728</guid>
-            <pubDate>Wed, 16 Aug 2023 15:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理朔尔茨：德国经济正在经历充满挑战的时期】德国总理朔尔茨表示，德国经济正在经历充满挑战的时期；德国经济面对危机时的表现要比预期更好；能源价格仍有必要进一步回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksp7025811.d.html</link>
-            <guid>3210727</guid>
-            <pubDate>Wed, 16 Aug 2023 15:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国科学家实现从二氧化碳到糖的精准全合成】 著名学术期刊《科学通报》15日刊发最新研究成果显示，中国科学家在实验室内实现了从二氧化碳到糖的精准全合成，人工合成糖迈出关键一步。此次研究成果由中国科学院天津工业生物技术研究所与大连化学物理研究所科研团队历时两年多攻关完成。论文第一作者杨建刚介绍，团队将高浓度二氧化碳等原料在反应溶液中按一定比例调配，在化学催化剂和酶催化剂的作用下，得到了葡萄糖、阿洛酮糖、塔格糖、甘露糖4种己糖。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmkst2496608.d.html</link>
-            <guid>3210726</guid>
-            <pubDate>Wed, 16 Aug 2023 15:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普全球市场情报：Itraxx欧洲交叉指数上涨至近六周最高点，为414个基点，周二收盘时为411个基点。]]></title>
-            <guid>3210724</guid>
-            <pubDate>Wed, 16 Aug 2023 15:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至8月13日，欧盟2023/24年度棕榈油进口量为368075吨，较去年同期的488743吨减少。]]></title>
-            <guid>3210723</guid>
-            <pubDate>Wed, 16 Aug 2023 15:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至8月13日，欧盟2023/24年度豆粕进口量为171万吨，与去年同期持平。]]></title>
-            <guid>3210722</guid>
-            <pubDate>Wed, 16 Aug 2023 15:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至8月13日，欧盟2023/24年大豆进口为133万吨，较去年同期的158万吨减少。]]></title>
-            <guid>3210721</guid>
-            <pubDate>Wed, 16 Aug 2023 15:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据文件显示，科威特石油部长表示，越南的Nghi Son石油炼油厂可能在2023年遭受10亿美元的损失，损失是由于燃油价格波动、贷款支付利率上升以及两个月的维护停机所致。]]></title>
-            <guid>3210720</guid>
-            <pubDate>Wed, 16 Aug 2023 15:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE原糖期货涨2.0%，报24.27美分/磅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksp7022963.d.html</link>
-            <guid>3210718</guid>
-            <pubDate>Wed, 16 Aug 2023 15:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利比亚媒体：利比亚首都的黎波里武装冲突已造成55死146伤】据利比亚媒体当地时间16日报道，利比亚首都的黎波里14日爆发的武装冲突已造成55人死亡，另有146人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmkst2493999.d.html</link>
-            <guid>3210717</guid>
-            <pubDate>Wed, 16 Aug 2023 15:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【13.99万元起售，东风日产发布全新第三代逍客】 8月16日，东风日产全新第三代逍客上市，售价13.99万元-17.49万元。该车型基于雷诺-日产联盟第二代CMF-CD专业SUV平台开发，设计变更率达到100%。全新第三代逍客针对SUV全路况独立开发，优化了整车结构，升级的前后独立悬挂，提高了高强度钢应用比例，并带来半铝制车身。全新第三代逍客搭载与奔驰同源的全新一代HR13涡轮增压发动机和全新一代链条式CVT无级变速器，最大功率116kW，峰值扭矩270N·m。自2008年国产化以来，作为东风日产SUV阵营主力车型之一，逍客累计销量超过170万辆，是15万级合资SUV市场的霸主之一。东风日产方面表示，面对汽车市场竞争局势，东风日产紧跟市场变革，依托自身技术实力，在多个技术领域齐头并进，打造了产品多元化布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmkst2493925.d.html</link>
-            <guid>3210716</guid>
-            <pubDate>Wed, 16 Aug 2023 15:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【双汇发展：长期看冷鲜肉市场发展前景广阔】双汇发展在业绩交流会表示，当前国内冷鲜肉仍处于持续推广阶段，部分地区还有食用热鲜肉的习惯，双汇自2000年引进冷鲜肉生产线以来，一直致力于冷鲜肉在国内市场的推广，长期看，冷鲜肉市场发展前景广阔，公司将持续强化双汇冷鲜肉品牌建设和市场推广。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmkst2492893.d.html</link>
-            <guid>3210714</guid>
-            <pubDate>Wed, 16 Aug 2023 15:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“Hilary”已经形成，预计将加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksr3798526.d.html</link>
-            <guid>3210711</guid>
-            <pubDate>Wed, 16 Aug 2023 14:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州市委第二巡察组对市商务局开展优化营商环境促进民营经济发展壮大专项巡察】广州市商务局发布公告，按照市委巡察工作部署，市委第二巡察组从2023年8月16日至9月28日，对市商务局开展优化营商环境促进民营经济发展壮大专项巡察。本次专项巡察，市委巡察组主要受理反映市商务局党员领导干部在优化营商环境、服务民营企业方面涉嫌违规违纪违法问题的来信来电来访，重点是落实上级相关决策部署、行政审批、行政执法和司法活动中不作为、慢作为、乱作为等问题，尤其是利用职权或职务上的影响干预企业正常生产经营、吃拿卡要、以权谋私等问题。其他不属于专项巡察受理范围的，将按规定由有关部门认真处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksu3814251.d.html</link>
-            <guid>3210710</guid>
-            <pubDate>Wed, 16 Aug 2023 14:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国原油产品四周平均供应量升至2022年3月以来的最高水平。]]></title>
-            <guid>3210708</guid>
-            <pubDate>Wed, 16 Aug 2023 14:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：X平台沉浸式VR视频功能开始改善】社交媒体X公司（原推特）实控人马斯克：X平台上的（计算机系统或图像）沉浸式虚拟现实视频功能开始改善，上划就可以切换到下一个视频。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhmksr3797280.d.html</link>
-            <guid>3210707</guid>
-            <pubDate>Wed, 16 Aug 2023 14:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
