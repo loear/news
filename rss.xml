@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 17 Aug 2023 20:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 21:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[厄瓜多尔警方称，已经排除了针对候选人丹尼尔·诺博亚的袭击的可能性。此前据当地媒体报道，枪声打断了厄瓜多尔的竞选活动。]]></title>
+            <guid>3212151</guid>
+            <pubDate>Thu, 17 Aug 2023 21:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据当地媒体报道，枪声打断了厄瓜多尔的竞选活动。包括总统候选人丹尼尔·诺博亚在内的候选人均未受伤。]]></title>
+            <guid>3212142</guid>
+            <pubDate>Thu, 17 Aug 2023 21:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯军方：俄罗斯军舰摧毁了乌克兰的无人艇并击退了攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqepr9606409.d.html</link>
+            <guid>3212141</guid>
+            <pubDate>Thu, 17 Aug 2023 21:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：风暴“希拉里”（Hilary）正接近成为大型飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqepr9605838.d.html</link>
+            <guid>3212139</guid>
+            <pubDate>Thu, 17 Aug 2023 20:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：一旦飞行员培训完成，美国将批准从丹麦和荷兰向乌克兰派遣F-16战机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqept6382275.d.html</link>
+            <guid>3212138</guid>
+            <pubDate>Thu, 17 Aug 2023 20:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯军方：乌克兰用无人艇袭击了位于克里米亚附近的俄罗斯战舰。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqepn2429425.d.html</link>
+            <guid>3212136</guid>
+            <pubDate>Thu, 17 Aug 2023 20:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯或已损失四分之三的KA-52直升机】8月17日，乌克兰武装部队又击落了两架俄罗斯KA-52战斗直升机。乌克兰总统办公室主任叶尔马克表示，俄罗斯频繁地在前线使用这些直升机，以获得空中优势，并打击乌军的阵地。今天被击落的两架KA-52直升机没有外国部件就无法飞行。据悉，这款直升机包含了来自西方和亚洲国家的高科技部件。相对保守的开源情报组织Oryx表示，可以目测确认的KA-52直升机损失为40架，这个数字还不包括乌克兰声称周四上午击落的两架。《经济学人》文章称，俄罗斯在冲突开始时拥有大约100架KA-52，但现在可能只剩下25架。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqepr9604275.d.html</link>
+            <guid>3212134</guid>
+            <pubDate>Thu, 17 Aug 2023 20:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰接收了来自德国的两套IRIS-T防空系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhqept6380175.d.html</link>
+            <guid>3212125</guid>
+            <pubDate>Thu, 17 Aug 2023 20:25:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国超导（AMSC）收跌3.47%，报8.62美元，逼近8月9日收盘位8.54美元。]]></title>
             <guid>3212123</guid>
@@ -197,97 +243,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxv9828345.d.html</link>
             <guid>3212053</guid>
             <pubDate>Thu, 17 Aug 2023 16:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【得州电网呼吁消费者自愿节电，备用电力不足或致使进入紧急状态】由于极端高温、高需求和低储备的预期，得州电力可靠性委员会（Ercot）要求消费者于当地时间周四下午3点至晚上8点自愿节约电力。Ercot数据显示，预计当地时间下午5点，用电量将达到84.9吉瓦的峰值，到时备用电力只剩下2.4吉瓦有余。当备用电力低于2.3GW时，电网将进入一级紧急状态。当地时间下午电力价格飙升至超过3200美元/兆瓦时，而周三的最高价格约为2000美元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxv9824658.d.html</link>
-            <guid>3212047</guid>
-            <pubDate>Thu, 17 Aug 2023 16:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯总统卢卡申科：乌克兰和白俄罗斯之间曾经存在过直接联系，但乌克兰总统泽连斯基中止了这些联系。]]></title>
-            <guid>3212046</guid>
-            <pubDate>Thu, 17 Aug 2023 16:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国钢铁(X.N)：美国钢铁工会对收购交易没有否决权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxv9824156.d.html</link>
-            <guid>3212045</guid>
-            <pubDate>Thu, 17 Aug 2023 16:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯总统卢卡申科：相信俄罗斯在特殊军事行动中已经实现了其目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxv9822965.d.html</link>
-            <guid>3212043</guid>
-            <pubDate>Thu, 17 Aug 2023 16:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦格理将京东健康评级下调至落后大盘，之前的评级为中性，目标股价为35.30港元，相比周四（8月17日）的收盘价下跌25%。]]></title>
-            <guid>3212042</guid>
-            <pubDate>Thu, 17 Aug 2023 16:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯总统卢卡申科：俄罗斯永远不会放弃克里米亚。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxs2665564.d.html</link>
-            <guid>3212041</guid>
-            <pubDate>Thu, 17 Aug 2023 16:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯总统卢卡申科：普京并未推动白俄罗斯卷入俄乌冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxx6599751.d.html</link>
-            <guid>3212040</guid>
-            <pubDate>Thu, 17 Aug 2023 16:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将提前数月实现冬季储气目标 但能源供应形势依旧脆弱】欧盟将提前两个多月达到冬季天然气储存目标，这对欧盟经济来说是一个提振。自去年俄乌冲突以来，欧盟或主动或被动地与俄罗斯切断了几乎所有的能源关系。官方数据显示，目前欧盟的天然气储备已接近容量的90%，不过欧盟天然气存储设施最多只能存储1000亿立方米，而欧盟的年需求量大约需要3500亿立方米至5000亿立方米。因此，欧洲的能源安全形势仍然脆弱，依赖于持续的液化天然气进口，而这意味着一切都充满了不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxx6599724.d.html</link>
-            <guid>3212039</guid>
-            <pubDate>Thu, 17 Aug 2023 16:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党总统候选人赫德：如果特朗普成为候选人，将不会支持他。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxx6597642.d.html</link>
-            <guid>3212038</guid>
-            <pubDate>Thu, 17 Aug 2023 16:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党总统候选人赫德表示他有信心能够达到辩论门槛。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxx6596895.d.html</link>
-            <guid>3212037</guid>
-            <pubDate>Thu, 17 Aug 2023 16:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际评级机构惠誉下调厄瓜多尔主权信用评级至“CCC ”】 惠誉最新发布的报告，鉴于拉美国家厄瓜多尔本周末举行大选，竞选期间厄国内暴力事件升级，近期该国可能面临更大的政治和金融不稳定风险，因此该机构在8月16日将厄瓜多尔的主权信用评级从“B-”下调至“CCC+”，意为信用风险很高，发生违约的可能真实存在。今年6月，世界银行发布报告称，受政局不稳、自然灾害等影响，下调对厄瓜多尔2023年经济增长预期至2.6%，较1月预测值下调0.5个百分点，仍高于1.5%的地区均值。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhptxv9819131.d.html</link>
-            <guid>3212034</guid>
-            <pubDate>Thu, 17 Aug 2023 16:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：俄罗斯总统普京和伊朗总统讨论了伊朗加入金砖国家的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhptxx6592621.d.html</link>
-            <guid>3212027</guid>
-            <pubDate>Thu, 17 Aug 2023 15:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月17日欧盘美盘重要新闻汇总
-国际新闻：
-1. 美国至8月12日当周初请失业金人数23.9万人，预期24万人，前值24.8万人。
-2. 白俄罗斯总统卢卡申科在明斯克会见国务委员兼国防部长李尚福。
-3. 美国30年期国债收益率盘中上升至4.4219％，为2011年以来最高水平。]]></title>
-            <guid>3212026</guid>
-            <pubDate>Thu, 17 Aug 2023 15:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：俄罗斯总统普京与伊朗总统进行了电话交谈，讨论了贸易和能源。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhptxx6592520.d.html</link>
-            <guid>3212025</guid>
-            <pubDate>Thu, 17 Aug 2023 15:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴克莱上调腾讯评级，预计游戏营收将强劲增长】巴克莱将腾讯评级从平配上调至超配，将腾讯的美国存托凭证(ADR)目标价维持在50美元，较周三（8月16日）收盘价高23%。其在报告中表示，腾讯正“全面发力”并且该公司在未来几个季度的游戏营收可能实现强劲增长。分析师邵炯表示，腾讯第二季度国内游戏营收持平可能是暂时的，因为该公司本季度已恢复发布商业内容。腾讯的最新电脑游戏——“无畏契约”和“命运方舟”——非常成功，并且今年晚些时候还将推出几款重要的新游戏。此外，该公司广告收入的增长势头可能会持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-17/detail-imzhptxv9815227.d.html</link>
-            <guid>3212024</guid>
-            <pubDate>Thu, 17 Aug 2023 15:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
