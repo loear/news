@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 18 Aug 2023 21:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 22:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【猪价将在合理范围内波动】农业农村部监测数据显示，8月14日，全国农产品批发市场猪肉平均价格为22.70元/公斤，比7月31日的20.81元/公斤上涨9.08%。“近期，全国生猪价格开始触底，最近一段时间猪价快速反弹，生猪行情逐渐向好。”中国农业科学院北京畜牧兽医研究所研究员朱增勇对记者说。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhspur5291441.d.html</link>
+            <guid>3213454</guid>
+            <pubDate>Fri, 18 Aug 2023 22:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：同步推进高质量发展和高水平保护】生态环境问题，归根结底是发展方式和生活方式问题。同步推进高质量发展和高水平保护，要求坚决摒弃损害甚至破坏生态环境的发展模式，坚决摒弃以牺牲生态环境换取一时一地经济增长的做法。牢固树立和践行绿水青山就是金山银山的理念，把资源环境承载力作为前提和基础，自觉把经济活动、人的行为限制在自然资源和生态环境能够承受的限度内，在绿色低碳转型中推动经济实现质的有效提升和量的合理增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhspur5290699.d.html</link>
+            <guid>3213453</guid>
+            <pubDate>Fri, 18 Aug 2023 21:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国儿童基金会：苏丹有1360万儿童需要人道主义援助】联合国儿童基金会当地时间18日发布报告表示，苏丹武装冲突使当地本就脆弱的人道主义局势进一步恶化。目前苏丹有1360万儿童需要人道主义援助，而联合国机构的援助只能涉及其中10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhspur5289937.d.html</link>
+            <guid>3213452</guid>
+            <pubDate>Fri, 18 Aug 2023 21:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加密货币交易所FTX前首席执行官Sam Bankman-Fried希望能每周从监狱获释一次，来为其案件的应诉做准备。]]></title>
             <guid>3213446</guid>
@@ -226,23 +244,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhsceq1517692.d.html</link>
             <guid>3213356</guid>
             <pubDate>Fri, 18 Aug 2023 16:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月18日当周石油钻井总数将于十分钟后公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhscet8737240.d.html</link>
-            <guid>3213355</guid>
-            <pubDate>Fri, 18 Aug 2023 16:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内涨幅达1.0%，报80.72美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhrwwv8867074.d.html</link>
-            <guid>3213353</guid>
-            <pubDate>Fri, 18 Aug 2023 16:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典商业地产公司北欧Samhalls建设公司集团（SBBB.SS）的CFO兼副CEO Eva-Lotta Stridh将离职。]]></title>
-            <guid>3213349</guid>
-            <pubDate>Fri, 18 Aug 2023 16:32:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
