@@ -4,11 +4,32 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 18 Aug 2023 20:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 21:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加密货币交易所FTX前首席执行官Sam Bankman-Fried希望能每周从监狱获释一次，来为其案件的应诉做准备。]]></title>
+            <guid>3213446</guid>
+            <pubDate>Fri, 18 Aug 2023 21:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【货品结构不断优化，中欧班列助力我国外贸稳步增长】最新统计显示，今年1至7月，中欧班列累计开行10176列、发送货物110.4万标箱，同比分别增长13%、27%。运量大幅增长的背后是中欧班列运输效率持续提升、货品结构不断优化。上半年，中欧班列单列最大牵引重量由2500吨提高到3000吨。截至目前，中欧班列货物品类已增至5万多种。今年以来，机电产品、汽车整车及配件出口增势强劲，成渝地区每天都有国产汽车搭乘中欧班列出口。上半年中欧班列共发送汽车整车11.9万台，同比增长3倍，成为国产汽车开拓国际市场的重要运输通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhsint5416871.d.html</link>
+            <guid>3213441</guid>
+            <pubDate>Fri, 18 Aug 2023 20:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导收涨0.35%，报8.65美元，本周累计下跌1.31%，延续上周跌14.99%的表现。]]></title>
+            <guid>3213439</guid>
+            <pubDate>Fri, 18 Aug 2023 20:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拓网络（PANW）美股盘后涨幅扩大至8.29%，业绩报告显示，该公司二季度营收、账单好于分析师预期，全年账单指引也好于分析师预期。云端运算安全公司Zscaler（ZS）也涨3.66%，CrowdStrike（CRWD）涨2.34%。]]></title>
+            <guid>3213437</guid>
+            <pubDate>Fri, 18 Aug 2023 20:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Palo Alto Networks第四财季营收20亿美元，分析师预期19.6亿美元。]]></title>
             <guid>3213435</guid>
@@ -222,22 +243,6 @@
             <title><![CDATA[瑞典商业地产公司北欧Samhalls建设公司集团（SBBB.SS）的CFO兼副CEO Eva-Lotta Stridh将离职。]]></title>
             <guid>3213349</guid>
             <pubDate>Fri, 18 Aug 2023 16:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朝中社：朝鲜空军针对美军机进行警戒飞行】 据朝中社18日报道，17日，在美军一架战略侦察机侵入朝鲜领空后，朝鲜人民军空军紧急出动了战机进行应对警戒飞行。（央视新闻）]]></title>
-            <guid>3213346</guid>
-            <pubDate>Fri, 18 Aug 2023 16:17:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国中央合作银行（DZ Bank）给予AMD公司“买进”的初始评级；目标股价125美元，意味着相比周四（8月17日）收盘价上涨20%。]]></title>
-            <guid>3213341</guid>
-            <pubDate>Fri, 18 Aug 2023 16:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指和标普500指数相继转涨，能源板块目前涨0.82%，金融板块涨0.19%，科技板块跌0.11%，可选消费板块跌0.22%，电信服务板块跌0.85%。纳指仍然跌超0.2%，特斯拉目前跌2.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-18/detail-imzhrwwt6963451.d.html</link>
-            <guid>3213338</guid>
-            <pubDate>Fri, 18 Aug 2023 15:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
