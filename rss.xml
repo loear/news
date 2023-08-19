@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 19 Aug 2023 15:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 16:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【财信证券：静待市场底确认 对市场未来走势保持乐观、积极】财信证券认为，证监会提出的一系列举措既是落实中央政治局会议精神和国务院相关精神的体现，也对当前市场关切的重点问题给予了正面、积极的回应，其提出的相关措施将有利于活跃资本市场、提振投资者信心，预计未来政策与措施将持续推进、加快落地。我们维持当前资本市场政策底已经明确的观点，静待市场底的确认，对市场未来走势保持乐观、积极。投资方面，建议关注市场调整之后带来的结构性机会，近期来看政策提振将给房地产产业链、非银金融等顺周期板块带来较好的参与价值；从中长期来看，医药、消费、新能源以及科技板块具备长期的投资价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-20/detail-imzhuhcv4418911.d.html</link>
+            <guid>3213872</guid>
+            <pubDate>Sat, 19 Aug 2023 16:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越南大力促进碳市场发展】在《联合国气候变化框架公约》第26次缔约方大会上，越南承诺将在现有资源和国际社会的合作与支持下制定和开发强有力的措施来减少温室气体排放，力争实现2050年达到净零排放的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhuhct7637463.d.html</link>
+            <guid>3213871</guid>
+            <pubDate>Sat, 19 Aug 2023 15:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【高盛：预计欧元区核心通胀率将维持高位】高盛表示，我们预计欧元区核心通胀率将保持高位，并在9月份之前年率将徘徊在5%以上。我们预计，随着能源价格下降和供应链压力缓解对核心商品通胀的影响，核心通胀将逐步下降，但由于工资强劲增长，服务通胀将保持坚挺。预计到2023年，核心通胀率将达到同比4.0%。随着能源和食品通胀降温，总体通胀将进一步下降，我们预计欧元区第四季度的总体通胀将达到3.0%，由于基数效应，到2023年12月将回升至3.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtzvx4539394.d.html</link>
@@ -488,23 +500,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrfz7975441.d.html</link>
             <guid>3213646</guid>
             <pubDate>Sat, 19 Aug 2023 09:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京明日夜间降雨明显，局地有强对流】北京市气象台19日17时发布：今天夜间晴转多云，南转北风一二级，最低气温24℃；明天白天多云间晴，午后至傍晚有分散性雷阵雨，北转南风二三级，最高气温32℃。明天午后至傍晚有分散性雷阵雨，夜间降雨明显，局地有强对流，外出雨具随身，注意防雷避雨和交通安全。]]></title>
-            <guid>3213643</guid>
-            <pubDate>Sat, 19 Aug 2023 09:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仪表盘亮度或无法调节，克莱斯勒在美召回18.2 万辆汽车】8月19日，据美国国家公路交通安全管理局披露，克莱斯勒将召回部分2022-2023款Jeep Compass车型，共计181,999辆。召回原因为：由于车身控制模块（BCM）中的软件问题，仪表盘（IPC）的亮度水平可能无法调节。经销商将免费更新车身控制模块（BCM）软件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrhc4749870.d.html</link>
-            <guid>3213642</guid>
-            <pubDate>Sat, 19 Aug 2023 09:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《学爸》票房突破9000万】 据猫眼专业版数据，电影 《学爸》  上映2天 ，总票房突破9000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrfx6054554.d.html</link>
-            <guid>3213641</guid>
-            <pubDate>Sat, 19 Aug 2023 09:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
