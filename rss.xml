@@ -4,11 +4,69 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 23 Aug 2023 20:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 21:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周三（8月23日）纽约尾盘，标普500股指期货最终上涨1.72%，道指期货涨0.67%，纳斯达克100股指期货涨2.60%。英伟达目前（美股盘后）涨幅扩大至10%，数据中心业务向好之际，该公司正在举行分析师电话会议。]]></title>
+            <guid>3218168</guid>
+            <pubDate>Wed, 23 Aug 2023 21:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登计划在9月27日拍卖（墨西哥湾）海湾石油租赁权，内政部将石油拍卖面积削减至6700万英亩。]]></title>
+            <guid>3218166</guid>
+            <pubDate>Wed, 23 Aug 2023 21:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ICE美元指数跌0.2%，欧美PMI数据欠佳所致】周三（8月23日）纽约尾盘，ICE美元指数下跌0.19%，报103.382点，日内交投区间为103.981-103.303点，美国PMI数据发布前，一度逼近104点关口和5月31日顶部104.699。彭博美元指数跌0.29%，报1237.41点，日内交投区间为1243.49-1236.49点。美元兑日元下跌0.71%，报144.85，纽约中午曾跌至144.54，逼近8月11日底部144.42，整体上仍然持稳于8月17日顶部146.56附近。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0254239.d.html</link>
+            <guid>3218165</guid>
+            <pubDate>Wed, 23 Aug 2023 21:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国7月PPI同比下降0.2%，前值下降0.20%；韩国7月PPI环比增长0.3%，前值下降0.2%。]]></title>
+            <guid>3218162</guid>
+            <pubDate>Wed, 23 Aug 2023 21:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三纽约尾盘，美元兑日元下跌0.71%，报144.85，纽约中午曾跌至144.54。]]></title>
+            <guid>3218161</guid>
+            <pubDate>Wed, 23 Aug 2023 21:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收涨0.84%，报37.03美元，守住8月22日收涨超108%的涨幅。23日美股盘后，目前跌5.59%，暂报34.96美元。]]></title>
+            <guid>3218157</guid>
+            <pubDate>Wed, 23 Aug 2023 20:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耐克（NKE）收跌2.67%，报98.75美元，连续第十个交易日下跌，数据显示，期间累计下跌9.97%。]]></title>
+            <guid>3218156</guid>
+            <pubDate>Wed, 23 Aug 2023 20:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨0.36%，报1947.68点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7029770.d.html</link>
+            <guid>3218152</guid>
+            <pubDate>Wed, 23 Aug 2023 20:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷股指收涨3.5%继续创历史新高，巴西雷亚尔涨1.7%】阿根廷MERVAL指数收涨3.51%，报61.5万点，在国际货币基金组织（IMF）批准拨款75亿美元当天再创收盘历史新高。巴西圣保罗证交所指数收涨1.70%，报11.8万点。巴西雷亚尔兑美元涨1.72%，暂报4.8524雷亚尔，逼近8月10日顶部4.8415雷亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0252647.d.html</link>
+            <guid>3218151</guid>
+            <pubDate>Wed, 23 Aug 2023 20:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将于下周初公布参与医疗保险价格谈判的最初10款处方药物名单。]]></title>
+            <guid>3218149</guid>
+            <pubDate>Wed, 23 Aug 2023 20:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芯片股迈威尔科技涨3.6%，台积电ADR涨约3%，博通、AMD、纳微半导体涨超2%，美光科技、应用材料、安森美、ASML、科磊等至多涨1.8%，德州仪器、Teradyne、英特尔则至多跌0.68%。]]></title>
+            <guid>3218148</guid>
+            <pubDate>Wed, 23 Aug 2023 20:28:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国超导（AMSC）收涨2.43%，报9.27美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcp8124734.d.html</link>
@@ -182,71 +240,6 @@
             <title><![CDATA[俄罗斯经济部：截至8月21日，年度消费者通胀率为4.88%，较一周前的4.66%有所上升。]]></title>
             <guid>3218069</guid>
             <pubDate>Wed, 23 Aug 2023 16:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国各州财政司库致信联邦贸易委员会（FTC），要求其阻止连锁零售商Kroger与Albertsons之间的并购交易。各州官员告诉FTC称，日用百货零售公司的合并将对劳工造成不利影响。]]></title>
-            <guid>3218068</guid>
-            <pubDate>Wed, 23 Aug 2023 16:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏伊士运河两油轮相撞 运河管理局宣布双向航道通行已恢复正常】埃及苏伊士运河管理局当地时间8月23日宣布苏伊士运河塞得港北部方向和苏伊士南部方向双向航道通行已恢复正常。苏伊士运河管理局局长拉比耶说，当天凌晨两艘油轮因突发状况和机械故障发生轻微碰撞后，该局立即组织救援拖船成功将涉事油轮拖拽出了航道。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifhps3039199.d.html</link>
-            <guid>3218067</guid>
-            <pubDate>Wed, 23 Aug 2023 16:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟糖市场参考价环比上涨0.4%，至817欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpx7244489.d.html</link>
-            <guid>3218065</guid>
-            <pubDate>Wed, 23 Aug 2023 15:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期德债收益率跌超12个基点，欧美PMI数据发布后，追随英债收益率重挫的表现】周三（8月23日）欧市尾盘，德国10年期国债收益率下跌12.5个基点，报2.520%，盘中交投于2.640%-2.518%区间。两年期德债收益率跌10.4个基点，报2.983%，盘中交投于3.110%-2.970%区间；30年期德债收益率跌9.4个基点，报2.630%。2/10年期德债收益率利差跌2.081个基点，报-46.888个基点。法国10年期国债收益率跌13.1个基点，意大利10年期国债收益率跌13.6个基点，西班牙10年期国债收益率跌13.5个基点，希腊10年期国债收益率跌10.0个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpx7244453.d.html</link>
-            <guid>3218064</guid>
-            <pubDate>Wed, 23 Aug 2023 15:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[甲骨文（ORCL）股价快速走低转跌，早盘曾一度上涨逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpt8360404.d.html</link>
-            <guid>3218063</guid>
-            <pubDate>Wed, 23 Aug 2023 15:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和荷兰天然气期货至少跌超13%】周三（8月23日）欧市尾盘，ICE英国天然气期货下跌13.12%，报92.180便士/千卡，欧市早盘一度跌至87.900便士，逼近8月14日底部86.830便士，关于澳大利亚液化天然气（LNG）行业罢工的动态使得价格在8月22日涨至111.330便士，创6月15日以来盘中新高。TTF基准荷兰天然气期货跌14.45%，报36.700欧元/兆瓦时，8月22日也曾涨至47.958欧元创6月15日以来盘中新高。ICE欧盟碳排放交易许可（期货价格）跌0.64%，报88.35欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhps3036563.d.html</link>
-            <guid>3218061</guid>
-            <pubDate>Wed, 23 Aug 2023 15:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元/美元日内涨幅达0.5%，报0.5976。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpx7243122.d.html</link>
-            <guid>3218060</guid>
-            <pubDate>Wed, 23 Aug 2023 15:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指集体收涨 德国DAX30指数涨0.15%】欧洲主要股指集体收涨，德国DAX30指数涨0.15%，英国富时100指数涨0.72%，法国CAC40指数涨0.08%，欧洲斯托克50指数涨0.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpt8359195.d.html</link>
-            <guid>3218059</guid>
-            <pubDate>Wed, 23 Aug 2023 15:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数续降，因较大型船运价指数下跌】波罗的海干散货运价指数周三连续第四日下滑，受海岬型船和巴拿马型船运价指数下跌拖累。波罗的海干散货运价指数下跌43点或3.6%，至1151点。海岬型船运价指数下滑97点，或6.6%，至1364点，为6月5日以来低点。海岬型船日均获利减少802美元，至11315美元。巴拿马型船运价指数下滑42点或2.8%，至1474点。巴拿马型船日均获利下跌384美元，至13263美元。超灵便型散货船运价指数增加1点，至910点。灵便型船运价指数上涨7点，至491点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifhpx7237319.d.html</link>
-            <guid>3218048</guid>
-            <pubDate>Wed, 23 Aug 2023 15:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珍酒李渡上市后首个中报出炉：营收利润双升 增长均超15%】珍酒李渡集团8月23日发布上市2023年半年度报告，报告期公司实现营业收入35.2亿元，同比增长15%；实现毛利20.3亿元，同比增长19.6%。珍酒李渡继续践行产品高端化战略，高端产品收入增速达32%，占比较2022年上半年有大幅提升。在2023年上半年白酒行业充满挑战的情况下，珍酒李渡集团整体收入录得远超市场预期的增速，并实现了高质量增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifafz7367011.d.html</link>
-            <guid>3218047</guid>
-            <pubDate>Wed, 23 Aug 2023 15:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东方携手联想推出全球首款商用大尺寸OGM会议平板】8月23日，联想正式推出全球首款商用大尺寸OGM（One Glass Solution Metal Mesh，金属网格电容触控技术）会议平板——联想thinkplus会议平板P65+，这是OGM触控技术首次在大尺寸商用办公领域的成功应用案例。京东方独供相关显示技术，可以实现高灵敏度、高精确度和多点触控体验，且凭借OGM及贴合工艺实现了超薄机身和极致窄边框。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-23/detail-imzifafy0589081.d.html</link>
-            <guid>3218045</guid>
-            <pubDate>Wed, 23 Aug 2023 14:56:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
