@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 24 Aug 2023 20:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 21:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[诺德斯特龙百货（JWN）：销售已经在最近一个季度失速。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzikakr5947295.d.html</link>
+            <guid>3219614</guid>
+            <pubDate>Thu, 24 Aug 2023 21:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“弗兰克林”现在正向东北偏东方向移动，预计到周末将成为飓风；目前它位于百慕大西南以南约1170公里处，最大持续风速为95公里/小时。]]></title>
+            <guid>3219607</guid>
+            <pubDate>Thu, 24 Aug 2023 20:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收涨32.33%，报49.00美元，创收盘历史新高，收盘市值1137.88亿美元；美股盘初曾涨至盘中历史新高57.80美元。]]></title>
+            <guid>3219606</guid>
+            <pubDate>Thu, 24 Aug 2023 20:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导（AMSC）跌6.47%，报8.67美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzikakp9167654.d.html</link>
+            <guid>3219605</guid>
+            <pubDate>Thu, 24 Aug 2023 20:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【降费率、推新品 基金公司让利同时引“活水”】中国证监会近日确定了活跃资本市场、提振投资者信心的一揽子政策措施，其中之一就是加快投资端改革，大力发展权益类基金，重点措施包括：放宽指数基金注册条件，提升指数基金开发效率，鼓励基金管理人加大产品创新力度；推进公募基金费率改革全面落地，降低管理费率水平等。越来越多的基金公司行动起来，从降低管理费率水平、上报新基金产品、权益类基金发行等方面入手，既为让利基民、提升投资者的获得感，也给市场带来源源不断的“活水”，有助于活跃资本市场。在业内人士看来，基金管理人主动降低基金费率，是让利投资者的具体举措，有利于提升投资者的获得感，推动行业高质量发展。同时，由于管理费率的降低，或对基金管理人的收入产生一定影响，这就要求基金管理人提高运营能力，合理布局相关业务。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiwar9298245.d.html</link>
+            <guid>3219601</guid>
+            <pubDate>Thu, 24 Aug 2023 20:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gap美股盘后跌4.9%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiwap7104967.d.html</link>
@@ -22,7 +50,7 @@
             <pubDate>Thu, 24 Aug 2023 20:17:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gap第二财季同店销售总额下降6%，分析师预期下降4.53%。]]></title>
+            <title><![CDATA[【Gap第二财季净销售低于预期 业绩展望不佳】Gap第二财季每股收益为0.34美元，分析师预期0.097美元；第二财季净销售35.5亿美元，分析师预期35.7亿美元；第二财季同店销售总额下降6%，分析师预期下降4.53%；预计全年净销售降幅将处于5%左右；预计第三财季净销售同比将经历低两位数的降幅；第二财季毛利润率37.6%，分析师预期37.4%；维持全年毛利润率扩大的预期不变。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiwar9296700.d.html</link>
             <guid>3219592</guid>
             <pubDate>Thu, 24 Aug 2023 20:17:43 GMT</pubDate>
@@ -244,105 +272,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6169164.d.html</link>
             <guid>3219521</guid>
             <pubDate>Thu, 24 Aug 2023 17:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两大头部期货公司上半年大赚，券商：预计期货市场成交规模将有所回升】最新2023年半年度报告显示，永安期货报告期实现营业收入119.66亿元，同比下降38.80%；归属于上市公司股东的净利润4.12亿元，同比增长30.40%；归属于上市公司股东的扣除非经常性损益的净利润4.05亿元，同比增长29.02%。南华期货报告期内实现营业收入31.45亿元，同比减少7.80%；实现归属于母公司股东的净利润1.68亿元，同比增长123.62%；实现归属于母公司股东的扣除非经常性损益的净利润1.61亿元，同比增长108.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6164926.d.html</link>
-            <guid>3219515</guid>
-            <pubDate>Thu, 24 Aug 2023 16:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月25日00时33分在广东河源市源城区（有感）（北纬23.77度，东经114.62度）发生2.8级地震，震源深度12千米。]]></title>
-            <guid>3219514</guid>
-            <pubDate>Thu, 24 Aug 2023 16:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局（FAA）将审查包机航班的监管规则，以平抑乘客安全顾虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6163044.d.html</link>
-            <guid>3219510</guid>
-            <pubDate>Thu, 24 Aug 2023 16:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳一开发商破产重整，500多户业主慌了，有人买成4.6万一平】“房子我是全款买的，原本应该2021年交房，现在都延期两年多了，开发商却直接破产了，房子（动工）也一直没有动静。”8月22日下午，在深圳天谷大楼一楼的营销中心，一位全款购买了该项目房子的业主情绪激动地说。包括破产管理人、政府专班的工作人员驻扎在天谷大楼项目营销中心，主要是收集业主的需求，以及回答一些业主们较为关心的问题，比如何时复工、是否要签补充协议、是否有引入新的投资人等。华讯方舟投资的相关文件显示，天谷大楼已售出553套房产。从现场政府专班工作人员处获得的文件显示，有553套房产需与债务人签订补充协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirur7213378.d.html</link>
-            <guid>3219509</guid>
-            <pubDate>Thu, 24 Aug 2023 16:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dropbox直线拉升转涨，现涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6162352.d.html</link>
-            <guid>3219508</guid>
-            <pubDate>Thu, 24 Aug 2023 16:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dropbox将于当地时间本周四晚些时候宣布新的云存储计划费用，将停止为用户提供无限云文档存储服务。]]></title>
-            <guid>3219507</guid>
-            <pubDate>Thu, 24 Aug 2023 16:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美大使要去福岛吃海鲜，韩国网友：去吃吧，让我看看你多大本事】在日本计划当天开始将福岛核污染水排海背景下，美国驻日本大使拉姆·伊曼纽尔称，他将于本月31日访问日本福岛县。伊曼纽尔在电话采访中声称日本将核污染水排海是走在“正确道路上”，并表示此次行程会在该地区的餐厅品尝当地捕获的鱼以及参观海鲜市场。此消息一出，立即引发部分韩日网友不满。美驻日大使将访福岛的新闻引发韩网关注，不少韩国网友表示看不下去，称“美国和韩国都是日本的共犯，核污染水排出去的那一刻，都会受到天谴的”、“去吃吧，让我看看你多大本事”。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirut9384688.d.html</link>
-            <guid>3219506</guid>
-            <pubDate>Thu, 24 Aug 2023 16:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：金砖国家将继续扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirut9384465.d.html</link>
-            <guid>3219505</guid>
-            <pubDate>Thu, 24 Aug 2023 16:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：巴西将支持安哥拉、莫桑比克、刚果民主共和国和尼日利亚加入金砖国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirut9384173.d.html</link>
-            <guid>3219503</guid>
-            <pubDate>Thu, 24 Aug 2023 16:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：金砖国家比G7国家更谦逊，不仅是在经济问题上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6161282.d.html</link>
-            <guid>3219502</guid>
-            <pubDate>Thu, 24 Aug 2023 16:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：我们必须让乌克兰总统泽连斯基和俄罗斯总统普京思考和平的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruq1889638.d.html</link>
-            <guid>3219501</guid>
-            <pubDate>Thu, 24 Aug 2023 16:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国抵押贷款利率跃升至22年来最高水平】抵押贷款融资机构房地美在一份声明中称，美国30年期固定贷款平均利率为7.23%，为2001年5月以来最高，高于上周的7.09%。购房者正面临着近40年来最难以承受的市场。借款成本自去年年初以来翻了一番，这使得目前的房主无法搬家，也无法将房产挂牌出售。房地美首席经济学家SamKhater称决心达成交易的买家可供选择的住房供应“低得可怜”，导致房价正在攀升。根据美国房产经纪协会（NAR）的数据，库存短缺导致上个月二手房购买速度降至今年年初以来最慢。周三政府数据显示，由于转售市场上的房源很少，购买新房的合同上升到一年多以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirur7212383.d.html</link>
-            <guid>3219500</guid>
-            <pubDate>Thu, 24 Aug 2023 16:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国国家版本馆入藏总量达2500万册】去年7月，随着位于北京昌平区的中国国家版本馆中央总馆落成，中国国家版本馆“一总三分”的格局正式形成，这里是中国国家版本资源总库，也是中华文化的种子基因库。8月24日，从中国国家版本馆了解到，当前馆内入藏各类版本2500余万册/件，保藏包括新中国成立以来各类出版物版本以及中华古籍、雕版拓片、碑帖家谱、钱币邮票、数字版本等承载中华文明印记的各类资源，这里是新时代的国家文化殿堂，也是传给后世的文化宝藏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirut9382929.d.html</link>
-            <guid>3219499</guid>
-            <pubDate>Thu, 24 Aug 2023 16:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌媒：瓦格纳集团正在拆除其在白俄罗斯的营地】据《乌克兰真理报》24日报道，“瓦格纳”集团正在拆除位于白俄罗斯奥西波维奇附近的塞尔村营地。起初，瓦格纳军事基地北部约有129顶帐篷；截至8月23日，其中约65顶已经消失。在其西部，原先约64顶帐篷中有27顶被拆除。在基地的中部原本有大约80顶帐篷，现在约有9顶不见了。在总共273顶帐篷中，约有101个已被拆除。如果考虑到每个帐篷可以容纳大约20名士兵，那就意味着在先前驻扎在那里的5,000名瓦格纳士兵中，有2,020名已经离开了位于塞尔村的军事营地。值得注意的是，据媒体早些时候报道，该组织创始人普里戈任当地时间23日遭遇坠机身亡。（环球网）]]></title>
-            <guid>3219498</guid>
-            <pubDate>Thu, 24 Aug 2023 16:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：我们不能否认伊朗的地缘政治重要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruq1888738.d.html</link>
-            <guid>3219497</guid>
-            <pubDate>Thu, 24 Aug 2023 16:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：对普里戈任死亡的调查即将完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziiruv6159340.d.html</link>
-            <guid>3219496</guid>
-            <pubDate>Thu, 24 Aug 2023 16:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国汽车工人联合会（UAW）：将在周五（8月25日）宣布罢工授权表决结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imziirut9382169.d.html</link>
-            <guid>3219495</guid>
-            <pubDate>Thu, 24 Aug 2023 16:17:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
