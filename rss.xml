@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 25 Aug 2023 18:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 19:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[塞浦路斯能源部长：已拒绝美国石油公司雪佛龙在阿佛洛狄忒天然气田进行勘探活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzr8341310.d.html</link>
+            <guid>3220970</guid>
+            <pubDate>Fri, 25 Aug 2023 19:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司：7月汽油产量为26.61万桶/日，环比增长8.3%。7月原油出口量为105.2万桶/日，环比下降12.6%。]]></title>
+            <guid>3220964</guid>
+            <pubDate>Fri, 25 Aug 2023 18:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国连锁面包房公司Hostess Brands考虑出售】美国连锁面包房公司Hostess Brands考虑出售，食品巨头亿滋国际 （Mondelez International）对其有收购兴趣。百事、好时、通用磨坊同样有兴趣参与收购。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzp6079431.d.html</link>
+            <guid>3220956</guid>
+            <pubDate>Fri, 25 Aug 2023 18:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：巴西将恢复对非洲国家的融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzn0755662.d.html</link>
+            <guid>3220939</guid>
+            <pubDate>Fri, 25 Aug 2023 18:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车涨幅扩大至8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzr8335912.d.html</link>
+            <guid>3220920</guid>
+            <pubDate>Fri, 25 Aug 2023 18:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：美国杂货配送公司Instacart申请美国IPO，交易代码“CART”。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzt5110617.d.html</link>
@@ -59,81 +88,6 @@
             <title><![CDATA[市场消息：SpaceX在关键测试中点火启动了“星舰”（Starship）的发动机。]]></title>
             <guid>3220892</guid>
             <pubDate>Fri, 25 Aug 2023 17:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：巴西必须使与安哥拉的贸易多样化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutq0871874.d.html</link>
-            <guid>3220861</guid>
-            <pubDate>Fri, 25 Aug 2023 16:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西代理总统幕僚长Padilha：内阁改组将帮助政府通过国会实现其优先事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutt8443593.d.html</link>
-            <guid>3220860</guid>
-            <pubDate>Fri, 25 Aug 2023 16:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西代理总统幕僚长Padilha：巴西总统卢拉将在从非洲之行回来后改组内阁，但确切日期尚未确定。]]></title>
-            <guid>3220856</guid>
-            <pubDate>Fri, 25 Aug 2023 16:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东欧五国提出将对乌农产品禁令延长至年底】波兰农业部长泰卢斯当地时间8月25日在与保加利亚、匈牙利、罗马尼亚和斯洛伐克四国农业部长会晤后宣布，五国已就乌克兰农产品问题达成一致立场，其中包括三个要点：一是建议将乌克兰农产品进口禁令延长至今年年底，二是为粮食过境提供补贴，三是使被禁产品清单更加灵活。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5214201.d.html</link>
-            <guid>3220854</guid>
-            <pubDate>Fri, 25 Aug 2023 15:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国8月份消费者信心出现小幅下滑，消费者对未来前景持怀疑态度】美国消费者认为，过去三个月经济的快速好转已经放缓，尤其是在通胀方面，他们对未来的前景持怀疑态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5213972.d.html</link>
-            <guid>3220853</guid>
-            <pubDate>Fri, 25 Aug 2023 15:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银集团考虑自收购瑞士信贷以来首次发行AT1债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5213502.d.html</link>
-            <guid>3220841</guid>
-            <pubDate>Fri, 25 Aug 2023 15:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑莓ADR上涨13%，触发盘中临时停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5210813.d.html</link>
-            <guid>3220832</guid>
-            <pubDate>Fri, 25 Aug 2023 15:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因文物被盗 大英博物馆馆长辞职】据英国媒体报道，因此前发生的文物被盗事件，当地时间8月25日，大英博物馆馆长哈特维希·菲舍尔宣布辞职。（央视新闻）]]></title>
-            <guid>3220825</guid>
-            <pubDate>Fri, 25 Aug 2023 15:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海航交所：本周中国出口集装箱运输市场基本保持稳定】据上海航运交易所消息，本周，中国出口集装箱运输市场基本保持稳定，运输需求略显不足，不同航线运价互有涨跌，综合指数小幅下跌。欧洲航线，运输需求增长乏力，供需市场仍表现为供大于求，市场运价继续下跌。北美航线，运输需求维持稳定，供需基本面保持平衡，运价小幅波动。波斯湾航线，运输需求增长放缓，供需基本面维持良好态势，市场运价小幅增长。澳新航线，市场需求呈现快速增长趋势，供求关系稳中向好，市场运价大幅上涨。运输需求缺乏增长动力，供需基本面不理想，即期订舱价继续下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5209350.d.html</link>
-            <guid>3220824</guid>
-            <pubDate>Fri, 25 Aug 2023 15:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国—东盟产业合作区电子信息产业推介会在广西南宁举行】中国—东盟产业合作区电子信息产业推介会8月25日在广西南宁举行，推动广西电子信息产业高质量发展。启动区总规划面积约80平方公里，重点发展电子信息、新能源汽车及零部件、石化化工、装备制造、金属新材料、纺织服装、家电家居、玩具饰品、商贸物流等产业。广西将聚焦中国—东盟产业合作区建设，加快打造国内国际双循环市场经营便利地，构筑高水平开放新高地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8431146.d.html</link>
-            <guid>3220819</guid>
-            <pubDate>Fri, 25 Aug 2023 15:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国一军用飞机在加州坠毁】当地时间8月25日，美国一架F/A-18战斗攻击机在加利福尼亚州圣迭戈县米拉马海军陆战队航空基地附近执行训练飞行任务时坠毁。 目前尚不清楚事故原因，也不清楚坠毁飞机上飞行员的状况以及机上是否还有其他人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8430658.d.html</link>
-            <guid>3220817</guid>
-            <pubDate>Fri, 25 Aug 2023 15:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统：瓦格纳组织会继续留在白俄罗斯】当地时间8月25日，白俄罗斯总统卢卡申科表示，瓦格纳组织会继续留在白俄罗斯。（央视新闻）]]></title>
-            <guid>3220816</guid>
-            <pubDate>Fri, 25 Aug 2023 15:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【正荣地产：上半年交付2.09万套新房，收益同比增长约44%，合约负债超631亿元】正荣地产联交所公告，截至6月30日止六个月，本集团坚决履行保交付责任，实现了20,900余套新房的交付；收益较2022年同期增加43.8%至人民币185.01亿元；及母公司拥有人应占亏损同比收窄43.9%至人民币14.643亿元。截至6月30日止六个月，本集团连同合营企业及联营公司录得合约销售金额人民币96.81亿元。于6月30日，合约负债（即预收销售款）为人民币631.736亿元。于6月30日，本集团连同合营企业及联营公司拥有建筑面积1660万平方米的土地储备。本公司正与债权人特别小组积极讨论其境外整体债务管理建议方案的主要条款，并致力于在切实可行情况下尽快与债权人特别小组就该等主要条款达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5207265.d.html</link>
-            <guid>3220814</guid>
-            <pubDate>Fri, 25 Aug 2023 15:12:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
