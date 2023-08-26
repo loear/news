@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 26 Aug 2023 18:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 19:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中蒙策克口岸进口货运量突破1000万吨】从内蒙古阿拉善盟额济纳海关获悉，中蒙策克口岸今年累计进口货运量达到1000.06万吨，出入境车辆157725辆次，单日过货量创近三年来新高，突破10万吨。据介绍，策克口岸作为我国建设向北开放重要桥头堡的前沿阵地，今年以来，海关与边检部门加强协作，指派专人与企业提前进行舱单申报、运输工具管理、健康申报等信息对接，确保车辆进出境“即到即卸”货物“即报即查”。]]></title>
+            <guid>3221570</guid>
+            <pubDate>Sat, 26 Aug 2023 18:59:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多国要求大英博物馆归还本国国宝 博物馆约2000件藏品近期失窃，馆长宣布辞职】当地时间8月26日，大英博物馆董事会主席乔治·奥斯本向媒体表示，该博物馆部分被盗馆藏已经被找回。乔治·奥斯本称，“本可以采取更多措施”来尽快解决馆藏被盗问题。奥斯本表示，目前还不清楚到底有多少件文物丢失，“估计大约2000件，但我不得不承认，这是一个非常临时的数字。”他说。值得注意的是，文物失踪丑闻引发各国强烈抗议，要求大英博物馆归还文物。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imziqcyr7238606.d.html</link>
@@ -525,12 +530,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziphvc4454621.d.html</link>
             <guid>3221308</guid>
             <pubDate>Sat, 26 Aug 2023 08:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南航通报空乘跌落：交接旅客遗失物品时，意外跌落】南航深圳分公司微信公众号8月26日发布情况说明：8月24日14:40左右，南航CZ3352航班（常州至深圳）起飞前，一名乘务员在准备与地面工作人员交接前序航班旅客遗失物品时，意外从客梯车跌落。南航对此高度重视，已安排专人陪同受伤乘务员前往医院救治，目前情况稳定。事件发生的具体原因，相关单位正在进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziphvc4451460.d.html</link>
-            <guid>3221307</guid>
-            <pubDate>Sat, 26 Aug 2023 08:05:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
