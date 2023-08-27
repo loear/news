@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 27 Aug 2023 20:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 21:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -386,12 +386,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirsaa5949820.d.html</link>
             <guid>3221804</guid>
             <pubDate>Sun, 27 Aug 2023 09:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【博思软件：上半年净利润亏损4481.52万元 拟10派0.3元】博思软件发布半年报，上半年实现营业收入6.23亿元，同比增长23.98%；净利润亏损4481.52万元，上年同期亏损5050.77万元；公司拟每10股派发现金红利0.3元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirsae1269524.d.html</link>
-            <guid>3221801</guid>
-            <pubDate>Sun, 27 Aug 2023 09:14:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
