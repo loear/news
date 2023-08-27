@@ -4,11 +4,45 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 27 Aug 2023 21:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 22:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月28日05时45分在哥伦比亚发生5.3级地震，震源深度10千米。]]></title>
+            <guid>3221984</guid>
+            <pubDate>Sun, 27 Aug 2023 22:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股期货亚市盘初小幅走高，三大股指期货均涨约0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzisxvs2903792.d.html</link>
+            <guid>3221982</guid>
+            <pubDate>Sun, 27 Aug 2023 22:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【回购股份、资管自购、下调交易经手费，券商多管齐下助力提振市场信心】 近日，国金证券、海通证券、东方财富相继披露了回购股票方案。还有多家券商宣布通过旗下资管公司等途径积极申购权益类产品，带动更多资金驰援资本市场。与此同时，大批券商集中宣布下调佣金费率，将于今日正式实施。中信证券秦培景团队认为，当前，上市公司回购潮处于过去5年来高点，历史上与市场底部重合度较高。同时，机构自购潮再次出现，过去5年来该现象平均领先市场底1个月左右。A股当前已经具备了年度配置价值，建议择机布局产业和政策主题。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzisxvs2903746.d.html</link>
+            <guid>3221981</guid>
+            <pubDate>Sun, 27 Aug 2023 22:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：下周将举行会议做出加强乌克兰军队的决定】 据乌克兰国家通讯社报道，乌克兰总统泽连斯基当地时间27日在晚间讲话中宣布，将于下周举行新的最高统帅部会议，议程已确定，特别是将做出加强乌克兰军队的决定。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzisxvt9678544.d.html</link>
+            <guid>3221977</guid>
+            <pubDate>Sun, 27 Aug 2023 21:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰开辟航运通道以恢复粮食出口】乌克兰总统泽连斯基说，一艘悬挂利比里亚国旗的散货船抵达罗马尼亚水域，这是自俄罗斯退出黑海安全运输协议以来第二艘从敖德萨起航的船只。泽连斯基在X平台上说，新加坡运营的Primus成功地通过了乌克兰建立的临时黑海走廊。在联合国和土耳其于2022年撮合的乌克兰与俄罗斯的粮食出口协议于7月破裂后，乌克兰方面开辟了这条航运通道。该协议是乌克兰恢复粮食出口的一种方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzistpu3029545.d.html</link>
+            <guid>3221974</guid>
+            <pubDate>Sun, 27 Aug 2023 21:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为应对通胀问题，德国执政的社会民主党（SDP）将就一份关于降低住房租金涨幅限制的方案进行表决。]]></title>
+            <guid>3221973</guid>
+            <pubDate>Sun, 27 Aug 2023 21:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【热带风暴“伊达利亚”或于30日登陆美国佛罗里达州】当地时间8月27日，据报道，美国国家飓风中心（NHC）当日表示，热带风暴“伊达利亚”已在墨西哥科苏梅尔岛东北约130公里的尤卡坦海峡附近形成，并正向美国佛罗里达州移动。NHC表示，热带风暴“伊达利亚”的持续风速达每小时65公里，可能于当地时间29日下午在墨西哥湾东部成为飓风，并于30日在佛罗里达州登陆。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzistpv9803362.d.html</link>
@@ -344,48 +378,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzx6468153.d.html</link>
             <guid>3221816</guid>
             <pubDate>Sun, 27 Aug 2023 09:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金公司：A股当前位置机会大于风险 关注三条主线】中金公司最新研报指出，对于后续市场表现不必悲观，A股当前位置机会大于风险。行业建议方面，阶段性关注价值风格，中报期间关注业绩可能超预期低预期个股。建议关注三条主线：1）受益于地产政策边际变化、基本面修复空间和弹性比较大的地产链相关行业，例如房地产，以及家电、家居等地产后周期相关行业；受益于资本市场政策预期的非银板块等也有望表现较好。2）需求好转或库存和产能等供给格局改善，具备较大业绩弹性的领域，例如白酒、白色家电、珠宝首饰、电网设备和航海装备等。3）股息率高且具备优质现金流的领域，低估值国央企仍有修复空间。前期涨幅较大的TMT相关行业可能短期内面临一定压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirsaa5954422.d.html</link>
-            <guid>3221815</guid>
-            <pubDate>Sun, 27 Aug 2023 09:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信建投：本次市场底已经近在咫尺】中信建投指出，当前市场已经体现出历史上市场底附近的许多特征，包括但不限于：①公募及券商机构自购旗下基金，且集中在权益类产品；②近200家上市公司实控人或董事长提议回购，或董事会预案计划进行回购；③股债收益差已经跌破均值-2std，到达历史低位。但和历史上相关案例不同，本次市场调整并非经济趋势下行，而是处于弱复苏进程中的暂时性波折，经济的整体修复情况仍然向好，我们认为本次市场底已经近在咫尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzz3244575.d.html</link>
-            <guid>3221814</guid>
-            <pubDate>Sun, 27 Aug 2023 09:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光大证券：工业企业盈利当月同比增速或将于四季度转正】光大证券点评7月工业企业盈利数据指出，7月，工业企业盈利继续修复，当月同比降幅已连续5个月收窄。一则，PPI同比增速触底回升，对企业盈利的拖累边际减弱。二则，企业单位成本年内首次同比减少，推动利润率降幅继续收窄。三则，政策发力见效下，原材料制造业利润降幅明显收窄，高端装备制造、绿色低碳产业利润亦保持稳定增长。向前看，工业企业盈利当月同比增速或将于四季度转正。一是，下半年PPI同比有望回升，从价格和利润率两个层面推动企业盈利回暖。二是，库存周期已向被动去库切换，企业去库压力将明显减轻。三是，8月以来稳增长政策密集落地，有望加强企业盈利的修复动能。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzx6464467.d.html</link>
-            <guid>3221810</guid>
-            <pubDate>Sun, 27 Aug 2023 09:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中金策略：A股积极因素继续累积】中金策略研报表示，我们认为虽然受资金面负反馈因素影响，指数短期走势仍有不确定性，但伴随政策层面积极化解当前主要矛盾、企业盈利底部逐渐显现，估值、情绪和投资者行为进一步呈现偏底部特征，对于后续市场表现不必悲观，A股当前位置机会大于风险。配置层面，近期价值风格略好于成长但结构有所分化，我们建议结合后续政策环境，继续关注可能受益于预期变化的领域，如地产产业链等，近期积极披露回购方案的企业及中报超预期公司也有望受到市场关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzz3241241.d.html</link>
-            <guid>3221808</guid>
-            <pubDate>Sun, 27 Aug 2023 09:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大元泵业：上半年净利同比增长68.31% 拟10派2元】大元泵业披露半年报，上半年公司实现营业收入9.04亿元，同比增长33.7%；净利润1.67亿元，同比增长68.31%；扣非净利润1.62亿元，同比增长70.79%；基本每股收益1元。公司拟每10股派发现金红利2元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzz3241053.d.html</link>
-            <guid>3221807</guid>
-            <pubDate>Sun, 27 Aug 2023 09:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兰州：食盐供给充足，价格平稳】8月27日，兰州市市场监督管理局官微发布通告称，受“福岛第一核电站核污水排放入海”消息影响，我国部分地区出现市民抢购食盐现象。兰州市市场销售的食盐品种以湖盐和井矿盐为主，食盐供给充足，价格平稳，能够满足广大市民消费需求，请广大市民不必担忧，理性消费，不信谣、不传谣。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirrzz3239808.d.html</link>
-            <guid>3221805</guid>
-            <pubDate>Sun, 27 Aug 2023 09:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山外山：上半年净利同比增687.1% 拟10转4.9派2元】山外山披露半年报，上半年公司实现营业收入3.95亿元，同比增长157.13%；净利润1.34亿元，同比增长687.1%；扣非净利润1.29亿元，同比增838.66%；基本每股收益0.93元。公司拟每10股转增4.9股并派发红利2元（含税）。公司血液净化设备在国内外医院的认可度逐年提升，销售覆盖范围不断扩大，报告期内血液净化设备业务增长237.93%、耗材业务增长52.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imzirsaa5949820.d.html</link>
-            <guid>3221804</guid>
-            <pubDate>Sun, 27 Aug 2023 09:31:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
