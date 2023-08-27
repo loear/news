@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 27 Aug 2023 17:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 18:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -385,16 +385,6 @@
             <title><![CDATA[美国国家飓风中心：第十号低压正在尤卡坦附近徘徊，预计将在几天内在墨西哥东部海湾成为一场飓风。]]></title>
             <guid>3221798</guid>
             <pubDate>Sun, 27 Aug 2023 09:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风弗兰克林位于百慕大以南南西约925公里处，最大持续风速为150公里/小时。]]></title>
-            <guid>3221797</guid>
-            <pubDate>Sun, 27 Aug 2023 08:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计弗兰克林今天晚些时候将转向西北偏北，随后在下周初向北和东北偏北移动。]]></title>
-            <guid>3221796</guid>
-            <pubDate>Sun, 27 Aug 2023 08:59:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
