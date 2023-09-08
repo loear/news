@@ -4,11 +4,45 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 08 Sep 2023 21:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 22:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家疾控局发布秋季儿童轮状病毒感染健康提示】进入秋季，部分家长表示家中孩子出现呕吐、腹泻症状的情况变多，这可能是儿童轮状病毒急性胃肠炎。国家疾控局近日发布健康提示，提醒孩子及其看护人要养成良好卫生习惯，尤其是注意手卫生，不用脏手触摸口、眼、鼻和食物等，不要让幼儿吃手，及时清洁孩子的手，预防秋季儿童轮状病毒感染。中国疾控中心有关专家表示，被感染的儿童，病情一般不会太严重。适当补液，可以“不药而愈”。但当腹泻或呕吐严重时，不可忽视，要及时就医。避免孩子因为脱水严重导致休克，尤其是小于1岁的幼儿。同时，建议家长们注意家庭卫生，室内常通风，孩子们的食具使用前需清洗干净，衣被、玩具等要勤换洗。（新华网）]]></title>
+            <guid>3236044</guid>
+            <pubDate>Fri, 08 Sep 2023 22:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：由于缺乏信息，暂停确认对白俄罗斯的评级。]]></title>
+            <guid>3236043</guid>
+            <pubDate>Fri, 08 Sep 2023 22:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：发展银发经济要坚持问题导向】近年来，在一系列政策支持下，我国银发经济取得了初步发展。但从目前看，产业发展仍旧总量不够、结构不优、供需不平衡。供给的产品没有及时跟进，质量和服务都有待提高，大量细分需求尚未得到重视和满足，侵害老年消费者合法权益等现象时有发生。让银发经济的消费潜力真正变成发展实力，关键是要坚持问题导向，多方共同发力老人“急难愁盼”的诸多“关键小事”，正是政策的发力点、市场的增长点。要着力解决老年助餐、失能照护等事项，对公共基础设施、居家环境、交通出行、智能应用等加快适老化改造。完善要素支持，培育更多主体，推动银发经济实现规模化、标准化、集群化、品牌化发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzu1796674.d.html</link>
+            <guid>3236041</guid>
+            <pubDate>Fri, 08 Sep 2023 22:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天风证券分析师郭明錤：预计标准版iPhone 15是首款采用堆栈CIS的手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzs5018253.d.html</link>
+            <guid>3236040</guid>
+            <pubDate>Fri, 08 Sep 2023 22:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台9月9日06时继续发布暴雨黄色预警】预计，9月9日08时至10日08时，山西南部、河北中部、北京东南部、天津大部、河南北部和西部、广东中部和西南部、香港、澳门、广西东南部、海南岛、台湾岛等地部分地区有大到暴雨，其中，北京东南部、广西东南部沿海、广东西南部等地部分地区有大暴雨（100～150毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过70毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzs5018101.d.html</link>
+            <guid>3236039</guid>
+            <pubDate>Fri, 08 Sep 2023 22:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳气象台：暴雨黄色预警信号持续生效中】深圳市气象台9月9日05时10分发布预报：目前强雷雨云团位于海上，强降雨云团将可能于8时后自南向北影响深圳市，降雨趋于频密。暴雨黄色预警信号持续生效中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzs5016419.d.html</link>
+            <guid>3236036</guid>
+            <pubDate>Fri, 08 Sep 2023 21:46:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[惠誉：确认土耳其主权信用评级在B，上调展望至稳定（之前持负面展望）。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzu1791299.d.html</link>
@@ -249,54 +283,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmu1881054.d.html</link>
             <guid>3235946</guid>
             <pubDate>Fri, 08 Sep 2023 17:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌提出动议驳回甘尼特的广告技术诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5238405.d.html</link>
-            <guid>3235941</guid>
-            <pubDate>Fri, 08 Sep 2023 16:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯外交部召见亚美尼亚驻俄大使】俄罗斯外交部当地时间9月8日发布消息称，俄罗斯外交部召见了亚美尼亚驻俄罗斯大使，并向其递交了照会。俄罗斯外交部表示，俄方从俄亚两国盟友关系的角度出发，将遵守关于发展两国关系造福两国人民的协议，俄方将继续致力于亚美尼亚和阿塞拜疆间的协议得到遵守。此外，在召见中，俄方向亚美尼亚大使就亚美尼亚与美国举行军演等事项表达了强硬措辞。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5238309.d.html</link>
-            <guid>3235940</guid>
-            <pubDate>Fri, 08 Sep 2023 16:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【强降雨致珠三角多地发生内涝，广东全省提前转移8万余人】据广东省防汛防旱防风总指挥部办公室消息，受7日至8日的强降雨影响，广州、深圳、珠海、东莞、肇庆、佛山等市发生内涝、滑坡、道路中断等险情。深圳站、深圳东站普速铁路及广深城际铁路共47列车停运，79条路段、6个收费站、1座桥实施交通管制，深圳、珠海、江门全市停课，佛山、东莞、广州部分区域停课。截至8日17时，全省共提前转移80048人。防汛形势严峻。广东省防汛防旱防风总指挥部办公室通报，截至8日17时，广东省共有15个地市启动防汛应急响应。其中，广州、深圳、佛山、江门、中山5个地市启动防汛Ⅱ级应急响应。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmu1877985.d.html</link>
-            <guid>3235939</guid>
-            <pubDate>Fri, 08 Sep 2023 16:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用电气董事会宣布对公司发行在外的普通股派发每股0.08美元的股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5237495.d.html</link>
-            <guid>3235938</guid>
-            <pubDate>Fri, 08 Sep 2023 16:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国安会印太事务协调官坎贝尔：印度和美国在中东铁路项目上进行了广泛的幕后合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5236164.d.html</link>
-            <guid>3235937</guid>
-            <pubDate>Fri, 08 Sep 2023 16:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国安会印太事务协调官坎贝尔：与印度方面关于改革的讨论涉及处理债务的机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5234508.d.html</link>
-            <guid>3235936</guid>
-            <pubDate>Fri, 08 Sep 2023 16:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国安会印太事务协调官坎贝尔：美国和印度正在讨论国际金融机构的重要改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmy2011275.d.html</link>
-            <guid>3235935</guid>
-            <pubDate>Fri, 08 Sep 2023 16:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：在应对气候问题上显然取得了一些进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmy2011162.d.html</link>
-            <guid>3235934</guid>
-            <pubDate>Fri, 08 Sep 2023 16:16:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
