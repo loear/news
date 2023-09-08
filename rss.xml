@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 08 Sep 2023 20:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 21:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[惠誉：确认土耳其主权信用评级在B，上调展望至稳定（之前持负面展望）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzu1791299.d.html</link>
+            <guid>3236031</guid>
+            <pubDate>Fri, 08 Sep 2023 21:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月09日04时55分在新疆阿克苏地区库车市（北纬41.11度，东经83.62度）发生3.7级地震，震源深度16千米。]]></title>
+            <guid>3236029</guid>
+            <pubDate>Fri, 08 Sep 2023 21:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果公司与专利局达成协议，将获得“智能键盘”商标】美国专利与美国商标局（USPTO）将批准苹果公司为“智能键盘”产品申请的两个商标，前提是苹果修改对于该商标所覆盖产品的品类描述。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzs5013897.d.html</link>
+            <guid>3236028</guid>
+            <pubDate>Fri, 08 Sep 2023 20:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收跌4.67%，报17.15美元，本周累计下跌41.85%，延续上周回调57.11%的表现。]]></title>
+            <guid>3236023</guid>
+            <pubDate>Fri, 08 Sep 2023 20:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：由于缺乏信息，暂停确认对白俄罗斯的评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzu1789275.d.html</link>
+            <guid>3236020</guid>
+            <pubDate>Fri, 08 Sep 2023 20:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普：由于缺乏信息，暂停确认对白俄罗斯的评级。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzyzu1788268.d.html</link>
@@ -56,7 +84,7 @@
             <pubDate>Fri, 08 Sep 2023 20:06:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RH收跌6%，创2020年3月份以来最差单日表现。]]></title>
+            <title><![CDATA[RH收跌15.63%，创2020年3月份以来最差单日表现。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzutq6443278.d.html</link>
             <guid>3236006</guid>
             <pubDate>Fri, 08 Sep 2023 20:00:56 GMT</pubDate>
@@ -269,35 +297,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmy2011162.d.html</link>
             <guid>3235934</guid>
             <pubDate>Fri, 08 Sep 2023 16:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱正接近与AGL达成私人信贷合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqms6552285.d.html</link>
-            <guid>3235931</guid>
-            <pubDate>Fri, 08 Sep 2023 16:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：墨西哥地区发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmy2009137.d.html</link>
-            <guid>3235928</guid>
-            <pubDate>Fri, 08 Sep 2023 16:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国安会印太事务协调官坎贝尔：拜登向印度总理莫迪明确表示，民主是美印双边关系中的重要问题。]]></title>
-            <guid>3235922</guid>
-            <pubDate>Fri, 08 Sep 2023 16:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登、印度总理莫迪欢迎美国工商界在印度航空工业领域增加投资的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqmw5230356.d.html</link>
-            <guid>3235921</guid>
-            <pubDate>Fri, 08 Sep 2023 16:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际可再生能源署总干事：中国引领世界能源转型】9月5日至7日，2023年国际能源变革论坛在苏州召开，国际可再生能源署总干事弗朗西斯科·拉·卡梅拉在论坛期间表示，中国是《巴黎协定》的坚定践行者，以风电、太阳能发电等为代表的清洁能源产业在中国加速推进，为世界能源转型提供了强大动能。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzkzqms6550556.d.html</link>
-            <guid>3235920</guid>
-            <pubDate>Fri, 08 Sep 2023 16:01:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
