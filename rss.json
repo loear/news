@@ -6,6 +6,58 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3239544,
+            "content_html": "",
+            "title": "周二（9月12日）纽约尾盘，标普500股指期货最终下跌0.55%，道指期货跌0.02%，纳斯达克100股指期货跌1.06%。",
+            "date_modified": "2023-09-12T21:05:31.000Z"
+        },
+        {
+            "id": 3239543,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmw4595556.d.html",
+            "title": "美元兑瑞郎USD/CHF回落至0.89下方，日内跌0.19%。",
+            "date_modified": "2023-09-12T21:00:44.000Z"
+        },
+        {
+            "id": 3239542,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmw4595473.d.html",
+            "title": "【ICE美元指数冲高回落，日元跌向去年11月以来最低位】 周二（9月12日）纽约尾盘，ICE美元指数跌0.05%，报104.530点，日内交投区间为104.918-104.460点。彭博美元指数涨0.08%，报1251.35点，日内交投区间为1249.19-1253.86点。美元兑日元上涨0.33%，报147.07，盘中交投于146.44-147.23，试图上探9月7日顶部147.87——2022年11月4日以来新高（当天顶部在148.40，当年10月21日曾涨至151.95）。",
+            "date_modified": "2023-09-12T21:00:31.000Z"
+        },
+        {
+            "id": 3239538,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmu7816836.d.html",
+            "title": "法庭文件显示，一名美国法官拒绝了FTX创始人SBF有关在审判前释放其出狱的请求。",
+            "date_modified": "2023-09-12T20:46:18.000Z"
+        },
+        {
+            "id": 3239537,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmw4593889.d.html",
+            "title": "欧元兑美元EUR/USD短线上扬10点，现报1.0750。",
+            "date_modified": "2023-09-12T20:46:11.000Z"
+        },
+        {
+            "id": 3239533,
+            "content_html": "",
+            "title": "美国至9月8日当周API原油库存增加117.4万桶，预期减少200万桶，前值减少552.1万桶。",
+            "date_modified": "2023-09-12T20:36:07.000Z"
+        },
+        {
+            "id": 3239530,
+            "content_html": "",
+            "title": "美国白宫：反对立法修订《清洁空气法案》，以阻止环保署为加州的污染标准发布联邦优先豁免。",
+            "date_modified": "2023-09-12T20:31:59.000Z"
+        },
+        {
+            "id": 3239526,
+            "content_html": "",
+            "title": "曼联(MANU.N)与高通(QCOM.O)达成延长战略合作协议，曼联球衣胸前将继续展示高通骁龙(Snapdragon)品牌。",
+            "date_modified": "2023-09-12T20:21:07.000Z"
+        },
+        {
             "id": 3239525,
             "content_html": "",
             "title": "特斯拉（TSLA）收跌2.23%，报267.48美元，在9月11日上涨10.09%之后略微回吐涨幅，12日盘初一度涨至278.39美元——逼近7月20日顶部280.93美元。",
@@ -245,58 +297,6 @@
             "content_html": "",
             "title": "苹果(AAPL.O)：iPhone 15 Pro的屏幕尺寸为6.1英寸，而iPhone 15 Pro Max的屏幕尺寸为6.7英寸。",
             "date_modified": "2023-09-12T17:59:21.000Z"
-        },
-        {
-            "id": 3239435,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4692582.d.html",
-            "title": "苹果(AAPL.O)：iPhone 15系列手机将通过卫星引入道路援助服务。",
-            "date_modified": "2023-09-12T17:50:04.000Z"
-        },
-        {
-            "id": 3239434,
-            "content_html": "",
-            "title": "苹果(AAPL.O)：iPhone 15采用了更先进的机器学习模型，可以自动优先处理用户的语音。",
-            "date_modified": "2023-09-12T17:48:33.000Z"
-        },
-        {
-            "id": 3239428,
-            "content_html": "",
-            "title": "iPhone 15的视频拍摄现在可以连续变焦，让拍摄者更好地构图。肖像模式也将得到升级。色彩更丰富，弱光表现更好。",
-            "date_modified": "2023-09-12T17:45:48.000Z"
-        },
-        {
-            "id": 3239425,
-            "content_html": "",
-            "title": "苹果(AAPL.O)：相机系统使用计算摄影技术，将图像组合成更高清晰度的图像，在实际文件大小中平衡光线和细节。",
-            "date_modified": "2023-09-12T17:43:37.000Z"
-        },
-        {
-            "id": 3239423,
-            "content_html": "",
-            "title": "苹果(AAPL.O)：iPhone 15具有新的2倍变焦选项，可用于拍摄照片和4K视频。",
-            "date_modified": "2023-09-12T17:42:29.000Z"
-        },
-        {
-            "id": 3239422,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7913358.d.html",
-            "title": "苹果(AAPL.O)：在iPhone 15中，钴和铜100%采用可回收材料。",
-            "date_modified": "2023-09-12T17:42:18.000Z"
-        },
-        {
-            "id": 3239420,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcs8960353.d.html",
-            "title": "英国石油公司（BP）的美国存托凭证（ADRs）迅速回吐涨幅，股价现涨1.6%。",
-            "date_modified": "2023-09-12T17:39:53.000Z"
-        },
-        {
-            "id": 3239419,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4689914.d.html",
-            "title": "英国石油(BP.N)首席执行官伯纳德·卢尼将辞职。",
-            "date_modified": "2023-09-12T17:39:46.000Z"
         }
     ]
 }
