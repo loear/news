@@ -4,25 +4,185 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 12 Sep 2023 17:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 18:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[苹果(AAPL.O)：Apple Watch Series 9引入了双击手势操控。新款苹果手表也可通过手势控制。]]></title>
-            <guid>3239392</guid>
-            <pubDate>Tue, 12 Sep 2023 17:15:28 GMT</pubDate>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro将引入日志编码（LOG ENCODING）。]]></title>
+            <guid>3239468</guid>
+            <pubDate>Tue, 12 Sep 2023 18:18:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果(AAPL.O)：Apple Watch Series 9配备窄边框和具有常亮功能的RETINA屏幕。]]></title>
-            <guid>3239391</guid>
-            <pubDate>Tue, 12 Sep 2023 17:14:48 GMT</pubDate>
+            <title><![CDATA[Cirrus Logic Inc.（CRUS）涨幅扩大至超过4.6%，刷新日高至78.30美元。]]></title>
+            <guid>3239466</guid>
+            <pubDate>Tue, 12 Sep 2023 18:17:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果(AAPL.O)：Apple Watch Series 9配备了一款新的第二代超宽带芯片，可以为iPhone提供精准定位功能。]]></title>
-            <guid>3239390</guid>
-            <pubDate>Tue, 12 Sep 2023 17:13:10 GMT</pubDate>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro也支持将Pro Res视频直接录制到外部存储驱动器。]]></title>
+            <guid>3239465</guid>
+            <pubDate>Tue, 12 Sep 2023 18:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro的夜间拍摄性能提高了两倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4698655.d.html</link>
+            <guid>3239463</guid>
+            <pubDate>Tue, 12 Sep 2023 18:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro系列配备了更先进的4800万像素主摄像头。可以在24、28和35毫米焦距下拍摄。iPhone 15 Pro具有5倍光学变焦。]]></title>
+            <guid>3239462</guid>
+            <pubDate>Tue, 12 Sep 2023 18:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯预计2023年卢布兑美元平均汇率为85.2，之前的预测为76.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697975.d.html</link>
+            <guid>3239459</guid>
+            <pubDate>Tue, 12 Sep 2023 18:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯经济部将2023年通胀预测从5.3%上调至7.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697852.d.html</link>
+            <guid>3239457</guid>
+            <pubDate>Tue, 12 Sep 2023 18:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果称iPhone 15 Pro和iPhone 15 Pro Max的新GPU是迄今为止对GPU最大的重新设计，可提高性能、效率和渲染效果。]]></title>
+            <guid>3239456</guid>
+            <pubDate>Tue, 12 Sep 2023 18:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 15 Pro和iPhone 15 Pro Max的USB—C接口允许更快的数据传输速度（USB3和每秒10GB）。]]></title>
+            <guid>3239453</guid>
+            <pubDate>Tue, 12 Sep 2023 18:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲油菜籽期货跌超3%】 周二（9月12日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报232.50欧元/吨。油菜籽期货跌3.32%，报429.75欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697187.d.html</link>
+            <guid>3239452</guid>
+            <pubDate>Tue, 12 Sep 2023 18:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 10月黄金期货收跌0.62%，报1917.20美元/盎司。COMEX 12月黄金期货收跌0.62%，报1935.10美元/盎司。]]></title>
+            <guid>3239451</guid>
+            <pubDate>Tue, 12 Sep 2023 18:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro系列配备“STANDBY”息屏显示功能。]]></title>
+            <guid>3239447</guid>
+            <pubDate>Tue, 12 Sep 2023 18:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 10月白银期货收涨0.06%，报23.197美元/盎司。COMEX 12月白银期货收涨0.08%，报23.402美元/盎司。]]></title>
+            <guid>3239445</guid>
+            <pubDate>Tue, 12 Sep 2023 18:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro的屏幕尺寸为6.1英寸，而iPhone 15 Pro Max的屏幕尺寸为6.7英寸。]]></title>
+            <guid>3239443</guid>
+            <pubDate>Tue, 12 Sep 2023 17:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15系列手机将通过卫星引入道路援助服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4692582.d.html</link>
+            <guid>3239435</guid>
+            <pubDate>Tue, 12 Sep 2023 17:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15采用了更先进的机器学习模型，可以自动优先处理用户的语音。]]></title>
+            <guid>3239434</guid>
+            <pubDate>Tue, 12 Sep 2023 17:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 15的视频拍摄现在可以连续变焦，让拍摄者更好地构图。肖像模式也将得到升级。色彩更丰富，弱光表现更好。]]></title>
+            <guid>3239428</guid>
+            <pubDate>Tue, 12 Sep 2023 17:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：相机系统使用计算摄影技术，将图像组合成更高清晰度的图像，在实际文件大小中平衡光线和细节。]]></title>
+            <guid>3239425</guid>
+            <pubDate>Tue, 12 Sep 2023 17:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：iPhone 15具有新的2倍变焦选项，可用于拍摄照片和4K视频。]]></title>
+            <guid>3239423</guid>
+            <pubDate>Tue, 12 Sep 2023 17:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：在iPhone 15中，钴和铜100%采用可回收材料。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7913358.d.html</link>
+            <guid>3239422</guid>
+            <pubDate>Tue, 12 Sep 2023 17:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司（BP）的美国存托凭证（ADRs）迅速回吐涨幅，股价现涨1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcs8960353.d.html</link>
+            <guid>3239420</guid>
+            <pubDate>Tue, 12 Sep 2023 17:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油(BP.N)首席执行官伯纳德·卢尼将辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4689914.d.html</link>
+            <guid>3239419</guid>
+            <pubDate>Tue, 12 Sep 2023 17:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：为Apple Watch Ultra 2推出了一款独家的新表盘，名为Modular Ultra。Ultra 2在单次充电后的典型使用情况下，电池续航时间可达36小时，并在低功耗模式下可达72小时。]]></title>
+            <guid>3239412</guid>
+            <pubDate>Tue, 12 Sep 2023 17:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰政府通过决议 延长对乌农产品禁令】欧盟对进口乌克兰农产品采取的临时限制措施将于9月15日到期。12日，波兰政府通过决议称，无论欧盟是否延长限制措施，波兰都将延长对乌克兰农产品的限制措施。波兰总理莫拉维茨基表示，波兰将尽一切努力稳定市场，波兰农业和波兰农民的利益是绝对的优先事项。对此，乌克兰总理杰尼斯·什梅加尔表示，乌方可能向世贸组织要求进行仲裁。今年5月， 欧盟委员会宣布，暂时限制乌克兰四种农产品在保加利亚、匈牙利、波兰、罗马尼亚和斯洛伐克五国自由交易，但可继续借道这些国家外运。该禁令将于9月15日到期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7911606.d.html</link>
+            <guid>3239411</guid>
+            <pubDate>Tue, 12 Sep 2023 17:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛首席执行官：与乐观的观点相比，通胀可能更加“持久”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqwa4817949.d.html</link>
+            <guid>3239405</guid>
+            <pubDate>Tue, 12 Sep 2023 17:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)表示最新的Apple Watch是首款碳中和产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqvy8040634.d.html</link>
+            <guid>3239402</guid>
+            <pubDate>Tue, 12 Sep 2023 17:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)最新款手表的碳足迹减少了78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqvy8040484.d.html</link>
+            <guid>3239401</guid>
+            <pubDate>Tue, 12 Sep 2023 17:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：从今年开始，所有苹果手表的制造都使用100%清洁电力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqwa4817338.d.html</link>
+            <guid>3239399</guid>
+            <pubDate>Tue, 12 Sep 2023 17:24:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：Apple Watch Series 9的电池使用了100%可回收的钴。]]></title>
+            <guid>3239398</guid>
+            <pubDate>Tue, 12 Sep 2023 17:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国机构告知苹果公司：停止销售iPhone 12。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqvy8039438.d.html</link>
+            <guid>3239397</guid>
+            <pubDate>Tue, 12 Sep 2023 17:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：正在逐步淘汰iPhone手机壳中的皮革材料。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqwa4816036.d.html</link>
+            <guid>3239395</guid>
+            <pubDate>Tue, 12 Sep 2023 17:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)：有了新的Apple Watch Series 9，你可以精确地看到与iPhone的距离和方向。]]></title>
+            <guid>3239394</guid>
+            <pubDate>Tue, 12 Sep 2023 17:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[苹果(AAPL.O)CEO库克：苹果Vision Pro头显的反响非常好。]]></title>
@@ -109,231 +269,6 @@
             <title><![CDATA[EIA短期能源展望报告：预计2023年美国天然气（干气）产量为1026.9亿立方英尺/日，此前预期为1029.8亿立方英尺/日。预计2024年美国天然气（干气）产量为1049.3亿立方英尺/日，此前预期为1041.3亿立方英尺/日。]]></title>
             <guid>3239354</guid>
             <pubDate>Tue, 12 Sep 2023 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年天然气价格为2.58美元/百万英热，此前预期为2.58美元/百万英热。预计2024年天然气价格为3.24美元/百万英热，此前预期为3.22美元/百万英热。]]></title>
-            <guid>3239353</guid>
-            <pubDate>Tue, 12 Sep 2023 16:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年美国原油消费量为2014万桶/日，此前预期为2047万桶/日。EIA短期能源展望报告：预计2024年美国原油消费量为2030万桶/日，此前预期为2075万桶/日。]]></title>
-            <guid>3239351</guid>
-            <pubDate>Tue, 12 Sep 2023 16:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年美国原油需求增速为13万桶/日，此前为19万桶/日。预计2024年美国原油需求增速为16万桶/日，此前为28万桶/日。]]></title>
-            <guid>3239350</guid>
-            <pubDate>Tue, 12 Sep 2023 16:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年WTI原油价格为79.65美元/桶，此前预期为77.79美元/桶。预计2024年WTI原油价格为83.22美元/桶，此前预期为81.48美元/桶。]]></title>
-            <guid>3239349</guid>
-            <pubDate>Tue, 12 Sep 2023 16:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：2024年全球原油需求增速预期为136万桶/日，此前预计为161万桶/日。]]></title>
-            <guid>3239348</guid>
-            <pubDate>Tue, 12 Sep 2023 16:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：2023年全球原油需求增速预期为181万桶/日，此前预计为176万桶/日。]]></title>
-            <guid>3239347</guid>
-            <pubDate>Tue, 12 Sep 2023 16:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软、甲骨文将在周四下午宣布合作伙伴关系更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqvy8019688.d.html</link>
-            <guid>3239346</guid>
-            <pubDate>Tue, 12 Sep 2023 16:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：预计2023年NYMEX汽油价格为3.60美元/加仑，此前预计为3.56美元/加仑。]]></title>
-            <guid>3239344</guid>
-            <pubDate>Tue, 12 Sep 2023 16:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河套合作区空间有限？广东回应：小空间孕育大希望】 9月12日，广东省人民政府新闻办公室在深圳市举行新闻发布会。据公开信息，对于河套深港科技创新合作区规划空间相对有限的情况，广东省发展改革委副主任、省大湾区办常务副主任朱伟回应称：“小地方能够作大文章，小空间孕育着大希望！”虽然这里物理空间不大，但却具备独特的“平台”和“通道”作用，发展优势独一无二，完全能够释放出强大的“化学效应”“乘数效应”。朱伟说：“河套合作区接下来的建设重点是推动香港与内地规则机制的软联通。河套合作区拥有制度叠加、面积有限、风险可控的独特优势，是开展规则衔接机制对接、进行制度创新的最佳试验田。”（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnqvy8018561.d.html</link>
-            <guid>3239343</guid>
-            <pubDate>Tue, 12 Sep 2023 16:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计棉花期末库存300万捆，分析师预期287万捆，USDA此前预计310万捆。]]></title>
-            <guid>3239341</guid>
-            <pubDate>Tue, 12 Sep 2023 16:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计小麦期末总库存6.15亿蒲式耳，分析师预期6.1400亿蒲式耳，USDA此前预计6.15亿蒲式耳。]]></title>
-            <guid>3239340</guid>
-            <pubDate>Tue, 12 Sep 2023 16:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计玉米期末库存22.21亿蒲式耳，分析师预期21.4176亿蒲式耳，USDA此前预计22.02亿蒲式耳。]]></title>
-            <guid>3239339</guid>
-            <pubDate>Tue, 12 Sep 2023 16:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期英债收益率跌超5个基点，2/10年期英债收益率利差下挫】 周二（9月12日）欧市尾盘，英国10年期国债收益率下跌5.6个基点，报4.416%。两年期英债收益率跌4.7个基点，报5.042%，欧市盘初曾跌至4.999%。30年期英债收益率跌4.6个基点，50年期英债收益率跌3.8个基点。2/10年期英债收益率利差跌0.673个基点，报-63.102个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8016553.d.html</link>
-            <guid>3239336</guid>
-            <pubDate>Tue, 12 Sep 2023 15:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：意大利国债价格的上涨势头结束，该国经济承压下行。预计意大利/德国10年期国债收益率溢价将反弹至210个基点。]]></title>
-            <guid>3239335</guid>
-            <pubDate>Tue, 12 Sep 2023 15:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“花式营销”太过火，万达子公司被罚】 天眼查显示，天津静海万海置业有限公司此前通过抖音平台发布带有“买房送媳妇”内容的视频广告，在9月4日被天津市静海区市场监督管理局采取行政处罚，罚款3万元。据悉，万海置业是万达地产集团有限公司的控股子公司。2022年10月25日，万海置业自行设计制作并通过抖音平台，发布带有“买房送媳妇”内容的视频广告。天津市静海区市场监督管理局认为，万海置业的上述行为，满足发布违法广告行为的构成要件。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8016342.d.html</link>
-            <guid>3239334</guid>
-            <pubDate>Tue, 12 Sep 2023 15:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（9月12日）欧市尾盘，ICE英国天然气期货跌2.02%，报88.000便士/千卡。TTF基准荷兰天然气期货跌4.31%，报35.000欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌0.80%，报80.15欧元/吨。]]></title>
-            <guid>3239333</guid>
-            <pubDate>Tue, 12 Sep 2023 15:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股主要指数收盘涨跌不一】欧股主要指数收盘涨跌不一，德国DAX30指数跌0.53%，英国富时100指数涨0.46%，法国CAC40指数跌0.35%，欧洲斯托克50指数跌0.3%。欧元区蓝筹股中，空中客车初步收跌2.53%，阿迪达斯跌2.0%，Adyen跌1.5%，巴斯夫跌1.4%，欧莱雅跌1.2%，爱马仕和开云集团也跌超1%，梅赛德斯奔驰集团则收涨1.2%，Stellantis涨2.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8015639.d.html</link>
-            <guid>3239332</guid>
-            <pubDate>Tue, 12 Sep 2023 15:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联发科澄清“天玑9300芯片过热”：毫无根据】联发科发布公告称，关于外媒报道联发科技尚未发表的最新天玑9300芯片过热，其内容错误毫无根据，该媒体也未与公司求证，公司已要求撤下此文并刊登更正。公司第三代旗舰芯片天玑9300提供优异性能及功耗表现，与客户新产品设计开发顺利进行中，公司芯片及客户的终端产品将于第四季推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8015218.d.html</link>
-            <guid>3239330</guid>
-            <pubDate>Tue, 12 Sep 2023 15:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四会富仕：在服务器与光模块下游应用领域有小批量客户】四会富仕近日接受机构调研时表示，公司高度关注下游市场的变化，积极布局新兴市场机遇。在服务器与光模块等业务方面，公司在技术上有长期积累，上述两个下游应用领域也有导入打样及小批量客户，但目前收入占比较低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8014630.d.html</link>
-            <guid>3239328</guid>
-            <pubDate>Tue, 12 Sep 2023 15:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超达装备：搪塑模具等产品间接供货给特斯拉model 3、model Y等多款车型】超达装备接受机构调研时表示，公司搪塑模具等产品间接供货给特斯拉发布的model 3、model Y等多款车型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8014408.d.html</link>
-            <guid>3239325</guid>
-            <pubDate>Tue, 12 Sep 2023 15:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空中客车CEO Faury：公司处于完成2023年飞机交付计划的正轨之上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8014048.d.html</link>
-            <guid>3239324</guid>
-            <pubDate>Tue, 12 Sep 2023 15:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE原糖期货日内涨幅达3.0%，报27.23美分/磅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqwa4790818.d.html</link>
-            <guid>3239323</guid>
-            <pubDate>Tue, 12 Sep 2023 15:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英特尔推出新一代Thunderbolt 5连接标准】英特尔9月12日宣布推出新一代Thunderbolt连接标准——Thunderbolt 5。据介绍，Thunderbolt 5能够提供80Gbps的双向带宽，并可通过带宽增强功能（Bandwidth Boost）实现高达120Gbps的带宽。基于英特尔Thunderbolt 5控制器（代号Barlow Ridge）的计算机和配件预计将于2024年开始上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqwa4790479.d.html</link>
-            <guid>3239321</guid>
-            <pubDate>Tue, 12 Sep 2023 15:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年A股公司中期现金分红突破2000亿元】 Wind数据显示，截至9月12日晚，A股合计有167家上市公司2023年中期现金分红方案尚未实施，计划派现超1381亿元；叠加此前12家公司已经完成现金分红近655亿元，2023年中期A股公司现金分红总规模突破2000亿元。从单家公司情况看，“三桶油”拟分红规模之和超过了市场分红总规模的三分之一，同属“中字头”的中国平安、中国移动、中国电信等分红规模也都在百亿元以上。在业内人士看来，未来高股息板块仍具有一定配置价值，或存超额收益。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8013296.d.html</link>
-            <guid>3239320</guid>
-            <pubDate>Tue, 12 Sep 2023 15:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[费城银行指数目前涨超1.0%，美国三大股指目前悉数下跌——标普500指数跌0.44%、纳指跌0.81%。]]></title>
-            <guid>3239319</guid>
-            <pubDate>Tue, 12 Sep 2023 15:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利(MS.N)股价上涨2.3%，为7月18日以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnqvy8013138.d.html</link>
-            <guid>3239318</guid>
-            <pubDate>Tue, 12 Sep 2023 15:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）主席Gensler：人工智能（AI）和（其他若干）新科学技术将挑战SEC的（监管）制度。对市场而言，深度造假和AI是一种“实实在在的风险”。]]></title>
-            <guid>3239317</guid>
-            <pubDate>Tue, 12 Sep 2023 15:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【当地官员：洪灾已致利比亚超3000人死亡】飓风“丹尼尔”当地时间10日袭击利比亚东部，引发严重洪水灾害。当地时间12日，阿拉比亚电视台援引利比亚国民代表大会任命的卫生部长奥斯曼·贾利勒的话报道，洪灾已致利比亚超3000人死亡。国际红十字会预计，有超过1万人失踪。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqa8142236.d.html</link>
-            <guid>3239315</guid>
-            <pubDate>Tue, 12 Sep 2023 15:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内涨5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkpw9201008.d.html</link>
-            <guid>3239314</guid>
-            <pubDate>Tue, 12 Sep 2023 15:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）主席Gensler：SEC和众多银行监管机构讨论托管计划。]]></title>
-            <guid>3239311</guid>
-            <pubDate>Tue, 12 Sep 2023 15:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受737 Max制造质量问题影响，波音8月交付量下降】波音官网9月12日发布的数据显示，波音8月订单量45架（取消订单2架），交付量35架，均为今年4月以来单月新低。今年前8个月，波音已向客户交付344架飞机，较去年同期大幅增长，包括40架梦想飞机和271架737型飞机。波音首席财务官Brian West此前表示，由于要对737 MAX 8机尾压力舱壁上数千个钻错的孔进行检查和修复，波音今年的737交付量将处于400至450架目标的“低端”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqe4918146.d.html</link>
-            <guid>3239310</guid>
-            <pubDate>Tue, 12 Sep 2023 15:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因赛集团：预计将于近期推出营销AIGC应用大模型的内测版】因赛集团9月12日接受调研时表示，公司持续加大投入对营销科技的研发与应用，预计将于近期推出营销AIGC应用大模型的内测版。AIGC大模型前期围绕电商领域，于中尾部客户群体中推广试水，智能生成模特图、产品图、视频切片等物料，再根据发展情况逐步拓展至高端客群，以及拓展至更多行业领域（汽车、互联网、快消、金融、家居、3C通讯等）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqa8139101.d.html</link>
-            <guid>3239303</guid>
-            <pubDate>Tue, 12 Sep 2023 14:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗调查：富裕家庭上半年大买债券与私募股权 抛售股票】花旗集团私人银行部门的一项调查显示，今年上半年富裕家庭大量购买债券和私募股权投资，同时大幅削减股票投资。接受调查的268家家族办公室(总净值达5650亿美元)中，超过一半增加了固定收益配置，38%增加了私募股权持仓，38%减少股票配置。这是自花旗2020年开始这项研究以来最大的变化。受访家族办公室的平均投资组合配置，分别包括22%的上市股票和私募股权、16%的固定收益和12%的现金。花旗私人银行全球主管Ida Liu在报告中表示，超高净值投资者及其家族最关心的是通胀、市场波动和地缘政治问题，他们很快就将投资组合多样化，并考虑直接和可持续的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqe4914682.d.html</link>
-            <guid>3239301</guid>
-            <pubDate>Tue, 12 Sep 2023 14:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网传“深圳地震”消息不实，深圳近期并未发生地震】9月12日晚，不少网友发布信息称“深圳地震”。据相关部门核实，深圳近期未发生地震。经中国地震台网查询，9月12日晚7时左右菲律宾群岛地区发生6.3级地震，广东福建两地有震感。（深圳新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqe4913660.d.html</link>
-            <guid>3239300</guid>
-            <pubDate>Tue, 12 Sep 2023 14:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【米哈游《原神》项目音乐制作陈致逸离职】今日晚间，米哈游《原神》项目音乐制作人陈致逸宣布离职。陈致逸在游戏音乐圈地位颇高，早年从事影视配乐，先后与网易、腾讯合作，为《镇魂曲》《末剑》《天涯明月刀》等游戏产品制作音乐，后加入米哈游旗下音乐工作室HOYO-MiX，为《原神》创作了多个经典曲目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqa8136155.d.html</link>
-            <guid>3239299</guid>
-            <pubDate>Tue, 12 Sep 2023 14:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芯导科技：部分车规级产品正处于国产电动汽车头部厂家验证导入阶段】芯导科技董事长欧新华今日在业绩会上表示，公司在车用电子领域开发了车规级TVS、MOS等产品，可应用于车载内饰控制系统和中控屏系统等方面，部分产品正处于国产电动汽车头部厂家验证导入阶段；在车载电源保护应用方面的产品，已在部分客户实现小批量出货；在光伏逆变器相关产品方面，如MOS、SBD和保护类产品，欧新华表示公司正在积极推广中。（科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqe4912878.d.html</link>
-            <guid>3239298</guid>
-            <pubDate>Tue, 12 Sep 2023 14:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部副部长邓励会见各国议会联盟主席帕切科】2023年9月12日，外交部副部长邓励会见来华访问的各国议会联盟主席、葡萄牙议员帕切科。邓励表示，当前全球性挑战增多，国际社会应加强沟通协调，共同应对。希望议联践行真正的多边主义，推动各方增进理解互信，携手应对全球性挑战。当前中国的中心任务是以中国式现代化全面推进中华民族伟大复兴，中国式现代化将为世界发展提供新机遇。近年来中葡关系快速发展，中方愿与葡方继续深化政治互信，扩大务实合作，加强在国际和地区事务中的沟通协调。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqa8135537.d.html</link>
-            <guid>3239296</guid>
-            <pubDate>Tue, 12 Sep 2023 14:40:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广新控股回应半年报部分表述失真：目前相关机构已更正发布有关正确文件】广新控股集团发布情况说明称，今日网络出现《广东省广新控股集团有限公司公司债券2023半年度报告》部分表述失真的信息。经确认，广新集团向中介机构提供的 2023半年度报告准确无误。按规范要求，上述报告须由中介机构提供给交易所发布，该事件系中介机构在将相关报告录入交易所系统过程中操作错误，导致广新集团所属企业名称出现了错误。广新集团已第一时间与相关机构积极沟通，目前相关机构已更正发布有关正确文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkpw9192867.d.html</link>
-            <guid>3239289</guid>
-            <pubDate>Tue, 12 Sep 2023 14:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现代汽车与韩国工会达成临时工资协议】现代汽车周二表示，该公司已与韩国工会达成临时工资协议，可能避免其最大生产基地发生罢工和生产损失。根据协议，现代汽车将为工人增加11.1万韩元(约合83.60美元)的基本月薪，为每位工人发放一次性奖金以及基于绩效的福利。工会提出的将退休年龄从60岁提高到64岁的要求未被接受。工会称，该交易将于9月18日由工会成员投票决定。目前已推迟了原定于本周举行的部分罢工计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqa8132706.d.html</link>
-            <guid>3239288</guid>
-            <pubDate>Tue, 12 Sep 2023 14:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌反垄断案开庭，美国政府指控其每年支付超100亿美元维持默认搜索引擎地位】美国司法部律师Kenneth Dintzer表示，谷歌至少到2010年就成为了垄断者，如今控制着89%以上的网络搜索市场，“该公司为默认选项支付上百亿美元，因为这种选项具有独一无二的强大力量，过去12年来，谷歌滥用了其在一般搜索领域的垄断地位”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-12/detail-imzmnkqe4909590.d.html</link>
-            <guid>3239287</guid>
-            <pubDate>Tue, 12 Sep 2023 14:27:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
