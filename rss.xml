@@ -4,11 +4,50 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 14 Sep 2023 20:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 21:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国总统拜登之子亨特被控三项刑事罪名，均持有枪支有关】当地时间9月14日，据路透社报道，美国特拉华州地方法院提交了起诉书，指控美国总统拜登之子亨特犯有三项与持有枪支有关的刑事罪名。此前，亨特·拜登的认罪协议于7月26日被搁置，美国地区法官玛丽莲·诺雷卡表示，当天的听证会以亨特·拜登暂时不认罪而结束。该份认罪协议涵盖亨特2017年和2018年漏缴收入税款所受两项联邦轻罪指控，以及2018年隐瞒滥用药物事实购枪所受一项联邦重罪指控。（央视新闻）]]></title>
+            <guid>3242356</guid>
+            <pubDate>Thu, 14 Sep 2023 21:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州公诉人称，谷歌公司就定位隐私业务实践达成9300万美元和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtprq2000146.d.html</link>
+            <guid>3242351</guid>
+            <pubDate>Thu, 14 Sep 2023 20:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N) CEO：我们在两周内没有从全美汽车工人联合会收到任何认真的反对意见。]]></title>
+            <guid>3242350</guid>
+            <pubDate>Thu, 14 Sep 2023 20:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)：全美汽车工人联合会加薪40%的提议会让我们破产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtpru2669591.d.html</link>
+            <guid>3242348</guid>
+            <pubDate>Thu, 14 Sep 2023 20:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【投资者分享经济发展成果，既要“淘金”也要“避雷”】在第17届中国上市公司价值评选专家评审会暨专家研讨会上，中证中小投资者服务中心行权事务部总监杨宏呼吁，研究机构要致力于拉平中小投资者和机构投资者的信息差。基于此，杨宏提出了两点呼吁，既要帮助投资者“淘金”，更要帮助投资者“避雷”。一方面，市场前沿的研究机构要跟媒体相结合，把系统性的投资机会在全市场实现信息对称。另一方面，研究机构应对负面舆情较为集中的上市公司并购重组案例开展深入研究，并将研究成果在股东大会审议前向市场客观发布，让投资者理性投票，真正使投资者成为公司治理中的一股制衡力量。同时，也可以让投资者避免因信息弱势而踩雷。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtprn6677233.d.html</link>
+            <guid>3242347</guid>
+            <pubDate>Thu, 14 Sep 2023 20:49:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第四届“一带一路”税收征管合作论坛在格鲁吉亚闭幕】当地时间13日，为期三天的第四届“一带一路”税收征管合作论坛在格鲁吉亚首都第比利斯闭幕。论坛期间，各方围绕“包容开放 携手前行——助力优化税收营商环境”主题，就优化税收营商环境方面一系列议题进行深入研讨，达成系列广泛共识，并发布涉及多项内容的重要成果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtprs5891719.d.html</link>
+            <guid>3242343</guid>
+            <pubDate>Thu, 14 Sep 2023 20:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月15日03时58分在巴布亚新几内亚（南纬6.20度，东经149.70度）发生5.5级地震，震源深度60千米。]]></title>
+            <guid>3242339</guid>
+            <pubDate>Thu, 14 Sep 2023 20:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[花旗集团（C）收涨1.77%，连续第三个交易日上涨，报43.12美元，逼近8月15日收盘位43.21美元。该公司9月14日发行优先股，融资15亿美元；根据协议，这笔融资工具五年后“可先期偿还”（callable），届时收益率为7.625%。穆迪对这笔交易的评级为Ba1，标普评级为BB+。]]></title>
             <guid>3242338</guid>
@@ -298,73 +337,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiq6792175.d.html</link>
             <guid>3242259</guid>
             <pubDate>Thu, 14 Sep 2023 17:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多因素推动磷酸铁锂价格持续下行，专家预计“金九银十”销售旺季或形成支撑】数据显示，动力型磷酸铁锂9月14日报价6.6万元/吨，9月1日以来已累计下滑8.33%。磷酸铁锂赛道头部企业龙蟠科技相关负责人表示，目前公司的磷酸铁锂业务生产经营情况正常，产能利用率大致能够达到80%，但与去年相比还是稍差，去年几乎是满产状态，这主要是由于今年以来市场行情较弱。东高科技高级投资顾问胡学表示，成本下降、供求宽松等因素共同造成了磷酸铁锂价格持续走低，未来短期价格走势或受到“金九银十”传统旺季的支撑，长期来看磷酸铁锂价格有望平稳走强。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2770585.d.html</link>
-            <guid>3242258</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：俄两架战略轰炸机在巴伦支海和挪威海中立水域完成巡航飞行】当地时间9月14日，俄新社报道称，俄罗斯武装力量的两架图-95MS战略轰炸机完成了在巴伦支海和挪威海中立水域上空的巡航飞行，时长约4个小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2770550.d.html</link>
-            <guid>3242257</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：俄罗斯驱逐两名美国外交官是毫无理由且完全没有根据的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5993358.d.html</link>
-            <guid>3242256</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威1.4万亿美元规模的主权财富基金NBIM：将围绕私募业务考虑若干选项，私募业绩好于公募。]]></title>
-            <guid>3242255</guid>
-            <pubDate>Thu, 14 Sep 2023 17:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：币安遵从美国的法律，风险管理人员将离开该加密货币交易所。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2769832.d.html</link>
-            <guid>3242254</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门胡塞武装称其代表团将在阿曼陪同下与沙特进行磋商】也门胡塞武装“最高政治委员会”主席迈赫迪·穆沙特14日晚发表声明称，他的代表团将在阿曼代表团的陪同下前往沙特首都利雅得，与沙特方面进行磋商。磋商的议题包括：重开由胡塞武装控制的港口和萨那机场、为胡塞武装控制区内的公务员支付工资、释放囚犯、重建等议题。当天早些时候，阿曼代表团抵达胡塞武装控制的也门首都萨那，就延长停火协议、建立互信、解决人道主义危机等议题与胡塞武装进行磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5992114.d.html</link>
-            <guid>3242251</guid>
-            <pubDate>Thu, 14 Sep 2023 17:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国密歇根州州长敦促美国汽车工人联合会（UAW）和汽车制造商达成合同协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2113749.d.html</link>
-            <guid>3242250</guid>
-            <pubDate>Thu, 14 Sep 2023 17:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法庭文件显示，美国总统拜登之子亨特·拜登被起诉，面临三项刑事指控，所有三项与枪支指控有关。]]></title>
-            <guid>3242249</guid>
-            <pubDate>Thu, 14 Sep 2023 17:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登表示，他已任命前商务部长潘妮·普利兹克（Penny Pritzker）担任美国新任乌克兰经济复苏特别代表。]]></title>
-            <guid>3242248</guid>
-            <pubDate>Thu, 14 Sep 2023 17:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡办公室表示，以色列总理将在下周的联合国大会上与美国总统拜登会面。]]></title>
-            <guid>3242246</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中介Douglas Elliman和研究机构Miller Samuel的数据显示：美国8月曼哈顿租金中位数维持在7月份4370美元不变，即保持在历史最高位附近。租赁住房供应量偏低，因为缺乏新增租赁住房、那些通常倾向于购房的买家现在也因为利息偏高而选择租房的缘故。]]></title>
-            <guid>3242245</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资端改革“再落一子”，公募基金交易结算模式优化】证监会近日向系统内发布《优化公募基金管理人证券交易模式的通知》，提高券商交易模式（俗称“券结模式”）的便利化水平，同时允许各类公募基金管理人根据自身业务发展需要自主选择交易模式，加强交易行为监管。保险、银行等其他各类金融机构及其管理的各类产品，参照适用本次证券交易模式优化方案。业内人士表示，此次优化证券交易模式有三方面意义，一是有利于提升券结模式服务机构投资者能力；二是有利于中小公募基金管理人降本增效，使其能够聚焦投研等核心能力的提升；三是保险、银行等其他各类金融机构亦可根据自身发展和投资需求选择证券交易模式，有助于中长期资金入市。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2768148.d.html</link>
-            <guid>3242244</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
