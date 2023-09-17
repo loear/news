@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 17 Sep 2023 04:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西和玻利维亚政府准备联合投资锂行业】玻利维亚碳氢化合物和能源部长富兰克林·莫利纳9月16日在声明中表示，巴西和玻利维亚政府正准备签订谅解备忘录，共同投资锂行业。该备忘录还包括2026年后销售天然气的新合同、碳氢化合物勘探投资以及两国的化肥厂事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmywzp0400277.d.html</link>
+            <guid>3244466</guid>
+            <pubDate>Sun, 17 Sep 2023 05:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马里过渡总统宣布与布基纳法索和尼日尔建立萨赫勒国家联盟】当地时间9月16日，马里过渡总统戈伊塔在其个人社交账号上发文表示，他在当天与布基纳法索和尼日尔国家元首签署了相关宪章并同意建立萨赫勒国家联盟。]]></title>
+            <guid>3244463</guid>
+            <pubDate>Sun, 17 Sep 2023 04:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受热带风暴影响，加拿大大西洋沿岸超17万户家庭断电】当地时间9月16日，飓风“李”将以热带风暴级别登陆加拿大大西洋沿岸地区，受此影响，该地区已有超过17万户家庭断电。截至当地时间16日12时左右，加拿大新斯科舍省有135100户房屋断电，新不伦瑞克省有35600多户房屋断电。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmywzq7173548.d.html</link>
+            <guid>3244462</guid>
+            <pubDate>Sun, 17 Sep 2023 04:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周鸿祎：大模型自身不是壁垒，挑战在于垂直大模型深度定制】9月17日午间消息，由南京市人民政府、中国信息通信研究院联合主办的2023南京人工智能产业发展大会上。360集团创始人周鸿祎发言指出，通用大模型在企业级场景中没法直接用，存在缺乏商业深度、不“懂”企业、数据安全隐患等七大问题。对此，他提出，大模型未来的发展趋势是“垂直化”。在时机选择上，周鸿祎认为，不要等大模型完美了才做，想清楚场景就可以开始干了。 周鸿祎表示，构建企业级大模型要循序渐进，先让大模型担当“副驾驶”的角色，与现有系统保持隔离度，时机成熟之后可以发展Agent模式，让大模型不仅作为“大脑”识别人类的意图，智能化地思考分解任务，还能够长出“手脚”，自动化地使用工具、调用各种API，执行任务、解决问题，达成目标结果，成为一种通用的智能体系统。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmywzp0394932.d.html</link>
+            <guid>3244459</guid>
+            <pubDate>Sun, 17 Sep 2023 04:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中美洲议会议长将访华】应全国人大常委会委员长赵乐际邀请，中美洲议会议长塞鲁德将于9月19日至23日率团访华。（新华社）]]></title>
+            <guid>3244457</guid>
+            <pubDate>Sun, 17 Sep 2023 04:27:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泰国总理：为迎接中国游客泰国已做好充分准备】泰国总理赛塔当地时间9月16日在视察泰国北部著名旅游地清迈府时，就泰国政府日前公布的中国游客免签制度进行了解读。赛塔表示，泰国已经为迎接中国游客做好了充分准备。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmysts7298013.d.html</link>
@@ -261,58 +289,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7502998.d.html</link>
             <guid>3244365</guid>
             <pubDate>Sat, 16 Sep 2023 22:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京今天大部地区有雷雨，局地伴有强对流，最高气温28℃】北京市气象台17日6时发布：今天白天多云转阴，大部地区有雷阵雨，北转南风二三间四级，最高气温28℃；夜间阴，东部地区有雷阵雨转多云，后半夜有轻雾或雾，最低气温19℃。今天大部地区有雷雨，西部北部相对明显，局地伴有强对流，外出注意防雨。目前本市能见度较差，大部地区能见度在1~3公里，北部、南部部分地区小于1公里，今天早晨、今天夜间能见度较差，有轻雾或雾，能见度不佳，出行还请注意交通安全，关注路况信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7502538.d.html</link>
-            <guid>3244364</guid>
-            <pubDate>Sat, 16 Sep 2023 22:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国费城一日内发生5起枪击事件 致4死1伤】当地时间16日，美国宾夕法尼亚州费城发生5起枪击事件，共造成4人死亡、1人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcs6698962.d.html</link>
-            <guid>3244363</guid>
-            <pubDate>Sat, 16 Sep 2023 22:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受热带风暴影响 加拿大大西洋沿岸超17万户家庭断电】当地时间9月16日，飓风“李”将以热带风暴级别登陆加拿大大西洋沿岸地区，受此影响，该地区已有超过17万户家庭断电。加拿大环境部表示，新斯科舍省大西洋中部沿岸地区可能会出现4到6米的巨浪，目前风暴潮的警报已经生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7501512.d.html</link>
-            <guid>3244362</guid>
-            <pubDate>Sat, 16 Sep 2023 22:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诺贝尔基金会宣布增加今年诺奖奖金】当地时间9月15日，诺贝尔基金会决定，2023年每项诺贝尔奖的奖金都将增加100万瑞典克朗（约合65万元人民币），达到1100万瑞典克朗（约合715万元人民币）。2023年度诺贝尔奖各奖项名单将从10月2日起公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcv0723696.d.html</link>
-            <guid>3244360</guid>
-            <pubDate>Sat, 16 Sep 2023 22:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约军事委员会主席鲍尔任期将延长6个月】当地时间9月16日，北约军事委员会会议在挪威首都奥斯陆召开，会议同意将现任北约军事委员会主席罗伯·鲍尔海军上将的任期延长6个月，并选举意大利国防参谋长朱塞佩·卡沃·德拉贡海军上将作为其继任者。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7500479.d.html</link>
-            <guid>3244359</guid>
-            <pubDate>Sat, 16 Sep 2023 22:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“77国集团和中国”峰会通过《哈瓦那宣言》】当地时间9月16日，“77国集团和中国”哈瓦那峰会在结束了为期两天的一般性辩论后，与会代表协商一致通过《哈瓦那宣言》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7498739.d.html</link>
-            <guid>3244358</guid>
-            <pubDate>Sat, 16 Sep 2023 21:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一轮强降雨将来临！长江防总、长江委发布汛情通报】从水利部长江水利委员会了解到，据水文气象预报，9月17日—20日，长江流域自西北向东南有一次大雨、局地暴雨的降水过程。过程累计面雨量：渠江、三峡区间、汉江石泉～白河及丹江口～皇庄区间60～80毫米，乌江下游、清江、汉江白河～丹江口及皇庄以下40～60毫米；22日，渠江及三峡区间还将有新一轮降水过程。预计渠江、乌江、三峡区间、清江、汉江将发生明显涨水过程，强降雨落区内部分中小河流可能发生超警洪水，局部强降雨引发山洪灾害的风险高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmxzvu6824429.d.html</link>
-            <guid>3244356</guid>
-            <pubDate>Sat, 16 Sep 2023 20:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国经济在持续恢复中展现韧性与活力】 9月15日，今年前8个月中国经济答卷公布——全国规模以上工业增加值同比增长3.9%，社会消费品零售总额同比增长7%，固定资产投资同比增长3.2%，服务零售额同比增长19.4%……在世界经济波动下行、外部环境更趋复杂严峻的背景下，前8个月主要经济指标回升向好，中国经济在持续恢复中展现韧性与活力，助推高质量发展稳步前行。]]></title>
-            <guid>3244344</guid>
-            <pubDate>Sat, 16 Sep 2023 20:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多国代表团积极备战 期盼杭州亚运会成功举办】随着亚运会临近，杭州也陆续迎来各国亚运会代表团。9月16日，杭州将迎来代表团到达人数的一个小高峰。外国运动员在抵达的第一刻就感受到了杭州的热情。多国代表团和体育界人士也都对中国国际体育赛事的组织和办赛能力赞赏有加，对杭州亚运会的成功举办充满信心。]]></title>
-            <guid>3244316</guid>
-            <pubDate>Sat, 16 Sep 2023 20:20:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
