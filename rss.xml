@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 20 Sep 2023 20:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 21:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周三（9月20日）纽约尾盘，标普500股指期货最终下跌1.01%，道指期货跌0.24%，纳斯达克100股指期货跌1.56%。]]></title>
+            <guid>3248670</guid>
+            <pubDate>Wed, 20 Sep 2023 21:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（9月20日）北美尾盘，加拿大两年期国债收益率上涨5.8个基点，报4.972%，美加股市收盘后一度涨至4.979%。]]></title>
+            <guid>3248666</guid>
+            <pubDate>Wed, 20 Sep 2023 20:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总理称将不再向乌克兰提供武器】据央视新闻，波兰总理莫拉维茨基当地时间20日表示，将不再向乌克兰提供武器。莫拉维茨基在接受当地媒体采访被问及是否将继续在军事上支持乌克兰时做出了上述表态。此外，莫拉维茨基称乌克兰农产品强行推入波兰境内损害波兰农民利益，破坏了波兰农业市场的稳定，打压了粮价，迫使波兰政府出台限价措施，并最终实施了进口禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznmafv4160971.d.html</link>
+            <guid>3248665</guid>
+            <pubDate>Wed, 20 Sep 2023 20:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚美尼亚称阿塞拜疆炮击亚方阵地 阿方称消息不实】据央视新闻，亚美尼亚国防部当地时间20日发布消息称，阿塞拜疆部队于当天22时50分左右炮击了亚美尼亚武装部队位于索特克方向的阵地。阿塞拜疆国防部对此回应称，亚美尼亚国防部发布的消息不实。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznmafv4160434.d.html</link>
+            <guid>3248663</guid>
+            <pubDate>Wed, 20 Sep 2023 20:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金抹去涨幅，较日高回落17美元，现报1931.5美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznmafu3474397.d.html</link>
+            <guid>3248659</guid>
+            <pubDate>Wed, 20 Sep 2023 20:27:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：乌克兰总统泽连斯基将会见对冲基金城堡Citadel创始人兼CEO Ken Griffin和潘兴广场的比尔·阿克曼，以寻求资金。]]></title>
             <guid>3248657</guid>
@@ -101,18 +129,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznmafs6683140.d.html</link>
             <guid>3248574</guid>
             <pubDate>Wed, 20 Sep 2023 18:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿塞拜疆总统就纳卡地区局势发表讲话】阿塞拜疆总统阿利耶夫当地时间20日就纳卡地区局势发表电视讲话。阿利耶夫说，阿塞拜疆一天之内在纳卡地区行动中实现了所有目标，恢复了主权。大部分未撤出的亚美尼亚非法武装被摧毁。纳卡地区残余的非法武装已开始撤出战斗阵地并上缴武器。阿利耶夫表示，他派出的代表将在与亚美尼亚族人代表的会晤中，向对方阐述相关的“共存计划”。亚美尼亚方面暂未对阿利耶夫的讲话作出回应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznkvxu6813704.d.html</link>
-            <guid>3248570</guid>
-            <pubDate>Wed, 20 Sep 2023 18:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：鲍威尔似乎有点难以解释中性利率的问题】分析师Enda Curran表示，鲍威尔似乎有点难以解释所谓的中性利率现在应该在哪里。他说，这可能高于长期利率，这就是为什么经济仍然表现良好，但他听起来并不相信这两种情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznkvxu6813585.d.html</link>
-            <guid>3248569</guid>
-            <pubDate>Wed, 20 Sep 2023 18:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
