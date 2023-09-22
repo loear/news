@@ -4,11 +4,74 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Sep 2023 19:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 20:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[通用汽车要求受薪工人在零部件中心工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5022424.d.html</link>
+            <guid>3251233</guid>
+            <pubDate>Fri, 22 Sep 2023 20:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣亨特计划调整政府储蓄账户，以支持那些在英国上市的公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmx1797857.d.html</link>
+            <guid>3251227</guid>
+            <pubDate>Fri, 22 Sep 2023 20:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收跌0.76%，报15.63美元，本周累计下跌10.84%，8月28日曾涨至历史新高93.00美元。]]></title>
+            <guid>3251226</guid>
+            <pubDate>Fri, 22 Sep 2023 20:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instacart（CART）收跌2.12%，报30.00美元，本周（美国IPO首周）整体持平。]]></title>
+            <guid>3251224</guid>
+            <pubDate>Fri, 22 Sep 2023 20:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arm（ARM）收跌1.61%，报51.32美元，本周累跌15.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5020018.d.html</link>
+            <guid>3251223</guid>
+            <pubDate>Fri, 22 Sep 2023 20:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄罗斯维和部队向纳戈尔诺-卡拉巴赫居民运送了50多吨粮食。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5018601.d.html</link>
+            <guid>3251220</guid>
+            <pubDate>Fri, 22 Sep 2023 19:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪：美国政府停摆是与欧盟钢铁谈判所面临的最大挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5017808.d.html</link>
+            <guid>3251213</guid>
+            <pubDate>Fri, 22 Sep 2023 19:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大方面表示，加拿大将提供7600万加元用于高分辨率无人机相机以及相关援助，此外，加拿大将花费3000万加元在波兰修建豹2坦克维修中心。]]></title>
+            <guid>3251201</guid>
+            <pubDate>Fri, 22 Sep 2023 19:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多及乌克兰总统泽连斯基将签署现代化的乌克兰自由贸易协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5014747.d.html</link>
+            <guid>3251200</guid>
+            <pubDate>Fri, 22 Sep 2023 19:24:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国总理朔尔茨与亚美尼亚总理通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmx1791251.d.html</link>
+            <guid>3251197</guid>
+            <pubDate>Fri, 22 Sep 2023 19:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利前总统纳波利塔诺去世】当地时间9月22日晚，意大利前总统纳波利塔诺因病在罗马逝世。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5013679.d.html</link>
+            <guid>3251195</guid>
+            <pubDate>Fri, 22 Sep 2023 19:16:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多地推出创新旅游产品 迎接“超级黄金周”】近日，记者走访发现，“超级黄金周”临近，各地为更好满足小长假公众出行的旅游需求，纷纷推出创新产品。同时，近期，各地政府同步推出促文旅行业高质量发展政策，进一步深化文旅行业转型升级，促进旅游业高质量持续健康发展。华侨大学旅游学院教授殷杰表示，政策给予的奖补对于企业具有激励作用。企业可推出一系列举措、活动，例如营销、降价促销、产品创新等策略来吸引消费者，从而间接地达到提振消费的作用。此外，政策还起到引导行业发展方向的作用，通过给予财政、金融等支持引导企业向规范的方向发展。 (证券日报)]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrqmv5013423.d.html</link>
@@ -110,86 +173,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrkcx5119216.d.html</link>
             <guid>3251106</guid>
             <pubDate>Fri, 22 Sep 2023 16:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美汽车工人联合会主席：目前最大的目标是消除工资层级差异。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrkcw7394852.d.html</link>
-            <guid>3251105</guid>
-            <pubDate>Fri, 22 Sep 2023 16:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：卡拉巴赫地区的亚美尼亚军队开始交出武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrkcv2071758.d.html</link>
-            <guid>3251104</guid>
-            <pubDate>Fri, 22 Sep 2023 16:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯导弹袭击了乌克兰克雷门丘克，造成一人死亡，15人受伤，还击中了民用基础设施。]]></title>
-            <guid>3251101</guid>
-            <pubDate>Fri, 22 Sep 2023 16:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧洲私人借贷巨头Hayfin正在考虑出售事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrcvy7523962.d.html</link>
-            <guid>3251100</guid>
-            <pubDate>Fri, 22 Sep 2023 16:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同法国总统外事顾问博纳通电话】2023年9月22日，中共中央政治局委员、中央外办主任王毅应约同法国总统外事顾问博纳通电话。王毅说，得益于两国元首的战略引领，中法关系保持高水平发展。两国各层级交流全面重启，各领域务实合作取得实质性进展。中方愿同法方一道，共同规划好明年中法建交60周年暨文化旅游年活动，为双边关系注入新的强劲动力。双方要充分发挥战略对话和高级别人文交流机制作用，使两国政治互信更牢固，务实合作更紧密，人文交流更富活力，民意基础更为深厚。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrcwc2022005.d.html</link>
-            <guid>3251099</guid>
-            <pubDate>Fri, 22 Sep 2023 16:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登在乌克兰总统泽连斯基访问期间向其透露了美国的计划，拜登向泽连斯基表示，美国同意向乌克兰提供少量ATACMS导弹系统，之后可能会提供更多此类导弹。]]></title>
-            <guid>3251097</guid>
-            <pubDate>Fri, 22 Sep 2023 16:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富祥药业与慕恩生物签署合作协议】9月22日，江西富祥药业股份有限公司与慕恩（广州）生物科技有限公司于景德镇签订合作协议。双方将围绕基于镰刀菌生产可食用真菌蛋白领域开展技术研究及产业化合作，共同加快推进中国真菌蛋白的商业化应用。]]></title>
-            <guid>3251096</guid>
-            <pubDate>Fri, 22 Sep 2023 16:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印度尼西亚巴巴尔群岛发生5.8级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrcwc2019570.d.html</link>
-            <guid>3251095</guid>
-            <pubDate>Fri, 22 Sep 2023 16:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克将每周讨论燃料市场情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-23/detail-imznrcvz5242395.d.html</link>
-            <guid>3251092</guid>
-            <pubDate>Fri, 22 Sep 2023 16:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在俄罗斯副总理诺瓦克与油企的会议上未提及燃料短缺的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznrcwc2017166.d.html</link>
-            <guid>3251090</guid>
-            <pubDate>Fri, 22 Sep 2023 15:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院安委办、应急管理部调度部署中秋国庆假期安全防范工作】国务院安委办、应急管理部22日视频调度近期安全防范工作，要求深入推进重大事故隐患专项排查整治2023行动，抓紧抓实中秋国庆假期安全防范和杭州亚运会消防安保工作，坚决防范遏制重特大事故发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznrcwc2017128.d.html</link>
-            <guid>3251089</guid>
-            <pubDate>Fri, 22 Sep 2023 15:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔牌集团：明年水泥需求主要取决于房地产复苏步伐 预计基建对水泥需求拉动将会逐步减弱】塔牌集团9月22日接受机构调研时表示，从水泥需求相关数据来看，水泥需求已拐点向下，明年水泥需求主要取决于房地产的复苏步伐，预计基建对水泥需求拉动将会逐步减弱。同时，区域水泥市场的竞争还要看明年各地水泥行业的错峰生产情况等。]]></title>
-            <guid>3251086</guid>
-            <pubDate>Fri, 22 Sep 2023 15:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港消委会遭网络攻击，特区政府称将加强数据保护】日前香港接连有公营机构遭到网络攻击。对此，香港特区政府资讯科技总监黄志光22日会见媒体时表示，特区政府高度关注此类网络安全事故，并对有关罪行作出谴责，特区政府将从技术、制度、培训三个方面加强数据保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznrcvz5239050.d.html</link>
-            <guid>3251085</guid>
-            <pubDate>Fri, 22 Sep 2023 15:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示正在加沙地带进行打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznrcvz5238742.d.html</link>
-            <guid>3251082</guid>
-            <pubDate>Fri, 22 Sep 2023 15:41:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
