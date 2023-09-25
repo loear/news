@@ -4,13 +4,85 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 25 Sep 2023 20:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 21:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[全美汽车工人联合会（UAW）：与福特汽车关于劳资合同的磋商“非常积极”。]]></title>
+            <title><![CDATA[【经济回稳向好 人民币对非美货币保持强势】据证券时报，反映人民币对一篮子货币汇率变动的CFETS人民币指数再度迎涨。中国外汇交易中心昨日公布的数据显示，9月22日当周三大人民币汇率指数全线上涨，其中，CFETS人民币汇率指数报98.83，周涨0.32。在经历了上半年的高位回落后，自7月中旬以来，CFETS人民币指数触底反弹，两个多月时间反弹幅度达3%，已基本恢复到年初水平。不过，相比之下，同期人民币对美元汇率贬值近2.4%。人民币对多边汇率与对美元汇率的反向变动，反映的是在美元指数持续坚挺的背景下，包括人民币在内的众多非美货币均呈现相对弱势，但横向比较看，人民币相对其他非美货币并不弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymwq3743913.d.html</link>
+            <guid>3253724</guid>
+            <pubDate>Mon, 25 Sep 2023 21:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：在没有结构性更高的增长前景的情况下，结构性高利率将对新兴市场的投资产生压力。]]></title>
+            <guid>3253723</guid>
+            <pubDate>Mon, 25 Sep 2023 21:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：预计大多数新兴市场在今年剩余时间和2024年将继续保持低于趋势增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymws8434072.d.html</link>
+            <guid>3253721</guid>
+            <pubDate>Mon, 25 Sep 2023 21:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：尽管预计未来几个季度紧缩的货币政策将产生更明显的影响，但大多数新兴市场的国内需求仍然强劲。]]></title>
+            <guid>3253720</guid>
+            <pubDate>Mon, 25 Sep 2023 21:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.3157元，较上周五纽约尾盘跌167点，盘中整体交投于7.2946-7.3180元区间。]]></title>
+            <guid>3253719</guid>
+            <pubDate>Mon, 25 Sep 2023 21:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（9月25日）纽约尾盘，标普500股指期货最终上涨0.50%，道指期货涨0.20%，纳斯达克100股指期货涨0.57%。]]></title>
+            <guid>3253717</guid>
+            <pubDate>Mon, 25 Sep 2023 21:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国9月消费者信心指数为99.7，前值103.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymws8433923.d.html</link>
+            <guid>3253715</guid>
+            <pubDate>Mon, 25 Sep 2023 21:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蓝色起源将任命Dave Limp为新的CEO，以接替现任CEO Bob Smith将于12月4日辞职之后留下的职位空缺。]]></title>
+            <guid>3253711</guid>
+            <pubDate>Mon, 25 Sep 2023 20:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股大类资产类ETF涨跌各异】 周一（9月25日），美国国债20+年ETF收跌2.46%，美国投资级公司债跌0.97%，通胀债券指数ETF和美国国债7-10年ETF均跌超0.7%，黄金ETF和农产品基金至少跌0.5%，日元做多跌0.3%，做多美元指数则收涨0.37%，大豆基金、标普500 ETF、罗素2000指数ETF、纳指ETF涨0.4%-0.47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymwr1655498.d.html</link>
+            <guid>3253708</guid>
+            <pubDate>Mon, 25 Sep 2023 20:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海果洛州玛多县发生3.0级地震】中国地震台网正式测定：09月26日04时17分在青海果洛州玛多县（北纬35.57度，东经99.13度）发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymws8432494.d.html</link>
+            <guid>3253706</guid>
+            <pubDate>Mon, 25 Sep 2023 20:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西方石油公司的CEO：公司对低碳投资“持谨慎态度”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymwr1654077.d.html</link>
+            <guid>3253703</guid>
+            <pubDate>Mon, 25 Sep 2023 20:24:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特汽车租赁公司Lumi（LUMI.AB）于9月25日本土IPO，开盘上涨30%停牌，最终保持这样的涨幅，融资10.9亿沙特里亚尔（折合2.90亿美元），获得散户和机构投资者超过270亿美元认购，成为沙特第三大小型乘用车租赁运营商。]]></title>
+            <guid>3253702</guid>
+            <pubDate>Mon, 25 Sep 2023 20:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：贝佐斯旗下蓝色起源的CEO Bob Smith辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymwv5527793.d.html</link>
+            <guid>3253701</guid>
+            <pubDate>Mon, 25 Sep 2023 20:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国汽车工人联合会（UAW）消息人士：与福特的劳资合同谈判“非常活跃”，仍有工作要做。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznymwr1653089.d.html</link>
             <guid>3253700</guid>
             <pubDate>Mon, 25 Sep 2023 20:16:41 GMT</pubDate>
@@ -268,139 +340,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznyfqs3855541.d.html</link>
             <guid>3253627</guid>
             <pubDate>Mon, 25 Sep 2023 17:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷上空疑现8年来最大臭氧层空洞】据阿根廷国家气象局当地时间9月24日报告，当地时间21日和22日该国南部火地岛省上空现最大臭氧层空洞，专家表示，这可能是自2015年以来最大的臭氧空洞。每年，臭氧层空洞会在8月至12月之间形成，导致紫外线辐射的增加，对健康产生多种有害影响。近年来，随着各国环保意识的增强和产业的升级，臭氧空洞的面积呈现缩小趋势，2019年，臭氧空洞的面积约为630万平方公里，是自1982年首次测量以来的最小值。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznyfqs3855473.d.html</link>
-            <guid>3253626</guid>
-            <pubDate>Mon, 25 Sep 2023 17:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：墨西哥、美国和联合国考虑新的筛查计划以应对移民问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznyfqs3855445.d.html</link>
-            <guid>3253625</guid>
-            <pubDate>Mon, 25 Sep 2023 17:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法荷航集团订购了50架A350空客飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznyfqt1751491.d.html</link>
-            <guid>3253624</guid>
-            <pubDate>Mon, 25 Sep 2023 17:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软正在招聘一名核能专家，为其人工智能和云数据中心提供动力】 人工智能需要大量的计算能力，微软正在制定一个路线图，用小型核反应堆为计算提供动力。根据微软日前发布的职位描述，该公司正在寻找一名核技术专家，领导该公司的技术评估，以整合小型模块化核反应堆和微反应堆，“为微软云和人工智能所在的数据中心供电”。具体来说，微软正在招聘一名“核技术首席项目经理”，此人“将负责成熟和实施全球小型模块化反应堆（SMR）和微反应堆能源战略”，招聘启事写道。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhv1880951.d.html</link>
-            <guid>3253623</guid>
-            <pubDate>Mon, 25 Sep 2023 17:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[戴文能源公司：90美元/桶的油价使得二级页岩油井更具吸引力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhv1880674.d.html</link>
-            <guid>3253622</guid>
-            <pubDate>Mon, 25 Sep 2023 17:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳卡地区一油库发生爆炸】据俄罗斯卫星通讯社报道，纳戈尔诺-卡拉巴赫地区（纳卡地区）斯捷潘纳克特（汉肯德）一座油库25日发生爆炸，有人员伤亡。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8657603.d.html</link>
-            <guid>3253621</guid>
-            <pubDate>Mon, 25 Sep 2023 17:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收跌0.71%，沪铜收跌0.57%，沪铝收跌0.23%，沪锌收涨0.09%，沪铅收跌0.47%，沪镍收跌0.09%，沪锡收跌1.27%。氧化铝夜盘收跌0.72%。不锈钢夜盘收跌0.46%。]]></title>
-            <guid>3253620</guid>
-            <pubDate>Mon, 25 Sep 2023 17:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌76美元，报8146美元/吨。LME期铝收跌7美元，报2234美元/吨。LME期锌收跌30美元，报2532美元/吨。LME期铅收跌33美元，报2181美元/吨。LME期镍收跌298美元，报19120美元/吨。LME期锡收跌363美元，报25888美元/吨。]]></title>
-            <guid>3253619</guid>
-            <pubDate>Mon, 25 Sep 2023 16:59:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统签署总统令 管理境内民用无人机的生产、销售及使用】白俄罗斯总统卢卡申科9月25日签署《关于民用无人机的国家登记和使用》的总统令。根据文件规定，只有经批准的组织和个体企业才能够在白俄罗斯境内以开展企业和专业活动为目的进行民用无人机的进口、持有、销售、操作和制造。相关组织和个体企业从白俄罗斯交通运输部航空局获得相关许可，并对无人机进行国家登记。总统令禁止个人在白俄罗斯进口、持有、销售、操作和制造民用无人机。其中关于个人进口、操作和制造无人机的规定在总统令发布后立即生效。对个人持有和销售无人机则设立了六个月的缓冲期，在此期间内个人可将其拥有的无人机出售给经批准的组织或个体企业，或将其转让给政府授权的组织保管。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhv1877943.d.html</link>
-            <guid>3253618</guid>
-            <pubDate>Mon, 25 Sep 2023 16:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄金消费高景气度引关注，业内：A股在四季度有望迎来重大转机】截至9月25日，9月以来券商累计调研819只个股，环比增长约45%。值得一提的是，随着近段时间黄金珠宝需求热度升高，周大生、潮宏基、菜百股份等个股受到券商关注，在调研中黄金市场销售情况、产品布局、未来市场需求等多方面问题频频被追问。国泰君安研报预计，黄金珠宝有望受益于下半年金九银十旺季与新产品周期催化共振。市场方面，业内人士认为，在经历了二季度至三季度的调整后，A股迎来基本面、流动性、政策面的上行拐点，在四季度有望迎来重大转机。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8652395.d.html</link>
-            <guid>3253617</guid>
-            <pubDate>Mon, 25 Sep 2023 16:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰：美国援助首批“艾布拉姆斯”主战坦克运抵】 据新华社，乌克兰总统泽连斯基25日说，美国援助的首批“艾布拉姆斯”主战坦克已运抵乌克兰。泽连斯基当天在社交媒体上说，这些坦克将用于加强乌军作战旅，但未透露援助坦克型号和数量等具体信息。今年1月，美国宣布将向乌克兰提供31辆“艾布拉姆斯”主战坦克。俄罗斯驻美国大使馆之前就此事表示，美国向乌克兰提供坦克，无法为其所谓向乌克兰提供“防御性武器”自圆其说，是对俄罗斯的又一次公然挑衅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhv1873729.d.html</link>
-            <guid>3253616</guid>
-            <pubDate>Mon, 25 Sep 2023 16:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚投行第八届理事会年会开幕 亚投行行长宣布启动《气候行动计划》】亚洲基础设施投资银行（亚投行）第八届理事会年会25日在埃及沙姆沙伊赫开幕，这是亚投行首次在非洲召开年会。亚投行行长金立群在开幕式上宣布，亚投行将启动《气候行动计划》，这是亚投行致力于应对气候变化的一个里程碑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8650530.d.html</link>
-            <guid>3253615</guid>
-            <pubDate>Mon, 25 Sep 2023 16:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄黑海舰队总部坍塌建筑被爆炸拆除】塞瓦斯托波尔市长于9月25日11、12、18时许三次发表声明称，当地正在引爆俄黑海舰队总部坍塌的建筑以降低受损建筑再次倒塌的风险，并提醒民众不要因巨大的爆炸声产生恐慌。当天乌克兰武装部队曾发消息称，乌军对俄黑海舰队总部的导弹袭击导致该建筑很难被修复。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8649697.d.html</link>
-            <guid>3253614</guid>
-            <pubDate>Mon, 25 Sep 2023 16:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云服务(AWS)CEO：亚马逊对Anthropic的初步投资为12.5亿美元。]]></title>
-            <guid>3253613</guid>
-            <pubDate>Mon, 25 Sep 2023 16:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云服务(AWS)CEO：将加快芯片供应链，尽快提升供应能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8646338.d.html</link>
-            <guid>3253611</guid>
-            <pubDate>Mon, 25 Sep 2023 16:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云服务(AWS)CEO：看到了生成式人工智能中使用的芯片的“巨大需求”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhw8646301.d.html</link>
-            <guid>3253610</guid>
-            <pubDate>Mon, 25 Sep 2023 16:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云服务(AWS)CEO：AWS用户可以提前获得Anthropic AI工具的使用权限。]]></title>
-            <guid>3253609</guid>
-            <pubDate>Mon, 25 Sep 2023 16:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云服务(AWS)CEO：亚马逊继续开发专有的人工智能工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhv1868151.d.html</link>
-            <guid>3253608</guid>
-            <pubDate>Mon, 25 Sep 2023 16:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【30年期德债收益率涨向3%整数位心理关口，创2011年10月以来新高】 周一（9月25日）欧市尾盘，德国10年期国债收益率涨5.7个基点，报2.796%，盘中交投于2.749%-2.812%区间。两年期德债收益率跌1.4个基点，报3.235%，盘中交投于3.274%-3.222%区间，9月21日曾涨至3.362%（创3月9日以来新高）；30年期德债收益率涨8.2个基点，报2.997%，逼近2011年10月28日顶部3.017%。2/10年期德债收益率利差涨7.747个基点，报-44.565个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imznxzhz5763207.d.html</link>
-            <guid>3253607</guid>
-            <pubDate>Mon, 25 Sep 2023 16:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：我们有兴趣拉近南方共同市场与亚洲国家的距离，将向其他南方共同市场国家传达越南与该区域达成贸易协议的意愿。]]></title>
-            <guid>3253605</guid>
-            <pubDate>Mon, 25 Sep 2023 15:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长端英债收益率涨超10个基点，两年期英债收益率一度创逾三个月新低】 周一（9月25日）欧市尾盘，英国10年期国债收益率上涨7.2个基点，报4.321%，全天震荡上行，一度涨至4.346%。两年期英债收益率涨1.3个基点，报4.816%，美股开盘之前一度跌至4.779%，逼近6月13日底部4.670%。30年期英债收益率涨11.5个基点，50年期英债收益率涨10.1个基点。2/10年期英债收益率利差涨6.201个基点，报-50.075个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznxzhz5762372.d.html</link>
-            <guid>3253604</guid>
-            <pubDate>Mon, 25 Sep 2023 15:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：到2027年，法国热泵产量将增加两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznxzhv1865063.d.html</link>
-            <guid>3253603</guid>
-            <pubDate>Mon, 25 Sep 2023 15:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：法国将于10月份重获电价控制权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznxzhw8641775.d.html</link>
-            <guid>3253602</guid>
-            <pubDate>Mon, 25 Sep 2023 15:50:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
