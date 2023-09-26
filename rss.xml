@@ -4,11 +4,56 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 26 Sep 2023 16:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 17:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【政策暖风频吹 并购重组大幅升温】今年以来，A股市场并购重组尤其活跃，企业并购交易意愿大幅提升，数据显示，年内已有86家A股公司首次披露重大重组事件，国央企成并购重组市场的主力军。专家表示，A股市场并购重组持续活跃是市场环境、政策及企业自身战略多种综合因素作用的结果，对资本市场的健康发展有积极意义。(经济参考报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpz7917902.d.html</link>
+            <guid>3255009</guid>
+            <pubDate>Tue, 26 Sep 2023 17:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国两年期国债收益率略有上升，最终上涨1.3个基点至5.144%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpz7915554.d.html</link>
+            <guid>3255007</guid>
+            <pubDate>Tue, 26 Sep 2023 17:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌54美元，报8091美元/吨。
+LME期铝收涨10美元，报2244美元/吨。
+LME期锌收跌21美元，报2511美元/吨。
+LME期铅收涨6美元，报2186美元/吨。
+LME期镍收跌243美元，报18877美元/吨。
+LME期锡收涨123美元，报26012美元/吨。]]></title>
+            <guid>3255006</guid>
+            <pubDate>Tue, 26 Sep 2023 17:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁总理：秘鲁2023年铜产量将为260万吨】秘鲁总理奥塔罗拉表示，秘鲁政府寻求确保投资者的安全；秘鲁2023年铜产量将为260万吨；到2023年年底，秘鲁将颁发九个矿场的许可证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpz7911358.d.html</link>
+            <guid>3254998</guid>
+            <pubDate>Tue, 26 Sep 2023 16:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期德债收益率涨1个基点】 周二（9月26日）欧市尾盘，德国10年期国债收益率涨1.0个基点，报2.808%，盘中交投于2.764%-2.821%区间。两年期德债收益率跌0.6个基点，报3.231%，盘中交投于3.246%-3.209%区间；30年期德债收益率涨0.6个基点，报3.004%。2/10年期德债收益率利差涨1.731个基点，报-42.835个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpy9927137.d.html</link>
+            <guid>3254997</guid>
+            <pubDate>Tue, 26 Sep 2023 16:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭诉讼文件显示，美国联邦贸易委员会（FTC）要求法院在亚马逊反垄断诉讼中下令采取任何必要的结构性、公平性和金钱上的救济措施。]]></title>
+            <guid>3254996</guid>
+            <pubDate>Tue, 26 Sep 2023 16:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长端英债收益率微幅上涨】 周二（9月26日）欧市尾盘，英国10年期国债收益率涨0.3个基点，报4.326%，盘中交投区间为4.270%-4.359%。两年期英债收益率跌0.8个基点，报4.808%，盘中交投区间为4.850%-4.754%，继续逼近6月13日底部4.670%。30年期英债收益率涨0.9个基点，50年期英债收益率涨0.6个基点。2/10年期英债收益率利差涨1.15个基点，报-48.879个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpx4603281.d.html</link>
+            <guid>3254993</guid>
+            <pubDate>Tue, 26 Sep 2023 16:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国天然气期货跌超11%，荷兰天然气期货跌超7%】 周二（9月26日）欧市尾盘，ICE英国天然气期货跌11.29%，刷新日低至100.000便士/千卡。TTF基准荷兰天然气期货跌7.36%，报39.650欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌2.20%，报82.51欧元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-27/detail-imzpakpy9924877.d.html</link>
@@ -360,60 +405,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc8022871.d.html</link>
             <guid>3254911</guid>
             <pubDate>Tue, 26 Sep 2023 14:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒立实业：第二大股东近期累计减持184.66万股公司股份，套现757.15万元】恒立实业9月26日公告，公司持股5%以上股东中萃公司因其自身资金需求，通过大宗交易方式减持公司股份184.66万股，占公司总股本的0.43%，减持金额为757.15万元。此前中萃公司因与相关方的合同纠纷，被法院强制执行减持了公司股份281万股，占公司总股本的0.66%。截至本公告日，中萃公司累计减持公司股份超过1%。中萃公司本次减持前后均为公司持股5%以上的股东，系公司第二大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehf4798582.d.html</link>
-            <guid>3254907</guid>
-            <pubDate>Tue, 26 Sep 2023 14:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国恒大：上半年集团实现合约销售金额人民币334.13亿元】中国恒大联交所公告，截止2023年6月30日，集团拥有土地储备1.9亿平方米。2023年上半年，集团实现合约销售金额人民币334.13亿元，合约销售面积511.5万平方米，上半年累计销售回款人民币271亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehf4798542.d.html</link>
-            <guid>3254906</guid>
-            <pubDate>Tue, 26 Sep 2023 14:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：大众汽车因需求下降而限制两个德国工厂的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc8021070.d.html</link>
-            <guid>3254903</guid>
-            <pubDate>Tue, 26 Sep 2023 14:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海兰信：拟以不超过6000万元回购公司股票 回购价格不超过14.00元/股】海兰信公告，公司拟使用自有资金以集中竞价交易方式回购公司部分人民币普通A股股票。本次用于回购股份的资金总额不低于人民币3,000万元（含），不超过人民币6,000万元（含）。在本次回购股份价格不超过14.00元/股（含）的条件下，按照本次回购资金总额上限测算，预计可回购股份总数为428.57万股，占当前总股本的0.59%；按照本次回购资金总额下限测算，预计可回购股份总数为214.29万股，占当前总股本的0.30%。本次回购的股份将全部用于实施员工持股计划或股权激励计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc0040794.d.html</link>
-            <guid>3254901</guid>
-            <pubDate>Tue, 26 Sep 2023 14:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首条时速350公里跨海高铁即将开通运营】记者26日从中国国家铁路集团有限公司获悉，我国首条时速350公里的跨海高铁——福州至厦门至漳州高铁（福厦高铁）将于28日开通运营，福州至厦门最快55分钟可达，两地实现“一小时生活圈”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehf4795670.d.html</link>
-            <guid>3254900</guid>
-            <pubDate>Tue, 26 Sep 2023 14:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国亿万富翁Xavier Niel将向人工智能领域投资2亿欧元】法国亿万富翁泽维尔·尼尔（Xavier Niel）将向人工智能领域投资2亿欧元。电信集团Iliad 9月26日宣布将投资多个项目，涉及位于巴黎的研究中心及为初创公司提供资金等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehf4795626.d.html</link>
-            <guid>3254899</guid>
-            <pubDate>Tue, 26 Sep 2023 14:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旭辉控股：已向联交所申请于9月27日复牌】 旭辉控股公告称，应本公司要求，本公司的普通股股份、认股权证及衍生工具已于二零二三年三月三十一日（星期五）上午九时正起在联交所暂停买卖。诚如本公司日期为二零二三年九月二十六日公告所披露，内容关于（其中包括）达成复牌指引，本公司已向联交所申请于二零二三年九月二十七日（星期三）上午九时正起恢复本公司的普通股股份、认股权证及衍生工具买卖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc8017645.d.html</link>
-            <guid>3254898</guid>
-            <pubDate>Tue, 26 Sep 2023 14:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海立法推动种业振兴】《上海市种子条例》26日经上海市十六届人大常委会第六次会议表决通过，将于2023年11月1日起施行。条例设种业创新专章，聚焦加强种业科技研究，对提升自主创新能力和市场竞争力等作出规定。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc8016439.d.html</link>
-            <guid>3254892</guid>
-            <pubDate>Tue, 26 Sep 2023 14:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰正就4种农作物的出口实施内部核查程序】乌克兰国家通讯社9月26日报道，乌克兰农业政策与粮食部部长米索利斯基表示，乌克兰根据欧盟委员会的决定制定了4种农作物（小麦、玉米、油菜籽和葵花籽）的出口核查程序，并将报价发给了邻国。索利斯基称，乌克兰正在对出口到波兰、保加利亚、匈牙利、罗马尼亚和斯洛伐克5个欧盟国家的4种农作物实施内部核查程序。该程序规定，乌克兰政府将在收到出口申请后30天内签发许可证，对于相关决议政府已审批通过。因此，未经乌政府批准，将不能向这5个国家出口农产品。此外，乌克兰会将收到出口申请的情况通知欧盟委员会和相关国家。乌克兰已向邻国发送了关于这一机制具体如何运作的建议，并正在等待答复和可能的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-26/detail-imzpaehc8015770.d.html</link>
-            <guid>3254890</guid>
-            <pubDate>Tue, 26 Sep 2023 14:13:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
