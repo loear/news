@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 29 Sep 2023 19:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 20:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国汽车工会将扩大罢工规模，波及通用、福特重要量产车型】美国汽车工人联合会（UAW）将扩大罢工规模。最新的罢工涉及福特汽车和通用汽车的更多装配厂，生产重要量产车型中型SUV。由于与Stellantis的谈判在最后一刻取得突破，工会免除对Stellantis的进一步罢工。美股汽车股下跌，Stellantis也不例外。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnhv1455602.d.html</link>
+            <guid>3258612</guid>
+            <pubDate>Fri, 29 Sep 2023 19:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：葡萄牙拉杰斯达斯弗洛雷斯东南131公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnht4677921.d.html</link>
+            <guid>3258611</guid>
+            <pubDate>Fri, 29 Sep 2023 19:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：乌克兰海军陆战队重兵集团为强攻第聂伯在尼古拉耶夫州集结。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnhv1454073.d.html</link>
+            <guid>3258610</guid>
+            <pubDate>Fri, 29 Sep 2023 19:21:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄总统普京签署命令：乌克兰公民可凭有效证件免签证出入俄罗斯】俄罗斯总统普京当地时间9月29日签署命令，规定乌克兰公民可以凭有效证件免签证出入俄罗斯。持有过期证件的乌克兰公民也可以免签证进入俄罗斯境内。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1581962.d.html</link>
@@ -207,34 +225,6 @@
             <title><![CDATA[美国国务卿布林肯：我们的工作显然会受到政府停摆的影响，敦促国会不要让政府面临这一局面。]]></title>
             <guid>3258536</guid>
             <pubDate>Fri, 29 Sep 2023 16:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【十家公司因WhatsApp相关调查向美国SEC支付合计7900万美元罚款】美国证券交易委员会（SEC）周五（9月29日）表示，包括盈透证券和贝雅在内的公司违反了必须保存员工业务通信记录的规定。据SEC表示，相关公司已同意向该监管机构缴纳合计7,900万美元的罚款。金融公司按要求必须监控并保存涉及其业务的通信记录，以杜绝不当行为。此前几家大银行向SEC和商品期货交易委员会(CFTC)缴纳逾25亿美元的罚款，以和解在个人手机和使用WhatsApp进行与工作相关通信的类似调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907968.d.html</link>
-            <guid>3258514</guid>
-            <pubDate>Fri, 29 Sep 2023 16:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登未能兑现结束颁布新的海上钻探许可的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1685005.d.html</link>
-            <guid>3258513</guid>
-            <pubDate>Fri, 29 Sep 2023 16:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：土耳其方面明确表示不会将从美国购买F-16战机与批准瑞典加入北约一事挂钩。]]></title>
-            <guid>3258512</guid>
-            <pubDate>Fri, 29 Sep 2023 16:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部：美国全部小麦产量预计为18.12亿蒲式耳。美国冬小麦产量预计12.48亿蒲式耳。美国春小麦产量预计为5.05亿蒲式耳。]]></title>
-            <guid>3258511</guid>
-            <pubDate>Fri, 29 Sep 2023 16:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：我预计土耳其议会将在十月后不久通过瑞典加入北约的提议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907859.d.html</link>
-            <guid>3258510</guid>
-            <pubDate>Fri, 29 Sep 2023 16:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

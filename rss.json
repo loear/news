@@ -6,6 +6,27 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3258612,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnhv1455602.d.html",
+            "title": "【美国汽车工会将扩大罢工规模，波及通用、福特重要量产车型】美国汽车工人联合会（UAW）将扩大罢工规模。最新的罢工涉及福特汽车和通用汽车的更多装配厂，生产重要量产车型中型SUV。由于与Stellantis的谈判在最后一刻取得突破，工会免除对Stellantis的进一步罢工。美股汽车股下跌，Stellantis也不例外。",
+            "date_modified": "2023-09-29T19:30:53.000Z"
+        },
+        {
+            "id": 3258611,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnht4677921.d.html",
+            "title": "美国地质勘探局：葡萄牙拉杰斯达斯弗洛雷斯东南131公里处发生5.0级地震。",
+            "date_modified": "2023-09-29T19:26:58.000Z"
+        },
+        {
+            "id": 3258610,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpmnhv1454073.d.html",
+            "title": "市场资讯：乌克兰海军陆战队重兵集团为强攻第聂伯在尼古拉耶夫州集结。",
+            "date_modified": "2023-09-29T19:21:52.000Z"
+        },
+        {
             "id": 3258607,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1581962.d.html",
@@ -238,39 +259,6 @@
             "content_html": "",
             "title": "美国国务卿布林肯：我们的工作显然会受到政府停摆的影响，敦促国会不要让政府面临这一局面。",
             "date_modified": "2023-09-29T16:53:04.000Z"
-        },
-        {
-            "id": 3258514,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907968.d.html",
-            "title": "【十家公司因WhatsApp相关调查向美国SEC支付合计7900万美元罚款】美国证券交易委员会（SEC）周五（9月29日）表示，包括盈透证券和贝雅在内的公司违反了必须保存员工业务通信记录的规定。据SEC表示，相关公司已同意向该监管机构缴纳合计7,900万美元的罚款。金融公司按要求必须监控并保存涉及其业务的通信记录，以杜绝不当行为。此前几家大银行向SEC和商品期货交易委员会(CFTC)缴纳逾25亿美元的罚款，以和解在个人手机和使用WhatsApp进行与工作相关通信的类似调查。",
-            "date_modified": "2023-09-29T16:20:16.000Z"
-        },
-        {
-            "id": 3258513,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1685005.d.html",
-            "title": "市场消息：美国总统拜登未能兑现结束颁布新的海上钻探许可的承诺。",
-            "date_modified": "2023-09-29T16:19:57.000Z"
-        },
-        {
-            "id": 3258512,
-            "content_html": "",
-            "title": "北约秘书长斯托尔滕贝格：土耳其方面明确表示不会将从美国购买F-16战机与批准瑞典加入北约一事挂钩。",
-            "date_modified": "2023-09-29T16:19:49.000Z"
-        },
-        {
-            "id": 3258511,
-            "content_html": "",
-            "title": "美国农业部：美国全部小麦产量预计为18.12亿蒲式耳。美国冬小麦产量预计12.48亿蒲式耳。美国春小麦产量预计为5.05亿蒲式耳。",
-            "date_modified": "2023-09-29T16:19:43.000Z"
-        },
-        {
-            "id": 3258510,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907859.d.html",
-            "title": "北约秘书长斯托尔滕贝格：我预计土耳其议会将在十月后不久通过瑞典加入北约的提议。",
-            "date_modified": "2023-09-29T16:19:37.000Z"
         }
     ]
 }
