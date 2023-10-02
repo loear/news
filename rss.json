@@ -6,6 +6,32 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3260528,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-03/detail-imzpuitx5025538.d.html",
+            "title": "Visa推出价值1亿美元的生成式人工智能创业计划。",
+            "date_modified": "2023-10-02T20:08:46.000Z"
+        },
+        {
+            "id": 3260520,
+            "content_html": "",
+            "title": "花旗集团大宗商品主管Morse：欧洲和美国等地对石油需求的拖累严重影响了原油价格，限制了欧佩克+减产带来的潜在涨势。",
+            "date_modified": "2023-10-02T19:21:55.000Z"
+        },
+        {
+            "id": 3260519,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-03/detail-imzpucmv4646596.d.html",
+            "title": "花旗集团大宗商品主管Morse：石油需求下滑将限制油价上涨。",
+            "date_modified": "2023-10-02T19:19:52.000Z"
+        },
+        {
+            "id": 3260517,
+            "content_html": "",
+            "title": "【日本金融厅将在2024年6月底前对大约20家银行进行压力测试】据日经新闻，日本金融监管机构计划评估该国银行抵御社交媒体引发的存款挤兑的能力，日本金融厅将在2024年6月底前对大约20家银行进行压力测试，日本金融厅将审查银行在信贷压力下处理存款外流的流程，银行已经进行了自己的压力测试，但日本金融厅认为其基础假设不足够。快速增长存款基础的在线银行也将被纳入压力测试范围内。",
+            "date_modified": "2023-10-02T19:15:58.000Z"
+        },
+        {
             "id": 3260515,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-10-03/detail-imzpucmz5147173.d.html",
@@ -309,13 +335,6 @@
             "content_html": "",
             "title": "英国10年期国债收益率升至4.572%，为8月23日以来的最高水平，日内上涨13个基点。",
             "date_modified": "2023-10-02T15:40:28.000Z"
-        },
-        {
-            "id": 3260422,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-02/detail-imzptxec5245251.d.html",
-            "title": "X公司（原推特）CEO Yaccarino表示，推特与巴黎希尔顿启动了合作关系。",
-            "date_modified": "2023-10-02T15:27:46.000Z"
         }
     ]
 }
