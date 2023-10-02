@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 02 Oct 2023 18:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 19:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[意大利9月份预算赤字为252亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpucmz5147173.d.html</link>
+            <guid>3260515</guid>
+            <pubDate>Mon, 02 Oct 2023 18:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 11月原油期货结算价收跌1.97美元，跌幅2.17%，报88.82美元/桶。]]></title>
+            <guid>3260513</guid>
+            <pubDate>Mon, 02 Oct 2023 18:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚能源部：哥伦比亚将在10月份保持燃油价格不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpucmz5143191.d.html</link>
+            <guid>3260512</guid>
+            <pubDate>Mon, 02 Oct 2023 18:30:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：乌克兰将匈牙利OTP银行从冲突赞助者名单中移除。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpucmx8364289.d.html</link>
