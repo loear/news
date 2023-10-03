@@ -6,6 +6,20 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3261355,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4016801.d.html",
+            "title": "必和必拓(BHP.N)要求与智利监管机构进行工资谈判的调解。",
+            "date_modified": "2023-10-03T16:29:06.000Z"
+        },
+        {
+            "id": 3261354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html",
+            "title": "IMF：墨西哥2023年的GDP增速预测现在为3.2%，7月预测为2.6%。",
+            "date_modified": "2023-10-03T16:25:57.000Z"
+        },
+        {
             "id": 3261351,
             "content_html": "",
             "title": "巴西石油公司首席执行官：可能会在2024年初宣布在陆上风电和太阳能领域进行并购交易。",
@@ -277,13 +291,6 @@
             "url": "https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8930556.d.html",
             "title": "墨西哥总统洛佩斯确认将于当地时间周四与美国国务卿布林肯会面。",
             "date_modified": "2023-10-03T14:26:29.000Z"
-        },
-        {
-            "id": 3261268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7350815.d.html",
-            "title": "【中国驻泰国大使馆：曼谷购物中心枪击案造成中国公民1死1伤】当地时间10月3日，经中央广播电视总台记者与中国驻泰国大使馆方面核实，泰国曼谷暹罗百丽宫购物中心枪击案造成中国公民1死1伤。当天16时左右，泰国曼谷市中心暹罗百丽宫购物中心发生枪击事件，嫌疑人已被警方控制。 (央视新闻)",
-            "date_modified": "2023-10-03T14:14:06.000Z"
         }
     ]
 }

@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 03 Oct 2023 16:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 17:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[必和必拓(BHP.N)要求与智利监管机构进行工资谈判的调解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4016801.d.html</link>
+            <guid>3261355</guid>
+            <pubDate>Tue, 03 Oct 2023 16:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：墨西哥2023年的GDP增速预测现在为3.2%，7月预测为2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html</link>
+            <guid>3261354</guid>
+            <pubDate>Tue, 03 Oct 2023 16:25:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西石油公司首席执行官：可能会在2024年初宣布在陆上风电和太阳能领域进行并购交易。]]></title>
             <guid>3261351</guid>
@@ -240,12 +252,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8930556.d.html</link>
             <guid>3261278</guid>
             <pubDate>Tue, 03 Oct 2023 14:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻泰国大使馆：曼谷购物中心枪击案造成中国公民1死1伤】当地时间10月3日，经中央广播电视总台记者与中国驻泰国大使馆方面核实，泰国曼谷暹罗百丽宫购物中心枪击案造成中国公民1死1伤。当天16时左右，泰国曼谷市中心暹罗百丽宫购物中心发生枪击事件，嫌疑人已被警方控制。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7350815.d.html</link>
-            <guid>3261268</guid>
-            <pubDate>Tue, 03 Oct 2023 14:14:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
