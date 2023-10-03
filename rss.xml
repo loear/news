@@ -4,11 +4,69 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 03 Oct 2023 20:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 21:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国大类资产ETF多数收跌】 恐慌指数做多大涨9.42%，美国布伦特油价基金涨0.70%，日元做多涨0.69%。美国国债20+年ETF跌2.15%，美国房地产ETF跌1.95%，纳指100 ETF跌1.75%，罗素2000指数ETF跌1.68%，标普500价值指数ETF跌1.41%，标普500 ETF跌1.34%，新兴市场ETF跌1.32%，道指ETF跌1.23%，巴克莱美国可转债ETF跌1.17%，美国投资级公司债ETF跌1.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwsyr3249538.d.html</link>
+            <guid>3261453</guid>
+            <pubDate>Tue, 03 Oct 2023 21:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔首席执行官Gelsinger：公司在本季度表现强劲，收入超过了指导范围的中点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwsyr3249528.d.html</link>
+            <guid>3261452</guid>
+            <pubDate>Tue, 03 Oct 2023 21:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD向下触及0.59，日内跌0.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwsyv3791214.d.html</link>
+            <guid>3261450</guid>
+            <pubDate>Tue, 03 Oct 2023 21:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：如果10年期收益率超过5%，那将是一个“价格惊人”的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3921128.d.html</link>
+            <guid>3261446</guid>
+            <pubDate>Tue, 03 Oct 2023 20:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将于美东时间周三下午1点（北京时间10月5日凌晨1点）更新取消学生债务的工作进度。]]></title>
+            <guid>3261444</guid>
+            <pubDate>Tue, 03 Oct 2023 20:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线波动不大，现分别报88.45美元/桶和90.62美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3920629.d.html</link>
+            <guid>3261442</guid>
+            <pubDate>Tue, 03 Oct 2023 20:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥比索日内跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3920538.d.html</link>
+            <guid>3261441</guid>
+            <pubDate>Tue, 03 Oct 2023 20:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至9月29日当周API原油库存减少421万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7143309.d.html</link>
+            <guid>3261440</guid>
+            <pubDate>Tue, 03 Oct 2023 20:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[音乐流媒体平台Spotify将在其Premium合约中加入超过15万册有声书内容。]]></title>
+            <guid>3261439</guid>
+            <pubDate>Tue, 03 Oct 2023 20:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行：美元将继续上涨，直到美国国债收益率触顶】德意志银行首席国际策略师拉斯金表示，在较长期国债收益率触及上限之前，很难说美元何时会停止走强并出现转机。他在接受采访时表示：“所有事情的驱动因素实际上是收益率曲线的后端。我们必须找到某种上限，或者找到某种更有信心的关于上限可能在哪里的观点。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnst3378188.d.html</link>
+            <guid>3261437</guid>
+            <pubDate>Tue, 03 Oct 2023 20:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：生物制药公司Kezar将裁员41%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3919430.d.html</link>
@@ -236,67 +294,6 @@ COMEX 2月黄金期货收跌0.31%，报1860.70美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html</link>
             <guid>3261354</guid>
             <pubDate>Tue, 03 Oct 2023 16:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西石油公司首席执行官：可能会在2024年初宣布在陆上风电和太阳能领域进行并购交易。]]></title>
-            <guid>3261351</guid>
-            <pubDate>Tue, 03 Oct 2023 16:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际镍业研究组织（INSG）：镍市场隐性市场平衡在2022年为10.4万吨，2023年为22.3万吨，2024年为23.9万吨。]]></title>
-            <guid>3261350</guid>
-            <pubDate>Tue, 03 Oct 2023 16:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【曼谷枪击事件中国受伤公民状况稳定，泰国总理赛塔赴医院看望】10月3日晚间从中国驻泰国大使馆处了解到，10月3日，泰国曼谷暹罗百丽宫购物中心发生枪击事件，一名中国公民不幸遇难，另有一名中国公民受伤。中国驻泰使馆获悉有关情况后，迅速启动应急机制，核实情况，会同泰国有关方面开展善后处置，第一时间派领事官员赶赴案件现场了解情况并赴医院看望伤员。目前受害人员身份已经查明，伤员已送医，状况稳定。 事件发生后，泰国总理赛塔亲赴医院看望中国受伤人员。赛塔总理和班比副总理兼外长还分别致电韩志强大使，代表泰国政府对不幸遇难的中国公民表示哀悼，对受伤人员表示慰问，强调泰方将迅速依法查办此次事件，强化治安管理，确保为来泰中国公民提供可靠安全环境。 据泰方公布的消息称，枪击事件造成2人死亡、5人受伤，其中两人伤势严重。当天17时10分左右，警方逮捕了一名14岁男子，他涉嫌制造了该枪击事件。泰国警察总署署长多萨此前也介绍道，该名嫌疑人过去曾接受精神治疗。两名遇难者中一名为中国籍的34岁女性，另一名为缅甸籍。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwaay8941963.d.html</link>
-            <guid>3261349</guid>
-            <pubDate>Tue, 03 Oct 2023 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯总统普京与安全委员会讨论北极航道有关事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwaax3618838.d.html</link>
-            <guid>3261347</guid>
-            <pubDate>Tue, 03 Oct 2023 16:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)第三季度美国汽车销量为674,336辆，同比增长21%，其中电动汽车销量环比增长28%。]]></title>
-            <guid>3261346</guid>
-            <pubDate>Tue, 03 Oct 2023 16:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚一非法炼油厂爆炸】 据当地媒体3日报道，尼日利亚南部河流州一家非法炼油厂2日发生爆炸，造成数十人伤亡。尼日利亚安全和民防团发言人奥卢费米·阿约德莱确认，爆炸发生在河流州埃莫胡阿地区，尼安全和民防团已派小组前往调查这起事件。阿约德莱没有披露具体伤亡人数。当地警方表示，正在调查原因并收集伤亡人员的具体信息。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4140878.d.html</link>
-            <guid>3261343</guid>
-            <pubDate>Tue, 03 Oct 2023 15:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西离岸税收法案报告人：将讨论对股权利息征税和离岸税率的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4140580.d.html</link>
-            <guid>3261341</guid>
-            <pubDate>Tue, 03 Oct 2023 15:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌1.08%】欧洲主要股指集体收跌，德国DAX30指数跌1.08%，英国富时100指数跌0.54%，法国CAC40指数跌1.01%，欧洲斯托克50指数跌1.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7363378.d.html</link>
-            <guid>3261340</guid>
-            <pubDate>Tue, 03 Oct 2023 15:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西离岸税收法案报告人：初步法案预计今天出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7363274.d.html</link>
-            <guid>3261339</guid>
-            <pubDate>Tue, 03 Oct 2023 15:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月03日23时22分在日本本州东南海域（北纬29.90度，东经139.95度）发生5.4级地震，震源深度10千米。]]></title>
-            <guid>3261338</guid>
-            <pubDate>Tue, 03 Oct 2023 15:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司CEO：公司正在考虑在年底之前重新调整燃料价格，但尚未做出最终决定。]]></title>
-            <guid>3261337</guid>
-            <pubDate>Tue, 03 Oct 2023 15:47:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
