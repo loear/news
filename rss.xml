@@ -4,11 +4,49 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 04 Oct 2023 19:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 20:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[开市客/好市多9月同店销售总额增长4.5%。]]></title>
+            <guid>3262345</guid>
+            <pubDate>Wed, 04 Oct 2023 20:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收跌13.72%，报8.05美元，刷新8月15日美国借壳上市以来收盘最低位，一度刷新盘中历史低点至7.98美元。]]></title>
+            <guid>3262334</guid>
+            <pubDate>Wed, 04 Oct 2023 20:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[线上杂货配送公司Instacart（CART）收涨2.90%，报27.31美元，10月3日刷新9月19日美国IPO以来盘中低点至26.11美元。]]></title>
+            <guid>3262332</guid>
+            <pubDate>Wed, 04 Oct 2023 20:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Keystone输油管道短暂中断后重启，运力减半至30万桶/日】加拿大Keystone原油管道在因维修工作而暂停后，周二的运行能力降低至原来的大约一半。据知情人士透露，这条管道在周二当天早些时候中断后，于周二晚间恢复了服务。上述知情人士援引Wood Mackenzie Ltd.的数据称，目前每天运输近30万桶原油，约为其近60万桶日运力的一半。数据显示，此次中断导致加拿大阿尔伯塔省重质原油对美国基准WTI原油的价差扩大85美分，至20.60美元/桶，这是自2月份以来首次超过20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6062555.d.html</link>
+            <guid>3262315</guid>
+            <pubDate>Wed, 04 Oct 2023 19:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Astera就2024年潜在的IPO事宜接触摩根士丹利，该公司的股东包括英特尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6062507.d.html</link>
+            <guid>3262314</guid>
+            <pubDate>Wed, 04 Oct 2023 19:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚马逊将关闭其直播音频流媒体服务AMP。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2836994.d.html</link>
+            <guid>3262298</guid>
+            <pubDate>Wed, 04 Oct 2023 19:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车（GM）首席技术官（CTO）Golan离职，距离其入职刚刚一个月。]]></title>
+            <guid>3262297</guid>
+            <pubDate>Wed, 04 Oct 2023 19:21:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[惠誉：美国政府关门不会影响美国AA+稳定主权评级。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2835478.d.html</link>
@@ -319,40 +357,6 @@ LME期锡收涨72美元，报23926美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7801155.d.html</link>
             <guid>3262193</guid>
             <pubDate>Wed, 04 Oct 2023 14:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：风暴“菲利普”转向西北偏北方向，但强降雨仍在持续袭击维尔京群岛，百慕大地区发出热带风暴警报。]]></title>
-            <guid>3262192</guid>
-            <pubDate>Wed, 04 Oct 2023 14:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌上涨1.4%，此前宣布推出Pixel Watch 2、Pixel 8和Pixel 8 Pro，将会把生成式AI聊天机器人与虚拟助手结合在一起。]]></title>
-            <guid>3262191</guid>
-            <pubDate>Wed, 04 Oct 2023 14:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌发布Pixel 8系列手机，在摄像头等零部件采用AI技术】谷歌发布Pixel 8，起售价699美元，Pixel 8 Pro起售价999美元。这两款手机都基于Tensor G3自研芯片，这款芯片支持谷歌在摄像头等领域采用自家的人工智能（AI）和机器人学习资源。这两款手机10月4日即提供预定，将于10月12日发货/上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6275591.d.html</link>
-            <guid>3262190</guid>
-            <pubDate>Wed, 04 Oct 2023 14:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴克莱本周启动裁员，将裁掉3%的全球投资银行员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6274900.d.html</link>
-            <guid>3262189</guid>
-            <pubDate>Wed, 04 Oct 2023 14:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙汽车工业协会（ANFAC）：西班牙九月份新车销量同比增长2.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7799629.d.html</link>
-            <guid>3262188</guid>
-            <pubDate>Wed, 04 Oct 2023 14:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月29日当周EIA战略石油储备库存 30万桶，前值-25万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7798761.d.html</link>
-            <guid>3262182</guid>
-            <pubDate>Wed, 04 Oct 2023 14:32:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
