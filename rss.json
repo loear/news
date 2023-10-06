@@ -6,6 +6,54 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3264252,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqf7709272.d.html",
+            "title": "市场资讯：俄罗斯只允许乌克兰人通过两个检查站入境。",
+            "date_modified": "2023-10-06T17:08:02.000Z"
+        },
+        {
+            "id": 3264251,
+            "content_html": "",
+            "title": "美国油服贝克休斯：10月6日当周，美国活跃的石油钻井机下降5台，至497台。美国活跃的天然气钻井机增加2台，至118台。美国总体活跃的钻井机为619台。",
+            "date_modified": "2023-10-06T17:06:14.000Z"
+        },
+        {
+            "id": 3264248,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqe0930697.d.html",
+            "title": "美国共和党众议员吉姆·乔丹赞成关于罢免动议的规则改革。",
+            "date_modified": "2023-10-06T16:59:16.000Z"
+        },
+        {
+            "id": 3264243,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexpz7050845.d.html",
+            "title": "【美国信用市场再遭重创 就业数据远超预期冲击美国国债】迈向3月份全球银行业动荡以来最差单周表现之后，美国信用市场周五再遭重创，强劲的就业数据推动美国国债升至2007年以来的最高水平，令企业借款人更加痛苦。美国劳工统计局报告显示美国9月份非农就业人数飙升，大超预期之后，美国国债周五大跌。基准10年期美国国债收益率一度飙升16个基点，至4.885%。本周早些时候，在强劲的经济数据显示美国经济能够承受进一步加息的背景下，美债已经大跌，而周五发布的数据让市场更痛。",
+            "date_modified": "2023-10-06T16:45:01.000Z"
+        },
+        {
+            "id": 3264241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqc2372599.d.html",
+            "title": "美国总统拜登：美国民众的家庭财务状况正在改善。",
+            "date_modified": "2023-10-06T16:35:07.000Z"
+        },
+        {
+            "id": 3264240,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqf7702619.d.html",
+            "title": "美国总统拜登：我被告知在边境上建造新的隔离墙一事上别无选择。",
+            "date_modified": "2023-10-06T16:33:04.000Z"
+        },
+        {
+            "id": 3264237,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqf7701634.d.html",
+            "title": "美国总统拜登：现在美国经济不需要为富人提供更多的减税措施。",
+            "date_modified": "2023-10-06T16:28:42.000Z"
+        },
+        {
             "id": 3264236,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqe0923657.d.html",
@@ -326,27 +374,6 @@
             "content_html": "",
             "title": "美国地质勘探局：日本伊豆群岛发生5.0级地震。",
             "date_modified": "2023-10-06T13:52:19.000Z"
-        },
-        {
-            "id": 3264144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-06/detail-imzqethi7808045.d.html",
-            "title": "【法拉第未来：将向贾跃亭交付车辆】10月6日，法拉第未来宣布，公司将在加州洛杉矶总部举办活动，向FF创始人兼首席产品和用户生态官贾跃亭交付FF 91 2.0 Futurist Alliance。",
-            "date_modified": "2023-10-06T13:41:54.000Z"
-        },
-        {
-            "id": 3264143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-06/detail-imzqethc7159235.d.html",
-            "title": "【锅圈食品通过港交所上市聆讯】据港交所文件：锅圈食品（上海）股份有限公司通过港交所上市聆讯。",
-            "date_modified": "2023-10-06T13:39:59.000Z"
-        },
-        {
-            "id": 3264140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-06/detail-imzqethi7807331.d.html",
-            "title": "【下周美国API和EIA原油库存数据推迟公布】受美国哥伦布日假期（10月9日）影响，下周美国API和EIA原油库存数据将分别推迟至10月12日（周四）04:30和23:00公布，10月9日（下周一）美股照常开市，不受影响，敬请留意。",
-            "date_modified": "2023-10-06T13:37:44.000Z"
         }
     ]
 }
