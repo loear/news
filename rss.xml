@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 06 Oct 2023 20:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 21:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【福特旗舰F-150电动皮卡三季度销量接近腰斩，还在“质量检查”】福特仅能确认“检查与安全问题无关”，不过公司CEO曾在8月承认F-150全电动皮卡“充电非常具有挑战性”，年初曾因电池发生火灾烧毁车辆而被迫停产五周。不过福特希望四季度起销量改善，工厂年产能已翻三倍至15万辆，但未来F-150的销售策略将聚焦混合动力车型，而非Lightning全电动皮卡了。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqfkcy0696432.d.html</link>
+            <guid>3264333</guid>
+            <pubDate>Fri, 06 Oct 2023 20:34:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小牛电动/牛电科技（NIU）三季度销售26.5923万辆高性能电动自行车和摩托车，2022年同期销售32.0798万辆。]]></title>
             <guid>3264331</guid>
@@ -157,42 +163,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexpz7050845.d.html</link>
             <guid>3264243</guid>
             <pubDate>Fri, 06 Oct 2023 16:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国民众的家庭财务状况正在改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqc2372599.d.html</link>
-            <guid>3264241</guid>
-            <pubDate>Fri, 06 Oct 2023 16:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：我被告知在边境上建造新的隔离墙一事上别无选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqf7702619.d.html</link>
-            <guid>3264240</guid>
-            <pubDate>Fri, 06 Oct 2023 16:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：现在美国经济不需要为富人提供更多的减税措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqf7701634.d.html</link>
-            <guid>3264237</guid>
-            <pubDate>Fri, 06 Oct 2023 16:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登就9月美国非农就业报告发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqe0923657.d.html</link>
-            <guid>3264236</guid>
-            <pubDate>Fri, 06 Oct 2023 16:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国劳动力中的就业人数占比达到20年来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqe0923496.d.html</link>
-            <guid>3264235</guid>
-            <pubDate>Fri, 06 Oct 2023 16:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：自我上任以来，我们已经创造了1390万个新岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-07/detail-imzqexqe0923233.d.html</link>
-            <guid>3264234</guid>
-            <pubDate>Fri, 06 Oct 2023 16:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
