@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 08 Oct 2023 17:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 18:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【埃及总统与欧洲理事会主席通电话 讨论巴以局势】埃及总统塞西当地时间10月8日与欧洲理事会主席米歇尔通电话，就近期巴以局势升级问题进行磋商。塞西强调，鉴于当前巴以局势升级对平民生命以及该地区的安全与稳定构成严重风险，冲突各方必须保持克制，停止升级行为。米歇尔强调，欧洲期待就巴以局势升级问题同埃及加强磋商，以结束可能引发严重后果的暴力状态和紧张局势的升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmrzx8580030.d.html</link>
+            <guid>3265848</guid>
+            <pubDate>Sun, 08 Oct 2023 17:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新疆阿克苏地区拜城县发生4.5级地震 当地消防正在集结前往震中】据中国地震台网正式测定，10月9日0时17分在新疆阿克苏地区拜城县发生4.5级地震，震源深度10公里，震中位于北纬41.89度，东经82.26度。据了解，阿克苏地区新和县、库车市均有震感。当地消防正在集结前往震中，暂未接到人员伤亡和财产损失报告。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmrzv4577389.d.html</link>
@@ -448,12 +454,6 @@
             <title><![CDATA[【以色列使馆回应巴以冲突】以色列国防副官伊丹·莫拉格上校表示，未来几天甚至几个月内，以方将采取前所未有的行动来进行有力回应。而就在7日，巴勒斯坦总统阿巴斯表示，本轮巴以冲突的爆发原因在于以色列对巴勒斯坦人的“不公正”对待。 (CGTN记者团)]]></title>
             <guid>3265619</guid>
             <pubDate>Sun, 08 Oct 2023 12:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安理会将就巴以局势举行内部磋商】根据联合国最新日程信息，联合国安理会将于当地时间10月8日下午举行关于巴以局势的内部磋商。随着巴以地区紧张局势持续加剧，多方7日就巴以冲突表态，呼吁冲突双方保持最大限度克制，同时呼吁国际社会和地区相关国家积极斡旋，寻找解决方案，实现地区和平安全。 (央视军事)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqkzec4930294.d.html</link>
-            <guid>3265618</guid>
-            <pubDate>Sun, 08 Oct 2023 12:16:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
