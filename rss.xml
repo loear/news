@@ -4,11 +4,69 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 09 Oct 2023 19:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 20:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特斯拉收跌0.33%，“特斯拉劲敌”Rivian（RIVN）跌0.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhu8710944.d.html</link>
+            <guid>3267738</guid>
+            <pubDate>Mon, 09 Oct 2023 20:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收跌9.96%，报7.23美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhu8710876.d.html</link>
+            <guid>3267736</guid>
+            <pubDate>Mon, 09 Oct 2023 20:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达收跌1.08%，报452.68美元，该公司宣布取消下周在以色列特拉维夫举办AI峰会的计划。]]></title>
+            <guid>3267734</guid>
+            <pubDate>Mon, 09 Oct 2023 20:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[软银旗下芯片软件设计公司Arm（ARM）收涨0.31%，报54.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhx4267524.d.html</link>
+            <guid>3267733</guid>
+            <pubDate>Mon, 09 Oct 2023 20:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及总统塞西同沙特王储兼首相穆罕默德通电话】埃及总统塞西当地时间10月9日同沙特王储兼首相穆罕默德通电话讨论巴以局势。双方一致同意，在未来一段时间内继续保持两国间的磋商和协调。其重点是根据相关国际合法性决议，在“两国方案”基础上实现巴勒斯坦问题的全面、公正解决，而这需要立即实现停火和所有方向的军事对抗。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhu8710380.d.html</link>
+            <guid>3267730</guid>
+            <pubDate>Mon, 09 Oct 2023 19:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部高级官员就哈马斯袭击事件表示，美国正在加大对以色列的支持，包括空中防御和军火援助。]]></title>
+            <guid>3267728</guid>
+            <pubDate>Mon, 09 Oct 2023 19:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：巴勒斯坦驻俄大使表示正在进行巴总统阿巴斯访俄的准备工作】据央视新闻，俄新社10月9日援引巴勒斯坦驻俄大使消息，称其正在进行巴勒斯坦总统阿巴斯访问俄罗斯的准备工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhv7489044.d.html</link>
+            <guid>3267727</guid>
+            <pubDate>Mon, 09 Oct 2023 19:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥小麦期货涨约0.6%，对冲基金了结部分空头头寸，实物价格走高】 周一（10月9日）纽约尾盘，谷物分类指数涨0.03%，报41.0661点，盘中交投区间为40.9272-41.5435点。CBOT玉米期货跌0.76%，报4.88-1/4美元/蒲式耳。CBOT小麦期货涨0.57%，报5.72美元/蒲式耳。CBOT大豆期货跌0.18%，报12.63-3/4美元/蒲式耳，豆粕期货涨0.56%，豆油期货跌2.69%。ICE原糖期货涨1.98%，ICE白糖期货涨1.76%。ICE阿拉比卡咖啡期货涨0.21%。可可期货跌0.43%。ICE棉花期货跌0.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhu8709848.d.html</link>
+            <guid>3267726</guid>
+            <pubDate>Mon, 09 Oct 2023 19:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股每日优鲜盘中跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhu8708730.d.html</link>
+            <guid>3267724</guid>
+            <pubDate>Mon, 09 Oct 2023 19:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达取消下周在以色列举办AI峰会的安排】 英伟达表示，取消10月15-16日在以色列特拉维夫举办现场人工智能（AI）峰会的安排。英伟达一度强调以色列超过6000家初创公司的规模和VC的单位投资规模，使得这场AI峰会有望凸显出以色列“全球最具活力的科技中心之一”的地位。根据原来的安排，会有大约2500名开发者、研究人员、以及科技工作者参加，峰会将围绕生成式AI、超算与大语言模型、汽车、保健、以及网络安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhv7487270.d.html</link>
+            <guid>3267722</guid>
+            <pubDate>Mon, 09 Oct 2023 19:24:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黎巴嫩真主党向以色列发射制导火箭弹和迫击炮】黎巴嫩真主党当地时间10月9日发表声明称，该组织有三名成员在以色列对黎巴嫩南部的袭击中死亡，作为回应，黎巴嫩真主党当晚向以色列位于布拉尼特（Branit）和阿维维姆（Avivim）两地的军营发射了制导火箭弹和迫击炮。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpzhv7483260.d.html</link>
@@ -154,114 +212,6 @@ COMEX 2月黄金期货收涨1.02%，报1883.50美元/盎司。]]></title>
             <title><![CDATA[根据埃及安保消息人士和目击者称，加沙与埃及西奈半岛之间的拉法赫过境点的运作因附近的袭击而受到干扰。]]></title>
             <guid>3267644</guid>
             <pubDate>Mon, 09 Oct 2023 17:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国称正向以色列运送额外援助】据央视新闻，当地时间8日，白宫发表声明称，美国总统拜登当日与以色列总理内塔尼亚胡再次通话。拜登表示，美国向以色列国防军提供的额外援助正在运往以色列的途中，未来几天美国还将提供更多援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyx7594933.d.html</link>
-            <guid>3267643</guid>
-            <pubDate>Mon, 09 Oct 2023 17:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫表示，美国总统拜登指示团队与以色列方面进行协调。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4369391.d.html</link>
-            <guid>3267642</guid>
-            <pubDate>Mon, 09 Oct 2023 17:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【由于一航班收到袭击威胁 德国汉堡机场所有航班一度暂停起降】当地时间10月9日中午12时左右，由于一架来自伊朗首都德黑兰的飞机收到袭击威胁，德国汉堡机场的所有航班停止起飞和降落。据悉，这架航班号为IR723的飞机原定于11时45分抵达汉堡机场，德国警方早些时候收到了该航班可能发生袭击的电子邮件。德国空军表示，警报小组于早上启动，在德国领空一路对该航班进行护航，该航班于当地时间12时20分左右降落，停在一个特殊区域，消防车和救护车随时待命。随后安全部门对198名旅客和16名机组人员进行了安全检查，没有发现可疑物品。当天15时50分，汉堡机场的航班运营恢复，但仍有部分航班出现了延误。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyv3504205.d.html</link>
-            <guid>3267641</guid>
-            <pubDate>Mon, 09 Oct 2023 17:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登将于周五（10月13日）在费城就经济事务发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4369116.d.html</link>
-            <guid>3267640</guid>
-            <pubDate>Mon, 09 Oct 2023 17:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府消息人士称，西班牙不同意暂停欧盟委员会对巴勒斯坦的援助，并呼吁欧盟在周二进行讨论。]]></title>
-            <guid>3267638</guid>
-            <pubDate>Mon, 09 Oct 2023 17:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩南部所有学校将于10月10日停课一天】黎巴嫩看守政府教育部长阿巴斯·哈拉比当地时间10月9日宣布，由于安全局势恶化，黎巴嫩南部所有学校将于10月10日停课一天。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyw8826223.d.html</link>
-            <guid>3267637</guid>
-            <pubDate>Mon, 09 Oct 2023 17:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列电视台报道，哈马斯对以色列的袭击造成至少900人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4367156.d.html</link>
-            <guid>3267636</guid>
-            <pubDate>Mon, 09 Oct 2023 17:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列驻俄大使：以色列的戒严可能会持续很久】以色列驻莫斯科大使亚历山大·本·兹维周一称，以色列（戒严令）可能会持续很长时间。直到我们的主要目标实现——摧毁哈马斯的所有基础设施，这样，曾经发生的一切就不会再发生了。（俄罗斯卫星通讯社）]]></title>
-            <guid>3267632</guid>
-            <pubDate>Mon, 09 Oct 2023 16:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩军方称边境地区遭以色列空袭和炮击】 当地时间10月9日，黎巴嫩军方发表声明称，黎南部达希拉镇（Al-Dhahira）和埃塔沙阿巴镇（Aita Al-Shaab）的郊区以及其他边境地区正在遭受以色列的空袭和炮击。黎军呼吁当地居民加强防范措施，不要前往边境线。（央视新闻）]]></title>
-            <guid>3267631</guid>
-            <pubDate>Mon, 09 Oct 2023 16:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩与以色列边界发生交火，以色列称已“清除”不明武装】 当地时间10月9日，综合以色列媒体报道，有黎巴嫩武装人员穿过黎巴嫩与以色列临时边界（“蓝线”），与以军士兵发生交火。黎巴嫩真主党旗下媒体“灯塔”证实，在黎以临时边界听到枪声。此外，当日以色列国防军宣布已“清除”从黎巴嫩“渗透到”以色列的不明身份武装人员。黎巴嫩国家通讯社报道称，以色列扩大了对黎巴嫩南部地区的炮击范围，以军当天炮击了黎巴嫩南部纳巴泰省的宾特朱拜勒（Bint Jbeil）地区的Aita AL-Shaab镇。此外，以军侦察机在黎南部上空密集飞行。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyw8823843.d.html</link>
-            <guid>3267630</guid>
-            <pubDate>Mon, 09 Oct 2023 16:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列外交部长表示，哈马斯已经俘虏了100多人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyx7585789.d.html</link>
-            <guid>3267629</guid>
-            <pubDate>Mon, 09 Oct 2023 16:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯：我们已经收到有关以色列导弹袭击加沙内的医疗设施、多层住宅楼和一座清真寺的报告。目前约有13.7万人在联合国救济和工程署设施中避难。我对今天以色列宣布全面封锁加沙地带感到深深的不安。敦促有关各方允许联合国进入加沙，向被困加沙的巴勒斯坦平民提供紧急人道主义援助。]]></title>
-            <guid>3267628</guid>
-            <pubDate>Mon, 09 Oct 2023 16:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯：800多名以色列人在巴以冲突中死亡，2500多人受伤。预计这些数字将上升。我再次呼吁立即停止这些攻击并释放所有人质。]]></title>
-            <guid>3267627</guid>
-            <pubDate>Mon, 09 Oct 2023 16:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全面核试验禁止组织执行秘书：一直在与俄罗斯高级官员保持密切接触，阐述批准《全面禁止核试验条约》不仅符合俄罗斯的利益，也符合全人类的利益。]]></title>
-            <guid>3267626</guid>
-            <pubDate>Mon, 09 Oct 2023 16:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统阿巴斯和土耳其总统埃尔多安通电话】巴勒斯坦官方通讯社当地时间10月9日报道称，巴勒斯坦总统阿巴斯当天与土耳其总统埃尔多安通电话，讨论巴以地区局势进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyw8822016.d.html</link>
-            <guid>3267625</guid>
-            <pubDate>Mon, 09 Oct 2023 16:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦加沙地带卫生部门称多处医疗设施遭以军袭击】据巴勒斯坦加沙地带卫生部门10月9日消息，由于以色列的攻击，巴勒斯坦城镇拜特哈农的唯一一家医院被迫停止服务，该医院附近多次遭到袭击，致工作人员无法进出，此外还造成大量人员伤亡。巴勒斯坦加沙地带卫生部门称，加沙最大的医疗中心希法医疗中心周边也遭到打击，爆炸导致该医疗机构的育婴部门遭到了破坏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4359419.d.html</link>
-            <guid>3267624</guid>
-            <pubDate>Mon, 09 Oct 2023 16:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊在英国涨薪，拟赶在假日销售季之前招聘1.5万临时工】 亚马逊宣布，将英国一线运营工人时薪上调至11.80英镑（折合14.39美元）至12.50美元，至2024年4月份，公司将进一步涨薪至每小时12.30-13.00英镑，具体涨幅取决于工人所处地区；亚马逊计划招聘1.5万名季节性工人。英国贸易行业工会GMB Union回应称，亚马逊的涨薪幅度不会让那些薪酬低于贫困线、工作环境不安全、存在工作场所监控的员工“处境出现显著改观”。值得一提的是，美西方即将迎来感恩节和圣诞节“假日销售季”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyv3499016.d.html</link>
-            <guid>3267623</guid>
-            <pubDate>Mon, 09 Oct 2023 16:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安与以色列总统赫尔佐格通电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4359316.d.html</link>
-            <guid>3267622</guid>
-            <pubDate>Mon, 09 Oct 2023 16:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦加沙地带网络线路被切断】据阿拉比亚电视台当地时间10月9日晚报道，由于以色列摧毁了巴勒斯坦加沙地带的电信大楼，目前整个加沙地带的网络线路已被切断。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-10/detail-imzqpuyz4359274.d.html</link>
-            <guid>3267621</guid>
-            <pubDate>Mon, 09 Oct 2023 16:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
