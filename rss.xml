@@ -4,11 +4,95 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 13 Oct 2023 19:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 20:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国最近一周银行存款达到17.372万亿美元，之前一周为17.385万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyv1161077.d.html</link>
+            <guid>3317922</guid>
+            <pubDate>Fri, 13 Oct 2023 20:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺和诺德ADR（NVO）收涨1.96%，报102.14美元，连续第二个交易日创收盘历史新高，延续10月4日以来的反弹趋势，本周累计上涨10.88%。]]></title>
+            <guid>3317921</guid>
+            <pubDate>Fri, 13 Oct 2023 20:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认罗马尼亚的评级为'BBB-/A-3，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyw0302966.d.html</link>
+            <guid>3317919</guid>
+            <pubDate>Fri, 13 Oct 2023 20:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普能源板块本周累涨4.5%，创6月份以来最佳单周表现。]]></title>
+            <guid>3317918</guid>
+            <pubDate>Fri, 13 Oct 2023 20:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合健康收涨2.6%，创最近10个月收盘新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyv1160087.d.html</link>
+            <guid>3317917</guid>
+            <pubDate>Fri, 13 Oct 2023 20:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普能源板块本周累涨4.5%，创6月份以来最佳单周表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyw0302483.d.html</link>
+            <guid>3317916</guid>
+            <pubDate>Fri, 13 Oct 2023 20:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arm收盘破发，为美股IPO以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyx7079536.d.html</link>
+            <guid>3317915</guid>
+            <pubDate>Fri, 13 Oct 2023 20:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行：正在与尼日利亚政府进行谈判，提供15亿美元的预算融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyx7078986.d.html</link>
+            <guid>3317912</guid>
+            <pubDate>Fri, 13 Oct 2023 19:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊卡车司机在该公司Prime会员周期间，继续在其加州洛杉矶Riverside仓库处举行罢工。]]></title>
+            <guid>3317910</guid>
+            <pubDate>Fri, 13 Oct 2023 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：解决加沙地区的人道危机对我来说是当务之急。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0430828.d.html</link>
+            <guid>3317909</guid>
+            <pubDate>Fri, 13 Oct 2023 19:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：团队正在努力增加对加沙地区的人道主义支持，正与以色列、埃及、约旦等国合作提供援助。]]></title>
+            <guid>3317908</guid>
+            <pubDate>Fri, 13 Oct 2023 19:46:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月10日当周，COMEX白银期货投机性净空头寸增加2231手至4079手。]]></title>
+            <guid>3317904</guid>
+            <pubDate>Fri, 13 Oct 2023 19:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月10日当周，COMEX黄金期货投机性净空头寸增加11784手至14788手。]]></title>
+            <guid>3317903</guid>
+            <pubDate>Fri, 13 Oct 2023 19:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯呼吁立即向加沙提供人道主义援助】当地时间10月13日，联合国秘书长古特雷斯就巴以问题第三度向记者发表声明。古特雷斯表示，加沙局势已达到风险的高点。以色列经过数天的空袭，国防军已命令加沙城及其周边地区的巴勒斯坦人向该领土南部转移。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0427155.d.html</link>
+            <guid>3317901</guid>
+            <pubDate>Fri, 13 Oct 2023 19:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁能源和矿业部：秘鲁8月份铜产量同比增长7.5%，达到223178吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsv5964200.d.html</link>
+            <guid>3317900</guid>
+            <pubDate>Fri, 13 Oct 2023 19:15:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大工会Unifor与通用汽车(GM.N)达成的临时协议已获得3个地方工会的认可。]]></title>
             <guid>3317899</guid>
@@ -259,130 +343,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkz1406583.d.html</link>
             <guid>3317824</guid>
             <pubDate>Fri, 13 Oct 2023 16:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：不能接受对加沙地带实施类似“列宁格勒大围困 ”的做法】当地时间10月13日，俄罗斯总统普京在吉尔吉斯斯坦首都比什凯克召开新闻发布会时表示，不能接受对加沙地带实施类似“列宁格勒大围困 ”的做法。普京表示，俄罗斯不会忘记许多同胞生活在以色列，但俄罗斯与阿拉伯世界也有着多年的良好关系。俄罗斯可以帮助调解巴以问题，没有人会怀疑俄罗斯试图迎和任何一方。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7312575.d.html</link>
-            <guid>3317823</guid>
-            <pubDate>Fri, 13 Oct 2023 16:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：我们有意推进以色列和沙特阿拉伯之间的正常化进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0535302.d.html</link>
-            <guid>3317822</guid>
-            <pubDate>Fri, 13 Oct 2023 16:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：没有迹象表明真主党已决定扩大冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7312059.d.html</link>
-            <guid>3317821</guid>
-            <pubDate>Fri, 13 Oct 2023 16:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[动视暴雪CEO：人工智能是游戏领域的重要新技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7312044.d.html</link>
-            <guid>3317820</guid>
-            <pubDate>Fri, 13 Oct 2023 16:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：美国正在与以色列和埃及合作，就加沙地带的安全通道问题进行协商。]]></title>
-            <guid>3317819</guid>
-            <pubDate>Fri, 13 Oct 2023 16:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：在以色列发出加沙撤离警告之前，以方没有事先与美国进行磋商。]]></title>
-            <guid>3317818</guid>
-            <pubDate>Fri, 13 Oct 2023 16:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：俄罗斯的新一轮攻势提醒我们，俄罗斯并未准备放弃在乌克兰的战斗。]]></title>
-            <guid>3317817</guid>
-            <pubDate>Fri, 13 Oct 2023 16:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：美国对乌克兰击退俄罗斯军队的能力有信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkx6083152.d.html</link>
-            <guid>3317816</guid>
-            <pubDate>Fri, 13 Oct 2023 16:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪士尼在TikTok上创建了内容中心，以庆祝公司成立100周年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7311545.d.html</link>
-            <guid>3317815</guid>
-            <pubDate>Fri, 13 Oct 2023 16:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[临床阶段肿瘤学公司Tempest Therapeutics恢复交易，股价一度涨超43%。]]></title>
-            <guid>3317814</guid>
-            <pubDate>Fri, 13 Oct 2023 16:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：俄罗斯在乌克兰东部发起了新的进攻。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7311127.d.html</link>
-            <guid>3317813</guid>
-            <pubDate>Fri, 13 Oct 2023 16:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[动视暴雪CEO Bobby Kotic：当初是微软主动找上门，请求收购交易。本人接下来将专注于慈善事业。]]></title>
-            <guid>3317811</guid>
-            <pubDate>Fri, 13 Oct 2023 16:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩和以色列临时边界发生交火】当地时间10月13日，黎巴嫩国家通讯社报道称，黎巴嫩抵抗力量和以军在黎南部与以色列相邻的达希拉镇和阿尔玛·沙卜镇之间地带发生剧烈交火。以军对该地区进行轰炸，阿帕奇武装直升机多次飞越该地区上空。 截至目前，交火仍在继续。（央视新闻）]]></title>
-            <guid>3317810</guid>
-            <pubDate>Fri, 13 Oct 2023 16:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保时捷在2023年前九个月共交付了24.2722万辆汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7310534.d.html</link>
-            <guid>3317809</guid>
-            <pubDate>Fri, 13 Oct 2023 16:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：美国总统拜登已指示政府尽一切可能增强美国的安全，特别是为犹太和穆斯林社区提供安全保障。]]></title>
-            <guid>3317808</guid>
-            <pubDate>Fri, 13 Oct 2023 16:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：目前没有具体情报表明哈马斯袭击对美国构成威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7310505.d.html</link>
-            <guid>3317807</guid>
-            <pubDate>Fri, 13 Oct 2023 16:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比：首架包机已从以色列起飞，前往欧洲；我们预计未来几天将有更多由美国组织的包机航班。]]></title>
-            <guid>3317806</guid>
-            <pubDate>Fri, 13 Oct 2023 16:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示，其一架无人机正在打击黎巴嫩境内的真主党目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0533368.d.html</link>
-            <guid>3317805</guid>
-            <pubDate>Fri, 13 Oct 2023 16:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：在加沙收集证据以协助寻找人质。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0533354.d.html</link>
-            <guid>3317804</guid>
-            <pubDate>Fri, 13 Oct 2023 16:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度将蒸谷米出口关税措施延续至2024年3月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkx6082346.d.html</link>
-            <guid>3317802</guid>
-            <pubDate>Fri, 13 Oct 2023 16:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利的Wilson认为美股进一步下滑的催化剂已经到位】摩根士丹利的Mike Wilson认为，2024年下半年盈利将出现反弹，但目前他给投资者的信息是：坚持选股人的策略，因为情况在好转前会变得更糟。Wilson表示，美国股市在7月见顶后的下行趋势将继续，进一步下滑的催化剂已经到位。他对标普500指数的年终目标意味着股市还要从当前水平下跌约10%。这位著名的股票空头在去年的机构投资者调查中排名第一，他正确预测到2022年的股票抛售。“这种繁荣-萧条-繁荣的过程正在进行中，”Wilson在电话采访中说。他预计，随着美国经济放缓，未来6至9个月盈利将继续承压。他对今年标普500指数的每股收益预测是185美元，在一众华尔街分析师中最低，而他对2024年每股收益的预测是228美元，预计将反弹23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7310350.d.html</link>
-            <guid>3317801</guid>
-            <pubDate>Fri, 13 Oct 2023 16:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普华永道美国业务主管Tim Ryan将于2024年6月离职】普华永道美国业务主管Tim Ryan在发给同事的一封电子邮件中告诉合伙人，他将于明年6月离开公司。报道援引四位不愿透露姓名的知情人士的话称，瑞安将在现任任期届满后离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7310319.d.html</link>
-            <guid>3317800</guid>
-            <pubDate>Fri, 13 Oct 2023 16:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
