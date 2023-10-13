@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 13 Oct 2023 18:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 19:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加拿大工会Unifor与通用汽车(GM.N)达成的临时协议已获得3个地方工会的认可。]]></title>
+            <guid>3317899</guid>
+            <pubDate>Fri, 13 Oct 2023 19:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软(MSFT.O)重申对美国通信工人工会（CWA）劳工中立协议的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0425827.d.html</link>
+            <guid>3317898</guid>
+            <pubDate>Fri, 13 Oct 2023 19:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：以色列中部响起警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0425271.d.html</link>
+            <guid>3317897</guid>
+            <pubDate>Fri, 13 Oct 2023 19:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.3043，较上一交易日夜盘收盘涨16点。成交量129.34亿美元。]]></title>
+            <guid>3317896</guid>
+            <pubDate>Fri, 13 Oct 2023 19:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：福特汽车(F.N)考虑削减生产F-150皮卡的工厂班次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsv5963424.d.html</link>
+            <guid>3317895</guid>
+            <pubDate>Fri, 13 Oct 2023 19:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国秘书长古特雷斯：蓝线（联合国于2000年6月7日公布的黎巴嫩与以色列的分界线）一带的交火非常令人担忧，必须停止。即使战争也有规则。加沙地区的所有人质必须立即释放。我一直与该地区的领导人保持密切联系，致力于减少苦难并防止在约旦河西岸或该地区其他地方，尤其是黎巴嫩南部的危险进一步升级。]]></title>
+            <guid>3317892</guid>
+            <pubDate>Fri, 13 Oct 2023 18:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡表示，以色列在加沙的反击行动“只是个开始”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsx1283881.d.html</link>
+            <guid>3317887</guid>
+            <pubDate>Fri, 13 Oct 2023 18:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务省官员：财务大臣对外汇市场的评论是显而易见的，即如果金融市场出现过度波动，我们将采取必要的行动。]]></title>
+            <guid>3317886</guid>
+            <pubDate>Fri, 13 Oct 2023 18:28:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本财务省官员：对于过度的外汇波动不会改变立场。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0419180.d.html</link>
@@ -339,47 +383,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7310319.d.html</link>
             <guid>3317800</guid>
             <pubDate>Fri, 13 Oct 2023 16:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列步兵部队和坦克进入加沙地带进行“局部袭击”】以色列媒体转引以色列国防军的声明，以军步兵部队和坦克当地时间10月13日进入加沙地带进行“局部袭击”。以军称部队现场进行扫描并收集了各种“可能有助于寻找失踪人员”的信息，同时表示部队并未深入加沙地带。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0533196.d.html</link>
-            <guid>3317799</guid>
-            <pubDate>Fri, 13 Oct 2023 16:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期德债收益率周五跌约5个基点，本周累跌约15个基点】周五（10月13日）欧市尾盘，德国10年期国债收益率跌4.9个基点，报2.737%，盘中交投于2.791%-2.704%区间，本周累计下跌14.7个基点。两年期德债收益率跌2.2个基点，报3.139%，盘中交投于3.152%-3.111%区间，本周累涨0.5个基点；30年期德债收益率跌4.2个基点，报2.933%。2/10年期德债收益率利差跌2.682个基点，报-40.562个基点，本周累跌15.274个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7306294.d.html</link>
-            <guid>3317798</guid>
-            <pubDate>Fri, 13 Oct 2023 16:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示，已确认加沙地带至少有120名人质。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkz1402275.d.html</link>
-            <guid>3317796</guid>
-            <pubDate>Fri, 13 Oct 2023 16:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示，迄今为止以色列没有因火箭弹袭击而造成任何伤亡，公众正在遵守避难指令。]]></title>
-            <guid>3317795</guid>
-            <pubDate>Fri, 13 Oct 2023 16:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示，大量加沙平民已经开始向南方转移以“自救”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkx6079228.d.html</link>
-            <guid>3317794</guid>
-            <pubDate>Fri, 13 Oct 2023 16:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行CFO：迄今为止，美国经济仍然”运行良好“；公司提升后的业绩前瞻仍是对前景的”最佳猜测“。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-13/detail-imzqyvmc7301471.d.html</link>
-            <guid>3317787</guid>
-            <pubDate>Fri, 13 Oct 2023 15:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音确认正扩大对部分737 MAX 8机型的密封性检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-13/detail-imzqyvmc7301295.d.html</link>
-            <guid>3317786</guid>
-            <pubDate>Fri, 13 Oct 2023 15:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
