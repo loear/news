@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 13 Oct 2023 21:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 22:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[评级机构穆迪：可能会下调药房股沃尔格林联合博姿（WBA）评级至垃圾级，该公司盈利能力下滑。]]></title>
+            <guid>3317948</guid>
+            <pubDate>Fri, 13 Oct 2023 22:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联黎部队警告黎以边境局势可能失控 】联合国驻黎巴嫩临时部队（联黎部队）发言人泰嫩蒂13日晚发表声明，警告黎巴嫩和以色列边境局势可能失控，并呼吁有关方面紧急停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyx7088581.d.html</link>
+            <guid>3317947</guid>
+            <pubDate>Fri, 13 Oct 2023 22:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织（IMF）西半球事务主管Valdes：需要对阿根廷经济危机采取更迅捷的行动。如果阿根廷进行货币美元化，将需要设法稳定其储备水平。]]></title>
+            <guid>3317945</guid>
+            <pubDate>Fri, 13 Oct 2023 21:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【要攻克癌症！这家美股公司一日暴涨40倍！】在发布治疗肝癌的最新研究进展后，美国生物科技公司Tempest Therapeutics Inc.的股价暴涨。美东时间10月11日周三，Tempest（TPST）跳空高开将近788%，后涨幅持续扩大，收盘时涨幅超过3970%，一日涨近40倍。截至周三收盘，Tempest今年内股价累计涨约750%，同期标普500涨约14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqzfyx7087586.d.html</link>
+            <guid>3317943</guid>
+            <pubDate>Fri, 13 Oct 2023 21:45:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周五纽约尾盘，美元兑日元下跌0.16%，报149.56点，盘中交投区间为149.83-149.46点。]]></title>
             <guid>3317935</guid>
@@ -284,24 +306,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsz7189577.d.html</link>
             <guid>3317849</guid>
             <pubDate>Fri, 13 Oct 2023 17:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰启用长约200公里的波俄边境墙】当地时间10月13日，波兰内务和行政部长卡明斯基宣布，即日起，启用与俄罗斯接壤地带修建的长约200公里的边境墙。卡明斯基表示，边境墙启用后，波方可以全面掌握边境动态，任何非法越境企图都将立即被识别，距离最近的边防人员也将及时采取应对措施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkx6086295.d.html</link>
-            <guid>3317847</guid>
-            <pubDate>Fri, 13 Oct 2023 17:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月13日当周总钻井总数 622口，前值619口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkz1408248.d.html</link>
-            <guid>3317845</guid>
-            <pubDate>Fri, 13 Oct 2023 17:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通总裁称美国经济强劲 ，但面临众多风险】摩根大通总裁Daniel Pinto周五表示，美国经济在面对众多挑战的情况下保持坚挺，但一连串政治和经济风险可能导致局势恶化。Pinto表示，美国消费者和企业的储蓄水平很高，财务状况稳健，但通胀居高不下、利率保持高位或被进一步上调等问题将造成压力。此外，在外部领域也存在着很多不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314983.d.html</link>
-            <guid>3317840</guid>
-            <pubDate>Fri, 13 Oct 2023 17:06:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
