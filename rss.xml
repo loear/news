@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 22 Oct 2023 17:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 18:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列国防部长：即将对加沙地带发动的地面攻势可能会持续三个月】 据央视新闻，当地时间10月22日，《以色列时报》援引以军方消息称，以色列国防部长约阿夫·加兰特在特拉维夫的以色列空军指挥中心表示，以色列即将对加沙地带发动的地面攻势可能会持续三个月，但只要以色列成功消灭哈马斯，这将是最后一次进攻。加兰特表示，在哈马斯遇到装甲部队和步兵部队前，首先是遭到空军的轰炸。据此前报道，以色列国防军21日表示，其正在继续为加沙地带的地面军事行动做准备，并称以军扩大战斗的计划已于最近几天获得了以色列紧急政府的批准，但只有在条件合适时，以军才会开始行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzrzmua4751747.d.html</link>
+            <guid>3330426</guid>
+            <pubDate>Sun, 22 Oct 2023 18:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美欧关税谈判陷僵局】当地时间10月20日，欧盟委员会执行副主席兼贸易委员东布罗夫斯基斯表示，美国拒绝明确表明何时取消对欧盟的惩罚性贸易措施，是双方未能就钢铁贸易达成协议的关键原因。这份协议的暂缓，也让美国打算拉欧洲一起对中国钢材、铝材出口征收额外关税的算盘没能如愿。（北京商报）]]></title>
             <guid>3330386</guid>
@@ -470,12 +476,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryqqq1979749.d.html</link>
             <guid>3330089</guid>
             <pubDate>Sun, 22 Oct 2023 10:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豪恩汽电：前三季度归母净利润同比上涨1.09%】豪恩汽电10月22日公告，公司前三季度实现营业收入8.37亿元，同比上涨8.79%；归母净利润6913.3万元，同比上涨1.09%；基本每股收益0.9元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryqqq1978553.d.html</link>
-            <guid>3330088</guid>
-            <pubDate>Sun, 22 Oct 2023 10:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
