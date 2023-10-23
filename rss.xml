@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 23 Oct 2023 19:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 20:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷主要股票指数下跌12.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyy3663227.d.html</link>
+            <guid>3331862</guid>
+            <pubDate>Mon, 23 Oct 2023 20:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：微软宣布在澳大利亚投资50亿澳元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyu1792182.d.html</link>
+            <guid>3331860</guid>
+            <pubDate>Mon, 23 Oct 2023 20:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦消息人士告诉新华社记者，卡塔尔、埃及和联合国方面正与哈马斯密切沟通，争取更多的被扣押平民获得释放。]]></title>
+            <guid>3331859</guid>
+            <pubDate>Mon, 23 Oct 2023 20:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Bill Ackman回补美债空仓，长期美债收益率大跌】 周一（10月23日）纽约尾盘，美国10年期基准国债收益率下跌6.13个基点，报4.8523%，盘中交投于5.0187%-4.8270%区间。两年期美债收益率收平，报5.0731%，盘中交投于5.1311%-5.0581%区间。三个月期国库券/10年期美债收益率利差跌5.791个基点，报-61.553个基点。 02/10年期美债收益率利差跌5.708个基点，报-22.081个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyy3661404.d.html</link>
+            <guid>3331856</guid>
+            <pubDate>Mon, 23 Oct 2023 19:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：中东的民兵组织准备加大对美军的攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyy3661359.d.html</link>
+            <guid>3331855</guid>
+            <pubDate>Mon, 23 Oct 2023 19:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【近一个月291家上市公司迎基金组团调研，机械设备、电子等五大领域受青睐】 近一个月，基金公司密集调研了291家A股上市公司，涵盖行业包括机械设备、电子、计算机、医药生物等多个领域。在近期A股市场震荡背景下，基金经理的调研频率暂未有大幅提高，但综合各方观点，基金行业对市场判断普遍偏谨慎乐观。9月24日至10月23日，近一个月以来机构共调研了416家A股上市公司，其中基金公司共调研291家。从调研行业来看，机械设备、电子、计算机、医药生物、基础化工等五大领域较受基金公司青睐。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyy3658254.d.html</link>
+            <guid>3331829</guid>
+            <pubDate>Mon, 23 Oct 2023 19:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪与谷歌将探索使用人工智能技术进行金融科技及行业研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyy3658123.d.html</link>
+            <guid>3331824</guid>
+            <pubDate>Mon, 23 Oct 2023 19:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：如果所有人质被释放，以色列将允许燃料运送。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyx3888051.d.html</link>
+            <guid>3331805</guid>
+            <pubDate>Mon, 23 Oct 2023 19:22:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美元指数23日下跌】美元指数23日下跌，截至纽约汇市尾盘，衡量美元对六种主要货币的美元指数下跌0.6%至105.533。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzscuyx3887389.d.html</link>
@@ -328,84 +375,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckme3874529.d.html</link>
             <guid>3331681</guid>
             <pubDate>Mon, 23 Oct 2023 15:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度塔塔汽车启用氢燃料汽车研发设施】印度塔塔汽车公司10月23日发布声明，宣布启用氢燃料汽车研发设施，用于开发氢气内燃机技术以及储存和分配氢气的基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmc4125231.d.html</link>
-            <guid>3331679</guid>
-            <pubDate>Mon, 23 Oct 2023 15:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股主要股指收盘涨跌不一】欧股主要股指收盘涨跌不一，德国DAX30指数收平，英国富时100指数跌0.34%，法国CAC40指数涨0.5%，欧洲斯托克50指数涨0.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0650871.d.html</link>
-            <guid>3331678</guid>
-            <pubDate>Mon, 23 Oct 2023 15:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[维珍航空CEO：英国经济复苏步伐约比美国滞后一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmc4124992.d.html</link>
-            <guid>3331677</guid>
-            <pubDate>Mon, 23 Oct 2023 15:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空CEO：预计美国经济将实现“良好的着陆”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0650580.d.html</link>
-            <guid>3331675</guid>
-            <pubDate>Mon, 23 Oct 2023 15:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列轰炸加沙地带一住宅楼 造成人员伤亡】据巴勒斯坦官方通讯社“瓦法”当地时间23日报道，当天晚间，以色列轰炸了加沙地带努塞拉特的一栋住宅楼，造成人员伤亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0649894.d.html</link>
-            <guid>3331672</guid>
-            <pubDate>Mon, 23 Oct 2023 15:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列挫败了从黎巴嫩发射反坦克导弹的企图。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckky2024479.d.html</link>
-            <guid>3331671</guid>
-            <pubDate>Mon, 23 Oct 2023 15:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)涨超1.6%，抹去4%的跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0649391.d.html</link>
-            <guid>3331670</guid>
-            <pubDate>Mon, 23 Oct 2023 15:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（10月23日），沙特证交所全股指数收跌1.93%，报10293.19点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckme3871944.d.html</link>
-            <guid>3331669</guid>
-            <pubDate>Mon, 23 Oct 2023 15:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0648705.d.html</link>
-            <guid>3331668</guid>
-            <pubDate>Mon, 23 Oct 2023 15:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克民兵武装称对叙利亚境内的美军基地进行打击】 当地时间10月23日下午，伊拉克民兵武装“伊斯兰抵抗组织”发表声明称，当天使用了一架无人机对叙利亚哈塞克省东北部马利基耶的一处美军基地发动袭击并“直接命中”基地内目标。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckky2023333.d.html</link>
-            <guid>3331667</guid>
-            <pubDate>Mon, 23 Oct 2023 15:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国驻叙利亚部队遭到无人机袭击，无人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmc4122664.d.html</link>
-            <guid>3331666</guid>
-            <pubDate>Mon, 23 Oct 2023 15:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯外长抵达伊朗，将参加“3+3”国家外长会议】 当地时间23日，俄罗斯外长拉夫罗夫抵达伊朗首都德黑兰，将参加在伊朗举行的“3+3”国家外长会议。据了解，亚美尼亚、阿塞拜疆、格鲁吉亚以及伊朗、土耳其、俄罗斯共六个国家的外长将参加本次会议。会议旨在“在不受外部势力和西方国家的干涉下，地区国家能自主解决区域问题，并举行亚美尼亚和阿塞拜疆之间的和平谈判，以维护南高加索地区的和平。”9月26日，俄罗斯总统普京应邀与伊朗总统莱希通电话，双方就纳卡地区局势和阿塞拜疆与亚美尼亚关系正常化问题深入交换意见。双方均表示有意启动“3+3”区域磋商平台的工作，即亚美尼亚、阿塞拜疆、格鲁吉亚、俄罗斯、伊朗和土耳其共同参与磋商的模式。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckky2023089.d.html</link>
-            <guid>3331665</guid>
-            <pubDate>Mon, 23 Oct 2023 15:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及红新月会：23日已有35辆载有援助物资的卡车经拉法口岸进入加沙地带】据埃及《金字塔报》23日援引埃及红新月会消息报道，23日当天，已有35辆载有600吨援助物资的卡车经拉法口岸进入加沙地带。该批物资主要包括药品、食品和水。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzsckmh0647847.d.html</link>
-            <guid>3331664</guid>
-            <pubDate>Mon, 23 Oct 2023 15:21:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
