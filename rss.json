@@ -6,6 +6,25 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3352348,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-11-06/detail-imztquwm1476427.d.html",
+            "title": "【巴方称以军使用白磷弹并引发火灾，以军暂未回应】巴勒斯坦加沙地带内政部门当地时间11月5日发表声明称，在过去48小时内，以军大量使用国际禁止的白磷弹，4日晚间海滩营地的磷含量创下最高纪录，以致形成了“有毒气体云”并引发了火灾。目前，以军对此尚未作出回应。",
+            "date_modified": "2023-11-05T16:12:58.000Z"
+        },
+        {
+            "id": 3352342,
+            "content_html": "",
+            "title": "中国地震台网正式测定：11月05日23时29分在瓦努阿图群岛（南纬20.50度，东经169.20度）发生5.6级地震，震源深度40千米。",
+            "date_modified": "2023-11-05T15:52:15.000Z"
+        },
+        {
+            "id": 3352330,
+            "content_html": "",
+            "title": "市场资讯：苹果公司本有机会在年底的假日销售期间推出更多产品，但iPad和AirPods的升级版没有及时准备好。",
+            "date_modified": "2023-11-05T15:34:21.000Z"
+        },
+        {
             "id": 3352313,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztquwm1467413.d.html",
@@ -579,40 +598,6 @@
             "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztqkhr1687308.d.html",
             "title": "消息人士：土耳其外交部长与埃及、约旦的外交部长讨论加沙地带的局势。",
             "date_modified": "2023-11-05T11:12:04.000Z"
-        },
-        {
-            "id": 3352191,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztqkhs8463056.d.html",
-            "title": "市场消息：以色列无人机在黎巴嫩被击落。",
-            "date_modified": "2023-11-05T11:04:26.000Z"
-        },
-        {
-            "id": 3352190,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztqkhk9054173.d.html",
-            "title": "市场消息：LVMH将以8000万美元收购眼镜品牌Barton Perreira。",
-            "date_modified": "2023-11-05T11:03:02.000Z"
-        },
-        {
-            "id": 3352189,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztqkhs8462764.d.html",
-            "title": "【黎巴嫩真主党：已有61名黎真主党武装人员在与以军交火中丧生】当地时间11月5日，黎巴嫩真主党在一份声明中宣布，该组织又有2名成员在黎巴嫩南部与以色列军方的交火中丧生。根据当地媒体统计的黎巴嫩真主党阵亡人员名单，自10月8日起，该组织已有61名武装人员在与以色列的冲突中丧生。（央视新闻）",
-            "date_modified": "2023-11-05T11:02:44.000Z"
-        },
-        {
-            "id": 3352188,
-            "content_html": "",
-            "title": "OpenGeometry开源社区官微消息，11月5日，云几何内核开源平台——OpenGeometry开源社区正式发布。",
-            "date_modified": "2023-11-05T10:59:38.000Z"
-        },
-        {
-            "id": 3352187,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-11-05/detail-imztqkhs8462234.d.html",
-            "title": "【智己汽车：平均90秒一辆智己LS6整车下线】11月5日，智己汽车联席CEO刘涛在微博发文透露，临港智能工厂全速推进智己LS6保质保量交付，“双班制生产，24小时常态化运转，平均90秒一辆智己LS6整车下线”。",
-            "date_modified": "2023-11-05T10:59:11.000Z"
         }
     ]
 }
