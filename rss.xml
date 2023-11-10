@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 10 Nov 2023 20:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 21:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[软银旗下芯片软件设计公司Arm收涨1.34%，报52.27美元；自11月9日跌5.18%之后略微收复失地，本周累跌2.28%，结束之前连涨两周的表现。]]></title>
+            <guid>3361291</guid>
+            <pubDate>Fri, 10 Nov 2023 21:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：日本鹿屋市（Kanoya）西南偏南13公里发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuercf3245748.d.html</link>
+            <guid>3361290</guid>
+            <pubDate>Fri, 10 Nov 2023 21:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：11月11日04时45分在班达海（南纬6.15度，东经130.20度）发生5.9级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuerca5643507.d.html</link>
+            <guid>3361289</guid>
+            <pubDate>Fri, 10 Nov 2023 21:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列外交部：10月7日哈马斯袭击事件的死亡人数修正后约为1200人。]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuercf3234978.d.html</link>
@@ -103,7 +120,7 @@
             <pubDate>Fri, 10 Nov 2023 18:22:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音公司：获悉黑客组织Lockbit宣称窃取到本公司系统中的若干文件。]]></title>
+            <title><![CDATA[【黑客团伙Lockbit发布自称是波音公司的数据】臭名昭著的黑客团伙Lockbit在其网站上发布了自称是属于波音公司的文件，该团伙在两周前声称对这家飞机制造商遭网络攻击事件负责。在要求波音于11月2日前支付赎金后，Lockbit最近在暗网上发布了这些文件。波音公司表示注意到数据发布，并仍认为在上个月首次被披露的这次攻击“不会对飞机或飞行安全构成威胁。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvi3351797.d.html</link>
             <guid>3361255</guid>
             <pubDate>Fri, 10 Nov 2023 18:20:10 GMT</pubDate>
@@ -257,63 +274,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepm3462031.d.html</link>
             <guid>3361190</guid>
             <pubDate>Fri, 10 Nov 2023 16:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[提醒：11月10日，由伦敦证券交易所（LSE）集团经营的英国富时100指数和意大利富时MIB指数等发生短暂的宕机事故。]]></title>
-            <guid>3361187</guid>
-            <pubDate>Fri, 10 Nov 2023 16:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：罗马尼亚扣押了一艘疑似载有白俄罗斯或俄罗斯货物的船只。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepp0237599.d.html</link>
-            <guid>3361186</guid>
-            <pubDate>Fri, 10 Nov 2023 16:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【环球时报社评：华盛顿和英伟达之间不该是“猫鼠游戏”】据环球时报，近日有消息称，英伟达将专门为中国推出三款改良版系列人工智能芯片，以规避美国政府不久前进一步收紧的对华芯片出口管制。据称最快将于本月16日公布。而这距离华盛顿收紧对华高端半导体管制措施仅仅过去不到一个月。英伟达对此拒绝置评。如果消息属实，这将是一年多以来，英伟达第二次因美国政府的出口管制规定为中国市场重新配置产品。说到底，都是被华盛顿的政策给逼的。有人说，美国政府和英伟达展开了一场限制与反限制的“猫鼠游戏”。从表面上看好像是这样，但这个比喻模糊了问题的本质，也混淆了是非。英伟达和美国政府的这几个回合，是一个正当做生意的高科技企业，遭遇来自政治对自由贸易的强力干扰、束缚和破坏，为了自己的生存与发展想尽办法的故事。对商业公司来说，这一点也不搞笑，甚至有些悲哀。]]></title>
-            <guid>3361184</guid>
-            <pubDate>Fri, 10 Nov 2023 16:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商基金申报首只REITs产品】各大头部基金公司在REITs业务上的布局逐渐显露。据深交所网站显示，11月10日，招商基金的首只REITs产品——招商基金招商公路高速公路封闭式基础设施证券投资基金已申报。具体来看，这只产品属于收费公路类别，原始权益人是招商局公路网络科技控股股份有限公司。基金管理人为招商基金，托管人为中国银行，专项计划管理人是招商财富资产管理有限公司。业内人士表示，种种迹象表明，在监管层的大力推动之下，REITs业务的各方参与度有望逐步提高，随着公募REITs市场扩容及常态化发行，这一业务发展速度也会继续加快，越来越多基金公司的首只产品会陆续落地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueeph5875800.d.html</link>
-            <guid>3361183</guid>
-            <pubDate>Fri, 10 Nov 2023 16:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩正会见槟城州首席部长曹观友】2023年11月10日，国家副主席韩正在马来西亚槟城州会见槟城州首席部长曹观友。韩正表示，槟城是马六甲海峡上的重要节点，在中马交往史上具有特殊意义，充分体现了两国友好情谊。当前世界产业格局正在深刻调整，将为中马合作带来新机遇。欢迎槟城州继续加强同中国各省市的交流合作，高质量共建“一带一路”，拓展科技、农业、旅游、文化等领域合作，发挥地方特点，实现优势互补，将中马命运共同体建设落到实处，为促进中马友谊作出更多积极贡献。曹观友表示，槟城州是马来西亚充满活力的经济引擎，欢迎更多中国企业前来投资兴业，利用槟城州特殊区位优势辐射东南亚乃至亚太地区发展。槟城州愿积极推动马中地方互利合作取得更多新成果。(外交部网站)]]></title>
-            <guid>3361181</guid>
-            <pubDate>Fri, 10 Nov 2023 16:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利外长：匈牙利考虑从委内瑞拉购买天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepp0234225.d.html</link>
-            <guid>3361180</guid>
-            <pubDate>Fri, 10 Nov 2023 16:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及总统同卡塔尔埃米尔举行会谈，讨论巴以局势】当地时间10日，埃及总统塞西同到访的卡塔尔埃米尔塔米姆举行了会谈。双方讨论了巴以局势以及与此相关的地区挑战，相互通报了为促进停火所进行的努力，就保护平民以及保证人道主义援助通道持续畅通等问题进行了讨论。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepp0234061.d.html</link>
-            <guid>3361179</guid>
-            <pubDate>Fri, 10 Nov 2023 16:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：日本可能扩大对军事相关技术出口的限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepf0550925.d.html</link>
-            <guid>3361178</guid>
-            <pubDate>Fri, 10 Nov 2023 16:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智利发生5.3级地震】根据欧洲-地中海地震中心报告，当地时间11月10日12时27分，智利巴耶纳尔地区发生5.3级地震，震源深度9公里。暂无人员伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepp0233642.d.html</link>
-            <guid>3361177</guid>
-            <pubDate>Fri, 10 Nov 2023 16:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯统计局：俄罗斯10月份CPI同比上涨6.69%，较上月同比上涨6.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepm3456174.d.html</link>
-            <guid>3361176</guid>
-            <pubDate>Fri, 10 Nov 2023 16:01:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
