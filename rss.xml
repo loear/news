@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 10 Nov 2023 21:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 22:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中央气象台11月11日06时继续发布大风蓝色预警】预计，11月11日08时至12日08时，新疆南疆盆地和东部、西藏北部、青海西部、甘肃河西、内蒙古中东部、江淮南部、福建东南沿海地区、台湾岛等地部分地区将有5~6级、阵风7~8级的大风，局地阵风9级；东海南部海域、台湾海峡、台湾以东洋面、南海东北部海域将有7~8级、阵风9级的大风。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuevmc3121891.d.html</link>
+            <guid>3361306</guid>
+            <pubDate>Fri, 10 Nov 2023 22:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认意大利BBB评级，前景展望正面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuevmc3120838.d.html</link>
+            <guid>3361304</guid>
+            <pubDate>Fri, 10 Nov 2023 22:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国西南航空公司（LUV）：预计波音公司737 MAX 7飞机到2024年4月份将获得适航认证。]]></title>
+            <guid>3361303</guid>
+            <pubDate>Fri, 10 Nov 2023 22:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉本周跌2.4%创三周最大单周跌幅，Rivian累跌超13%，Lucid集团累跌超17.7%】特斯拉（TSLA）收涨2.22%，报214.65美元，本周累跌2.41%，创10月20日当周以来最大单周跌幅——当时累跌15.58%。“越南特斯拉”VinFast Auto（VFS）收跌6.47%，报6.07美元，本周累涨2.19%，延续上周涨11.65%的表现。“特斯拉劲敌”Rivian（RIVN）收涨0.46%，报15.40美元，一度刷新6月29日以来盘中新低（当天最低触及14.61美元），本周累跌13.04%。Lucid集团（LCID）收涨1.20%，报3.80美元，一度跌至3.62美元，继续创2021年7月份美国IPO以来盘中新低，本周累跌17.75%，创2月24日当周以来最大单周跌幅——当时累跌22.14%。]]></title>
+            <guid>3361296</guid>
+            <pubDate>Fri, 10 Nov 2023 21:34:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[软银旗下芯片软件设计公司Arm收涨1.34%，报52.27美元；自11月9日跌5.18%之后略微收复失地，本周累跌2.28%，结束之前连涨两周的表现。]]></title>
             <guid>3361291</guid>
@@ -144,6 +166,12 @@
             <pubDate>Fri, 10 Nov 2023 18:05:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[【滑雪市场有望迎来强劲复苏，订单量较2019年同期翻倍增长】随着气温下降，滑雪热度逐渐升温，多个平台相关订单量迎来大幅激增。据美团数据，11月1日至9日，滑雪门票团购订单量同比2019年增长209%；去哪儿网平台上，全国滑雪门票预订量同比2019年同期增长147%。携程数据也显示，预订至年底前滑雪门票订单量环比前5日增长113%，同比去年增长近两倍，滑雪主题跟团游预订量环比前5日增长约70%，同比去年增长近三成。自冬奥会举办以来，冰雪运动热度不断攀升。不少户外露营类上市公司也看好即将到来的滑雪热潮，并加快相关渠道的布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvi3348484.d.html</link>
+            <guid>3361231</guid>
+            <pubDate>Fri, 10 Nov 2023 18:03:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【近五成私募证券产品前10个月实现正收益，债券策略收益率领跑】最新数据显示，截至10月底，今年前10个月有业绩记录的15171只私募证券产品实现年内平均正收益率0.03%，共有7560只产品实现正收益，占比近五成。不同产品收益分化较为明显。具体来看，债券策略继续领跑，并进一步扩大与其他策略收益差距，收益表现居五大策略榜首。业内人士表示：“债券策略产品一直以‘稳健’著称，虽然每个月收益水平不算太高，但今年以来几乎每个月均实现正收益，积少成多，叠加其他策略业绩波动较大，导致债券策略收益领跑且领先优势进一步扩大。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvi3347037.d.html</link>
             <guid>3361225</guid>
@@ -200,80 +228,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekve5751910.d.html</link>
             <guid>3361208</guid>
             <pubDate>Fri, 10 Nov 2023 17:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近五成私募证券产品前10个月实现正收益 债券策略收益率领跑】私募排排网11月10日发布的最新数据显示，截至10月底，今年前10个月有业绩记录的15171只私募证券产品实现年内平均正收益率0.03%，不同产品收益分化较为明显。从实现正收益的产品数量来看，共有7560只产品实现正收益，占比近五成。其中部分产品收益表现较好，有37只产品实现年内收益率超100%，116只产品年内收益率在50%到100%之间，另有659只产品年内收益率则介于20%到50%之间。而从不同策略产品的收益表现来看，五大策略中，多资产策略、期货及衍生品策略、债券策略三大策略产品前10个月实现整体正收益，而股票策略、组合基金产品策略则表现欠佳，整体未能实现正收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvc0429052.d.html</link>
-            <guid>3361207</guid>
-            <pubDate>Fri, 10 Nov 2023 17:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商资管子公司增至29家】今年以来已有国信证券、国联证券、华安证券、长城证券4家券商获批设立资管子公司，证券行业资管子公司数量增至29家。目前，还有多家券商仍在排队申请设立资管子公司的过程中，就在10月18日，信达证券发布公告，公司拟出资3亿元设立全资资管子公司，从事证券资产管理业务，从而推动公司资产管理业务更好发展。在券商资管业务结构持续优化的趋势下，设立资管子公司并申请公募基金牌照，成为券商资管业务重要的战略布局。11月10日，证监会也核准了兴证资管公开募集证券投资基金管理业务资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekve5751798.d.html</link>
-            <guid>3361206</guid>
-            <pubDate>Fri, 10 Nov 2023 17:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市公司“小作文”要守好“基本法则”】“小作文”写得好，写得合法合规，对于上市公司信息披露工作和投资者关系管理而言，可以说是“锦上添花”。但反过来说，上市公司写“小作文”，也要守好信息披露的“基本法则”，也就是真实性、准确性、完整性、及时性、公平披露五大原则。当前，不少上市公司之所以因为“小作文”被罚，主要原因就是未能充分意识到信息披露的严肃性，把投资者互动平台、社交媒体当做“法外之地”，随意发表一些与事实不符的信息，试图通过“蹭热点”“炒概念”来吸引眼球，这是对投资者的不负责，也是对市场的不尊重。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvi3338892.d.html</link>
-            <guid>3361205</guid>
-            <pubDate>Fri, 10 Nov 2023 17:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台湾台东县海域发生4.7级地震】中国地震台网正式测定：11月11日00时54分在台湾台东县海域（北纬23.42度，东经121.70度）发生4.7级地震，震源深度30千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvi3338167.d.html</link>
-            <guid>3361204</guid>
-            <pubDate>Fri, 10 Nov 2023 17:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦红新月会：加沙地带一医院重症监护室遭枪击】巴勒斯坦红新月会当地时间11月10日傍晚在其社交账号上表示，当天以军士兵向加沙地带圣城医院的重症监护室开枪。另据巴勒斯坦电视台报道，位于加沙地带北部的印度尼西亚医院目前已全面断电。以色列方面对上述说法暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvm0114289.d.html</link>
-            <guid>3361202</guid>
-            <pubDate>Fri, 10 Nov 2023 17:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：11月11日00时54分在中国台湾附近（北纬23.52度，东经121.52度）发生4.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3361200</guid>
-            <pubDate>Fri, 10 Nov 2023 16:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利10月通胀率为9.9%】匈牙利中央统计局当地时间11月10日发布通胀数据，该国10月通胀率为9.9%。2023年1月份匈牙利通胀率曾达到25.7%的峰值，这是其通胀率连续第9个月下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuekvc0426831.d.html</link>
-            <guid>3361198</guid>
-            <pubDate>Fri, 10 Nov 2023 16:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家组织人工晶体类及运动医学类耗材集中带量采购将于11月30日开标】国家组织高值医用耗材联合采购办公室11月10日发布《国家组织骨科脊柱类耗材集中带量采购文件》，明确将于11月30日由企业递交申报材料，并现场开标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepf0556771.d.html</link>
-            <guid>3361196</guid>
-            <pubDate>Fri, 10 Nov 2023 16:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰天然气期货周五跌约4.8%，英国天然气期货本周累跌约4.1%】周五（11月10日）欧市尾盘，ICE英国天然气期货跌3.65%，报117.600便士/千卡，本周累计下跌4.08%。TTF基准荷兰天然气期货跌4.78%，报46.600欧元/兆瓦时，本周累跌2.61%。ICE欧盟碳排放交易许可（期货价格）涨1.72%，报78.71欧元/吨，本周累涨1.38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepm3464543.d.html</link>
-            <guid>3361195</guid>
-            <pubDate>Fri, 10 Nov 2023 16:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unity Software Inc.（U）涨超3.0%，刷新日高至26.13美元；盘初一度跌超12%至22.20美元，逼近2022年11月底部21.22美元。]]></title>
-            <guid>3361194</guid>
-            <pubDate>Fri, 10 Nov 2023 16:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔埃米尔行政办公室：卡塔尔埃米尔与沙特王储讨论当前发展情况，以努力阻止（以色列）对加沙的行动。]]></title>
-            <guid>3361193</guid>
-            <pubDate>Fri, 10 Nov 2023 16:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际油价上涨2%，WTI原油报77.37美元/桶，布伦特原油报81.65美元/桶。]]></title>
-            <guid>3361192</guid>
-            <pubDate>Fri, 10 Nov 2023 16:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车与LG Energy Solution取消在土耳其修建电池工厂的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepm3462031.d.html</link>
-            <guid>3361190</guid>
-            <pubDate>Fri, 10 Nov 2023 16:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
