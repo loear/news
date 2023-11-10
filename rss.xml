@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 10 Nov 2023 19:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 20:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列外交部：10月7日哈马斯袭击事件的死亡人数修正后约为1200人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuercf3234978.d.html</link>
+            <guid>3361278</guid>
+            <pubDate>Fri, 10 Nov 2023 19:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本轮巴以冲突爆发以来已有365名以军士兵死亡】当地时间11月10日晚，半岛电视台援引以色列国防军发言人的话报道，自10月7日本轮巴以冲突爆发以来，以军士兵阵亡人数已达365人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuercf3230112.d.html</link>
+            <guid>3361274</guid>
+            <pubDate>Fri, 10 Nov 2023 19:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：11月7日当周，货币基金所持ICE布伦特原油净多头头寸下降24,245手合约，至176,038手合约，创最近四周新低。所持白糖净多头头寸增至27,897手合约，创七周新高。]]></title>
+            <guid>3361272</guid>
+            <pubDate>Fri, 10 Nov 2023 19:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会主席与荷兰首相就巴以局势举行会谈】当地时间11月10日，欧盟委员会主席冯德莱恩会见荷兰首相马克·吕特，双方就巴以局势等举行会谈。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzuerca5633843.d.html</link>
+            <guid>3361271</guid>
+            <pubDate>Fri, 10 Nov 2023 19:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称控制加沙地带哈马斯重要前哨基地】当地时间11月10日晚，以色列国防军发表声明称，以军在过去几天打死了约150名哈马斯武装人员，并已控制位于加沙地带的哈马斯重要前哨基地。哈马斯方面对上述说法暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueraz0310968.d.html</link>
+            <guid>3361270</guid>
+            <pubDate>Fri, 10 Nov 2023 19:15:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰总统与立陶宛国防部长举行会见】乌克兰国家通讯社当地时间10日报道，乌总统泽连斯基当天会见了立陶宛国防部长阿尔维达斯.阿努绍斯卡斯。双方就乌克兰和立陶宛之间的进一步防务合作进行了会谈。立陶宛国防部宣布，立陶宛向乌克兰军队移交了最新的地对空导弹系统(NASAMS)导弹发射器以及一批反无人机设备和发电机。]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueraz0310859.d.html</link>
@@ -285,41 +314,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepm3456174.d.html</link>
             <guid>3361176</guid>
             <pubDate>Fri, 10 Nov 2023 16:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯10月核心CPI环比上升0.89%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-11/detail-imzueepp0233080.d.html</link>
-            <guid>3361175</guid>
-            <pubDate>Fri, 10 Nov 2023 16:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现货黄金失守1940美元/盎司】现货黄金失守1940美元/盎司，日内跌幅0.94%，为10月18日以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-10/detail-imzueepm3455432.d.html</link>
-            <guid>3361174</guid>
-            <pubDate>Fri, 10 Nov 2023 15:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行理财产品“扩容”，低风险投资仍须谨慎选择】近日，多家银行理财子公司对部分现有产品进行“扩容”，上调产品募集规模上限或增设产品份额类别，部分理财产品规模上限增至百亿元。专家指出，此类举措应属市场行为，未来银行理财市场是否回暖仍需考虑多方因素，风险可预期性和收益合理性可能是银行理财当下投资最需要关注的因素。投资者需要明白，银行理财产品不是存款，没有存款保险，低风险也是有风险的，理财产品不会被“刚性兑付”，因此需要根据自己的风险承受能力选择相应的理财产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-10/detail-imzueepm3454108.d.html</link>
-            <guid>3361170</guid>
-            <pubDate>Fri, 10 Nov 2023 15:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利总理欧尔班：决不能开启“乌克兰入盟”谈判】匈牙利总理欧尔班11月10日说，欧盟决不能与乌克兰就加入欧盟一事展开谈判，强调这是匈牙利在这一问题上的“明确立场”。报道称，欧盟领导人计划在12月中旬决定是否接受欧盟委员会的建议，在乌克兰满足最终条件后，就基辅入盟展开磋商。报道称，新成员入盟需获得27个成员国的一致同意，而匈牙利被视为乌克兰入盟的主要潜在障碍。]]></title>
-            <guid>3361169</guid>
-            <pubDate>Fri, 10 Nov 2023 15:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯向加沙地带民众提供第四批人道主义物资】俄罗斯紧急情况部10日在社交媒体发文说，俄向加沙地带民众提供的第四批人道主义援助已运抵埃及。紧急情况部的消息说，根据俄罗斯总统普京指示，一架载有25吨人道主义救援物资的“伊尔-76”专机当天早些时候从喀山机场起飞，飞往埃及。这批物资包括食品、个人卫生用品、衣服、便携式炉灶和毯子。目前，相关援助物资已移交给埃及红新月会代表，将再由其转送给加沙地带居民。此前，俄罗斯于10月19日、11月3日和11月5日向加沙地带民众运送了三批援助物资，其中包括食品和药品等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-10/detail-imzueepf0547838.d.html</link>
-            <guid>3361167</guid>
-            <pubDate>Fri, 10 Nov 2023 15:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米双11全渠道支付金额创新高】据“小米公司”官方微博，截至2023年11月10日22:37，小米双11全渠道支付金额破193亿元，刷新历年双11纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-10/detail-imzueepf0547581.d.html</link>
-            <guid>3361166</guid>
-            <pubDate>Fri, 10 Nov 2023 15:41:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
