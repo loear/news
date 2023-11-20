@@ -4,11 +4,94 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Nov 2023 12:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 13:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【云天励飞：公司联合华为于9月推出云天天书大模型训推一体机】云天励飞接受调研时表示，公司联合华为于今年9月推出了大模型训推一体化产品—云天天书大模型训推一体机。该产品内置了公司自主研发的天书千亿级大模型。通过与昇腾硬件加速平台的联合深度优化，并集成“开箱即用”系列训推工具，产品可满足面向多业务场景的大模型高并发高能效处理、业务快速上线的需求。同时，产品具有丰富的接口，支持灵活的二次开发和敏捷部署。]]></title>
+            <guid>3374604</guid>
+            <pubDate>Mon, 20 Nov 2023 13:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利(MS.N)任命杰德·芬恩（Jed Finn）为财富管理部门负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfq0502262.d.html</link>
+            <guid>3374603</guid>
+            <pubDate>Mon, 20 Nov 2023 13:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩真主党称对以色列北部士兵集结点发动多次袭击】当地时间11月20日，黎巴嫩真主党发表声明称，当天对以色列北部城市谢莫纳以西的以军士兵集结点发动了三次攻击行动，命中目标。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfn9243002.d.html</link>
+            <guid>3374601</guid>
+            <pubDate>Mon, 20 Nov 2023 13:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中创环保：筹划转让中创惠丰100%股权 剥离亏损类资产】中创环保11月20日晚间公告，为了降低环保资产比重，同时筹集新业务布局所需资金，公司正在筹划转让所持有的北京中创惠丰环保科技有限公司（简称“中创惠丰”）100%股权，中创惠丰持有江西祥盛环保科技有限公司（简称“祥盛环保”）63.71%的股权。公司将公开征集意向受让方。此次交易如能顺利完成，公司将存在亏损的子公司中创惠丰、祥盛环保置出上市公司。初步测算，此次交易预计构成重大资产重组。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfr7277905.d.html</link>
+            <guid>3374598</guid>
+            <pubDate>Mon, 20 Nov 2023 13:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【慧博云通：公司主要侧重于垂直行业的垂类大模型】慧博云通接受调研时表示，公司子公司上海慧博是百度智能云的全类合作伙伴（包括技术合作、交付合作、销售合作），百度文心一言的首批生态合作伙伴之一，同时还是飞桨（百度深度学习平台）的技术合作伙伴。除百度外，公司还持续跟踪关注国际和国内通用大模型厂商的最新进展。公司不涉及通用大模型的研发；公司主要侧重于垂直行业的垂类大模型，帮助客户解决业务场景需求。目前公司人工智能业务占比较小，提醒各位与会投资者注意投资风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfq0500590.d.html</link>
+            <guid>3374597</guid>
+            <pubDate>Mon, 20 Nov 2023 13:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴勒斯坦总统会见拉脱维亚总统 讨论巴以局势最新进展】巴勒斯坦总统阿巴斯在位于约旦河西岸城市拉姆安拉的总统府会见拉脱维亚总统林克维奇斯。阿巴斯在会见中介绍了本轮巴以冲突的最新进展，强调应加快向加沙地带提供人道主义援助并制止以军在约旦河西岸的袭击。阿巴斯重申，拒绝将巴勒斯坦人赶出加沙地带的行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfq0497809.d.html</link>
+            <guid>3374592</guid>
+            <pubDate>Mon, 20 Nov 2023 13:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达与Alphabet分拆公司合作开发药物发现技术】英伟达正在与从Alphabet剥离出来的量子技术初创公司SandboxAQ进行合作，双方将帮助企业通过人工智能模拟大量化学反应以开发用于医药和电池的新材料。据悉，SandboxAQ将帮助扩展英伟达用于开发人工智能应用的软件平台CUDA的功能，以更好地模拟化学、生物和材料科学背后的量子力学。SandboxAQ董事长兼主要投资者Eric Schmidt在一份声明中表示：“SandboxAQ的人工智能模拟能力在英伟达加速计算和量子平台的辅助下，将有助于创造新材料和化合物，从而改变各行各业，并解决一些世界性的重大挑战。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfn9239135.d.html</link>
+            <guid>3374590</guid>
+            <pubDate>Mon, 20 Nov 2023 13:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一批《免征车辆购置税的新能源汽车车型目录》公布，问界M9 EV在列】工信部官网公布了《免征车辆购置税的新能源汽车车型目录》（第七十一批），包括 61 款纯电动乘用车、6 款插电式混合动力乘用车、26 款纯电动客车等。问界 M9 EV、特斯拉 Model Y、比亚迪宋 PLUS 在列。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfm3916032.d.html</link>
+            <guid>3374589</guid>
+            <pubDate>Mon, 20 Nov 2023 13:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【灿瑞科技：电源管理芯片业务收入将随消费电子市场回暖有所改善】灿瑞科技接受调研时表示，据市场数据来看，国内安卓手机销量近期出现了同比增长的态势，全球手机出货量季度同比降幅也在缩窄，头部手机厂商新品的推出有望带来手机市场的逐步复苏。若下游改善趋势进一步确认，公司电源管理芯片业务的收入也将随着下游消费电子市场的回暖而有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfq0497008.d.html</link>
+            <guid>3374587</guid>
+            <pubDate>Mon, 20 Nov 2023 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北交所向申请券商发送首批做市评估测试通过函】从相关券商处了解到，11月20日，北交所向海通证券、国元证券等多家券商发送北交所股票做市交易业务评估测试通过函。相关券商透露，申请证监会核准做市资质的材料已基本准备完毕，将于近日抓紧向证监会提交申请。(上海证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfr7273404.d.html</link>
+            <guid>3374585</guid>
+            <pubDate>Mon, 20 Nov 2023 12:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广州南沙新区科技创新母基金产业基金集群超6000亿元】广州南沙新区科技创新母基金2023年天使类合作机构签约仪式举行，参与签约的子基金管理机构包括中盈股权投资、前海长城、飞凡数联、海汇投资、琢石投资、广东行至私募、三七互娱、普华天骥等8家。据悉，广州南沙新区科技创新母基金已构建了超过6000亿元的产业基金集群，重点投资半导体与集成电路、新能源、生物医药和健康、先进制造、新一代信息技术、新消费等产业领域。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfq0494978.d.html</link>
+            <guid>3374584</guid>
+            <pubDate>Mon, 20 Nov 2023 12:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【轮胎巨头米其林再扩建上海工厂】11月20日，米其林上海工厂改扩建项目二期在闵行开发区正式开工奠基。据了解，该项目第一阶段工程占地7万多平方米，致力于打造灵活、绿色、智能的未来工厂，将于2026年底前完成，届时工厂高性能子午线轿车轮胎的年产能将提升至950万条。 (上观新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfm3913981.d.html</link>
+            <guid>3374583</guid>
+            <pubDate>Mon, 20 Nov 2023 12:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国机构警告武装冲突将导致苏丹今年经济萎缩12%】联合国人道主义事务协调厅表示，苏丹武装冲突严重破坏了苏丹的基建、教育和医疗设施，扰乱工农业生产，导致出口受阻、商业活动萧条，预计苏丹今年经济将萎缩12%。该机构还警告称，苏丹将面临严重的粮食安全问题。联合国人道主义事务协调厅呼吁国际社会向苏丹提供更多的人道主义援助。联合国2023年苏丹人道主义应对计划需要26亿美元资金，以便在今年年底之前为1810万苏丹民众提供保护和援助，但目前该计划仅收到8.562亿美元，占所需资金的33.4%。苏丹武装部队与快速支援部队4月15日在首都喀土穆等地爆发冲突，随后蔓延至苏丹其他地区。冲突持续至今，导致苏丹的人道主义局势日趋严峻。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfn9236007.d.html</link>
+            <guid>3374581</guid>
+            <pubDate>Mon, 20 Nov 2023 12:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华蓝集团与广西壮族自治区供销社签订战略合作协议】11月17日，华蓝集团与广西壮族自治区供销合作联社举行战略合作协议签约仪式。双方将在乡村振兴和农业农村现代化建设、设计咨询与工程管理、数字供销建设、校企合作、农产品供销、人才交流、党团文化交流相关领域展开合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfm3912962.d.html</link>
+            <guid>3374580</guid>
+            <pubDate>Mon, 20 Nov 2023 12:48:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本自卫队基地疑排放有害物，周边新查出19处水体受污染】日本自卫队位于静冈县滨松市的一处基地周边多处水体检测出全氟和多氟烷基物质超标后，当地对44处地下水展开进一步调查。20日公布的调查结果显示，其中19处地下水含有这类有害物，对居民健康构成威胁。滨松市8月发布的一项调查结果显示，日本航空自卫队滨松基地附近两条河流及相连水体检测出全氟和多氟烷基物质超标，其中一处水体中这类物质的含量为日本暂定国家标准的28倍。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhpfr7267828.d.html</link>
@@ -287,127 +370,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxt7372040.d.html</link>
             <guid>3374503</guid>
             <pubDate>Mon, 20 Nov 2023 10:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟理事会批准欧盟2024年年度预算】当地时间11月20日，欧盟理事会批准了关于欧盟2024年年度预算的联合文本，承诺付款总额为1893.85亿欧元。根据流程，一旦欧洲议会也批准了联合文本，欧盟2024年年度预算案将获得正式通过。从2023年11月11日起，欧盟理事会和欧洲议会各有14天的时间批准该预算案。欧盟年度财政预算主要遵从多年度财政框架，即七年计划。后者通过确立中长期欧盟政策的优先领域和投资方向，为提升欧盟整体市场竞争力、缩小成员国间发展差距提供战略指引和资金支持。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0594171.d.html</link>
-            <guid>3374501</guid>
-            <pubDate>Mon, 20 Nov 2023 10:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海汽集团：拟转让黄流商业街等5宗资产】海汽集团公告，拟通过挂牌方式转让黄流商业街、黄流汽车站、乐东利国车站、东方东河车站、昌江海汽广场等5宗资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxq9337683.d.html</link>
-            <guid>3374500</guid>
-            <pubDate>Mon, 20 Nov 2023 10:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：我们需要优先考虑减税。我们不能一次做好一切，需要有所取舍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxp4014686.d.html</link>
-            <guid>3374499</guid>
-            <pubDate>Mon, 20 Nov 2023 10:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：只有在控制通胀和债务后，我们才能削减税收。我们将根据财政规则削减税收。]]></title>
-            <guid>3374498</guid>
-            <pubDate>Mon, 20 Nov 2023 10:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：我们必须避免做任何可能危及抗击通胀的事情。减税并不会自动弥补成本。]]></title>
-            <guid>3374497</guid>
-            <pubDate>Mon, 20 Nov 2023 10:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【洲明科技：拟以1000万元-2000万元回购股份】洲明科技公告，拟以1000万元-2000万元回购股份，回购价格不超过10元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxt7369520.d.html</link>
-            <guid>3374496</guid>
-            <pubDate>Mon, 20 Nov 2023 10:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：我们将减税并对努力工作进行奖励。为了促进经济增长，我们将做出五项长期决策。计划减少我们的债务。]]></title>
-            <guid>3374495</guid>
-            <pubDate>Mon, 20 Nov 2023 10:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相苏纳克：我们相信谨慎和可持续地削减税收。我们的方法始于控制通胀。我们已经实现了将通胀减半的承诺。随着通胀减半，我们现在可以展望我们想要建设的未来经济。]]></title>
-            <guid>3374494</guid>
-            <pubDate>Mon, 20 Nov 2023 10:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华海诚科：目前颗粒状环氧塑封料尚处于验证阶段 没有形成批量销售】华海诚科发布股票交易异常波动公告，我司目前主要从事半导体器件、集成电路等电子封装材料的研发、生产和应用，颗粒状环氧塑封料是我司用于集成电路先进封装的材料的一种，下游客户为封测厂家，目前颗粒状环氧塑封料尚处于验证阶段，没有形成批量销售，相关产品尚未给公司带来业务收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxp4013298.d.html</link>
-            <guid>3374493</guid>
-            <pubDate>Mon, 20 Nov 2023 10:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【清越科技：公司未向苹果供货 目前硅基OLED业务占整体营业收入的比重较低】清越科技发布股票交易异常波动公告，公司未向苹果供货。公司目前硅基OLED业务占整体营业收入的比重较低，且生产线的良率、产能尚处于量产初期，完全达产尚需较长一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxq9335662.d.html</link>
-            <guid>3374492</guid>
-            <pubDate>Mon, 20 Nov 2023 10:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX：搭载22颗星链卫星的火箭在加州发射升空。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxt7366239.d.html</link>
-            <guid>3374489</guid>
-            <pubDate>Mon, 20 Nov 2023 10:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市委书记孟凡利与英中贸易协会主席古沛勤一行会谈】据深圳发布，11月20日，深圳市委书记孟凡利与英中贸易协会主席古沛勤一行会谈。孟凡利表示，希望英中贸易协会进一步发挥桥梁纽带作用，与深圳在贸易、投资、金融、科技、人文等领域建立更紧密联系，共同促进城市、企业、机构等多方面的双向互动，不断取得更多互利共赢成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0588829.d.html</link>
-            <guid>3374488</guid>
-            <pubDate>Mon, 20 Nov 2023 10:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哪吒汽车12月起将在土耳其销售汽车】土耳其汽车经销商GRS Automobility发布声明称，哪吒汽车将于12月开始在土耳其销售哪吒U系列紧凑型SUV，纯电轿跑哪吒GT和B级SUV哪吒AYA将于2024年第一季度进入土耳其市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0587841.d.html</link>
-            <guid>3374485</guid>
-            <pubDate>Mon, 20 Nov 2023 10:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平同法国总统马克龙通电话】11月20日下午，国家主席习近平同法国总统马克龙通电话。（央视新闻）]]></title>
-            <guid>3374484</guid>
-            <pubDate>Mon, 20 Nov 2023 10:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【威马汽车被强制执行1153万】天眼查App显示，11月以来，威马汽车科技集团有限公司新增6则被执行人信息，执行标的合计1153万余元，涉及承揽合同纠纷等案件，执行法院为温州市洞头区人民法院、祁东县人民法院等。威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI（沈晖），注册资本60亿人民币。风险信息显示，目前，该公司存在50余条被执行人信息，被执行总金额5677万元，此外，该公司还存在限制消费令、失信被执行人（老赖）和终本案件信息。据媒体报道，不久前，威马汽车科技集团有限公司新增破产审查案件引发关注。威马汽车回应称，公司并未申请破产，目前正在进行的是经法院受理的预重整阶段。此外，对于沈晖“跑路”的传闻，威马汽车工作人员称，沈晖出国是在海外寻求新的战略投资人，并推进公司在出海市场的布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxt7364466.d.html</link>
-            <guid>3374483</guid>
-            <pubDate>Mon, 20 Nov 2023 10:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中创新航：半固态及6C倍率大圆柱电池明年量产装车】中创新航管理层今日在全球合作伙伴大会上表示，公司半固态电池明年四季度将装车某外资豪华品牌，可实现充电10分钟续航500km，最大续航里程1000km；明年四季度46系6C充电倍率的大圆柱实现量产；充电10分钟补能80%的5C电池也将在明年量产装车于某高端品牌。（蓝鲸）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0586357.d.html</link>
-            <guid>3374481</guid>
-            <pubDate>Mon, 20 Nov 2023 10:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣龙股份：公司产品应用于新能源汽车占公司营业收入比例较小】圣龙股份发布股票交易异常波动公告，公司主要产品为:发动机油泵、变速箱油泵、电子油泵、真空泵、水泵等泵类产品，凸轮轴以及变速器核心零部件，产品应用于传统及新能源汽车动力系统、3/4润滑系统、冷却系统等，主要为全球各类汽车主机厂商提供配套，公司产品主要应用于传统燃油车辆，公司产品应用于新能源汽车占公司营业收入比例较小，公司收入结构在短期内不会发生较大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxp4006956.d.html</link>
-            <guid>3374480</guid>
-            <pubDate>Mon, 20 Nov 2023 10:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乙肝临床治愈的概念已被广泛认可 我国启动乙肝临床治愈门诊项目】国家卫生健康委医院管理研究所等单位近日在全国启动“乙肝临床治愈门诊规范化建设与能力提升项目”，计划到2025年，在全国建设超过百家乙肝临床治愈门诊，实现乙肝诊疗、临床治愈网络广覆盖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0583760.d.html</link>
-            <guid>3374476</guid>
-            <pubDate>Mon, 20 Nov 2023 10:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建科股份：董事长提议拟以3000万元-6000万元回购公司股份】建科股份公告，董事长提议拟以3000万元-6000万元回购公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0583293.d.html</link>
-            <guid>3374475</guid>
-            <pubDate>Mon, 20 Nov 2023 10:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智信精密：公司业务未涉及大算力需求】智信精密在互动平台表示，公司自建算力，业务未涉及大算力需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0583147.d.html</link>
-            <guid>3374474</guid>
-            <pubDate>Mon, 20 Nov 2023 10:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST富润：拟公开挂牌转让所持浙江诸暨农村商业银行股份有限公司1000万股股权】ST富润公告，拟以公开挂牌方式转让持有的浙江诸暨农村商业银行股份有限公司1000万股股权，首次公开挂牌转让底价不低于3654万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-20/detail-imzvhhxs0582926.d.html</link>
-            <guid>3374473</guid>
-            <pubDate>Mon, 20 Nov 2023 10:14:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
