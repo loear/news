@@ -4,16 +4,90 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 06 Dec 2023 18:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 19:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[甲骨文：本公司将在云服务中采用AMC新款芯片（AMD MI300）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftn2146228.d.html</link>
-            <guid>3397956</guid>
-            <pubDate>Wed, 06 Dec 2023 18:24:52 GMT</pubDate>
+            <title><![CDATA[【美国新墨西哥州就儿童保护问题起诉Meta及其首席执行官扎克伯格】美国新墨西哥州总检察长劳尔·特雷兹（Raul Torrez）周三表示，该州起诉Facebook和Instagram的母公司Meta平台及其首席执行官马克·扎克伯格，称这家社交媒体公司未能保护儿童免受性虐待、网络引诱和人口贩卖。特雷兹在一份声明中说:“我们对Meta社交媒体平台的调查表明，它们不是儿童的安全空间，而是掠夺者交易儿童色情制品和引诱未成年人进行性行为的主要场所。”他称，Meta使“数十名成年人能够找到、联系并迫使儿童提供自己的色情照片或参与色情视频。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzk2024171.d.html</link>
+            <guid>3397989</guid>
+            <pubDate>Wed, 06 Dec 2023 19:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms：将在未来几周内通过 Meta AI 聊天机器人为其文本到图像生成产品添加隐形水印。]]></title>
+            <guid>3397988</guid>
+            <pubDate>Wed, 06 Dec 2023 19:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大将通过碳排放交易系统限制石油和天然气排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzm8800432.d.html</link>
+            <guid>3397987</guid>
+            <pubDate>Wed, 06 Dec 2023 19:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦敦金属普遍收跌】伦敦金属普遍收跌，伦铜跌1.13%，伦铝跌1.13%，伦锌涨0.14%，伦铅跌1.34%，伦镍跌0.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzk2023036.d.html</link>
+            <guid>3397986</guid>
+            <pubDate>Wed, 06 Dec 2023 19:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：美国国债市场已经启动季节性的深度下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzm8798980.d.html</link>
+            <guid>3397978</guid>
+            <pubDate>Wed, 06 Dec 2023 18:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特王储：沙特和俄罗斯在扩大合作方面有非常好的前景】当地时间12月6日，沙特王储兼首相穆罕默德·本·萨勒曼与到访的俄罗斯总统普京举行了会谈。会谈中普京表示，俄罗斯与沙特的友好关系是无法被阻碍的。同时，普京邀请穆罕默德访问莫斯科并得到了同意。普京提议就地区局势交换意见，并表示俄罗斯与沙特之间可以在化肥领域进行密切合作。沙特王储兼首相穆罕默德·本·萨勒曼表示，普京对沙特来说是特别的客人。沙特与俄罗斯在能源、贸易和投资领域的合作很成功，两国在扩大合作方面有非常好的前景。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzh9807806.d.html</link>
+            <guid>3397976</guid>
+            <pubDate>Wed, 06 Dec 2023 18:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国移民大臣罗伯特·詹里克已辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmzm8798747.d.html</link>
+            <guid>3397975</guid>
+            <pubDate>Wed, 06 Dec 2023 18:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)：2024年1月起，野马Mach-E电动车很可能不符合美国联邦税收抵免资格。]]></title>
+            <guid>3397973</guid>
+            <pubDate>Wed, 06 Dec 2023 18:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国“制粉小麦”期货涨2.2%，油菜籽跌超1.8%】 周三（12月6日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨2.20%，报220.50欧元/吨。油菜籽期货跌1.86%，报436.00欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcmze5249182.d.html</link>
+            <guid>3397970</guid>
+            <pubDate>Wed, 06 Dec 2023 18:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辉瑞制药（PFE）用于治疗急性髓系白血病（AML）的候选药物Maplirpacept获得孤儿药资格。]]></title>
+            <guid>3397968</guid>
+            <pubDate>Wed, 06 Dec 2023 18:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：苹果公司联合创始人、科技企业家史蒂夫·沃兹尼亚克加入塞尔维亚国籍。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8925753.d.html</link>
+            <guid>3397967</guid>
+            <pubDate>Wed, 06 Dec 2023 18:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方：以色列军队首次在加沙地带“汗尤尼斯市中心”展开行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8924976.d.html</link>
+            <guid>3397964</guid>
+            <pubDate>Wed, 06 Dec 2023 18:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商今年以来债券融资超1.4万亿元，同比增长37%】数据显示，截至12月6日，今年以来券商已通过发行普通公司债、次级债、短期融资券累计募资14191.33亿元，同比增长37%。国信证券非银行业分析师戴丹苗表示，今年以来，在利率下行的背景下，券商发债更加踊跃。展望未来，从外部环境来看，资本市场深化改革持续推进，公开发债标准及流程不断优化，券商融资渠道畅通；从内在动力来看，券商逐渐从传统的通道中介转向提供专业服务的金融机构，补充资本是自身发展壮大、增强综合竞争力的迫切需求。未来，券商将继续通过债券融资扩充资本实力，券商债券的发行量或将继续呈现上升趋势。”（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8924815.d.html</link>
+            <guid>3397963</guid>
+            <pubDate>Wed, 06 Dec 2023 18:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工会组织：第一量子巴拿马工人同意“遣散协议”。该公司位于巴拿马的铜矿矿场仍然关闭。分公司目前仅仅10%-20%的员工在岗。]]></title>
+            <guid>3397961</guid>
+            <pubDate>Wed, 06 Dec 2023 18:28:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【美国防部宣布向乌克兰提供1.75亿美元军事援助】当地时间12月6日，美国国防部宣布向乌克兰提供价值1.75亿美元的新一批军事援助，包括防空装备、炮弹和反坦克武器等。根据国防部发布的声明，最新一笔拨款是在重新评估已向乌克兰提供的物品总价值后，作为6月恢复的62亿美元总统拨款授权的一部分提供。截至11月底，该笔资金剩余约57.5亿美元。美国国防部6月20日曾表示，由于记账错误，其对乌克兰援助的弹药、导弹和其他设备的价值高估了62亿美元。（央视新闻）]]></title>
@@ -278,121 +352,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8900140.d.html</link>
             <guid>3397887</guid>
             <pubDate>Wed, 06 Dec 2023 16:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门胡塞武装宣布对以色列埃拉特的军事目标进行袭击】据央视新闻，当地时间12月6日，也门胡塞武装发言人叶海亚·萨雷亚通过社交网站发表声明称，已针对位于以色列埃拉特的军事目标发射了一系列弹道导弹。 该声明还提到，胡塞武装将继续对以色列进行军事行动，并执行禁止以色列船只在阿拉伯海和红海航行的决定，直到以色列对加沙地带的袭击停止为止。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftn2122774.d.html</link>
-            <guid>3397886</guid>
-            <pubDate>Wed, 06 Dec 2023 16:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：美国将于周三宣布向乌克兰提供额外1.75亿美元的军事援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8899866.d.html</link>
-            <guid>3397885</guid>
-            <pubDate>Wed, 06 Dec 2023 16:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东重磅机构发声：中东和中国可在众多领域开展共同投资】 日前，总部位于沙特阿拉伯利雅得的未来投资倡议(FII)研究所行政总裁Richard Attias表示，中东和中国有广泛的交集和广阔的合作空间。Richard Attias界绍道，中东的机构与中国企业交流合作日益频繁。中国乃至整个亚洲与中东有广泛交集。两者都有充满活力的社会，拥有年轻而有才华并超级努力的人们。基于此，两者在技术领域、教育领域、体育和娱乐领域、零售、建筑等领域开展了很多合作。中东和中国可以共同投资非洲，可以共同投资拉丁美洲。未来还有广阔的合作空间可探索。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftk9921543.d.html</link>
-            <guid>3397884</guid>
-            <pubDate>Wed, 06 Dec 2023 16:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎以临时边界多地发生交火】据央视新闻，当地时间12月6日，根据黎巴嫩国家通讯社的报道，当天，黎巴嫩和以色列临时边界多地发生交火。黎方一侧的胡拉、埃塔沙阿布、杰宾等地遭以军炮击。 黎真主党发表声明称，当天袭击了以色列的贾尔阿拉姆、卢瓦塞特卡恩等军事目标，袭击目标包括以军雷达站、军营及以军士兵。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftp8899199.d.html</link>
-            <guid>3397883</guid>
-            <pubDate>Wed, 06 Dec 2023 16:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘悉数上涨 德国DAX30指数再创新高】欧股收盘悉数上涨，德国DAX指数涨0.78%，英国富时100指数涨0.35%，法国CAC40指数涨0.72%，欧洲斯托克50指数涨0.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftn2121582.d.html</link>
-            <guid>3397881</guid>
-            <pubDate>Wed, 06 Dec 2023 16:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：我们正在控制通胀，我们对可持续增长目标毫不动摇。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftn2120912.d.html</link>
-            <guid>3397878</guid>
-            <pubDate>Wed, 06 Dec 2023 16:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看图：美国“小非农”连续第四个月不及预期 劳动力市场正在稳步放缓】美东时间周三（12月6日）公布的最新数据显示，有“小非农”之称的美国就业数据连续第四个月不及预期，美国私人企业在11月缩减了招聘规模，这进一步证明劳动力市场正在降温。美国（ADP）公布的数据显示，美国11月ADP就业人数增加了10.3万人，而市场预期为13万人；且10月ADP被下修至10.6万人，而不是之前报告的11.3万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftn2120655.d.html</link>
-            <guid>3397877</guid>
-            <pubDate>Wed, 06 Dec 2023 16:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登将于美东时间下午12点（北京时间凌晨1点）就乌克兰资助问题发表讲话。]]></title>
-            <guid>3397876</guid>
-            <pubDate>Wed, 06 Dec 2023 16:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内跌幅达3.00%，现报2.628美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxcftk9920215.d.html</link>
-            <guid>3397875</guid>
-            <pubDate>Wed, 06 Dec 2023 16:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【环球时报社评：污蔑新疆和大众汽车的人，原来害怕真相】德国大众汽车集团当地时间12月5日发布声明称，人权事务咨询公司经委托进行独立审查后，没有发现大众新疆工厂存在任何“强迫劳动”的迹象或证据。大众这个被美西方舆论无故逼问了两三年的问题，最终按照西方的公式和推导过程得出了正式答案。这个答案却在美西方政界及舆论场遭到了冷遇，其受到的总体关注和音量远远小于其之前向大众汽车的施压。因为这个答案不是这些人想看到的。在新疆所谓“强迫劳动”问题上，他们要的不是真相，事实上他们非常害怕真相。]]></title>
-            <guid>3397873</guid>
-            <pubDate>Wed, 06 Dec 2023 16:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：涨薪不会干扰土耳其经济的平衡性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmq2249520.d.html</link>
-            <guid>3397870</guid>
-            <pubDate>Wed, 06 Dec 2023 16:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究机构KBW的CEO预计：（摩根士丹利等）华尔街大型银行机构的高管们将向美国国会山保证，（与3月份地区银行暴雷相关的）危机已经结束。]]></title>
-            <guid>3397869</guid>
-            <pubDate>Wed, 06 Dec 2023 16:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯要求联合国安理会就加沙局势举行会议】据央视新闻，联合国秘书长古特雷斯致信安理会主席，援引《联合国宪章》第九十九条，要求安理会就加沙局势举行会议。这是联合国成立以来，秘书长为数不多明确要求执行《联合国宪章》第九十九条。 《联合国宪章》第九十九条规定“秘书长得将其所认为可能威胁国际和平及安全之任何事件，提请安全理事会注意。” 古特雷斯表示，目前情况下，有意义的人道主义行动无法进行，人道物资严重不足。由于供应短缺、燃料短缺及通信不畅，联合国及人道主义合作伙伴的能力遭到重创。 古特雷斯说：“国际社会有责任利用其所有影响力，防止局势进一步升级，结束这场危机。我敦促安全理事会成员加紧努力，避免一场人道主义灾难。” 古特雷斯强调，必须使平民免受更大的伤害。有了人道主义停火，生存手段就可以恢复，人道主义援助就可以安全和及时地运送到整个加沙地带。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmq2248793.d.html</link>
-            <guid>3397868</guid>
-            <pubDate>Wed, 06 Dec 2023 16:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[也门胡塞武装声明称，他们向以色列发射了弹道导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmk5491074.d.html</link>
-            <guid>3397864</guid>
-            <pubDate>Wed, 06 Dec 2023 16:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：2024年软件和云服务行业前景呈中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmq2245811.d.html</link>
-            <guid>3397863</guid>
-            <pubDate>Wed, 06 Dec 2023 16:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩卫生部称已有94人在黎以临时边界冲突中死亡】据央视新闻，当地时间12月6日，黎巴嫩卫生部发表声明称，自10月8日黎以临时边界爆发冲突以来至12月5日，黎巴嫩方面已有94人死亡，406人受伤。 据悉，黎卫生部统计的数据中包含黎真主党等武装派别及平民的伤亡情况。 黎卫生部还援引国际移民组织的数据称，自10月8日黎以临时边界爆发冲突以来，黎南部已有55185人流离失所。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmr9022977.d.html</link>
-            <guid>3397861</guid>
-            <pubDate>Wed, 06 Dec 2023 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[原油市场分析师Devika Krishna Kumar：尽管数据表现相对乐观，但市场仍坚定地认为，至少在短期内油市将供应过剩。WTI原油期货日内跌超3%，看起来可能会有更多的抛售，尤其是在欧佩克+进一步减产未能平息负面情绪的情况下。]]></title>
-            <guid>3397860</guid>
-            <pubDate>Wed, 06 Dec 2023 16:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：（就美国科技问题表示）硬件和半导体行业前景恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmq2244647.d.html</link>
-            <guid>3397859</guid>
-            <pubDate>Wed, 06 Dec 2023 16:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯12月4日当周CPI周环比上升0.12%，2023年迄今累计上升6.79%。]]></title>
-            <guid>3397857</guid>
-            <pubDate>Wed, 06 Dec 2023 16:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国也门问题特使与也门总统领导委员会主席举行会见】 联合国也门问题特使汉斯·格伦德贝里当地时间12月6日在沙特首都利雅得会见了也门总统领导委员会主席拉沙德·穆罕默德·阿里米。双方就改善也门生活条件、在联合国主持下恢复包容性政治进程等问题进行探讨。同一天，格伦德贝里还会见了沙特驻也门大使贾比尔。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxazmr9020696.d.html</link>
-            <guid>3397855</guid>
-            <pubDate>Wed, 06 Dec 2023 16:02:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
