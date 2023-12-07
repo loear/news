@@ -4,13 +4,178 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 07 Dec 2023 16:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 17:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国贸易代表戴琪：对所有美国人而言，发布ChatGPT是“唤醒时刻”。]]></title>
+            <title><![CDATA[美国前总统特朗普对妨碍华盛顿选举案中失去豁免权提出上诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1194785.d.html</link>
+            <guid>3399879</guid>
+            <pubDate>Thu, 07 Dec 2023 17:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国加州即将面临680亿美元的预算赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1194611.d.html</link>
+            <guid>3399878</guid>
+            <pubDate>Thu, 07 Dec 2023 17:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI前董事会成员Helen Toner：OpenAI创始人Sam Altman被解雇的目标是为了加强OpenAI，并称解雇是因为缺乏信任。]]></title>
+            <guid>3399876</guid>
+            <pubDate>Thu, 07 Dec 2023 17:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【不到半年30余家会计所受罚】公开披露显示，2023年下半年，证监会系统针对会计所开出的罚单已经超过50张，涉及的会计师事务所达到30余家，被罚原因均为出具的上市公司审计报告存在虚假记载、审计程序执行不到位等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7971353.d.html</link>
+            <guid>3399874</guid>
+            <pubDate>Thu, 07 Dec 2023 17:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄政府说俄北极地区投资总额将达1.75万亿卢布】俄罗斯远东和北极发展部第一副部长侯塞因诺夫7日说，俄罗斯北极地区已吸引766个投资项目，投资总额将达1.75万亿卢布（约合190亿美元）。侯塞因诺夫说，所有投资领域中采矿业投资额最多，约为8620亿卢布（约合93亿美元），有44个项目正在实施。其次为油气化工行业，投资额约为2070亿卢布（约合22亿美元），有15个项目正在实施；就行业而言，服务业项目最多，有197个项目。建筑和开发业以143个项目位居其次，旅游业有127个项目正在实施。另外，俄罗斯国家原子能公司北极开发事务特别代表帕诺夫在论坛全体会议上说，2023年北方航道将运输超过3600万吨货物，打破纪录。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8929806.d.html</link>
+            <guid>3399873</guid>
+            <pubDate>Thu, 07 Dec 2023 17:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴斯夫宣布成立电池和农业部门，股价收涨将近1.5%】巴斯夫（BAS.GY）收涨1.47%，报45.095欧元。这家化工公司12月7日宣布，将成立两个部门——电池原材料和农业解决方案并预计到2026年将实现很大程度上独立经营，以提高利润。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksr1481244.d.html</link>
+            <guid>3399872</guid>
+            <pubDate>Thu, 07 Dec 2023 17:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部：土耳其外长将于周五访问华盛顿，作为穆斯林国家外交部联络小组的一部分，就加沙问题进行会谈。]]></title>
+            <guid>3399871</guid>
+            <pubDate>Thu, 07 Dec 2023 17:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿塞拜疆：亚美尼亚已同意不阻止阿塞拜疆提出主办明年的COP29气候大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8928638.d.html</link>
+            <guid>3399867</guid>
+            <pubDate>Thu, 07 Dec 2023 17:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2024年英国主要银行的资产质量将适度恶化，普通股一级资本比率将保持稳固。]]></title>
+            <guid>3399865</guid>
+            <pubDate>Thu, 07 Dec 2023 17:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开云集团宣布2023财年中期股息每股4.50欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8928126.d.html</link>
+            <guid>3399863</guid>
+            <pubDate>Thu, 07 Dec 2023 16:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国近东救济工程处：本轮冲突以来加沙地带已有超190万人流离失所】联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）当地时间12月7日发表声明表示，自10月7日以来，加沙地带已有超过190万人流离失所，占其总人口的85%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7967738.d.html</link>
+            <guid>3399862</guid>
+            <pubDate>Thu, 07 Dec 2023 16:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：英国主要银行对经济形势具有弹性，受到强大缓冲力的支撑。未来两年内，英国主要国内银行的业绩将保持稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7967701.d.html</link>
+            <guid>3399861</guid>
+            <pubDate>Thu, 07 Dec 2023 16:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特外交大臣与联合国秘书长通电话】当地时间7日，沙特外交大臣费萨尔与联合国秘书长古特雷斯通电话。古特雷斯提到，他在6日根据《联合国宪章》第99条规定致信安理会轮值主席，呼吁安理会成员采取行动避免加沙人道主义灾难，这是他就职以来首次援引《联合国宪章》第99条。费萨尔表示，沙特对联合国秘书长援引《联合国宪章》第99条表示赞赏和大力支持。双方强调必须做出更多努力以实现巴以之间立即停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8927817.d.html</link>
+            <guid>3399860</guid>
+            <pubDate>Thu, 07 Dec 2023 16:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典地产巨头SBB称Fredrik Svensson将离开董事会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7967191.d.html</link>
+            <guid>3399859</guid>
+            <pubDate>Thu, 07 Dec 2023 16:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪：非洲需要更有效的发展模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1189568.d.html</link>
+            <guid>3399857</guid>
+            <pubDate>Thu, 07 Dec 2023 16:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[满帮上涨2.1%，报7.28美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1189206.d.html</link>
+            <guid>3399856</guid>
+            <pubDate>Thu, 07 Dec 2023 16:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪：我们必须能够成为全球经济中的钢铁生产国。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8927028.d.html</link>
+            <guid>3399854</guid>
+            <pubDate>Thu, 07 Dec 2023 16:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD突破0.66，日内涨0.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksr1478246.d.html</link>
+            <guid>3399852</guid>
+            <pubDate>Thu, 07 Dec 2023 16:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C3.ai跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8926509.d.html</link>
+            <guid>3399851</guid>
+            <pubDate>Thu, 07 Dec 2023 16:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特数字上涨5.12%，报3.49美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7964767.d.html</link>
+            <guid>3399850</guid>
+            <pubDate>Thu, 07 Dec 2023 16:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪：美国墨西哥加拿大贸易协议中，重要的部分是更加强有力的执法机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7964664.d.html</link>
+            <guid>3399849</guid>
+            <pubDate>Thu, 07 Dec 2023 16:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副国务卿提名人坎贝尔：关键参与方仍愿意重启以色列和沙特之间的外交进程；在当下的时机进行有关讨论是困难的，这是可以理解的。]]></title>
+            <guid>3399848</guid>
+            <pubDate>Thu, 07 Dec 2023 16:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港最新外汇储备资产为4246亿美元】香港金融管理局（金管局）12月7日公布，香港2023年11月底的官方外汇储备资产为4246亿美元，比2023年10月底的4160亿美元增加86亿美元。金管局介绍，为数4246亿美元的外汇储备资产总额，相当于香港流通货币约6倍。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksr1477754.d.html</link>
+            <guid>3399847</guid>
+            <pubDate>Thu, 07 Dec 2023 16:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：波音(BA.N)暗示737飞机增产计划将延迟两个月。波音下跌1.22%，报234.0美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksk8926217.d.html</link>
+            <guid>3399846</guid>
+            <pubDate>Thu, 07 Dec 2023 16:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年末车市开启降价潮，多地加码购车补贴】临近年末，车企销售进入“冲刺”阶段，为了吸引此前观望的消费者，部分汽车品牌推出了购车补贴、限时优惠等措施。深圳、济南、长沙、嘉兴等地也在近期相继推出购车补贴政策。汽车消费券的发放促进了消费者“刚需”集中释放，有家庭代步、商务需求的购车者纷纷在年底考虑下单。全国乘用车市场信息联席会秘书长崔东树表示：部分车企为了维持销量水平，在年末价格促销力度相对较大。用利润冲销量是为了保证自己的产业链各环节有效运行。业内人士表示，年底车企集中促销让利叠加各地补贴政策，汽车销量有望实现新突破。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7961418.d.html</link>
+            <guid>3399843</guid>
+            <pubDate>Thu, 07 Dec 2023 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：美国已恢复在加沙地带进行无人机飞行，以支持人质解救行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksp7961310.d.html</link>
+            <guid>3399841</guid>
+            <pubDate>Thu, 07 Dec 2023 16:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2024年航空旅行需求将保持强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1183901.d.html</link>
+            <guid>3399840</guid>
+            <pubDate>Thu, 07 Dec 2023 16:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲股指收跌】德国DAX 30指数初步收跌0.10%，报16640.24点。法国股指初步收跌0.07%，意大利股指初步收跌0.60%，英国股指初步收涨0.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1183882.d.html</link>
+            <guid>3399839</guid>
+            <pubDate>Thu, 07 Dec 2023 16:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国贸易代表戴琪：对所有美国人而言 ChatGPT的发布是唤醒时刻】美国贸易代表戴琪表示，对所有美国人而言，ChatGPT的发布是“唤醒时刻”；美国对科技环境缺乏一个强有力的监管系统，需要平衡大公司和政府在人工智能方面的角色。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-08/detail-imzxfksn1183350.d.html</link>
             <guid>3399837</guid>
             <pubDate>Thu, 07 Dec 2023 16:27:20 GMT</pubDate>
         </item>
@@ -231,152 +396,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfksr1464182.d.html</link>
             <guid>3399780</guid>
             <pubDate>Thu, 07 Dec 2023 15:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州期货交易所与新加坡交易所签署合作谅解备忘录】12月7日，广州期货交易所与新加坡交易所签署合作谅解备忘录，旨在加强双方战略合作伙伴关系。广期所有关负责人表示，值2023年中新双边合作机制会议之际，我们非常高兴能与新交所签署谅解备忘录。新交所是全球领先的交易所，广期所将与新交所围绕绿色发展、ESG等领域开展深入交流和务实合作，助力中新资本市场和中国-东盟资本市场互联合作发展新格局。双方在谅解备忘录中表示，将在信息共享、人员互访、培训和教育等多方面开展务实合作，共同推进绿色发展和“一带一路”领域产品与业务研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfksp7945537.d.html</link>
-            <guid>3399778</guid>
-            <pubDate>Thu, 07 Dec 2023 15:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津出台小额贷款公司监管办法 进一步规范小贷行业发展】从天津市金融局获悉，该局日前印发了《天津市小额贷款公司监督管理办法》，对进一步加强小额贷款公司监督管理、规范行业秩序提出明确要求。在公司治理与合规经营方面，《办法》明确，小额贷款公司发放贷款应遵循小额、分散的原则，对同一借款人的贷款余额不得超过小额贷款公司上一年度末经审计认定的净资产的10%，对同一借款人及其关联方的贷款余额不得超过小额贷款公司上一年度末经审计认定的净资产的15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfksp7944935.d.html</link>
-            <guid>3399775</guid>
-            <pubDate>Thu, 07 Dec 2023 15:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻韩大使馆：阶段性减免来华签证费】为便利中外人员往来，自2023年12月11日至2024年12月31日，中国驻韩使领馆对赴华签证规费进行调减。对12月11日前已受理的签证申请，按原标准收费。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfksr1463216.d.html</link>
-            <guid>3399773</guid>
-            <pubDate>Thu, 07 Dec 2023 15:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月07日23时01分在江苏连云港市赣榆区海域（北纬34.90度，东经119.86度）发生3.8级地震，震源深度8千米。]]></title>
-            <guid>3399772</guid>
-            <pubDate>Thu, 07 Dec 2023 15:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信托产品清算拖累腾达建设“孙”公司 投资劣后级两年累计亏损约3.11亿元】12月7日，上市公司腾达建设（SH600512，股价2.55元，总市值40.77亿元）发布公告，其全资孙公司所投部分信托计划完成了清算。公司表示，经初步测算，该信托计划从认购到终止清算累计亏损约3.11亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekr8075127.d.html</link>
-            <guid>3399771</guid>
-            <pubDate>Thu, 07 Dec 2023 15:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京与伊朗总统莱希举行会谈】当地时间12月7日晚，俄罗斯总统普京与到访的伊朗总统莱希在莫斯科举行会谈。普京表示，俄伊双边贸易额已达约50亿美元，去年双边贸易额增长20%。莱希表示，伊俄合作开展顺利，两国将继续推动双边关系发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekr8074776.d.html</link>
-            <guid>3399769</guid>
-            <pubDate>Thu, 07 Dec 2023 15:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【造船市场火热，今年前10月中国新签订单904艘】2023年中国国际海事会展于2023年12月5日至8日在上海新国际博览中心举办。在本次海事会展上，低碳甚至零碳已经成为船舶工业未来的发展趋势，低排放甚至零排放的技术和产品也大量涌现。今年以来，国际造船市场火热，新船量价齐升。1月-10月，全球新船订单1547艘，合计约8912万载重吨，其中，中国新签订单达到904艘。上海市船舶与海洋工程学会理事长邢文华表示：造船行业逐渐向亚洲转移，亚洲向中国转移，这是一种趋势。今年我们主要的造船企业接单已经接到了2027年，甚至2028年，有很多的新能源船舶建造企业陆续地接到订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1297278.d.html</link>
-            <guid>3399768</guid>
-            <pubDate>Thu, 07 Dec 2023 15:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：墨西哥2025年的GDP增长率将为1.4%]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1297195.d.html</link>
-            <guid>3399767</guid>
-            <pubDate>Thu, 07 Dec 2023 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Stellantis和Ample就电动汽车电池更换业务构建合作伙伴关系】Stellantis和Ample围绕电动汽车电池更换业务构建合作伙伴关系，Stellantis将在西班牙推出100 Fiat 500ES。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1296896.d.html</link>
-            <guid>3399765</guid>
-            <pubDate>Thu, 07 Dec 2023 15:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电科数字：子公司柏飞电子目前正与中国商飞开展C929机型相关产品研制的项目接洽】电科数字在互动平台表示，公司子公司柏飞电子目前正与中国商飞开展C929机型相关产品研制的项目接洽。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1296587.d.html</link>
-            <guid>3399764</guid>
-            <pubDate>Thu, 07 Dec 2023 15:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宏微科技：赛力斯M9搭载了公司产品】宏微科技在互动平台表示，赛力斯M9搭载了公司产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekr8073789.d.html</link>
-            <guid>3399763</guid>
-            <pubDate>Thu, 07 Dec 2023 15:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部国际司负责人解读中新自由贸易协定进一步升级议定书】近日，中国商务部部长王文涛与新加坡贸工部部长颜金勇分别代表中新两国政府，签署中华人民共和国政府和新加坡共和国政府关于进一步升级《自由贸易协定》的议定书（以下简称《议定书》）。商务部国际司负责人表示，本次《议定书》对原自贸协定及有关议定书进行升级，进一步提升双方服务投资自由化的规则水平，并采用负面清单模式作出服务贸易和投资开放承诺。《议定书》由序言和6个部分文本，以及中新双方的跨境服务贸易和投资负面清单组成。其中，6个部分文本分别为跨境服务贸易、投资、电信服务、数字经济合作、其他条款和一般性条款。]]></title>
-            <guid>3399758</guid>
-            <pubDate>Thu, 07 Dec 2023 14:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【弘信电子：在车载动力电池领域，公司正向新能源多家客户的量产供货】弘信电子在互动平台表示，在车载动力电池领域，公司正向新能源多家客户的量产供货，包括动力电池FPC、CCS模组等相关产品，供货对象包括国内部分知名新能源厂商，终端客户包括部分国内乃至国际知名纯电及混合动力汽车品牌。同时，在车载智能化领域，公司软板通过配套主要面板厂商，应用到大量车载显示屏中。FPC产品在电动车中有一定的价值占比，单纯以包括软板的CCS模组为例，单车价值量在数百元至数千元不等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1296170.d.html</link>
-            <guid>3399757</guid>
-            <pubDate>Thu, 07 Dec 2023 14:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【11月各类挖掘机销量同比下降37%】据中国工程机械工业协会对挖掘机主要制造企业统计，2023年11月销售各类挖掘机14924台，同比下降37%，其中国内7484台，同比下降48%；出口7440台，同比下降19.8%。2023年1-11月，共销售挖掘机178320台，同比下降27.1%；其中国内82355台，同比下降43.5%；出口95965台，同比下降2.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekn9039768.d.html</link>
-            <guid>3399756</guid>
-            <pubDate>Thu, 07 Dec 2023 14:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雀巢同马士基、赫伯罗特与达飞海运合作 使用替代燃料减少排放】雀巢12月6日发布声明，宣布同马士基、赫伯罗特与达飞海运三大航运巨头合作，将该公司半数航运需求转为使用低排放的替代燃料，立即生效。雀巢表示，通过改用以废食用油等废弃物为燃料的货轮，目标每年将航运产生的温室气体排放量减少约20万公吨二氧化碳当量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekr8072494.d.html</link>
-            <guid>3399755</guid>
-            <pubDate>Thu, 07 Dec 2023 14:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部国际司负责人解读中新自由贸易协定进一步升级议定书】商务部消息，商务部国际司负责人解读中新自由贸易协定进一步升级议定书。本次《议定书》对原自贸协定及有关议定书进行升级，进一步提升双方服务投资自由化的规则水平，并采用负面清单模式作出服务贸易和投资开放承诺。《议定书》由序言和6个部分文本，以及中新双方的跨境服务贸易和投资负面清单组成。其中，6个部分文本分别为跨境服务贸易、投资、电信服务、数字经济合作、其他条款和一般性条款。服务贸易方面，《议定书》升级了国民待遇、市场准入、国内规制等条款，纳入了最惠国待遇、当地存在等义务。投资自由化方面，升级了国民待遇、最惠国待遇等条款，纳入了禁止业绩要求、高级管理人员和董事会等高标准义务。投资便利化方面，纳入了争端预防条款。电信服务方面，纳入电信资源分配、电信接入和使用、互联互通、号码携带、转售、网络元素非捆绑等高水平条款。上述高标准规则的纳入，有利于提升中新两国服务贸易和投资的规模、质量和水平，为深化两国贸易投资互利合作提供更加坚实的制度保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekn9038572.d.html</link>
-            <guid>3399751</guid>
-            <pubDate>Thu, 07 Dec 2023 14:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国与新加坡签署中新自由贸易协定进一步升级议定书】近日，商务部部长王文涛与新加坡贸工部部长颜金勇分别代表中新两国政府，签署中华人民共和国政府和新加坡共和国政府关于进一步升级《自由贸易协定》的议定书。签署升级议定书是中新经贸关系新的里程碑，将进一步激发两国服务贸易和投资合作潜力，为企业参与对方市场提供更加坚实的制度保障。下一步，中新双方将加紧履行各自国内法律程序，争取升级议定书尽早生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1293893.d.html</link>
-            <guid>3399750</guid>
-            <pubDate>Thu, 07 Dec 2023 14:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【C3.ai跌近10% Q2收入不及预期 净亏损扩大】AI公司C3.ai(AI.US)跌近10%，报26.26美元。C3.ai第二财季营收7320万美元，同比增长17%，不及市场预期的7400万美元；净亏损6978万美元，上年同期亏损为6885万美元。该公司指出，客户设立的人工智能治理部门增加了审查流程，从而削弱了公司的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1293012.d.html</link>
-            <guid>3399749</guid>
-            <pubDate>Thu, 07 Dec 2023 14:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎方称黎巴嫩南部边境村镇遭以色列白磷弹袭击 以方暂未回应】黎巴嫩国家通讯社当地时间12月7日报道称，黎南部边境的勒梅什镇（Rmeish）当天遭到以色列军队发射的白磷弹袭击。此外，黎南部拉米亚（Ramiya）、瓦迪达克（Wadi Dark）、哈穆尔（Hamoul）等边境村镇当天遭到以军炮击。目前以色列方面对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1292377.d.html</link>
-            <guid>3399746</guid>
-            <pubDate>Thu, 07 Dec 2023 14:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【36氪涨7.67% Q3总收入稳健增长 广告收入同比增长11%】36氪(KRKR.US)涨7.67%，报0.706美元。36氪第三季度总营收9697万元，同比增长2.5%。其中，广告收入达7124万元，同比增长11%，订阅服务收入达1151万，同比增长62%，毛利率继续保持在56%的高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekr8069047.d.html</link>
-            <guid>3399743</guid>
-            <pubDate>Thu, 07 Dec 2023 14:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第二届“一带一路”老-中合作论坛实现系列项目签约 推进中老多领域务实合作】第二届“一带一路”老-中合作论坛7日在老挝首都万象举行。论坛发布了中老多领域合作成果，见证了多项合作协议签约，有力推进中老务实合作。参加论坛的中老企业与机构签订了金融、通信、文旅等多个领域的合作协议。其中，中国工商银行万象分行与老挝老中合作委员会签署合作协议，将持续为“一带一路”重点项目、中国援建项目等提供全方位金融服务；中国移动国际有限公司与老挝KLSSole有限公司签署咨询合作伙伴协议，围绕老挝虚拟运营商业务、云数据中心等领域开展深度合作；中老两国旅游公司签署了项目合作备忘录，推动中老文化交流。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1291765.d.html</link>
-            <guid>3399742</guid>
-            <pubDate>Thu, 07 Dec 2023 14:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Fisker首席执行官回应负面报道：相信公司有长期机会】美国电动汽车制造商Fisker首席执行官亨里克·菲斯克（Henrik Fisker）当地时间12月6日就关于公司的负面报道发表声明。菲斯克表示，他认为目前的股价并未反映出公司的成就和长期机遇。团队正在不知疲倦地扩大运营规模，并继续执行创新的商业模式。他表示，“从根本上说，我们的业务每天都在取得积极进展，我相信我们有令人瞩目的长期机会。”该公司计划在本月晚些时候发布下一次业务更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1291635.d.html</link>
-            <guid>3399741</guid>
-            <pubDate>Thu, 07 Dec 2023 14:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[软件公司Sprinklr Inc.（CXM）低开33%，创该公司美国IPO以来最差盘中表现。]]></title>
-            <guid>3399739</guid>
-            <pubDate>Thu, 07 Dec 2023 14:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传音将推24款手机以维持印度市场地位】据分析机构 PTI 报道，传音对该机构声称，他们将在 2024 年通过“机海战术”，巩固传音在印度市场的前五位置，明年该公司将推出 24 款新智能手机，其中 12 款将具备 5G 技术。PTI 同时表示，传音手机的平均售价正在不断上涨，从 2023 年 1 月的 11000-12000 印度卢比（当前约 945 - 1031 元人民币）上涨到 2023 年 12 月的 18000-19000 印度卢比（当前约 1546 - 1632 元人民币）。（IT之家）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-07/detail-imzxfekq1290849.d.html</link>
-            <guid>3399738</guid>
-            <pubDate>Thu, 07 Dec 2023 14:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[C3.ai美股盘初跌约10%，最新业绩报告显示，第二财季营收和第三财季业绩指引逊于预期。]]></title>
-            <guid>3399737</guid>
-            <pubDate>Thu, 07 Dec 2023 14:33:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
