@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Dec 2023 20:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 21:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马克龙在爱丽舍宫参加犹太教仪式被批“违反世俗原则”，本人辩驳】据路透社消息，法国总统马克龙当地时间7日在爱丽舍宫参加庆祝犹太教传统节日——光明节开始的仪式，这一举动遭到反对者批评，后者认为，马克龙违反了法国传统的世俗主义原则（政教分离原则）。马克龙周五（8日）在参观巴黎圣母院时表示，他并不后悔自己的举动，并补充说他“尊重世俗主义”，但“世俗主义并不是要清除所有宗教”。法国总理伊丽莎白·博尔内也为马克龙的姿态辩护，称这是为了在法国反犹太主义愈演愈烈之际“表达对犹太社区的支持”。（环球网）]]></title>
+            <guid>3402401</guid>
+            <pubDate>Sat, 09 Dec 2023 20:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态及避险搬迁 今年已有三万多户搬新家】甘肃省生态环境相对脆弱，地理条件复杂，是我国地质灾害隐患最多的地区之一。2022年起，甘肃省启动生态及地质灾害避险搬迁工作，计划分两期搬迁103.95万人。今年截至目前，已有超过34500户群众搬入新家。这两天，当地又一批避险群众搬进了新家。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-10/detail-imzxninc8858531.d.html</link>
+            <guid>3402400</guid>
+            <pubDate>Sat, 09 Dec 2023 20:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗总统会见叙利亚总理】当地时间9日，伊朗总统莱希在德黑兰会见叙利亚总理阿尔努斯。此前，应伊朗第一副总统穆罕默德·穆赫贝尔邀请，叙利亚总理侯赛因·阿尔努斯率高级代表团抵达德黑兰。9日稍早前伊叙两国签署了6份合作文件。今年5月3日，伊朗总统莱希自2011年叙利亚危机爆发以来首次对叙利亚进行访问，并与叙利亚总统巴沙尔·阿萨德举行会晤。双方表示将在石油、农业等多个领域加强合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-10/detail-imzxninf5634690.d.html</link>
+            <guid>3402399</guid>
+            <pubDate>Sat, 09 Dec 2023 20:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乌克兰总统泽连斯基表示他将前往阿根廷。]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-10/detail-imzxninc8856356.d.html</link>
@@ -453,24 +470,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-09/detail-imzxmnhp9281940.d.html</link>
             <guid>3402177</guid>
             <pubDate>Sat, 09 Dec 2023 11:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦外交部指责美方在安理会否决加沙停火决议草案】当地时间12月9日，巴勒斯坦外交与侨民事务部就美国在安理会审议在加沙地带立即实施人道主义停火的协议草案中，使用否决权使得决议草案未能通过一事发表声明。巴外交部指责美方此举加深了在歧视平民方面的双重标准。巴勒斯坦在声明中说，美方否决在加沙地带立即实施人道主义停火的决议草案，是有选择性地利用国际法，这无视了国际社会关于保护平民以及以可持续方式满足加沙地带民众基本人道主义需求的呼声。此外，巴外交部还表示，感谢所有支持该决议草案的国家，这些国家的立场几乎表达了国际社会对加沙地带侵略行为应该停止的共识。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-09/detail-imzxmnhp9279858.d.html</link>
-            <guid>3402174</guid>
-            <pubDate>Sat, 09 Dec 2023 11:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交行副行长钱斌：生成式AI在算力算法、数据安全等领域面临痛点】12月9日，交通银行党委委员、副行长钱斌在由上海金融科技产业联盟主办的第五届上海金融科技国际论坛分论坛上致辞表示，人工智能涌现出新效能，为金融领域创新发展开辟了新手段、新赛道。钱斌指出，生成式AI在算力算法、数据安全、人才等领域面临着诸多痛点和难点。比如，如何实现大规模算力模式下的绿色低碳供给，如何提供适合大模型的大规模、高质量、实时性数据，如何将模型的公平性、价值观与人类更有效地对齐，如何培养复合型的金融科技人才。“这些既是技术挑战，也是管理问题，需要产业各界通力合作，协同解决。”（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-09/detail-imzxmnhn6918227.d.html</link>
-            <guid>3402173</guid>
-            <pubDate>Sat, 09 Dec 2023 11:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩真主党已有98名武装人员在黎以临时边界冲突中死亡】当地时间12月9日，黎巴嫩真主党通过下属新闻媒体“灯塔”宣布，又有4名武装人员在黎以临时边界冲突中死亡。根据黎巴嫩当地媒体统计，自10月黎巴嫩和以色列临时边界爆发冲突以来，黎巴嫩真主党已有98名武装人员死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-09/detail-imzxmnhs9469413.d.html</link>
-            <guid>3402172</guid>
-            <pubDate>Sat, 09 Dec 2023 11:00:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
