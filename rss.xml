@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 16 Dec 2023 18:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 19:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国啤酒酿造公司安海斯-布希公司(Anheuser-Busch)卡车司机表示，如果未与公司达成协议，将投票罢工。]]></title>
+            <guid>3412252</guid>
+            <pubDate>Sat, 16 Dec 2023 19:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百度李彦宏：卷AI原生应用才有价值】据Apollo智能驾驶消息，“我们一定要去卷AI原生应用，要把这个东西做出来，模型才有价值。”12月16日，在极客公园创新大会2024上，百度创始人、董事长兼首席执行官李彦宏表示，“为什么大家不去认真做AI原生应用，而去关心大模型进展？这个进展对大多数人来说不是机会。”用生成式AI改造现有业务，有机会创造更大价值。“大公司代表了落后生产力，千万不要看大公司在干嘛！大公司反应都是慢半拍的，企业拥抱新时代，要去掉肌肉记忆。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyfyzh8466397.d.html</link>
+            <guid>3412251</guid>
+            <pubDate>Sat, 16 Dec 2023 19:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯官员称加沙地带已有超1.9万名巴勒斯坦人死亡】据半岛电视台16日报道，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员乌萨马·哈姆丹在黎巴嫩贝鲁特举行的新闻发布会上表示，以色列的袭击已经导致加沙地带超过19000名巴勒斯坦人死亡，另有8000多人失踪。此外，自10月7日以来，约旦河西岸巴勒斯坦死亡人数已升至300人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyfyzq2416760.d.html</link>
+            <guid>3412250</guid>
+            <pubDate>Sat, 16 Dec 2023 18:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克：石油和天然气不应该被妖魔化】电动汽车制造商特斯拉创始人马斯克周六表示，从中期来看，石油和天然气不应被妖魔化，但他也表示，减少碳排放对于保护地球非常重要。马斯克表示：“气候变化警报在短期内被夸大了”，并补充说环保运动可能走得太远，导致人们对未来失去信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyfyzh8463935.d.html</link>
+            <guid>3412249</guid>
+            <pubDate>Sat, 16 Dec 2023 18:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿根廷11省宣布进入经济紧急状态】截至当地时间12月16日，阿根廷11个省先后宣布进入经济紧急状态。这是继12日阿根廷新一届政府宣布经济新政之后各省做出的调整反应之一。阿根廷新任经济部长卡普托12日公布一系列经济政策，旨在减少财政赤字、控制通货膨胀。其中包括将政府部门由18个减少至9个、降低政府对能源和交通的补贴、停止新建公共工程招标等。]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyfyzm3019922.d.html</link>
@@ -438,12 +461,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-16/detail-imzyfkcw2748985.d.html</link>
             <guid>3412093</guid>
             <pubDate>Sat, 16 Dec 2023 11:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【董宇辉复盘东方甄选风波：事情很小，但我当时做法很幼稚很愚蠢】12月16日晚间消息，东方甄选人事风波后，新东方创始人俞敏洪与董宇辉一同现身直播间。董宇辉在回忆这两天事件时总结道，“这事件其实本来很小，但是我当时也是很幼稚、很愚蠢，一个小编用公司的账号回复，让我觉得不妥帖，然后我就跟和孙老师（前东方甄选CEO）沟通了，我现在反思，确实当时沟通得不是那么好”。他称，“事后我是正常休假回西安，随后北京下大雪，所以我只能今天才回来，这是这几天真实的一个过程，我要给大家回回回复一下”。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-16/detail-imzyfkcq8802343.d.html</link>
-            <guid>3412090</guid>
-            <pubDate>Sat, 16 Dec 2023 11:34:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
