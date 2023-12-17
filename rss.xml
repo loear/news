@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 17 Dec 2023 16:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 17:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英媒披露英国国家电网新操弄：以所谓“安全”为由移除中企子公司组件】 包括路透社在内多家外媒注意到，英国《金融时报》17日援引消息披露，出于对“网络安全”的担忧，英国国家电网已开始从英国输电网络中移除由一家中企在英子公司提供的组件。扯出安全旗号打压中企，英国的类似操作已不止一次，中方也多次抨击并反对这种严重冲击中英合作互信的行为。《金融时报》援引一名白厅官员的话称，英国国家电网向英国政府通信总部(GCHQ)下属的国家网络安全中心征求意见后做出这一决定，于今年4月与这家中企的英国子公司终止合同，并开始移除组件。扯出安全旗号打压中企，英国的类似操作不止一次。去年7月，英国以“国家安全”为由，禁止一家中企从英国收购与视觉传感技术相关的知识产权。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-18/detail-imzykcyq1295419.d.html</link>
+            <guid>3413177</guid>
+            <pubDate>Sun, 17 Dec 2023 17:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：加拿大料将宣布2035年全电动汽车销售政策】 据Toronto Star等媒体报道，加拿大政府料将批准相关制度，以要求所有在加拿大销售的新电动汽车到2035年要净零排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-18/detail-imzykcym1896403.d.html</link>
+            <guid>3413167</guid>
+            <pubDate>Sun, 17 Dec 2023 16:50:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：日本将下调触发收购报价的股份比例至30%。]]></title>
             <guid>3413148</guid>
@@ -458,18 +470,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyipat2224117.d.html</link>
             <guid>3412975</guid>
             <pubDate>Sun, 17 Dec 2023 09:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列外长称现阶段在加沙停火是一个“错误”】以色列外交部长科恩当地时间17日上午在接受媒体采访时表示，现阶段在加沙停火“是一个错误，将会对巴勒斯坦伊斯兰抵抗运动（哈马斯）有利”。他同时重申以方对以黎边境局势的态度，强调“有机会避免战争的发生”，但以色列将采取行动应对任何升级局势的行为。同一天，法国外交部长科隆纳在访问以色列期间呼吁立即在加沙实现“永久停火”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyipaq7666666.d.html</link>
-            <guid>3412974</guid>
-            <pubDate>Sun, 17 Dec 2023 09:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省气象台继续发布道路结冰黄色预警】河南省气象台2023年12月17日17时继续发布道路结冰黄色预警：预计12月17日17时到18日17时，西部、北部部分县市有积雪，其他县市有小雪或零星小雪，路表温度低于0℃，全省大部将出现对交通有较大影响的道路结冰，其中安阳、鹤壁、新乡中部、洛阳西部影响较严重，局部影响严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyipat2224028.d.html</link>
-            <guid>3412973</guid>
-            <pubDate>Sun, 17 Dec 2023 09:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
