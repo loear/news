@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 22 Dec 2023 20:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 21:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【最后一批法国军队撤离尼日尔】22日，尼日尔军方表示，最后一批法国军队撤离尼日尔，法国结束了在尼日尔的军事存在。此外，19日，法国外交部在给其驻尼日尔使馆当地雇员的一封信中透露，法国使馆的外交工作受到尼日尔当局限制，法方因而决定无限期关闭驻尼使馆。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-23/detail-imzyxtxn2985156.d.html</link>
+            <guid>3422130</guid>
+            <pubDate>Fri, 22 Dec 2023 20:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果正与多家媒体公司商谈价值至少5000万美元的多年期人工智能业务合作协议。]]></title>
+            <guid>3422127</guid>
+            <pubDate>Fri, 22 Dec 2023 20:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周五（12月22日）纽约尾盘，美国10年期基准国债收益率上涨0.69个基点，报3.8950%，盘中交投于3.8466%-3.9193%区间。两年期美债收益率跌2.43个基点，报4.3231%，盘中交投于4.3083%-4.3718%区间。20年期美债收益率涨1.32个基点，30年期美债收益率涨1.90个基点。三年期美债收益率跌2.09个基点，五年期美债收益率跌0.28个基点，七年期美债收益率涨0.95个基点。三个月期国库券/10年期美债收益率利差跌0.30个基点，报-149.728个基点。 02/10年期美债收益率利差涨3.113个基点，报-43.024个基点。]]></title>
             <guid>3422117</guid>
@@ -45,7 +56,7 @@
             <pubDate>Fri, 22 Dec 2023 19:47:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国最高法院拒绝快速裁定特朗普是否有绝对豁免权。]]></title>
+            <title><![CDATA[【美最高法院拒绝立即就特朗普是否享有广泛豁免权做出裁决】美国最高法院当地时间12月22日表示，为暂时避免引发政治风波，不会立即就前总统特朗普在“涉嫌推翻2020年大选结果”一案中是否享有广泛豁免权的问题做出裁决。由于最高法院拒绝介入，美国哥伦比亚特区联邦巡回上诉法院将首先审理此问题，并定于2024年1月9日听取口头辩论。]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-23/detail-imzyxtxi3412551.d.html</link>
             <guid>3422104</guid>
             <pubDate>Fri, 22 Dec 2023 19:34:17 GMT</pubDate>
@@ -323,23 +334,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyxiip3647527.d.html</link>
             <guid>3422020</guid>
             <pubDate>Fri, 22 Dec 2023 15:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃省积石山县中小学开始有序复课】为尽快恢复生产生活秩序，减少地震对教育教学工作的影响，甘肃省积石山县教育部门按照“线上线下相结合”和“一校一策”原则，积极安排复课、返校工作。目前，当地中小学复课工作已经展开。据了解，积石山6.2级地震造成全县学校不同程度受损，部分学校损毁严重。为确保师生生命财产安全，12月19日全县所有学校暂时停课。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyxiit6198835.d.html</link>
-            <guid>3422018</guid>
-            <pubDate>Fri, 22 Dec 2023 15:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问布雷纳德：拜登政府正在密切关注美国的钢铁行业，希望该行业能够蓬勃发展。]]></title>
-            <guid>3422016</guid>
-            <pubDate>Fri, 22 Dec 2023 15:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其主要股指收盘下跌2.7%，本周累计下跌5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyxiit6197569.d.html</link>
-            <guid>3422013</guid>
-            <pubDate>Fri, 22 Dec 2023 15:12:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
