@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 31 Dec 2023 16:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 17:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国一汽宣布，一汽丰田2023零售销量800018辆，同比增长4.1%；红旗品牌零售销量突破370000辆，同比增长29.5%。]]></title>
+            <guid>3432312</guid>
+            <pubDate>Sun, 31 Dec 2023 16:32:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[贵州习酒2024年新年贺词（习酒融媒体中心）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzxtkq0900277.d.html</link>
@@ -382,18 +387,6 @@
             <title><![CDATA[市场消息：United Electronics（联电）拟对其子公司联合国际控股公司进行首次公开募股。]]></title>
             <guid>3432211</guid>
             <pubDate>Sun, 31 Dec 2023 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【元旦假期首日 海口海关共监管离岛免税销售金额1.82亿元】据海口海关消息，2024年元旦假期第一天，即2023年12月30日，海口海关共监管离岛免税销售金额1.82亿元，比2023年元旦假期首日（下同）增长6.8%；免税购物人数2.66万人次，比2023年元旦同期增长32.8%；人均消费6843元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzwwey1328825.d.html</link>
-            <guid>3432208</guid>
-            <pubDate>Sun, 31 Dec 2023 06:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长称塞首都骚乱是“又一次非法夺权企图”：俄随时准备伸出援助之手】“西方对武契奇在选举中获胜感到不满——拉夫罗夫”。俄罗斯卫星通讯社12月31日刊出对拉夫罗夫的采访报道称，这位俄罗斯外交部长表示，西方国家不愿意接受塞尔维亚的选举结果，也不愿意接受公众对总统武契奇的支持，这促使贝尔格莱德发生又一次企图非法夺权的事件，而“莫斯科随时准备向塞尔维亚伙伴伸出援助之手”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzwwex3547917.d.html</link>
-            <guid>3432207</guid>
-            <pubDate>Sun, 31 Dec 2023 06:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
