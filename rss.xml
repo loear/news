@@ -4,7 +4,7 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 01 Jan 2024 17:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 18:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -369,12 +369,6 @@
             <title><![CDATA[日本气象厅官员：这次地震在石川县能登半岛地区的震级为7.6，是自1885年有数据记录以来该地区最大的地震。]]></title>
             <guid>3433104</guid>
             <pubDate>Mon, 01 Jan 2024 10:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《一闪一闪亮星星》票房破6亿】据猫眼专业版数据，电影《一闪一闪亮星星》上映3天，总票房破6亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991818.d.html</link>
-            <guid>3433101</guid>
-            <pubDate>Mon, 01 Jan 2024 10:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
