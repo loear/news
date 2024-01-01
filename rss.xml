@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 01 Jan 2024 16:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 17:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加沙地带卫生部门：本轮巴以冲突已致加沙地带超2.19万人死亡】加沙地带卫生部门1月1日发表声明称，自2023年10月7日本轮巴以冲突爆发以来，已有至少21978名巴勒斯坦人在以色列对加沙地带发动的军事行动中死亡，另有56697人受伤。声明表示，在过去的24小时内，有156名巴勒斯坦人死亡，246人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaart8983235.d.html</link>
+            <guid>3433206</guid>
+            <pubDate>Mon, 01 Jan 2024 16:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员表示，以色列决定从加沙撤出部分军队似乎是北部地区“逐渐转向低强度行动”的开始。]]></title>
+            <guid>3433205</guid>
+            <pubDate>Mon, 01 Jan 2024 16:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄州长：乌军12月30日袭击别尔哥罗德市造成的遇难人数增至25人】据俄罗斯卫星通讯社报道，俄罗斯别尔哥罗德州州长格拉德科夫表示，乌军12月30日袭击别尔哥罗德市造成的遇难人数增至25人，一名4岁女孩受到严重的复合伤，在医院因伤势过重医治无效死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaarm9654510.d.html</link>
+            <guid>3433204</guid>
+            <pubDate>Mon, 01 Jan 2024 16:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国政府：美国取暖需求较正常值低31 HDD】 据美国国家海洋和大气管理局（NOAA）下辖全美气象服务部门根据人口加权预测和已发布长期均值数据，预计美国至1月6日当周的采暖度日数（HDD）将比历年同期长期正常水平低31 HDD。预计本周HDD为174 HDD，正常值为205 HDD；上周实际值为147 HDD。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaarm9652965.d.html</link>
@@ -358,22 +375,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991818.d.html</link>
             <guid>3433101</guid>
             <pubDate>Mon, 01 Jan 2024 10:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本能登地区地震已致至少2人受伤 暂无中国公民伤亡报告】根据目前日本媒体报道，日本石川县能登地区地震已经造成至少2人受伤。根据中国驻大阪总领馆的消息，目前暂无中国公民在此次地震中伤亡的报告。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmty6472508.d.html</link>
-            <guid>3433099</guid>
-            <pubDate>Mon, 01 Jan 2024 10:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：接到有关地震导致6人被埋的报告。]]></title>
-            <guid>3433098</guid>
-            <pubDate>Mon, 01 Jan 2024 10:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：迄今为止，地方政府尚未提出向地震灾区派遣自卫队的请求。]]></title>
-            <guid>3433097</guid>
-            <pubDate>Mon, 01 Jan 2024 10:09:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
