@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 07 Jan 2024 21:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 22:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【3天10单 境外上市备案新年迎“小高潮”】开年首周，多家拟境外上市的企业密集获得备案通知，3天内就有10家完成备案。1月4日，证监会公布了武汉有机、雷神能源、因立夫三家企业获备案的消息，3日还有智慧物流、嘉德有限，2日则有拜尔德医疗、中赣通信、中驰车福、马泷医疗、百望股份。“目前境外上市保持大约每周办结4家以上企业备案的节奏。”行业人士表示，当前境外上市备案效率不断提升，有利于市场形成稳定预期。数据显示，截至2023年底，证监会共办结72家企业赴境外首发上市备案申请，其中26家企业拟赴美国上市，46家企业拟赴中国香港上市，涵盖直接境外上市、SPAC借壳上市、搭建协议控制（VIE）架构等多种类型。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatzvp9107471.d.html</link>
+            <guid>3440839</guid>
+            <pubDate>Sun, 07 Jan 2024 21:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：目前尚无美国国防部长奥斯汀出院的具体日期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatzvp9107301.d.html</link>
+            <guid>3440838</guid>
+            <pubDate>Sun, 07 Jan 2024 21:28:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国务卿布林肯：将继续捍卫红海海域安全】在卡塔尔多哈举行的新闻发布会上，美国国务卿布林肯表示，当前是加沙地区紧张局势的重要时刻，冲突很容易扩散。加沙援助物资到达目的地的障碍仍然过高。布林肯称，本周在以色列，其将强调更多地采取行动以防止平民伤亡的必要性。布林肯还表示，“在胡塞武装因袭击红海航运后，我们将继续捍卫该地区的海上安全”。卡塔尔首相表示，周二高级哈马斯官员被杀事件对卡塔尔在哈马斯和以色列之间的谈判努力产生了影响，但卡塔尔仍在继续谈判。红海上的敌对行动“不可接受”，是加沙战争的不幸结果。]]></title>
             <guid>3440835</guid>
@@ -411,53 +423,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyix0090050.d.html</link>
             <guid>3440743</guid>
             <pubDate>Sun, 07 Jan 2024 10:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东宏大：预计未来海外矿服业务会进一步扩大】公司紧跟产业政策，持续加大重要地区市场投入，如西藏、新疆、海外市场等。公司2023年上半年西北地区营收8.63亿元，较去年同期同比增长46.34%；境外地区营收3.92亿元，较去年同期同比增长40.38%。同时，公司将加快国际化业务布局，聚焦“一带一路”沿线国家，加大设备、人力等资源投入，预计未来海外矿服业务会进一步扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyix0089662.d.html</link>
-            <guid>3440742</guid>
-            <pubDate>Sun, 07 Jan 2024 10:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳芯微：功能安全主驱隔离驱动产品预计2024年量产推向市场】带保护功能的隔离驱动产品已经在部分新能源车客户主驱应用中实现量产，并已经在2023年产生不错的营收增量贡献，功能安全主驱隔离驱动产品预计2024年量产推向市场，另外隔离驱动产品也在逐步替代光耦驱动，应用于光伏逆变器和工业电机驱动上，部分头部客户正逐步进行替代，并且不断提升份额，这也是隔离领域的增长点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiu0364136.d.html</link>
-            <guid>3440741</guid>
-            <pubDate>Sun, 07 Jan 2024 10:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安琪酵母：如果玉米等原料价格持续下跌，将有利于公司2024年生产经营及公司总体的成本节约】对于酵母抽提物业务，公司认为需要根据不同市场结合整体的经济环境进行判断，基于海外市场对于酵母抽提物的需求比较大，海外市场将会是公司酵母抽提物业务的主要增长点。如果玉米等原料的价格持续下跌，那么水解糖的成本也是一个持续降低的趋势，这也将有利于公司2024年生产经营及公司总体的成本节约。]]></title>
-            <guid>3440740</guid>
-            <pubDate>Sun, 07 Jan 2024 10:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孟加拉国大选投票结束 进入计票阶段】当地时间7日16时，孟加拉国第12届国民议会选举投票结束，并同时转入计票阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiy6866618.d.html</link>
-            <guid>3440739</guid>
-            <pubDate>Sun, 07 Jan 2024 10:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰基辅拉响防空警报】 当地时间1月7日，乌克兰首都基辅先后两次拉响防空警报。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiu0364001.d.html</link>
-            <guid>3440738</guid>
-            <pubDate>Sun, 07 Jan 2024 10:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澜起科技：正式推出DDR5第四子代RCD芯片，相关工程样片已送样给主要内存厂商】产业化角度来看，DDR5内存接口芯片的子代迭代已正式开启，其迭代速度较DDR4世代明显加快。2023年第三季度，公司DDR5第一子代RCD芯片需求量持续提升，第二子代RCD芯片开始规模出货，第三子代RCD芯片已于10月在业界率先试产。2024年1月，公司正式推出DDR5第四子代RCD芯片，相关工程样片已送样给主要内存厂商，助力客户进行新一代内存产品研发。DDR5内存接口芯片子代迭代加快将有利于公司维系相关产品的平均销售单价和毛利率在较高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiy6866346.d.html</link>
-            <guid>3440737</guid>
-            <pubDate>Sun, 07 Jan 2024 10:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞联新材：公司预计今年将向思摩威提供TFE-INK的原材料单体】TFE-INK材料是公司投资的西安思摩威新材料有限公司所生产的产品，目前这个产品已通过TCL华星及其他终端品牌商验证，公司预计今年将向思摩威提供TFE-INK的原材料单体。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiu0363539.d.html</link>
-            <guid>3440736</guid>
-            <pubDate>Sun, 07 Jan 2024 10:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024年全国文化和旅游厅局长会议在京召开】1月3日至4日，2024年全国文化和旅游厅局长会议在京召开。会议强调，要立足提升效能，推动城乡公共文化服务体系一体建设、高效运转。要坚持守正创新，深化考古发掘研究和文物保护利用。要提升传承水平，做好非物质文化遗产系统性保护。要着力提质增效，以创新、融合培育文化产业发展新动能。要释放政策红利，延续旅游业恢复发展、高质量发展良好态势。要统筹培育监管，推动文化和旅游市场繁荣兴旺、安全有序。要深化务实合作，推动文化交流和旅游推广同向发力、形成合力。（文旅之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiz9690743.d.html</link>
-            <guid>3440735</guid>
-            <pubDate>Sun, 07 Jan 2024 10:24:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
