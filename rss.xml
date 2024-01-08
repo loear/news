@@ -4,11 +4,60 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 08 Jan 2024 16:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）表示波音737 MAX 9飞机将继续停飞，直到运营商完成加强检查，包括左右舱门出口插头、门组件和紧固件。]]></title>
+            <guid>3442339</guid>
+            <pubDate>Mon, 08 Jan 2024 17:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统府爱丽舍宫：法国总理博尔内辞职，将担任看守职务，直到新政府组建。法国总统马克龙感谢博尔内的工作。]]></title>
+            <guid>3442338</guid>
+            <pubDate>Mon, 08 Jan 2024 17:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩看守政府总理：正通过外交手段解决黎以临时边界面临的问题】据黎巴嫩国家通讯社报道，当地时间1月8日，黎看守政府总理米卡提在接受媒体采访时表示，黎巴嫩正在努力寻求外交方案，以解决当前黎以临时边界面临的问题，该方案或许能与制止以色列在加沙地带的军事行动联系起来。对于媒体报道称有提议建议德国在黎以临时边界部署军队，米卡提表示，德国外长将于9日访问黎巴嫩，目前黎巴嫩方面没有收到相关提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-09/detail-inaavynr8192679.d.html</link>
+            <guid>3442337</guid>
+            <pubDate>Mon, 08 Jan 2024 17:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财险公司分支机构去年净增55家，扭转净退出态势】持续3年的保险公司分支机构净退出态势出现了一些新变化：去年，虽然人身险公司分支机构仍然保持净退出态势，但财险公司分支机构扭转了净退出态势，全年净增加分支机构55家。业内人士认为，保险公司分支机构的新设与退出既与行业发展有密切关系，也受到科技、互联网等因素的影响。随着“清虚”工作的推进，预计2024年保险公司分支机构的增减会进入到相对平稳的状态。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-09/detail-inaavynr8192403.d.html</link>
+            <guid>3442335</guid>
+            <pubDate>Mon, 08 Jan 2024 17:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达宣布：理想汽车（Li Auto）选择NVIDIA Drive Thor为集中式车载计算机，以支持人工智能（AI）驱动的系统。]]></title>
+            <guid>3442331</guid>
+            <pubDate>Mon, 08 Jan 2024 16:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达推出新芯片，宣称在人工智能PC竞赛中处于领先地位】英伟达(NVDA.O)在国际消费电子展（CES）的演讲中宣布推出三款带有额外组件的新型桌面图形芯片，这将让游戏玩家、设计师和其他电脑用户在个人电脑上更好地利用人工智能，而无需依赖通过互联网访问的远程服务。英伟达现在声称，它的图形芯片是驱动新型笔记本电脑和台式电脑的最佳引擎。三款新的芯片包括GeForce RTX 4080 SUPER，将拥有更多的处理内核和更快的内存。这款产品计划于1月31日上市，售价999美元。该公司还发布了售价为799美元的RTX 4070 Ti SUPER和售价为599美元的4070 SUPER，这两款芯片将于本月晚些时候上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-09/detail-inaavynr8189970.d.html</link>
+            <guid>3442328</guid>
+            <pubDate>Mon, 08 Jan 2024 16:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴克莱在2023年裁员大约5000人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-09/detail-inaavyns5970258.d.html</link>
+            <guid>3442327</guid>
+            <pubDate>Mon, 08 Jan 2024 16:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：01月09日00时22分在四川凉山州盐源县附近（北纬27.56度，东经100.94度）发生3.0级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3442322</guid>
+            <pubDate>Mon, 08 Jan 2024 16:26:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音(BA.N)商用飞机负责人：波音已向航空公司发送MAX 9检查指示，并将于周一上午在雷顿工厂进行“短期停工”。]]></title>
+            <guid>3442321</guid>
+            <pubDate>Mon, 08 Jan 2024 16:26:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音(BA.N)：公司CEO卡尔霍恩将于1月9日举行有关安全的网络直播。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-09/detail-inaavyns5969060.d.html</link>
@@ -243,84 +292,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavuet8296306.d.html</link>
             <guid>3442238</guid>
             <pubDate>Mon, 08 Jan 2024 14:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：促进新一代信息技术、先进制造技术、安全绿色技术与交通运输融合发展】上海市委副书记、市长龚正今天（8日）主持召开市政府常务会议，会议原则同意《上海市交通领域科技创新发展行动计划》并指出，要推动交通数字化、智能化、绿色化发展，坚持以科技创新为引领，带动行业和产业的整体转型升级。要着力提升交通科技创新能力，加大交通科技创新投入和人才培养力度，加强前瞻性、长期性、基础性研究布局和行业关键核心技术攻关，促进新一代信息技术、先进制造技术、安全绿色技术与交通运输融合发展。深入推动科技交通场景应用，用好海量数据和丰富场景等优势，进一步加强科研方向与应用需求的精准对接，推动更多交通领域的技术创新和成果转化，以高水平科技供给支撑交通运输高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwz5912426.d.html</link>
-            <guid>3442236</guid>
-            <pubDate>Mon, 08 Jan 2024 13:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【徐工机械：目前欧美区域销售收入占公司整体出口收入比例约10%】徐工机械近期在接受调研时表示，目前欧美区域销售收入占公司整体出口收入比例约10%。未来公司将继续着眼欧美市场，欧美市场保有量大，而公司在欧美的占有率还比较低，有巨大的成长空间，近两年已经在欧美市场完善布局，连续大幅增长，产品型谱和渠道布局逐步完善和加强，公司认为近期欧美市场还是主要的增量市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwz5912146.d.html</link>
-            <guid>3442235</guid>
-            <pubDate>Mon, 08 Jan 2024 13:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汇创达：已有MiniLED背光模组订单正式交付】汇创达在接受调研时表示，公司已有MiniLED背光模组订单正式交付，比如戴尔在2023年发布的高端产品线就采用了MiniLED背光模组，但目前销售占比较小，处于市场开拓阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpww6206435.d.html</link>
-            <guid>3442234</guid>
-            <pubDate>Mon, 08 Jan 2024 13:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【物产金轮：目前公司纺织梳理器材产品出口占比不足10%，在海外市场占有率较低】物产金轮近期在接受调研时表示，目前公司纺织梳理器材产品出口占比不足10%，在海外市场占有率较低，未来，公司将大力拓展海外销售渠道，努力提高出口业务销售占比。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwx9134282.d.html</link>
-            <guid>3442232</guid>
-            <pubDate>Mon, 08 Jan 2024 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亚马逊(AMZN.O)推出健康状况项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwv8424678.d.html</link>
-            <guid>3442229</guid>
-            <pubDate>Mon, 08 Jan 2024 13:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天富能源：拟以2000万元-3000万元回购公司股份】天富能源公告，拟以2000万元-3000万元回购公司股份，回购价格不超过9.00元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwx9133947.d.html</link>
-            <guid>3442228</guid>
-            <pubDate>Mon, 08 Jan 2024 13:48:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗安全部队在该国东南部开展的行动中打死一名恐怖组织成员】当地时间1月8日，伊朗安全部队在该国东南部锡斯坦-俾路支斯坦省的班普尔市进行反恐行动，在交火中打死一名恐怖组织成员。据了解，该恐怖分子曾参与此前在当地发生的恐袭事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwz5910418.d.html</link>
-            <guid>3442226</guid>
-            <pubDate>Mon, 08 Jan 2024 13:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【默克宣布将收购Harpoon Therapeutics】默克和Harpoon Therapeutics, Inc.1月8日宣布，两家公司已经达成一项最终协议，根据协议，默克将以每股23美元的现金收购Harpoon Therapeutics，总股本价值约为6.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwz5909936.d.html</link>
-            <guid>3442225</guid>
-            <pubDate>Mon, 08 Jan 2024 13:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中科信息：智能麻醉辅助系统（智能麻醉机器人）现已完成大动物试验，处于研发过程中】目前，智能装载机器人（一期），已经顺利通过验收；现在正在推进智能装载机器人（二期）、智能铺路机器人的研发。公司在与华西医院战略合作十余年的基础上，自主研发的、应用于临床医疗的智能麻醉辅助系统（智能麻醉机器人）现已完成大动物试验，还处于研发过程中，暂未形成业务收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpww6204071.d.html</link>
-            <guid>3442224</guid>
-            <pubDate>Mon, 08 Jan 2024 13:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区政府正式推出“新型工业化资助计划”，参与企业最多可获4500万港元资助】1月8日，在香港生产力促进局（下称“生产力局”）举行的“香港有工业·重要伙伴起动大会”上，香港创新科技及工业局局长孙东公布，香港特区政府正式推出“新型工业化资助计划”优化措施，参与计划的企业可以同时进行最多三个项目，获取最多4500万港元资助。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwv8423356.d.html</link>
-            <guid>3442223</guid>
-            <pubDate>Mon, 08 Jan 2024 13:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市政府常务会议研究部署 以高质量的服务业赋能上海“五个中心”建设】上海市委副书记、市长龚正今天（8日）主持召开市政府常务会议，会议审议《上海市服务业发展“十四五”规划》中期评估情况并指出，要进一步推动现代服务业与先进制造业深度融合，以高质量的服务业赋能上海“五个中心”建设。要推动服务业能级提档升级，聚焦最关键的功能、最突出的短板持续发力，着力提升金融服务能级，发展贸易新业态，培育高端航运服务品牌，促进科技服务业发展。要推动服务业结构提速优化，加快生产性服务业、专业服务业等新兴服务业领域发展。要推动服务业要素提质增效，积极引进世界一流服务机构，支持引导本土机构专业化、国际化发展，努力培育一批总部在上海的全球性服务机构，着力打造全球服务业人才集聚高地，关心关爱各类城市建设者、管理者、服务者。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwx9132566.d.html</link>
-            <guid>3442222</guid>
-            <pubDate>Mon, 08 Jan 2024 13:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁省推动促进职业足球俱乐部改革发展】据辽宁省政府新闻办8日召开的新闻发布会消息，辽宁省委、省政府提出将足球改革振兴作为体育强省建设和打造高品质文体旅融合发展示范地的重要举措，加强对足球工作的统筹协调，推动新时代辽宁足球重塑辉煌。(中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwz5909417.d.html</link>
-            <guid>3442219</guid>
-            <pubDate>Mon, 08 Jan 2024 13:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团香港业务KeeTa 12月份市占升至37%】12月份，美团旗下KeeTa在香港（所覆盖区域）市占已达37%，第一名Foodpanda为42%，第三名Deliveroo市占为20%。记者了解到，KeeTa与竞争对手在整体市占上的差距，主要来自竞对的自提和生鲜配送服务，KeeTa暂未提供类似服务。这些服务占其两个竞争对手总订单的三分之一以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaavpwv8422102.d.html</link>
-            <guid>3442217</guid>
-            <pubDate>Mon, 08 Jan 2024 13:36:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
