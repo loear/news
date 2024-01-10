@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 Jan 2024 21:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 22:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伯克希尔·哈撒韦报告持有西方石油(OXY.N)34%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacaxhk3570553.d.html</link>
+            <guid>3445306</guid>
+            <pubDate>Wed, 10 Jan 2024 21:39:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【芬兰计划将芬俄边境关闭时间再延长一个月】据《赫尔辛基日报》（Helsingin Sanomat）援引芬兰政府消息人士的话报道，该国计划将芬俄边境关闭时间再延长一个月。报道称：“预计，会将口岸关闭时间再延长一个月。1月11日，政府仍有可能会修改关闭时间。政府消息人士表示，做出这一决定不存在任何政治或法律障碍。”]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacaxhk3568284.d.html</link>
@@ -116,81 +122,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasyn3690060.d.html</link>
             <guid>3445223</guid>
             <pubDate>Wed, 10 Jan 2024 18:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空公司称，因厄瓜多尔局势动荡，取消了周三（1月10日）飞往该国的航班，面向该国的航空服务将在周四有限度恢复。]]></title>
-            <guid>3445221</guid>
-            <pubDate>Wed, 10 Jan 2024 18:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人形机器人临近量产节点，“头雁”企业引领产业链快速发展】据不完全统计，开年以来截至1月10日，券商累计发布关于人形机器人的行业研报26篇，二级市场上相关概念股也受到资金热捧。中国信息协会常务理事朱克力认为：“在人形机器人从实验阶段迈向量产的关键节点，产业链‘头雁’加速布局，将产生显著的规模效应和示范效应，带动上下游企业协同发展，提升整个产业链竞争力，推动行业进入快速发展轨道。”（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasym5909287.d.html</link>
-            <guid>3445220</guid>
-            <pubDate>Wed, 10 Jan 2024 18:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新年机构调研忙，电子行业受青睐】同花顺iFinD数据显示，截至1月10日收盘，月内共有225家A股上市公司获得基金公司、证券公司等机构调研。按照申银万国行业分类，被调研公司主要集中在电子等行业。具体来看，在上述225家被调研公司中，乐歌股份被高达253家机构集中调研，暂居第一位。利安隆、香飘飘、奥比中光、英杰电气等9家公司获得机构调研家数也均在100家及以上。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasyn3689925.d.html</link>
-            <guid>3445219</guid>
-            <pubDate>Wed, 10 Jan 2024 18:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[软件公司思爱普(SAP)将支付2.2亿美元以了结美国司法部和美国证交会针对该公司的贿赂调查。]]></title>
-            <guid>3445218</guid>
-            <pubDate>Wed, 10 Jan 2024 18:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胡塞武装称将继续袭击以色列相关目标 指责美国企图将红海军事化】当地时间10日晚上，也门胡塞武装发言人、首席谈判代表穆罕默德·阿卜杜·萨拉姆发表声明称，目前红海和阿拉伯海的航道是安全的，美国称相关海域受到威胁是在误导世界，企图将红海军事化，胡塞武装的袭击仅针对以色列相关目标。穆罕默德还表示，胡塞武装将继续针对以色列船只和前往以色列港口船只的袭击，直到以色列停止针对加沙地带的军事行动并解除封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasyn3688802.d.html</link>
-            <guid>3445215</guid>
-            <pubDate>Wed, 10 Jan 2024 18:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI推出在线商店GPT Store】OpenAI推出了一个名为GPT Store的在线商店，人们可以在那里分享该公司广受欢迎的聊天机器人ChatGPT的定制版本。由于去年的领导层变动，该商店最初推迟了推出。这家新商店将于周三向付费ChatGPT用户开放，它将收集用户为各种任务创建的聊天机器人，例如，ChatGPT的一个版本可以教孩子数学，或者想出五颜六色的鸡尾酒食谱。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasyn3688457.d.html</link>
-            <guid>3445214</guid>
-            <pubDate>Wed, 10 Jan 2024 18:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯方面拒绝布林肯访问加沙地带】据半岛电视台10日报道，巴勒斯坦伊斯兰抵抗运动（哈马斯）官员萨米·阿布·祖赫里表示，美国国务卿布林肯对约旦河西岸城市拉姆安拉和以色列的访问，表明美国的立场没有根本改变，哈马斯拒绝布林肯访问加沙地带。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacasyn3688369.d.html</link>
-            <guid>3445213</guid>
-            <pubDate>Wed, 10 Jan 2024 18:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音CEO表示，阿拉斯加航空客机发生的事故是由质量缺陷引起的。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacanst3525636.d.html</link>
-            <guid>3445210</guid>
-            <pubDate>Wed, 10 Jan 2024 18:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔总统：国家正处在“战争状态”】厄瓜多尔总统诺沃亚10日在首都基多表示，厄瓜多尔正处在“战争状态”，国家将采取特别手段予以应对。诺沃亚当天在接受当地媒体采访时说：“我们正面临非国际性武装冲突，我们在为国家和平而战，也在与超过两万人组成的恐怖主义团伙做斗争。”他表示，处在“战争状态”和面对恐怖分子时，国家将采取特别手段予以应对。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacansp6037563.d.html</link>
-            <guid>3445208</guid>
-            <pubDate>Wed, 10 Jan 2024 18:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国阿拉斯加航空公司将停飞所有波音737 MAX-9型客机直至1月13日。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacanst3525087.d.html</link>
-            <guid>3445207</guid>
-            <pubDate>Wed, 10 Jan 2024 18:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌称，由Gen AI提供支持的Document AI自定义提取器现已正式推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacansq3817641.d.html</link>
-            <guid>3445203</guid>
-            <pubDate>Wed, 10 Jan 2024 18:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：波音(BA.N) CEO希望了解导致737 MAX 9出现错误的故障细节。]]></title>
-            <guid>3445202</guid>
-            <pubDate>Wed, 10 Jan 2024 18:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌总统签署法令免除部分军事设备的增值税及进口关税】乌克兰国家通讯社10日报道，乌总统泽连斯基签署了法令，免除雷达系统、电子战设备和防弹衣元件的增值税以及进口关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-11/detail-inacansp6036550.d.html</link>
-            <guid>3445199</guid>
-            <pubDate>Wed, 10 Jan 2024 18:01:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
