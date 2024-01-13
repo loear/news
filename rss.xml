@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 13 Jan 2024 18:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 19:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西圣保罗州暴雨导致2人死亡 多个航班被取消】本周以来，强降雨天气席卷巴西圣保罗州，导致该州多地发生山体滑坡、街道被淹和社区断电情况。当地时间1月13日凌晨，受多日强降雨影响，巴西东南部圣保罗州的茹基蒂巴市洪水泛滥，一辆卡车在行驶过程中被洪水卷入溪流并翻车，造成1名乘客死亡。12日晚，在该州的圣贝尔纳多杜坎波市，暴雨引起的山体滑坡击垮了一间民房，导致屋内一男子身亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmkcs7525823.d.html</link>
+            <guid>3449334</guid>
+            <pubDate>Sat, 13 Jan 2024 18:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌总统泽连斯基会见法国外交部长】乌克兰总统泽连斯基13日在社交媒体上发布，当天在首都基辅会见了到访的法国外交部长塞茹尔内。泽连斯基表示，双方当天就联合生产无人机、弹药以及进一步加强防空等防务需求进行了会谈，并向塞茹尔内通报了和平方案的情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmkcs7525699.d.html</link>
+            <guid>3449333</guid>
+            <pubDate>Sat, 13 Jan 2024 18:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【坦桑尼亚一金矿坍塌至少21人死亡】坦桑尼亚地方官员13日说，该国北部锡米尤地区一座金矿当天在遭遇暴雨后发生坍塌，造成至少21名矿工死亡、多人失踪。锡米尤地区专员叶海亚·纳万达13日晚在接受采访时说，该金矿当天5时左右发生坍塌，遇难者大部分是25至35岁的年轻人。由于强降雨仍在持续，救援工作遇阻暂停。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmkcs7523872.d.html</link>
@@ -482,12 +494,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacknxx0548401.d.html</link>
             <guid>3449235</guid>
             <pubDate>Sat, 13 Jan 2024 09:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本首相岸田文雄将于周日访问受地震影响的石川县。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacknxv3770847.d.html</link>
-            <guid>3449234</guid>
-            <pubDate>Sat, 13 Jan 2024 09:10:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
