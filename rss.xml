@@ -4,22 +4,21 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 14 Jan 2024 16:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[据也门胡塞武装控制的马西拉电视台14日报道，美国和英国当天对也门红海城市荷台达发动空袭。（新华社）]]></title>
+            <guid>3450232</guid>
+            <pubDate>Sun, 14 Jan 2024 17:12:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【伊拉克伊斯兰最高委员会主席与伊库区主席重申支持国际联盟撤离伊拉克】据伊拉克伊斯兰最高委员会当地时间1月14日声明，该委员会主席哈穆迪当天在巴格达与伊拉克库尔德自治区（库区）主席内奇尔万·巴尔扎尼举行会晤，双方就该国政治、安全局势发展等议题举行磋商。声明指出，双方在会上讨论了以美国为首的国际联盟在伊存在问题，哈穆迪认为，国际联盟在伊拉克存在使外方对伊投资进一步疏远，并强调了在2024年年内敦促国际联盟撤离伊拉克的必要性。巴尔扎尼对此表示肯定，并强调伊库区将支持巴格达中央政府终止国际联盟在伊存在的相关决定。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppar8618494.d.html</link>
             <guid>3450231</guid>
             <pubDate>Sun, 14 Jan 2024 16:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【饿了么辟谣抖音仍在洽购】针对字节仍在洽购饿了么一事，饿了么向新浪科技坚决否认了相关传言，表示“完全没有的事，完全是谣言”。此前据《财经十一人》，多位知情人士表示，字节与阿里接触，洽购饿了么，此收购案仍在谈判过程中，尚未有最终结果。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacppas6395179.d.html</link>
-            <guid>3450227</guid>
-            <pubDate>Sun, 14 Jan 2024 15:53:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【被伊朗扣押油轮所属公司表示该船船员目前平安】被伊朗扣押的“圣尼古拉斯”号油轮所属公司希腊帝国航运公司当地时间1月14日向总台记者表示，他们通过当地机构与伊朗当局成功建立联系，涉事油轮上的所有船员目前均平安，且健康状况良好。该公司已于1月13日起向船员家属提供心理健康支持和帮助。 (央视新闻)]]></title>
@@ -459,11 +458,6 @@
             <title><![CDATA[预算草案显示，假设激烈的军事冲突在第一季度结束，预计以色列与哈马斯之间的冲突对财政的影响在2023-2024年将达到1500亿谢克尔。]]></title>
             <guid>3450029</guid>
             <pubDate>Sun, 14 Jan 2024 09:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据修订后的战时预算草案，以色列2024年的预算赤字上限将从占GDP的2.25%提高到6.6%。]]></title>
-            <guid>3450028</guid>
-            <pubDate>Sun, 14 Jan 2024 09:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
