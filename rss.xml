@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 27 Jan 2024 20:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 21:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【路威酩轩去年销售额同比增长9%，中国再成财报“高亮”部分】1月26日，奢侈品集团路威酩轩（LVMH）公布2023年第四季度及全年业绩报告。财报显示，该集团在去年第四季度营收达239.5亿欧元，同比增长近10%，高于分析师预期的9%。值得注意的是，去年10月，路威酩轩三季度业绩出炉后曾引来业界的广泛讨论。彼时，该集团199.6亿欧元的营收，不及分析师预期的210亿欧元。此外，三季度的营收增速为9%，远低于一、二季度的17%，这也被认为是奢侈品行业“降温”的信号之一。（新京报）]]></title>
+            <guid>3469858</guid>
+            <pubDate>Sat, 27 Jan 2024 20:49:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中信证券：如何看待美国经济韧性超预期与降息预期前移？】中信证券发布研究报告称，美国2023年四季度GDP增速超预期，显示美国经济内生动能仍具韧性，但趋势仍在缓慢下行。其中，居民消费需求保持旺盛，服务消费强于商品消费；库存变动下降较大致私人投资需求降温，固定投资需求增速进一步下滑。该行预计美国经济内生动能将在2024年上半年温和走弱，首次降息或在年中前后，GDP公布后的降息预期前移或与通胀降温、经济内生动能继续放缓有关。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvt2618847.d.html</link>
@@ -457,17 +462,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyhrz6289738.d.html</link>
             <guid>3469469</guid>
             <pubDate>Sat, 27 Jan 2024 09:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国海事安全公司Ambrey：一艘散货船报告说，在阿曼塞拉莱东南700米处有一艘可疑船只靠近。]]></title>
-            <guid>3469468</guid>
-            <pubDate>Sat, 27 Jan 2024 09:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大常委会副委员长郝明金率团访问哈萨克斯坦】应哈萨克斯坦议会邀请，全国人大常委会副委员长郝明金1月23日至27日率团访哈。郝明金表示，中哈是亲密友好的邻居、相互信赖的朋友和彼此成就的伙伴。在两国元首战略引领下，中哈建立永久全面战略伙伴关系，率先构建双边命运共同体，树立了邻国友好交往的典范。中国全国人大愿继续加强同哈议会交流合作，落实好两国元首共识，为推动中哈关系发展贡献力量。郝明金还向哈方介绍了中共二十大、中国式现代化、全过程人民民主、共建“一带一路”等情况。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyhrv8860679.d.html</link>
-            <guid>3469467</guid>
-            <pubDate>Sat, 27 Jan 2024 09:12:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
