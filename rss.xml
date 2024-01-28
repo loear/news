@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 28 Jan 2024 17:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 18:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：01月29日02时11分在台湾花莲县附近（北纬23.66度，东经121.32度）发生4.6级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3470555</guid>
+            <pubDate>Sun, 28 Jan 2024 18:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【约旦称美军并非在约旦境内遭袭】约旦政府发言人当地时间28日否认了美国方面所谓的“驻约旦美军遭袭”一事。这名发言人对当地媒体称，袭击并非发生在约旦境内，遭袭的是在叙利亚东南部坦夫地区的美军。据了解，坦夫地区位于叙利亚与约旦和伊拉克接壤的边境地区，美军在这一地区设有训练叙利亚反政府武装的基地。美国总统拜登稍早前发表声明（如图1）称，“驻扎在约旦东北部靠近叙利亚边境地区的美军遭无人机袭击，造成美军3人死亡、多人受伤”。据美国中央司令部声明（如图2），这次发生在当地时间28日的袭击造成美军3人死亡、25人受伤。美国官员称，袭击发生后，“多达34人因可能遭受创伤性脑损伤正接受观察”，“部分伤员已经撤离”。 拜登称，“虽然目前仍在收集袭击相关信息”，但美方“知道本次袭击是由伊拉克、叙利亚境内受伊朗支持的武装组织发动的”，“美方将以自己的方式追究所有责任人的责任”。 对此，目前约伊朗、伊拉克、叙利亚等方面暂无回应。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafchuz8596385.d.html</link>
+            <guid>3470554</guid>
+            <pubDate>Sun, 28 Jan 2024 17:33:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Reddit被建议在IPO中至少要获得50亿美元估值】 美国社交媒体平台Reddit正在研究与众多潜在投资者的初步会议，以获取关于自身IPO的反馈意见。据知情人士透露，众多投资者建议，即便是在估值低于50亿美元的情况下，Reddit也应当考虑公司估值至少为50亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafchuz8592666.d.html</link>
@@ -26,7 +37,8 @@
             <pubDate>Sun, 28 Jan 2024 16:24:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哈马斯媒体办公室28日说，以军过去48小时在加沙地带南部汗尤尼斯打死至少350名巴勒斯坦人。（新华网）]]></title>
+            <title><![CDATA[【以军袭击加沙地带南部和北部 已致24死50伤】当地时间1月28日晚，据巴勒斯坦电视台报道，在过去24小时内，以色列军队对加沙地带南部汗尤尼斯的轰炸已造成24人死亡。此外，以军地面部队当天袭击加沙地带北部加沙城科威特环岛附近地区，导致50人受伤，目前伤者已经被送往希法医院。目前，以色列方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafcany9070653.d.html</link>
             <guid>3470549</guid>
             <pubDate>Sun, 28 Jan 2024 16:05:18 GMT</pubDate>
         </item>
@@ -451,12 +463,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inafarxa4726940.d.html</link>
             <guid>3470394</guid>
             <pubDate>Sun, 28 Jan 2024 10:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：A股市场具备继续修复动能】 中金研报认为，近期政策层面正在发生积极变化，短期流动性风险逐步得到化解，指数具备一定的修复动能，当前机构重仓的成长行业与中小盘风格整体表现偏弱，反映投资者风险偏好仍待修复。结合当前偏低估值所隐含的谨慎预期，以及政策因素积极转变，对后续市场表现不必过于悲观。配置上，短期结合政策变化关注受益领域，注重景气回升和红利资产的攻守结合。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inafarxa4726132.d.html</link>
-            <guid>3470392</guid>
-            <pubDate>Sun, 28 Jan 2024 10:19:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
