@@ -4,13 +4,52 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 01 Feb 2024 16:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 17:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Meta将于今年在数据中心部署新版本的内部定制AI芯片。]]></title>
+            <title><![CDATA[房地美称，美国上周30年期按揭贷款利率降至6.63%，前值6.69%，创2023年10月份以来最大单周升幅。]]></title>
+            <guid>3477488</guid>
+            <pubDate>Thu, 01 Feb 2024 17:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国10年期国债收益率跌1.4个基点，意大利10年期国债收益率跌0.8个基点，西班牙10年期国债收益率跌1.1个基点，希腊10年期国债收益率涨1.3个基点。]]></title>
+            <guid>3477486</guid>
+            <pubDate>Thu, 01 Feb 2024 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通CEO：物联网（IoT）业务处于最低位，预计将增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-02/detail-inafqieq0136890.d.html</link>
+            <guid>3477484</guid>
+            <pubDate>Thu, 01 Feb 2024 16:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其主权财富基金据称将恢复国际债券销售计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-02/detail-inafqies4694075.d.html</link>
+            <guid>3477483</guid>
+            <pubDate>Thu, 01 Feb 2024 16:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Polygon Labs裁员60人 占团队成员19%】Polygon Labs CEO Marc Boiron发文称，已裁员60人，占团队成员19%。Boiron表示：“为了提高公司表现而调整员工规模，而不是出于财务原因，可能看起来不太符合常规。”他还说，“现实情况是，实现我们的使命往往需要做出具有挑战性的决定，虽然困难重重，但创始人和我都认为，我们必须以一种深思熟虑的方式前进，这给了我们最大的成功执行机会。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-02/detail-inafqies4694060.d.html</link>
+            <guid>3477482</guid>
+            <pubDate>Thu, 01 Feb 2024 16:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美批准向印度出售价值39.9亿美元MQ-9B无人机】当地时间2月1日，美国国防部发表声明称，已批准向印度政府出售价值39.9亿美元的MQ-9B无人机及相关设备。美国国防安全合作局当天交付了所需的认证，并通知了国会这一可能的销售。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-02/detail-inafqies4691799.d.html</link>
+            <guid>3477474</guid>
+            <pubDate>Thu, 01 Feb 2024 16:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[输送管道运营商Enterprise Products高级副总裁Tony Chovanec：预计美国石油产量将于2023-25年增长180万桶/日。]]></title>
+            <guid>3477473</guid>
+            <pubDate>Thu, 01 Feb 2024 16:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta今年将部署自研芯片，搭配其他公司的GPU支持AI】Meta Platforms（原Facebook）将于2024年部署新款自研的定制款芯片到旗下数据中心，以支持人工智能（AI）。Meta发言人回应称，这款定制芯片将搭配公司购买的现成GPU发挥作用。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-02/detail-inafqies4690440.d.html</link>
             <guid>3477472</guid>
             <pubDate>Thu, 01 Feb 2024 16:20:36 GMT</pubDate>
@@ -263,70 +302,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawu4801215.d.html</link>
             <guid>3477394</guid>
             <pubDate>Thu, 01 Feb 2024 14:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[心理健康治疗服务公司LifeStance Health Group(LFST.O)美股盘前跳水，跌幅超30%，此前兴登堡称其做空该公司。]]></title>
-            <guid>3477392</guid>
-            <pubDate>Thu, 01 Feb 2024 14:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄副外长：俄方不计划在其他国家部署核武器】据塔斯社报道，当地时间2月1日，俄罗斯外交部副部长里亚布科夫在莫斯科举行的金砖国家谈判代表和副谈判代表会议上表示，俄方并不计划在其他国家部署核武器，同时在将核武器部署到白俄罗斯这一过程中尽到了责任。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawu4797751.d.html</link>
-            <guid>3477390</guid>
-            <pubDate>Thu, 01 Feb 2024 14:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现代汽车1月美国电动汽车销量增长42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawu4797454.d.html</link>
-            <guid>3477389</guid>
-            <pubDate>Thu, 01 Feb 2024 14:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中粮全球供应链布局取得重大突破】中粮集团董事长吕军2月1日在中粮集团2024年工作会议上表示，2023年中粮集团高质量推进战略布局，进一步提升在国内外、上下游、产销区的行业影响力控制力。海外仓储物流业务巴西桑托斯港项目顺利推进，2025年3月一期项目完工后，通过能力由目前的350万吨提高至850万吨，2026年二期项目完工后，通过能力提高至1400万吨。经过多年努力，中粮集团在全球形成油脂加工、糖料加工、乳品加工、小麦加工、饮料加工等5个千万吨级加工能力，全球加工能力超过1.2亿吨，中转能力达7400万吨；目前。中粮集团全球粮食散船物流规模超过5000万吨，国内散粮水运规模近2000万吨。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawv7695708.d.html</link>
-            <guid>3477388</guid>
-            <pubDate>Thu, 01 Feb 2024 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国议会批准有关北爱尔兰宪法地位的立法。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawx4472000.d.html</link>
-            <guid>3477386</guid>
-            <pubDate>Thu, 01 Feb 2024 13:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰称摧毁俄黑海舰队“伊万诺沃人”号导弹艇，俄方暂无回应】乌克兰媒体当地时间2月1日报道称，乌克兰国防部情报总局在社交平台发布消息称，2024年1月31日夜间至2月1日凌晨，乌克兰国防部情报总局第13特种部队士兵摧毁了俄罗斯黑海舰队“伊万诺沃人”号导弹艇，该舰艇船体遭受一系列直接撞击后受损并沉没。乌克兰国防部情报总局同时发布了相关视频。俄罗斯方面对此暂无回应。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqaws0238506.d.html</link>
-            <guid>3477385</guid>
-            <pubDate>Thu, 01 Feb 2024 13:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国近东救济工程处UNRWA表示，如果资金继续中断，该机构将在3月份关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawx4471804.d.html</link>
-            <guid>3477384</guid>
-            <pubDate>Thu, 01 Feb 2024 13:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞丰新材：拟以1.5亿元-3亿元回购公司股份】瑞丰新材公告，拟以1.5亿元-3亿元回购公司股份，回购价格不超过过55.00元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawx4471565.d.html</link>
-            <guid>3477382</guid>
-            <pubDate>Thu, 01 Feb 2024 13:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体称以色列释放部分被扣押的巴勒斯坦人】多家巴勒斯坦媒体当地时间2月1日报道称，以方经以色列与加沙地带之间的凯雷姆沙洛姆口岸释放部分被扣押的巴勒斯坦人。有媒体报道显示，以方此次释放了114名被扣押人员，其中包括4名女性，但报道并未提及释放被扣押人员的具体时间。巴以双方暂未对此消息做出回应。（央视新闻）]]></title>
-            <guid>3477381</guid>
-            <pubDate>Thu, 01 Feb 2024 13:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其外长和瑞典外交大臣通电话 讨论瑞典“入约”进程】据土耳其外交消息人士透露，当地时间2月1日，土耳其外长哈坎·菲丹和瑞典外交大臣托比亚斯·比尔斯特伦通电话。会议期间双方讨论了瑞典加入北约进程，土耳其、芬兰、瑞典常设联合机制后续会议的筹备工作以及土耳其与欧盟关系等问题。瑞典和芬兰2022年5月同时申请加入北约。按照规程，北约所有成员国必须一致同意才能吸收新成员。芬兰已于去年4月正式获准加入北约。今年1月25日，在土耳其大国民议会通过关于瑞典加入北约议定书议案后，土耳其总统埃尔多安签署总统令，土耳其正式批准瑞典加入北约。目前，北约成员国中仅剩匈牙利尚未批准瑞典“入约”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqawu4795191.d.html</link>
-            <guid>3477380</guid>
-            <pubDate>Thu, 01 Feb 2024 13:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东风岚图：1月交付新车7041辆，同比增长355%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-01/detail-inafqaws0237323.d.html</link>
-            <guid>3477379</guid>
-            <pubDate>Thu, 01 Feb 2024 13:49:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
