@@ -4,11 +4,50 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 07 Feb 2024 19:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 20:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国12月消费信贷变动 15.61亿美元，预期 159亿美元，前值 237.51亿美元。]]></title>
+            <guid>3485003</guid>
+            <pubDate>Wed, 07 Feb 2024 20:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国SEC将披露个人交易美国国债的数据】美国证券交易委员会（SEC）与美国金融业监管局（FINRA）宣布调整交易透明度制度，称将披露个人交易美国国债的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahhaau7642339.d.html</link>
+            <guid>3485001</guid>
+            <pubDate>Wed, 07 Feb 2024 19:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度尼西亚马鲁古省附近海域发生5.3级地震】据印尼气象、气候和地球物理局消息，当地时间2月8日2时33分，印度尼西亚马鲁古省附近海域（南纬3.23度，东经130.82度）发生5.3级地震，震源深度18千米。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahhaca1881664.d.html</link>
+            <guid>3485000</guid>
+            <pubDate>Wed, 07 Feb 2024 19:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加纳副总统：自2021年以来，加纳为储备购买了26吨黄金；自2022年以来，为石油进口购买了16吨黄金。]]></title>
+            <guid>3484998</guid>
+            <pubDate>Wed, 07 Feb 2024 19:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极端组织“伊斯兰国”宣称对巴基斯坦俾路支省爆炸事件负责】据路透社援引极端组织“伊斯兰国”消息报道，当地时间7日，极端组织“伊斯兰国”宣称对巴基斯坦俾路支省奎达市发生的爆炸事件负责。(央视新闻)]]></title>
+            <guid>3484994</guid>
+            <pubDate>Wed, 07 Feb 2024 19:26:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国商业地产危机加剧，KKR相关房贷REIT暴跌】投资商业地产抵押贷款的KKR Real Estate Finance Trust Inc.在压缩派息应对不良贷款后大跌。这家房地产投资信托公司将股息大砍42%至每股25美分，因其费城写字楼贷款实现近5900万美元亏损。它还在其观察名单中新增了北卡罗来纳州Raleigh和圣地亚哥的两处多户资产以及西雅图的一座生命科学不动产，表明商业地产危机已经不仅限于办公楼。KREF一度创下2020年3月以来最大跌幅。纽约时间2月7日美东时间10:52，该股下跌15%至10美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahhaay5100620.d.html</link>
+            <guid>3484993</guid>
+            <pubDate>Wed, 07 Feb 2024 19:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门胡塞武装称美英空袭荷台达】据也门胡塞武装控制的马西拉电视台报道，当地时间2月7日，美英联军对也门西部城市荷台达的几处目标发动了空袭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahhaca1877751.d.html</link>
+            <guid>3484992</guid>
+            <pubDate>Wed, 07 Feb 2024 19:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美军失踪直升机已经找到 对机上5人搜索工作仍在进行】当地时间2月7日上午，美媒引述美国海军陆战队消息称，已在该国南加州一处森林内找到此前失踪的军用直升机，但对机上5名失踪的海军陆战队员的搜索和救援行动仍在继续。据美国全国广播公司（NBC）报道，美国军方官员表示，南加州连日暴雨后，一架载有5名海军陆战队员的CH-53E直升机7日在加利福尼亚州圣迭戈地区失踪。(央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahhaau7639489.d.html</link>
@@ -272,18 +311,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahfvuz2313077.d.html</link>
             <guid>3484907</guid>
             <pubDate>Wed, 07 Feb 2024 17:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩看守政府总理与加拿大总理通电话】当地时间2月7日，黎巴嫩总理府通过社交媒体宣布，黎看守政府总理米卡提当天和加拿大总理特鲁多通电话。据悉，双方就两国关系以及加沙地带局势进行了磋商。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahfvuw7754245.d.html</link>
-            <guid>3484898</guid>
-            <pubDate>Wed, 07 Feb 2024 16:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰外长呼吁欧盟采取紧急措施，增加对乌弹药供应】据乌克兰国际文传电讯社当地时间2月7日报道，乌克兰外长库列巴在与到访的欧盟外交与安全政策高级代表博雷利举行会谈后表示，乌克兰希望欧盟采取多项紧急措施，以增加对乌前线的弹药供应。库列巴表示，希望欧盟国家与乌防务公司签署长期合同，以提升这些公司的生产能力，此外清除对欧洲防务公司与乌克兰公司合作的监管障碍。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahfvuw7753029.d.html</link>
-            <guid>3484892</guid>
-            <pubDate>Wed, 07 Feb 2024 16:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
