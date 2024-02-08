@@ -4,11 +4,62 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 08 Feb 2024 20:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 21:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pinterest(PINS.N)盘后大跌22%，Illumina(ILMN.O)盘后涨0.42%。]]></title>
+            <guid>3486466</guid>
+            <pubDate>Thu, 08 Feb 2024 21:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Illumina(ILMN.O)2023财年Q4营收11.2亿美元，市场预期10.9亿美元，去年同期10.8亿美元。]]></title>
+            <guid>3486465</guid>
+            <pubDate>Thu, 08 Feb 2024 21:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pinterest四季度营收9.813亿美元，分析师预期9.902亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkrrw0557221.d.html</link>
+            <guid>3486464</guid>
+            <pubDate>Thu, 08 Feb 2024 21:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼（DIS）收涨11.49%，创最近逾三年最大单日涨幅，得益于四季报向好。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkrru3779874.d.html</link>
+            <guid>3486463</guid>
+            <pubDate>Thu, 08 Feb 2024 21:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arm(ARM.O)在创纪录上涨48%后，市值增加380亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkrru3779825.d.html</link>
+            <guid>3486461</guid>
+            <pubDate>Thu, 08 Feb 2024 21:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会预算办公室的数据显示，未来10年，美国政府债务或增至54万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkmiw3910225.d.html</link>
+            <guid>3486455</guid>
+            <pubDate>Thu, 08 Feb 2024 20:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣亨特：希望伦敦证券交易所成为欧洲科技上市的纳斯达克。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkmiv1022293.d.html</link>
+            <guid>3486452</guid>
+            <pubDate>Thu, 08 Feb 2024 20:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：美国商品期货监管机构联合批准私募基金报告修订。]]></title>
+            <guid>3486451</guid>
+            <pubDate>Thu, 08 Feb 2024 20:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚将退出（西非国家）赤道几内亚，此前已经在该国存在大约30年。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkmiy0686915.d.html</link>
+            <guid>3486450</guid>
+            <pubDate>Thu, 08 Feb 2024 20:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：02月09日04时09分在四川绵阳市平武县（北纬32.11度，东经104.57度）发生3.1级地震，震源深度17千米。]]></title>
             <guid>3486446</guid>
@@ -220,51 +271,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkezu6576404.d.html</link>
             <guid>3486370</guid>
             <pubDate>Thu, 08 Feb 2024 16:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列对黎巴嫩南部发动无人机袭击】当地时间8日下午，以色列军方对黎巴嫩南部的纳巴迪亚发动无人机袭击。有媒体报道称无人机袭击已造成两人死亡，其中一人为真主党高级别成员阿巴斯·德布斯。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkfaa0787241.d.html</link>
-            <guid>3486367</guid>
-            <pubDate>Thu, 08 Feb 2024 16:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统泽连斯基会见扎卢日内 讨论乌武装部队新领导人选】当地时间2月8日，乌克兰总统泽连斯基会见扎卢日内，泽连斯基对扎卢日内表示了感谢，双方还讨论了乌军的情况以及谁可以担任乌克兰武装部队的新领导。泽连斯基还邀请扎卢日内继续留在团队中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahkezu6575836.d.html</link>
-            <guid>3486365</guid>
-            <pubDate>Thu, 08 Feb 2024 16:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国Deutsche Pfandbriefbank AG于2月7日陡然发布公告，自称：已经因为房地产市场持续疲软而增加准备金。当前的（地产市场）动荡堪称“（2008年次贷）金融危机以来最严重的房地产危机”。]]></title>
-            <guid>3486362</guid>
-            <pubDate>Thu, 08 Feb 2024 16:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arm(ARM.O) CEO：智能手机生产行业在每台手机上配置更多的核；人工智能“无论如何”都不是一个炒作周期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahiyue0915417.d.html</link>
-            <guid>3486359</guid>
-            <pubDate>Thu, 08 Feb 2024 16:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：会见了陆军总参谋长扎卢日尼，并对新的军队领导层进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahiytz1261024.d.html</link>
-            <guid>3486357</guid>
-            <pubDate>Thu, 08 Feb 2024 16:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦通信委员会（FCC）决定：由人工智能（AI）技术生成的自动语音电话是非法的。]]></title>
-            <guid>3486354</guid>
-            <pubDate>Thu, 08 Feb 2024 15:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大第一大电信公司BCE Inc.将裁员大约9%（约4800人），这将是该公司最近30年来最大一次裁员行动。]]></title>
-            <guid>3486353</guid>
-            <pubDate>Thu, 08 Feb 2024 15:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度针对既定的移动通信频段销售（拍卖）设定116亿美元的保留价。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-08/detail-inahiyua4134102.d.html</link>
-            <guid>3486349</guid>
-            <pubDate>Thu, 08 Feb 2024 15:36:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
