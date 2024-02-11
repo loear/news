@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 11 Feb 2024 16:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 17:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《我们一起摇太阳》上映3天，总票房破5000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahswew0430926.d.html</link>
+            <guid>3488740</guid>
+            <pubDate>Sun, 11 Feb 2024 17:10:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据猫眼专业版数据，电影《熊出没·逆转时空》上映3天，观影人次破1000万。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahsweu7575541.d.html</link>
@@ -393,12 +399,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahryze8037850.d.html</link>
             <guid>3488498</guid>
             <pubDate>Sun, 11 Feb 2024 06:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦公布国民议会选举初步结果】巴基斯坦选举委员会11日公布国民议会（议会下院）选举初步计票结果，独立参选人集团获得101席，穆斯林联盟（谢里夫派）获得75席，还有2个席位尚未决出。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahryza3480195.d.html</link>
-            <guid>3488496</guid>
-            <pubDate>Sun, 11 Feb 2024 06:45:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
