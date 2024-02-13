@@ -4,11 +4,58 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 13 Feb 2024 18:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 19:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY日内涨超1.00%，现报150.85。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsu7567402.d.html</link>
+            <guid>3490364</guid>
+            <pubDate>Tue, 13 Feb 2024 19:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美债价格跌幅扩大，2-10年期美债收益率刷新日高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsy4955965.d.html</link>
+            <guid>3490363</guid>
+            <pubDate>Tue, 13 Feb 2024 19:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元日内涨幅达1.0%，报1.3585。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqta1733131.d.html</link>
+            <guid>3490362</guid>
+            <pubDate>Tue, 13 Feb 2024 19:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：以色列官员称国防军掌握了哈马斯领导人在汗尤尼斯地下隧道的闭路录像】据报道，一名以色列安全官员周二表示，以色列军方获得的闭路电视录像显示，哈马斯领导人叶海亚·辛瓦尔(Yahya Sinwar)与他的妻子、孩子和另一名身份不明的男子在加沙南部城市汗尤尼斯下面的一条隧道里。以色列公开指责辛瓦尔是哈马斯10月7日对以色列发动恐怖袭击的“主谋”，这使他成为以色列在加沙战争的主要目标之一。不过目前还不清楚这段视频是何时录制、何时获得的，以及辛瓦尔的情况如何。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsu7566487.d.html</link>
+            <guid>3490361</guid>
+            <pubDate>Tue, 13 Feb 2024 18:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息人士：德国将把2024年经济增长预测下调至0.2%】据知情人士透露，德国联邦政府将在下周发布的一份报告中大幅下调其对德国经济增长的预测，仅为0.2%。该消息人士称，导致这一令人沮丧的数字（低于10月份1.3%的预测）的因素包括全球经济增长缓慢，以及德国宪法法院一项关于预算的裁决。在高通胀、利率上升和全球经济疲软的压力下，德国GDP在2023年萎缩了0.3%，2024年德国经济前景黯淡。德国商业协会BDI在1月中旬发布了一个类似的低预测，预计经济将增长0.3%，并警告称经济处于“停滞”状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2123711.d.html</link>
+            <guid>3490360</guid>
+            <pubDate>Tue, 13 Feb 2024 18:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士透露，德国联邦政府将把2024年的经济增长预测下调至0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2123339.d.html</link>
+            <guid>3490358</guid>
+            <pubDate>Tue, 13 Feb 2024 18:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：贝莱德正在重组其金融和战略投资者团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2123281.d.html</link>
+            <guid>3490357</guid>
+            <pubDate>Tue, 13 Feb 2024 18:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（2月13日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.80%，报217.75欧元/吨。油菜籽期货涨0.77%，报425.00欧元/吨。]]></title>
+            <guid>3490354</guid>
+            <pubDate>Tue, 13 Feb 2024 18:32:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[消息人士：国际原子能机构总干事格罗西预计将在2月底访问俄罗斯。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqta1727837.d.html</link>
@@ -341,29 +388,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahxkkw7680174.d.html</link>
             <guid>3490264</guid>
             <pubDate>Tue, 13 Feb 2024 15:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国近东救济工程处称暂停资助将对巴勒斯坦难民造成严重后果】联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）警告称，如果不立即重新资助近东救济工程处，将会对巴勒斯坦难民造成严重后果。近东救济工程处表示，一些近东救济工程处主要捐助国停止为其提供资金的决定可能使其2024年预期收入的51%以上受到威胁，这将严重影响加沙地带的人道主义响应，以及在约旦地区为巴勒斯坦难民提供的医疗、教育、救助、社会服务和经济支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahxkkz2237522.d.html</link>
-            <guid>3490262</guid>
-            <pubDate>Tue, 13 Feb 2024 15:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus于2月5-9日期间回购1.189亿欧元股票，1月29日-2月2日期间回购1.608亿欧元股票。]]></title>
-            <guid>3490255</guid>
-            <pubDate>Tue, 13 Feb 2024 15:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非兰特兑美元下跌1%，至19.1050。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahxkme1837859.d.html</link>
-            <guid>3490254</guid>
-            <pubDate>Tue, 13 Feb 2024 15:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银日内跌幅达3.00%，现报22.08美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahxkma5060664.d.html</link>
-            <guid>3490253</guid>
-            <pubDate>Tue, 13 Feb 2024 15:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
