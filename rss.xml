@@ -4,11 +4,125 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 21 Feb 2024 22:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 23:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【超2.75亿个人类基因新变异被发现】美国科学家在一项最新研究中，对美国国立卫生研究院全民研究计划“我们所有人”中近25万名参与者的基因组数据进行了分析。结果发现了超过2.75亿个以前未报告的基因变异，其中近400万个变异可能会对人类健康产生潜在影响。相关研究论文发表于19日出版的《自然》杂志。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkk5084513.d.html</link>
+            <guid>3499191</guid>
+            <pubDate>Wed, 21 Feb 2024 23:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报刊发两篇主题为“新质生产力”的文章】 人民日报刊发两篇题为《发展新质生产力 增强高质量发展新动能》和《在未来发展和国际竞争中赢得战略主动 发展新质生产力具有重大意义》的文章。其中文章提到，战略性新兴产业代表新一轮科技革命和产业变革方向，是发展新质生产力的重要力量，有利于持续推动经济实现质的有效提升和量的合理增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkk5084449.d.html</link>
+            <guid>3499190</guid>
+            <pubDate>Wed, 21 Feb 2024 23:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达：最新财季中国地区数据中心收入占比已降至个位数】 英伟达高管在业绩说明会上表示，第四财季中国在公司数据中心收入中占据了个位数的百分比，预计下一财季将保持在类似的范围内。除中国外，公司来自其他所有地区的数据中心增长都很强劲。资料显示，过往财季，英伟达来自中国等受限的国家和地区的数据中心业务收入贡献约20%-25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkn9641490.d.html</link>
+            <guid>3499188</guid>
+            <pubDate>Wed, 21 Feb 2024 23:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英特尔推出面向AI时代的系统级代工，并更新制程路线图】 当地时间21日，英特尔宣布推出面向AI时代的系统级代工——英特尔代工（Intel Foundry）。该公司还拓展了制程技术路线图，新增了Intel 14A和数个专业节点的演化版本。该公司证实，其“四年五个制程节点”路线图仍在稳步推进，并将在业内率先提供背面供电解决方案。英特尔预计将于2025年通过Intel 18A制程节点重获制程领先性。微软首席执行官Satya Nadella表示，微软设计的一款芯片计划采用Intel 18A制程节点生产。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkk5084030.d.html</link>
+            <guid>3499187</guid>
+            <pubDate>Wed, 21 Feb 2024 23:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【针对中国？WTO会议前，印度放风反对投资便利化】 据印度媒体报道，印度将在2月26日至29日于阿联酋首都阿布扎比举行的世界贸易组织（WTO）第十三届部长级会议（MC13）上，反对旨在提升全球投资便利化水平的《促进发展的投资便利化协定》。报道称，该协定由中国等国牵头。（环球网）]]></title>
+            <guid>3499186</guid>
+            <pubDate>Wed, 21 Feb 2024 23:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美政客鼓噪查200台中国起重机】在美国联邦调查局局长鼓噪“中国网攻威胁”后，美媒报道称，美国总统拜登将于当地时间21日签署行政命令，授权国土安全部以及海岸警卫队解决散布美国港口逾200台中国起重机的“网络安全威胁”，并将引进“可信赖的日本起重机制造商”，保障美方船只与设施安全。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkk5083397.d.html</link>
+            <guid>3499184</guid>
+            <pubDate>Wed, 21 Feb 2024 23:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达：预计数据中心基础设施规模将在五年内翻番。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkq2358322.d.html</link>
+            <guid>3499183</guid>
+            <pubDate>Wed, 21 Feb 2024 23:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达：超级计算机供应链正在全面改善】英伟达高管在财报电话会议上表示，从晶圆、封装、存储器到网络等各个环节，英伟达超级计算机的供应链已经在全面改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkr9135290.d.html</link>
+            <guid>3499182</guid>
+            <pubDate>Wed, 21 Feb 2024 23:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量化私募净值快速回升 赎回压力渐趋缓解】 昨日，微盘股指数上涨4.48%，节后累计涨幅已逾14%。此前遭遇大幅回撤的量化私募产品净值修复加快，赎回压力已有所缓解。“节前创下史上最大回撤，赎回又加剧了微盘股杀跌，甚至出现了短暂的流动性危机。”一位资深券商渠道人士透露，“近日市场表现好转，不少产品净值迅速回升，目前赎回情况正常，相比节前赎回压力有所缓解。”一家头部私募也反映，近日产品净值修复很快，目前没有遭遇明显的赎回压力。（证券时报）]]></title>
+            <guid>3499181</guid>
+            <pubDate>Wed, 21 Feb 2024 23:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台2月22日06时继续发布大风蓝色预警、寒潮橙色预警、冰冻黄色预警和暴雪黄色预警。]]></title>
+            <guid>3499178</guid>
+            <pubDate>Wed, 21 Feb 2024 23:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受芯片股盘后走高带动，纳斯达克100指数期货上涨0.9%，标普500指数期货上涨0.4%。]]></title>
+            <guid>3499176</guid>
+            <pubDate>Wed, 21 Feb 2024 23:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国再次否决加沙停火决议草案 巴勒斯坦总统府及多方表示谴责】巴勒斯坦总统府当地时间20日晚发表声明，谴责美国在联合国安理会再次否决有关呼吁在加沙地带停火的决议草案。声明说，美国的否决违背了国际社会意愿，为以色列继续侵略加沙地带，并对拉法发动血腥袭击再开绿灯，美国的政策对国际和平与安全构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkn9639313.d.html</link>
+            <guid>3499175</guid>
+            <pubDate>Wed, 21 Feb 2024 23:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)：本季度后将有更多机会在中国展开竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwhkn9638950.d.html</link>
+            <guid>3499174</guid>
+            <pubDate>Wed, 21 Feb 2024 22:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民爆行业今年一季度“淡季不淡” 有上市公司透露产品供不应求】民爆行业是国民经济和社会发展必不可少的重要基础性行业，民爆物品广泛应用于矿山开采、油田开发、工程施工、资源勘探及深加工等重要领域。受下游终端需求影响，民爆行业呈现一定周期性。事实上，每年一季度都是民爆行业的传统生产淡季，这主要是因为春节假期影响，部分工厂矿山停产、大型基建项目停工，同时由于春季雨水较多，工地施工节奏较缓等因素所致。然而进入2024年以来，一些公司透露民爆产品供不应求。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwaaq9769334.d.html</link>
+            <guid>3499173</guid>
+            <pubDate>Wed, 21 Feb 2024 22:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电动汽车生产商Rivian的CEO称，财年一季度汽车交货量下降是由于更换零部件供应商是所导致。]]></title>
+            <guid>3499170</guid>
+            <pubDate>Wed, 21 Feb 2024 22:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rivian(RIVN.O)首席财务官：提高效率将降低2024年的资本支出。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwaan5210523.d.html</link>
+            <guid>3499165</guid>
+            <pubDate>Wed, 21 Feb 2024 22:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉一金矿坍塌 救援行动正在进行】据委内瑞拉媒体报道，当地时间20日晚，委内瑞拉首都加拉加斯东南方向约800公里处一座金矿发生坍塌。有消息称，事故已造成至少30人死亡，数十人被困。当地政府21日证实了事故发生的消息，但是未透露死伤及被困人员的具体数字，表示已部署相关力量前往现场勘察情况并展开救援。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwaaq9767605.d.html</link>
+            <guid>3499163</guid>
+            <pubDate>Wed, 21 Feb 2024 22:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：全力以赴优化营商环境】文章称，应对当前经济下行压力、提振经营主体信心，优化营商环境是关键之举。市场活力和企业生命力离不开优良的营商环境，全面深化改革和体制机制创新也要把优化营商环境作为一个重要抓手。必须下更大力气、花更多心思，见真章出实效。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwaaq9766574.d.html</link>
+            <guid>3499159</guid>
+            <pubDate>Wed, 21 Feb 2024 22:25:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[皇家加勒比邮轮(RCL.N)提高2024年业绩指引，因需求加速增长，公司股价盘后涨超5%。]]></title>
+            <guid>3499158</guid>
+            <pubDate>Wed, 21 Feb 2024 22:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国高等法院结束审理阿桑奇引渡上诉案】英国高等法院针对“维基揭秘”网站创始人朱利安·阿桑奇拒绝被引渡到美国上诉案件的听证会21日结束，法官当天没有做出裁决，表示将择日宣布。在两天的法庭审理期间，阿桑奇的律师团队申请审查时任英国内政大臣帕特尔2022年所作批准向美国引渡阿桑奇的决定，并对2021年高等法院的裁决提出质疑。他们强调，美国当局因为阿桑奇揭露美国政府的暴行而寻求惩罚他，如被送往美国，阿桑奇可能会遭受司法不公。代表美国政府的律师则主张，阿桑奇泄露的文件损害了美国的安全和情报部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaiwaat9261002.d.html</link>
+            <guid>3499157</guid>
+            <pubDate>Wed, 21 Feb 2024 22:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中东局势跟踪】
 巴以冲突：
@@ -206,96 +320,6 @@
             <title><![CDATA[美国共和党议员沃特斯：应该阻止第一资本信贷(COF.N)和Discover金融公司的收购交易。]]></title>
             <guid>3499091</guid>
             <pubDate>Wed, 21 Feb 2024 19:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联航和达美航空将部分恢复飞往以色列的航班】据《以色列时报》报道，当地时间2月21日，以色列机场管理局宣布，美国联合航空公司和达美航空公司将部分恢复飞往以色列的航班。2023年这两家航空公司曾因新一轮巴以冲突爆发而取消所有前往以色列的航班。据报道，美联航方面已经证实，将于3月3日恢复航班。此外有消息称，达美航空将于5月1日恢复航班，但目前达美航空方面还未证实这一消息。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuq5328572.d.html</link>
-            <guid>3499090</guid>
-            <pubDate>Wed, 21 Feb 2024 19:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【头部公募牵手沙特“土豪”，中东资本正加速布局中国】 随着中国经济韧性和股票市场吸引力逐步增强，拥有庞大资金的中东资本正试图借助公募基金布局中国股票市场。易方达基金近日与沙特领先的资产管理公司利雅得资本签署了合作备忘录，为进一步推动中沙资本市场的联通融合贡献力量，该项合作也是中国头部公募与中东地区资本机构合作的又一最新案例。中信证券发布的研究报告也指出，外交破局与货币合作带来“石油人民币”的想象空间，“石油人民币”有望逐步回流中国资本市场，测算或可逐步为A股和H股带来每年约200亿元量级的资金，并有望在未来逐步扩大。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuu2600614.d.html</link>
-            <guid>3499089</guid>
-            <pubDate>Wed, 21 Feb 2024 19:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联航一客机收到爆炸威胁 目前已安全降落】当地时间2月21日，据美国哥伦比亚广播公司报道，因收到爆炸威胁，美国联合航空公司一架飞往洛杉矶的航班改道飞往芝加哥。目前该航班已安全降落，乘客已被疏散。据报道，这架航班从新泽西州纽瓦克自由国际机场起飞，机上载有200多名乘客和机组人员。据警方初步报告，在飞机的卫生间发现一张写着飞机会爆炸的纸条。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvus9885145.d.html</link>
-            <guid>3499083</guid>
-            <pubDate>Wed, 21 Feb 2024 19:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰即将与国际货币基金组织达成协议，从其156亿美元的贷款中获得下一笔9亿美元的支付款项。]]></title>
-            <guid>3499081</guid>
-            <pubDate>Wed, 21 Feb 2024 19:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【头部车企发起整车电子架构集中升级 汽车智能化将进入加速期】近日，高工智能汽车研究院发布的相关监测数据显示，2023年，乘用车前装标配智驾域控制器173.5万台，同比增长80.2%，前装搭载率8.2%，在整车电子架构集中升级的背景下，智能化将进入加速期。据高工智能汽车研究院测算，从2024年开始，跨域集中计算平台也将开始进入前装量产上车周期。预计到2030年，市场占比将突破30%。公开资料显示，整车电子架构包含了车上所有的硬件、软件、传感器、执行机构、电子电气分配系统，相当于汽车的“神经系统”，逐步成为汽车产品的一个核心技术。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuq5327294.d.html</link>
-            <guid>3499080</guid>
-            <pubDate>Wed, 21 Feb 2024 19:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国加利福尼亚州政府宣布与外卖送餐服务公司DoorDash达成和解协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuq5327254.d.html</link>
-            <guid>3499079</guid>
-            <pubDate>Wed, 21 Feb 2024 19:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内30家上市公司发布下修可转债转股价公告】近日，多家上市公司发布可转债转股价向下修正公告。据不完全统计，今年以来，共有30家上市公司发布提议下修转股价公告。其中，奇正藏药、新疆众和及康泰生物等10家企业已决议施行下修。中信证券首席经济学家明明表示：“多方因素可影响公司修正可转债转股价，包括转债剩余期限、公司财务状况、回售压力、市场行情、公司市值、原股东持有转债比例等。” (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvus9884340.d.html</link>
-            <guid>3499077</guid>
-            <pubDate>Wed, 21 Feb 2024 19:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYMEX 3月天然气期货收涨12.50%，报1.7730美元/百万英热单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuu2597661.d.html</link>
-            <guid>3499076</guid>
-            <pubDate>Wed, 21 Feb 2024 19:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙首相与摩洛哥国王举行会谈 希望加强睦邻友好关系】摩洛哥国王穆罕默德六世当地时间2月21日在拉巴特同到访的西班牙首相桑切斯举行会谈。根据摩洛哥政府发布的声明，双方在会谈中表示，希望加强两国睦邻友好关系，并在相互信任和尊重的基础上深化多领域合作。桑切斯在会面后的新闻发布会上表示，目前双方仍然没有确定重新开放两国之间陆地边境海关的具体日期，但西班牙方面已经为海关的重开准备就绪，一旦摩洛哥方面准备完毕，海关即可重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvus9884079.d.html</link>
-            <guid>3499074</guid>
-            <pubDate>Wed, 21 Feb 2024 19:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国议员调查梯瓦、辉瑞，山德士的药品短缺问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvus9884022.d.html</link>
-            <guid>3499073</guid>
-            <pubDate>Wed, 21 Feb 2024 19:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“真金白银”提振市场信心，3天52家沪市公司推出回购增持计划】 2月19日以来，已有52家沪市公司披露新的回购或增持方案（含一次性增持完成），其中沪市主板37家、科创板15家。截至目前，沪市共有717家次的回购增持方案正在推进中，待回购增持的上限或将达到735亿元（截至2月21日19点）。不少市场人士表示，上市公司持续加大回购增持力度，不仅是用实际行动让投资者更有获得感，也为上市公司后续估值的进一步重塑和修复提供了支撑。随着越来越多上市公司更加重视投资者回报，践行“提质增效重回报”，一大批公司的股价或将进入修复通道。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaivvuu2597091.d.html</link>
-            <guid>3499072</guid>
-            <pubDate>Wed, 21 Feb 2024 19:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国汽车工人联合会宣布在未来两年内投入4000万美元用于汽车和电池工人的组织工作。]]></title>
-            <guid>3499067</guid>
-            <pubDate>Wed, 21 Feb 2024 19:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 4月黄金期货收跌0.27%，报2034.30美元/盎司。COMEX 3月白银期货收跌1.13%，报22.874美元/盎司。]]></title>
-            <guid>3499064</guid>
-            <pubDate>Wed, 21 Feb 2024 19:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收跌0.27%，报16447点，低水56点。]]></title>
-            <guid>3499063</guid>
-            <pubDate>Wed, 21 Feb 2024 19:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数主连夜盘收跌0.27%，报16447.00点。恒生科技指数主连夜盘收跌0.63%，报3329.00点。]]></title>
-            <guid>3499062</guid>
-            <pubDate>Wed, 21 Feb 2024 19:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[圭亚那自然资源部长：将暂时禁止埃克森美孚公司在圭亚那与委内瑞拉存有争议的领土上进行石油钻探活动。]]></title>
-            <guid>3499058</guid>
-            <pubDate>Wed, 21 Feb 2024 19:16:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
