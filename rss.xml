@@ -4,13 +4,32 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 22 Feb 2024 16:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 17:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【美军表示在红海击落了六架胡塞无人机】美军表示，在红海击落了六架胡塞无人机。]]></title>
+            <title><![CDATA[【Reddit与谷歌进行战略合作】Reddit与谷歌进行战略合作，以应用Vertex AI人工智能系统。Reddit将向谷歌提供其数据应用程序接口（API）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-23/detail-inaixumz1553253.d.html</link>
+            <guid>3500211</guid>
+            <pubDate>Thu, 22 Feb 2024 17:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国参与国际法院巴勒斯坦被占领土咨询意见案口头程序】当地时间2月22日，外交部法律顾问、条法司司长马新民代表中国在联合国国际法院巴勒斯坦被占领土问题咨询意见案口头程序中进行陈述，依据中国在巴勒斯坦问题上的政策立场，阐述中国关于法院咨询管辖权、民族自决、使用武力法和国际人道法等法律问题的观点和主张，表达了对巴勒斯坦人民恢复民族合法权利正义事业的坚定支持。这是中国继2009年参与国际法院科索沃独立问题咨询意见案口头程序之后，时隔15年第二次参与国际法院咨询意见案口头程序。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-23/detail-inaixunc6106730.d.html</link>
+            <guid>3500202</guid>
+            <pubDate>Thu, 22 Feb 2024 16:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国称MV ISLANDER号货轮被胡塞导弹轻伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-23/detail-inaixumz1548652.d.html</link>
+            <guid>3500200</guid>
+            <pubDate>Thu, 22 Feb 2024 16:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国中央司令部称在红海击落6架胡塞武装无人机】美国中央司令部当地时间2月22日在社交平台上发表声明表示，美国飞机和一艘联军军舰于萨那时间22日凌晨4时30分至5时30分在红海击落了6架胡塞武装无人机。此外，胡塞武装于萨那时间22日8时30分至9时45分之间，从也门南部向亚丁湾发射了2枚反舰弹道导弹（ASBM），击中了一艘悬挂帕劳国旗的英国货船，造成一人受轻伤，该船受损并仍在继续航行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-23/detail-inaixunc6105893.d.html</link>
             <guid>3500199</guid>
             <pubDate>Thu, 22 Feb 2024 16:24:36 GMT</pubDate>
         </item>
@@ -169,12 +188,6 @@
             <pubDate>Thu, 22 Feb 2024 14:45:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国向SK Siltron CSS提供5.44亿美元贷款】美国能源部贷款项目办公室（LPO）2月22日宣布有条件地向韩国半导体晶圆制造商SK Siltron美国子公司SK Siltron CSS提供5.44亿美元贷款，用于扩大美国电动汽车电子设备用高品质碳化硅（SiC）晶片的生产。该项目在建设阶段预计将创造200个建筑工作岗位，在位于密歇根州的SK Siltron CSS工厂全面投产后，预计将创造200个运营工作岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqeh8914600.d.html</link>
-            <guid>3500136</guid>
-            <pubDate>Thu, 22 Feb 2024 14:43:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[以色列国防部长加兰特：我们将扩大赋予人质谈判人员的权力。以色列准备继续进行激烈的地面行动。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqef6221322.d.html</link>
             <guid>3500135</guid>
@@ -209,7 +222,7 @@
             <pubDate>Thu, 22 Feb 2024 14:25:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国政府向韩国半导体晶圆制造商SK Siltron提供5.44亿美元贷款。向新能源电池制造商American Battery Solutions提供1.659亿美元有条件贷款。]]></title>
+            <title><![CDATA[【美国向SK Siltron CSS提供5.44亿美元贷款】美国能源部贷款项目办公室（LPO）2月22日宣布有条件地向韩国半导体晶圆制造商SK Siltron美国子公司SK Siltron CSS提供5.44亿美元贷款，用于扩大美国电动汽车电子设备用高品质碳化硅（SiC）晶片的生产。该项目在建设阶段预计将创造200个建筑工作岗位，在位于密歇根州的SK Siltron CSS工厂全面投产后，预计将创造200个运营工作岗位。]]></title>
             <guid>3500121</guid>
             <pubDate>Thu, 22 Feb 2024 14:23:00 GMT</pubDate>
         </item>
@@ -247,47 +260,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqeh8908373.d.html</link>
             <guid>3500111</guid>
             <pubDate>Thu, 22 Feb 2024 14:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广和通将携手联发科技全球首发RedCap模组FM330系列及RedCap Dongle解决方案】广和通消息，下周一（世界移动通信大会MWC 2024首日），广和通将携手联发科技全球首发RedCap模组FM330系列及RedCap Dongle解决方案。(证券时报)]]></title>
-            <guid>3500110</guid>
-            <pubDate>Thu, 22 Feb 2024 14:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[也门胡塞武装领导人：我们在海上行动中引入了“潜艇武器”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqef6213885.d.html</link>
-            <guid>3500109</guid>
-            <pubDate>Thu, 22 Feb 2024 14:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日政府拟补贴台积电熊本第二工厂7300亿日元】日本政府基本决定向台积电(TSM.N)将在熊本县建设的第二工厂补贴约7300亿日元（约合人民币350亿元）。出于经济安全保障的观点，此举意在推动构建稳定的半导体供应体制。预计近期将公布此事。日本经济产业省在2023年度补充预算申请阶段拟向第二工厂提供最大约9000亿日元的支援。之后根据台积电方面出示的投资计划调整了补贴金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqeh8907325.d.html</link>
-            <guid>3500108</guid>
-            <pubDate>Thu, 22 Feb 2024 14:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电科院：实控人之一致行动人承诺6个月内不减持公司股份】电科院公告，公司股东胡醇、李崇珠作为公司实控人之一致行动人，自愿承诺6个月内（2024年2月22日至2024年8月21日）不减持所持有的公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqeh8907295.d.html</link>
-            <guid>3500107</guid>
-            <pubDate>Thu, 22 Feb 2024 14:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯洛伐克总理称将维持对乌克兰部分农产品的进口禁令】当地时间2月22日，斯洛伐克总理菲佐表示，斯洛伐克将维持对来自乌克兰的部分农产品的进口禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqec1655700.d.html</link>
-            <guid>3500106</guid>
-            <pubDate>Thu, 22 Feb 2024 14:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)高管：公司正在与经销商合作扩大实体服务能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqec1655419.d.html</link>
-            <guid>3500105</guid>
-            <pubDate>Thu, 22 Feb 2024 13:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉将于当地时间下午6点在巴西利亚接待俄罗斯外长拉夫罗夫。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-22/detail-inaixqek5683767.d.html</link>
-            <guid>3500102</guid>
-            <pubDate>Thu, 22 Feb 2024 13:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
