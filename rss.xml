@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Feb 2024 17:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 18:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克总理：本国稳定将促进结束所谓国际联盟在伊存在】当地时间2月25日，伊拉克总理苏达尼出席第六届巴格达国际对话会议并发表讲话。苏达尼表示，伊拉克境内的极端组织已被击败，伊拉克实现稳定以及提高军队作战能力，增强了各方对结束以美国为首的所谓国际联盟在伊存在的信心。苏达尼强调，伊拉克拒绝本国领土成为其他国家冲突的舞台。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-26/detail-inakhwev2514557.d.html</link>
+            <guid>3503009</guid>
+            <pubDate>Sun, 25 Feb 2024 18:21:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【卡塔尔北方天然气田将继续扩产】当地时间2月25日，卡塔尔能源事务国务大臣、卡塔尔能源公司总裁兼首席执行官萨阿德·卡比在新闻发布会上宣布，卡塔尔北方天然气田将继续扩产，预计将在现有产能基础上每年再增加1600万吨液化天然气产量。卡塔尔是全球最大的液化天然气生产国和出口国之一。萨阿德·卡比表示，预计新的天然气扩产项目将在2030年前完工，届时卡塔尔的液化天然气年产量将达到1.42亿吨。（央视财经）]]></title>
             <guid>3502950</guid>
@@ -543,12 +549,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakfuti3090304.d.html</link>
             <guid>3502777</guid>
             <pubDate>Sun, 25 Feb 2024 08:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迈威生物：在研品种9MW2821获美国FDA快速通道认定】迈威生物公告，公司在研品种9MW2821获美国食品药品监督管理局（FDA）授予“快速通道认定”（Fast Track Designation）用于治疗晚期、复发或转移性食管鳞癌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakfutk5749161.d.html</link>
-            <guid>3502776</guid>
-            <pubDate>Sun, 25 Feb 2024 08:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
