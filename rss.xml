@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 25 Feb 2024 21:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 22:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中央气象台2月26日06时继续发布低温蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-26/detail-inakianq7840128.d.html</link>
+            <guid>3503133</guid>
+            <pubDate>Sun, 25 Feb 2024 22:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔加拉帕戈斯群岛将提高游客入岛费用】据厄瓜多尔媒体当地时间2月25日报道，厄瓜多尔加拉帕戈斯群岛管理委员会于24日举行全体会议后决定，外国游客进入该群岛的费用将从100美元增加到200美元，本国游客的入岛费则从6美元增加到30美元。新的资费标准将在6个月内生效。加拉帕戈斯群岛管理委员会表示，提高群岛入岛费是“利用这些岛屿提供的世界上独一无二的自然奇观，促进旅游业的可持续发展并促进当地经济发展的能力”。加拉帕戈斯群岛位于厄瓜多尔大陆海岸以西约1000公里处。1978年，联合国教科文组织将加拉帕戈斯群岛列入首批“人类自然遗产”。群岛每年接待超过26万名游客，其中54%是外国游客。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-26/detail-inakiant2394015.d.html</link>
+            <guid>3503129</guid>
+            <pubDate>Sun, 25 Feb 2024 21:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【哥伦比亚一赛车失控撞向人群 造成1死9伤】当地时间2月25日，在哥伦比亚金迪奥省布埃纳维斯塔的一场汽车比赛中，一辆赛车失控撞向路边观看比赛的人群，造成1人死亡、9人受伤。布埃纳维斯塔交通部门负责人表示，目前受伤人员已被送往附近医院接受治疗。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-26/detail-inakianq7835806.d.html</link>
@@ -527,23 +539,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakfyzf2969358.d.html</link>
             <guid>3502797</guid>
             <pubDate>Sun, 25 Feb 2024 09:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国软件：拟向实控人及其子公司定增募资不超20亿元】中国软件公告，拟向公司实控人中国电子及其全资子公司中电金投，发行股票不超过9013.07万股（含本数），募资不超20亿元，用于移固融合终端操作系统产品研发、面向云化的服务器操作系统产品研发、嵌入式操作系统能力平台建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakfyzf2968209.d.html</link>
-            <guid>3502796</guid>
-            <pubDate>Sun, 25 Feb 2024 09:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国通号：2023年度净利润34.68亿元 同比下降4.55%】中国通号发布2023年度业绩快报，报告期内，公司实现营业总收入371.4亿元，同比下降7.66%，实现净利润34.68亿元，同比下降4.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakfyzf2968179.d.html</link>
-            <guid>3502795</guid>
-            <pubDate>Sun, 25 Feb 2024 09:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【搭载鸿蒙车机系统 华为与广汽传祺首款合作车型落地】 2月24日，华为与广汽传祺合作车型——传祺M8宗师先锋版正式官宣落地。当日，华为智能汽车解决方案官方微博表示，与传祺共创中国传祺。广汽传祺官方微博回应称，一起让智慧出行体验更美好。]]></title>
-            <guid>3502792</guid>
-            <pubDate>Sun, 25 Feb 2024 09:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
