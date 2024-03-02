@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Mar 2024 20:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 21:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【周处除三害票房破9000万】据猫眼专业版数据，电影《周处除三害》上映3天 ，总票房破9000万]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6700536.d.html</link>
+            <guid>3512575</guid>
+            <pubDate>Sat, 02 Mar 2024 21:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【乌克兰敖德萨一民宅遭无人机袭击 已致8人死亡】当地时间3月2日，乌克兰敖德萨官方称当地住宅楼遇袭事件中已有8人死亡。乌克兰紧急情况服务局当天宣布，敖德萨一9层住宅楼当日凌晨遭俄军无人机袭击。俄方对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6699764.d.html</link>
+            <guid>3512574</guid>
+            <pubDate>Sat, 02 Mar 2024 20:53:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【受风暴影响 美国西部9个州发布冬季警报】当地时间3月2日，据美国广播公司（ABC）报道，美国国家气象局表示，美国西部大部分地区目前正在受到严重的风暴影响，已有9个州发布了冬季警报，其中包括华盛顿州、科罗拉多州、爱达荷州、蒙大拿州、内华达州等。加利福尼亚州内华达山脉大部分地区也已发布暴风雪警报。此外，美国西部地区已有超过800万人收到了大风警报。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6697976.d.html</link>
@@ -526,12 +538,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxtxe6255715.d.html</link>
             <guid>3512283</guid>
             <pubDate>Sat, 02 Mar 2024 10:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据哪吒汽车微博，哪吒汽车联手360集团，AI大模型NETA GPT即将上车。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxprk7287161.d.html</link>
-            <guid>3512282</guid>
-            <pubDate>Sat, 02 Mar 2024 10:31:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
