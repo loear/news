@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Mar 2024 19:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 20:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【受风暴影响 美国西部9个州发布冬季警报】当地时间3月2日，据美国广播公司（ABC）报道，美国国家气象局表示，美国西部大部分地区目前正在受到严重的风暴影响，已有9个州发布了冬季警报，其中包括华盛顿州、科罗拉多州、爱达荷州、蒙大拿州、内华达州等。加利福尼亚州内华达山脉大部分地区也已发布暴风雪警报。此外，美国西部地区已有超过800万人收到了大风警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6697976.d.html</link>
+            <guid>3512573</guid>
+            <pubDate>Sat, 02 Mar 2024 20:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称已有245名以军士兵在加沙地带地面军事行动中死亡】当地时间3月2日晚，以色列国防军宣布，有三名士兵在加沙地带南部汗尤尼斯地区的战斗中丧生，另有14名士兵受伤，其中6人伤势严重。据统计，以军在加沙地带开展大规模军事行动后，阵亡士兵人数已增至245人。（央视新闻 ）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6695691.d.html</link>
+            <guid>3512572</guid>
+            <pubDate>Sat, 02 Mar 2024 19:37:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【跳水世界杯蒙特利尔站：龙道一/王宗源夺男双三米板冠军】北京时间3月2日晚，2024年跳水世界杯蒙特利尔站进行了男双三米板决赛。中国组合龙道一/王宗源以464.79分的成绩获得冠军。决赛中，龙道一/王宗源在第二轮出现失误，不过第二轮过后，他们一路领先，最终龙道一/王宗源获得464.79分，领先第二名英国组合54.15分，墨西哥组合获得第三名。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakykuy6824846.d.html</link>
@@ -520,18 +532,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxprk7287161.d.html</link>
             <guid>3512282</guid>
             <pubDate>Sat, 02 Mar 2024 10:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京呼吁天然气出口国加强合作】俄罗斯总统普京当地时间3月2日在发给天然气出口国论坛第七次峰会的贺信中表示，目前全球能源行业处于复杂时期，已经形成的交通和物流链条遭到破坏，多个能源产地遭遇冲突加剧的局面，能源基础设施面临着恐怖袭击威胁。在此背景下，天然气出口国有必要加强合作。普京指出，俄方认为，在不设立单边障碍和不采取单边限制措施的情况下，遵守诚实竞争原则和有效保护天然气出口国合法权益，这是保障国际能源市场稳定运行的条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxpra9174349.d.html</link>
-            <guid>3512279</guid>
-            <pubDate>Sat, 02 Mar 2024 10:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“风乌”大模型实现10公里级气象预报】据上海人工智能实验室消息，该实验室联合国家气象中心、国家气象信息中心、南京信息工程大学、香港科技大学等机构发布了人工智能气象预报大模型“风乌”的升级版，借助人工智能对中期天气进行了10公里级的建模与预报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxprh6385179.d.html</link>
-            <guid>3512278</guid>
-            <pubDate>Sat, 02 Mar 2024 10:25:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
