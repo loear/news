@@ -4,13 +4,91 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 07 Mar 2024 17:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 18:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国联合航空(UAL.O)预计7月可能恢复招聘飞行员。]]></title>
+            <title><![CDATA[“特斯拉劲敌”Rivian：预计将从2026年上半年开始交付R2（电动厢车）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampumy8494411.d.html</link>
+            <guid>3519915</guid>
+            <pubDate>Thu, 07 Mar 2024 18:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国第三产业蹄疾步稳，连续9年占GDP比例超50%】2023年，我国第三产业（服务业）增加值688238亿元，占国内生产总值（GDP）比例54.6%，双双创下历史新高，占比与上一年相比提高1.2个百分点，已经超过2020年前水平。作为中国经济增长的支柱性产业之一，第三产业增加值占GDP比例已连续9年超过50%。从服务业构成来看，金融业、批发和零售业增加值双双突破10万亿元，两者增速均超过6%。住宿和餐饮业增速最高，超过14%，信息传输、软件和信息技术服务业增速排名次之，达到11.9%。交通运输、仓储和邮政业表现也非常亮眼，2023年增加值首次突破5万亿元。另外，房地产业是唯一负增长的行业。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampunc9527928.d.html</link>
+            <guid>3519914</guid>
+            <pubDate>Thu, 07 Mar 2024 18:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【软件平台开发公司Palantir：新增了几家人工智能客户】软件平台开发公司Palantir称，新增General Mills、CBS、以及Aramark为人工智能（AI）客户。Lennar、松下、Cummins也在采用该公司的那些AI工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampumu7159041.d.html</link>
+            <guid>3519912</guid>
+            <pubDate>Thu, 07 Mar 2024 18:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大首都渥太华发生枪击事件 6人死亡】当地时间3月6日夜间，加拿大首都渥太华发生一起枪击事件，造成6人死亡。其中包括4名儿童和2名成人，另有1人受伤送医。事发地点位于郊区一栋住宅内。警方称，他们于当日22时50分左右接到报警电话，急救人员前往事发地点后，在住宅内发现6人死亡。警方在渥太华市中心以南约15公里处逮捕了1名涉案男子，其身份尚未确认。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampumu7158940.d.html</link>
+            <guid>3519911</guid>
+            <pubDate>Thu, 07 Mar 2024 18:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯称以色列没有回应其在加沙地带停火谈判中的主要诉求】据半岛电视台7日报道，巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局成员胡萨姆·巴德兰当天表示，以色列方面没有回应哈马斯在新一轮加沙地带停火谈判中提出的主要诉求，包括实现永久停火、所有被迫撤离的加沙地带居民返回家园、允许人道主义援助无障碍地进入加沙地带等。在埃及首都开罗参加停火谈判的哈马斯代表团已离开，将与哈马斯领导人就谈判进展进行磋商。巴德兰称，参与谈判的美国并非公正、公平的调停者，美方没有推动在加沙地带实现停火的意愿，也没有达成停火协议的意愿。新一轮加沙地带停火谈判自本月3日开始在开罗举行，哈马斯、美国、卡塔尔和埃及派代表参加谈判，以色列方面没有派代表参加。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampumy8493778.d.html</link>
+            <guid>3519910</guid>
+            <pubDate>Thu, 07 Mar 2024 18:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方呼吁国际社会加紧推动苏丹问题政治解决】中国常驻联合国代表团临时代办戴兵7日在安理会苏丹问题公开会上发言，呼吁国际社会加紧推动苏丹问题政治解决。戴兵说，苏丹冲突持续延宕，造成大量平民伤亡和严重人道危机，令人痛惜。国际社会应共同努力，推动苏丹问题政治解决，让和平早日实现。目前最紧迫的课题是尽快停火止战。中方呼吁有关各方相向而行，推动局势尽快降级降温，为启动和谈创造条件。同时，苏丹冲突引发严重人道危机，保障人道物资准入十分重要。中方呼吁国际社会特别是传统出资方继续加大对苏丹援助，帮助苏丹和地区国家人民缓解人道困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampuna2750275.d.html</link>
+            <guid>3519909</guid>
+            <pubDate>Thu, 07 Mar 2024 18:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌总统批准扎卢日内为乌克兰驻英国大使的候选人】当地时间3月7日，乌克兰外交部宣布，乌总统泽连斯基已确认扎卢日内为该国驻英国大使的候选人资格。乌克兰外交部已向英国递交相关文件，英方同意后，将正式派驻。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqea8622832.d.html</link>
+            <guid>3519907</guid>
+            <pubDate>Thu, 07 Mar 2024 17:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[         【穆迪下调英国、德国等国银行业评级展望】穆迪表示，比利时、法国、德国、荷兰、瑞典和英国的银行业展望已从稳定转为负面。穆迪表示：“高利率将抑制经济增长、限制贷款并导致企业贷款表现恶化，而融资成本的增加将使大多数国家银行业的利润低于2023年。”穆迪表示，丹麦、西班牙和瑞士银行业的前景保持稳定，并补充说，意大利银行业的前景从负面转为稳定，“意大利银行业将受益于有弹性的经营状况，稳定的盈利能力和雄厚的资本抵消了资产质量的轻度恶化。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqee2878885.d.html</link>
+            <guid>3519904</guid>
+            <pubDate>Thu, 07 Mar 2024 17:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：欢迎瑞典加入北约。随着瑞典的加入，北约更加团结一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqee2878042.d.html</link>
+            <guid>3519902</guid>
+            <pubDate>Thu, 07 Mar 2024 17:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人大代表建议完善储能用固态电池国家标准】全国人大代表、湖南省衡阳市市长朱健称，相关标准不够完善或缺失正影响新型储能行业发展。他建议，为突破行业壁垒，规范市场发展，更好建设全国统一大市场，进一步提升产业发展国际竞争力，迫切需要加快完善储能用固态电池国家标准。为此，朱健建议由国家市场监管总局牵头，指导龙头企业完善企业标准，帮助企业巩固国际市场，开拓国内市场；指导湖南省等地方省份尽快出台地方标准，推动固态铅电池大规模应用；联合工业和信息化部，尽快研究出台储能用固态铅电池国家标准。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqcw7286299.d.html</link>
+            <guid>3519899</guid>
+            <pubDate>Thu, 07 Mar 2024 17:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数涨幅扩大至1%，电信板块目前涨约1.9%，科技板块涨1.7%，原材料和能源板块也涨超1%，金融板块则跌超0.2%，房地产板块跌约0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqea8620855.d.html</link>
+            <guid>3519897</guid>
+            <pubDate>Thu, 07 Mar 2024 17:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿联酋谴责以色列批准在约旦河西岸犹太人定居点新建住房】当地时间7日，阿联酋外交部发表声明，强烈谴责以色列政府批准在巴勒斯坦约旦河西岸犹太人定居点新建大约3500套住房，并表示拒绝一切旨在改变巴勒斯坦被占领土历史和法律地位的措施。声明强调，阿联酋支持地区和国际社会推进中东和平进程，结束威胁“两国方案”和巴勒斯坦建国的非法行为。阿联酋外交部同时呼吁国际社会加大努力，推动立即实现停火，避免更多人员伤亡，防止局势进一步升级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqef9652481.d.html</link>
+            <guid>3519894</guid>
+            <pubDate>Thu, 07 Mar 2024 17:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国一空军雇员拒绝对其涉嫌泄露国防机密的指控认罪】当地时间3月4日，美国一名空军雇员大卫·富兰克林·斯莱特因涉嫌非法泄露国防机密信息而被起诉。据7日报道，斯莱特于5日首次出庭时表示不认罪。据悉，斯莱特是美国奥佛特空军基地战略司令部的空军文职雇员，涉嫌于2022年2月至4月期间在网络平台泄露国防机密。如果罪名成立，斯莱特将面临最高10年的联邦监狱监禁以及罚款等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqef9652464.d.html</link>
+            <guid>3519893</guid>
+            <pubDate>Thu, 07 Mar 2024 17:24:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联航暂停飞行员招聘 预计7月可能恢复招聘】美联航（UAL）暂停飞行员招聘计划，谈及波音公司（BA）飞机交付推迟问题；预计7月可能恢复招聘飞行员。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-08/detail-inampqcw7284792.d.html</link>
             <guid>3519890</guid>
             <pubDate>Thu, 07 Mar 2024 17:17:14 GMT</pubDate>
@@ -161,57 +239,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampivy7401826.d.html</link>
             <guid>3519816</guid>
             <pubDate>Thu, 07 Mar 2024 15:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人民代表大会财政经济委员会依法开展2024年计划、预算审查工作】3月7日上午，第十四届全国人民代表大会财政经济委员会召开全体会议，根据各代表团和有关的专门委员会的审查意见，对国务院提交十四届全国人大二次会议的2024年计划报告和计划草案、预算报告和预算草案进行审查。会议通过了《第十四届全国人民代表大会财政经济委员会关于2023年国民经济和社会发展计划执行情况与2024年国民经济和社会发展计划草案的审查结果报告》和《第十四届全国人民代表大会财政经济委员会关于2023年中央和地方预算执行情况与2024年中央和地方预算草案的审查结果报告》。这两个审查结果报告将按照全国人民代表大会议事规则的规定，提交大会主席团。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampiwi9765591.d.html</link>
-            <guid>3519812</guid>
-            <pubDate>Thu, 07 Mar 2024 15:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯呼吁苏丹在斋月期间停止敌对行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampivy7400509.d.html</link>
-            <guid>3519811</guid>
-            <pubDate>Thu, 07 Mar 2024 15:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国工程机械工业协会：1-2月挖掘机累计销量24984台，同比下降21.7%】3月7日，据中国工程机械工业协会对挖掘机主要制造企业统计，2024年2月销售各类挖掘机12608台，同比下降41.2%，其中国内5837台，同比下降49.2%；出口6771台，同比下降32%。2024年1-2月，共销售挖掘机24984台，同比下降21.7%；其中国内11258台，同比下降24.6%；出口13726台，同比下降19.1%。2024年2月销售电动挖掘机2台（6吨级以下1台，18.5至28.5吨级1台）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampiwi9765394.d.html</link>
-            <guid>3519810</guid>
-            <pubDate>Thu, 07 Mar 2024 15:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐银团项目签约】紫光展锐官微消息，3月7日，紫光展锐银团签约仪式成功举行，此次银团由工商银行、建设银行、浦发银行、招商银行、中信银行等五大银行组成。紫光集团执行副总裁、紫光展锐董事长马道杰表示，展锐将充分利用好本次银团项目资金，在新技术预研、新产品开发、供应链建设等方面持续发力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampiwi9765079.d.html</link>
-            <guid>3519806</guid>
-            <pubDate>Thu, 07 Mar 2024 15:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海代表团举行小组会议，审议国务院组织法修订草案】十四届全国人大二次会议上海代表团今日（7日）举行小组会议，审查计划报告和草案、预算报告和草案，审议《中华人民共和国国务院组织法（修订草案）》，市委书记陈吉宁代表，市委副书记、市长龚正代表，市人大常委会主任、上海代表团团长黄莉新代表参加。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampiwi9764857.d.html</link>
-            <guid>3519805</guid>
-            <pubDate>Thu, 07 Mar 2024 15:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司：2023年第四季度美国银行利润下降43.9%，降至38.4十亿美元，受非利息和拨备费用增加以及非利息收入减少的影响。季度利润下降的70%是由于特定的、非经常性的大型银行支出，包括为收回失败银行成本而进行的特别评估。2023年美国银行业利润下降2.3%，达2570亿美元。不盈利机构的份额增至10.9%，为2017年第四季度以来最高水平。美国国内存款在2023年第四季度增长1.1%，连续七个季度以来首次增长。将八家银行列入“问题银行”名单，问题银行总资产达到66.3十亿美元。]]></title>
-            <guid>3519802</guid>
-            <pubDate>Thu, 07 Mar 2024 15:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军展开内部调查 检视去年10月7日遭袭事件】以色列国防军7日宣布，已向各军事部门的指挥官发起了军队内部调查计划。该计划将全面检视以军为何没能“挫败”去年10月7日巴勒斯坦伊斯兰抵抗运动（哈马斯）对以色列发动的袭击。据了解，以军这一调查的时间范围始自2018年3月哈马斯在加沙边界主导的游行示威，止于2023年10月10日，以军在哈马斯袭击后恢复对以色列南部的控制权。]]></title>
-            <guid>3519796</guid>
-            <pubDate>Thu, 07 Mar 2024 14:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财付通：微信外卡支付的单笔交易限额、年交易限额已完成额度提升】财付通官微发文称，微信外卡支付的单笔交易限额、年交易限额也已在人民银行、外汇局指导下完成额度提升，同时制定了动态管理的限额策略，在满足用户大额消费需求的基础上，兼顾服务提升和风险防控的动态平衡。在《意见》方向性指引下， 财付通将基于金融科技能力，持续改善支付服务体验，为老年群体创造有温度的支付服务环境，为外籍来华人员的工作与旅居进一步提供便利。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-07/detail-inampiwi9761559.d.html</link>
-            <guid>3519792</guid>
-            <pubDate>Thu, 07 Mar 2024 14:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉确认纽约社区银行（NYCB）评级在BB+，提及该公司最新达成的逾10亿美元融资计划。]]></title>
-            <guid>3519790</guid>
-            <pubDate>Thu, 07 Mar 2024 14:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
