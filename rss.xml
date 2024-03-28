@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 28 Mar 2024 17:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 18:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：极端组织“伊斯兰国”发布有关俄罗斯音乐厅袭击事件的录音信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxfte3043116.d.html</link>
+            <guid>3552471</guid>
+            <pubDate>Thu, 28 Mar 2024 18:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国防军进行突击演习，以加强对北部冲突的军事准备】据以色列时报，以色列国防军表示，他们今天进行了一次突击演习，目的是为该国北部的潜在冲突做准备。这次演习由以军行动司领导，以色列国防军的所有指挥部、联队和训练处以及总参谋部都参加了演习。以色列军方表示：“这次演习的目的是加强以色列国防军对北部战场各种情况的准备。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxfth5151995.d.html</link>
+            <guid>3552469</guid>
+            <pubDate>Thu, 28 Mar 2024 17:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西国家石油公司将雇佣200艘船只 以支持直到2028年的生产活动】根据巴西国家石油公司(Petrobras)的一份声明，该公司可能会在2024年至2028年间雇佣约200艘船只，以取代现有合同并扩大船队。巴西国家石油公司表示，在这一总数中，可能会建造38艘新船，以增加船队并取代旧型号。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxftk1926705.d.html</link>
+            <guid>3552465</guid>
+            <pubDate>Thu, 28 Mar 2024 17:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软开发工具以防Ai聊天机器人被教坏】微软(MSFT.O)正努力防止人们欺骗Ai聊天机器人做出奇怪的事情。微软公司周四在一篇博客文章中表示，Azure AI Studio正在内置新的安全功能，允许开发人员使用自己的数据构建定制的人工智能助手。这些工具包括“提示词防护盾”（Prompt Shields），旨在检测和阻止企图使人工智能模型以意想不到的方式运行的“提示词攻击”或“越狱”。微软还解决了“间接提示词输入”问题，即黑客将恶意指令插入模型所训练的数据中，并诱使其执行诸如窃取用户信息或劫持系统等未经授权的操作。微软负责人工智能的首席产品官Sarah Bird说，这种攻击是“一种独特的挑战和威胁”。她说，新的防御措施旨在发现可疑输入并实时阻止它们。微软还推出了一项新功能，当Ai模型编造东西或产生错误反应时，它会提醒用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxftk1925879.d.html</link>
+            <guid>3552461</guid>
+            <pubDate>Thu, 28 Mar 2024 17:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非林波波省一公交车发生交通事故 致45人死亡】据南非当地媒体报道，当地时间3月28日，南非林波波省一辆公交车行驶途中发生事故，已造成45人死亡，多人重伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxfte3039715.d.html</link>
+            <guid>3552459</guid>
+            <pubDate>Thu, 28 Mar 2024 17:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人工智能安检设备制造商Evolv美股盘中上涨14%，创2023年11月以来最大涨幅。]]></title>
+            <guid>3552456</guid>
+            <pubDate>Thu, 28 Mar 2024 17:28:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【波兰国防部长：美国国会已批准向波兰出售导弹系统】当地时间3月28日，波兰副总理兼国防部长科西尼亚克-卡梅斯在社交媒体上称，美国国会已批准向波兰出售先进导弹系统。该笔交易包括AGM-158B“增程型联合防区外空对地导弹”、AIM-120-8C中程空对空导弹和AIM-9X Block II型“响尾蛇”近程空对空导弹。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-29/detail-inapxftc4040200.d.html</link>
@@ -322,64 +357,6 @@
             <title><![CDATA[尼日利亚将4月Qua Iboe原油官方销售价格（OSP）定在较可比布伦特原油期货价格溢价3.97美元/桶。]]></title>
             <guid>3552364</guid>
             <pubDate>Thu, 28 Mar 2024 14:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奔驰：巴尔的摩大桥垮塌不会影响汽车出口】德国豪华汽车制造商梅赛德斯-奔驰周四表示，巴尔的摩大桥垮塌事件不会影响其汽车出口。该公司通过巴尔的摩港口进口汽车，并在塔斯卡卢萨拥有一家工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwzmf4145294.d.html</link>
-            <guid>3552361</guid>
-            <pubDate>Thu, 28 Mar 2024 14:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹西部蝗虫灾害严重 加剧粮食安全风险】苏丹西部北达尔富尔州蝗虫防治部门当地时间3月28日表示，该州正在遭受严重的蝗虫灾害。大批蝗虫自本月下旬起从北达尔富尔州西北部向东部和东南部迁徙扩散，沿路啃食沙棘、柑橘等树木以及农作物，给该州很多果园和农作物造成重大损失，进一步加剧了当地的粮食安全问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwzmk5245513.d.html</link>
-            <guid>3552360</guid>
-            <pubDate>Thu, 28 Mar 2024 14:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚允许乌干达国家石油公司直接通过肯尼亚管道公司进口石油】当地时间3月28日，肯尼亚能源和石油部长戴维斯·奇尔奇尔表示，正在发放许可证，允许乌干达国家石油公司（Unoc）直接通过肯尼亚管道公司（KPC）进口石油。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwzmf4145048.d.html</link>
-            <guid>3552359</guid>
-            <pubDate>Thu, 28 Mar 2024 14:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统阿巴斯批准新内阁成立】据巴勒斯坦通讯社当地时间28日报道，巴勒斯坦总统阿巴斯当天已批准了总理穆罕默德·穆斯塔法递交的新一届政府组阁计划。新一届内阁将在3月31日宣誓就职。穆斯塔法将同时成为巴勒斯坦外交部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwvci4273951.d.html</link>
-            <guid>3552353</guid>
-            <pubDate>Thu, 28 Mar 2024 14:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川眉山一油罐车起火致2人受伤】3月28日18时30分，眉山消防救援支队接警，位于东坡区尚义镇刘庙路一油罐车起火。接警后，眉山市消防救援支队指挥中心迅速展开处置。目前，现场火情已被扑灭。此次火情造成两人轻伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwvcq2150367.d.html</link>
-            <guid>3552351</guid>
-            <pubDate>Thu, 28 Mar 2024 14:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至3月22日当周EIA天然气库存 -360亿立方英尺，预期-280亿立方英尺，前值70亿立方英尺。]]></title>
-            <guid>3552350</guid>
-            <pubDate>Thu, 28 Mar 2024 14:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基称乌军没有做好迎击俄军大规模进攻的准备】哥伦比亚广播公司新闻频道当地时间3月28日报道称，乌克兰总统泽连斯基在接受采访时表示，虽然乌军迄今为止在很大程度上成功地遏制了俄罗斯的进攻，但是如果俄罗斯在近几个月内发动大规模进攻的话，乌克兰武装部队并没有做好进行防御的准备，乌军的火炮已经消耗殆尽。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwvci4273106.d.html</link>
-            <guid>3552349</guid>
-            <pubDate>Thu, 28 Mar 2024 14:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆基绿能发布硅片新品 电阻率比值由此前的3倍缩小至1.5倍以内】隆基绿能发布了一款名为“泰睿”的硅片新产品，号称实现了十年来硅片领域的新突破。隆基绿能硅片事业部研发中心产品研发总监王一淳在发布会上介绍，泰睿最重要的特征是提高了硅片的电阻率集中度，使电阻率比值由此前的3倍缩小至1.5倍以内。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwvck3270031.d.html</link>
-            <guid>3552348</guid>
-            <pubDate>Thu, 28 Mar 2024 14:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州酒家：2023年净利润同比增长5.21% 拟10派4.8元】广州酒家(603043)3月28日晚间披露年报，2023年实现营业收入49.01亿元，同比增长19.17%；净利润5.5亿元，同比增长5.21%；基本每股收益0.97元。公司拟向全体股东每10股派发现金红利4.8元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-28/detail-inapwvck3269922.d.html</link>
-            <guid>3552347</guid>
-            <pubDate>Thu, 28 Mar 2024 14:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【九台农商行2023年实现净利润1.78亿元 同比下降89.3%】3月28日，九台农商银行发布业绩公告显示，该行2023年实现营业收入55.14亿元，同比下降16.4%；实现净利润1.78亿元，同比下降89.3%。]]></title>
-            <guid>3552346</guid>
-            <pubDate>Thu, 28 Mar 2024 14:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
