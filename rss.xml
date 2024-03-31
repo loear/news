@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 31 Mar 2024 17:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 18:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【智利西部发生4.5级地震】根据智利大学国家地震中心消息，当地时间3月31日14时17分，该国西部发生4.5级地震，震中位于普尼塔奇市西南26公里，震源深度63千米，目前没有官方的人员伤亡和财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-01/detail-inaqhcef7675519.d.html</link>
+            <guid>3555752</guid>
+            <pubDate>Sun, 31 Mar 2024 18:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国芝加哥发生多起枪击事件 造成3人死亡】据美国广播公司（ABC）当地时间3月31日报道，3月30日晚至3月31日早间，芝加哥发生了21起枪击事件，至少27人中枪，其中有3人死亡。当地警方正在对各案件进行调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-01/detail-inaqhcef7674422.d.html</link>
+            <guid>3555751</guid>
+            <pubDate>Sun, 31 Mar 2024 17:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长与埃及外长通电话 讨论双边发展及巴以问题】据伊朗外交部消息，当地时间3月31日，伊朗外长阿卜杜拉希扬同埃及外长舒凯里通电话，就双边关系发展及巴以问题交换意见。在通话中，两国外长回顾了近几个月双边关系的积极进展，并同意继续进行接触和会晤，以继续发展和改善两国关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-01/detail-inaqfwwe1822933.d.html</link>
+            <guid>3555750</guid>
+            <pubDate>Sun, 31 Mar 2024 17:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“祥云”AS700载人飞艇完成首次转场飞行】3月30日7时4分，由航空工业自主研制的“祥云”AS700民用载人飞艇从湖北荆门漳河机场轻盈腾空，经过1小时46分钟的飞行后，平稳降落在荆州沙市通用机场，经过短暂休整后返回荆门，顺利横跨“两荆”，完成首次转场飞行。此次转场飞行全方位检验了飞艇自身性能和机组飞行、地面保障、空域协调等综合能力，为后续实现长距离转场飞行奠定基础。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-01/detail-inaqfwwi7802111.d.html</link>
@@ -523,18 +541,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqffyp8936031.d.html</link>
             <guid>3555509</guid>
             <pubDate>Sun, 31 Mar 2024 10:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿维特电动垂直起降飞机ET9原型机完成首飞】据证券时报，近日，亿维特（南京）航空科技有限公司自主研制的电动垂直起降飞机（eVTOL）ET9原型机成功完成首飞。可广泛应用于高频货运、特色旅游、应急救援、城市空中出行等场景。亿维特创始人团队来自中国商飞及中航工业等航空院所，载人飞机研发经验丰富。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqffyp8935778.d.html</link>
-            <guid>3555508</guid>
-            <pubDate>Sun, 31 Mar 2024 10:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯伊尔-114-300型客机第二架测试机顺利首飞】据俄罗斯国家技术集团发布的消息，当地时间3月31日，伊尔-114-300型客机第二架测试机在位于莫斯科州的一处机场完成首飞。飞行时间约40分钟，高度900米，最大速度是每小时230公里，飞行测试顺利完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqffyp8934961.d.html</link>
-            <guid>3555507</guid>
-            <pubDate>Sun, 31 Mar 2024 10:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
