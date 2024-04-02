@@ -4,11 +4,56 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 02 Apr 2024 20:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 21:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【联合国专家称美国对古巴的封锁违反国际法】4月2日，古巴外交部网站发布的文章表示，联合国人权理事会专家们称，美国对古巴经济、商业和金融的封锁违反了国际法、侵犯了古巴人民的人权。古巴外交部发布的文章中说，联合国人权理事会专家们曾在2024年1月向美国政府发出过一份联名文件，文件中包含多位专家的报告。这是联合国专家们第一次通过联名文件指出针对古巴的封锁和制裁是严重的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvsa4431191.d.html</link>
+            <guid>3559222</guid>
+            <pubDate>Tue, 02 Apr 2024 21:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝鲜宣布试射高超音速弹道导弹】据朝中社4月3日报道，朝鲜于2日成功试射了高超音速弹道导弹。（央视）]]></title>
+            <guid>3559215</guid>
+            <pubDate>Tue, 02 Apr 2024 20:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔CEO表示，公司业务转型正在顺畅进行；将比竞争对手“领先一步”实现18A制程节点；18A将使英特尔在成本方面重新与竞争对手持平。]]></title>
+            <guid>3559213</guid>
+            <pubDate>Tue, 02 Apr 2024 20:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国航空航天局（NASA）和波音(BA.N)更新星际客机（Starliner）的发射日期，载人测试目标日期不早于5月6日。]]></title>
+            <guid>3559212</guid>
+            <pubDate>Tue, 02 Apr 2024 20:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫对结束LNG出口许可暂停持开放态度】两位白宫消息人士周二称，美国官员对结束暂停液化天然气出口审批的决定持开放态度，以争取国会通过乌克兰援助方案，但白宫希望在看到整个方案后再做决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvsa4428846.d.html</link>
+            <guid>3559209</guid>
+            <pubDate>Tue, 02 Apr 2024 20:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥4月将削减43.6万桶/日的石油出口】相关文件显示，墨西哥国有石油公司Pemex要求旗下交易部门PMI取消4月份多达436,000桶/日的墨西哥原油出口。出口的取消将增加国内原油供应，包括对新炼油厂的原油供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvrz5430903.d.html</link>
+            <guid>3559207</guid>
+            <pubDate>Tue, 02 Apr 2024 20:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西2024年登革热死亡病例升至991例】 当地时间4月2日，根据巴西卫生部虫媒病毒监测小组更新的数据，2024年以来，巴西登革热死亡病例已上升至991例，较前一日增加68例。该国2024年登革热病例总数（含疑似病例）已达262.4万例。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvsa4427996.d.html</link>
+            <guid>3559206</guid>
+            <pubDate>Tue, 02 Apr 2024 20:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特阿美石油交易员因奖金纠纷在休斯顿举行罢工】据知情人士透露，沙特阿美休斯顿办事处的几名石油交易员上周举行了短暂罢工，原因是他们收到的奖金低于预期。知情人士说，虽然只有少数人离开了工作岗位，但对交易员薪酬的不满情绪正在搅动该公司休斯顿原油部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvsh3359801.d.html</link>
+            <guid>3559205</guid>
+            <pubDate>Tue, 02 Apr 2024 20:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一季度债基分红超400亿元，专家提醒债市行情回调风险】 Wind数据统计显示，一季度，共计1283只基金进行分红，债基占1174只；累计分红金额达461.82亿元，其中债基占407.58亿元；累计分红次数达1385次，债基占1256次。一季度，债基区间回报实现整体正收益0.96%，相对稳定的收益情况下，通过分红来提升投资者持有体验的同时可以适度控制规模。不过，随着债市的迅速走高，交易拥挤的风险逐渐显现。前海开源基金首席经济学家杨德龙表示，由于投资者的预期较强，市场波动性可能增大，存在一定的回调风险。此外，今年经济复苏的预期增强，股市也有望出现恢复性上涨，这可能对债券市场构成一定的压力。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvrz5430698.d.html</link>
@@ -27,7 +72,7 @@
             <pubDate>Tue, 02 Apr 2024 20:08:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英特尔：2023年数据中心和AI收入126.4亿美元】英特尔宣布，2023年总产品收入477亿美元，之前一年为570亿美元。2023年铸造收入189亿美元，之前一年为275亿美元。2023年数据中心和AI收入126.4亿美元，之前一年168.6亿美元。]]></title>
+            <title><![CDATA[【英特尔2023年总产品收入477亿美元 上年为570亿美元】英特尔2023年总产品收入477亿美元，上年为570亿美元；2023年数据中心和人工智能收入为126.4亿美元，上年为168.6亿美元；预计英特尔代工（Intel Foundry）将在现在至2030年之间达到盈亏平衡；英特尔代工的营运亏损预计将在2024年达到峰值；英特尔代工调整后毛利润率目标为40%，调整后运营利润率目标为30%；任命Lorenzo Flores为英特尔代工的首席财务官。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnvse6582795.d.html</link>
             <guid>3559199</guid>
             <pubDate>Tue, 02 Apr 2024 20:07:29 GMT</pubDate>
@@ -235,47 +280,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnmaf5665915.d.html</link>
             <guid>3559122</guid>
             <pubDate>Tue, 02 Apr 2024 16:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国铁兰州局加开多趟列车应对清明假期出行高峰】记者从国铁兰州局了解到，清明假期，旅客探亲、祭祖、踏青等出行需求旺盛，兰州铁路局客流将保持高位运行。前往杭州、广州、北京、西安等方向中长途客流及兰州、银川、天水、庆阳、嘉峪关、中卫等管内短途客流均有明显增加 。假日期间，对兰州西至北京西、兰州西至广州南、兰州西至上海虹桥、兰州至贵阳北、兰州至成都东、兰州西至嘉峪关南、兰州西至玉门等方向的10对动车组列车实施重联开行，满足中长途旅客访友、踏青、赏花出行需求。恢复开行兰州西至天水南、西安北及兰州至中川机场图定列车5对；开行兰州西至西安北、天水南、东岔，银川至西安北、天水南，兰州至陇南动车组高峰线10对。开行兰州西至西安北、北京西至邯郸、兰州至陇南动车组临客列车4对。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnmak6803503.d.html</link>
-            <guid>3559118</guid>
-            <pubDate>Tue, 02 Apr 2024 16:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音获得了美国空军未来五年高达5.59亿美元的合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnman3578929.d.html</link>
-            <guid>3559116</guid>
-            <pubDate>Tue, 02 Apr 2024 16:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车一季度美国车辆交付594,233辆，下降1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-03/detail-inaqnman3578098.d.html</link>
-            <guid>3559114</guid>
-            <pubDate>Tue, 02 Apr 2024 16:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一汽解放：与华为共同打造的自动驾驶产品预计在 2025 年可实现低速场景示范运营】 一汽解放在投资者关系活动记录表中提到，该公司与华为合作历史悠久，在流程化组织建设、数字化等方面合作基础深厚。与华为共同打造的自动驾驶产品预计在 2025 年可实现低速场景的示范运营。]]></title>
-            <guid>3559109</guid>
-            <pubDate>Tue, 02 Apr 2024 15:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦开往伊朗的一货运列车发生脱轨事故】当地时间4月2日，从巴基斯坦奎达开往伊朗扎黑丹的货运列车在巴俾路支省查吉地区脱轨。该事故导致巴基斯坦部分铁路路段暂停服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-02/detail-inaqnmah4657747.d.html</link>
-            <guid>3559106</guid>
-            <pubDate>Tue, 02 Apr 2024 15:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本扩张军力倒向美国非常危险】日本首相岸田文雄计划下周访问美国，并称将加强日美同盟。日本有识之士指出，“日本根本没有作为主权国家的政治，只是作为美国的附属，美国说什么都听”——日本一味地倒向美国，靠拢北约，很可能会成为美国霸权主义的“黑手套”，这样的动向非常危险。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-02/detail-inaqnmah4657010.d.html</link>
-            <guid>3559102</guid>
-            <pubDate>Tue, 02 Apr 2024 15:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车北美3月汽车销量为214,894辆，增长21.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-02/detail-inaqnmaf5659861.d.html</link>
-            <guid>3559101</guid>
-            <pubDate>Tue, 02 Apr 2024 15:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
