@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 05 Apr 2024 19:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 20:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【洪水侵袭 堤坝决口 俄罗斯奥伦堡州已有近3100人被疏散】据俄罗斯媒体当地时间4月5日报道，由于近期发生融雪性洪水，俄罗斯奥伦堡州已有近3100人被疏散，其中包括700多名儿童。奥伦堡州奥尔斯克市一处堤坝决口，约有4000所房屋和1万余人处于受影响区域内，紧急情况部呼吁当地居民及时撤离。紧急情况部称，正在加强救援队伍力量，2架伊尔-76运输机和100名救援人员已抵达奥伦堡。]]></title>
+            <guid>3563472</guid>
+            <pubDate>Fri, 05 Apr 2024 20:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联航推迟原定于5月举行的投资者接待日活动，因此前发生飞行安全事件。公司预计将会把投资者接待日推迟到秋季。]]></title>
+            <guid>3563470</guid>
+            <pubDate>Fri, 05 Apr 2024 20:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔一火山发生雪崩 3人被困】当地时间4月5日，厄瓜多尔风险管理秘书处通报，该国北部皮钦查地区的卡扬贝火山发生雪崩，有3人被困。据悉，3人被困在海拔5680米处，救生员已展开搜救工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvf9114389.d.html</link>
+            <guid>3563466</guid>
+            <pubDate>Fri, 05 Apr 2024 19:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿联酋沙迦一高楼发生火灾 已致5死44伤】当地时间4月5日，阿联酋沙迦警方表示，4日晚当地一栋高层住宅楼发生火灾，共造成5人死亡、44人受伤。警方称，4日晚约22时51分接到报警，一栋位于沙迦阿尔纳达地区（Al Nahda）的住宅楼起火。火势由一层向顶层垂直蔓延，经扑救在5日凌晨得到控制。目前，44名伤者中已有27人出院。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvf9114375.d.html</link>
+            <guid>3563465</guid>
+            <pubDate>Fri, 05 Apr 2024 19:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Punchbowl，美国议员将公布跨党派数据隐私法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnva3189891.d.html</link>
+            <guid>3563463</guid>
+            <pubDate>Fri, 05 Apr 2024 19:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚境内巴勒斯坦武装派别举行大规模游行】 当地时间4月5日上午，在叙利亚的多个巴勒斯坦武装派别在大马士革南郊的耶尔穆克难民营举行了声援巴勒斯坦人民、反对以色列在加沙地带军事行动的大规模游行活动。在叙利亚的巴勒斯坦人和叙利亚当地政党成员参加了游行活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvh8110994.d.html</link>
+            <guid>3563462</guid>
+            <pubDate>Fri, 05 Apr 2024 19:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债期货净空头头寸降至自去年12月中旬以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvc9965557.d.html</link>
+            <guid>3563461</guid>
+            <pubDate>Fri, 05 Apr 2024 19:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登表示，亚马逊、家得宝及Domino Sugar等公司已经承诺不进行裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnva3188229.d.html</link>
+            <guid>3563459</guid>
+            <pubDate>Fri, 05 Apr 2024 19:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以色列软件公司Sapiens International考虑包括出售在内的各种选择】据知情人士透露，以色列软件公司Sapiens International正在探索包括潜在出售在内的各种选择。Sapiens International与投资银行William Blair合作，探索潜在买家的兴趣，其中可能包括私人股本公司。在去年夏天吸引了收购兴趣后，该公司开始研究出售事宜。]]></title>
             <guid>3563455</guid>
@@ -275,53 +321,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafm9352142.d.html</link>
             <guid>3563368</guid>
             <pubDate>Fri, 05 Apr 2024 14:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朝鲜谴责美国在联合国人权理事会会议上就朝鲜人权问题说三道四】据朝中社4月5日报道，朝鲜外务省负责国际机构的副相金仙景当天发表谈话，谴责美国在本月4日联合国人权理事会会议上就朝鲜人权问题说三道四。（央视新闻）]]></title>
-            <guid>3563366</guid>
-            <pubDate>Fri, 05 Apr 2024 14:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新泽西地震强度下调至4.7级】据报道，欧洲地中海地震中心称，美国纽约和新泽西发生5.5级地震，地震震源深度为10公里。报道称纽约市区及周边地区有震感，建筑物摇晃。目前欧洲地中海地震中心官网修正震级至4.7级，美国地质调查局也下调新泽西地震强度至4.7级。纽约州州长霍楚尔表示，正评估地震可能造成的影响和损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafn8348622.d.html</link>
-            <guid>3563365</guid>
-            <pubDate>Fri, 05 Apr 2024 14:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约州州长霍楚尔：正评估地震可能造成的影响和损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafm9351456.d.html</link>
-            <guid>3563364</guid>
-            <pubDate>Fri, 05 Apr 2024 14:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸孟邦一客运大巴遭袭 已致1死3伤】缅甸国家管理委员会4月5日晚发布消息说，4日晚间，一辆客运大巴在仰光至毛淡棉公路上行驶至孟邦比林镇区附近时遭到反政府武装组织袭击。反政府武装组织使用地雷和小型武器袭击了这辆大巴车，导致1名乘客死亡、3名乘客受伤，伤者已被送往医院治疗。缅甸当局强烈谴责反政府武装组织袭击无辜民众的恐怖主义行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafh3415548.d.html</link>
-            <guid>3563361</guid>
-            <pubDate>Fri, 05 Apr 2024 14:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质调查局报告新泽西发生里氏4.8级地震，纽约市有震感，建筑物晃动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafn8347060.d.html</link>
-            <guid>3563357</guid>
-            <pubDate>Fri, 05 Apr 2024 14:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩南部村镇遭以军空袭 致2人死亡】当地时间4月5日，黎巴嫩国家通讯社报道称，黎南部埃塔沙阿布（Aita al-Shaab）镇当天遭以军空袭。空袭致一栋房屋倒塌，2人死亡。报道还称，黎巴嫩南部的卡法尔基拉（Kfar Kila）和泰尔海法（Taye Haifa）当天也遭到以军空袭，目前伤亡情况不明。以色列方面对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafm9348437.d.html</link>
-            <guid>3563354</guid>
-            <pubDate>Fri, 05 Apr 2024 14:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔要求墨西哥驻厄大使限期离境】厄瓜多尔外长索默费尔德当地时间4月5日宣布，墨西哥驻厄瓜多尔大使必须在当地时间4月4日17时30分起72小时内离开厄瓜多尔。4日，厄外交部发表声明宣布，由于墨西哥总统洛佩斯对厄瓜多尔2023年选举以及总统候选人比利亚维森西奥被暗杀发表的不当言论，厄政府宣布墨西哥驻该国大使为“不受欢迎的人”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafh3412371.d.html</link>
-            <guid>3563352</guid>
-            <pubDate>Fri, 05 Apr 2024 14:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约驱逐数名俄罗斯人员】北约秘书长斯托尔滕贝格在一次采访中告诉德国《图片报》，近几个月来，几名俄罗斯人员因间谍指控被驱逐出北约总部。斯托尔滕贝格说：“我们意识到他们进行的活动实际上不是外交工作，而是情报工作。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafm9347693.d.html</link>
-            <guid>3563351</guid>
-            <pubDate>Fri, 05 Apr 2024 14:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
