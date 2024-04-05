@@ -4,11 +4,44 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 05 Apr 2024 18:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 19:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列软件公司Sapiens International考虑包括出售在内的各种选择】据知情人士透露，以色列软件公司Sapiens International正在探索包括潜在出售在内的各种选择。Sapiens International与投资银行William Blair合作，探索潜在买家的兴趣，其中可能包括私人股本公司。在去年夏天吸引了收购兴趣后，该公司开始研究出售事宜。]]></title>
+            <guid>3563455</guid>
+            <pubDate>Fri, 05 Apr 2024 19:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）针对Meta的反垄断起诉书中显示，Instagram在2022年上半年为Meta贡献了近30%的收入。]]></title>
+            <guid>3563454</guid>
+            <pubDate>Fri, 05 Apr 2024 19:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冰岛总理宣布将参选总统并辞去总理职务】冰岛总理雅各布斯多蒂尔4月5日宣布，她将参加于今年6月举行的冰岛总统选举，并因此决定辞去总理职务。雅各布斯多蒂尔当天在社交媒体发布的一段视频中宣布了这一消息。她随后在冰岛首都雷克雅未克举行的记者会上表示，她不再参加下一次议会选举，她的离开和参选不会对本届联合政府产生重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvh8107756.d.html</link>
+            <guid>3563450</guid>
+            <pubDate>Fri, 05 Apr 2024 18:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：从禽流感患者标本的病毒序列中未发现与流感抗病毒药物耐药相关的任何标记。]]></title>
+            <guid>3563449</guid>
+            <pubDate>Fri, 05 Apr 2024 18:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称空袭黎巴嫩多个军事目标】当地时间4月5日，以色列国防军称，当天以军出动战斗机空袭了黎巴嫩政党“阿迈勒运动”在黎巴嫩南部马加勇地区的一幢军事建筑，多名武装人员在该建筑内活动。以军在5日还出动战斗机，空袭了黎巴嫩真主党在卡法尔基拉、泰尔海法、迈斯贾巴尔和布利达地区的军事建筑和军用设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnva3179994.d.html</link>
+            <guid>3563446</guid>
+            <pubDate>Fri, 05 Apr 2024 18:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃塞俄比亚阿姆哈拉州一学校发生爆炸 造成至少25人受伤】据当地媒体4月5日报道，位于埃塞俄比亚阿姆哈拉州菲诺特·塞拉姆镇的一所学校4月4日发生爆炸事件。阿姆哈拉州通信局发表声明称，发生爆炸的教室当时正在进行考试，爆炸导致至少25名学生受伤，其中4人受重伤。阿姆哈拉地区政府逮捕了一名学生，指控他涉嫌参与引爆爆炸装置，同时将此次袭击归咎于一个身份不明的极端组织。声明中称这起事件并非孤立事件，此前同一极端组织曾针对阿姆哈拉地区的其他学校发动袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnvh8105655.d.html</link>
+            <guid>3563444</guid>
+            <pubDate>Fri, 05 Apr 2024 18:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌称扎波罗热市遭袭 已致4死20伤】乌克兰国家通讯社4月5日报道称，当日扎波罗热市遭袭击，目前已导致4人死亡、20人受伤。救援行动仍在继续。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-06/detail-inaqvnva3178252.d.html</link>
@@ -45,7 +78,7 @@
             <pubDate>Fri, 05 Apr 2024 17:37:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌媒称乌无人机袭击多处俄军用机场】 据乌克兰媒体5日报道，乌国防部情报总局联合乌军方当天早上对靠近乌克兰边境的3处俄军用机场发动了无人机袭击。《乌克兰真理报》援引乌国防部情报总局匿名消息源说，俄军位于俄罗斯萨拉托夫州的恩格斯军用机场的3架图-95战略轰炸机在空袭中可能“严重受损”，7名俄军人员死亡。位于亚速海沿岸的叶伊斯克军用机场的两架苏-25战机被彻底摧毁，4名俄军人员死亡。乌方无人机还袭击了俄军位于库尔斯克的军用机场。目前，乌国防部情报总局尚未对大规模袭击俄军机场发表评论。4日，乌国防部情报总局发言人尤索夫在电视节目中说，俄境内一处无人机组装厂日前遭到袭击，他相信未来针对俄境内军事目标的无人机袭击会不断出现且袭击距离持续深入。（新华社）]]></title>
+            <title><![CDATA[【乌媒称乌无人机袭击多处俄军用机场 】据乌克兰媒体5日报道，乌国防部情报总局联合乌军方当天早上对靠近乌克兰边境的3处俄军用机场发动了无人机袭击。]]></title>
             <guid>3563432</guid>
             <pubDate>Fri, 05 Apr 2024 17:32:47 GMT</pubDate>
         </item>
@@ -289,57 +322,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafm9347693.d.html</link>
             <guid>3563351</guid>
             <pubDate>Fri, 05 Apr 2024 14:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银：将特斯拉目标价从165美元下调至160美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafn8343817.d.html</link>
-            <guid>3563350</guid>
-            <pubDate>Fri, 05 Apr 2024 14:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车：拟议交易及债转股将不再进行】恒大汽车在港交所公告称，于本公告日期，拟议交易及债转股的条款修订尚未取得任何进一步进展。公司确认，拟议交易及债转股将不再进行。由于股份认购不再进行，根据收购守则规则26，认购人概无义务就其及与其一致行动人士尚未拥有或同意收购的所有已发行股份提出无条件强制性全面要约。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafh3411461.d.html</link>
-            <guid>3563349</guid>
-            <pubDate>Fri, 05 Apr 2024 14:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Meta Platforms将对AI生成内容做更多标注，而非删除这些内容，新政策将于五月开始实施。]]></title>
-            <guid>3563348</guid>
-            <pubDate>Fri, 05 Apr 2024 14:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大3月Ivey季调后PMI 57.5，前值53.9。加拿大3月Ivey未季调PMI 63，前值56.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafk0187094.d.html</link>
-            <guid>3563347</guid>
-            <pubDate>Fri, 05 Apr 2024 14:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯就加沙局势发表声明 再次呼吁立即实现人道主义停火】当地时间4月5日，联合国秘书长古特雷斯就加沙局势发表声明。古特雷斯再次紧急呼吁立即实现人道主义停火，无条件释放所有被扣押人员，保护平民，并不受阻碍地运送人道主义援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaqvafn8342476.d.html</link>
-            <guid>3563345</guid>
-            <pubDate>Fri, 05 Apr 2024 13:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军所乘小米SU7后轮螺丝脱落？小米回应 雷军：大家现在拿着放大镜来看小米SU7，我们压力很大】近日，有网友发现雷军在北京小米汽车工厂交付日乘坐的蓝色小米SU7 Max后轮有白色附着物掉落。4月5日，小米王化在微博对此回应称，经现场勘察为地面上存在现场搭建交付仪式物料颗粒，经后轮碾压后粘附在轮胎上，后自然掉落被视频记录下来。请大家放心并非车辆螺丝脱落，也感谢细心网友的发现。 据中国证券报此前报道，王化为小米集团公关部总经理。随后，雷军转发了该条微博，并配文：“大家现在都是拿着放大镜来看小米SU7，我们压力很大。但很多拿放大镜看的问题，可能不是问题。大家有空仔细看一下。”]]></title>
-            <guid>3563342</guid>
-            <pubDate>Fri, 05 Apr 2024 13:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国东北部极端天气持续 超36万用户断电】当地时间4月5日，据美国有线电视新闻网（CNN）报道，美国东北部地区遭遇大雪和强风，导致缅因州和新罕布什尔州发生大规模断电。由于积雪覆盖，树木和电线倒塌，出行安全受到影响，且大面积停电导致许多人无法获得室内供暖。缅因州和新罕布什尔州有数百所学校取消了面对面课程。美国电力跟踪网站PowerOutage.us数据显示，截至美国东部时间5日上午9时，缅因州仍有超过26万用户断电，新罕布什尔州有超过10万用户断电。（央视新闻）]]></title>
-            <guid>3563341</guid>
-            <pubDate>Fri, 05 Apr 2024 13:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰基辅拉响防空警报】当地时间4月5日，乌克兰基辅拉响防空警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaquvxk3539558.d.html</link>
-            <guid>3563340</guid>
-            <pubDate>Fri, 05 Apr 2024 13:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【味千（中国）：何百全获委任为独立非执行董事】4月5日，味千（中国）在港交所公告，何百全已获委任为独立非执行董事、董事会提名委员会主席以及董事会审核委员会及董事会薪酬委员会各自之成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-05/detail-inaquvxk3539547.d.html</link>
-            <guid>3563339</guid>
-            <pubDate>Fri, 05 Apr 2024 13:42:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
