@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 10 Apr 2024 21:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 22:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：伊朗迈赫尔通讯社移除了有关关闭伊朗首都德黑兰领空的报道，并否认发表过这样的报道。]]></title>
+            <guid>3571256</guid>
+            <pubDate>Wed, 10 Apr 2024 22:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台4月11日06时继续发布大雾黄色预警】预计，11日白天至夜间，山东半岛东部沿岸海域、黄海东北部海域、杭州湾附近海域、浙江北部沿岸海域将有能见度不足1公里的大雾。此外，11日早晨至上午，北京中部、河北东南部、河南南部、湖北中部、贵州中部等地的部分地区有大雾，其中，河南南部、湖北中部等地的部分地区有能见度低于200米的强浓雾，局地有能见度低于50米的特强浓雾。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaue9450501.d.html</link>
+            <guid>3571255</guid>
+            <pubDate>Wed, 10 Apr 2024 22:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马里过渡政府宣布暂停各政党及政治团体活动】根据马里媒体当地时间10日报道，马里过渡政府当天表示，出于公共秩序原因，将暂停该国各政党和各政治团体的活动，直至另行通知。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaue9450493.d.html</link>
+            <guid>3571254</guid>
+            <pubDate>Wed, 10 Apr 2024 22:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【图示：伊朗德黑兰上空实时航班情况】此前伊朗国防部长表示，从当地时间午夜开始，由于“军事演习”，首都德黑兰上空的所有空中交通将暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaue9448989.d.html</link>
+            <guid>3571251</guid>
+            <pubDate>Wed, 10 Apr 2024 21:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普“封口费”案开审推迟请求再遭驳回】据《国会山报》等媒体报道，纽约州上诉法院当地时间4月10日驳回了美国前总统特朗普推迟对其“封口费”案件开庭时间的再次上诉。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaue9447280.d.html</link>
+            <guid>3571243</guid>
+            <pubDate>Wed, 10 Apr 2024 21:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗国防部长表示，从当地时间午夜开始，由于“军事演习”，首都德黑兰上空的所有空中交通将暂停。]]></title>
+            <guid>3571242</guid>
+            <pubDate>Wed, 10 Apr 2024 21:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔前副总统格拉斯在狱中试图自杀】据多家媒体报道，厄瓜多尔前副总统格拉斯当地时间10日试图在狱中自杀。格拉斯曾两度担任厄瓜多尔副总统，后因受贿和非法结社等罪名被判处5年有期徒刑。2023年12月开始，格拉斯在墨西哥驻厄大使馆内寻求庇护。4月5日晚，厄瓜多尔安全部队进入墨西哥使馆，以涉嫌贪污等罪名逮捕身处使馆的格拉斯。随后，墨西哥外交部宣布与厄瓜多尔断交。在格拉斯入狱后，厄瓜多尔监狱管理机构报告，前副总统格拉斯因健康状况“可能失调”于4月8日入院治疗。在4月9日，格拉斯出院并转回原收押监狱。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaue9446247.d.html</link>
+            <guid>3571239</guid>
+            <pubDate>Wed, 10 Apr 2024 21:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国司法部启动日本钢铁对美国钢铁收购案的正式调查。美国钢铁盘后跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarmaua1363918.d.html</link>
+            <guid>3571238</guid>
+            <pubDate>Wed, 10 Apr 2024 21:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2.6美元/分钟 Adobe买视频资源构建文生视频模型】据报道，Adobe已开始采购视频资源，以构建其人工智能文本到视频的生成器，在OpenAI展示了一项类似技术后，该公司试图赶上竞争对手。相关文件显示，该公司要求其摄影师和艺术家群体提供100多段人物动作和情感表现的短片，以及脚、手或眼睛的简单解剖照片。视频的费用平均为每分钟2.62美元左右，但也可能高达每分钟7.25美元左右。Adobe表示，他们正在开发视频生成技术，并计划在今年晚些时候讨论更多相关内容。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarkwnh0579100.d.html</link>
@@ -51,7 +97,7 @@
             <pubDate>Wed, 10 Apr 2024 20:23:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新规优化独董履职生态 A股公司密集调整独董津贴标准】4月10日晚，招商南油、中国武夷等多家公司发布公告，拟调整公司独立董事“报酬”。自去年9月初独董新规施行以来，上市公司独立董事履职生态日渐趋严、趋实，而独立董事的“待遇”也发生着变化，百余家企业上调了独立董事津贴。多位受访人士表示，新的独立董事制度对独立董事履职提出了更加明确、细致的规定，同时在履职保障上，也对上市公司提出从组织、人员、资源、信息、经费等方面为独立董事履职提供必要条件，确保独立董事依法充分履职等要求，从而让其能够积极参与公司的决策过程并监督公司管理层的行为，更好维护全体股东的利益。（上证报）]]></title>
+            <title><![CDATA[【新规优化独董履职生态 A股公司密集调整独董津贴标准】招商南油、中国武夷等多家公司4月10日晚发布公告，拟调整公司独立董事“报酬”。自去年9月初独董新规施行以来，上市公司独立董事履职生态日渐趋严、趋实，而独立董事的“待遇”也发生着变化，百余家企业上调了独立董事津贴。多位受访人士表示，新的独立董事制度对独立董事履职提出了更加明确、细致的规定，同时在履职保障上，也对上市公司提出从组织、人员、资源、信息、经费等方面为独立董事履职提供必要条件，确保独立董事依法充分履职等要求，从而让其能够积极参与公司的决策过程并监督公司管理层的行为，更好维护全体股东的利益。 (上证报)]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarkwne1490144.d.html</link>
             <guid>3571211</guid>
             <pubDate>Wed, 10 Apr 2024 20:10:02 GMT</pubDate>
@@ -164,34 +210,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarksek9693186.d.html</link>
             <guid>3571152</guid>
             <pubDate>Wed, 10 Apr 2024 17:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内险企发债、增资合计获批197亿元 预计全年“补血”需求将维持高位】今年险企密集发债、增资。4月9日，国家金融监督管理总局发布了《关于中国人民财产保险股份有限公司发行资本补充债券的批复》，同意人保财险在全国银行间债券市场公开发行10年期可赎回资本补充债券，发行规模人民币120亿元。从公开数据看，这是今年险企发行资本补充债券获监管批复同意的第一例。据统计，今年以来，已有8家险企获批增资，增资额超过77亿元。年内合计“补血”197亿元。受访专家表示，受偿二代二期工程、去年资本市场波动、行业深度调整与转型等因素影响，2024年保险业资本补充需求仍将维持高位。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarksek0694863.d.html</link>
-            <guid>3571148</guid>
-            <pubDate>Wed, 10 Apr 2024 17:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列或即将面临大规模导弹和无人机袭击】知情人士表示，美国及其盟友认为，伊朗或其“代理人”即将对以色列境内的军事和政府目标发动大规模导弹或无人机袭击，这将标志着已持续6个月的冲突显著扩大。这些人说，潜在的袭击可能会在未来几天发生，可能会使用高精度导弹。其中一位知情人士表示，根据美国和以色列情报机构的评估，这更多地被视为时间问题，而不是是否会发生的问题。伊朗此前威胁要袭击以色列，以就上周伊朗驻叙利亚大使馆领事部门建筑遭到袭击展开报复。]]></title>
-            <guid>3571147</guid>
-            <pubDate>Wed, 10 Apr 2024 17:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：期待在印度与印度总理莫迪会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarksek0694690.d.html</link>
-            <guid>3571146</guid>
-            <pubDate>Wed, 10 Apr 2024 17:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，癌症治疗药品生产商Janux Therapeutics探索若干选项，包括潜在的（公司/资产）出售。]]></title>
-            <guid>3571145</guid>
-            <pubDate>Wed, 10 Apr 2024 17:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷经济部长Caputo：阿根廷将消除某些化肥的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-11/detail-inarkseh1593727.d.html</link>
-            <guid>3571132</guid>
-            <pubDate>Wed, 10 Apr 2024 17:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
