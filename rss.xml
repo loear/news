@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 16 Apr 2024 20:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 21:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以军称再次袭击黎巴嫩南部多处军事建筑】当地时间16日晚，以色列国防军发表声明称，以军当天稍早前再次出动战机袭击了黎巴嫩南部地区多处隶属于黎真主党武装的军事建筑。声明还称，当天早些时候，有多枚火箭弹从黎巴嫩射向以色列北部多个地区，没有造成人员伤亡。以军随后对火箭弹发射地展开炮击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-17/detail-inasarke0861863.d.html</link>
+            <guid>3581626</guid>
+            <pubDate>Tue, 16 Apr 2024 21:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【危地马拉南部地区发生4.4级地震】根据欧洲-地中海地震中心报告，当地时间4月16日13时36分，危地马拉南部埃斯昆特拉省发生4.4级地震，震源深度68.6公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-17/detail-inasarke9858745.d.html</link>
+            <guid>3581616</guid>
+            <pubDate>Tue, 16 Apr 2024 20:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[路易威登母公司ADR（LVMUY）收涨3.09%，该公司CFO在业绩报告发布时表示，一季度中国时装与皮草需求增长约10%，让人“非常满意”。]]></title>
+            <guid>3581613</guid>
+            <pubDate>Tue, 16 Apr 2024 20:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军称打死两名黎巴嫩真主党武装指挥官】当地时间16日晚，以色列国防军在一份声明中称，以军当天在黎巴嫩南部的一次空袭行动中打死一名真主党武装部队高级指挥官穆罕默德·沙胡里（Muhammad Shahouri）。以军在声明中表示，沙胡里是负责拉德万西线火箭弹袭击行动的指挥官，自本轮巴以冲突爆发以来，他负责策划并执行多次从黎巴嫩南部向以色列发射火箭弹的袭击行动。此外，声明还表示，黎巴嫩真主党武装另一名负责火箭弹袭击行动的指挥官马哈茂德·法德拉拉（Mahmoud Fadlallah），也在以军此次袭击中丧生。对此，黎巴嫩真主党方面暂无回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-17/detail-inasamah9988108.d.html</link>
@@ -220,22 +237,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-17/detail-inasaeum0108363.d.html</link>
             <guid>3581527</guid>
             <pubDate>Tue, 16 Apr 2024 18:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊美国PRIME会员增长8%】亚马逊美国PRIME会员增长8%，达到1.8亿的新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-17/detail-inasaeum0107244.d.html</link>
-            <guid>3581520</guid>
-            <pubDate>Tue, 16 Apr 2024 17:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统顾问约翰·波德斯塔表示，白宫气候与贸易工作组将成立，成立工作组专注于制定气候和贸易政策，以应对碳泄漏、碳倾销和生命周期排放问题。]]></title>
-            <guid>3581519</guid>
-            <pubDate>Tue, 16 Apr 2024 17:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔驻美国大使馆表示，对美国国会议员霍耶尔关于重新评估与卡塔尔关系的威胁声明感到惊讶。卡塔尔仅仅是一个调解者，我们并不控制以色列或哈马斯，他们完全负责达成停火协议。]]></title>
-            <guid>3581509</guid>
-            <pubDate>Tue, 16 Apr 2024 17:45:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
