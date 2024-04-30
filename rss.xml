@@ -4,11 +4,39 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 30 Apr 2024 18:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 19:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[梅赛德斯-奔驰：Federico Kochlowski被任命为首席执行官，将进行工会投票。]]></title>
+            <guid>3602841</guid>
+            <pubDate>Tue, 30 Apr 2024 19:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部：3月份农产品价格下降了1.1%，同比下降4.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-01/detail-inatseui1782472.d.html</link>
+            <guid>3602840</guid>
+            <pubDate>Tue, 30 Apr 2024 19:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：前币安首席执行官赵长鹏被判四个月监禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-01/detail-inatseui1782139.d.html</link>
+            <guid>3602838</guid>
+            <pubDate>Tue, 30 Apr 2024 19:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：将英伟达(NVDA.O)评级上调至AA-，因人工智能投资强劲；前景展望稳定。]]></title>
+            <guid>3602836</guid>
+            <pubDate>Tue, 30 Apr 2024 18:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音子公司千禧空间系统公司获得了一项价值4.14亿美元的政府合同】 波音子公司千禧空间系统公司获得了一项价值4.14亿美元的政府合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-01/detail-inatrynp0233661.d.html</link>
+            <guid>3602830</guid>
+            <pubDate>Tue, 30 Apr 2024 18:33:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其副总统会见华为公司代表团】 土耳其副总统杰夫代特·耶尔马兹在其总统府官邸会见了由华为公司高级副总裁、欧洲地区部总裁鲁勇率领的华为代表团。双方就土耳其ICT产业发展、绿色能源行业发展趋势及双方未来合作方向等议题，进行了广泛深入的交流。(华为官网)]]></title>
             <guid>3602824</guid>
@@ -289,57 +317,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruep1993804.d.html</link>
             <guid>3602745</guid>
             <pubDate>Tue, 30 Apr 2024 15:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列代表团4月30日前往开罗参与停火谈判】 4月30日，以方谈判代表将前往埃及首都开罗，参加与哈马斯的停火谈判。而哈马斯代表团已经于29日暂时离开开罗，对最新停火方案进行内部讨论。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruen8403918.d.html</link>
-            <guid>3602744</guid>
-            <pubDate>Tue, 30 Apr 2024 15:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦4月罕见强降雨造成至少143人死亡】巴基斯坦官员4月30日说，本月降雨量比同期正常水平多了一倍多，巴全国至少143人死于强降雨及其引发的灾害。巴基斯坦气象局发言人查希尔·艾哈迈德·巴伯尔说，今年4月的降雨量比同期正常水平多了1.64倍，非常罕见。其中，巴基斯坦西北部开伯尔-普什图省受灾最为严重，暴雨引发洪水和山体滑坡，造成至少83人死亡，其中包括38名儿童，超过3500所房屋受损。在人口最多的旁遮普省，小麦收割受到冰雹天气影响，雷击和房屋倒塌造成至少23人死亡。在西南部俾路支省，强降雨及其引发的事故造成21人死亡，其中7人死于雷击。 就在巴基斯坦多地遭遇罕见暴雨天气的同时，该国最大城市卡拉奇28日气温突破37摄氏度，为今年以来该市最热的一天。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruem1627169.d.html</link>
-            <guid>3602742</guid>
-            <pubDate>Tue, 30 Apr 2024 15:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内塔尼亚胡：无论是否达成停火和释放人质协议，以色列都将在拉法对哈马斯实施行动】 以色列总理内塔尼亚胡当天坚称，无论是否达成停火和释放人质协议，以色列都将在加沙南部城市拉法对哈马斯实施行动。报道称，内塔尼亚胡30日在会见阵亡士兵家人时，重申了以色列对即将在拉法采取军事行动的承诺，“我们不可能在实现所有目标之前停止战争。”内塔尼亚胡称，大约20万拉法平民已经撤离，那里很快将有大规模地面行动。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruer0319745.d.html</link>
-            <guid>3602741</guid>
-            <pubDate>Tue, 30 Apr 2024 15:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朗源股份：东方行知将成为公司控股股东 赵征将成为实际控制人】朗源股份公告，公司控股股东新疆尚龙、王贵美与东方行知签署了《表决权委托协议》，新疆尚龙及王贵美分别将其持有的公司5280万股股份、5995.3万股股份，合计1.1275亿股股份（占公司总股本的23.95%）对应的表决权按《表决权委托协议》的约定委托给东方行知行使，东方行知同意接受该委托。本次《表决权委托协议》生效后，东方行知将成为公司的控股股东，赵征将成为公司实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruer0318083.d.html</link>
-            <guid>3602737</guid>
-            <pubDate>Tue, 30 Apr 2024 15:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫天科技：收到福建证监局警示函】紫天科技公告，公司于2024年4月30日收到福建证监局警示函，公司2023年大额亏损，按照规定应当在会计年度结束之日起一个月内进行业绩预告，截至2024年1月31日，公司未披露2023年度业绩预告。福建证监局决定对公司及董事长宋庆、会计工作负责人LIXIANG(李想)采取出具警示函的行政监管措施，并记入证券期货市场诚信档案数据库。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruep1989968.d.html</link>
-            <guid>3602736</guid>
-            <pubDate>Tue, 30 Apr 2024 15:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅：中阿要坚持走相互支持、合作共赢的道路】4月30日，中共中央政治局委员、外交部长王毅在北京同阿根廷外长蒙迪诺会谈后共同会见记者。王毅指出，中阿虽相距遥远，但建交半个多世纪以来，两国关系实现了从合作伙伴、战略伙伴到全面战略伙伴的跨越式发展。中国从不干涉别国内政，我们尊重阿根廷人民自己的选择，祝愿阿根廷改革取得成功。相信阿根廷人民一定能克服困难，探索出一条符合自身国情的成功发展道路。王毅表示，展望未来，中阿要坚持走相互支持、合作共赢的道路。（新华社）]]></title>
-            <guid>3602733</guid>
-            <pubDate>Tue, 30 Apr 2024 15:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外交部长告诉以色列总理内塔尼亚胡，拉法的军事行动是一个糟糕的主意，不会解决任何问题。]]></title>
-            <guid>3602731</guid>
-            <pubDate>Tue, 30 Apr 2024 15:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【余承东卸任华为终端BG CEO，终端COO何刚接任】今日下午，华为内部发布人事调整文件，宣布余承东将卸任华为终端BG CEO一职，仍保留终端BG董事长职位。原华为终端BG、首席运营官何刚接任华为终端BG CEO。知情人士透露，除了上述人事变动，这封文件并无更多信息。关于这次重大人事变动的背景和余承东卸任终端BG CEO之后，新的业务重心，也都未说明。]]></title>
-            <guid>3602730</guid>
-            <pubDate>Tue, 30 Apr 2024 15:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉日内跌幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-30/detail-inatruer0312837.d.html</link>
-            <guid>3602728</guid>
-            <pubDate>Tue, 30 Apr 2024 15:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
