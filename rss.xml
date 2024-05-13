@@ -4,11 +4,45 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 13 May 2024 19:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 20:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：Fisker(FSR.N)从现有投资者那里筹集了346万美元，（总资金）可能达到750万美元。]]></title>
+            <guid>3616403</guid>
+            <pubDate>Mon, 13 May 2024 20:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及苏伊士运河管理局：红海紧张局势导致近3400艘船改变航线】苏伊士运河管理局（SCA）主席奥萨马•拉比表示，自2023年11月以来，由于红海紧张局势加剧，近3400艘船只被迫改变航线，没有进入苏伊士运河。拉比在埃及议会发表讲话时表示：“红海的不稳定局势导致3395艘船驶往好望角（南非），而不是驶往苏伊士运河。”他提请注意，通过好望角的航程需要的时间长很多，他并强调，苏伊士运河是国际贸易的理想路线。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4010677.d.html</link>
+            <guid>3616396</guid>
+            <pubDate>Mon, 13 May 2024 20:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄紧急情况部：一客轮在阿尔汉格尔斯克港发生火灾】据俄罗斯紧急情况部5月13日消息，正在阿尔汉格尔斯克港进行维修的“罗蒙诺索夫”号客轮当天发生火灾，起火面积近1000平方米。据初步消息，火灾未造成人员伤亡。当地媒体报道称，“罗蒙诺索夫”号客轮长78米、宽14.5米、高12.5米，建成于1962年，2005年进行了全面现代化改造。去年5月，该船在维修期间也曾发生过火灾。（央视新闻）]]></title>
+            <guid>3616394</guid>
+            <pubDate>Mon, 13 May 2024 20:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯泰兰蒂斯Stellantis洽谈投资印尼镍冶炼厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhc1668122.d.html</link>
+            <guid>3616390</guid>
+            <pubDate>Mon, 13 May 2024 20:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新策略可提升无铅钙钛矿太阳能电池转换效率】记者13日从中国科学技术大学获悉，该校微电子学院特任研究员胡芹课题组在无铅钙钛矿太阳能电池研究中取得新进展。课题组针对非铅锡基钙钛矿半导体存在的自掺杂严重、缺陷密度高、非辐射复合损失大等问题，成功构建钙钛矿同质结，以促进光生载流子的分离和提取。这证明了同质结构筑策略在锡基钙钛矿太阳能电池领域的应用潜力，也为其他钙钛矿光电器件的结构优化提供了新思路。该成果日前发表于国际知名期刊《纳米快报》，并被选为封面论文。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrfw1794498.d.html</link>
+            <guid>3616382</guid>
+            <pubDate>Mon, 13 May 2024 19:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称在别尔哥罗德州拦截火箭弹等目标】俄罗斯国防部通报称，当地时间5月13日约19时30分，俄军防空系统在别尔哥罗德州拦截了乌方1架无人机、2枚火箭弹和6枚航空制导炸弹。乌克兰官方暂未对此事件作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4007569.d.html</link>
+            <guid>3616361</guid>
+            <pubDate>Mon, 13 May 2024 19:29:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫国家安全顾问沙利文：周一与国防部长和乌克兰官员进行了交谈。美国对乌克兰的一部分军事援助已经到达战场，未来几天将有另一批次的装备交付计划。]]></title>
             <guid>3616338</guid>
@@ -208,98 +242,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesi1904591.d.html</link>
             <guid>3616256</guid>
             <pubDate>Mon, 13 May 2024 16:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度孟买铁制广告牌倒塌事故已致8人死亡】当地时间5月13日，据印度媒体报道，印度孟买当日发生的铁制广告牌倒塌事故死亡人数上升至8人。]]></title>
-            <guid>3616253</guid>
-            <pubDate>Mon, 13 May 2024 16:17:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华发股份拟开展租赁住房资产支持专项计划】华发股份公告称，为进一步盘活存量资产、丰富融资渠道，提高公司资金使用效率，公司拟以拥有的租赁住房作为底层资产，聘请华金证券股份有限公司（简称“华金证券”）作为计划管理人，发起设立“华金-华发租赁住房三号资产支持专项计划”，并通过专项计划发行资产支持证券进行融资。总发行额不超过50亿元，其中发行优先级资产支持证券不超过45亿元，次级资产支持证券不低于5亿元（最终的发行额度将以上海证券交易所审批为准）;融资期限拟定为18年。其中优先级拟定为2×9年或3×6年，每2年或3年设票面利率调整权和投资者退出选择，同时公司有权选择提前终止专项计划;次级拟定为18年，随优先级证券结束而结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesi1904144.d.html</link>
-            <guid>3616252</guid>
-            <pubDate>Mon, 13 May 2024 16:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线上涨50%，创2021年以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4238843.d.html</link>
-            <guid>3616251</guid>
-            <pubDate>Mon, 13 May 2024 16:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：2024年6月起，谷歌将限制被暂停账户的部分功能使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4236737.d.html</link>
-            <guid>3616250</guid>
-            <pubDate>Mon, 13 May 2024 16:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[梅琳达·盖茨表示辞去微软联合创始人比尔·盖茨基金会联合主席职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4236073.d.html</link>
-            <guid>3616249</guid>
-            <pubDate>Mon, 13 May 2024 16:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉重新雇佣了上个月被解雇的一些超级充电站员工，特斯拉充电总监Max de Zegher也已回归公司。]]></title>
-            <guid>3616248</guid>
-            <pubDate>Mon, 13 May 2024 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德：MIM8 Frontier 2临床试验实现共同的主要终点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5123233.d.html</link>
-            <guid>3616247</guid>
-            <pubDate>Mon, 13 May 2024 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度孟买铁制广告牌倒塌事故已致4人死亡】当地时间5月13日，据印度媒体报道，印度孟买当日发生的铁制广告牌倒塌事故死亡人数上升至4人。（央视新闻）]]></title>
-            <guid>3616246</guid>
-            <pubDate>Mon, 13 May 2024 15:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所向包钢股份下发监管工作函】 上交所向包钢股份下发监管工作函，就公司关联交易相关议案被否决明确监管要求。公告显示，公司于5月13日召开2023年年度股东大会决议，关于2023年度关联交易执行情况及2024年度日常关联交易预测的议案审议结果为不通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesa2018528.d.html</link>
-            <guid>3616243</guid>
-            <pubDate>Mon, 13 May 2024 15:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄总统与玻利维亚总统通话 同意加强各层级接触】 据克里姆林宫当地时间13日发布消息，当天俄罗斯总统普京与玻利维亚总统阿尔塞通电话。两国领导人讨论了进一步发展双边关系问题，重点是实施经贸和能源领域互利合作项目。双方同意加强各层级接触。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5122571.d.html</link>
-            <guid>3616241</guid>
-            <pubDate>Mon, 13 May 2024 15:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利汉学家：习近平主席访问为匈中关系发展注入新动力】匈牙利国际事务研究院研究员、帕兹马尼·彼得天主教大学中文系主任盖尔盖伊·绍拉特日前在布达佩斯接受新华社记者专访时说，习近平主席访问匈牙利为匈中双边关系发展注入新动力。“这次访问是一个里程碑。”盖尔盖伊·绍拉特说，“匈中关系正走在正确轨道上，为合作开辟了新前景。”习近平主席访问匈牙利期间，两国领导人共同宣布，将中匈关系提升为新时代全天候全面战略伙伴关系。在盖尔盖伊·绍拉特看来，匈中关系驶入“黄金航道”，离不开两国领导人的战略引领、定向把舵。（新华社）]]></title>
-            <guid>3616239</guid>
-            <pubDate>Mon, 13 May 2024 15:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【猩球崛起新世界票房破9000万】据猫眼专业版数据，电影《猩球崛起：新世界》上映4天 ，总票房破9000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4232607.d.html</link>
-            <guid>3616238</guid>
-            <pubDate>Mon, 13 May 2024 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【维护产业链供应链稳定畅通 24年全球贸易投资促进峰会北京倡议发布】2024年全球贸易投资促进峰会在北京举行，峰会以“互信与合作：变局中的选择”为主题，呼吁各国工商界为维护全球产业链供应链稳定顺畅、促进全球经济循环、增进各国人民福祉作出贡献。在2024年全球贸易投资促进峰会上，中国贸促会代表与会工商界发布了《2024年全球贸易投资促进峰会北京倡议》。《倡议》提出，全球工商界要加快推动世界经济复苏，坚定维护以世贸组织为核心的多边贸易体制，完善全球经济治理。维护产业链供应链稳定畅通，加强国际产业分工协作，推动产业链供应链优化升级。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1898948.d.html</link>
-            <guid>3616235</guid>
-            <pubDate>Mon, 13 May 2024 15:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国跑酷队夺得首枚世界杯金牌】当地时间12日，2024年跑酷世界杯（蒙彼利埃站）比赛中，中国选手商春松夺得女子自由式冠军，这是中国跑酷队的首枚世界杯金牌。商春松1996年出生，曾在2016年里约奥运会上获女子体操团体季军。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesa2016640.d.html</link>
-            <guid>3616234</guid>
-            <pubDate>Mon, 13 May 2024 15:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部驻港公署：强烈谴责英方滥用国安名义捏造事端】5月13日，外交部驻港公署发表声明，强烈谴责英方罗织罪名，任意逮捕中国公民，污蔑香港特区政府。声明全文如下：
-
-5月13日，英国警方以涉嫌向香港特区情报部门提供协助为借口，宣布起诉包括中国公民在内的三名人员。中方对英方违背国际法原则和国际关系基本准则，罗织罪名，编造所谓案件，对香港特区政府进行无中生有的污蔑抹黑表示强烈不满和坚决反对。
-
-英国《国家安全法》条款定义模糊、执法部门授权宽泛已被世人诟病。英方滥用国安名义，无视基本人权保障，任意逮捕羁押，不仅违背法治精神，更是赤裸裸的政治操弄，其干预香港事务、包庇勾连反中乱港分子的险恶用心昭然若揭。
-
-我们强烈敦促英方切实保障相关人员合法权益，立即停止打着国安旗号炮制案件、制造事端、亵渎法治精神的卑劣行径。我们正告英方，立即悬崖勒马、纠正错误，停止对中国公民采取任何有罪推定的恶意诋毁，停止干预香港事务和中国内政，否则必将遭到中方坚决有力反击！（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4231415.d.html</link>
-            <guid>3616231</guid>
-            <pubDate>Mon, 13 May 2024 15:32:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
