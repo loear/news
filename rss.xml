@@ -4,11 +4,16 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 19 May 2024 16:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 17:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿塞拜疆总统阿利耶夫回应“载有伊朗总统的直升机硬着陆”：深感不安，愿提供任何协助！】 刚刚，阿塞拜疆总统阿利耶夫在社交媒体发文，回应“载有伊朗总统莱希的直升机硬着陆”的消息。阿利耶夫在文中表示19日当天刚刚与莱希会面。“今天，在与伊朗伊斯兰共和国总统莱希友好告别之后，我们对一架载有最高代表团的直升机在伊朗硬着陆的消息深感不安”。阿利耶夫说，“我们为莱希总统和随行代表团祈祷”，“作为邻国、朋友和兄弟国家，阿塞拜疆随时准备提供所需的任何援助”。（环球网）]]></title>
+            <guid>3624029</guid>
+            <pubDate>Sun, 19 May 2024 16:54:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克政府：伊拉克愿意向伊朗提供帮助，协助寻找伊朗总统的直升机。]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavuxqf1878020.d.html</link>
@@ -519,12 +524,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-19/detail-inavuhsm7288207.d.html</link>
             <guid>3623857</guid>
             <pubDate>Sun, 19 May 2024 10:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本黄金零售价连续4天创新高 铂金价格一个月飙涨近16%】本周，日本国内的黄金零售价格连续4天刷新历史新高，铂金及银价也在迅速上涨。数据显示，日本铂金的价格本周六已经达到每克6040日元（约合人民币280.9元），一个月内涨幅达到近16%。此外，本周日本的铂金期货成交价格也创下了11年来的最高水平。相关调查显示，近两年，全球铂金都处于供应短缺的状态，预计今后其价格将进一步攀升，这也将进一步推高日本国内的铂金成交价格。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-19/detail-inavuhsm7283515.d.html</link>
-            <guid>3623855</guid>
-            <pubDate>Sun, 19 May 2024 09:41:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
