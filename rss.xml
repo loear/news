@@ -4,11 +4,29 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 May 2024 18:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 19:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美军称也门胡塞武装向红海发射两枚反舰弹道导弹】当地时间5月25日，美国中央司令部在其社交媒体平台上发文称，也门胡塞武装于萨那时间25日凌晨3时50分左右，向红海发射了两枚反舰弹道导弹。美国、联军以及商船暂无人员伤亡或设备损坏的报告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnsnc5356703.d.html</link>
+            <guid>3632155</guid>
+            <pubDate>Sat, 25 May 2024 19:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：津巴布韦批准马斯克的星链互联网服务许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnsnh5522166.d.html</link>
+            <guid>3632153</guid>
+            <pubDate>Sat, 25 May 2024 18:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一架战机在英国林肯郡坠毁 1名飞行员死亡】当地时间5月25日，一架战斗机在英国林肯郡英国皇家空军基地附近坠毁，一名飞行员死亡。英国皇家空军称，这架战机属于英国林肯郡科宁斯比皇家空军基地的不列颠战役纪念飞行队。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnsnh5522087.d.html</link>
+            <guid>3632152</guid>
+            <pubDate>Sat, 25 May 2024 18:28:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄称控制顿涅茨克地区一定居点 乌称继续加强防线】俄罗斯国防部当地时间25日发布战报称，在过去一天中，俄军控制了顿涅茨克地区的一个定居点。俄军在哈尔科夫、阿夫杰耶夫卡、顿涅茨克等方向击退乌军多次进攻并发动多次攻势。俄防空部队击落乌军25架无人机。乌克兰武装部队总参谋部25日发布战况信息称，过去24小时内，乌军对俄军17个人员集中区、两处基础设施实施了打击。沃尔昌斯克地区的战斗仍在继续，乌军继续加强防线。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnsnh5517059.d.html</link>
@@ -463,18 +481,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawmzqn9099474.d.html</link>
             <guid>3632053</guid>
             <pubDate>Sat, 25 May 2024 11:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列空袭叙利亚边境城镇 已致1死多伤】当地时间5月25日11时左右，以色列空袭了靠近叙黎边境的叙利亚城镇古塞尔。据悉，以军空袭的目标是一辆汽车与一辆货车，目前已经造成1人死亡，另有多人受伤。叙利亚反对派表示，以色列空袭的车辆隶属于黎巴嫩真主党。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawmzqq5876439.d.html</link>
-            <guid>3632051</guid>
-            <pubDate>Sat, 25 May 2024 11:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一滑翔机在日本熊本县坠毁 机上一人伤势不明】总台记者当地时间25日获悉，日本熊本县警方消息称，当天16时30分左右，一架滑翔机在熊本县产山村一公园附近坠毁。据悉，坠毁滑翔机上人员为一名20多岁男子。事发后，该男子已由直升机送往医院，目前具体伤势不明。有消息称，该男子被转移送医时尚有意识。目前当地警方正在对该起事件的详细情况展开调查。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawmzqs4323388.d.html</link>
-            <guid>3632050</guid>
-            <pubDate>Sat, 25 May 2024 11:07:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
