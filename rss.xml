@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 01 Jun 2024 22:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 23:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国移动广东公司原党委书记、董事长、总经理魏明接受纪律审查和监察调查】据中国移动纪检监察组、河南省纪委监委消息：中国移动广东公司原党委书记、董事长、总经理魏明涉嫌严重违纪违法，目前正接受中国移动纪检监察组和河南省商丘市监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhwvi8936032.d.html</link>
+            <guid>3641239</guid>
+            <pubDate>Sat, 01 Jun 2024 23:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丹麦首相：乌克兰可在其境外使用丹麦武器】 据央视新闻，丹麦首相弗雷泽里克森表示，丹麦提供的F-16战斗机将很快交付给乌克兰。弗雷泽里克森还表示，乌克兰可以在乌克兰境外使用丹麦武器以达到军事目的。据悉，丹麦是最早同意向乌克兰提供F-16战斗机的国家之一。此前，丹麦外交大臣拉斯穆森曾称，如果乌克兰使用西方国家提供的F-16战斗机来袭击俄罗斯境内的军事目标，将是符合国际法的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhyww7384955.d.html</link>
+            <guid>3641238</guid>
+            <pubDate>Sat, 01 Jun 2024 23:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东宁阳煤矿透水事故8人被困，当地成立救援指挥部开展救援】 山东泰安市宁阳县应急管理局就山东能源华丰煤矿发生透水事故发布通报：2024年6月1日，山东能源华丰煤矿发生透水事故，造成8名矿工被困。事故发生后，省、市、县三级启动应急处置机制，成立联合救援指挥部，全力组织开展救援。公开资料显示：华丰煤矿于2011年被授予首批国家级绿色矿山试点单位 ，2014年通过审核验收并进行公示。（央视新闻）]]></title>
+            <guid>3641237</guid>
+            <pubDate>Sat, 01 Jun 2024 23:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、围绕重点领域和重点行业部署十大行动 加大节能降碳攻坚力度（政策解读）；
+2、中马高质量共建“一带一路”稳步推进；
+3、“毕昇印刷合作论坛·德鲁巴对话”在德国举办；
+4、上海瑞金医院产医融合打通创新链——“让医学科技创新更多惠及民生”（高质量发展调研行）；
+5、青岛西海岸新区面朝大海向“新”而行；
+6、婴童用品6项系列标准实施；
+7、粤港澳居民共享大湾区发展成果（观沧海）。]]></title>
+            <guid>3641236</guid>
+            <pubDate>Sat, 01 Jun 2024 23:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成功落月！嫦娥六号着陆月背南极-艾特肯盆地】今天（6月2日），嫦娥六号探测器着上组合体成功着陆月背南极-艾特肯盆地的预选着陆区。嫦娥六号任务将沿用嫦娥五号的采集方式，使用钻取和表取两种采样方式，获得不同层面和深度的样品，并在月球背面同步开展科学探测。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhwvh2146866.d.html</link>
+            <guid>3641234</guid>
+            <pubDate>Sat, 01 Jun 2024 22:35:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中央气象台6月2日06时继续发布暴雨蓝色预警】预计，6月2日08时至3日08时，福建东部沿海、广东东南部沿海、台湾岛以及贵州中南部、广西西部等地部分地区有大到暴雨，其中，台湾岛西北部等地局地有大暴雨（100～140毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～40毫米，局地可超过60毫米），局地有雷暴大风等强对流天气。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhspm9050612.d.html</link>
@@ -504,42 +539,6 @@
             <title><![CDATA[【我国科学家研发出低功耗类脑芯片】据中国科学院自动化研究所消息，该所李国齐、徐波课题组与国内科技企业等单位合作，近日设计了一套能够实现动态计算的算法-软件-硬件协同设计的类脑神经形态SOC（System onChip）系统Speck，展示了类脑神经形态计算在融合高抽象层次大脑机制时的天然优势，相关研究在线发表于《自然·通讯》（Nature Communications）。该研究提出了“神经形态动态计算”的概念，通过设计了一种类脑神经形态系统Speck来实现基于注意力机制的动态计算，在硬件层面做到“没有输入，没有功耗”，在算法层面做到“有输入时，根据输入重要性程度动态调整计算”，从而在典型视觉场景任务功耗可低至0.7毫瓦，进一步挖掘了神经形态计算在性能和能效上的潜力。]]></title>
             <guid>3641061</guid>
             <pubDate>Sat, 01 Jun 2024 12:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【第十届能源、资源、环境与可持续发展国际会议在江苏徐州举办】5月30日至31日，由中国矿业大学主办的第十届能源、资源、环境与可持续发展国际会议在江苏徐州举行，来自美国、英国、德国、加拿大、俄罗斯等20个国家和地区的350余名专家和代表参会。围绕大会主题“聚焦全球能源绿色低碳转型，推进产业升级和可持续发展”，与会代表共商能源领域转型方向与路径，共绘可持续发展蓝图，为推进全球能源绿色低碳转型和产业升级贡献思路。 （中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviv9464244.d.html</link>
-            <guid>3641060</guid>
-            <pubDate>Sat, 01 Jun 2024 12:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【和胜股份取得首个产品碳足迹证书】 据和胜股份消息，5月31日，和胜股份动力电池托盘（FDS-HP19）获得了中国国家级认证机构中国质量认证中心颁发的基于ISO14067标准的产品碳足迹证书。此次产品碳足迹证书的获取标志着和胜股份在碳排放管理和量化方面迈出坚实有力的一步，为公司日后的碳减排工作奠定基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviv9463388.d.html</link>
-            <guid>3641059</guid>
-            <pubDate>Sat, 01 Jun 2024 12:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024端午档预售票房破6000万】据猫眼专业版数据，截至6月1日20时，2024年端午档预售总票房突破6000万，《谈判专家》领跑端午档预售榜。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfxmn4747086.d.html</link>
-            <guid>3641058</guid>
-            <pubDate>Sat, 01 Jun 2024 12:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非执政党非洲人国民大会在议会选举中得票率第一】南非独立选举委员会6月1日发布的初步计票结果显示，执政党非洲人国民大会在国民议会（议会下院）选举中获得40.25%的选票，位列第一。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviv9462657.d.html</link>
-            <guid>3641057</guid>
-            <pubDate>Sat, 01 Jun 2024 12:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部在长沙召开“投资中国”外国投资促进机构圆桌会】6月1日，商务部在长沙第十三届中部博览会期间召开“投资中国”外国投资促进机构圆桌会，商务部副部长兼国际贸易谈判副代表凌激主持，湖南省省委副书记李殿勋出席并致辞。来自加拿大、德国、日本、马来西亚、墨西哥、韩国、英国、美国等32个国家及地区的100余位投促机构、商协会、驻华使领馆及外资企业代表参会。凌激表示，中国政府坚定不移扩大对外开放，不断优化营商环境，切实保护外资企业合法权益。欢迎各国投资促进机构积极参与“投资中国”活动，让更多外国企业走进中国，投资中国。我们将大力支持外国投资促进机构在华发展投促业务，为投资中国作出积极贡献。（商务部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfxmn4746803.d.html</link>
-            <guid>3641056</guid>
-            <pubDate>Sat, 01 Jun 2024 12:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李斌：蔚来在算力方面“丧心病狂”，未来一两年内都是天花板】6月1日，2024（第二届）未来汽车先行者大会在深圳举行，蔚来创始人、董事长、CEO李斌表示，蔚来在算力布局方面一直“丧心病狂”，在未来一两年内都还会是全球天花板。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviv9462206.d.html</link>
-            <guid>3641055</guid>
-            <pubDate>Sat, 01 Jun 2024 12:12:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
