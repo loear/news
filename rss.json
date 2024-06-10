@@ -6,6 +6,74 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 3651327,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqq4254041.d.html",
+            "title": "乌克兰总统泽连斯基表示已抵达德国参加乌克兰复苏会议，与德国总理朔尔茨举行会谈。",
+            "date_modified": "2024-06-10T21:14:05.000Z"
+        },
+        {
+            "id": 3651324,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqm2767522.d.html",
+            "title": "【以军称本轮巴以冲突以来超1.9万枚火箭弹射入以境内】以色列国防军当地时间6月10日发表声明称，自去年10月7日新一轮巴以冲突爆发以来，已有超19000枚火箭弹射入以色列境内，其中数千枚火箭弹被以色列防空部队拦截。以军称，这些火箭弹大多是从加沙地带发射的，但近几个月来，来自黎巴嫩的火箭弹数量一直在增加。",
+            "date_modified": "2024-06-10T21:06:27.000Z"
+        },
+        {
+            "id": 3651321,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqr8629229.d.html",
+            "title": "【乌军任命无人系统部队司令】当地时间6月10日，乌克兰武装部队总参谋部宣布，任命瓦季姆·苏哈列夫斯基为乌克兰武装部队无人系统部队司令。今年2月6日，乌克兰总统泽连斯基签署了有关成立无人系统部队的法令。（央视新闻）",
+            "date_modified": "2024-06-10T20:47:56.000Z"
+        },
+        {
+            "id": 3651320,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqr8628085.d.html",
+            "title": "苹果股价盘后下跌0.29%。",
+            "date_modified": "2024-06-10T20:41:36.000Z"
+        },
+        {
+            "id": 3651319,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqr8627728.d.html",
+            "title": "【乌称袭击俄炼油厂致俄损失5.4亿美元】当地时间6月10日，乌克兰武装部队总参谋部通过社交媒体发布消息称，乌克兰武装部队6月5日袭击了俄罗斯罗斯托夫地区的新沙赫京斯克炼油厂。情报数据显示，由于袭击造成的火灾，俄罗斯损失了150万吨石油和石油产品，约合5.4亿美元。目前，俄罗斯方面对此暂无回应。（央视新闻）",
+            "date_modified": "2024-06-10T20:40:00.000Z"
+        },
+        {
+            "id": 3651317,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqq4245251.d.html",
+            "title": "【安理会通过决议呼吁加沙停火 哈马斯表示欢迎】当地时间6月10日晚，巴勒斯坦伊斯兰抵抗运动（哈马斯）发表声明，对联合国安理会表决通过呼吁在加沙地带实现停火的决议表示欢迎。哈马斯表示，决议中提到的相关停火内容和原则符合哈马斯及加沙民众的要求，哈马斯愿意就此与相关斡旋方合作，与以色列进行间接谈判。（央视新闻）",
+            "date_modified": "2024-06-10T20:37:55.000Z"
+        },
+        {
+            "id": 3651316,
+            "content_html": "",
+            "title": "AT&T仍然预测全年资本支出210亿美元至220亿美元，分析师预期186.7亿美元。",
+            "date_modified": "2024-06-10T20:35:36.000Z"
+        },
+        {
+            "id": 3651315,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqn9541547.d.html",
+            "title": "美国国务院：美国国务卿布林肯周一与以色列国防部长加兰特讨论了加沙停火提议。",
+            "date_modified": "2024-06-10T20:35:16.000Z"
+        },
+        {
+            "id": 3651314,
+            "content_html": "",
+            "title": "马斯克：如果苹果的确能够将ChatGPT整合进iOS系统，那么我们可能也需要将聊天机器人Grok整合进手机系统中。",
+            "date_modified": "2024-06-10T20:34:58.000Z"
+        },
+        {
+            "id": 3651313,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqr8624864.d.html",
+            "title": "巴勒斯坦总统府：我们支持任何呼吁立即停火并保护巴勒斯坦土地统一的决议。",
+            "date_modified": "2024-06-10T20:22:18.000Z"
+        },
+        {
             "id": 3651312,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayiaqr8624690.d.html",
@@ -416,96 +484,6 @@
             "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhrys9781263.d.html",
             "title": "OpenAI任命Kevin Weil为首席产品官。",
             "date_modified": "2024-06-10T17:17:26.000Z"
-        },
-        {
-            "id": 3651228,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryv8853177.d.html",
-            "title": "苹果宣布与佳能（Canon EOS）构建合作伙伴关系。",
-            "date_modified": "2024-06-10T17:15:15.000Z"
-        },
-        {
-            "id": 3651225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryu4470610.d.html",
-            "title": "民调结果显示：法国勒庞所属党派支持率34%，马克龙所属联盟支持率19%。",
-            "date_modified": "2024-06-10T17:13:01.000Z"
-        },
-        {
-            "id": 3651223,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhrys9780365.d.html",
-            "title": "苹果公司：混合头显Vision Pro已经拥有超过2000款APP。VisionOS 2采用机器人学习方式，以创建空间和3D图像。",
-            "date_modified": "2024-06-10T17:10:42.000Z"
-        },
-        {
-            "id": 3651222,
-            "content_html": "",
-            "title": "欧洲第一大化肥生产商Yara International ASA（YAR.NO）在挪威成立一家可再生氢能源工厂，希望采用天然气来去碳。",
-            "date_modified": "2024-06-10T17:09:51.000Z"
-        },
-        {
-            "id": 3651221,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhrys9780056.d.html",
-            "title": "【蒂姆库克：苹果TV连续三年成为评级最高的原创内容】6月11日，一年一度的苹果开发者盛会WWDC上。苹果CEO蒂姆·库克表示，苹果应用的全球用户量已突破10亿，苹果TV连续三年成为评级最高的原创内容。（新浪科技）",
-            "date_modified": "2024-06-10T17:08:41.000Z"
-        },
-        {
-            "id": 3651220,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryu4468828.d.html",
-            "title": "【意大利AI初创公司iGenius寻求融资6.5亿欧元】人工智能初创公司iGenius首席执行官Uljan Sharka周一表示，公司正寻求融资6.5亿欧元(6.98亿美元)，融资后估值约为17亿欧元。该公司的目标是与OpenAI和其他生成型人工智能公司召开竞争。以所谓的独角兽估值完成一轮融资，将使这家意大利初创公司跻身欧洲新兴的热门、资金充足的人工智能公司的精英行列，其中包括法国的Mistral AI和德国的DeepL。尽管一些业内资深人士警告称，基础模型的进一步发展将主要来自Meta 和Alphabet 等老牌企业，但IGenius仍寄希望于投资者对该领域的持续投资热情。",
-            "date_modified": "2024-06-10T17:05:51.000Z"
-        },
-        {
-            "id": 3651219,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryv8850875.d.html",
-            "title": "匈牙利总理欧尔班：北约秘书长斯托尔滕贝格将于周三访问布达佩斯。",
-            "date_modified": "2024-06-10T17:05:26.000Z"
-        },
-        {
-            "id": 3651218,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryu4468446.d.html",
-            "title": "秘鲁司法部延长秘鲁前总统卡斯蒂略的审前监禁时间。",
-            "date_modified": "2024-06-10T17:04:00.000Z"
-        },
-        {
-            "id": 3651216,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryv8850097.d.html",
-            "title": "苹果公司2024年WWDC会议开始。",
-            "date_modified": "2024-06-10T17:01:35.000Z"
-        },
-        {
-            "id": 3651214,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhrys9778105.d.html",
-            "title": "特朗普表示，他将在封口费宣判前会见缓刑监督官。",
-            "date_modified": "2024-06-10T16:55:15.000Z"
-        },
-        {
-            "id": 3651213,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryu4466043.d.html",
-            "title": "【欧股“十一罗汉”：阿斯麦与诺和诺德创新高，LVMH集团跌超2%】 周一（6月10日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收涨0.47%，报963.40欧元，连续三个交易日创收盘历史新高。诺和诺德哥本哈根股价（NOVOB.DC）收涨0.45%，报988.40（丹麦克朗），也连续三天创收盘历史新高。雀巢（NESN.SW）收跌2.47%，LVMH集团（MC.FP）收跌2.12%，罗氏控股（ROG.SW）收跌1.20%，欧莱雅（OR.FP）收跌0.61%。在“十一罗汉”之外，减肥药概念股Zealand制药公司丹麦哥本哈根股价（ZEAL.DC）收涨1.38%。意法半导体（STMPA.FP）收跌0.40%，半导体公司Soitec（SOI.FP）收跌0.18%，爱思强股份（AIXA.GR）收涨0.09%，荷兰半导体设备制造商ASM International NV（ASM.NA）收涨0.61%，BE半导体实业公司（BESI.NA）收涨0.85%。在法国奢侈品公司中，除了欧莱雅、LVMH之外，开云集团（KER.FP）收跌0.05%，保乐力加（RI.FP）收跌1.60%，爱马仕（RMS.FP）收跌2.82%，人头马君度（RCO.FP）收跌2.33%。罗尔斯-罗伊斯（RR/.LN）收涨1.77%，报465.00（便士），突破6月3日所创收盘历史最高位460.90。",
-            "date_modified": "2024-06-10T16:54:31.000Z"
-        },
-        {
-            "id": 3651212,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryv8847910.d.html",
-            "title": "苹果盘中小幅下跌0.7%。",
-            "date_modified": "2024-06-10T16:53:17.000Z"
-        },
-        {
-            "id": 3651211,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-06-11/detail-inayhryv8847351.d.html",
-            "title": "【王毅会见埃塞俄比亚外长塔耶】当地时间2024年6月10日，中共中央政治局委员、外交部长王毅在下诺夫哥罗德会见埃塞俄比亚外长塔耶。王毅表示，中国和埃塞关系保持良好发展势头，习近平主席同阿比总理保持战略沟通，达成一系列重要共识，特别是决定将两国关系提升为全天候战略伙伴关系，为未来合作开辟了广阔前景。中方愿以领导人重要共识为引领，深化全天候友谊，扩大各领域合作，推动双边关系取得更多成果，更好惠及两国人民。（外交部）",
-            "date_modified": "2024-06-10T16:51:05.000Z"
         }
     ]
 }
