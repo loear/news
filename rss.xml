@@ -4,13 +4,37 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 14 Jun 2024 18:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 19:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[法国总统马克龙：不担心解散政府的决定对市场的影响。]]></title>
+            <title><![CDATA[【科特迪瓦阿比让遭遇暴雨至少5人死亡】据科特迪瓦军事消防部门消息，科特迪瓦经济首都阿比让13日遭遇暴雨袭击，目前已造成5人死亡。 消防部门表示，根据初步统计，截至14日早晨，暴雨在阿比让造成5人死亡，17人被送医救治。救援行动仍在继续。 12日以来，科特迪瓦南部持续遭遇强降雨，造成人员及财产损失、交通区域性瘫痪。科特迪瓦有关部门预测，降雨将会持续到下周末。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwst2319050.d.html</link>
+            <guid>3657646</guid>
+            <pubDate>Fri, 14 Jun 2024 18:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹政府重申遵守国际人道主义法和保护平民】苏丹外交部14日发表声明，重申苏丹政府遵守国际人道主义法和保护平民。 声明说，这是对联合国安理会13日通过的相关决议的回应。苏丹武装部队在履行保卫国家和人民的宪法职责的同时，严格遵守国际法规定的交战规则。苏丹政府承诺为向联合国工作人员和人道主义工作者发放入境签证提供便利。苏丹政府将继续与国际社会合作，确保人道主义援助物资送达有需要的人手中。声明还表示苏丹境内不存在迫在眉睫的饥荒。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsu8167235.d.html</link>
+            <guid>3657645</guid>
+            <pubDate>Fri, 14 Jun 2024 18:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古巴一热电厂发生火灾 暂无人员伤亡】当地时间6月14日，古巴马坦萨斯安东尼奥·吉特拉斯热电厂发生火灾。该热电厂的一个1万立方米原油储油罐起火。为防止火势蔓延影响其他储油罐和电力供应，热电厂工人和消防队员正在全力控制火势。随后，马坦萨斯省官员表示，目前火势已经得到控制，没有造成人员伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2547684.d.html</link>
+            <guid>3657643</guid>
+            <pubDate>Fri, 14 Jun 2024 18:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利总理猛批欧洲法院裁决】匈牙利总理欧尔班6月14日在接受采访时，批评欧洲法院此前一天对匈牙利做出的裁决“可耻、令人发指、完全疯狂”。欧洲法院6月13日裁定，匈牙利因未遵守该法院2020年12月的判决，被勒令支付2亿欧元的一次性罚款和每天100万欧元的滞纳金。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2545555.d.html</link>
+            <guid>3657639</guid>
+            <pubDate>Fri, 14 Jun 2024 18:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：不担心解散政府的决定对市场的影响。议会选举中两个极端联盟提出的经济计划不现实。我们的国家正处于一个非常严峻的时刻，经济同时面临重大问题。希望尽快就欧盟高层职位达成一致。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2544280.d.html</link>
             <guid>3657634</guid>
             <pubDate>Fri, 14 Jun 2024 18:27:43 GMT</pubDate>
@@ -271,77 +295,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnax2550908.d.html</link>
             <guid>3657549</guid>
             <pubDate>Fri, 14 Jun 2024 15:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港将加快发展新质生产力】香港特区政府创新科技及工业局局长孙东13日接受媒体采访时表示，香港将加快发展具有本地优势的新质生产力，助力国家高质量发展。孙东认为，香港基础科研实力雄厚，有条件成为全球研发中心。“很多重点企业来香港发展，不约而同都是要在香港建立研发中心。”他表示，香港聚集了一大批初创科技企业，只要做好研发中心的建设，最终会产生出一大批世界级科技企业。他说，在做好研发中心的同时，也要在若干领域实现突破。其中，香港在人工智能领域拥有基础科研优势和丰富的数据资源，正在建设人工智能超算中心，希望培育更加蓬勃的人工智能生态圈。先进制造方面，香港设立了微电子研发院支持第三代半导体的研发，希望聚集相关产业在香港进一步发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnca2758024.d.html</link>
-            <guid>3657548</guid>
-            <pubDate>Fri, 14 Jun 2024 15:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家药监局：创新药发展势头强劲 今年前五个月已批准创新药20个】14日，国务院新闻办公室举行吹风会，介绍《深化医药卫生体制改革2024年重点工作任务》有关情况。国家药监局副局长黄果在会上表示，今年前五个月已经批准了创新药20个、创新医疗器械21个，我国的创新药发展势头强劲，未来可期。 创新是推动医药产业高质量发展、满足群众不断提升的用药需求的关键。近年来，国家药监局通过深化药品审评审批制度改革，鼓励、引导和服务药品创新研发，不断完善标准、优化程序、提高效率、改进服务，释放加快“新药好药”上市的政策红利，一大批创新药、创新医疗器械获批上市。 黄果表示，据统计，2022年至今，国家药监局累计批准创新药品82个、创新医疗器械138个，仅今年前五个月已经批准了创新药20个、创新医疗器械21个，其中既有CAR-T、单克隆抗体等新生物技术产品，也有创新中成药，还包括采用全磁悬浮技术的人工心脏产品、采用人工智能技术的CT图像辅助检测软件等。“无论从数量还是质量上来看，都处于全球前列。可以说，我国的创新药发展势头强劲，未来可期。”他说。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnav5772953.d.html</link>
-            <guid>3657547</guid>
-            <pubDate>Fri, 14 Jun 2024 15:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所庚星股份发出监管工作函】 上交所公告，上交所就庚星股份董事会将控股股东相关临时提案均不予提交股东大会审议发出监管工作函。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnay8374830.d.html</link>
-            <guid>3657546</guid>
-            <pubDate>Fri, 14 Jun 2024 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST广田：股票简称6月18日起变更为“广田集团”】*ST广田公告，公司股票交易自6月18日开市起撤销退市风险警示及其他风险警示，股票简称由“*ST广田”变更为“广田集团”，证券代码仍为“002482”，股票交易的日涨跌幅限制由“5%”变更为“10%”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnca2756360.d.html</link>
-            <guid>3657545</guid>
-            <pubDate>Fri, 14 Jun 2024 15:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年日本登山事故遇难人数创新高 日本去年发生登山事故超3000起】据日媒报道，日本警察厅的数据显示，2023年日本全国共发生登山事故3126起，遇难人数达3568人，是自1961年有统计以来的最高纪录。其中，富士山和高尾山的遇难人数大幅增加。对此，日本警察厅呼吁登山者在登山前应制定安全的路线规划。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnca2756294.d.html</link>
-            <guid>3657544</guid>
-            <pubDate>Fri, 14 Jun 2024 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李家超：香港国际金融中心和航运中心地位很稳固、很有优势】香港特区行政长官李家超14日表示，香港国际金融中心、国际航运中心地位很稳固、很有优势，对此他很有信心。“机遇湾区”“机遇香港”“机遇澳门”主题采访活动正于此间进行。当日，媒体团来到香港特区行政长官办公室对李家超进行了采访。李家超表示，衡量一个国际金融中心不只是看股票买卖，还要看这座城市能否帮助国际融资、银行业活跃度、保险业发展水平、货币流动等诸多因素。李家超说，在上市融资方面，香港已经放宽了相关措施，让一些尚未真正盈利的科创公司来港上市，并不断加强跟不同地区的上市规则对接，相信会有更多公司来港上市。]]></title>
-            <guid>3657543</guid>
-            <pubDate>Fri, 14 Jun 2024 15:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈茂波：讲好机遇处处的香港故事】“港股市场拥有超过2600家上市公司，总市值超30万亿港元，每日成交量约1000亿港元。香港还是全球最大离岸人民币中心，同时连结着内地与国际金融市场。我对香港国际金融中心的地位非常有信心。”香港特区政府财政司司长陈茂波近日在回答记者提问时说。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnax2549028.d.html</link>
-            <guid>3657539</guid>
-            <pubDate>Fri, 14 Jun 2024 15:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李家超：香港国际金融中心和航运中心地位很稳固、很有优势】香港特区行政长官李家超14日在回答记者提问时表示，香港国际金融中心、国际航运中心地位很稳固、很有优势，对此他很有信心。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnav5771706.d.html</link>
-            <guid>3657538</guid>
-            <pubDate>Fri, 14 Jun 2024 15:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其两架消防飞机“硬着陆” 暂无人员伤亡】当地时间6月14日，土耳其西部的穆拉、巴勒克埃希尔、代尼兹利、艾登等地发生森林火灾，多地消防和林业等相关部门派出飞机、直升机、消防车等前往执行灭火和救援任务。其中，在艾登省迪迪姆地区执行消防任务的两架飞机在当地的一个湖泊中“硬着陆”，事故未造成机组人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnay8372239.d.html</link>
-            <guid>3657537</guid>
-            <pubDate>Fri, 14 Jun 2024 14:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白云山：子公司收到澳门药品注册证书】白云山公告，2024年6月14日，公司子公司奇星药业收到澳门特别行政区政府药物监督管理局签发的中成药注册证明书，获证产品名称为珍珠末（白云山奇星），珍珠末功能主治为安神，明目消翳。用于失眠多梦，目生云翳。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnca2754243.d.html</link>
-            <guid>3657536</guid>
-            <pubDate>Fri, 14 Jun 2024 14:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德明利：公司暂无HBM相关技术储备】德明利今日在互动平台表示，公司暂无HBM相关技术储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnca2753542.d.html</link>
-            <guid>3657534</guid>
-            <pubDate>Fri, 14 Jun 2024 14:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利欧股份董秘回应股价下跌：公司运营质量稳定，不会坐视股价长期下跌】3月下旬以来，广告营销板块持续下挫，带动板块内个股价格下跌。截至6月14日收盘，利欧股份报收于1.36元/股，市值为92.07亿元，PB倍数仅0.68，较今年年初已经下跌39.26%。利欧股份董事会秘书张旭波对记者表示，目前公司经营状况一切正常。张旭波表示，在这一轮下跌过程中，公司基本面情况没发生实质性变化。价格围绕价值波动是股市的基本规律，投资者宜理性看待公司的长期投资价值。同时，公司也不会坐视股价长期下跌，正在积极研究股价稳定措施，将通过合规手段维护公司价值。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-14/detail-inaytnay8371322.d.html</link>
-            <guid>3657533</guid>
-            <pubDate>Fri, 14 Jun 2024 14:55:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
