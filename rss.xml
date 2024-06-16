@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 16 Jun 2024 19:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 20:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国东北部将迎来本季第一波热浪】 本季第一波强热浪从五大湖延伸到大西洋，将增加电力需求、减缓交通网络，同时威胁健康风险。 美国国家气象局表示，曼哈顿周二的气温将达到 91 华氏度（33 摄氏度），并将在本周内持续升温，湿度将使体感温度接近 100 华氏度。美国天气预报中心的预报员 Allison Santorelli 周日表示，由于气温不会下降太多，居民晚上不会感到太热。 “我们预计从明天开始，中西部地区、东北部和中大西洋地区将出现大范围破纪录的高温，”Santorelli 说。“这种情况至少会持续到本周，也可能持续到下个周末。” 随着气温升高，电力需求上升，电网和批发价格将承受压力。如果轨道因过热而弯曲，火车可能不得不放慢速度，从而阻碍货运和客运。中暑也可能激增，老年人、儿童和户外工作者尤其容易受到伤害。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inayyres0466217.d.html</link>
+            <guid>3658645</guid>
+            <pubDate>Sun, 16 Jun 2024 20:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门胡塞武装称针对红海船只发动3次袭击】当地时间16日晚，也门胡塞武装军事发言人叶海亚·萨里阿发表讲话称，胡塞武装发动了三次袭击。第一次袭击是通过导弹袭击了红海上的一艘美国驱逐舰。第二次通过导弹在红海袭击了“Captain Paris”号货轮。第三次是在阿拉伯海通过无人机袭击了“Happy Condor”号货轮。叶海亚还表示，胡塞武装将继续展开相关军事行动，支持巴勒斯坦人民。直到针对巴勒斯坦的侵略行动停止，针对巴勒斯坦人民的封锁解除，否则胡塞武装不会停止相关军事行动。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-17/detail-inayykwu0587651.d.html</link>
@@ -421,12 +427,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayxpte0994226.d.html</link>
             <guid>3658496</guid>
             <pubDate>Sun, 16 Jun 2024 10:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国盾量子高性能抗干扰氧化钌温度计起测温度接近6mK 刷新国内纪录】6月15日，从安徽省量子信息工程技术研究中心获悉，科大国盾量子技术股份有限公司（简称国盾量子）自主研发了高性能抗干扰氧化钌温度计，产品起测温度接近6毫开尔文（mK），刷新了国内纪录，标志着我国超导量子计算极低温测量技术达到世界先进水平。氧化钌温度计是量子计算机的核心器件之一，可用于对量子芯片的工作环境进行测温。（科技日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayxpsx3618459.d.html</link>
-            <guid>3658493</guid>
-            <pubDate>Sun, 16 Jun 2024 10:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
