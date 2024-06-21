@@ -4,11 +4,59 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 21 Jun 2024 18:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 19:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国阿肯色州一超市发生枪击事件 已致2死8伤】据央视记者消息，美国阿肯色州一家超市于当地时间21日中午12时左右发生枪击事件，造成至少2人死亡、8人受伤，伤者中包括一名警察。据悉，枪击事件中至少有四名枪手。警方表示，该事件已得到控制。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0847468.d.html</link>
+            <guid>3666260</guid>
+            <pubDate>Fri, 21 Jun 2024 19:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯警告中东地区冲突有扩大危险】联合国秘书长古特雷斯21日表示，中东地区存在冲突进一步扩大的危险，这种情况必须避免。古特雷斯当天在新闻发布会上对以色列与黎巴嫩真主党武装人员之间的冲突不断升级深表关切。他说，以黎军事冲突进一步升级只会给两国带来更多苦难，造成更多破坏，并给地区带来灾难性后果。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0846716.d.html</link>
+            <guid>3666259</guid>
+            <pubDate>Fri, 21 Jun 2024 19:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部：仍未就是否将起诉波音公司做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0846152.d.html</link>
+            <guid>3666258</guid>
+            <pubDate>Fri, 21 Jun 2024 19:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将于6月28日至29日在纽约和新泽西进行竞选活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0845633.d.html</link>
+            <guid>3666257</guid>
+            <pubDate>Fri, 21 Jun 2024 19:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国爱达荷州两架农用飞机相撞 致1死1伤】据总台记者消息，美国爱达荷州两架农用喷粉飞机于美国东部时间20日14时30分左右在空中相撞并坠机，导致一架飞机的飞行员死亡，另一架飞机的飞行员受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0845558.d.html</link>
+            <guid>3666256</guid>
+            <pubDate>Fri, 21 Jun 2024 19:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Stability AI公司获得投资集团注资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3115614.d.html</link>
+            <guid>3666252</guid>
+            <pubDate>Fri, 21 Jun 2024 18:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突尼斯总统解除宗教事务部长职务】突尼斯总统府21日发表声明说，总统赛义德当天解除了宗教事务部长易卜拉欣·沙伊比的职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupp4601949.d.html</link>
+            <guid>3666249</guid>
+            <pubDate>Fri, 21 Jun 2024 18:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荷兰国防大臣称将向乌交付一套组装的“爱国者”导弹系统】总台记者获悉，当地时间21日，荷兰国防大臣奥隆格伦宣布，荷兰和另一个国家成功组装了“爱国者”导弹各个部件，从而形成了一套完整的“爱国者”导弹系统，该系统将交付乌克兰，但她未透露具体交付信息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3112156.d.html</link>
+            <guid>3666246</guid>
+            <pubDate>Fri, 21 Jun 2024 18:28:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌美官员举行会谈 讨论武器供应等问题】当地时间6月21日，乌克兰总理什梅加尔与当天到访的美国负责政治事务的代理副国务卿约翰·巴斯举行了会谈。会谈中，双方讨论了通过美国国际开发署项目恢复乌克兰能源系统、两国联合生产军火、乌克兰加入北约以及向乌提供防空系统等武器供应问题。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3112002.d.html</link>
@@ -289,65 +337,6 @@
             <title><![CDATA[焦煤、铁矿石、纯碱、焦炭夜盘至多收跌约1.8%，燃油、低硫燃油、豆一、菜粕则至多收涨约1.1%。]]></title>
             <guid>3666159</guid>
             <pubDate>Fri, 21 Jun 2024 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西电网公司与华为签署深化战略合作备忘录】 6月18日，广西电网有限责任公司（简称“广西电网公司”）与华为技术有限公司（简称“华为”）在南方电网公司的统筹部署下开展战略合作，签署深化合作备忘录，同期在深圳华为基地开展广西电网公司数智运营培训专班。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixw1048589.d.html</link>
-            <guid>3666154</guid>
-            <pubDate>Fri, 21 Jun 2024 14:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鱼跃医疗与江苏联通签署战略合作协议】 鱼跃医疗消息，6月18日，鱼跃医疗与江苏联通在京举行战略合作协议签约仪式。根据协议，双方将在企业管理数字化、产品数字化、技术赋能全球化等领域深化战略合作实现更多前瞻性、原创性、基础性科技成果落地转化应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixt4835536.d.html</link>
-            <guid>3666153</guid>
-            <pubDate>Fri, 21 Jun 2024 14:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方国信与中国联通内蒙古分公司签订战略合作协议】 东方国信消息，6月19日上午，北京东方国信科技股份有限公司与中国联通内蒙古分公司签订战略合作协议，共同拓展和林格尔智算新空间，并正式揭牌“内蒙古联通—东方国信人工智能联合实验室”、“内蒙古联通—东方国信大数据联合实验室”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixw1047207.d.html</link>
-            <guid>3666151</guid>
-            <pubDate>Fri, 21 Jun 2024 14:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建发股份与荆门市政府签署新能源动力储能电池供应链战略合作协议】 建发股份消息，6月19日下午，荆门市人民政府、建发股份、荆门市格林美新材料有限公司、湖北亿纬动力有限公司四方签署战略合作协议，共同打造省级“动力储能电池供应链平台”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixv1612084.d.html</link>
-            <guid>3666149</guid>
-            <pubDate>Fri, 21 Jun 2024 14:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【求解“五自由一便利” 临港集团深度参与临港新片区高水平开放大会】6月21日在以“开放临港，共创未来”为主题的临港新片区高水平开放大会上，临港集团深度参与。记者获悉，围绕投资自由、贸易自由、资金自由、运输自由、人员从业自由以及数据流动便利的“五自由一便利”，临港集团旗下企业分别牵头展开探讨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixz3320538.d.html</link>
-            <guid>3666148</guid>
-            <pubDate>Fri, 21 Jun 2024 14:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【佛山照明：618电商全网销售额同比增长超50%】 佛山照明公布618数据，电商全网销售额同比增长超50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixt4834514.d.html</link>
-            <guid>3666146</guid>
-            <pubDate>Fri, 21 Jun 2024 14:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗驻联合国代表团：以色列的“任何轻率决定”可能使该地区陷入新战争。真主党有能力保卫自身和黎巴嫩。]]></title>
-            <guid>3666145</guid>
-            <pubDate>Fri, 21 Jun 2024 14:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST德豪：股东拟增持不低于8500万元不超1.7亿元】ST德豪公告，股东蚌埠鑫睿项目管理有限公司、北京风炎臻选2号私募证券投资基金计划自2024年6月24日起6个月内以集中竞价交易、大宗交易等交易方式增持公司股份，增持金额不低于人民币8500万元，不超过人民币1.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixw1045802.d.html</link>
-            <guid>3666144</guid>
-            <pubDate>Fri, 21 Jun 2024 14:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丁薛祥会见卢森堡首相弗里登】6月20日，中共中央政治局常委、国务院副总理丁薛祥在卢森堡会见卢森堡首相弗里登。 丁薛祥表示，卢森堡是中国的友好合作伙伴。中卢建交50多年来，双方坚持相互尊重、相互信任，树立了大小国家友好相处、互利合作的典范。中方愿同卢方一道，落实好两国元首共识，巩固政治互信，深化金融、钢铁、绿色经济等领域互利合作，密切人文交流，推动中卢友好再上新台阶，造福两国和两国人民。 丁薛祥指出，当今世界动荡不安，各种风险挑战层出不穷。中欧应该坚持伙伴定位，通过对话协商妥善处理贸易摩擦，搞保护主义只会损人不利己。希望卢方积极推动欧盟对华开放合作，促进中欧关系平稳健康发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixv1611513.d.html</link>
-            <guid>3666143</guid>
-            <pubDate>Fri, 21 Jun 2024 14:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西能源光伏项目成功并网发电】 广西能源消息，6月20日，广西能源今年首个光伏发电项目——梧州京南电站厂区光伏发电项目成功并网发电，标志着广西能源新能源发展建设取得新进展。该项目总投资2106万元，总装机容量5.19MWp。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-21/detail-inazpixt4834102.d.html</link>
-            <guid>3666142</guid>
-            <pubDate>Fri, 21 Jun 2024 14:45:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
