@@ -4,13 +4,91 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 05 Jul 2024 19:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 20:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[渣打银行首席合规官离职。]]></title>
+            <title><![CDATA[消息人士：美国民主党参议员沃纳本周早些时候联系民主党参议员，商讨可能在下周一举行会议讨论拜登竞选事宜。]]></title>
+            <guid>3684789</guid>
+            <pubDate>Fri, 05 Jul 2024 20:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登说他不会退选 称自己会再次击败特朗普】美国总统拜登在威斯康星州的集会上表示，他将继续竞选并在11月在击败特朗普。拜登说，被击倒时会重新站起来。拜登说，他不会让一场90分钟的辩论毁掉三年半的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfy1687466.d.html</link>
+            <guid>3684788</guid>
+            <pubDate>Fri, 05 Jul 2024 20:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：英国当选首相斯塔默在上任第一天取消了卢旺达庇护计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfv3677396.d.html</link>
+            <guid>3684784</guid>
+            <pubDate>Fri, 05 Jul 2024 19:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：美国国防部长奥斯汀与以色列国防部长就加沙问题进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfy1682689.d.html</link>
+            <guid>3684782</guid>
+            <pubDate>Fri, 05 Jul 2024 19:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据两位知情人士透露，美国参议员马克·沃纳正试图召集一批民主党参议员，要求拜登退出总统竞选。据这两位知情人士透露，由于拜登在此前的辩论中表现不佳，沃纳正在告诉民主党参议员，拜登不能再继续参选了。沃纳对拜登无法开展一场能够击败特朗普的竞选活动深感担忧。]]></title>
+            <guid>3684781</guid>
+            <pubDate>Fri, 05 Jul 2024 19:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇丰收跌超2.5%，在英国大选结果揭晓后领跌富时100指数成分股】 汇丰控股收跌2.56%，领跌英国富时100指数的所有成分股，力拓跌1.87%，罗尔斯-罗伊斯跌1.67%表现倒数第十，英国石油公司跌1.65%，播报李泽收涨1.18%表现靠前，Severn Trent涨3.09%涨幅第四大，Vistry集团找那个3.42%，联合公用事业集团涨3.45%，Smurfit Kappa集团涨3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfv3676098.d.html</link>
+            <guid>3684780</guid>
+            <pubDate>Fri, 05 Jul 2024 19:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场信息：美国参议员马克·沃纳寻求组建一组民主党参议员，要求美国总统拜登退出竞选。]]></title>
+            <guid>3684777</guid>
+            <pubDate>Fri, 05 Jul 2024 19:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔一度上涨3.6%，试探交易区间顶部。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfv3673531.d.html</link>
+            <guid>3684776</guid>
+            <pubDate>Fri, 05 Jul 2024 19:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：我会继续参加竞选，并将再次获胜。不会让上次的辩论抹去多年的努力成果。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfv3672977.d.html</link>
+            <guid>3684773</guid>
+            <pubDate>Fri, 05 Jul 2024 19:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：下周将向国会介绍哨兵洲际弹道导弹计划，预计将比2020年水平增加81%。]]></title>
+            <guid>3684772</guid>
+            <pubDate>Fri, 05 Jul 2024 19:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外交部官员：匈牙利取消了德国外交部长与匈牙利外交部长周一的会面。在匈牙利总理欧尔班访问俄罗斯之后，两国外交部长之间的讨论将非常重要。]]></title>
+            <guid>3684769</guid>
+            <pubDate>Fri, 05 Jul 2024 19:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：斯洛伐克总理菲佐自5月刺杀未遂事件以来首次公开露面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfy1674844.d.html</link>
+            <guid>3684768</guid>
+            <pubDate>Fri, 05 Jul 2024 19:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)表示已经批准了Epic Games瑞典子公司Epic Games Sweden AB应用商店应用，此前Epic Games提出了反垄断投诉。]]></title>
+            <guid>3684767</guid>
+            <pubDate>Fri, 05 Jul 2024 19:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国北达科他州一列运载危险品的火车脱轨并起火】美国北达科他州一列运载危险品的火车于当地时间7月5日凌晨3时45分左右脱轨并起火。截至当日中午，火势仍在蔓延，铁路消防队已赶到现场。当地官员表示，目前没有人员受伤的报告，且不打算疏散附近居民，除非风向发生变化。据悉，该列火车装载了液氨、硫和甲醇。目前尚不清楚脱轨原因。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfy1673073.d.html</link>
+            <guid>3684764</guid>
+            <pubDate>Fri, 05 Jul 2024 19:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道明银行首席合规官离职。]]></title>
             <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccqfv3668836.d.html</link>
             <guid>3684763</guid>
             <pubDate>Fri, 05 Jul 2024 19:16:35 GMT</pubDate>
@@ -25,12 +103,6 @@
             <title><![CDATA[【联合国对黎以边境地区局势升级表示关切】联合国秘书长发言人办公室当地时间7月5日发表声明表示，联合国对7月4日在黎以临时边界（“蓝线”）附近交火的强度增加深表关切，这增加了全面战争的风险。声明称，局势升级可以避免而且必须避免，联合国重申，政治和外交解决方案是唯一可行的解决之道。]]></title>
             <guid>3684757</guid>
             <pubDate>Fri, 05 Jul 2024 18:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达评级罕见遭下调 分析师对未来上涨空间发出警告】英伟达去年年初以来的惊人涨势终于到了尽头，至少在New Street Research分析师Pierre Ferragu眼里是如此。Ferragu将英伟达评级从买进下调至中性。他认为，在去年和今年分别上涨240%和157%后，英伟达的股价已经“充分体现”了估值。该股周五下跌0.6%，纳斯达克100指数上涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccixx3793893.d.html</link>
-            <guid>3684756</guid>
-            <pubDate>Fri, 05 Jul 2024 18:47:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【伊朗总统选举第二轮投票时间多次延长】当地时间5日，伊朗内政部宣布，第十四届总统选举的第二轮投票时间延长至当日24时。5日，伊朗举行总统选举第二轮投票，投票截止时间多次延长，从原定的18时结束，分别延长至20时、22时，至本次的24时。伊朗总统选举第二轮投票共有两位候选人，分别是伊朗前卫生部长佩泽什基安、伊朗前首席核谈判代表贾利利。伊朗内政部将在当地时间6日公布投票结果，获得选票最多的候选人将当选为伊朗新一届总统。]]></title>
@@ -125,12 +197,6 @@
             <pubDate>Fri, 05 Jul 2024 17:51:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【民主党的大金主们进一步施压 百多位富商巨贾联名致信要拜登退选】一个由顶尖商界领袖组成的团体正在加大向总统乔·拜登的施压力度，用联名写信的方式力劝他就此放弃连任竞选。这封Leadership Now Project联名信副本显示，签字者多达168人，其中包括Christy Walton、Michael Novogratz和Paul Tagliabue。他们表示美国的民主将在11月面临重大考验。该团体周三发表了一份无人署名的声明称，商界领袖“听到了许多与我们一样对当前进程深感担忧、但又不敢公开发声的个人说出了他们的想法”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccixx3778835.d.html</link>
-            <guid>3684726</guid>
-            <pubDate>Fri, 05 Jul 2024 17:49:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[费城半导体指数上涨0.5%至两周高点，英特尔(INTC.O)涨2.3%，高通(QCOM.O)涨1.3%，AMD(AMD.O)涨5.5%。]]></title>
             <guid>3684722</guid>
             <pubDate>Fri, 05 Jul 2024 17:43:27 GMT</pubDate>
@@ -210,91 +276,6 @@
             <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccciya1754115.d.html</link>
             <guid>3684693</guid>
             <pubDate>Fri, 05 Jul 2024 16:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理：到2028年德国国防预算将达到800亿欧元】德国总理朔尔茨在涉及德国2025年预算草案问题的新闻发布会上表示，为满足北约要求，从2028年开始，德国的年度国防预算将达到800亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-incccixx3762206.d.html</link>
-            <guid>3684691</guid>
-            <pubDate>Fri, 05 Jul 2024 16:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[知情人士：以色列摩萨德首脑巴尼亚带领的以色列代表团在会见卡塔尔调停人员讨论加沙停火谈判后离开了多哈。]]></title>
-            <guid>3684690</guid>
-            <pubDate>Fri, 05 Jul 2024 16:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资生堂旗下高端护肤品牌宣布停售，进入中国市场仅三年】 近日，资生堂旗下高端护肤品牌BAUM葆木在天猫旗舰店发布了闭店公告，称7月10日起将不再接受新订单。资生堂中国相关负责人表示：“BAUM葆木品牌因战略调整，决定停止在中国市场的产品销售。”公开资料显示，BAUM葆木是资生堂在2020年推出的高端护肤品牌，主打天然、无添加的理念。2021年，BAUM葆木进入中国市场。对于闭店原因，7月5日，资生堂中国相关负责人告诉记者：“BAUM葆木品牌因战略调整，决定停止在中国市场的产品销售。”（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccciya1753366.d.html</link>
-            <guid>3684689</guid>
-            <pubDate>Fri, 05 Jul 2024 16:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平向塔吉克斯坦总统拉赫蒙颁授“友谊勋章”】当地时间7月5日下午，国家主席习近平在杜尚别总统府举行隆重授勋仪式，向塔吉克斯坦总统拉赫蒙颁授“友谊勋章”。（央视新闻）]]></title>
-            <guid>3684688</guid>
-            <pubDate>Fri, 05 Jul 2024 16:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽约一车辆撞向美国独立日庆祝人群致3死8伤 肇事司机疑似酒驾】当地时间周四晚间，在美国纽约曼哈顿下东区的一个公园内，一名疑似酒驾的司机驾驶一辆福特皮卡冲向庆祝7月4日美国独立日的人群，造成3人死亡，8人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccrz3889382.d.html</link>
-            <guid>3684683</guid>
-            <pubDate>Fri, 05 Jul 2024 16:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉股价连涨七日涨幅超过30% 基本抹去年迄今累计跌幅】 特斯拉股价周五走势震荡，这家全球市值最高的汽车制造商在连续7天连涨之后，短暂抹去年迄今的所有累计跌幅。特斯拉股价在最新一轮涨势期间上涨了超过30%，市值增加了超过2000亿美元。本周早些时候，公司公布了第二季度交付量，优于分析师平均预期，对股价构成进一步提振。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccsa6381074.d.html</link>
-            <guid>3684682</guid>
-            <pubDate>Fri, 05 Jul 2024 16:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯：拒绝任何绕过巴勒斯坦人的加沙战后方案】当地时间7月5日，巴勒斯坦伊斯兰抵抗运动（哈马斯）方面发表声明称，巴勒斯坦加沙地带的战后管理应该由巴勒斯坦人民自行决定，该组织坚决拒绝任何试图绕过巴勒斯坦人管理加沙意愿的计划、项目或建议，同时强调，任何支持外国军队进入加沙的言论或立场均不可接受。声明表示，加沙地带在冲突结束之后的问题，单纯是巴勒斯坦内部的问题，对此巴勒斯坦人民一致同意，并拒绝任何外部干涉或强加的解决方案。声明呼吁阿拉伯和伊斯兰国家向以色列施压，以停止其对巴勒斯坦人民的种族灭绝行为，并向巴勒斯坦提供各类支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccrx7110343.d.html</link>
-            <guid>3684679</guid>
-            <pubDate>Fri, 05 Jul 2024 16:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登在被问及是否仍然能击败特朗普时回答“是”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccsa6379080.d.html</link>
-            <guid>3684677</guid>
-            <pubDate>Fri, 05 Jul 2024 16:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗国家电视台：总统决选投票延长至当地时间晚上10点（北京时间7月6日凌晨2:30）。]]></title>
-            <guid>3684674</guid>
-            <pubDate>Fri, 05 Jul 2024 16:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：乌克兰的目标是在今年夏天将空防能力提升一倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccse1873450.d.html</link>
-            <guid>3684673</guid>
-            <pubDate>Fri, 05 Jul 2024 16:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达被罕见降级，分析师称估值堪忧，股价一度跌超2%】New Street Research分析师Pierre Ferragu下调这家半导体巨兽的评级至中性，称估值让人堪忧。数据显示，2024年年初以来，英伟达股价几乎已经上涨两倍。该分析师认为，除非在牛市行情下，否则英伟达股价今后的上行空间相当有限。对英伟达最新股价目标为135美元。英伟达股价美股早盘一度跌超2.02%，刷新日低至125.68美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccrz3884594.d.html</link>
-            <guid>3684672</guid>
-            <pubDate>Fri, 05 Jul 2024 16:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：伯克希尔哈撒韦保险公司寻求拒绝提供董事责任保险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccsa6374290.d.html</link>
-            <guid>3684670</guid>
-            <pubDate>Fri, 05 Jul 2024 16:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《欢迎来到我身边》上映2天 ，总票房破2000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-06/detail-inccccse1869964.d.html</link>
-            <guid>3684667</guid>
-            <pubDate>Fri, 05 Jul 2024 16:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国哈里斯互动民调：法国极右翼政党“国民联盟”在法国议会选举中有望赢得185-215个席位。左翼新人民阵线预计将赢得168-198个席位。马克龙的中间派阵营预计将赢得115-145个席位。]]></title>
-            <guid>3684664</guid>
-            <pubDate>Fri, 05 Jul 2024 16:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[咨询机构Safras&Mercado：巴西2023/24年度大豆销售量已达预期产量的71.8%，去年同期为66.1%；2024/25年度大豆销售量已达预期产量的14.6%，去年同期为11.1%。]]></title>
-            <guid>3684661</guid>
-            <pubDate>Fri, 05 Jul 2024 15:58:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
