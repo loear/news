@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 09 Sep 2024 19:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 20:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[高盛CEO Solomonl：高盛交易收入同比可能下滑10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzuz2775379.d.html</link>
+            <guid>3770255</guid>
+            <pubDate>Mon, 09 Sep 2024 20:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国钢铁协会（AISI）：在截至9月7日的一周内，美国钢铁产能利用率为79.8%。]]></title>
+            <guid>3770252</guid>
+            <pubDate>Mon, 09 Sep 2024 20:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文股价上涨4%，因一季度调整后每股收益和销售业绩均超出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzux8237078.d.html</link>
+            <guid>3770251</guid>
+            <pubDate>Mon, 09 Sep 2024 20:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甲骨文第一财季调整后营收和每股收益均超过预期】甲骨文第一财季调整后营收133.1亿美元，分析师预期132.6亿美元；云基础设施(IAAS)营收22亿美元，分析师预期22亿美元；第一财季调整后每股收益1.39美元，分析师预期1.33美元；第一财季调整后营运利润57.1亿美元，分析师预期55.9亿美元；第一财季调整后营运利润率43%，分析师预期42.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzva9524047.d.html</link>
+            <guid>3770250</guid>
+            <pubDate>Mon, 09 Sep 2024 20:06:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文与亚马逊AWS构建合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzux8236055.d.html</link>
+            <guid>3770249</guid>
+            <pubDate>Mon, 09 Sep 2024 20:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palantir收涨14%，创2月份以来最大单日涨幅。此前，该公司被纳入标普500指数。]]></title>
+            <guid>3770248</guid>
+            <pubDate>Mon, 09 Sep 2024 20:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军轰炸加沙城以西一处房屋 致5人死亡】当地时间9月9日晚间，以军对加沙地带北部加沙城以西的一处房屋进行轰炸，导致5人死亡，其中包括2名妇女和1名儿童。截至目前，以色列方面暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzux8234473.d.html</link>
+            <guid>3770245</guid>
+            <pubDate>Mon, 09 Sep 2024 19:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热带风暴“弗朗辛”强度加大 石油钻探企业部分停产】在墨西哥湾向北移动的热带风暴“弗朗辛”(Francine)强度加大，促使石油钻探企业撤离工作人员并暂停部分海上原油生产，同时美国海岸警卫队警告航运商烈风即将来临。美国政府预测人士于休斯敦时间13点在一份公告中表示，“弗朗辛”预计将以强风和暴雨袭击墨西哥湾沿岸部分地区，并于周三变成全面飓风登陆。雪佛龙、埃克森美孚和壳牌等公司采取了应对措施，如从易受影响的设施中疏散工人、暂停钻探活动，以及停运部分油井等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzux8232589.d.html</link>
+            <guid>3770243</guid>
+            <pubDate>Mon, 09 Sep 2024 19:50:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[天然气管道输送公司Enbridge：为防范热带风暴Francine，公司从（墨西哥湾）Ship Shoal 207平台撤离所有人员。平台将维持远程操作模式。]]></title>
             <guid>3770233</guid>
@@ -249,69 +295,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfa1648932.d.html</link>
             <guid>3770156</guid>
             <pubDate>Mon, 09 Sep 2024 15:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰外交部：已警告伊朗关于向俄罗斯转移导弹的后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfc8421802.d.html</link>
-            <guid>3770149</guid>
-            <pubDate>Mon, 09 Sep 2024 15:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投洽会主宾国匈牙利：期待与中国在更多领域扩大合作】第二十四届中国国际投资贸易洽谈会（简称“投洽会”）9月8日-11日在厦门举办。匈牙利作为本届投洽会主宾国，专门设置了450平方米国家馆，展出匈牙利葡萄酒、国家工业园区开发管理公司、智能交叉路口演示区等，吸引境内外客商咨询洽谈。匈牙利政府官员和企业家代表表示，近年来，匈牙利与中国在新能源电池、汽车等产业的合作发展迅猛，期待能与中国在更多领域扩大合作。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfc8420945.d.html</link>
-            <guid>3770147</guid>
-            <pubDate>Mon, 09 Sep 2024 15:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中老年游客成秋季旅游主力军 秋季跟团游价格大幅下滑】暑期旅游热刚刚过去，“金九银十”消费旺季又将到来。据了解，中老年游客是今年秋季旅游“主力军”。相比暑期，各地秋季跟团游价格大幅度下滑。“华东五市游暑期售价3580元左右，目前推出的纯玩无购物产品售价1990元。” （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfc8420213.d.html</link>
-            <guid>3770146</guid>
-            <pubDate>Mon, 09 Sep 2024 15:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Store进入维护阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfc8419894.d.html</link>
-            <guid>3770145</guid>
-            <pubDate>Mon, 09 Sep 2024 15:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zealand Pharma：GLP-1/GLP-2的1B阶段Dapiglutide临床试验顶线结果偏正面。结果表明，受试对象使用Dapiglutide后，减重幅度高达8.3%。]]></title>
-            <guid>3770143</guid>
-            <pubDate>Mon, 09 Sep 2024 15:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受强降雨影响 青海多处国道实施交通管制】受强降雨影响，青海省多处道路发生泥石流上路、路面塌陷等险情，交管部门对已出现和易发生险情的路段采取了交通管制措施，相关部门正在紧急处置。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfa1640486.d.html</link>
-            <guid>3770142</guid>
-            <pubDate>Mon, 09 Sep 2024 15:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI、Thrive Capital投资一家生物初创公司 利用人工智能进行药物研发】六个月前成立的人工智能生物初创公司Chai Discovery已经从Thrive Capital和OpenAI获得了近3000万美元的融资，用于将人工智能应用于药物研发。Chai Discovery开发的人工智能基础模型可以预测生化分子的结构，并重新编程它们之间的相互作用，这一过程对开发新药物至关重要。“我们想把生物学从一门科学变成一门工程，”公司联合创始人兼首席执行官Joshua Meier说。]]></title>
-            <guid>3770139</guid>
-            <pubDate>Mon, 09 Sep 2024 15:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palantir(PLTR.N)美股上涨超过10%，有望创下自2021年2月以来的最高收盘价。]]></title>
-            <guid>3770137</guid>
-            <pubDate>Mon, 09 Sep 2024 15:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际原子能机构总干事：扎波罗热核电站情况仍然非常危险】当地时间9日，国际原子能机构在奥地利维也纳召开理事会会议，国际原子能机构总干事格罗西表示，扎波罗热核电站的情况仍然非常危险。扎波罗热核电站经常面临爆炸、无人机袭击、外部电源反复中断等挑战，发生核事故的风险很高。此前，扎波罗热核电站一座冷却塔内部发生火灾，可能需要拆除。目前，扎波罗热核电站的六台反应堆机组仍处于“冷停堆”状态。根据国际原子能机构建议，只要冲突继续危及核安全，就不会重启反应堆。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfh9648231.d.html</link>
-            <guid>3770136</guid>
-            <pubDate>Mon, 09 Sep 2024 15:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁 今年以来已发生超2500起森林火灾】秘鲁环境部官员当地时间9月9日表示，该国今年以来已经发生了超过2500起森林火灾。据介绍，火灾频发的原因包括降水量少、高温、干燥等，其中约98%的火灾与人类活动有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfh9647366.d.html</link>
-            <guid>3770135</guid>
-            <pubDate>Mon, 09 Sep 2024 15:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国国家统计与经济研究所预计法国三季度GDP环比增长0.4%】法国国家统计与经济研究所称，法国第三季度GDP环比增长预计为0.4%，第四季度预计为-0.1%；法国的通货膨胀率预计将在2024年剩余时间里低于2%，12月份达到1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfh9647247.d.html</link>
-            <guid>3770134</guid>
-            <pubDate>Mon, 09 Sep 2024 15:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
