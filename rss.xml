@@ -4,13 +4,54 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 09 Sep 2024 20:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 21:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[高盛CEO Solomonl：高盛交易收入同比可能下滑10%。]]></title>
+            <title><![CDATA[【美国批准向新加坡出售1.33亿美元中程空对空导弹】当地时间9月9日，美国国防部表示，美国务院已经批准向新加坡出售先进中程空对空导弹，预计价值1.33亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhav8124412.d.html</link>
+            <guid>3770275</guid>
+            <pubDate>Mon, 09 Sep 2024 21:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安德玛股份：维持全年调整后EPS预期在0.19-0.22美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhav8123524.d.html</link>
+            <guid>3770273</guid>
+            <pubDate>Mon, 09 Sep 2024 21:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一架直升机在巴西卡鲁阿鲁市坠毁】当地时间9月9日，巴西一架直升机坠毁在卡鲁阿鲁市的一处林地并起火。据目击者称，当时飞机内有三人，其中一人成功逃生，另外两人可能遇难。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhay9423063.d.html</link>
+            <guid>3770270</guid>
+            <pubDate>Mon, 09 Sep 2024 21:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文高管：预计2025财年的资本支出将是2024财年的两倍；第二季度总收入以固定汇率计预计增长7%至9%，以美元计则增长8%至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhax2667648.d.html</link>
+            <guid>3770269</guid>
+            <pubDate>Mon, 09 Sep 2024 21:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠与（HPE）美股盘后下跌3%，该公司发行可转换优先股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhay9419919.d.html</link>
+            <guid>3770267</guid>
+            <pubDate>Mon, 09 Sep 2024 21:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甲骨文股价盘后大涨 云业务推动利润超出预期】甲骨文财季利润好于预期，表明人工智能需求持续帮助其云计算业务提振盈利。甲骨文周一发布公告称剔除特定项目的每股收益为1.39美元。截至8月31日的财季收入增长7%至133亿美元。分析师平均预期每股收益为1.33美元，平均预期销售额为133亿美元。首席执行官Safra Catz在声明中说：“随着云服务成为甲骨文最大的业务，我们的营业收入和每股收益都在加速增长。”这家总部位于奥斯汀、以其数据库软件而闻名的公司专注于扩大云基础设施业务，以与亚马逊、微软和Alphabet Inc.子公司谷歌竞争。甲骨文的云业务名声在外，因其在生成式人工智能工作负载方面取得了成功。该公司的客户包括Reka和马斯克的xAI。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnrhay9418092.d.html</link>
+            <guid>3770266</guid>
+            <pubDate>Mon, 09 Sep 2024 21:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：预计未来几天“弗朗辛（Francine ）”将显著增强，在今晚或周二早晨成为飓风。]]></title>
+            <guid>3770264</guid>
+            <pubDate>Mon, 09 Sep 2024 20:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛CEO所罗门：高盛的交易收入预计将同比下降10%，消费部门将带来4亿美元的税前影响。]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqzuz2775379.d.html</link>
             <guid>3770255</guid>
             <pubDate>Mon, 09 Sep 2024 20:22:01 GMT</pubDate>
@@ -237,64 +278,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqrfh9680037.d.html</link>
             <guid>3770174</guid>
             <pubDate>Mon, 09 Sep 2024 16:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国官员Cazenave：法国公共财政形势仍然“让人担忧”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqrff2922045.d.html</link>
-            <guid>3770172</guid>
-            <pubDate>Mon, 09 Sep 2024 16:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达涨幅扩大至2.5%，昨日收跌4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqrfh9676461.d.html</link>
-            <guid>3770171</guid>
-            <pubDate>Mon, 09 Sep 2024 16:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔首相呼吁在加沙地带实现立即停火】当地时间9月9日，卡塔尔首相兼外交大臣穆罕默德在沙特首都利雅得出席海湾阿拉伯国家合作委员会与巴西部长级战略对话时，呼吁在加沙地带实现立即停火。他表示，结束加沙地带冲突是缓和持续升级的地区紧张局势并实现地区持久和平的关键步骤，有关各方需要继续进行调停和协商，确保在加沙地带实现停火，缓解巴勒斯坦人民遭受的苦难，并保障被扣押人员获得释放。他强调，外交努力是避免暴力循环和局势升级、实现地区安全稳定的有效路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-10/detail-incnqrfa1655005.d.html</link>
-            <guid>3770169</guid>
-            <pubDate>Mon, 09 Sep 2024 16:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南省南部发生洪涝灾害 已转移安置群众714户2130人】台风“摩羯”残余导致云南省南部的红河州河口县普降大暴雨，局地特大暴雨，全县6个乡镇均发生洪涝灾害，经初步统计，截至9月9日17时，共造成861户2150人受灾，已妥善转移安置群众714户2130人，无人员伤亡。9月9日10时15分，河口县先后发布暴雨橙色、黄色、红色预警信号及山洪灾害风险Ⅱ级预警，受连续降雨影响，红河、南溪河水位正在快速上涨，河水倒灌风险较高。9月9日19时许，河口县发布紧急转移提醒，截至目前，县城区沿街居民、各商铺业主正有序转移至集中安置点，防汛及救援工作正在有序进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfa1653238.d.html</link>
-            <guid>3770165</guid>
-            <pubDate>Mon, 09 Sep 2024 15:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国凯特王妃称已结束化疗疗程】当地时间9月9日下午，英国威尔士王妃凯特发布一段据称上个月拍摄于诺福克的家庭录影视频，并证实自己已结束预防性化疗疗程，今年晚些时候将尽可能参加一些公共活动。但她表示，“完全康复之路将是漫长的”，她的重点将是“远离癌症”。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfh9668942.d.html</link>
-            <guid>3770163</guid>
-            <pubDate>Mon, 09 Sep 2024 15:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在热带风暴Francine到来之前，得克萨斯州自由港对商业交通开放，船只必须报告动向。]]></title>
-            <guid>3770162</guid>
-            <pubDate>Mon, 09 Sep 2024 15:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国制药商Boehringer Ingelheim（BING.GR）：初步研究结果表明，用于治疗肺癌的口服药Zongertinib表现出让人乐观的结果，可能会（在阿斯利康和拜耳之外）成为难治病患的一个选项。]]></title>
-            <guid>3770160</guid>
-            <pubDate>Mon, 09 Sep 2024 15:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登政府购买340万桶石油补充SPR】美国能源部周一宣布，拜登政府已为战略石油储备（SPR）购买了340多万桶原油。美国能源部在一份声明中表示，周日签订的合同期限从2025年1月到2025年3月，每月向德州Freeport Bryan Mound的战略石油储备库填充超过110万桶。到目前为止，美国能源部已经以平均每桶76美元的价格直接为SPR购买了5000多万桶石油。美国能源部表示，美国政府“将继续评估补充SPR的方案，同时为纳税人确保一笔好交易，同时考虑到计划的外汇回报和市场发展”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfa1649862.d.html</link>
-            <guid>3770158</guid>
-            <pubDate>Mon, 09 Sep 2024 15:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【萨尔瓦多国家警察局长等9人坠机身亡】萨尔瓦多总统布克尔9日在社交媒体发布公告说，该国一架空军直升机8日晚坠毁，造成9人死亡，其中包括萨国家警察局长毛里西奥·阿里亚萨。公告说，8日晚，这架萨军方直升机前往萨尔瓦多和洪都拉斯边境执行任务时在拉乌尼翁省坠毁，机上9人死亡，其中包括国家警察局长等4名警官、3名机组成员、一名记者和一名犯罪嫌疑人。布克尔宣布，萨全国将进入为期3天的哀悼期。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfc8426080.d.html</link>
-            <guid>3770157</guid>
-            <pubDate>Mon, 09 Sep 2024 15:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国拟对所有陆地边境恢复管制】德新社9日援引消息人士的话报道，德国内政与国土部长费泽已下令要求所有德国陆地边境恢复护照检查，以减少无签证入境的人数。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-09/detail-incnqrfa1648932.d.html</link>
-            <guid>3770156</guid>
-            <pubDate>Mon, 09 Sep 2024 15:35:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
