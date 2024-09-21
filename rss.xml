@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 21 Sep 2024 20:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 21:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌克兰基辅拉响防空警报】当地时间9月21日，乌克兰基辅拉响防空警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyiie8405911.d.html</link>
+            <guid>3786242</guid>
+            <pubDate>Sat, 21 Sep 2024 21:14:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黎巴嫩卫生部：过去几日以色列对黎袭击已致82人死亡】当地时间21日，黎巴嫩卫生部长菲拉斯·阿卜亚德向媒体表示，过去几天以色列对黎的袭击已造成共82人死亡。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyazf1745153.d.html</link>
@@ -534,18 +540,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvn6845417.d.html</link>
             <guid>3785862</guid>
             <pubDate>Sat, 21 Sep 2024 10:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“星际客机”故障 多项目亏损 波音解雇防务和太空部门CEO】在经历“星际客机”飞船故障事件和政府合同亏损后，当地时间9月20日，美国波音公司解雇其防务、空间与安全集团首席执行官（CEO）特德·科尔伯特，由该集团首席运营官史蒂夫·帕克暂时接管。波音公司下设三个业务部门，分别为民用飞机集团，防务、空间与安全集团和全球服务集团。波音公司首席执行官凯利·奥特伯格在20日发给员工的一份邮件中宣布，科尔伯特即日起被解雇。他说，在这个关键节点，波音的重心是重塑消费者信心。波音正在寻找下一位胜任者。据路透社消息，这是奥特伯格8月初上任以来所做第一个管理层调整。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvs8946438.d.html</link>
-            <guid>3785861</guid>
-            <pubDate>Sat, 21 Sep 2024 10:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台9月21日18时解除台风蓝色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvr2168488.d.html</link>
-            <guid>3785860</guid>
-            <pubDate>Sat, 21 Sep 2024 10:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
