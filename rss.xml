@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 05 Oct 2024 18:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 19:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【索尼发布车载摄像头ISX038图像传感器：可同时输出RAW和YUV图像】根据官方介绍，ISX038图像传感器搭载了索尼自研的ISP（图像信号处理器），可以独立的系统处理并输出高级驾驶辅助系统（ADAS）和自动驾驶系统（AD）所需的对车外环境检测和识别的RAW图像，以及提供给行车记录仪和AR摄像头等车载设备使用的YUV图像。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-06/detail-incrpwtk2756257.d.html</link>
+            <guid>3804003</guid>
+            <pubDate>Sat, 05 Oct 2024 19:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内塔尼亚胡在X上向马克龙发布视频致辞。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-06/detail-incrpwte6430738.d.html</link>
+            <guid>3804002</guid>
+            <pubDate>Sat, 05 Oct 2024 19:09:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军称对黎地面军事行动以来打死约440名真主党成员】当地时间5日晚间，以色列国防军发言人哈加里表示，截至目前，自以军在黎巴嫩南部开展地面军事行动以来，在地面袭击和空袭中打死约440名黎巴嫩真主党武装人员，其中包括30名指挥官。哈加里表示，在1日晚伊朗对以色列的袭击中，多枚来自伊朗的弹道导弹击中了以色列内瓦提姆和泰勒诺夫空军基地，但以上基地内没有飞机受损，袭击也没有损害以空军的能力。目前内瓦提姆和泰勒诺夫空军基地均正常运转。他还强调说，针对约200枚来自伊朗的导弹袭击，以色列将会作出回应，并且将“按照我们选择的方式、地点和时间，按照政治层级进行”。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-06/detail-incrpwth5958520.d.html</link>
@@ -481,17 +493,6 @@
             <link>https://finance.sina.cn/7x24/2024-10-05/detail-incrnzps6280021.d.html</link>
             <guid>3803841</guid>
             <pubDate>Sat, 05 Oct 2024 10:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度外长将访问巴基斯坦 为2015年以来首次】印度政府周五晚间表示，印度外交部长苏杰生将代替总理莫迪出席在巴基斯坦举行的峰会。这将是2015年以来印度外长首次访问巴基斯坦。印度外交部发言人Randhir Jaiswal表示，苏杰生将率领代表团，参加10月15日开始的上海合作组织成员国政府首脑（总理）理事会会议。目前尚不清楚苏杰生是否会与巴基斯坦对口官员举行双边会晤，讨论两国关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-05/detail-incrnzpq6849150.d.html</link>
-            <guid>3803840</guid>
-            <pubDate>Sat, 05 Oct 2024 10:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩安全消息人士：自周五以色列空袭以来，真主党高级领导人哈希姆·萨菲丁“无法取得联系”。以色列对贝鲁特郊区的空袭阻碍了救援人员对疑似针对萨菲丁的袭击现场的搜寻。]]></title>
-            <guid>3803839</guid>
-            <pubDate>Sat, 05 Oct 2024 10:14:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
