@@ -4,13 +4,86 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 15 Oct 2024 21:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 22:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[力拓三季度皮尔巴拉铁矿石产量8410万吨。三季度皮尔巴拉铁矿石发货量8450万吨，分析师预期8494万吨。]]></title>
+            <title><![CDATA[淡水河谷(VALE.N)：第三季度铁矿石产量为9097万吨，第三季度铁矿石销售量为8184万吨；第三季度镍产量为47,100吨，第三季度镍销售量为40,700吨；第三季度铜销售量为75,200吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incsswic0540797.d.html</link>
+            <guid>3817689</guid>
+            <pubDate>Tue, 15 Oct 2024 22:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10月15日，光刻机供应巨头阿斯麦创最近26年（1998年以来）最差单日表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incsswhz3759631.d.html</link>
+            <guid>3817677</guid>
+            <pubDate>Tue, 15 Oct 2024 21:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国私募KKR的CEO Ferraris称，公司计划未来五年于意大利投资120亿欧元。]]></title>
+            <guid>3817674</guid>
+            <pubDate>Tue, 15 Oct 2024 21:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列官员：可能打击伊朗军事基地或政府大楼】 当地时间15日获悉，两名以色列官员称，虽然以色列对伊朗的袭击预计不会针对核设施和石油设施，但可能包括导弹和无人机的发射装置、仓库、工厂，伊朗的军事基地，政府大楼等目标。15日早些时候，在以色列总理内塔尼亚胡、国防部长加兰特以及其他部长参与的安全磋商中，已就针对伊朗的行动方针、可能的时机和回应力度达成了全面一致，但具体仍需内阁的最终批准才能够实施这一行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incsswic0535755.d.html</link>
+            <guid>3817673</guid>
+            <pubDate>Tue, 15 Oct 2024 21:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃赫曼集团（法国巴黎上市，ERA.FP）收跌1.27%，该公司下修2024年加蓬锰业务预期和印尼镍业务预期。]]></title>
+            <guid>3817671</guid>
+            <pubDate>Tue, 15 Oct 2024 21:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第三季度CPI季率 0.6%，预期0.7%，前值0.40%。
+新西兰第三季度CPI年率 2.2%，预期2.2%，前值3.30%。]]></title>
+            <guid>3817670</guid>
+            <pubDate>Tue, 15 Oct 2024 21:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列官员在华盛顿表示，已收到美国高级官员的（关于加沙人道主义问题）信件，正在由以色列安全官员进行全面审查。以色列对此事高度重视，并打算与我们的美国同行就信中提出的关切进行沟通。]]></title>
+            <guid>3817669</guid>
+            <pubDate>Tue, 15 Oct 2024 21:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方表示，已发现两架无人机从黎巴嫩越境进入以色列，目前未报告有人员受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incsswif0193021.d.html</link>
+            <guid>3817668</guid>
+            <pubDate>Tue, 15 Oct 2024 21:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[力拓称，预计在今年年底前从Rincon启动工厂开始生产首批锂；我们在皮尔巴拉项目的西部矿区建设现已完成80%。]]></title>
+            <guid>3817667</guid>
+            <pubDate>Tue, 15 Oct 2024 21:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国证券交易委员会（SEC）起诉人工智能（AI）和机器人公司Destiny Robotics Corp.及其创始人兼CEO Megi Kavtaradze，指控对方涉嫌就公司运营与产品问题向投资者提供虚假材料。]]></title>
+            <guid>3817666</guid>
+            <pubDate>Tue, 15 Oct 2024 21:41:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方强调对话协商是解决也门问题的唯一正确选择】中国常驻联合国副代表耿爽15日在安理会也门问题公开会上发言时强调，对话协商是解决也门问题的唯一正确选择。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incsswif0192118.d.html</link>
+            <guid>3817662</guid>
+            <pubDate>Tue, 15 Oct 2024 21:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将于美国东部时间周三下午5:30在招待会上发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssrzc3886450.d.html</link>
+            <guid>3817659</guid>
+            <pubDate>Tue, 15 Oct 2024 21:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克民兵武装称袭击以中部地区目标】当地时间10月15日晚，伊拉克民兵武装“伊斯兰抵抗组织”发表声明称，该组织当晚使用无人机袭击了以色列中部地区一处“重要目标”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssrzf0662680.d.html</link>
+            <guid>3817658</guid>
+            <pubDate>Tue, 15 Oct 2024 21:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【力拓三季度皮尔巴拉铁矿石产量8410万吨】 力拓三季度皮尔巴拉铁矿石产量8410万吨。三季度皮尔巴拉铁矿石发货量8450万吨，分析师预期8494万吨。三季度精炼铜产量15.08万吨，分析师预期16.7525万吨。维持全年皮尔巴拉铁矿石发货量预期在3.23亿-3.38亿吨不变。维持全年铜C1部门成本预期在每磅1.40-1.60美元不变。]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssrzf0661175.d.html</link>
             <guid>3817656</guid>
             <pubDate>Tue, 15 Oct 2024 21:21:28 GMT</pubDate>
@@ -103,7 +176,8 @@
             <pubDate>Tue, 15 Oct 2024 19:39:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[抵押贷款机构FAIRWAY将支付190万美元的罚款，并将提供700万美元的补贴来解决阿拉巴马州多数黑人社区的歧视问题。]]></title>
+            <title><![CDATA[抵押贷款机构FAIRWAY将支付190万美元的罚款，并提供700万美元贷款补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssrzc3862965.d.html</link>
             <guid>3817608</guid>
             <pubDate>Tue, 15 Oct 2024 19:36:18 GMT</pubDate>
         </item>
@@ -178,125 +252,6 @@
             <title><![CDATA[墨西哥经济部长Marcelo Ebrard：邮轮公司皇家加勒比将在Quintana Roo项目投资15亿美元。]]></title>
             <guid>3817588</guid>
             <pubDate>Tue, 15 Oct 2024 19:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：马斯克在特斯拉Cybercab原型时承诺，将大规模生产机器人出租车。然而，这样的发誓与美国监管制度存在冲突。根据全美公路交通安全管理局（NHTSA）规定，缺少方向盘或其他控制部件的车辆不被允许上路。]]></title>
-            <guid>3817583</guid>
-            <pubDate>Tue, 15 Oct 2024 19:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯别尔哥罗德州一大巴遭乌军袭击，8人受伤】 当地时间10月15日，俄罗斯别尔哥罗德州州长发布消息称，该州一辆城际大巴车遭到乌军袭击，导致8人受伤，其中4名未成年人。乌克兰方面对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0764077.d.html</link>
-            <guid>3817581</guid>
-            <pubDate>Tue, 15 Oct 2024 18:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行行长彭安杰：如果中东冲突在地区范围内扩散，全球经济的主要贡献者将受到影响。中东冲突造成的财产损失可能超过200亿美元。]]></title>
-            <guid>3817580</guid>
-            <pubDate>Tue, 15 Oct 2024 18:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际移民组织：苏丹流离失所人口超1400万】当地时间10月15日，国际移民组织就苏丹局势发布报告称，苏丹当前的流离失所人口已超过1400万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtn7205399.d.html</link>
-            <guid>3817578</guid>
-            <pubDate>Tue, 15 Oct 2024 18:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行行长彭安杰：美国前总统特朗普理解国际金融机构的价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtf3985352.d.html</link>
-            <guid>3817577</guid>
-            <pubDate>Tue, 15 Oct 2024 18:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特王储兼首相与埃及总统举行会谈 讨论中东局势】埃及总统塞西当地时间15日同到访的沙特王储兼首相穆罕默德举行会谈，讨论了双边合作以及加沙地带和黎巴嫩停火等问题。塞西在会谈中强调，在当前中东地区面临严重威胁情况下，必须加强沙特与埃及的协调合作。双方一致同意，成立埃及-沙特最高协调委员会，以跟进双边关系全方面进展。穆罕默德表示，沙特重视加强双边关系在政治、经济领域的发展，以实现双方共同利益。在讨论当前中东局势时，双方一致认为，应努力制止地区局势进一步升级。应根据国际合法性决议建立一个主权独立的巴勒斯坦国，这是以可持续的方式实现该地区和平与安全的唯一途径。双方共同呼吁采取措施缓和局势，包括在加沙地带和黎巴嫩实现停火，解决当地的人道主义危机。双方还就红海地区安全、苏丹、利比亚和叙利亚局势等问题进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0761671.d.html</link>
-            <guid>3817576</guid>
-            <pubDate>Tue, 15 Oct 2024 18:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通在美国投资级债券市场发行80亿美元公司债。据知情人士透露，这批债券共四种到期时间，最长的久期为11年，将较可比美债的收益率高出0.91个百分点，原来讨论的是溢价大约1.15-1.20个百分点。]]></title>
-            <guid>3817575</guid>
-            <pubDate>Tue, 15 Oct 2024 18:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥经济部长马塞洛·埃布拉德：亚马逊将在墨西哥投资60亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtf3984345.d.html</link>
-            <guid>3817574</guid>
-            <pubDate>Tue, 15 Oct 2024 18:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：预计阿斯麦的警告将拖累整个行业】对分析师来说，阿斯麦调整指引是一个意外的负面消息。花旗在一份报告中表示：“就在9月初，管理层还重申，2025年净销售额预测区间的低端仍然是‘保守’的。我们正在寻找有关近期需求变化的更多细节，这些变化正在影响阿斯麦降低2025年的预期，以及这对客户2026年的计划意味着什么。”Degroof Petercam银行的分析师迈克尔·罗格表示，他预计阿斯麦的警告将拖累整个行业，但他指出，该公司的销售额预计将在2025年从2024年开始增长。“尽管芯片终端市场低迷，但（设备需求）仍未下滑。”他表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0761032.d.html</link>
-            <guid>3817573</guid>
-            <pubDate>Tue, 15 Oct 2024 18:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冰岛总统批准解散议会】冰岛总统托马斯多蒂尔15日批准解散议会并宣布议会选举将于11月30日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0760922.d.html</link>
-            <guid>3817572</guid>
-            <pubDate>Tue, 15 Oct 2024 18:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行行长彭安杰：1200亿美元的国际发展协会补充资金目标是现实的，董事会已批准将股本与贷款比例从19%降低至18%。]]></title>
-            <guid>3817570</guid>
-            <pubDate>Tue, 15 Oct 2024 18:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Eve获得数千万美元巴西国家开发银行贷款，用于电动飞机工厂建设】 巴西航空航天公司Embraer的子公司、电动飞机制造商Eve已从巴西国家开发银行（BNDES）获得8800万美元贷款。这笔资金将用于建设Eve的首个生产设施，这是该公司生产用于短程城市出行的电动垂直起降（eVTOL）飞机战略的核心。展望未来，Eve预计其eVTOL飞机将在2026年获得认证并投入运营。该公司已经获得了近3000架潜在订单的意向，这可能带来约145亿美元的预期收入。Eve的首个工厂将位于巴西陶巴特，这个位置选择考虑了物流优势以及靠近Embraer在圣若泽多斯坎波斯的基地。该设施达到全面运营状态后，预计年产能将达到480架飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtm0425451.d.html</link>
-            <guid>3817569</guid>
-            <pubDate>Tue, 15 Oct 2024 18:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光伏电站项目资源受追捧 新能源行业未来可期】国际能源署（IEA）于近日发布的2024年《可再生能源报告》提出，在接下来的十年中，太阳能光伏将成为推动全球可再生能源迅速发展的核心力量。基于现有的可再生能源政策，预计未来几年地面光伏电站和分布式光伏装机量几乎翻倍。到2030年，地面光伏的容量将从当前的917.1GW增至3467.1GW，分布式光伏也将从当前的694.4GW增至2353.5GW。业内人士普遍认为，以光伏为代表的新能源仍然是一条长坡厚雪的优质赛道，新能源资产未来有望逐步迎来价值回归。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtm0425150.d.html</link>
-            <guid>3817568</guid>
-            <pubDate>Tue, 15 Oct 2024 18:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯麦Q3业绩提前公布，公司前景令人失望】当地时间周二早些时候，阿斯麦原本定于周三公布Q3业绩报告因技术错误被短暂地提前公布，虽然链接很快被删除，但报告在中午前就完全公布出来。报告中的重大新闻是该公司令人失望的前景，根据FactSet的数据，目前预计阿斯麦2025年的总净销售额将达到300亿欧元至350亿欧元，而市场普遍预测为358亿欧元。阿斯麦首席执行官Christophe Fouquet表示，“尽管人工智能仍有强劲的发展和上升潜力，但其他细分市场需要更长的时间才能复苏。现在看来，经济复苏比之前预期的更为缓慢。预计这种情况将持续到2025年，这导致客户持谨慎态度。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmtn7202324.d.html</link>
-            <guid>3817567</guid>
-            <pubDate>Tue, 15 Oct 2024 18:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus于10月7-11日期间回购480.4763万股股票，耗资1.9219亿欧元。Naspers同期回购42.1906万股股票，耗资18.033亿南非兰特（折合1.029亿美元）。]]></title>
-            <guid>3817563</guid>
-            <pubDate>Tue, 15 Oct 2024 18:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛预计，全球航空煤油及其他煤油的需求将在2040年前持续增长，预计到2040年将增长320万桶/日，达到每日1030万桶。潜在的技术突破和更严格的气候政策使长期航空燃料需求预测的风险偏向下行。]]></title>
-            <guid>3817562</guid>
-            <pubDate>Tue, 15 Oct 2024 18:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联想推出AI Now：个人计算正在转变为AI个性化计算】 联想集团在2024 Tech World面向全球正式发布联想AI Now——联想PC上的个人AI智能体，这让联想区别于其他所有PC厂商，个人计算正在转变为人工智能支持的个性化计算。联想集团董事长兼CEO杨元庆表示，对于个人消费者来说，他们现在可以从个人电脑、平板电脑和智能手机等设备的入口访问公共人工智能。与此同时，这些设备内置了人工智能模型，可以接收用户提示，并通过自然交互在本地执行推理。这是实现个人AI的第一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0755733.d.html</link>
-            <guid>3817561</guid>
-            <pubDate>Tue, 15 Oct 2024 18:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透社/益普索民意调查发现，哈里斯以45%-42%的微弱优势领先特朗普。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0755318.d.html</link>
-            <guid>3817559</guid>
-            <pubDate>Tue, 15 Oct 2024 18:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣Rachel Reeves在一份预算中寻求增税和节省开支，从而让公共财政处于稳定状态。Reeves寻求400亿英镑（折合523亿美元）预算的主张在内阁面临的反对意见越来越多。此前，Reeves曾表示，英国工党心政府从上一任政府“继承”了220亿英镑的财政漏洞。]]></title>
-            <guid>3817558</guid>
-            <pubDate>Tue, 15 Oct 2024 18:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国方面表示“反对”以色列对贝鲁特的轰炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0754732.d.html</link>
-            <guid>3817557</guid>
-            <pubDate>Tue, 15 Oct 2024 18:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：预计美国将维持其信用优势，选举后的政策结果将是美国信誉的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-16/detail-incssmti0753897.d.html</link>
-            <guid>3817555</guid>
-            <pubDate>Tue, 15 Oct 2024 18:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
