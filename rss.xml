@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 02 Nov 2024 21:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 22:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：11月03日05时36分在青海海北州刚察县（北纬37.87度，东经99.67度）发生3.3级地震，震源深度8千米。]]></title>
+            <guid>3849523</guid>
+            <pubDate>Sat, 02 Nov 2024 21:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝鲜对敌研究院发表白皮书批评韩国总统尹锡悦错误行径】朝鲜对敌研究院11月2日发表白皮书，在内政、外交、军事等方面批判韩国总统尹锡悦的错误行为。白皮书称，尹锡悦集团变本加厉的军事妄动带来了适得其反的结果，推动朝鲜几何级数般地积蓄核武器、不断提升核攻击能力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-03/detail-incutnck4729469.d.html</link>
+            <guid>3849522</guid>
+            <pubDate>Sat, 02 Nov 2024 21:47:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【胖东来调改永辉超市第四店确定】11月1日，永辉超市宣布，在胖东来的帮扶下，目前确定调整的第四家门店为龙湖锦艺城店，将对超市的经营，从商品结构、品质、价格及卖场布局、动线、环境、服务和员工待遇等方面做全面调改。]]></title>
             <link>https://finance.sina.cn/7x24/2024-11-03/detail-incutncr7034254.d.html</link>
@@ -481,18 +492,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-02/detail-incusqxw1941919.d.html</link>
             <guid>3849321</guid>
             <pubDate>Sat, 02 Nov 2024 11:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农银投资与18个试点城市达成股权投资战略合作】日前，农银投资已与全部18个试点城市达成AIC股权投资试点基金合作意向，并签署18份战略合作协议，在多地实现同业首单签约。农银投资将与各试点城市保持紧密合作，加快推动新设基金项目储备与投放，投贷联动为科技型企业做好全链条、全生命周期金融服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-02/detail-incusqxw1941232.d.html</link>
-            <guid>3849320</guid>
-            <pubDate>Sat, 02 Nov 2024 11:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南省怀化市委宣传部原部长张远松被“双开”】经查，张远松丧失理想信念，背弃初心使命，对党不忠诚不老实，对抗组织审查，不信马列信“风水”，搞迷信活动；无视中央八项规定精神，违规收受礼品礼金，长期借用管理和服务对象的车辆；违反组织原则，隐瞒不报个人有关事项，违规为他人谋取人事利益；廉洁底线失守，向从事公务的人员赠送财物，纵容、默许亲属利用其职务上的影响谋取私利；以权谋私，利用职务便利为他人在项目承揽等方面谋利，并非法收受巨额财物。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-02/detail-incusqxw1938784.d.html</link>
-            <guid>3849317</guid>
-            <pubDate>Sat, 02 Nov 2024 11:04:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
