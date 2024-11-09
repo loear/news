@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Nov 2024 20:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 21:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【资生堂中国总裁兼CEO梅津利信：加快创新项目本土化】资生堂已经连续6年参加进博会。在谈及资生堂目前及未来的战略规划时，梅津利信表示，受益于中国鼓励创新的政策环境，集团正加快将创新项目引进中国，更多地将中国作为新品首发地，同时也正不断提升本土创新能力。未来几年内，集团将聚焦对中国消费者的皮肤研究，孵化包括医学美容、抗老成分、新功效评估体系在内的本土创新，并在这些领域持续投资。此外，资生堂也将着眼未来，以超出当前市场预期的标准开发前沿科技，帮助消费者在未来的生活场景中获得更好的美肤体验。“得益于中国市场的活力和韧性，中国市场已发展成为资生堂集团最重要的海外市场，集团从未动摇过投资中国的信心和决心。未来，资生堂将继续坚定在中国的长远投资，鼓励中国团队持续推动创新，引领集团业务增长。”梅津利信说。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvpiyx8946976.d.html</link>
+            <guid>3862934</guid>
+            <pubDate>Sat, 09 Nov 2024 20:39:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【卡塔尔外交部发言人：有关卡塔尔退出巴以冲突调停的报道不准确】当地时间11月9日，卡塔尔外交部发言人马吉德·安萨里发表声明称，有关卡塔尔退出巴以冲突调停的报道不准确。马吉德·安萨里说，卡方在10天前通知有关各方，如果本轮加沙地带停火谈判不能达成协议，卡塔尔将暂停在巴勒斯坦伊斯兰抵抗运动（哈马斯）与以色列之间的调停工作，只有在冲突双方就达成协议展现出“严肃的政治意愿”时，卡塔尔才会恢复调停工作。他说，自从冲突双方去年11月达成的加沙地带临时停火协议到期之后，有关方利用谈判为继续实施军事行动寻找借口，以实现狭隘的政治目的。他同时指出，目前的调停工作已陷入停滞。马吉德·安萨里同时指出，有关卡塔尔将关闭哈马斯驻卡塔尔首都多哈的政治办公室的报道也是不准确的，该办公室成立的首要目的是充当有关各方沟通的渠道，这一渠道为去年11月冲突双方达成加沙地带停火和交换被扣押人员协议起到了作用。他强调，有关各方在进行新闻报道时需要从官方渠道获取信息。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvpiyw2165502.d.html</link>
@@ -470,17 +476,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvnhpk2735693.d.html</link>
             <guid>3862830</guid>
             <pubDate>Sat, 09 Nov 2024 10:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军在约旦河西岸抓捕至少18名巴勒斯坦人】 据巴勒斯坦囚犯协会消息，自当地时间8日晚间到9日上午，以色列军队在约旦河西岸多地抓捕了至少18名巴勒斯坦人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvnhpk2735138.d.html</link>
-            <guid>3862829</guid>
-            <pubDate>Sat, 09 Nov 2024 10:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据加沙卫生部门的数据，自2023年10月7日以来，以色列对加沙的军事行动导致43,552名巴勒斯坦人遇难，102,765人受伤。]]></title>
-            <guid>3862827</guid>
-            <pubDate>Sat, 09 Nov 2024 10:28:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
