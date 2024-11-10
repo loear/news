@@ -4,16 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 10 Nov 2024 17:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 18:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[埃及10月核心CPI同比上涨24.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-11/detail-incvrhrw6011681.d.html</link>
-            <guid>3864056</guid>
-            <pubDate>Sun, 10 Nov 2024 17:20:31 GMT</pubDate>
+            <title><![CDATA[【英国伦敦发生一起枪击事件 已致1死2伤】根据英国伦敦警方的消息，当地时间11月10日，伦敦东南部发生一起枪击事件，造成一名男子死亡，另有两人受伤。受伤者已被送往医院，目前没有生命危险。伦敦警方称，尚未逮捕任何人，事件仍在调查中，警察和法医等相关人员已前往现场。现场的封锁可能会持续一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-11/detail-incvrhrw6016188.d.html</link>
+            <guid>3864060</guid>
+            <pubDate>Sun, 10 Nov 2024 17:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗萨拉万地区发生恐袭 5名巴斯基成员死亡】当地时间11月10日，伊朗伊斯兰革命卫队宣布，数小时前，伊朗东南部锡斯坦-俾路支斯坦省的萨拉万地区发生恐袭事件，导致5名巴斯基成员死亡。恐袭发生后，当地部队被迅速派往该地区，目前对肇事者的追捕行动仍在继续。巴斯基民兵是隶属于伊朗伊斯兰革命卫队的准军事化部队。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-11/detail-incvrhrz7958059.d.html</link>
+            <guid>3864059</guid>
+            <pubDate>Sun, 10 Nov 2024 17:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理办公室声明：呼吁以色列人下周不要参加国外的文化和体育活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-11/detail-incvrhry1179521.d.html</link>
+            <guid>3864058</guid>
+            <pubDate>Sun, 10 Nov 2024 17:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古巴地区发生6.8级地震 震源深度20公里】中国地震台网正式测定：11月11日00时49分，在古巴地区（北纬19.80度，西经77.00度）发生6.8级地震，震源深度20公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-11/detail-incvrhrz7955430.d.html</link>
+            <guid>3864057</guid>
+            <pubDate>Sun, 10 Nov 2024 17:29:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【以军称在黎南部发现黎真主党大型隧道 入口为墓地】当地时间11月10日晚，以色列国防军在一份声明中称，以军过去一周在黎巴嫩南部地区的军事行动中，发现并封堵一条隐藏在墓地下的黎真主党大型隧道。声明称，该隧道的其中一个入口隐藏在墓地中，隧道长约1公里，距离黎以边界约1.5公里，以军在内部发现指挥控制室、宿舍以及武器库，武器库内存放数十件武器和其他军事装备。以军认为黎真主党将这条隧道用作入侵以色列的指挥所。（央视新闻）]]></title>
@@ -88,11 +106,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvraka1288206.d.html</link>
             <guid>3863974</guid>
             <pubDate>Sun, 10 Nov 2024 15:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道氏技术：与湖南培森签署战略合作协议】道氏技术公告，公司与湖南培森电子科技有限公司签署了《战略合作协议》并成立合资公司。通过设立合资公司进行深度合作，以公司科研与生产数据验证刘杰教授团队的非冯·诺依曼架构的分子动力学计算系统“NVNMD”的应用技术，并推动人工智能技术在道氏技术产品科研、生产制造等环节上的应用，以提高道氏技术的研发、生产与经营水平。]]></title>
-            <guid>3863966</guid>
-            <pubDate>Sun, 10 Nov 2024 15:13:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【林诗栋获得WTT法兰克福冠军赛男单冠军】在今晚的WTT法兰克福冠军赛男单决赛中，林诗栋4-1战胜安东·卡尔伯格，获得冠军。]]></title>
@@ -363,54 +376,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaf8180894.d.html</link>
             <guid>3863863</guid>
             <pubDate>Sun, 10 Nov 2024 13:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【那个不为人知的故事票房破8000万】据猫眼专业版数据，电影 《那个不为人知的故事》上映2天， 总票房破8000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaf8180659.d.html</link>
-            <guid>3863861</guid>
-            <pubDate>Sun, 10 Nov 2024 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军袭击黎巴嫩北部 已致23人死亡】黎巴嫩公共卫生部11月10日发布消息称，以军对黎北部朱拜勒地区的阿尔马特镇的空袭已造成包括7名儿童在内的23人死亡，另有6人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwae1403179.d.html</link>
-            <guid>3863860</guid>
-            <pubDate>Sun, 10 Nov 2024 13:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特武装部队总参谋长访问伊朗 讨论防务等问题】当地时间今天（11月10日），沙特武装部队总参谋长率领高级军事代表团访问伊朗，并会见了伊朗武装力量总参谋长巴盖里。双方就两国发展防务外交、扩大双边合作等议题进行会晤。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaa6242978.d.html</link>
-            <guid>3863859</guid>
-            <pubDate>Sun, 10 Nov 2024 13:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渝万高铁全线首座高瓦斯隧道贯通】渝万铁路有限责任公司10日通报，当天，随着最后一次掘进，渝万高铁周家湾隧道实现贯通，该隧道是渝万高铁全线首座实现贯通的高瓦斯隧道。 渝万高铁是中国“八纵八横”高铁网包(银)海、京昆通道的重要组成部分。线路起自重庆东站，途经重庆市南岸区、巴南区、涪陵区、丰都县、忠县至万州区，接入万州北站，设计时速350公里。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaf8179951.d.html</link>
-            <guid>3863857</guid>
-            <pubDate>Sun, 10 Nov 2024 13:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以国防部长：希望对哈马斯施压 让被扣押人员回家】当地时间11月10日，以色列新任国防部长卡茨在吉迪恩·萨尔就任外交部长的仪式上发表讲话。他表示，解决被扣押人员问题是首要目标，希望通过对巴勒斯坦伊斯兰抵抗运动（哈马斯）施加压力，让被扣押人员回家。当地时间5日晚，以色列总理内塔尼亚胡宣布解除国防部长加兰特的职务，理由是两人之间存在“信任危机”。内塔尼亚胡的办公室随后发表声明称，内塔尼亚胡已任命外长卡茨接替加兰特担任以色列国防部长。8日凌晨，以色列议会举行全体会议，批准以色列政府职位变动，任命卡茨为以色列国防部长，任命吉迪恩·萨尔为以色列外交部长。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaf8179414.d.html</link>
-            <guid>3863856</guid>
-            <pubDate>Sun, 10 Nov 2024 13:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区政府设立“一带一路”奖学金 已惠及近700人】香港特区政府新闻处10日表示，特区政府设立“一带一路”奖学金，至今近700人受惠。 据悉，特区政府2016至2017学年首次推出“一带一路”奖学金。这项奖学金旨在吸引“一带一路”共建国家及地区的杰出学生来香港升学，修读公帑资助的全日制学士学位课程和全日制研究院研究课程。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwaf8179358.d.html</link>
-            <guid>3863855</guid>
-            <pubDate>Sun, 10 Nov 2024 13:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼泊尔一小客车坠崖致6死13伤】尼泊尔警方10日说，一辆搭载20人的运动型多用途汽车当天在尼泊尔西部加利果德县坠崖，造成6人丧生、13人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwae1402111.d.html</link>
-            <guid>3863854</guid>
-            <pubDate>Sun, 10 Nov 2024 13:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【无人系统大会在珠海开幕 53个项目现场签约】第七届无人系统大会暨粤港澳大湾区低空经济产业大会，10日在珠海国际会展中心开幕。53个低空经济产业项目进行了现场签约，签约总金额达150亿元人民币。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvqwae1402060.d.html</link>
-            <guid>3863853</guid>
-            <pubDate>Sun, 10 Nov 2024 13:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
