@@ -4,11 +4,68 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 07 Dec 2024 20:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 21:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据韩联社报道，韩国检察机关就前国防部长金龙显涉嫌在戒严失败中所扮演的角色展开调查。]]></title>
+            <guid>3915560</guid>
+            <pubDate>Sat, 07 Dec 2024 21:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国联通AI大模型存算分离技术实现突破】据中国联通消息，近日，在集团公司指导下，中国联通研究院与浙江联通、联通服装制造军团协同攻关，针对AI敏感数据的本地存储异地训练需求提出了创新的业务模式，并成功在杭州与金华两地间实施了业界首次30TB样本数据的跨200公里存算分离拉远训练，经过实际测算，训练效率高达97%以上。存算分离技术是指将存储数据的仓库和对数据进行计算的加工厂独立开来，在训练时直接将数据从远端存储设备中拉过来进行计算，而不需要先存储到本地的磁盘再进行处理，可以有效保证用户数据的安全性和一致性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystaz4301399.d.html</link>
+            <guid>3915559</guid>
+            <pubDate>Sat, 07 Dec 2024 21:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队宣布收复该国中部一重要城市】12月7日，苏丹武装部队表示，重新夺回该国中部杰济拉州南部城市瓦德哈达德的控制权。苏丹武装部队当天在社交媒体发文说，苏丹武装部队与占据瓦德哈达德市的苏丹快速支援部队爆发激烈战斗，击溃对方并使其退出该市。苏丹武装部队随后完全控制这一地区。瓦德哈达德市位于杰济拉州首府瓦德迈达尼市以南约70公里处，连接杰济拉州和森纳尔州的主要公路途经于此，战略位置重要。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystcc1075405.d.html</link>
+            <guid>3915558</guid>
+            <pubDate>Sat, 07 Dec 2024 20:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹首都圈城市遭炮击 造成15人伤亡】当地时间11月7日，苏丹首都喀土穆所在的喀土穆州卫生部发布声明称，首都圈城市恩图曼当天遭遇炮击，造成1名儿童死亡，另有14人受伤。声明指责苏丹快速支援部队发动此次炮击，称多枚炮弹击中恩图曼市的一个社区卫生中心和多个住宅区，造成人员伤亡。快速支援部队未作出回应。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystcc1075060.d.html</link>
+            <guid>3915557</guid>
+            <pubDate>Sat, 07 Dec 2024 20:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以外长称以色列未干涉叙利亚内部冲突】当地时间12月7日晚，以色列外交部长吉迪恩·萨尔在其社交媒体账号上发文表示，当天早些时候，武装人员进入叙以边境的缓冲区，并袭击了该地区的联合国部队。他表示，这种行为对以色列定居点和以公民的安全构成了威胁。他还强调，以色列并未干涉叙利亚的内部冲突。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystaz4300360.d.html</link>
+            <guid>3915556</guid>
+            <pubDate>Sat, 07 Dec 2024 20:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国官员否认联合国从叙利亚撤离所有工作人员】当地时间7日，联合国驻叙利亚人道主义协调员亚当·阿卜杜勒穆拉就有关联合国从叙利亚撤离所有工作人员的传言发表声明，强调这些说法是不准确的。他表示，联合国仍然在这个关键时刻继续为叙利亚民众提供援助。他表示，为了确保工作人员的安全，联合国采取了一些预防措施，其中包括将非关键工作人员迁往国外，从而减少其在叙利亚的人员配置。这一措施是应对当前局势变化的必要步骤，但他明确表示，这不是撤离。联合国团队的核心人员将继续坚守，为叙利亚民众提供援助。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystcc1074725.d.html</link>
+            <guid>3915555</guid>
+            <pubDate>Sat, 07 Dec 2024 20:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于叙利亚问题的联合声明：当前危机对地区和国际安全构成危险发展，需要政治解决方案来停止军事行动并保护平民。]]></title>
+            <guid>3915554</guid>
+            <pubDate>Sat, 07 Dec 2024 20:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国准备向乌克兰提供9.88亿美元援助计划，包括火箭炮和无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystcc1073964.d.html</link>
+            <guid>3915553</guid>
+            <pubDate>Sat, 07 Dec 2024 20:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：卡塔尔、沙特阿拉伯、约旦、埃及、伊拉克、伊朗、土耳其、俄罗斯就叙利亚问题发表联合声明。]]></title>
+            <guid>3915552</guid>
+            <pubDate>Sat, 07 Dec 2024 20:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荷兰海牙一住宅楼发生爆炸 造成4人死亡】当地时间7日上午，位于荷兰海牙的一处住宅楼发生爆炸，楼体部分倒塌并起火。事故已造成4人死亡，目前搜救工作仍在进行中。当地消防部门发布的报告称，目前已发现4名遇难者，数名伤者被送往医院。消防员和救援人员在搜救犬的帮助下，仍在废墟中进行搜救工作。目前尚不清楚有多少人失踪。与此同时，荷兰警方发布消息称，爆炸发生后不久，一辆汽车迅速驶离爆炸地点。警方正在寻找关于这辆车的相关线索。据了解，发生倒塌的住宅楼位于海牙市东北部，底层是商铺，上面两层是住宅。目前尚不清楚爆炸发生的具体原因。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystax0378158.d.html</link>
+            <guid>3915551</guid>
+            <pubDate>Sat, 07 Dec 2024 20:32:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军轰炸加沙城一处房屋 造成4人死亡】从巴勒斯坦方面获悉，当地时间12月7日晚，以军出动战机轰炸了加沙地带北部加沙城萨夫塔维社区一处收容流离失所者的房屋，导致4名妇女死亡。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-08/detail-incystcc1065897.d.html</link>
@@ -502,48 +559,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-07/detail-incysafm1379211.d.html</link>
             <guid>3914908</guid>
             <pubDate>Sat, 07 Dec 2024 12:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国国会议长下令清点总统尹锡悦弹劾案的投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxi0845119.d.html</link>
-            <guid>3914905</guid>
-            <pubDate>Sat, 07 Dec 2024 12:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌媒：乌克兰总统泽连斯基抵达法国巴黎】 据乌克兰国家通讯社7日最新消息，乌克兰总统泽连斯基已抵达法国首都巴黎，将与多国领导人举行一系列会晤。有法媒称，泽连斯基将与马克龙举行会谈，并有可能会见特朗普和其他出席仪式的国家领导人。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxi0845100.d.html</link>
-            <guid>3914904</guid>
-            <pubDate>Sat, 07 Dec 2024 12:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家口腔医学中心组建12个专科联盟助力口腔医疗服务】从国家口腔医学中心2024年联合学术年会上获悉，口腔病理、口腔医学影像、儿童口腔、预防口腔、口腔黏膜病、口腔正畸、口腔全科7个专科联盟正式组建。截至目前，国家口腔医学中心12个专业的专科联盟已全部组建完毕。这将进一步提高口腔医疗服务的可及性和公平性。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxm4732975.d.html</link>
-            <guid>3914902</guid>
-            <pubDate>Sat, 07 Dec 2024 12:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港举办首届中医药文化节】7日，由香港特区政府医务卫生局主办的香港中医药文化节揭幕。未来三个月，香港将举办200多场中医药文化推广活动。香港特区政府医务卫生局署理局长李夏茵表示，中医药是中华文化瑰宝。香港中医药在过去二十多年稳步发展，运用传统纯中医药的理论及方法防治疾病更是香港中医药的特色优势。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxm4732669.d.html</link>
-            <guid>3914901</guid>
-            <pubDate>Sat, 07 Dec 2024 12:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：乌克兰军队在库尔斯克方向损失超过38,800名士兵。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxp1505976.d.html</link>
-            <guid>3914900</guid>
-            <pubDate>Sat, 07 Dec 2024 12:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云鼎科技与华为云举行化工工艺优化解决方案合作签约仪式】 12月6日，华为云城市大会·青岛暨华为云华东（青岛）数据中心开服活动举行。云鼎科技作为华为公司的全面战略伙伴受邀参加。会议期间，云鼎科技与华为云举行化工工艺优化解决方案合作签约仪式。双方将发挥算法创新、算力支撑、大模型研发等技术优势，围绕甲醇精馏装置工艺智能优化、AI综合分析识别与预警等内容展开深度合作，共同打造具有国际水准、安全可靠的化工优化解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxi0842830.d.html</link>
-            <guid>3914898</guid>
-            <pubDate>Sat, 07 Dec 2024 12:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国联通AI大模型存算分离技术实现突破 为AI技术发展提供新思路】 据中国联通消息，近日，在集团公司指导下，中国联通研究院与浙江联通、联通服装制造军团协同攻关，针对AI敏感数据的本地存储异地训练需求提出了创新的业务模式，并成功在杭州与金华两地间实施了业界首次30TB样本数据的跨200公里存算分离拉远训练，经过实际测算，训练效率高达97%以上。通过本次测试充分验证了存算分离技术的安全性、可行性和高效性，为未来AI技术的发展提供了新的思路和方向。存算分离技术是指将存储数据的仓库和对数据进行计算的加工厂独立开来，在训练时直接将数据从远端存储设备中拉过来进行计算，而不需要先存储到本地的磁盘再进行处理，可以有效保证用户数据的安全性和一致性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incyrvxm4730658.d.html</link>
-            <guid>3914897</guid>
-            <pubDate>Sat, 07 Dec 2024 12:11:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
