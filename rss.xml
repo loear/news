@@ -4,23 +4,42 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 21 Dec 2024 21:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 22:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中央气象台12月22日06时继续发布大风蓝色预警】预计，12月22日08时至23日08时，西藏中西部、青海南部、内蒙古东部、吉林东部等地的部分地区将有5~6级、阵风7~8级的大风；黄海东南部海域、东海大部海域、台湾海峡、台湾以东洋面、巴士海峡、南海大部海域将有7~8级、阵风9级的大风，其中台湾海峡、巴士海峡、南海东北部和西南部海域的风力可达9级、阵风10~11级。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnvc4175081.d.html</link>
+            <guid>3939472</guid>
+            <pubDate>Sat, 21 Dec 2024 22:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁西南部地区发生5.1级地震】根据秘鲁地球物理研究所国家地震中心报告，当地时间12月21日16时25分，该国西南部伊卡大区发生5.1级地震，震源深度57公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnux1437034.d.html</link>
+            <guid>3939467</guid>
+            <pubDate>Sat, 21 Dec 2024 21:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国中央司令部称对也门萨那胡塞武装控制区实施空袭】当地时间21日，美国中央司令部通过社交媒体表示，美军在也门时间21日对位于萨那胡塞武装控制区的胡塞武装导弹储存设施和指挥控制设施进行了空袭。声明称，此次行动动用了美国空军和海军资产，包括F/A-18大黄蜂战斗机。在行动中，美国中央司令部部队还在红海上空击落多架胡塞武装单向攻击无人驾驶飞行器（OWA UAV）和一枚反舰巡航导弹（ASCM）。本次打击是为了破坏和削弱胡塞武装对红海南部、曼德海峡和亚丁湾等区域的美国海军军舰和商船的袭击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4661574.d.html</link>
+            <guid>3939465</guid>
+            <pubDate>Sat, 21 Dec 2024 21:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴方称以军袭击加沙北部卡迈勒·阿德万医院 以暂无回应】从巴勒斯坦方面获悉，当地时间21日晚间，以军对加沙地带北部拜特拉希亚的卡迈勒·阿德万医院发动猛烈袭击。巴方援引卡迈勒·阿德万医院院长的话称，以军正在“以前所未有的方式、在没有任何事先警告的情况下，对医院的治疗和护理部门发动猛烈轰炸和突袭”。相关报道未说明以军袭击是否造成医院人员伤亡，以军也尚未就此进行回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnvc4172528.d.html</link>
+            <guid>3939463</guid>
+            <pubDate>Sat, 21 Dec 2024 21:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：美国当选总统特朗普任命《学徒》制片人马克·布奈特（Mark Burnett）为英国特使。]]></title>
             <guid>3939460</guid>
             <pubDate>Sat, 21 Dec 2024 21:11:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据也门胡塞武装控制的马西拉电视台报道，美国和英国21日晚对也门首都萨那进行了空袭。（新华社快讯）]]></title>
-            <guid>3939459</guid>
-            <pubDate>Sat, 21 Dec 2024 21:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门首都萨那遭空袭】当地时间12月21日晚，也门首都萨那遭遇空袭。（央视新闻）]]></title>
+            <title><![CDATA[【也门首都萨那遭空袭】当地时间12月21日晚，也门首都萨那遭遇空袭。据也门胡塞武装控制的马西拉电视台报道，美国和英国21日晚对也门首都萨那进行了空袭。另据《以色列时报》援引消息人士的话报道称，此次空袭由美国等国而非由以色列发动。目前，以色列官方和军方尚未对此做出表态。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4650013.d.html</link>
             <guid>3939457</guid>
             <pubDate>Sat, 21 Dec 2024 20:11:10 GMT</pubDate>
@@ -400,48 +419,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrrp4642625.d.html</link>
             <guid>3939261</guid>
             <pubDate>Sat, 21 Dec 2024 12:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯喀山遭无人机袭击 当地政府进入特别工作状态】当地时间12月21日，俄罗斯鞑靼斯坦共和国政府宣布，该地区政府和紧急情况部进入特别工作状态，以处理无人机袭击喀山多地造成的损失。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrrp4641606.d.html</link>
-            <guid>3939259</guid>
-            <pubDate>Sat, 21 Dec 2024 12:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔驻叙利亚大使馆重新开放】当地时间12月21日，卡塔尔驻叙利亚大使馆升起卡塔尔国旗，重新向公众开放。12月15日，卡塔尔外交代表团抵达叙利亚首都大马士革，为驻叙使馆重新开放做准备。卡塔尔外交部当天表示，卡塔尔驻叙利亚大使馆将于17日恢复运作。2011年叙利亚内战爆发后，卡塔尔撤回驻叙利亚大使并关闭了驻叙利亚大使馆，此后一直未重新开放。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1866798.d.html</link>
-            <guid>3939258</guid>
-            <pubDate>Sat, 21 Dec 2024 12:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯恢复白俄罗斯境内通过Druzhba管道的石油输送。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1865674.d.html</link>
-            <guid>3939257</guid>
-            <pubDate>Sat, 21 Dec 2024 12:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【袁记云饺发布最新说明：涉事门店整改后已合规合格】12月21日晚，袁记云饺发布最新情况说明称，涉事门店在经过认真整改后，目前门店经政府检查已合规合格。同时表示，在2025年4月1日前逐步在全国门店内展示品牌售后客服热线及线上客服，及时响应并解决消费者的问题和反馈。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1865505.d.html</link>
-            <guid>3939256</guid>
-            <pubDate>Sat, 21 Dec 2024 12:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【轨道交通智能运维浙江省工程研究中心正式揭牌】 据运达科技消息，12月20日，轨道交通智能运维浙江省工程研究中心（以下简称“研究中心”）揭牌仪式在浙江省轨道交通运营管理集团公司总部隆重举行。研究中心由浙江轨道集团、香港理工大学、西南交通大学、国家高速列车青岛技术创新中心、成都运达科技股份有限公司等单位合作共建。今后，研究中心将围绕“4+1+2”工作体系，即开展智能运维规划、多维数据感知采集、大数据智能分析、智能运维应用集成4大领域科研攻关，构建轨道云1项重点应用场景，打造轨道交通智能运维领域2套行业支撑体系，集聚力量突破轨道交通运维关键共性技术，推动浙江省轨道交通运营高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1865201.d.html</link>
-            <guid>3939255</guid>
-            <pubDate>Sat, 21 Dec 2024 12:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌空军：俄军发动大规模无人机袭击】乌克兰空军21日说，当地时间20日19时至21日凌晨，俄军向乌境内发射了1枚导弹和113架攻击型无人机。乌空军在社交媒体上发文说，俄军向波尔塔瓦州发射了一枚S－400防空导弹，俄军还从布良斯克州、奥廖尔州、库尔斯克州等地发射了113架攻击型无人机。截至当地时间21日上午9时，乌防空火力已拦截了至少57架无人机。乌克兰哈尔科夫州军事行政长官西涅古博夫21日在社交媒体上说，20日深夜，哈尔科夫市多个区遭无人机袭击，造成9人受伤，多处建筑受损并起火。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1864741.d.html</link>
-            <guid>3939254</guid>
-            <pubDate>Sat, 21 Dec 2024 12:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚首都发生踩踏事件至少10人死亡】据尼日利亚媒体报道，尼首都阿布贾一教堂21日发生踩踏事件，至少10人死亡。尼日利亚天主教会秘书处发言人迈克·乌莫告诉记者，踩踏事件发生在阿布贾马伊塔马区一座教堂。教堂当时正在分发食品和衣物等物资，3000余人前来领取物资。现场发生了混乱和踩踏，导致包括儿童在内的10人死亡，另有多人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrrp4637109.d.html</link>
-            <guid>3939253</guid>
-            <pubDate>Sat, 21 Dec 2024 12:11:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
