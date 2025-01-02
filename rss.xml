@@ -4,11 +4,117 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 02 Jan 2025 21:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 22:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【斯洛伐克总理：斯将于7日讨论对乌断电一事】当地时间1月2日，斯洛伐克总理菲佐表示，为回应乌克兰方面“蓄意破坏”俄罗斯天然气过境的单边主义做法，斯洛伐克政府将于7日讨论停止向乌供应电力等一系列可能的报复手段。菲佐称，乌方停止俄罗斯天然气过境的决定将对斯洛伐克的公共财政造成近5亿欧元的损失，并引发整个欧洲的能源价格上涨。他表示，斯方代表将于1月7日在布鲁塞尔与欧盟委员会及乌克兰讨论此事。随后，斯政府将召开会议讨论采取“充分应对乌方破坏活动”的措施，包括停止电力供应并大幅减少对斯洛伐克境内的乌克兰公民的支持等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruim1847005.d.html</link>
+            <guid>3958017</guid>
+            <pubDate>Thu, 02 Jan 2025 22:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国调查当局在总统尹锡悦的官邸展开调查，试图执行逮捕令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruii5072058.d.html</link>
+            <guid>3958015</guid>
+            <pubDate>Thu, 02 Jan 2025 22:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：在美国卡罗来纳州南部格林维尔县的I-85公路上，一辆卡车被包围，因为司机声称车上有炸弹。]]></title>
+            <guid>3958013</guid>
+            <pubDate>Thu, 02 Jan 2025 22:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球最大压缩空气储能电站开工建设】记者1月2日从中国华能集团有限公司获悉，华能金坛盐穴压缩空气储能发电二期项目日前在江苏常州正式开工建设。建成后，它将成为世界上单机功率最大、总容量最大、综合效率最高的压缩空气储能电站。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruia9729094.d.html</link>
+            <guid>3958011</guid>
+            <pubDate>Thu, 02 Jan 2025 22:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突破算力限制 Meta开源“记忆层”，重塑Transformer架构大模型】 扎克伯格旗下Meta Platforms分享了一个创新研究——Memory layers（记忆层）。目前，Transformer架构的预训练大模型在存储、查询数据时，随着参数的变大对算力的需求呈指数级增长。“记忆层”提出了新的高效查询机制替代了传统的查询方法，通过比较查询键与两个较小集合中的键，可以快速找到最相关的键，而无需遍历模型的整个记忆层。这也就是说，可以在不增加算力的情况下显著增加大模型的参数。例如，研究人员在仅有1.3亿参数的模型中添加了128亿额外的记忆参数，其性能与Meta开源的Llama 2- 70相当，而算力却比它低了10倍左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruie9164551.d.html</link>
+            <guid>3958010</guid>
+            <pubDate>Thu, 02 Jan 2025 22:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又有多家券商获准参与互换便利业务】 证券、基金、保险公司互换便利（SFISF）备选机构扩容已经开启。1月2日，国投证券、国金证券、方正证券和长城证券披露，已收到中国证监会的复函，获准参与互换便利。(证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruie9164539.d.html</link>
+            <guid>3958009</guid>
+            <pubDate>Thu, 02 Jan 2025 22:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：韩国调查机关进入尹锡悦住所附近执行逮捕令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruii5069895.d.html</link>
+            <guid>3958006</guid>
+            <pubDate>Thu, 02 Jan 2025 22:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台1月3日06时继续发布大风蓝色预警】中央气象台1月3日06时继续发布大风蓝色预警。预计，1月3日08时至4日08时，西藏大部、青海中南部、川西高原、甘肃西部、内蒙古中西部等地部分地区有5～7级，阵风7～9级的大风；东海南部海域、台湾海峡、台湾以东洋面、巴士海峡、南海大部海域将有7~8级、阵风9~10级的大风，其中巴士海峡的部分海域风力可达9级、阵风10~11级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruim1843757.d.html</link>
+            <guid>3958003</guid>
+            <pubDate>Thu, 02 Jan 2025 22:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FBI称未发现美国元旦两起汽车袭击事件有明确关联】美国联邦调查局（FBI）2日表示，尚未发现新年第一天在新奥尔良和拉斯维加斯发生的两起汽车袭击事件有“明确关联”。2025年1月1日凌晨，路易斯安那州新奥尔良发生汽车“蓄意”冲撞人群事件；当天晚些时候，位于内华达州拉斯维加斯的特朗普酒店门前又发生一起电动汽车爆炸事件。美国总统拜登1日说，司法部门正在调查这两起事件是否存在关联。FBI反恐部门官员拉亚2日在新奥尔良举行的记者会上说，最新调查尚未发现两起事件之间存在“明确关联”，但调查仍处于“非常早期阶段”。拉亚说，新奥尔良汽车冲撞人群事件是“有预谋的、邪恶的恐怖主义行为”，此次事件嫌疑人可能是“独狼式恐怖分子”，目前尚未发现有其他人参与。他还确认新奥尔良汽车冲撞事件造成14人死亡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruii5069060.d.html</link>
+            <guid>3958002</guid>
+            <pubDate>Thu, 02 Jan 2025 21:56:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国钢铁工人工会批评日本制铁的提案缺乏长期承诺，该工会一直反对美国钢铁公司与日本制铁合并。]]></title>
+            <guid>3957999</guid>
+            <pubDate>Thu, 02 Jan 2025 21:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创新药企业发力海外市场各显身手】回望2024年，恒瑞医药、礼新医药、映恩生物等国内创新药企业成功实现产品出海，在国际市场百花齐放。同时，获批新药及国产比例均处于历史高位。业内人士表示，出海和创新成为医药行业的关键词。近年来，政策持续推动医药行业创新，顶层设计及地方配套政策全链条支持创新药发展，国内创新药企业研发实力持续增强。海外市场为国产创新药发展提供了广阔舞台，行业整体发展趋势向上。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruia9726974.d.html</link>
+            <guid>3957998</guid>
+            <pubDate>Thu, 02 Jan 2025 21:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构密集调研医药上市公司】Wind数据显示，2024年全年机构累计调研逾420家医药生物行业上市公司，相较于2023年数量有所增长。从细分领域看，创新药械、中药等赛道颇受机构关注。业内人士表示，近年来，医药板块经历较长时间的调整，整体估值处于较低水平。展望2025年，在政策的推动下，医药产业将加快发展，板块估值有望迎来修复，看好创新药产业链发展前景和药械出海，细分领域龙头企业值得重点关注。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruia9726958.d.html</link>
+            <guid>3957997</guid>
+            <pubDate>Thu, 02 Jan 2025 21:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【低空经济板块投资机遇值得期待】2024年下半年以来，低空经济概念板块受到投资者广泛关注。Wind数据显示，自2024年9月24日以来，截至2025年1月2日，万得低空经济概念指数累计涨幅达31.90%。此前，多地相继成立低空经济国资企业，加速推进商业化进程。近日，国家发展改革委低空经济发展司（简称“低空司”）正式亮相，标志着低空经济进入了一个新的发展阶段。 分析人士认为，随着顶层设计不断完善，商业化进程有望加速，低空经济作为新质生产力的典型代表之一，市场潜力巨大，2025年有望成为低空经济发展元年。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruii5067853.d.html</link>
+            <guid>3957994</guid>
+            <pubDate>Thu, 02 Jan 2025 21:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【化险与发展并行 农村中小银行合并加速】在改革重组、风险化解、经营承压等多重挑战下，农村中小银行直面难题、迎接变革：四川、广西等地农信社改革落地；地市级统一法人农商银行迭出；村镇银行兼并重组加速，“村改支”“村改分”案例频现。业内人士表示，银行合并重组，不仅源于自身经营原因，也源于区域化险要求。合并重组有助于农村中小银行完善公司治理，提高盈利能力，增强银行竞争力。2025年，农村中小银行合并重组料继续稳健推进。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruim1841850.d.html</link>
+            <guid>3957991</guid>
+            <pubDate>Thu, 02 Jan 2025 21:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列针对叙利亚阿勒颇的设施进行空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruim1841456.d.html</link>
+            <guid>3957989</guid>
+            <pubDate>Thu, 02 Jan 2025 21:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【低空经济带火新保险 精准定价难题待解】无人机送外卖、打“飞的”出行……科幻小说里描写的“天空之城”，正在一些地方变为现实。过去一年，低空经济持续发展，各种应用场景加速落地，为城市发展注入新活力。据中国民航局预测，2025年我国低空经济的市场规模将达1.5万亿元，到2035年将达3.5万亿元。 与此同时，低空经济产业对保险保障的需求日益增加，低空经济保险备受关注。多家保险公司已布局相关业务，推出相关保险产品。但是作为刚刚“破土而出”的业务领域，低空经济保险面临基础数据不足、风险评估与定价难等挑战。业内人士建议，保险公司应加强与低空经济企业的沟通合作、数据共享，针对低空经济发展需求开发相关保险产品。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruia9726383.d.html</link>
+            <guid>3957988</guid>
+            <pubDate>Thu, 02 Jan 2025 21:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私募阿波罗四季度另类净投资收入初步估算大约为2.65亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruia9726275.d.html</link>
+            <guid>3957985</guid>
+            <pubDate>Thu, 02 Jan 2025 21:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列针对叙利亚阿勒颇的设施进行空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruii5065248.d.html</link>
+            <guid>3957981</guid>
+            <pubDate>Thu, 02 Jan 2025 21:23:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【量子计算概念股普遍收涨，Rigetti涨超31%】 2025年首个交易日，美股Quantum Corporation（QMCO）收涨0.93%，Quantum Computing（QUBT）收涨13.32%，D-Wave Quantum（QBTS）涨14.40%，Rigetti Computing（RGTI）涨31.06%，IonQ（IONQ）涨3.18%，量子ETF-Defiance ETFs（QTUM）涨1.55%，霍尼韦尔则收跌0.16%，微美全息ADR跌9.19%。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecruie9160969.d.html</link>
@@ -61,7 +167,7 @@
             <pubDate>Thu, 02 Jan 2025 20:51:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国警方：拉斯维加斯汽车爆炸案司机可能在爆炸前开枪自杀】美国拉斯维加斯市警长凯文·麦克马希尔（Kevin McMahill）当地时间1月2日在新闻发布会上表示，初步调查显示，1月1日发生在特朗普国际酒店外的特斯拉皮卡爆炸事件可能是一场自杀行为。警方在车内发现一把枪，枪支被发现的位置靠近司机脚部。警方认为，司机是在车辆爆炸前向自己头部开枪自尽的。]]></title>
+            <title><![CDATA[【美国警方：拉斯维加斯汽车爆炸案司机可能在爆炸前开枪自杀】美国拉斯维加斯市警长凯文·麦克马希尔（Kevin McMahill）当地时间1月2日在新闻发布会上表示，初步调查显示，1月1日发生在特朗普国际酒店外的特斯拉皮卡爆炸事件可能是一场自杀行为。警方在车内发现一把枪，枪支被发现的位置靠近司机脚部。警方认为，司机是在车辆爆炸前向自己头部开枪自尽的。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5187298.d.html</link>
             <guid>3957961</guid>
             <pubDate>Thu, 02 Jan 2025 20:48:31 GMT</pubDate>
@@ -217,158 +323,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5175882.d.html</link>
             <guid>3957916</guid>
             <pubDate>Thu, 02 Jan 2025 19:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【截至2024年底，重庆江北国际机场口岸出入境人员总量突破190万人次】截至2024年底，重庆江北国际机场口岸出入境人员总量突破190万人次，航班量超1.5万架次，同比分别增长约120%和70%。入境外国人达22万人次，数量创历史新高。其中免签入境外国人达11万余人次，超过该口岸全年入境外国人总量的一半。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpze9846574.d.html</link>
-            <guid>3957915</guid>
-            <pubDate>Thu, 02 Jan 2025 19:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：截至1月3日当周的天然气库存报告将于美东时间1月8日12:00（北京时间1月9日凌晨1:00）公布。]]></title>
-            <guid>3957914</guid>
-            <pubDate>Thu, 02 Jan 2025 19:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉评级强调美国大型杠杆发行人公司结构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpze9845815.d.html</link>
-            <guid>3957912</guid>
-            <pubDate>Thu, 02 Jan 2025 19:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚2024年石油流量处于六年低点，1-12 月船舶装载原油 46.2 万桶/日，较上年同期下降 4.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzh9281195.d.html</link>
-            <guid>3957911</guid>
-            <pubDate>Thu, 02 Jan 2025 19:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大基金三期出手不凡 1600亿元投资两只基金】2025年刚开年，股权投资市场传出大消息。企查查App显示，国家集成电路产业投资基金三期股份有限公司（简称“大基金三期”）近日接连出手，合计1600亿元投资了两只基金。这也是大基金三期成立以来首度出手投资。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1947653.d.html</link>
-            <guid>3957910</guid>
-            <pubDate>Thu, 02 Jan 2025 19:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京疏解核心区三级医院床位超万张 医疗资源持续优化】近年来，北京持续推动三级医院从核心区向五环外疏解，近期多家医院的新建院区陆续开诊。截至目前，北京已累计疏解核心区三级医院床位一万余张。近年来，北京中心城区优质医疗卫生资源向城市南部、西部以及回龙观、天通苑等重点地区转移疏解，建成了积水潭医院新龙泽院区、友谊医院通州院区和顺义院区、同仁医院亦庄院区二期、朝阳医院常营院区等十多个重大疏解项目。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5173074.d.html</link>
-            <guid>3957909</guid>
-            <pubDate>Thu, 02 Jan 2025 19:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【城堡提出允许客户赎回利润 响应者寥寥无几】在去年旗舰基金实现15%回报率后，城堡投资(Citadel)提出可以让客户套现部分收益，但绝大多数受邀客户都希望把钱继续放在该多策略对冲基金中。据一位知情人士透露，最近几周城堡向一些客户提出利润分配建议，但几乎无人接受。城堡去年获得的数十亿美元利润中只有约3亿美元流出了公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1946454.d.html</link>
-            <guid>3957906</guid>
-            <pubDate>Thu, 02 Jan 2025 19:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来制药寻求干预美国食品药品管理局（FDA）与众多配药师之间关于礼来减肥药Tirzepatide是否仍然存在供应短缺问题的官司。礼来称，2024年8月份以来，公司所有药剂都可以获得。礼来认为，美国FDA在官司中有其他意图。]]></title>
-            <guid>3957905</guid>
-            <pubDate>Thu, 02 Jan 2025 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【据悉Meta Platforms全球事务总裁Nick Clegg将离职】Meta Platforms全球事务总裁Nick Clegg将离职，接替他的人为Joel Kaplan。Kaplan曾在小布什时期担任白宫办公厅副主任，是Meta内部反对限制政治言论最有力的声音之一。据悉，Clegg将在未来几个月将领导权移交给Kaplan后离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1946314.d.html</link>
-            <guid>3957904</guid>
-            <pubDate>Thu, 02 Jan 2025 19:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警方：特斯拉工作人员美东时间今天下午抵达协助调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1946193.d.html</link>
-            <guid>3957903</guid>
-            <pubDate>Thu, 02 Jan 2025 19:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部：由于前总统卡特的国葬，截至1月2日当周的出口销售报告将推迟一天至1月10日（周五）发布。]]></title>
-            <guid>3957902</guid>
-            <pubDate>Thu, 02 Jan 2025 19:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警方：不排除Cybertruck爆炸事件与新奥尔良袭击事件有联系。两起案件存在“非常奇怪的相似之处”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5170993.d.html</link>
-            <guid>3957899</guid>
-            <pubDate>Thu, 02 Jan 2025 19:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国再次警告加沙已无安全之地】当地时间1月2日，联合国人道主义事务协调厅警告称，对于平民来说，加沙地带任何地方都没有安全可言。1月1日，以色列军方再次下令疏散加沙地带的大片区域，理由是以色列境内遭到火箭弹袭击。初步分析表明，新疏散令涵盖加沙地带北部和代尔拜拉赫约3平方公里的区域。而后，加沙地带的马瓦西地区遭到袭击。联合国近东巴勒斯坦难民救济和工程处主任专员菲利普·拉扎里尼发表声明称，这再次提醒人们，根本没有“人道主义区”或“安全区”。他呼吁停止杀害平民。联合国人道主义事务协调厅还警告称，人道主义组织为加沙各地提供援助的能力正在进一步减弱。自10月6日以来，加沙北部已连续88天拒绝联合国人道主义援助进入。截至2025年1月1日，进入加沙地带北部的166次请求中有150次被拒绝，有16次最初获得同意，但在当地受到干扰或遇到阻碍。联合国人道主义事务协调厅强调，这可能会导致更多的死亡，目前进入加沙北部剩余的医院是当务之急。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzh9279585.d.html</link>
-            <guid>3957897</guid>
-            <pubDate>Thu, 02 Jan 2025 19:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警方：不相信还有任何进一步的威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzh9279511.d.html</link>
-            <guid>3957896</guid>
-            <pubDate>Thu, 02 Jan 2025 19:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警长：对象去过拉斯维加斯大道上的几个地方。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1943387.d.html</link>
-            <guid>3957893</guid>
-            <pubDate>Thu, 02 Jan 2025 19:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【短剧大有可为 热潮有望持续】短剧市场正呈现爆发式增长状态，根据中研普华产业研究院发布的报告，2024年我国微短剧行业市场规模将突破500亿元，到2027年有望超过1000亿元。中国网络视听协会发布的《中国微短剧行业发展白皮书（2024）》指出，今年微短剧市场规模有望首次超过内地电影票房。除此之外，中国短剧行业更是加快了海外拓展速度，多部热播短剧已打入海外市场。其中美国占比最高，超50%。根据出海收入规模Top10短剧平台测算，出海短剧预计2024年将达到40亿美元。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5168335.d.html</link>
-            <guid>3957892</guid>
-            <pubDate>Thu, 02 Jan 2025 19:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警长：不知道此案是否还有其他嫌疑人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzh9278379.d.html</link>
-            <guid>3957891</guid>
-            <pubDate>Thu, 02 Jan 2025 19:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警长：马修·利夫斯伯格在车辆爆炸前曾遭受过头部枪伤。在他的脚边发现了一把手枪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5168013.d.html</link>
-            <guid>3957889</guid>
-            <pubDate>Thu, 02 Jan 2025 19:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拉斯维加斯警长：在拉斯维加斯特朗普酒店外发生爆炸的Cybertruck中发现了军用身份证明。车内的男子被确认是马修·利夫斯伯格（Matthew Livelsberger）。]]></title>
-            <guid>3957888</guid>
-            <pubDate>Thu, 02 Jan 2025 19:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两名非法移民在前往西班牙途中死亡】 据西班牙媒体2日报道，366名非法移民1日乘船抵达西班牙，有2人在途中死亡。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpze9842381.d.html</link>
-            <guid>3957885</guid>
-            <pubDate>Thu, 02 Jan 2025 18:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX波动率日内涨幅达12.0%，报19.48。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpze9842358.d.html</link>
-            <guid>3957884</guid>
-            <pubDate>Thu, 02 Jan 2025 18:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IBM与格芯就合同和商业机密诉讼达成和解】格芯和IBM周四表示，双方已就对簿公堂的诉讼达成和解，格芯被指控违反了与IBM的合同，而IBM则被指控滥用了这家芯片制造商的商业机密。两家公司在一份联合声明中表示，和解条款是保密的，并将允许他们 "探索新的合作机会"。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1941742.d.html</link>
-            <guid>3957883</guid>
-            <pubDate>Thu, 02 Jan 2025 18:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电动重卡已成新能源重卡主流 2025年或迎放量拐点】新能源重卡渗透率正穿越拐点，2025年或迎来放量增长。据国家金融监督管理总局数据，截至2024年10月，国内新能源重卡销量已累计达到5.68万辆，较2023年同期增长143%，渗透率达到11.9%，较2023年增长6.3个百分点。交强险数据也显示，截至2024年10月，电动重卡是目前新能源重卡的主流，占比达到93%，其中充电式与换电式在电动重卡内部分别占比62%、38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1941539.d.html</link>
-            <guid>3957882</guid>
-            <pubDate>Thu, 02 Jan 2025 18:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄军在库尔斯克州上空击落乌军四枚导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzm5166429.d.html</link>
-            <guid>3957880</guid>
-            <pubDate>Thu, 02 Jan 2025 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯在2024年超过美国成为出口欧盟天然气的第二大出口国】俄罗斯在2024年对欧盟的天然气出口增至544.5亿立方米，这使得俄罗斯超过美国并且成为欧盟的第二大天然气供应国。欧盟在2024年进口了2979亿立方米天然气，其中有544.5亿立方米购自俄罗斯。这比2023年购买的455亿立方米的数量多出21%，最终俄罗斯的份额在欧盟市场一年内从14.2%增至18.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecrpzp1940781.d.html</link>
-            <guid>3957879</guid>
-            <pubDate>Thu, 02 Jan 2025 18:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯和以色列代表团将在多哈继续停火谈判】当地时间1月2日晚间，以色列总理办公室发表声明称，以总理内塔尼亚胡已正式批准，一支由以色列情报和特勤局（摩萨德）、以色列国家安全总局（辛贝特）和以色列国防军等单位代表组成的专业代表团，将前往卡塔尔首都多哈，继续参与加沙停火与人员交换协议谈判。此前，去年12月24日，以色列谈判代表团从多哈返回，之后以色列指责哈马斯未能提交停火第一阶段其拟释放的以色列被扣押人员的完整名单。停火谈判陷入停滞。此外，记者从阿拉伯媒体获悉，一支哈马斯代表团于2日离开埃及首都开罗，前往多哈，与有关各方就加沙停火问题进行谈判。哈马斯高级官员阿布·马尔祖克对媒体表示，这次谈判很有可能取得成功。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-03/detail-inecritr2068705.d.html</link>
-            <guid>3957877</guid>
-            <pubDate>Thu, 02 Jan 2025 18:46:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
