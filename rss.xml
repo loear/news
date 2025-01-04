@@ -4,11 +4,40 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 04 Jan 2025 19:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 20:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【奥地利总理内哈默宣布将于近日辞去总理职位】奥地利总理内哈默4日在社交媒体上宣布，因新政府组阁谈判失败，他将于近日辞去总理职位。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecwafi3291398.d.html</link>
+            <guid>3960639</guid>
+            <pubDate>Sat, 04 Jan 2025 20:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥地利总理卡尔·内哈默在社交媒体X上表示：与社会民主党的联盟谈判已经结束，不会继续。他将在未来几天辞去部分保守党领导人和总理的职务。]]></title>
+            <guid>3960623</guid>
+            <pubDate>Sat, 04 Jan 2025 19:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：意大利总理梅洛尼正在赴美与美国当选总统特朗普会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecwafi3281176.d.html</link>
+            <guid>3960622</guid>
+            <pubDate>Sat, 04 Jan 2025 19:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：奥地利组建政府的谈判再次破裂。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecwafm0055123.d.html</link>
+            <guid>3960621</guid>
+            <pubDate>Sat, 04 Jan 2025 19:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：特朗普总统图书馆基金会在佛罗里达州成立。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecwafi3280490.d.html</link>
+            <guid>3960620</guid>
+            <pubDate>Sat, 04 Jan 2025 19:23:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴基斯坦俾路支省爆炸袭击事件已致5人死亡】1月4日，巴基斯坦俾路支省图尔巴特市发生一起爆炸袭击，目前已造成至少5人死亡。初步调查结果显示，爆炸为自杀式袭击。进一步调查正在进行中。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecwafm0052535.d.html</link>
@@ -408,30 +437,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-04/detail-inecvezv5244050.d.html</link>
             <guid>3960449</guid>
             <pubDate>Sat, 04 Jan 2025 10:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古新能源总装机规模达1.35亿千瓦，提前一年实现超过火电装机规模目标】从内蒙古自治区政府获悉，截至2024年底，内蒙古新能源总装机规模达到1.35亿千瓦，提前一年实现新能源装机规模超过火电装机规模的目标，累计建成新型储能装机达1032万千瓦。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-04/detail-inecvezt3703788.d.html</link>
-            <guid>3960443</guid>
-            <pubDate>Sat, 04 Jan 2025 10:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古启动首个储能类国家级重点科技项目，总投资3.6亿元】从内蒙古自治区政府获悉，内蒙古日前启动首个储能类国家级重点科技项目，助力提升新能源基地电力外送灵活性和经济性。据介绍，该项目为国家重点研发计划“储能与智能电网”专项之一，由内蒙古能源集团牵头承担、中国科学院电工研究所等14家单位联合申报，总投资3.6亿元，执行期3年，主要攻克混合储能电站容量优化配置、混合储能与常规电源协同控制等技术难题，为支撑新能源基地电力外送提供解决方案。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-04/detail-inecvezv0477925.d.html</link>
-            <guid>3960442</guid>
-            <pubDate>Sat, 04 Jan 2025 10:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登据悉将禁止在美国大片海域开展新的油气钻探】 据多家媒体报道，知情人士透露，预计美国总统拜登将永久禁止在大西洋和太平洋水域的大片海域开展新的石油和天然气钻探活动，而特朗普政府可能很难撤销这一禁令。拜登计划援引1953年的《外大陆架土地法》的一项模糊条款，可以从未来的石油和天然气租赁中撤回联邦水域。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-04/detail-inecvezv5242085.d.html</link>
-            <guid>3960439</guid>
-            <pubDate>Sat, 04 Jan 2025 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胜利油田2024年页岩油产量首次突破50万吨】 记者近日从胜利油田获悉，2024年胜利油田生产原油2359.16万吨，同比增加14万吨，其中页岩油产量首次突破50万吨。同时，2024年胜利油田呈现“两增两降”发展态势，原油产量和利润目标实现双增，投资规模和盈亏平衡点实现双降。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-04/detail-inecvezt3701882.d.html</link>
-            <guid>3960438</guid>
-            <pubDate>Sat, 04 Jan 2025 10:35:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
