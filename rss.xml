@@ -4,11 +4,31 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 11 Jan 2025 19:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 20:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国社民党和选择党代表大会同日举行 两党公布各自竞选主张】当地时间1月11日，德国执政党社会民主党和极右翼政党选择党分别在柏林和里萨市举行党代表大会。两党分别选举朔尔茨和魏德尔为各自的总理候选人。
+德国社民党作为传统的中左翼政党和过去四年的执政党，在本次党代表大会上将自身定位为“普通人的政党”。社民党主张为占德国总人口95%的工薪阶层减税，减税的具体措施包括提高纳税起征点和增加最高税率的上限。
+德国选择党在党代表大会上则将重点放在移民政策上。魏德尔表示，如果她能上台执政，将在100天内“关闭德国的国门”，大规模遣返非法移民。在能源政策上，魏德尔主张重启核电厂并部分恢复燃煤电厂。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-12/detail-ineeryaq1096778.d.html</link>
+            <guid>3974436</guid>
+            <pubDate>Sat, 11 Jan 2025 19:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏丹快速支援部队（RSF）领导人：今天我们输了一轮，但我们没有输掉这场战斗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-12/detail-ineeryan4321845.d.html</link>
+            <guid>3974435</guid>
+            <pubDate>Sat, 11 Jan 2025 19:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登向教皇方济各颁发总统自由勋章。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-12/detail-ineeryaq1092522.d.html</link>
+            <guid>3974414</guid>
+            <pubDate>Sat, 11 Jan 2025 19:36:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加州山火持续肆虐 美官员称特别工作组将调查大火起因】当地时间1月11日获悉，美国加州洛杉矶市官员表示，美国烟酒火器和爆炸物管理局将领导一个由加州消防局、洛杉矶消防局和洛杉矶警察局等其他几个机构组成的特别工作组，共同调查帕利赛德大火的起因。据悉，特别工作组将从全美各地调集资源，调查过去一周加州在经历强风期间发生的所有火灾之间是否存在联系。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-12/detail-ineeryan4313126.d.html</link>
@@ -507,18 +527,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineerawt4869397.d.html</link>
             <guid>3974136</guid>
             <pubDate>Sat, 11 Jan 2025 10:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：现代汽车公司向特朗普就职基金捐赠100万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineerawv4304092.d.html</link>
-            <guid>3974134</guid>
-            <pubDate>Sat, 11 Jan 2025 10:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩新任总统约瑟夫·奥恩将在沙特王储的邀请下访问沙特阿拉伯。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-11/detail-ineerawy1508669.d.html</link>
-            <guid>3974133</guid>
-            <pubDate>Sat, 11 Jan 2025 10:30:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
