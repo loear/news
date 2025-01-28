@@ -6,6 +6,125 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4002554,
+            "content_html": "",
+            "title": "1月27日欧美科技股重挫当天，流行的期权策略离散交易（dispersion trade）创2020年以来最佳单日表现。",
+            "date_modified": "2025-01-28T16:25:36.000Z"
+        },
+        {
+            "id": 4002553,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-29/detail-inehqerq9656006.d.html",
+            "title": "瑞士宝盛集团料将裁员数百人并减少执行董事。",
+            "date_modified": "2025-01-28T16:25:28.000Z"
+        },
+        {
+            "id": 4002552,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-29/detail-inehqerq9655423.d.html",
+            "title": "【X选择Visa作为迈向“万能应用”目标的首个数字钱包合作伙伴】埃隆·马斯克与Visa Inc.达成协议，把这家支付公司作为其把X打造成“万能应用”（everything app）目标的首个重要合作伙伴。根据社交媒体平台X上的帖子，Visa将帮助X用户将钱存入数字钱包，即X Money支付系统的组成部分。Visa将关联客户的借记卡，以便客户在其间汇款，即时将资金转入银行账户。对于打算让用户线上购物、向朋友或企业汇款、以及用X帐户在实体店购物的应用程序而言，支付网络是关键支柱。但马斯克的公司面临着来自点对点支付服务的激烈竞争，PayPal Holdings Inc.的Venmo、背靠银行的Zelle以及苹果公司的钱包仍然是最常用的服务。",
+            "date_modified": "2025-01-28T16:22:59.000Z"
+        },
+        {
+            "id": 4002548,
+            "content_html": "",
+            "title": "穆迪：波音公司与美国国防部有可能修改合同条款，以部分缓解波音在亏损的传统国防装备合同上所面临的财务压力。",
+            "date_modified": "2025-01-28T16:19:53.000Z"
+        },
+        {
+            "id": 4002541,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-29/detail-inehqerq9652305.d.html",
+            "title": "意大利总理梅洛尼：司法部长和其他政府官员正在接受调查。",
+            "date_modified": "2025-01-28T16:08:17.000Z"
+        },
+        {
+            "id": 4002539,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-29/detail-inehqers6426335.d.html",
+            "title": "Brookfield计划按每股39.85欧元收购法国上市的Neoen SA。",
+            "date_modified": "2025-01-28T16:06:04.000Z"
+        },
+        {
+            "id": 4002536,
+            "content_html": "",
+            "title": "扎克伯格旗下Meta Platforms与Zelestra签署关于在美国得州修建新版可再生能源的四份协议。",
+            "date_modified": "2025-01-28T16:02:22.000Z"
+        },
+        {
+            "id": 4002535,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-29/detail-inehpyiu6555648.d.html",
+            "title": "【梁文锋发文回应冯骥盛赞DeepSeek？知情人士：假消息】1月28日晚间消息，有自媒体发文称Deepseek创始人梁文锋除夕夜发文回应冯骥言论，新浪科技向相关人士求证，上述回应为假。此前，游戏科学创始人、首席执行官、《黑神话：悟空》制作人冯骥发文盛赞DeepSeek时用“国运级”字眼形容。（新浪科技）",
+            "date_modified": "2025-01-28T16:01:00.000Z"
+        },
+        {
+            "id": 4002531,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7258504.d.html",
+            "title": "法国总统马克龙：卢浮宫的翻修工程将于2031年完工。",
+            "date_modified": "2025-01-28T15:54:14.000Z"
+        },
+        {
+            "id": 4002530,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6554996.d.html",
+            "title": "利比亚国家石油公司主席：恢复从东部各大港口装载石油货物。",
+            "date_modified": "2025-01-28T15:53:44.000Z"
+        },
+        {
+            "id": 4002525,
+            "content_html": "",
+            "title": "波音CEO在被问及今年能否交付 75 至 80 架 787 客机时，回答 “肯定可以”，而且可能 “还会更好一点”。",
+            "date_modified": "2025-01-28T15:46:07.000Z"
+        },
+        {
+            "id": 4002523,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7257841.d.html",
+            "title": "法国总统马克龙在巴黎卢浮宫表示：《蒙娜丽莎》画作将迁至设有独立入口的专用空间。",
+            "date_modified": "2025-01-28T15:44:27.000Z"
+        },
+        {
+            "id": 4002522,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6553850.d.html",
+            "title": "【Jefferies初级银行家Carter McIntosh突然离世 年仅28岁】根据周二发给员工的备忘录，Jefferies驻达拉斯的投资银行家Carter McIntosh去世。一位知情人士透露，McIntosh死因不详，当局正在开展调查。公开记录显示，McIntosh年仅28岁。Jefferies首席执行官Rich Handler和总裁Brian Friedman在备忘录中写道，“昨天，我们获悉达拉斯才华横溢的员工Carter McIntosh去世的消息，对此我们深感悲痛，我们与Carter的家人保持着联系，他们知道我们随时准备为他们提供力所能及的支持”。",
+            "date_modified": "2025-01-28T15:44:07.000Z"
+        },
+        {
+            "id": 4002520,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9778873.d.html",
+            "title": "【丹麦首相：国家主权和领土完整必须得到尊重】 丹麦首相弗雷泽里克森28日谈及美国威胁夺取格陵兰岛控制权时表示，“国家主权和领土完整必须得到尊重”。弗雷泽里克森当天正在法国访问。她在巴黎告诉媒体记者，尊重国家主权和领土完整是国际社会的基本原则。她说，面对美国的觊觎，丹麦获得欧洲伙伴的“极大支持”，向美国传达了“十分清晰的信息”。当天，弗雷泽里克森还在社交媒体就访法之行发帖，强调建立“强大欧洲的重要性”。（新华社）",
+            "date_modified": "2025-01-28T15:40:17.000Z"
+        },
+        {
+            "id": 4002519,
+            "content_html": "",
+            "title": "苹果公司面临在德国打击反垄断行动中失败的风险。",
+            "date_modified": "2025-01-28T15:38:32.000Z"
+        },
+        {
+            "id": 4002515,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiw4930257.d.html",
+            "title": "市场资讯：美国FTC就亚马逊的定价政策询问TEMU。",
+            "date_modified": "2025-01-28T15:31:01.000Z"
+        },
+        {
+            "id": 4002514,
+            "content_html": "",
+            "title": "波音CFO预计，由于工作日减少，2 月份 737 交付量将低于 1 月份，3 月份情况将更好。",
+            "date_modified": "2025-01-28T15:30:44.000Z"
+        },
+        {
+            "id": 4002511,
+            "content_html": "",
+            "title": "杰富瑞金融集团（JEF）28岁的科技银行家Carter Mcintosh去世。这位银行家死因不明，调查仍在进行中。",
+            "date_modified": "2025-01-28T15:26:20.000Z"
+        },
+        {
             "id": 4002508,
             "content_html": "",
             "title": "波音公司CFO：将继续把（公司股票）获得投资级评级作为优先任务。",
@@ -17,13 +136,6 @@
             "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7256220.d.html",
             "title": "卡塔尔声明：卡塔尔外长与美国国务卿在电话会议中讨论联合调解加沙的努力，双方表示希望加沙停火协议进入第二阶段，并最终转变为永久停火。",
             "date_modified": "2025-01-28T15:22:44.000Z"
-        },
-        {
-            "id": 4002504,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6551330.d.html",
-            "title": "波音首席执行官表示，BCA 项目的供应商零部件短缺情况在既定的控制范围内。",
-            "date_modified": "2025-01-28T15:22:14.000Z"
         },
         {
             "id": 4002503,
@@ -134,7 +246,8 @@
         {
             "id": 4002474,
             "content_html": "",
-            "title": "X首席执行官：VISA是我们XMONEY账户的第一个合作伙伴，将于今年晚些时候首次亮相。",
+            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6548420.d.html",
+            "title": "【X平台CEO：VISA成X Money支付系统首个合作伙伴】社交媒体平台“X”首席执行官琳达・雅卡里诺1月28日在社交平台宣布，X平台支付系统X Money将于今年晚些时候推出，VISA是首个合作伙伴。",
             "date_modified": "2025-01-28T14:58:27.000Z"
         },
         {
@@ -280,154 +393,6 @@
             "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6543664.d.html",
             "title": "【DeepSeek有助于降低成本 Cathie Wood欢迎人工智能领域的竞争】Ark Investment Management首席执行官Cathie Wood称，随着DeepSeek的崛起，人工智能领域竞争加剧是一个积极的发展，将有助于科技公司削减成本和改善平台。 “降低成本对世界来说是好事，”Wood在接受采访时表示。“无论如何，成本都在大幅下降，DeepSeek已经把它推向了一个新的层次。”",
             "date_modified": "2025-01-28T14:24:08.000Z"
-        },
-        {
-            "id": 4002419,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9768795.d.html",
-            "title": "【首架载有被遣返人员军机 降落哥伦比亚首都】哥伦比亚媒体报道，首架载有被遣返人员的哥伦比亚空军飞机，已于28日抵达首都波哥大。此前，哥伦比亚总统佩特罗拒绝允许载有哥伦比亚移民的两架美国军机入境，称只有在确保遣返国民“有尊严的待遇”前提下，才会接收遣返人员。他还要求特朗普政府制定一项相关协议，以保障遣返者的权益。",
-            "date_modified": "2025-01-28T14:22:11.000Z"
-        },
-        {
-            "id": 4002416,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7250933.d.html",
-            "title": "波音股价盘前上涨4%。消息面上，公司CEO称737飞机销量超预期。",
-            "date_modified": "2025-01-28T14:20:12.000Z"
-        },
-        {
-            "id": 4002415,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9768345.d.html",
-            "title": "【SAP第四季度销售额超预期 云收入同比增长27%】SAP公布第四季度业绩，销售额为93.8亿欧元，同比增长10.7%，分析师预期为91.2亿欧元；每股收益为1.4欧元，去年同期为1.12欧元，分析师预期为1.34欧元。按固定汇率计算，云计算业务营收同比增长27%，达到47.1亿欧元，分析师预期为46.8亿欧元。",
-            "date_modified": "2025-01-28T14:18:40.000Z"
-        },
-        {
-            "id": 4002413,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7250655.d.html",
-            "title": "波音CEO：不认为公司会进行“重大结构性”重组。",
-            "date_modified": "2025-01-28T14:15:37.000Z"
-        },
-        {
-            "id": 4002412,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiw4923964.d.html",
-            "title": "波音CEO：预计737 MAX 10机型将于下半年获批，月产能目标38架。",
-            "date_modified": "2025-01-28T14:15:15.000Z"
-        },
-        {
-            "id": 4002411,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7250586.d.html",
-            "title": "【韩国一客机失火170多人紧急疏散】今天（1月28日）晚上，韩国釜山金海国际机场一架釜山航空计划飞往中国香港的客机发生火灾。据韩联社报道，火灾发生后，机上169名乘客和7名机组人员已全部紧急疏散。据悉有机上人员在火灾中受伤。当地消防部门展开灭火作业。失火原因有待进一步调查。（CCTV国际时讯）",
-            "date_modified": "2025-01-28T14:14:47.000Z"
-        },
-        {
-            "id": 4002409,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiw4923799.d.html",
-            "title": "波音CEO：上半年将使用现金，下半年将实现正增长。",
-            "date_modified": "2025-01-28T14:13:02.000Z"
-        },
-        {
-            "id": 4002407,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiw4923748.d.html",
-            "title": "市场消息：波音与DOGE团队合作，提高项目效率。",
-            "date_modified": "2025-01-28T14:12:20.000Z"
-        },
-        {
-            "id": 4002405,
-            "content_html": "",
-            "title": "【阿里云AI技术成果亮相春晚】 1月28日晚，阿里云首次亮相央视总台蛇年春晚。作为总台春晚云计算AI独家合作伙伴，阿里云为春晚直播提供了强大的全球云基础设施和通义大模型AI技术支持。",
-            "date_modified": "2025-01-28T14:11:34.000Z"
-        },
-        {
-            "id": 4002404,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6542001.d.html",
-            "title": "波音首席执行官称与马斯克就空军一号项目展开合作。",
-            "date_modified": "2025-01-28T14:11:29.000Z"
-        },
-        {
-            "id": 4002402,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9767290.d.html",
-            "title": "哥伦比亚12月工业信心升至-0.2。",
-            "date_modified": "2025-01-28T14:10:18.000Z"
-        },
-        {
-            "id": 4002401,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6541801.d.html",
-            "title": "波音CEO：737的销量超出预期。将在1月份交付超过30架737飞机。",
-            "date_modified": "2025-01-28T14:10:02.000Z"
-        },
-        {
-            "id": 4002400,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9767156.d.html",
-            "title": "据外交和安全消息人士：刚果的反政府武装“M23运动”已控制戈马机场。",
-            "date_modified": "2025-01-28T14:09:11.000Z"
-        },
-        {
-            "id": 4002399,
-            "content_html": "",
-            "title": "据报道， 韩国釜山金海机场飞机失火。目前，169名乘客从一架尾部着火的飞机上紧急撤离。",
-            "date_modified": "2025-01-28T14:09:04.000Z"
-        },
-        {
-            "id": 4002394,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9766599.d.html",
-            "title": "【假期第一天全国道路交通平稳有序，公安部最新安全提示】 1月28日除夕，节前返乡进入尾声，主干公路交通流量持续下降，从高速公路和普通公路重点点位监测流量情况看，1月28日0时至18时，环比分别下降20.9%、26.7%。除个别路段车多缓行及降雪结冰路段通行受到影响外，全国道路交通平稳有序。截至20时，未接报严重交通拥堵和较大以上道路交通事故。各地公安交管部门结合交通流量变化情况，加强分析研判，针对性部署勤务，广大交警辅警坚守春节交通安保一线，强化路面巡逻管控，维护良好交通秩序，保障群众平安顺畅出行。大年初一开始，群众交通出行逐步增多。公安部交通管理局提醒广大驾驶人，春节欢庆团聚、驾车出行，要时刻不忘安全。亲朋好友宴请聚会，牢记开车不喝酒、喝酒不开车。农村地区群众出行，不要挤乘农用三轮车、拖拉机和超员面包车。驾车行经没有信号灯的路口要注意观察、文明礼让，行经弯坡路段要减速慢行、切勿超车。驾车前往寺庙、景点，要提前了解停车位等信息，行经山区道路、临水临崖路段要降低车速、按序通行。",
-            "date_modified": "2025-01-28T14:05:19.000Z"
-        },
-        {
-            "id": 4002387,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyir7250067.d.html",
-            "title": "【OpenAI推出ChatGPT GOV，面向美国政府机构】 OpenAI表示正在评估将CHATGPT GOV扩展至AZURE的机密区域。CHATGPT GOV是针对美国政府机构量身定制的CHATGPT版本，旨在为其提供更多方式访问OPENAI的前沿模型。",
-            "date_modified": "2025-01-28T14:02:37.000Z"
-        },
-        {
-            "id": 4002385,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyiu6540391.d.html",
-            "title": "星巴克在公司重组中更换两名高管。",
-            "date_modified": "2025-01-28T14:01:30.000Z"
-        },
-        {
-            "id": 4002383,
-            "content_html": "",
-            "title": "美国11月S&P/CS20座大城市未季调房价指数年率 4.3%，预期4.3%，前值4.22%。\n美国11月S&P/CS20座大城市季调后房价指数月率 0.4%，预期0.3%，前值由0.32%修正为0.4%。\n美国11月S&P/CS20座大城市未季调房价指数月率 -0.1%，前值-0.2%。\n  美国11月S&P/CS20座大城市未季调房价指数 332.59，前值332.94。  \n美国11月S&P/CS10座大城市房价指数年率 4.94%，前值4.84%。\n美国11月S&P/CS10座大城市未季调房价指数月率 -0.02%，前值-0.13%。",
-            "date_modified": "2025-01-28T14:00:25.000Z"
-        },
-        {
-            "id": 4002382,
-            "content_html": "",
-            "title": "美国11月FHFA房价指数月率 0.3%，预期0.3%，前值由0.40%修正为0.5%。\n美国11月FHFA房价指数 433.4，前值432.3。\n美国11月FHFA房价指数年率 4.2%，前值4.5%。",
-            "date_modified": "2025-01-28T14:00:05.000Z"
-        },
-        {
-            "id": 4002381,
-            "content_html": "",
-            "title": "【约旦启动“空中桥梁”行动 向加沙地带运送人道援助物资】当地时间1月28日，约旦宣布，自即日起启动“空中桥梁”行动，通过约旦武装部队的军用直升机，将紧急救援物资、食品和医疗用品运送至加沙地带。约旦方面透露，“空中桥梁”行动将持续8天，平均每天16架飞机执行任务。预计此次行动将有多个友好国家参与。此外，约旦还将与世界粮食计划署（WFP）协调，世界粮食计划署的工作人员将在加沙地带负责将援助物资分发给当地民众。（央视新闻）",
-            "date_modified": "2025-01-28T13:59:00.000Z"
-        },
-        {
-            "id": 4002380,
-            "content_html": "",
-            "title": "美国至1月25日当周红皮书商业零售销售年率 4.9%，前值4.5%。",
-            "date_modified": "2025-01-28T13:57:49.000Z"
-        },
-        {
-            "id": 4002378,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-28/detail-inehpyis9764930.d.html",
-            "title": "市场消息：韩国金海机场发生火灾的飞机没有人员伤亡。",
-            "date_modified": "2025-01-28T13:54:19.000Z"
         }
     ]
 }
