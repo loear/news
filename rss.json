@@ -6,6 +6,61 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4003656,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuei5732291.d.html",
+            "title": "市场资讯 ：美国总统特朗普与日本首相石破茂的会议将于2月7日最终敲定。",
+            "date_modified": "2025-01-29T20:15:55.000Z"
+        },
+        {
+            "id": 4003650,
+            "content_html": "",
+            "title": "微软：DeepSeek R1现已在AZURE AI FOUNDRY平台和GitHub上线。",
+            "date_modified": "2025-01-29T20:11:31.000Z"
+        },
+        {
+            "id": 4003630,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8355631.d.html",
+            "title": "鲍威尔：我们的政策对经济产生了有意义的影响，控制了通货膨胀。",
+            "date_modified": "2025-01-29T19:58:12.000Z"
+        },
+        {
+            "id": 4003618,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuen5128318.d.html",
+            "title": "【美以防长通电话 讨论加强两国安全合作】 以色列国防部办公室1月29日晚间发布一份声明称，该国国防部长卡茨与美国新任国防部长皮特·海格塞斯进行了首次通话。在通话中，二人讨论了加强两国安全合作和促进共同利益的问题，决定保持联系并尽快会面。（央视新闻）",
+            "date_modified": "2025-01-29T19:47:04.000Z"
+        },
+        {
+            "id": 4003613,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8353196.d.html",
+            "title": "【加拿大外长将访美 讨论关税议题】 加拿大全球事务部当地时间1月29日发布公告称，加拿大外交部长乔利将于1月29日至31日前往美国首都华盛顿进行访问。其间，乔利将与美国国务卿卢比奥举行首次正式会晤。她还将会见其他美国政府官员，强调美国对加拿大商品征收高额关税将对两国经济、工人和企业产生的负面影响。乔利还将在访问中强调加美关系的重要性以及加拿大为确保边境安全而采取的努力。（央视新闻）",
+            "date_modified": "2025-01-29T19:43:28.000Z"
+        },
+        {
+            "id": 4003609,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8353046.d.html",
+            "title": "【布基纳法索、马里、尼日尔正式退出西共体】非国家经济共同体（简称西共体）1月29日发表声明说，布基纳法索、马里和尼日尔当天正式退出该组织。（央视新闻）",
+            "date_modified": "2025-01-29T19:42:31.000Z"
+        },
+        {
+            "id": 4003595,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsuei5728677.d.html",
+            "title": "美国总统特朗普：暂停向外国组织支付17亿美元。",
+            "date_modified": "2025-01-29T19:22:50.000Z"
+        },
+        {
+            "id": 4003593,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8479923.d.html",
+            "title": "亚马逊(AMZN.O)在最新一轮裁员中削减了数十个企业职位。",
+            "date_modified": "2025-01-29T19:19:13.000Z"
+        },
+        {
             "id": 4003591,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspws3532382.d.html",
@@ -140,275 +195,6 @@
             "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspws3527902.d.html",
             "title": "市场资讯：卡塔尔将在未来一段时间加大对埃及的投资。",
             "date_modified": "2025-01-29T18:11:19.000Z"
-        },
-        {
-            "id": 4003541,
-            "content_html": "",
-            "title": "美国总统特朗普的商务部长候选人卢特尼克：美国应取消对租赁进口豪华车辆的7,500美元税收抵免。",
-            "date_modified": "2025-01-29T18:10:42.000Z"
-        },
-        {
-            "id": 4003540,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8468071.d.html",
-            "title": "美国农业部监察长因拒绝服从特朗普解雇命令而被护送离职。",
-            "date_modified": "2025-01-29T18:09:11.000Z"
-        },
-        {
-            "id": 4003538,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5242484.d.html",
-            "title": "埃及总理：埃及正在准备新的社会福利方案。",
-            "date_modified": "2025-01-29T18:08:24.000Z"
-        },
-        {
-            "id": 4003537,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5242426.d.html",
-            "title": "埃及总理宣布在苏伊士海湾发现新石油资源。",
-            "date_modified": "2025-01-29T18:08:04.000Z"
-        },
-        {
-            "id": 4003534,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspws3527092.d.html",
-            "title": "哥伦比亚总统佩特罗：哥伦比亚必须向不同国家寻求融资。",
-            "date_modified": "2025-01-29T18:02:28.000Z"
-        },
-        {
-            "id": 4003533,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8466609.d.html",
-            "title": "哥伦比亚总统佩特罗：哥伦比亚必须令出口多元化，出口不应依赖于任何国家。",
-            "date_modified": "2025-01-29T18:00:59.000Z"
-        },
-        {
-            "id": 4003532,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5241099.d.html",
-            "title": "美国民主党参议员沃诺克：美国疾病控制与预防中心的员工被提议“买断”。",
-            "date_modified": "2025-01-29T18:00:36.000Z"
-        },
-        {
-            "id": 4003529,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8465902.d.html",
-            "title": "美国卫生部长提名人肯尼迪：此前没有将疾控中心与纳粹死亡集中营进行比较。不会做任何会伤害疾病预防控制中心的事情。",
-            "date_modified": "2025-01-29T17:56:22.000Z"
-        },
-        {
-            "id": 4003528,
-            "content_html": "",
-            "title": "谷歌公司在美国得州广告市场反垄断官司中失利，没能说服一个地区法庭驳回得州牵头的原告对其涉嫌非法垄断网络展示广告市场的指控。",
-            "date_modified": "2025-01-29T17:55:51.000Z"
-        },
-        {
-            "id": 4003527,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8465608.d.html",
-            "title": "美国卫生部长提名人肯尼迪：同意疾控中心的工作对美国和世界健康至关重要。",
-            "date_modified": "2025-01-29T17:54:24.000Z"
-        },
-        {
-            "id": 4003526,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8465293.d.html",
-            "title": "【LME金属期货收盘多数上涨】 LME期铜收涨81美元，报9068美元/吨。LME期铝收涨47美元，报2620美元/吨。LME期锌收涨8美元，报2783美元/吨。LME期铅收涨24美元，报1960美元/吨。LME期镍收涨64美元，报15499美元/吨。LME期锡收涨443美元，报30106美元/吨。LME期钴收平，报21550美元/吨。",
-            "date_modified": "2025-01-29T17:52:03.000Z"
-        },
-        {
-            "id": 4003525,
-            "content_html": "",
-            "title": "德国汉莎航空股份公司：已签署协议，将获得拉脱维亚国家航空公司波罗的海航空公司10%的可转换股份。",
-            "date_modified": "2025-01-29T17:51:26.000Z"
-        },
-        {
-            "id": 4003524,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwm5852974.d.html",
-            "title": "【德国联邦议院通过收紧移民政策的提案】当地时间1月29日，德国联邦议院投票通过了由在野的联盟党提出的关于大幅收紧移民庇护政策的五点动议，其中包括要求永久边境管制、拒绝寻求庇护的人以及拘留依法有义务离开该国的外国人。自民党和德国选择党已表示支持该动议。",
-            "date_modified": "2025-01-29T17:49:59.000Z"
-        },
-        {
-            "id": 4003523,
-            "content_html": "",
-            "title": "市场资讯：美国宇航局（NASA）与太空探索技术公司（SpaceX）将在可行的情况下尽快接回宇航员。",
-            "date_modified": "2025-01-29T17:45:49.000Z"
-        },
-        {
-            "id": 4003522,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5238825.d.html",
-            "title": "美国政府工会发起诉讼，以阻止美国总统特朗普重新分类及解雇数千名联邦员工。",
-            "date_modified": "2025-01-29T17:45:41.000Z"
-        },
-        {
-            "id": 4003519,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8463891.d.html",
-            "title": "三星将于2025年第一季度开始在埃及生产手机。",
-            "date_modified": "2025-01-29T17:42:46.000Z"
-        },
-        {
-            "id": 4003518,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5237994.d.html",
-            "title": "【乌称袭击俄导弹仓库和输油管道油泵站】乌克兰国家通讯社援引消息人士的话称，乌克兰国家安全局和乌特种部队采取了联合行动，用无人机袭击了俄罗斯国防部位于特维尔州的导弹仓库，此外还袭击了俄罗斯波罗的海石油管道运输系统重要组成部分的一油泵站。由于油泵站遭到无人机袭击，过滤泵站、添加剂储罐遭到损坏，油品溢出并引发火灾。俄方对此暂无回应。",
-            "date_modified": "2025-01-29T17:40:21.000Z"
-        },
-        {
-            "id": 4003517,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwm5852011.d.html",
-            "title": "美国卫生部长提名人肯尼迪：致力于实施FDA临床试验多样性指南。",
-            "date_modified": "2025-01-29T17:38:02.000Z"
-        },
-        {
-            "id": 4003516,
-            "content_html": "",
-            "title": "美国卫生部长提名人肯尼迪：如果提名得到确认，他将聘请一位美国原住民进入他的中央办公室。",
-            "date_modified": "2025-01-29T17:37:31.000Z"
-        },
-        {
-            "id": 4003515,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5237232.d.html",
-            "title": "受特朗普关税威胁，加拿大石油贴水触及6个月低点。",
-            "date_modified": "2025-01-29T17:36:07.000Z"
-        },
-        {
-            "id": 4003514,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8462018.d.html",
-            "title": "【埃及总统表示不能容忍或允许驱逐巴勒斯坦人】埃及总统塞西29日表示，埃及不能容忍或允许驱逐巴勒斯坦人。塞西表示，埃及在巴勒斯坦问题上的历史立场决不会妥协。埃及将与美国总统特朗普合作，在“两国方案”基础上实现和平。他说，持续15个多月的新一轮巴以冲突是巴勒斯坦问题一直未能解决的结果。巴勒斯坦人民在过去70年里遭受了“历史不公”，解决方案不是驱逐他们，而是实现“两国方案”。（新华社）",
-            "date_modified": "2025-01-29T17:32:16.000Z"
-        },
-        {
-            "id": 4003513,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8461668.d.html",
-            "title": "美国卫生部长提名人肯尼迪：会保护干细胞研究。",
-            "date_modified": "2025-01-29T17:30:20.000Z"
-        },
-        {
-            "id": 4003512,
-            "content_html": "",
-            "title": "美国国家法律与政策中心：敦促苹果股东投票支持要求董事会提交“人工智能数据采购问责报告”的提案。",
-            "date_modified": "2025-01-29T17:29:30.000Z"
-        },
-        {
-            "id": 4003511,
-            "content_html": "",
-            "title": "加拿大能源和自然资源部长威尔金森：对关税的回应将是深思熟虑的，目标是那些对美国人造成的伤害大于对加拿大人造成的伤害的产品。",
-            "date_modified": "2025-01-29T17:29:06.000Z"
-        },
-        {
-            "id": 4003509,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5235743.d.html",
-            "title": "【马斯克宣称：美国人支持缩减美国政府规模】 美国新政府效率部（DOGE）第一任部长马斯克在评论路透社和益普索咨询公司进行的民调结果时表示，美国人支持缩减美国政府的官员规模。据调查数据，61%的美国人支持缩减美国政府规模，35%的受访者反对。民调指出示，与美国总统特朗普政府颁布的其他一些命令和提案相比，这一措施在受访者中支持率最高。马斯克在社交平台X发布调查结果图并写道：“很有趣的调查。缩减政府规模是现在最受欢迎的问题！”",
-            "date_modified": "2025-01-29T17:27:51.000Z"
-        },
-        {
-            "id": 4003508,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspws3524478.d.html",
-            "title": "【美国商务部长提名人Lutnick把芯片法称作极好的开端 但需仔细研究】美国总统唐纳德·特朗普提名的商务部长表示，520亿美元半导体补贴计划是个极好的开端，但是官员们需要时间来评估这些投资。“我认为它们是极好的开端，”特朗普的商务部长提名人Howard Lutnick周三在确认听证会上向参议员表示，“作为一个体系，我认为我们需要把它做好。我认为我们需要对它们进行评估，把它做好。但正如国会所设定的那样，对于我们将半导体制造业带回美国的能力来说，这是一个极好的开端。”",
-            "date_modified": "2025-01-29T17:27:21.000Z"
-        },
-        {
-            "id": 4003507,
-            "content_html": "",
-            "title": "加拿大能源和自然资源部长威尔金森：加拿大对关税的回应将是区域公平和公正的，不会使得阿尔伯塔省受到伤害或不公平的针对。",
-            "date_modified": "2025-01-29T17:26:42.000Z"
-        },
-        {
-            "id": 4003506,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwm5850844.d.html",
-            "title": "【欧股“十一罗汉”｜阿斯麦收涨超5.5%，LVMH集团跌约5%】 周三（1月29日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收涨5.55%，报682.50欧元。诺和诺德哥本哈根股价（NOVOB.DC）收跌0.51%，报607.70（丹麦克朗）。德国思爱普Sap和诺华制药至多涨1.75%，葛兰素史克、阿斯利康、罗氏制药、赛诺菲、雀巢涨0.94%-0.13%，欧莱雅则收跌3.06%，LVMH集团跌4.98%。",
-            "date_modified": "2025-01-29T17:24:09.000Z"
-        },
-        {
-            "id": 4003505,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5234722.d.html",
-            "title": "美国国务院将刚果（金）的旅行警示提升至4级，即“请勿前去旅行”。",
-            "date_modified": "2025-01-29T17:21:25.000Z"
-        },
-        {
-            "id": 4003504,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8459986.d.html",
-            "title": "意大利企业Almawave推出“Velvet”开源多语言大型语言模型。",
-            "date_modified": "2025-01-29T17:20:16.000Z"
-        },
-        {
-            "id": 4003503,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5233471.d.html",
-            "title": "美国总统特朗普的卫生部长提名人小肯尼迪：赞同美国应当消除其药品价格与其他国家价格之间的差异。",
-            "date_modified": "2025-01-29T17:14:06.000Z"
-        },
-        {
-            "id": 4003499,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqs5362575.d.html",
-            "title": "谷歌旗下自动驾驶公司Waymo将于2025年在10个新城市进行测试，首先是拉斯维加斯和圣地亚哥。",
-            "date_modified": "2025-01-29T17:04:55.000Z"
-        },
-        {
-            "id": 4003497,
-            "content_html": "",
-            "title": "市场资讯：美国共和党议员克鲁兹领导共和党撤销对美国消费者金融保护局（CFPB）的拨款。",
-            "date_modified": "2025-01-29T17:03:51.000Z"
-        },
-        {
-            "id": 4003496,
-            "content_html": "",
-            "title": "美国卫生部长提名人肯尼迪：承诺在任职期间不会接受针对制药商的诉讼赔偿，但拒绝在任职后四年内做出承诺。",
-            "date_modified": "2025-01-29T17:02:11.000Z"
-        },
-        {
-            "id": 4003495,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqs5361378.d.html",
-            "title": "美国总统特朗普的商务部长候选人卢特尼克：加拿大、墨西哥汽车制造业应回流美国。如果加拿大和墨西哥落实相关措施，他们将能够避免部分关税。",
-            "date_modified": "2025-01-29T16:58:01.000Z"
-        },
-        {
-            "id": 4003494,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqq8586449.d.html",
-            "title": "空客公司获得价值8230万美元的新合同。",
-            "date_modified": "2025-01-29T16:55:52.000Z"
-        },
-        {
-            "id": 4003493,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqu3652767.d.html",
-            "title": "美国商务提名人卢特尼克：对加拿大征收关税是为了解决芬太尼进入美国的问题。",
-            "date_modified": "2025-01-29T16:54:58.000Z"
-        },
-        {
-            "id": 4003491,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqp5978879.d.html",
-            "title": "【苹果本月第五次被下调股票评级，分析师看衰iPhone前景】Oppenheimer将苹果公司的评级从跑赢大盘下调至与大盘一致，反映出投资者在该公司业绩发布前心态谨慎。这至少是苹果本月以来第五次评级遭降， 此前杰富瑞、MoffettNathanson、Loop Capital和星展银行均下调了对苹果的展望。此次降级进一步证明苹果是除特斯拉外最不受欢迎的大型科技股。与其他人一样，Oppenheimer分析师Martin Yang在下调评级时提到了对iPhone销售的担忧，他认为iPhone增长面临双重挑战，包括中国市场竞争加剧、Apple Intelligence和生成式人工智能应用程序不足以吸引消费者加快更新设备。",
-            "date_modified": "2025-01-29T16:50:01.000Z"
-        },
-        {
-            "id": 4003490,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-01-30/detail-inehsiqs5359754.d.html",
-            "title": "【以色列总理会见美国中东问题特使】以色列总理内塔尼亚胡在耶路撒冷会见到访的美国总统特朗普的中东问题特使史蒂夫·威特科夫。目前以色列总理办公室没有提供此次会晤的其他细节。",
-            "date_modified": "2025-01-29T16:49:29.000Z"
-        },
-        {
-            "id": 4003488,
-            "content_html": "",
-            "title": "市场消息：德国右翼政党选择党（AfD）支持基督教民主联盟-基督教社会联盟（CDU-CSU）提出的边境控制提案。",
-            "date_modified": "2025-01-29T16:47:02.000Z"
         }
     ]
 }
