@@ -4,13 +4,77 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 29 Jan 2025 21:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 22:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【微软：预计资本开支将在未来数年扩大】微软表示，预计资本开支将在未来数年扩大。]]></title>
+            <title><![CDATA[Meta CFO：将在未来几周内推出一款新的编辑应用，该应用将提供一系列用于短视频的创意工具。Meta人工智能月活用户已超过7亿。]]></title>
+            <guid>4003767</guid>
+            <pubDate>Wed, 29 Jan 2025 22:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马克·扎克伯格：Threads月活用户超过3.2亿】Meta PlatformsCEO马克·扎克伯格表示，Threads月活用户超过3.2亿，WhatsApp在美国的月活用户超过1亿，Facebook 每月的活跃用户超过 30 亿。并表示，公司新增员工将流向那些人工智能（AI）项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsynh8240461.d.html</link>
+            <guid>4003765</guid>
+            <pubDate>Wed, 29 Jan 2025 22:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软盘后下挫 云计算业务季度增长放缓且逊于分析师预期】微软表示，尽管公司继续增加人工智能产品的基础设施支出，但云计算业务的增长在2024年最后三个月有所放缓。当季Azure云计算业务收入增长31%，前一季度增幅为34%。微软称，分析师此前预测为增长32%。由于与ChatGPT母公司OpenAI的密切合作，微软被认为是人工智能产品商业化的领导者。去年，微软推出了一系列Copilot品牌的人工智能助手，但为了让这些产品真正带来营收，微软花的时间长于一些投资者期望的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsynf5607642.d.html</link>
+            <guid>4003759</guid>
+            <pubDate>Wed, 29 Jan 2025 22:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta对第一财季的销售额展望低于分析师预期】 Meta Platforms Inc.预计，当前财季的销售将逊于预期，这可能会让人怀疑其数字广告业务的增长速度是否足以支持计划中对人工智能和其他未来产品的重大投资。该公司周三表示，预计第一财季销售额在395亿美元至418亿美元之间。数据显示该预测区间的中点低于分析师平均预期的417亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsynh8239787.d.html</link>
+            <guid>4003758</guid>
+            <pubDate>Wed, 29 Jan 2025 22:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国司法部考虑撤销对纽约市长的公诉】援引知情人士报道，美国司法部官员已与曼哈顿检察官讨论撤销对纽约市市长Eric Adams的腐败指控。高级官员与由Alex Spiro领衔的Adams辩护团队进行了交谈。Adams的发言人不予置评，并将问题转交给Spiro。曼哈顿美国检察官办公室的发言人不予置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsynh8238768.d.html</link>
+            <guid>4003734</guid>
+            <pubDate>Wed, 29 Jan 2025 21:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行宣布每股派发季度股息0.26美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8368922.d.html</link>
+            <guid>4003727</guid>
+            <pubDate>Wed, 29 Jan 2025 21:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西至1月29日Selic利率为12.25%，预期13.25%，前值12.25%。]]></title>
+            <guid>4003726</guid>
+            <pubDate>Wed, 29 Jan 2025 21:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国白宫：未撤销联邦资金冻结令 相关行政令仍然有效】美国白宫新闻秘书莱维特当地时间1月29日通过社交平台表示，白宫管理和预算办公室当日撤回了一份“暂停联邦政府拨款与贷款发放”的备忘录，但并不是撤销联邦资金冻结，只是为了结束混乱，特朗普总统关于联邦资金的行政命令仍然完全有效，并将严格执行。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuen5143398.d.html</link>
+            <guid>4003725</guid>
+            <pubDate>Wed, 29 Jan 2025 21:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车：将增加3亿美金投资用于对位于俄亥俄州的三家汽车工厂进行设备改造。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuei5736960.d.html</link>
+            <guid>4003722</guid>
+            <pubDate>Wed, 29 Jan 2025 21:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李维斯四季度净营收18.4亿美元】李维斯四季度净营收18.4亿美元，分析师预期17.3亿美元。预计2025财年收入将下降1%至2%，低于分析师的增长预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8368648.d.html</link>
+            <guid>4003718</guid>
+            <pubDate>Wed, 29 Jan 2025 21:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东河源市源城区发生2.8级地震】中国地震台网正式测定：01月30日05时25分在广东河源市源城区（北纬23.73度，东经114.62度）发生2.8级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuen5143187.d.html</link>
+            <guid>4003717</guid>
+            <pubDate>Wed, 29 Jan 2025 21:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软：预计资本开支将在未来数年扩大】微软表示，预计资本开支将在未来数年扩大。企业预定超预期。微软在云产能方面仍然受抑。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuek8367965.d.html</link>
             <guid>4003708</guid>
             <pubDate>Wed, 29 Jan 2025 21:18:29 GMT</pubDate>
@@ -20,11 +84,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehsuen5141120.d.html</link>
             <guid>4003697</guid>
             <pubDate>Wed, 29 Jan 2025 21:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙中国指数初步收跌1.1%。热门中概股B站跌超3%，网易、蔚来、小鹏、百度、京东至少跌约2%，理想、新东方、百胜中国、拼多多至多跌约0.7%。中概ETF YINN跌1.5%，KWEB跌1.1%，CQQQ跌0.3%。]]></title>
-            <guid>4003687</guid>
-            <pubDate>Wed, 29 Jan 2025 21:00:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普的边境事务助手表示：“我们将对关塔那摩湾现有的设施进行扩建。”]]></title>
@@ -96,52 +155,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspws3532382.d.html</link>
             <guid>4003591</guid>
             <pubDate>Wed, 29 Jan 2025 19:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书：不是撤销联邦资金冻结，这只是撤销美国行政管理和预算局（OMB）备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8474395.d.html</link>
-            <guid>4003571</guid>
-            <pubDate>Wed, 29 Jan 2025 18:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚国家通讯社：叙利亚武装派系将融入国家机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5248047.d.html</link>
-            <guid>4003568</guid>
-            <pubDate>Wed, 29 Jan 2025 18:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：调查用户可能无法访问管理中心或某些Microsoft 365服务的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8472985.d.html</link>
-            <guid>4003566</guid>
-            <pubDate>Wed, 29 Jan 2025 18:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚国家通讯社：叙利亚议会获委任组建过渡时期临时立法委员会，直至新宪法出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwn8472916.d.html</link>
-            <guid>4003565</guid>
-            <pubDate>Wed, 29 Jan 2025 18:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普的商务部长候选人卢特尼克：在阅读芯片补贴合同之前，不会承诺履行这些合同。]]></title>
-            <guid>4003564</guid>
-            <pubDate>Wed, 29 Jan 2025 18:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国一工会提起诉讼 阻止特朗普解雇联邦工作人员】当地时间1月29日，代表美国政府雇员的最大工会，美国政府雇员联合会（American Federation of Government Employees）当日在华盛顿特区联邦法院提起诉讼，以阻止美国总统特朗普重新分类多达5万名联邦工作人员并使其更容易被解雇的计划。诉讼称，特朗普无权在没有采用正式规则的情况下剥夺联邦雇员免遭随意解雇的保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5247174.d.html</link>
-            <guid>4003563</guid>
-            <pubDate>Wed, 29 Jan 2025 18:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚国家通讯社：所有军事团体、革命团体、政治团体和民间团体均将解散，并纳入国家机构。]]></title>
-            <guid>4003562</guid>
-            <pubDate>Wed, 29 Jan 2025 18:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据叙利亚国家通讯社：叙利亚事实上的领导人沙拉阿被任命为过渡时期国家总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehspwq5247024.d.html</link>
-            <guid>4003561</guid>
-            <pubDate>Wed, 29 Jan 2025 18:34:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
