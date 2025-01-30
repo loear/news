@@ -4,11 +4,273 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 30 Jan 2025 11:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 12:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：南非计划为申办F1赛事筹集5,000万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4713377.d.html</link>
+            <guid>4005476</guid>
+            <pubDate>Thu, 30 Jan 2025 12:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国华盛顿特区官员30日说，发生在29日的两机相撞事故中恐无人生还。 （新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2606826.d.html</link>
+            <guid>4005474</guid>
+            <pubDate>Thu, 30 Jan 2025 12:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱：将MSCI明晟评级维持在增持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4712669.d.html</link>
+            <guid>4005473</guid>
+            <pubDate>Thu, 30 Jan 2025 12:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈萨克斯坦农业部：计划2025年出口650万吨粮食 。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2041792.d.html</link>
+            <guid>4005471</guid>
+            <pubDate>Thu, 30 Jan 2025 12:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国华盛顿特区市长：飞机坠毁导致人员伤亡。昨晚是个晴朗的夜晚，直升机处于标准飞行模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhhc1486841.d.html</link>
+            <guid>4005470</guid>
+            <pubDate>Thu, 30 Jan 2025 12:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国在乍得的军事基地全部移交乍得军方】据乍得军方30日发布的通告，法国在乍得的3个军事基地已全部移交给乍得军方。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2041032.d.html</link>
+            <guid>4005468</guid>
+            <pubDate>Thu, 30 Jan 2025 12:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：土耳其正在制定通往阿勒颇的天然气管道计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2040924.d.html</link>
+            <guid>4005467</guid>
+            <pubDate>Thu, 30 Jan 2025 12:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[H&M CFO：已经为美国可能征收的进口关税制定了方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4711266.d.html</link>
+            <guid>4005466</guid>
+            <pubDate>Thu, 30 Jan 2025 12:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯释放的7名被扣押人员已进入以色列领土】当地时间1月30日，以色列国防军和以色列国家安全总局（辛贝特）发布联合公告称，7名获释人员已随以色列国防军和辛贝特部队越过边界，进入了以色列领土。目前，他们正在前往以色列南部的一个接待点。2名以色列人阿尔比勒·耶胡达（Arbel Yehoud）和加迪·摩西·摩西（Gadi Moshe Mozes）将在那里与家人团聚，5名泰国人将在那里与泰国政府官员会面。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhhc1485515.d.html</link>
+            <guid>4005463</guid>
+            <pubDate>Thu, 30 Jan 2025 12:27:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其官员：土耳其天然气价格一季度可能不会改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhhc1485346.d.html</link>
+            <guid>4005461</guid>
+            <pubDate>Thu, 30 Jan 2025 12:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多个上海手机门店受益国补：有单店销量增超七成】 春节假期期间，“国补”政策吸引更多消费者前往手机零售店购机。1月29日，农历大年初一，位于上海南京东路上的华为旗舰店内人头攒动，其中有相当一部分用户是利用“国补”政策前来换机。离华为这家直营店不远处还有一家规模较小的华为零售店，当天记者目击同时至少五位客户正在通过“国补”来办理购机。同一天，位于上海环贸广场内的小米零售店，一家祖孙三代人来小米帮老人购置一台符合“国补”小米手机。春节前，OPPO位于上海杨浦区一家零售店变得异常忙碌，进店来咨询购机的用户明显增多，且大部分是冲着“国补”政策来换机的。这家店店长告诉记者，平时一天能卖10台机器左右，现在一天要卖17、18台，这多出来的部分大多数都符合“国补”的机器，销量增超七成。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4710708.d.html</link>
+            <guid>4005460</guid>
+            <pubDate>Thu, 30 Jan 2025 12:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist Securities：将特斯拉目标价从351美元上调至373美元；将Meta目标价从700美元上调至770美元。]]></title>
+            <guid>4005459</guid>
+            <pubDate>Thu, 30 Jan 2025 12:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南省气象台发布道路结冰黄色预警】记者从河南省气象台获悉，30日17时河南省气象台发布道路结冰黄色预警。河南南阳东南部、驻马店西南部、信阳西部局部地区将出现对交通有较严重影响或严重影响的道路结冰。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4709353.d.html</link>
+            <guid>4005458</guid>
+            <pubDate>Thu, 30 Jan 2025 12:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：将纳斯达克目标价从98美元上调至100美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2602915.d.html</link>
+            <guid>4005454</guid>
+            <pubDate>Thu, 30 Jan 2025 12:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：将Meta目标价从705美元上调至800美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2602704.d.html</link>
+            <guid>4005453</guid>
+            <pubDate>Thu, 30 Jan 2025 12:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大投行BMO：将微软目标价从495美元降至490美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2602543.d.html</link>
+            <guid>4005450</guid>
+            <pubDate>Thu, 30 Jan 2025 12:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄军在库尔斯克州边境地区击毙乌军240多名军人】俄罗斯国防部发布消息表示，俄军一天内在库尔斯克州边境地区击毙240多名乌克兰军人，击毁2辆步兵战车、1辆装甲运输车、4辆装甲战车、4门火炮、9门迫击炮、2座电子战站，以及3个无人机指挥所和2座弹药库。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4707212.d.html</link>
+            <guid>4005449</guid>
+            <pubDate>Thu, 30 Jan 2025 12:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：康卡斯特批准了150亿美元的新股票回购计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4706401.d.html</link>
+            <guid>4005447</guid>
+            <pubDate>Thu, 30 Jan 2025 12:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康卡斯特第四季度营收319.2亿美元，市场预估316.2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4705958.d.html</link>
+            <guid>4005444</guid>
+            <pubDate>Thu, 30 Jan 2025 12:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥第四季度GDP同比增长0.57%，预期1.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2036969.d.html</link>
+            <guid>4005443</guid>
+            <pubDate>Thu, 30 Jan 2025 12:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱银行：将Meta目标价从630.00美元上调至705.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2601427.d.html</link>
+            <guid>4005442</guid>
+            <pubDate>Thu, 30 Jan 2025 11:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑石：第四季度可分配每股收益1.69美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfz4705557.d.html</link>
+            <guid>4005440</guid>
+            <pubDate>Thu, 30 Jan 2025 11:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国小学和初中生阅读成绩继续下降】2024年对美国四年级和八年级学生的一项学业测评显示，与两年前相比，这两个年级的学生阅读成绩进一步下降。四年级学生的数学成绩有所提高，八年级学生数学成绩持平。另外，成绩好的学生与成绩差的学生之间差距拉大。（新华社）]]></title>
+            <guid>4005439</guid>
+            <pubDate>Thu, 30 Jan 2025 11:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【DeepSeek面临安全考验，奇安信：僵尸网络进场，防范难度加大】 随着DeepSeek（深度求索）引发海内外空前的高度关注，春节期间，多位用户反馈，难以正常登录和使用DeepSeek，时常宕机。从网络安全公司奇安信获悉，针对DeepSeek线上服务的攻击烈度突然升级，其攻击指令较1月28日暴增上百倍。奇安信Xlab实验室观察到至少有2个僵尸网络参与攻击，共发起了两波次攻击。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2600865.d.html</link>
+            <guid>4005438</guid>
+            <pubDate>Thu, 30 Jan 2025 11:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟前线国家预计有1,000亿欧元的紧急国防需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4370615.d.html</link>
+            <guid>4005436</guid>
+            <pubDate>Thu, 30 Jan 2025 11:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌干达卫生部：确诊埃博拉病例患者于1月29日死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7596029.d.html</link>
+            <guid>4005435</guid>
+            <pubDate>Thu, 30 Jan 2025 11:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[STIFEL：将沃尔沃目标价从318瑞典克朗上调至355瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4369259.d.html</link>
+            <guid>4005431</guid>
+            <pubDate>Thu, 30 Jan 2025 11:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑石势将收购曼哈顿中城一栋办公楼 押注纽约写字楼市场已经见底】 黑石集团即将达成收购曼哈顿中城一栋大楼的协议，这将标志着这家全球最大的房地产投资机构重回纽约的写字楼交易市场。据知情人士透露，黑石集团正在商讨收购Avenue of the Americas 1345号，这是一栋50层、面积190万平方英尺的摩天楼。因协议尚未达成而要求匿名的知情人士称，黑石押注低迷的纽约写字楼市场已经度过了最糟糕的阶段，预计顶级写字楼的租金将飙升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4368993.d.html</link>
+            <guid>4005430</guid>
+            <pubDate>Thu, 30 Jan 2025 11:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑州将组团出访东南亚 金星啤酒等“借势出海”】 1月30日，记者从郑州农业发展集团获悉，今年3月初，郑州市政府将组织龙头企业代表出访柬埔寨、泰国等地，金星啤酒集团有限公司（简称“金星啤酒”）受邀参加。据悉，金星啤酒正谋划在两个国家合资建立金星茶啤酒研发中心和生产基地。“目前，金星啤酒全国拥有16个分厂，成为中国中式精酿啤酒的‘代言人’。此次借助郑州市政府主导的活动，我们能够借势出海，进一步拓展东南亚国家市场，实现河南品牌走向世界的战略目标。”金星啤酒集团有限公司董事长张铁山说。（大河财立方）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7594249.d.html</link>
+            <guid>4005428</guid>
+            <pubDate>Thu, 30 Jan 2025 11:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“深感震惊”！英国首相斯塔默：就两机相撞坠河事故向美方表示慰问】 美国一架客机当地时间1月29日在华盛顿与一架“黑鹰”直升机相撞后坠河。据英国天空新闻网最新报道，英国首相斯塔默当地时间30日在社交平台X上就该事故发文。斯塔默表示，他对这一悲剧性事件“深感震惊”。“我的心与机上所有人员以及焦急等待他们消息的家人们同在。”斯塔默在帖文中称，他向在艰难条件下工作的紧急服务人员致敬，并代表英方向美方表示慰问。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4368677.d.html</link>
+            <guid>4005427</guid>
+            <pubDate>Thu, 30 Jan 2025 11:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡特彼勒公布第四季度业绩后股价跌3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2599195.d.html</link>
+            <guid>4005426</guid>
+            <pubDate>Thu, 30 Jan 2025 11:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府已向联合国气候机构提交了削减碳排放计划的详细信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4367678.d.html</link>
+            <guid>4005423</guid>
+            <pubDate>Thu, 30 Jan 2025 11:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统新闻秘书证实：2名俄裔花滑运动员搭乘美坠河客机】针对此前有媒体报道称，有两名俄罗斯花滑世界冠军在美坠河客机的乘客名单中，俄总统新闻秘书佩斯科夫1月30日回应表示，确认机上有俄罗斯裔花样滑冰运动员。佩斯科夫说：“我们看到，这些令人悲痛的消息得到了证实。机上还有我们的其他同胞。这是来自华盛顿的坏消息。我们深感遗憾，并向失去亲人的家属和朋友表示哀悼。目前尚无在高层就此进行接触的计划。”（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4367459.d.html</link>
+            <guid>4005422</guid>
+            <pubDate>Thu, 30 Jan 2025 11:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行：将T-Mobile目标价从220美元上调至235美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7592728.d.html</link>
+            <guid>4005421</guid>
+            <pubDate>Thu, 30 Jan 2025 11:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞穗：将Meta目标价从675.00美元上调至750.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2597884.d.html</link>
+            <guid>4005420</guid>
+            <pubDate>Thu, 30 Jan 2025 11:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行：将特斯拉目标价从125美元上调至135美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2597839.d.html</link>
+            <guid>4005419</guid>
+            <pubDate>Thu, 30 Jan 2025 11:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空：第四季度调整后每股收益56美分，市场预估47美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7592285.d.html</link>
+            <guid>4005418</guid>
+            <pubDate>Thu, 30 Jan 2025 11:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空：预计波音公司2025年将交付38架737 MAX 8飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7592255.d.html</link>
+            <guid>4005417</guid>
+            <pubDate>Thu, 30 Jan 2025 11:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡特彼勒：第四季度每股收益5.78美元，上年同期5.28美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2597706.d.html</link>
+            <guid>4005416</guid>
+            <pubDate>Thu, 30 Jan 2025 11:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称红十字国际委员会方面已接收剩余以方获释人员】当地时间1月30日，以色列国防军称，红十字国际委员会方面已通知以军，在加沙地带汗尤尼斯，获释的2名以色列人阿尔比勒·耶胡达（Arbel Yehoud）和加迪·摩西·摩西（Gadi Moshe Mozes），以及5名泰国人已被移交至红十字国际委员会。以军称，红十字国际委员会方面目前正在将他们送往位于加沙地带的以色列国防军和以色列国家安全总局（辛贝特）部队，然后护送他们离开加沙地带。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfw2597665.d.html</link>
+            <guid>4005415</guid>
+            <pubDate>Thu, 30 Jan 2025 11:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部表示，两架俄罗斯图-95战略轰炸机在鄂霍次克海和日本海上空执行例行飞行任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2033147.d.html</link>
+            <guid>4005414</guid>
+            <pubDate>Thu, 30 Jan 2025 11:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国两机相撞坠河事故中已有超过30具遇难者遗体被找到】美国媒体30日报道说，美国两机相撞坠河事故中已有超过30具遇难者遗体被找到。 （新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfs7591972.d.html</link>
+            <guid>4005413</guid>
+            <pubDate>Thu, 30 Jan 2025 11:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国光子毫米波雷达技术取得突破性进展】记者日前从南开大学获悉，南开大学携手香港城市大学，成功研制出薄膜铌酸锂光子毫米波雷达芯片，在毫米波雷达领域取得重大突破。这一创新成果，为未来6G通信、智能驾驶、精准感知等前沿领域的应用奠定了坚实基础。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4366156.d.html</link>
+            <guid>4005412</guid>
+            <pubDate>Thu, 30 Jan 2025 11:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟发布政策文件旨在推动竞争力提升】欧盟委员会29日发布《竞争力指南》。作为今后5年在经济领域的重要纲领，这份文件旨在推动欧盟缩小与其他经济体在创新领域的差距，制定脱碳与提高竞争力的联合路线图。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfu4365686.d.html</link>
+            <guid>4005409</guid>
+            <pubDate>Thu, 30 Jan 2025 11:23:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列军方：包括两名以色列人和五名外籍人士在内的七名人质已被移交给红十字会。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehuhfy2031617.d.html</link>
@@ -178,258 +440,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzya2158741.d.html</link>
             <guid>4005374</guid>
             <pubDate>Thu, 30 Jan 2025 10:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家打金店在春节前迎来打金高峰】走访发现，多家打金店在春节前迎来打金高峰，一些工费便宜、手艺精湛的打金店更是需要排队预约。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4489663.d.html</link>
-            <guid>4005373</guid>
-            <pubDate>Thu, 30 Jan 2025 10:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年春节档总票房破34亿】据猫眼专业版数据，1月30日18时39分，2025春节档总票房（含预售）破34亿。《哪吒之魔童闹海》《唐探1900》《封神第二部：战火西岐》分列春节档票房榜前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2721985.d.html</link>
-            <guid>4005372</guid>
-            <pubDate>Thu, 30 Jan 2025 10:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南局部降雪10毫米以上】河南省气象台2025年1月30日17时发布暴雪蓝色预警。预计今天夜里到明天，三门峡南部、洛阳南部、平顶山、许昌、漯河、周口西部、驻马店北部和西部、南阳北部和东部、信阳西部将出现5毫米以上降雪，其中南阳东南部、驻马店西南部、信阳西部局部将出现10毫米以上降雪，请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4488799.d.html</link>
-            <guid>4005369</guid>
-            <pubDate>Thu, 30 Jan 2025 10:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国一校车发生事故造成1死40伤】一辆校车30日上午在法国厄尔－卢瓦尔省发生事故，造成至少一名学生死亡，另有包括31名学生在内的约40人受伤。 厄尔－卢瓦尔省政府发布消息说，目前事故原因未知，死亡人数仍可能发生变化。已有40名消防员前往事故现场展开救援。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2721765.d.html</link>
-            <guid>4005368</guid>
-            <pubDate>Thu, 30 Jan 2025 10:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列人质已在汗尤尼斯转交给红十字会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzya2157236.d.html</link>
-            <guid>4005367</guid>
-            <pubDate>Thu, 30 Jan 2025 10:39:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【频繁被盗 英国零售商因盗窃损失22亿英镑】英国零售商协会（BRC）当地时间30日发布的年度报告显示，2023至2024年度，英国零售商因盗窃损失22亿英镑。据悉，零售商已投入18亿英镑以加强安保措施，但盗窃事件仍多发。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2721697.d.html</link>
-            <guid>4005366</guid>
-            <pubDate>Thu, 30 Jan 2025 10:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔埃米尔访问叙利亚 将会见叙“沙姆解放组织”领导人】当地时间1月30日获悉，卡塔尔埃米尔（国家元首）塔米姆已于当天抵达叙利亚首都大马士革，对叙利亚进行访问。报道称，这是自叙利亚政权更迭后，首位访问叙利亚的阿拉伯国家元首。按照行程，塔米姆将于30日与叙利亚“沙姆解放组织”领导人艾哈迈德·沙拉举行会谈。此前在1月16日，卡塔尔首相兼外交大臣穆罕默德曾访问叙利亚。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2721271.d.html</link>
-            <guid>4005363</guid>
-            <pubDate>Thu, 30 Jan 2025 10:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025大年初二票房破12亿】据灯塔专业版数据，截至1月30日18时29分，2025年1月30日（大年初二）单日票房突破12亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2720509.d.html</link>
-            <guid>4005360</guid>
-            <pubDate>Thu, 30 Jan 2025 10:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美客机与军机相撞坠河 救援人员已打捞出18具遇难者遗体】当地时间29日，美国一架客机在首都华盛顿里根国家机场降落过程中，与一架军用直升机相撞，坠入机场附近的河中。客机上载有60名乘客和4名机组人员，直升机上有3名美国军人。搜救人员已打捞出18具遇难者遗体。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7712672.d.html</link>
-            <guid>4005358</guid>
-            <pubDate>Thu, 30 Jan 2025 10:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星巴克韩国门店数超越日本位居全球第三，仅次于美中】星巴克全球门店数据显示，截至去年年底，星巴克在韩国门店数达2009家，超越日本位居全球第三。星巴克在全球共拥有4.0576万家门店，其中美国有1.7049万家，中国7685家，美中门店数占比达到61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7712506.d.html</link>
-            <guid>4005357</guid>
-            <pubDate>Thu, 30 Jan 2025 10:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及总理访问伊拉克 双方代表签署多项谅解备忘录】伊拉克媒体办公室发表声明称，当地时间1月30日，埃及总理马德布利抵达伊拉克首都巴格达，伊拉克总理苏达尼在总理府与马德布利举行会晤。双方在会上就伊埃关系、加强两国伙伴关系合作、协调地区和国际问题立场等议题进行磋商。声明称，伊总理苏达尼与埃总理马德布利率领两国代表团出席了伊拉克-埃及联合高级委员会第三次会议，两国代表在会上签署了涉及多领域合作的谅解备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7711650.d.html</link>
-            <guid>4005355</guid>
-            <pubDate>Thu, 30 Jan 2025 10:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区经济体陷入经济困境 法、德、意经济均不景气】虽然近期经济增长的许多挫折都来自欧元区以外，但也有一些是欧元区自身造成的。数据显示，由于政治僵局对企业和消费者信心造成打击，加上夏季奥运会的余晖消退，法国经济在去年最后几个月出现萎缩。德国（欧元区最大经济体）连续第二年出现萎缩，正拖累欧元区，而欧元区正准备迎接2025年的新挑战。最新数据显示，德国经济在去年第四季度萎缩了0.2%，而第三大经济体意大利则停滞不前。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7711578.d.html</link>
-            <guid>4005354</guid>
-            <pubDate>Thu, 30 Jan 2025 10:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区1月消费者信心指数初值 -14.2，预期-14.2，前值-14.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2718889.d.html</link>
-            <guid>4005351</guid>
-            <pubDate>Thu, 30 Jan 2025 10:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区数据公布后，欧元短线波动暂不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4482584.d.html</link>
-            <guid>4005347</guid>
-            <pubDate>Thu, 30 Jan 2025 10:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方：最近成功拦截了一架由黎巴嫩真主党发射的侦察无人机，该无人机目标为以色列。]]></title>
-            <guid>4005346</guid>
-            <pubDate>Thu, 30 Jan 2025 10:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔡崇信、马云控股基金收购“小脏鞋”Golden Goose股权】意大利鞋履品牌Golden Goose近日宣布，蓝池资本（Blue Pool Capital）对其进行了12%的战略少数股权投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4482107.d.html</link>
-            <guid>4005345</guid>
-            <pubDate>Thu, 30 Jan 2025 10:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区1月服务业景气指数 6.6，预期6，前值由5.9修正为5.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzya2152040.d.html</link>
-            <guid>4005344</guid>
-            <pubDate>Thu, 30 Jan 2025 10:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区1月经济景气指数 95.2，预期94.1，前值93.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4481992.d.html</link>
-            <guid>4005343</guid>
-            <pubDate>Thu, 30 Jan 2025 10:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区1月工业景气指数 -12.9，预期-13.8，前值-14.1。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4481970.d.html</link>
-            <guid>4005342</guid>
-            <pubDate>Thu, 30 Jan 2025 10:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利12月失业率初值 6.2%，预期5.7%，前值5.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzya2151755.d.html</link>
-            <guid>4005340</guid>
-            <pubDate>Thu, 30 Jan 2025 10:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国法院考虑到“下游”排放问题，推翻了对壳牌公司Jackdaw项目和挪威Equinor公司Rosebank北海化石燃料项目的批准。英国法院裁定，项目工作可以继续进行，但在作出新决定之前“不得提取任何石油或天然气”。政府需要采取迅速行动，以便我们和其他运营商能对英国能源基础设施做出决策。]]></title>
-            <guid>4005339</guid>
-            <pubDate>Thu, 30 Jan 2025 10:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区第四季度GDP季率初值 0%，预期0.1%，前值0.40%。欧元区第四季度GDP年率初值 0.9%，预期1%，前值0.90%。]]></title>
-            <guid>4005338</guid>
-            <pubDate>Thu, 30 Jan 2025 10:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区12月失业率 6.3%，预期6.3%，前值由6.30%修正为6.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7706669.d.html</link>
-            <guid>4005337</guid>
-            <pubDate>Thu, 30 Jan 2025 10:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海到鹿特丹的运价降至去年10月以来的最低水平】根据德鲁里世界集装箱指数，在截至1月30日当周，主要跨洋贸易航线上40英尺集装箱的加权平均运费下降2.3%至3,364美元。从上海到洛杉矶的运价从4,813美元降至4,771美元；从上海到鹿特丹的成本触及去年10月以来的最低水平；从上海到热那亚的票价从4,562美元降至4,400美元；从上海到纽约的成本从6,377美元降至6,288美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7705940.d.html</link>
-            <guid>4005336</guid>
-            <pubDate>Thu, 30 Jan 2025 09:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏州：优化延续购房契税补贴至3月31日，最高全额补贴契税】 据苏州市住房和城乡建设局官方微信公众号。经研究，在全市范围优化延续购房契税补贴，具体如下：一是对购买新建商品住房的家庭给予50%契税补贴（最高不超过房屋契税计税依据的1%），政策延续至2025年3月31日。二是对自2024年1月1日-2025年3月31日在苏州大市范围内出售自有住房后（出售时间以不动产转移登记时间为准），并在2025年1月1日-2025年3月31日购置新建商品住房的购房家庭（需满足“先卖后买”），由购买的新房所在县级市（区）给予100%契税补贴。]]></title>
-            <guid>4005335</guid>
-            <pubDate>Thu, 30 Jan 2025 09:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[刚果总统府消息人士：法国外交部长已抵达金沙萨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4479594.d.html</link>
-            <guid>4005334</guid>
-            <pubDate>Thu, 30 Jan 2025 09:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部称约10万乌克兰军人擅自离队】据俄罗斯国防部引用的官方数据称，约有10万名乌克兰军人擅自离队并逃跑。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4478775.d.html</link>
-            <guid>4005332</guid>
-            <pubDate>Thu, 30 Jan 2025 09:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋获得首批80架“阵风”战斗机】阿联酋获得首批80架“阵风”战斗机。注：阿拉伯联合酋长国2021年与法国方面签署军购订单，将向法方购买80架“阵风”战斗机。法新社报道，合同金额达到创纪录的140亿欧元，是这款战斗机迄今收获的最大一笔国际订单。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxy2712781.d.html</link>
-            <guid>4005330</guid>
-            <pubDate>Thu, 30 Jan 2025 09:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国12月M4货币供应年率 2.5%，前值2.90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7701699.d.html</link>
-            <guid>4005329</guid>
-            <pubDate>Thu, 30 Jan 2025 09:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国12月M4货币供应月率 0.1%，前值0.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4476159.d.html</link>
-            <guid>4005326</guid>
-            <pubDate>Thu, 30 Jan 2025 09:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度气象部门消息人士称，高温对印度小麦、油菜籽作物构成挑战，印度2月份某些日子的最高气温可能比平均气温高出5摄氏度。]]></title>
-            <guid>4005324</guid>
-            <pubDate>Thu, 30 Jan 2025 09:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国经济再度收缩 或连续三年录得下滑】德国统计局周四公布的初步数据显示，德国第四季度GDP较前三个月下降0.2%，降幅超出预期。财经网站Forexlive评论称，据估计，去年德国经济整体收缩了0.2%，而2023年德国经济收缩0.1%。如果这种情况在2025年继续下去，这将标志着自1990年两德统一以来，德国首次遭遇GDP连续三年下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4473560.d.html</link>
-            <guid>4005323</guid>
-            <pubDate>Thu, 30 Jan 2025 09:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚临时政府与俄罗斯代表团接触，叙方向俄方施压索赔】叙利亚临时政府与俄罗斯代表团进行了接触。据称，叙方向俄代表团施压，要求赔偿。这是反对派武装去年12月推翻前总统巴沙尔后，叙利亚首次与俄罗斯进行对话。根据叙利亚方面发布的会谈纪要，这次对话“强调了俄罗斯在通过赔偿、重建和恢复（叙利亚）等具体措施，重新建立与叙利亚人民信任方面发挥的作用”。叙临时政府还强调，双方若要恢复关系，“必须解决过去的错误”。不过，叙方的声明并未阐明希望从俄罗斯方面获得何种形式的赔偿。声明也没有提及叙境内对于俄罗斯意义重大的赫迈米姆和塔尔图斯军事基地。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4473263.d.html</link>
-            <guid>4005322</guid>
-            <pubDate>Thu, 30 Jan 2025 09:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美坠河客机黑匣子之一被找到】据美国哥伦比亚广播公司报道，潜水员已找到了当地时间1月29日晚在华盛顿里根国家机场附近坠河的美国航空公司客机两个“黑匣子”之一。目前这一消息还没有得到进一步证实。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzya2145132.d.html</link>
-            <guid>4005318</guid>
-            <pubDate>Thu, 30 Jan 2025 09:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME有色金属库存日报】
-伦敦金属交易所（LME）有色金属库存及变化如下：
-1. 铜库存256275吨，减少25吨。
-2. 铝库存587850吨，减少2500吨。
-3. 镍库存172302吨，持平。
-4. 锌库存180725吨，持平。
-5. 铅库存221475吨，减少200吨。
-6. 锡库存4295吨，持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7696253.d.html</link>
-            <guid>4005312</guid>
-            <pubDate>Thu, 30 Jan 2025 09:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银日内涨幅扩大至2.00%，现报32.03美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxu7696125.d.html</link>
-            <guid>4005311</guid>
-            <pubDate>Thu, 30 Jan 2025 09:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国第四季度工作日调整后GDP年率终值 -0.2%，预期0%，前值-0.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtzxw4470569.d.html</link>
-            <guid>4005309</guid>
-            <pubDate>Thu, 30 Jan 2025 09:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利第四季度GDP季率初值 0%，预期0.1%，前值0.00%。意大利第四季度GDP年率初值 0.5%，预期0.6%，前值0.40%。]]></title>
-            <guid>4005308</guid>
-            <pubDate>Thu, 30 Jan 2025 09:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其消息人士称，土耳其正在等待可能购买欧洲战斗机的价格建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtvsa2838614.d.html</link>
-            <guid>4005307</guid>
-            <pubDate>Thu, 30 Jan 2025 09:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国第四季度季调后GDP季率初值 -0.2%，预期-0.1%，前值0.10%。年率初值 -0.4%，预期-0.3%，前值0.10%。]]></title>
-            <guid>4005306</guid>
-            <pubDate>Thu, 30 Jan 2025 09:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：一个潜水小组发现了美国坠毁的飞机上的两个数据记录仪（“黑匣子”）之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtvry4600885.d.html</link>
-            <guid>4005305</guid>
-            <pubDate>Thu, 30 Jan 2025 08:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣里夫斯：希望本届议会在希思罗机场问题上有坚定的立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-30/detail-inehtvse2273817.d.html</link>
-            <guid>4005304</guid>
-            <pubDate>Thu, 30 Jan 2025 08:57:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
