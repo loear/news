@@ -6,15 +6,126 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4055232,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnt6480317.d.html",
+            "title": "西班牙首相桑切斯：乌克兰，西班牙与你站在一起。",
+            "date_modified": "2025-02-28T19:19:04.000Z"
+        },
+        {
+            "id": 4055231,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarny9470096.d.html",
+            "title": "乌克兰议会议长：没有人应该忘记谁是这场冲突的受害者。",
+            "date_modified": "2025-02-28T19:16:30.000Z"
+        },
+        {
+            "id": 4055229,
+            "content_html": "",
+            "title": "乌克兰总理：（在泽连斯基与特朗普在椭圆形办公室发生冲突后）泽连斯基是对的，没有保证的和平是不可能的。",
+            "date_modified": "2025-02-28T19:13:11.000Z"
+        },
+        {
+            "id": 4055227,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnt6478815.d.html",
+            "title": "【瑞士宝盛集团将提名汇丰前行政总裁祈耀年出任董事长】瑞士宝盛集团将在4月10日的年度大会上提名汇丰前行政总裁祈耀年担任新任非执行董事长。祈耀年将接替决定不再寻求连任的Romeo Lacher，其当选后将于5月1日就职。副董事长Richard Campbell-Breeden将担任临时主席，直到4月30日。",
+            "date_modified": "2025-02-28T19:05:17.000Z"
+        },
+        {
+            "id": 4055226,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarny9468655.d.html",
+            "title": "瑞银将戴尔科技的目标股价从每股158.00美元下调至150.00美元。",
+            "date_modified": "2025-02-28T19:04:16.000Z"
+        },
+        {
+            "id": 4055224,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5102182.d.html",
+            "title": "加拿大外交部长：加拿大需要与欧洲和英国走得更近。",
+            "date_modified": "2025-02-28T19:00:11.000Z"
+        },
+        {
+            "id": 4055221,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5101782.d.html",
+            "title": "加拿大外交部长：我们正处于安全危机之中。",
+            "date_modified": "2025-02-28T18:57:41.000Z"
+        },
+        {
+            "id": 4055220,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5101748.d.html",
+            "title": "白宫官员：乌克兰总统泽连斯基的“言辞和态度”让特朗普感到“不受尊重”。",
+            "date_modified": "2025-02-28T18:57:28.000Z"
+        },
+        {
+            "id": 4055213,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarny9466952.d.html",
+            "title": "美国高级官员：在泽连斯基还在国内的情况下，能否重新安排会晤取决于乌克兰人。",
+            "date_modified": "2025-02-28T18:49:58.000Z"
+        },
+        {
+            "id": 4055212,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5100274.d.html",
+            "title": "法国总统马克龙：三年前我们帮助乌克兰、制裁俄罗斯是正确的，现在我们继续这样做。",
+            "date_modified": "2025-02-28T18:49:54.000Z"
+        },
+        {
+            "id": 4055209,
+            "content_html": "",
+            "title": "美国高级官员：特朗普不排除与泽连斯基达成协议，但在乌克兰准备好进行建设性对话之前不会（达成协议）。",
+            "date_modified": "2025-02-28T18:46:03.000Z"
+        },
+        {
+            "id": 4055208,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnx1873402.d.html",
+            "title": "加拿大外交部长：加拿大与乌克兰及其盟友的合作非常重要。",
+            "date_modified": "2025-02-28T18:45:44.000Z"
+        },
+        {
+            "id": 4055207,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnt6475524.d.html",
+            "title": "【美民主党称共和党退出拨款谈判 增加政府“关门”风险】当地时间2月28日，美国拨款委员会民主党高层发布声明表示，共和党领导层放弃了两党合作的政府拨款谈判，并因此增加了政府“关门”的风险，这令人“非常失望”。声明表示，共和党领导层计划通过一项全年的持续拨款决议，其中包含马斯克领导的“政府效率部”的削减计划，这将赋予总统特朗普新的自由裁量权，让他可以按照自身意愿分配资金。而民主党人对此持反对立场。民主党高层表示，希望共和党人能重返谈判桌，共同通过完整的年度拨款法案。（央视新闻）",
+            "date_modified": "2025-02-28T18:44:54.000Z"
+        },
+        {
+            "id": 4055204,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5098301.d.html",
+            "title": "白宫官员：特朗普与泽连斯基新闻发布会取消。",
+            "date_modified": "2025-02-28T18:41:50.000Z"
+        },
+        {
+            "id": 4055203,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnv5098260.d.html",
+            "title": "乌克兰总统泽连斯基被目睹离开白宫。",
+            "date_modified": "2025-02-28T18:41:30.000Z"
+        },
+        {
+            "id": 4055201,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarny9464296.d.html",
+            "title": "市场消息：亚马逊计划从今年起将其货运业务扩展到欧洲各国。",
+            "date_modified": "2025-02-28T18:34:13.000Z"
+        },
+        {
             "id": 4055200,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenarnt6474318.d.html",
             "title": "乌克兰美元债券维持当日跌幅。",
             "date_modified": "2025-02-28T18:33:31.000Z"
         },
         {
             "id": 4055198,
             "content_html": "",
-            "title": "一位美国高级官员表示，泽连斯基和特朗普之间的冲突可能会加快调查美国对乌克兰援助中的浪费、欺诈和滥用行为的工作。",
+            "title": "美国高级官员：泽连斯基与特朗普之间的冲突可能会加速调查美国对乌克兰援助中的浪费、欺诈和滥用问题。",
             "date_modified": "2025-02-28T18:32:01.000Z"
         },
         {
@@ -63,7 +174,7 @@
             "id": 4055176,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamex5224003.d.html",
-            "title": "市场消息：英国政府任命JENNY CHAPMAN为国际贸易大臣。",
+            "title": "市场消息：英国政府任命Jenny Chapman为国际贸易部长。",
             "date_modified": "2025-02-28T18:12:47.000Z"
         },
         {
@@ -245,110 +356,6 @@
             "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamfa9583402.d.html",
             "title": "美国总统特朗普：乌克兰未就购买美国液化天然气达成协议。",
             "date_modified": "2025-02-28T17:11:39.000Z"
-        },
-        {
-            "id": 4055129,
-            "content_html": "",
-            "title": "美国民主党人称，共和党人希望在美国政府拨款法案中纳入特朗普和马斯克的削减措施，而民主党人则希望国会决定拨款问题。",
-            "date_modified": "2025-02-28T17:10:24.000Z"
-        },
-        {
-            "id": 4055128,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamex5207637.d.html",
-            "title": "美国消费者金融保护局（CFPB）一位前高级官员在周五提交的法庭文件中表示，该局取消了近三十份网络安全合同，这危及了联邦监管机构保存的敏感数据的安全。",
-            "date_modified": "2025-02-28T17:09:23.000Z"
-        },
-        {
-            "id": 4055126,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamev6592952.d.html",
-            "title": "美国总统特朗普：近日与俄罗斯总统普京进行了交谈，普京希望达成一项协议。",
-            "date_modified": "2025-02-28T17:08:04.000Z"
-        },
-        {
-            "id": 4055125,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamfa9582856.d.html",
-            "title": "【宝马董事会成员：“中国市场的研发与创新推动全球技术进步”】 宝马集团负责生产的董事会成员米兰·内德利科维奇日前表示，来自中国工厂的创新不仅推动本地发展，也通过全球网络提升宝马的整体技术水平和生产效率。内德利科维奇对记者说，“宝马各工厂在生产过程中实施全球统一标准，全球生产网络高度协同，各工厂间相互支持。宝马在中国大力投资研发以适应市场需求，中国的创新成果不仅服务于本地市场，也在全球范围内推广，推动整体技术进步。”（新华社）",
-            "date_modified": "2025-02-28T17:07:55.000Z"
-        },
-        {
-            "id": 4055124,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamfa9582644.d.html",
-            "title": "乌克兰总统泽连斯基：美国的支持对维和部队“至关重要”。",
-            "date_modified": "2025-02-28T17:06:11.000Z"
-        },
-        {
-            "id": 4055120,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamex5205772.d.html",
-            "title": "美国总统特朗普：致力于支持北约。欧洲和北约必须挺身而出。",
-            "date_modified": "2025-02-28T17:02:46.000Z"
-        },
-        {
-            "id": 4055119,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamez1980188.d.html",
-            "title": "美国总统特朗普 ： 非常致力于支持波兰。",
-            "date_modified": "2025-02-28T17:02:22.000Z"
-        },
-        {
-            "id": 4055115,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamev6592019.d.html",
-            "title": "乌克兰总统泽连斯基：重申乌克兰非常需要防空系统。",
-            "date_modified": "2025-02-28T17:01:12.000Z"
-        },
-        {
-            "id": 4055113,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamez1979860.d.html",
-            "title": "埃克森美孚：HEBRON平台已恢复正常生产。",
-            "date_modified": "2025-02-28T17:00:53.000Z"
-        },
-        {
-            "id": 4055111,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamfa9581796.d.html",
-            "title": "【摩根大通全球现金股票交易联席主管Berthe将离职】摩根大通全球现金股票交易联席主管Chris Berthe在任职15年后即将离职。根据一份内部备忘录，曾与Berthe一起担任联席主管的Luiz De Salvo将成为该部门唯一的负责人。根据摩根大通商业和投资银行全球股票业务主管Rachid Alaoui周五发给员工的备忘录，这位高管告知银行“他决定花更多时间陪伴家人”。 该公司发言人不予置评。",
-            "date_modified": "2025-02-28T16:59:53.000Z"
-        },
-        {
-            "id": 4055110,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamfa9581714.d.html",
-            "title": "乌克兰总统泽连斯基：（就矿产协议）这份文件是不够的。",
-            "date_modified": "2025-02-28T16:59:09.000Z"
-        },
-        {
-            "id": 4055109,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamez1979205.d.html",
-            "title": "美国总统特朗普：美国已经开始与俄罗斯达成协议。",
-            "date_modified": "2025-02-28T16:58:28.000Z"
-        },
-        {
-            "id": 4055108,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamex5204101.d.html",
-            "title": "美国总统特朗普：：一旦协议达成，俄罗斯就不会再想回去了。",
-            "date_modified": "2025-02-28T16:56:58.000Z"
-        },
-        {
-            "id": 4055103,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamex5202368.d.html",
-            "title": "美国总统特朗普：你总是得做出妥协。",
-            "date_modified": "2025-02-28T16:51:26.000Z"
-        },
-        {
-            "id": 4055102,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-01/detail-inenamez1976148.d.html",
-            "title": "乌克兰总统泽连斯基：美国从一开始就站在我们这边。我认为特朗普不会停止支持乌克兰。",
-            "date_modified": "2025-02-28T16:48:44.000Z"
         }
     ]
 }
