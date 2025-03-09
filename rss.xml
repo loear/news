@@ -4,11 +4,33 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 09 Mar 2025 16:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 17:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美总统特朗普：部分关税可能在4月2日后上调】美国总统特朗普9日在接受采访时表示，部分关税可能会随着时间的推移在4月2日之后上调。此外，特朗普在采访中淡化了近期因他征收并调整关税而导致的股市大幅波动，他称不能过分关注股市。（央视新闻）]]></title>
+            <guid>4071140</guid>
+            <pubDate>Sun, 09 Mar 2025 17:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：韦里塔斯资本（Veritas Capital）正计划将旗下的坎比恩学习集团（Cambium Learning Group）与霍顿・米夫林・哈考特（Houghton Mifflin Harcourt）两家教育相关投资组合公司进行合并。]]></title>
+            <guid>4071139</guid>
+            <pubDate>Sun, 09 Mar 2025 17:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗说企图废除伊朗和平核计划的谈判“永远不会发生”】伊朗驻联合国代表团9日说，如果谈判的目的是废除伊朗的和平核计划，那谈判“永远不会发生”。伊朗驻联合国代表团当天在社交媒体上发表声明说，如果谈判的目的是解决有关伊朗核计划可能军事化的担忧，伊朗可能会考虑谈判。然而，如果谈判目的是废除伊朗的和平核计划，那么这样的谈判“永远不会发生”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-10/detail-inepavfy1244258.d.html</link>
+            <guid>4071136</guid>
+            <pubDate>Sun, 09 Mar 2025 16:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[厄瓜多尔总统诺博亚：该国不会接收其他国籍的被驱逐移民。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-10/detail-inepavhf4233656.d.html</link>
+            <guid>4071132</guid>
+            <pubDate>Sun, 09 Mar 2025 16:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【厄瓜多尔冬季暴雨已致18人死亡 超8.2万人受影响】据厄瓜多尔风险管理秘书处报告，截至当地时间3月8日，该国冬季暴雨造成的死亡人数上升到18人，超8.2万人受到影响，22121栋房屋受损，106所房屋被毁。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-10/detail-inepaqyf7128864.d.html</link>
@@ -20,12 +42,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-10/detail-inepaqye0351395.d.html</link>
             <guid>4071105</guid>
             <pubDate>Sun, 09 Mar 2025 16:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普淡化其贸易政策对股市的影响，并表示部分关税在4月2日后“可能会上调”】美国总统特朗普淡化了近期股市的大幅波动，这种波动源于他先是实施关税措施而后又进行了调整。在接受采访时，他为自己的策略进行了辩护，并表示下个月部分关税 “可能会上调”。特朗普经常将股市表现视为衡量他总统任期成功与否的关键指标。但在此次采访中，他声称：“你不能真的只盯着股市看”，并表示他正试图从长远角度 “建设一个强大的国家”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-10/detail-inepaqya1367640.d.html</link>
-            <guid>4071104</guid>
-            <pubDate>Sun, 09 Mar 2025 16:05:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【叙利亚成立国家委员会调查西部袭击和冲突事件】叙利亚总统府9日宣布，成立一个独立的国家委员会，对本月6日以来叙西部沿海地区发生的袭击和冲突事件展开调查。该国家委员会由5名法官、1名军人和1名律师组成，主要负责查明整个事件发生的原因、背景及相关情况，并确定相关责任人。（新华社）]]></title>
@@ -493,29 +509,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-09/detail-inepaekh1591664.d.html</link>
             <guid>4070950</guid>
             <pubDate>Sun, 09 Mar 2025 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[    【收到《哪吒2》和品牌联名的礼品卡片快递？相关方回应：勿轻信】 电影《哪吒之魔童闹海》春节以来持续热映，一些借助影片热度伪装的网络诈骗新变种悄然兴起。近日，多地网友反馈，他们收到了含有所谓《哪吒2》和良品铺子等品牌联名卡片的陌生快递。卡片中称，该活动系良品铺子联合淘宝、拼多多等品牌发起，扫码可以获得礼品。良品铺子、拼多多、淘宝等多方平台客服答复称，此类卡片并非平台活动，请勿轻信，来历不明的二维码，一定不要乱扫。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-09/detail-inepaekm7346270.d.html</link>
-            <guid>4070949</guid>
-            <pubDate>Sun, 09 Mar 2025 11:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚过渡总统呼吁维护国内和平和团结】 据沙特阿拉比亚电视台9日报道，叙利亚过渡时期总统艾哈迈德·沙拉当天呼吁维护叙国内和平和团结，称叙当前局势属于“可以预见的挑战”。报道说，沙拉是在大马士革一座清真寺发表简短讲话时做出上述表态的。他呼吁民众放心，称叙利亚拥有“生存的条件”，叙利亚人能够在这个国家一起生活。（新华网）]]></title>
-            <guid>4070948</guid>
-            <pubDate>Sun, 09 Mar 2025 11:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆阿勒泰地区阿勒泰市发布暴雪红色预警】阿勒泰市气象台2025年3月9日17时51分将暴雪橙色升级为暴雪红色预警信号：目前阿勒泰市小东沟鹊吉克桥站近6小时降雪量已达到29.6mm，预计今日傍晚~夜间降雪仍将持续（新增积雪20-30厘米），请减少外出，避开易被雪压塌的临时搭建物，做好雪灾防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-09/detail-inepaekk0570441.d.html</link>
-            <guid>4070947</guid>
-            <pubDate>Sun, 09 Mar 2025 11:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国长岛最后一处野火基本得到控制 日出高速已重新开放】目前纽约长岛西汉普顿的野火火情已经得到80%控制，被关闭的日出高速路段已经重新开放。火灾目前造成了1名消防人员烧伤，2处商业房屋遭破坏，没有居民区被波及。随着火势得到控制，当地官员表示现在的焦点转向火灾的起因。萨福克县长艾德罗曼向媒体表示，不排除人为纵火的可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-09/detail-inepaekk0569156.d.html</link>
-            <guid>4070945</guid>
-            <pubDate>Sun, 09 Mar 2025 10:54:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
