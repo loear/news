@@ -4,13 +4,157 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 10 Mar 2025 19:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 20:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国白宫：特朗普将签署救灾行政令。]]></title>
+            <title><![CDATA[美国航空航天局（NASA）：正在取消首席科学家职位，并关闭一个研究太空和技术政策问题的办公室，此举涉及23名员工的裁员。]]></title>
+            <guid>4073278</guid>
+            <pubDate>Mon, 10 Mar 2025 20:24:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部长NOEM：我们与加拿大在毒品流动方面仍然存在问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuz3086112.d.html</link>
+            <guid>4073276</guid>
+            <pubDate>Mon, 10 Mar 2025 20:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国主要机场员工罢工 数千架次航班被取消】 在德国服务业联合工会的号召下，德国主要机场工作人员10日举行持续24小时的罢工，导致数千架次航班被取消，超过50万名乘客的出行受到影响。柏林、法兰克福、慕尼黑和杜塞尔多夫等地的13家机场受到此次罢工影响。其中，法兰克福机场10日当天已有超1050架次航班被取消。受德国机场罢工影响，10日，瑞士有超过100架次航班被取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuv9101757.d.html</link>
+            <guid>4073275</guid>
+            <pubDate>Mon, 10 Mar 2025 20:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文董事长埃里森：将 OpenAI 的 ChatGPT、XAI 的 Grok 和 Meta 的 Llama 直接连接到具有高级向量功能的甲骨文数据库 23AI 版。]]></title>
+            <guid>4073269</guid>
+            <pubDate>Mon, 10 Mar 2025 20:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文董事长埃里森：按计划在本日历年度将我们的数据中心容量翻倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuv9099794.d.html</link>
+            <guid>4073267</guid>
+            <pubDate>Mon, 10 Mar 2025 20:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文：预计高达 1300 亿美元的销售积压将推动从今年 6 月开始的下一财年整体收入增长 15%。]]></title>
+            <guid>4073266</guid>
+            <pubDate>Mon, 10 Mar 2025 20:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甲骨文业绩逊于预期，股价盘后涨约5.2%】甲骨文第三财季调整后营收141.3亿美元，预估143.9亿美元；第三财季云基础设施收入（IAAS）27亿美元，预估27.1亿美元。甲骨文美股盘后涨5.18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuz3084727.d.html</link>
+            <guid>4073265</guid>
+            <pubDate>Mon, 10 Mar 2025 20:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉收跌15%，创2020年9月份以来最大单日跌幅，纳斯达克100指数创2022年以来最差单日表现。]]></title>
+            <guid>4073263</guid>
+            <pubDate>Mon, 10 Mar 2025 20:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙：加州埃尔塞贡多炼油厂的临时机械问题不会影响该炼油厂向当地客户供应石油产品的能力。]]></title>
+            <guid>4073259</guid>
+            <pubDate>Mon, 10 Mar 2025 20:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙：位于加州埃尔塞贡多的炼油厂的一个工艺装置出现机械问题，导致了意外的燃烧。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5872330.d.html</link>
+            <guid>4073257</guid>
+            <pubDate>Mon, 10 Mar 2025 19:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈萨克斯坦能源部长表示正在与石油巨头讨论减产以达到欧佩克+目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5872056.d.html</link>
+            <guid>4073256</guid>
+            <pubDate>Mon, 10 Mar 2025 19:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据叙利亚安全部门消息，以色列战机对叙利亚南部的两座前叙军基地发动了一系列袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5871046.d.html</link>
+            <guid>4073251</guid>
+            <pubDate>Mon, 10 Mar 2025 19:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贡沃尔（Gunvor）CEO：关税会造成“人为套利”，这对市场的长期发展不利。并不认为对加拿大石油征收关税会减少流入美国的量。]]></title>
+            <guid>4073250</guid>
+            <pubDate>Mon, 10 Mar 2025 19:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果准备对iPhone、iPad和Mac的软件进行重大升级】苹果公司准备进行该公司历史上最重大的软件升级行动之一，为新一代用户改变iPhone、iPad和Mac的界面。知情人士透露，此次更新将于今年晚些时候进行，将从根本上改变操作系统的外观，让苹果的各种软件平台更趋一致。这包括更新图标、菜单、应用程序、窗口和系统按钮的风格。此次行动中，该公司将努力简化用户导航和控制设备的方式。他们表示，这一设计基本基于Vision Pro的软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5870792.d.html</link>
+            <guid>4073249</guid>
+            <pubDate>Mon, 10 Mar 2025 19:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国绿党单独提出放宽防务开支的建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuv9095540.d.html</link>
+            <guid>4073247</guid>
+            <pubDate>Mon, 10 Mar 2025 19:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国银行在最近几周的年度评估后，削减了投资银行和全球市场部门 1% 的岗位。此前裁员包括总经理、董事和副总裁。]]></title>
+            <guid>4073246</guid>
+            <pubDate>Mon, 10 Mar 2025 19:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国银行最新的裁员行动波及分析师和助理岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5869943.d.html</link>
+            <guid>4073245</guid>
+            <pubDate>Mon, 10 Mar 2025 19:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据叙利亚国家通讯社报道，以色列军队瞄准了叙利亚德拉周边地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkux5869628.d.html</link>
+            <guid>4073244</guid>
+            <pubDate>Mon, 10 Mar 2025 19:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国银行周一裁撤了部分投资银行岗位，其中包括纽约地区的岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfkuv9094850.d.html</link>
+            <guid>4073243</guid>
+            <pubDate>Mon, 10 Mar 2025 19:41:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贡沃尔（Gunvor）CEO：全球石油供应增长超过需求，油市供需平衡开始趋于宽松。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9223867.d.html</link>
+            <guid>4073237</guid>
+            <pubDate>Mon, 10 Mar 2025 19:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部长ROLLINS:强调了对美乳制品贸易壁垒问题的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9222947.d.html</link>
+            <guid>4073234</guid>
+            <pubDate>Mon, 10 Mar 2025 19:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国农业部长今天与加拿大对口官员进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9222742.d.html</link>
+            <guid>4073232</guid>
+            <pubDate>Mon, 10 Mar 2025 19:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会也面临政府停摆。相关投票可能从明天开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenw0221017.d.html</link>
+            <guid>4073230</guid>
+            <pubDate>Mon, 10 Mar 2025 19:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称库尔斯克州一购物中心遭乌军袭击 已致3人死亡】根据俄罗斯库尔斯克州代理州长亚历山大·欣施泰因公布的消息，当地时间3月10日晚间，乌克兰武装部队袭击了库尔斯克州一处购物中心，已致3人死亡，9人受伤。乌方对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9222204.d.html</link>
+            <guid>4073229</guid>
+            <pubDate>Mon, 10 Mar 2025 19:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马拉多纳医疗团队“过失杀人案”庭审将于3月11日举行】阿根廷足球巨星马拉多纳医疗团队被控“过失杀人”，据记者消息，该案庭审将于当地时间3月11日开始，以裁决是否存在医疗过失。据悉，共有8名医疗人员参与马拉多纳的治疗，其中7人被起诉。庭审将于布宜诺斯艾利斯省圣伊西德罗市法院进行，审判流程可能持续数月。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5996455.d.html</link>
+            <guid>4073228</guid>
+            <pubDate>Mon, 10 Mar 2025 19:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统特朗普将签署关于灾难救助的行政命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfepc3210634.d.html</link>
             <guid>4073226</guid>
             <pubDate>Mon, 10 Mar 2025 19:20:59 GMT</pubDate>
         </item>
@@ -204,163 +348,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9205829.d.html</link>
             <guid>4073170</guid>
             <pubDate>Mon, 10 Mar 2025 17:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际移民组织：近3个月约40万苏丹流离失所者返回家园】当地时间3月10日，国际移民组织就苏丹局势发布报告称，随着苏丹中部地区安全局势趋缓，在近3个月内，有约39.6万名苏丹流离失所者返回家园。自2024年10月以来，苏丹武装部队在苏丹中部的森纳尔州、杰济拉州以及喀土穆州不断取得军事进展，目前已重新控制森纳尔州和杰济拉州全境以及喀土穆州大部分地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5979209.d.html</link>
-            <guid>4073166</guid>
-            <pubDate>Mon, 10 Mar 2025 17:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME金属期货收盘涨跌不一】LME金属期货收盘涨跌不一，LME期铜收跌85美元，报9528美元/吨。LME期铝收跌12美元，报2694美元/吨。LME期锌收跌30美元，报2856美元/吨。LME期铅收涨30美元，报2048美元/吨。LME期镍收涨47美元，报16551美元/吨。LME期锡收涨142美元，报32661美元/吨。LME期钴收涨790美元，报27750美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5979162.d.html</link>
-            <guid>4073165</guid>
-            <pubDate>Mon, 10 Mar 2025 17:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯将与朝鲜就农业合作举行会谈】根据周一发布的一项政府命令，俄罗斯将与朝鲜就农业合作举行会谈。会谈后，俄罗斯计划与朝鲜签署协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfepc3199916.d.html</link>
-            <guid>4073162</guid>
-            <pubDate>Mon, 10 Mar 2025 17:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利铜业委员会：智利Collahuasi铜矿1月铜产量同比下降46.4%，至2.8万吨。]]></title>
-            <guid>4073161</guid>
-            <pubDate>Mon, 10 Mar 2025 17:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉股价迈向2020年以来最大跌幅 华尔街重估销量预测】随着华尔街分析师开始下调对特斯拉汽车交付量的预期，这家电动汽车制造商的股价势将创下2020年以来最大跌幅。在瑞银的Joseph Spak下调对特斯拉第一季度和全年交付预期后，该公司股价周一一度暴跌14%。Robert W. Baird & Co.分析师Ben Kallo也于3月6日下调对特斯拉的交付量预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5977591.d.html</link>
-            <guid>4073159</guid>
-            <pubDate>Mon, 10 Mar 2025 17:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷诺董事长塞纳德：如果日产建立对雷诺合适的合作伙伴关系，我们对此没有异议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfepc3199246.d.html</link>
-            <guid>4073158</guid>
-            <pubDate>Mon, 10 Mar 2025 17:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相将于15日主持乌克兰问题线上会议】英国首相斯塔默的发言人10日表示，斯塔默将于15日与多国领导人举行线上会议，讨论乌克兰局势。该发言人说，本次会议将以3月2日的伦敦峰会为基础。3月2日，十余个欧洲和欧盟国家，以及乌克兰和加拿大的领导人在英国伦敦举行峰会，英国首相斯塔默称会议达成四点计划，包括继续向乌提供军事支持、在乌克兰参与下达成和平协议、建立维护和平协议的联盟等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5976873.d.html</link>
-            <guid>4073155</guid>
-            <pubDate>Mon, 10 Mar 2025 17:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际能源署（IEA）署长法提赫·比罗尔表示，需要进行新的上游石油和天然气投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5976671.d.html</link>
-            <guid>4073154</guid>
-            <pubDate>Mon, 10 Mar 2025 17:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利铜业委员会：智利国家铜业公司1月铜产量同比下降4%，至102,700吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5976604.d.html</link>
-            <guid>4073153</guid>
-            <pubDate>Mon, 10 Mar 2025 17:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌官员：乌或将提议与俄达成空中海上停火】当地时间10日，法新社援引匿名乌克兰官员的话报道说，11日在沙特举行的乌克兰和美国高级官员会谈期间，乌方将提议先与俄罗斯达成空中和海上停火，因为这样的方案容易实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5976385.d.html</link>
-            <guid>4073151</guid>
-            <pubDate>Mon, 10 Mar 2025 17:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧盟反垄断监管机构关注的是苹果(AAPL.O)和Meta Platforms(META.O)是否遵守欧盟《数字市场法》(DMA)，而不是制裁。]]></title>
-            <guid>4073149</guid>
-            <pubDate>Mon, 10 Mar 2025 17:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧盟反垄断监管机构仍在讨论罚款规模，预计本月做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfepc3198509.d.html</link>
-            <guid>4073148</guid>
-            <pubDate>Mon, 10 Mar 2025 17:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：苹果(AAPL.O)和Meta Platforms(META.O)可能因涉嫌违反欧盟数字市场法案而面临适度罚款，而非巨额罚款。]]></title>
-            <guid>4073147</guid>
-            <pubDate>Mon, 10 Mar 2025 17:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥沃拉里斯航空公司（Volaris）股价跌超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5975604.d.html</link>
-            <guid>4073146</guid>
-            <pubDate>Mon, 10 Mar 2025 17:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿联酋旨在到2031年将外商直接投资年流入量提升至2400亿迪拉姆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfepc3197893.d.html</link>
-            <guid>4073145</guid>
-            <pubDate>Mon, 10 Mar 2025 17:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会贸易委员东布罗夫斯基斯：地缘政治不确定性正在拖累投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9200722.d.html</link>
-            <guid>4073144</guid>
-            <pubDate>Mon, 10 Mar 2025 17:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威武装部队：周一，在例行行动中，两架挪威F-35战机在国际空域跟踪两架俄罗斯军用飞机。]]></title>
-            <guid>4073142</guid>
-            <pubDate>Mon, 10 Mar 2025 17:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁计划派遣代表团与美国官员会面，应对铜关税挑战】秘鲁计划派遣一个代表团与美国官员会面，此前特朗普政府宣布计划对铜征收关税，这可能会影响到这个南美国家最大的出口产品。该国能源和矿业部长蒙特罗周一对记者表示：“在新的北美政府领导下，游戏规则正在迅速改变。”秘鲁正在寻求“避免因美国利益而实施的某些限制性措施而受到伤害”。蒙特罗没有讨论其他可能受到美国关税影响的秘鲁产品，如蓝莓和鲜食葡萄。蒙特罗称：“秘鲁是美国在商业问题上的一个很好的战略盟友，但不仅仅是对美国来说。”“秘鲁是一个不结盟国家，对所有人的投资和商业开放。我们不致力于特定的地缘政治愿景。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5974804.d.html</link>
-            <guid>4073141</guid>
-            <pubDate>Mon, 10 Mar 2025 17:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元集团主席多诺霍：欧元区经济依然表现出色地具有韧性。关于关税、贸易和安全存在明显的不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenz5974640.d.html</link>
-            <guid>4073140</guid>
-            <pubDate>Mon, 10 Mar 2025 17:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利方面提出2000亿欧元投资计划，以吸引私人资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenx9199984.d.html</link>
-            <guid>4073139</guid>
-            <pubDate>Mon, 10 Mar 2025 17:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：我们每天都在受到攻击，但这次动用了大量资源。可能是一个大型、有组织的团体，或者是一个国家参与其中。]]></title>
-            <guid>4073138</guid>
-            <pubDate>Mon, 10 Mar 2025 17:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桑托斯公司首席执行官：鉴于当前政策，将寻求增加在美国的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenw0206816.d.html</link>
-            <guid>4073136</guid>
-            <pubDate>Mon, 10 Mar 2025 17:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国务卿：美国人质事务特使与哈马斯的直接会晤尚未取得成果】当地时间3月10日，美国国务卿鲁比奥表示，美国总统特朗普的人质事务特使亚当·伯勒尔与巴勒斯坦伊斯兰抵抗运动（哈马斯）就释放加沙被扣押人员举行的直接会晤是“一次性的”，目前“尚未取得成果”。鲁比奥表示，尚未取得成果并不意味着亚当·伯勒尔的尝试是错误的，美国进行人质谈判的主要渠道仍将通过美国中东问题特使威特科夫及其通过卡塔尔开展的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepfenw0206647.d.html</link>
-            <guid>4073135</guid>
-            <pubDate>Mon, 10 Mar 2025 17:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美加贸易战继续加码 加拿大安大略省对输美电力加税25%】加拿大经济第一大省——安大略省政府当地时间3月10日宣布，即日起开始对输美电力征收25%的关税，作为对美国总统特朗普对加拿大商品征收关税的报复措施的一部分。安大略省表示，新征关税将使输往美国的电力每兆瓦时增加约10加元。美国从安大略省输入电力的州包括纽约州、密歇根州和明尼苏达州等北部边境州，共有大约150万客户。安大略省省长道格·福特表示，这些州的家庭或企业每月的电费将增加100加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepeyff3327237.d.html</link>
-            <guid>4073134</guid>
-            <pubDate>Mon, 10 Mar 2025 17:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国议员迈克·艾姆斯伯里宣布辞职，这将引发英格兰北部地区席位的补选。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepeyfc6102734.d.html</link>
-            <guid>4073130</guid>
-            <pubDate>Mon, 10 Mar 2025 17:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：政府不会容忍亲恐怖主义、反犹太或反美活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepeyez9328118.d.html</link>
-            <guid>4073129</guid>
-            <pubDate>Mon, 10 Mar 2025 17:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普就哥伦比亚大学学生被捕一事发表评论：希望美国的高校遵守ICE的指令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepeyfc6101099.d.html</link>
-            <guid>4073125</guid>
-            <pubDate>Mon, 10 Mar 2025 17:07:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
