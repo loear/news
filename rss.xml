@@ -4,11 +4,145 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 19 Mar 2025 21:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 22:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国能源部长赖特：现在是购买石油的好时机。]]></title>
+            <guid>4092722</guid>
+            <pubDate>Wed, 19 Mar 2025 22:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙首席执行官进行游说，争取更多时间逐步关停在委内瑞拉的业务 。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcz8075444.d.html</link>
+            <guid>4092721</guid>
+            <pubDate>Wed, 19 Mar 2025 22:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长赖特：美国拥有运营乌克兰发电厂的强大技术专长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcy0905369.d.html</link>
+            <guid>4092720</guid>
+            <pubDate>Wed, 19 Mar 2025 22:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：对症下药治理股市“小作文”】文章称，当前，多个部门联合打击股市“小作文”，要用好用足这份力量，根治“小作文”乱象，关键还在于对症下药、有的放矢。监管层面，需不断升级更新监管技术，将AI、区块链等应用在谣言内容识别、传播路径追踪等方面，实现穿透式监管，快速定位源头，不给“小作文”留藏身之地；司法层面，要进一步完善相关法律法规，对股市虚假信息作出更精准界定，并细化“扰乱证券市场”“严重后果”等的认定标准，明确信息传播量、市场波动率等量化指标，统一裁判尺度，加强执法落地力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcy0903759.d.html</link>
+            <guid>4092719</guid>
+            <pubDate>Wed, 19 Mar 2025 22:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯南部一油库遭空袭起火 过火面积已达1700平方米】俄罗斯南部一油库遭无人机袭击起火。当地时间3月19日，俄罗斯南部克拉斯诺达尔边疆区紧急情况部门发布消息称，位于该地区的一座油库因无人机残骸坠落，导致起火，过火面积已达1700平方米。该油库目前已停工，无人员伤亡报告。另据乌克兰媒体报道，当天凌晨乌克兰无人机袭击了俄罗斯克拉斯诺达尔边疆区的一座石油库，袭击后油库发生火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcy0903645.d.html</link>
+            <guid>4092718</guid>
+            <pubDate>Wed, 19 Mar 2025 22:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首个端到端强化微调平台发布 支持无服务器和端到端训练方法】今天凌晨，大模型训练、开发平台Predibase发布了首个端到端强化微调平台（RFT）。与传统的监督式微调相比，RFT不依赖大量的标注数据，而是通过奖励和自定义函数来完成持续的强化学习，同时支持无服务器和端到端训练方法，从数据管理、训练模型到应用部署可以在同一个平台全部完成。也就是说，你只需要一个浏览器，设定微调目标、上传数据、就能完成以前非常复杂的大模型微调流程。通过RFT，Predibase在训练过程结合了冷启动监督式微调、强化学习和课程学习，并且只使用了十几个标记数据点。在Kernelbench数据集上进行的基准测试显示，Qwen2.5-Coder-32B-instruct经过强化后，其正确率比DeepSeek-R1和OpenAI的o1高出3倍，比Claude 3.7 Sonnet高出4倍以上，而模型的体量却比这三个小很多。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcw4128822.d.html</link>
+            <guid>4092717</guid>
+            <pubDate>Wed, 19 Mar 2025 22:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：特朗普希望就华盛顿特区的预算案达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcw4128499.d.html</link>
+            <guid>4092716</guid>
+            <pubDate>Wed, 19 Mar 2025 22:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保诚：全年调整后营业利润31.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfzcy0902144.d.html</link>
+            <guid>4092714</guid>
+            <pubDate>Wed, 19 Mar 2025 22:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部表示，法院对丰田子公司日野汽车有限公司（Hino Motors Ltd.）做出判决，因其排放欺诈计划处以超过16亿美元的罚款。]]></title>
+            <guid>4092708</guid>
+            <pubDate>Wed, 19 Mar 2025 21:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基在与特朗普的友好通话中支持能源停火】乌克兰总统泽连斯基同意俄乌双方停止对能源资产的打击。“全面结束战争的第一步可能是停止对能源和其他民用基础设施的打击，”泽连斯基在周三与特朗普通话后在社交媒体上发表声明称。“我支持这一举措，乌克兰证实我们已准备好实施这一举措。”特朗普早些时候与泽连斯基进行了激烈的交锋，他称他们的通话“非常好”，美国高级官员称其“棒极了”。根据国务卿卢比奥和国家安全顾问沃尔兹在通话中发表的声明，特朗普曾一度切断对乌克兰的武器运输和情报共享，他承诺将提供新的支持。据卢比奥和沃尔兹称，特朗普甚至提出帮助运营乌克兰的电力供应和核电设施，并补充说“美国对这些工厂的所有权将是对这些基础设施的最佳保护”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4255859.d.html</link>
+            <guid>4092707</guid>
+            <pubDate>Wed, 19 Mar 2025 21:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大正与欧盟谈判，期望减少对美国国防的依赖。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4254971.d.html</link>
+            <guid>4092703</guid>
+            <pubDate>Wed, 19 Mar 2025 21:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【关税威胁推动抢出口之后 加拿大输美原油降至两年来最低】今年早些时候，为了抢在美国总统特朗普威胁加征关税之前完成出口，大量加拿大原油涌入美国，导致当地库存骤降。如今，美国自加拿大进口石油规模正在显著下滑。美国能源信息署的初步数据显示，上周美国自加拿大进口的原油规模降至313万桶/日，创下2023年3月以来最低水平。同时，Enbridge Inc.表示，下个月不需要在加拿大最大的石油出口管道网络上配给空间，这表明对美原油出口可能继续保持在低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4254768.d.html</link>
+            <guid>4092702</guid>
+            <pubDate>Wed, 19 Mar 2025 21:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰去年第四季度经济增长0.7%，摆脱衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4254673.d.html</link>
+            <guid>4092701</guid>
+            <pubDate>Wed, 19 Mar 2025 21:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第四季度GDP同比下降1.1%，预估下降1.4%；第四季度GDP环比增长0.7%，预估增长0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvw5210830.d.html</link>
+            <guid>4092700</guid>
+            <pubDate>Wed, 19 Mar 2025 21:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：目前尚不清楚基础设施停火的具体监测方式，相关细节需要进一步达成协议。如果俄罗斯违反停火协议，乌克兰将采取相应的回应。美国总统特朗普理解乌克兰不会承认被占领的土地为俄罗斯的领土。]]></title>
+            <guid>4092687</guid>
+            <pubDate>Wed, 19 Mar 2025 21:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：俄罗斯总统普京不希望在乌克兰军队驻扎在俄罗斯库尔斯克地区的情况下达成停火协议。希望美国总统特朗普能够访问乌克兰，这将有助于其达成和平协议。目前俄罗斯无法在哈尔科夫和扎波罗热战线进行重大攻势。]]></title>
+            <guid>4092686</guid>
+            <pubDate>Wed, 19 Mar 2025 21:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基：与特朗普讨论扎波罗热核电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwc8198322.d.html</link>
+            <guid>4092684</guid>
+            <pubDate>Wed, 19 Mar 2025 21:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基称特朗普在通话中没有施加压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4251238.d.html</link>
+            <guid>4092683</guid>
+            <pubDate>Wed, 19 Mar 2025 21:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰准备停火基础设施项目清单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwa1025761.d.html</link>
+            <guid>4092682</guid>
+            <pubDate>Wed, 19 Mar 2025 21:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：刚与法国总统马克龙通话，并计划于下周访问法国。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4251158.d.html</link>
+            <guid>4092680</guid>
+            <pubDate>Wed, 19 Mar 2025 21:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基：没有对部分停火提出额外要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4251136.d.html</link>
+            <guid>4092679</guid>
+            <pubDate>Wed, 19 Mar 2025 21:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰与美国官员可能在本周五、周六或周日会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwc8198225.d.html</link>
+            <guid>4092678</guid>
+            <pubDate>Wed, 19 Mar 2025 21:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达CEO黄仁勋：公司尚未收到收购英特尔股份的请求】英伟达CEO黄仁勋周三表示，该公司尚未收到任何收购英特尔股份的接洽。在加州圣何塞举行的英伟达年度开发者大会新闻发布会上，黄仁勋被问及英伟达是否是收购英特尔财团的一部分。“没有人邀请我们加入财团，”黄仁勋说，“没有人邀请我。也许其他人参与了，但我不知道。可能会有一个聚会，但我没有被邀请。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwc8197860.d.html</link>
+            <guid>4092677</guid>
+            <pubDate>Wed, 19 Mar 2025 21:24:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国能源部长赖特：关税对话仍在进行中。]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwa1023883.d.html</link>
@@ -166,112 +300,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvy4236771.d.html</link>
             <guid>4092619</guid>
             <pubDate>Wed, 19 Mar 2025 19:58:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩总统会见德国外长 讨论安全局势等问题】据当地时间3月19日，黎巴嫩总统奥恩在巴卜达宫（总统府）会见了德国外交部长安娜莱娜·贝尔伯克，双方讨论了黎巴嫩政治和安全局势等重要问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuvw5199811.d.html</link>
-            <guid>4092616</guid>
-            <pubDate>Wed, 19 Mar 2025 19:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯驻摩尔多瓦大使馆被封 俄外交部提出严正抗议】当地时间3月19日，俄罗斯外交部表示，俄方就驻摩尔多瓦外交使馆被封锁一事向摩尔多瓦驻俄大使提出了严正抗议，并要求迅速解除挑衅式的封锁。据悉，19日，摩尔多瓦警方接到所谓消息称俄罗斯驻摩尔多瓦大使馆内有炸弹，随后俄使馆被完全封锁数小时。俄外交部称，摩尔多瓦方面公然违反《维也纳外交关系公约》。目前，封锁已被解除。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwc8189684.d.html</link>
-            <guid>4092615</guid>
-            <pubDate>Wed, 19 Mar 2025 19:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海关与边境保护局就先前宣布的加拿大关税发布通知，该指引适用于3月2日至3月6日的订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfuwc8189660.d.html</link>
-            <guid>4092614</guid>
-            <pubDate>Wed, 19 Mar 2025 19:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷国会支持总统米莱的法令，下议院批准政府与国际货币基金组织展开谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqpy5329646.d.html</link>
-            <guid>4092608</guid>
-            <pubDate>Wed, 19 Mar 2025 19:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德宏观信贷研究主管Lynam：准备应对部分外国对美国信贷的需求回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1139948.d.html</link>
-            <guid>4092607</guid>
-            <pubDate>Wed, 19 Mar 2025 19:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：03月20日03时35分在云南昭通市巧家县（北纬27.01度，东经103.42度）发生3.0级地震，震源深度10千米。]]></title>
-            <guid>4092606</guid>
-            <pubDate>Wed, 19 Mar 2025 19:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德宏观信贷研究主管Lynam：市场必须为许多政策结果做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqpy5329034.d.html</link>
-            <guid>4092604</guid>
-            <pubDate>Wed, 19 Mar 2025 19:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美军空袭也门首都萨那 已致9人受伤】当地时间3月19日，胡塞武装控制的卫生与环境部门表示，美国对也门首都萨那的民用目标发动空袭，导致9名平民受伤，其中包括两名儿童。据胡塞武装媒体证实，当地时间19日晚间，美军再次空袭了也门首都萨那和北部萨达省萨达市的周边地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqpy5328319.d.html</link>
-            <guid>4092600</guid>
-            <pubDate>Wed, 19 Mar 2025 19:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔石油公司完成维修后重启输油管道】据厄瓜多尔石油公司声明，该公司在停运6天后于周三上午 9:19 重启了SOTE原油管道。这条管道将Oriente原油运输到Balao码头进行出口。SOTE管道于周四因泥石流和漏油而关闭]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqpy5328239.d.html</link>
-            <guid>4092597</guid>
-            <pubDate>Wed, 19 Mar 2025 19:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国中情局总部大楼外一男子持枪发出威胁】美国中央情报局官员证实，当地时间19日上午，一名男子拔出手枪并指向位于弗吉尼亚州的美国中央情报局总部，并发出威胁。这一威胁促使大量警力被部署到大楼外，周边道路也被封锁。目前暂未发生枪击事件，也没有人员伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1137798.d.html</link>
-            <guid>4092594</guid>
-            <pubDate>Wed, 19 Mar 2025 19:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克公司顶级战略和传播高管离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1137753.d.html</link>
-            <guid>4092593</guid>
-            <pubDate>Wed, 19 Mar 2025 19:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：鲍威尔似乎倾向于永久放缓缩表步伐】市场分析师克里斯表示，鲍威尔在谈及今日关于缩表的决定时表示：“我们研究了暂停缩表和放缓缩表，但（成员们）非常强烈地支持放缓缩表。”此外，鲍威尔没有直接回答放缓缩表速度是否会是永久性的问题，但他似乎确实倾向于这是一个永久性的变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1137576.d.html</link>
-            <guid>4092592</guid>
-            <pubDate>Wed, 19 Mar 2025 19:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国煤炭公司XCOAL和西弗吉尼亚煤炭协会称，美国拟议的港口收费正在扰乱煤炭出口。]]></title>
-            <guid>4092588</guid>
-            <pubDate>Wed, 19 Mar 2025 19:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易商称，由于拟议的运费，美国谷物出口商无法确保5月及之后的货运运输。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqa4361716.d.html</link>
-            <guid>4092586</guid>
-            <pubDate>Wed, 19 Mar 2025 19:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列议会通过重新任命本-格维尔为国家安全部长的决定】当地时间19日晚间，以色列议会投票通过重新任命本-格维尔为以色列国家安全部长的决定，同时通过的还有与本-格维尔同属犹太力量党的两位议员的任命决定，其中阿米哈伊·埃利亚胡被任命为遗产事务部长，伊扎克·瓦塞尔劳夫被任命为内盖夫和加利利发展部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1136173.d.html</link>
-            <guid>4092585</guid>
-            <pubDate>Wed, 19 Mar 2025 19:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：国库一般账户（TGA）资金流动让我们开始思考这个问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqa4361100.d.html</link>
-            <guid>4092583</guid>
-            <pubDate>Wed, 19 Mar 2025 19:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：对资产负债表决策有相当强有力的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1135540.d.html</link>
-            <guid>4092580</guid>
-            <pubDate>Wed, 19 Mar 2025 19:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行宣布裁员2000人 并关闭大量支行】德意志银行当地时间3月19日宣布，将在今年进一步缩减支行数量，并裁减约2000个工作岗位，以降低成本。德意志银行首席执行官克里斯蒂安·泽温当天在一场会议上表示，银行计划关闭“相当数量”的支行，并已为裁员成本做好资金准备。近年来，该行已多次缩减网点，以削减运营开支，此次裁员进一步表明其成本控制战略的延续。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-20/detail-ineqfqqe1135265.d.html</link>
-            <guid>4092575</guid>
-            <pubDate>Wed, 19 Mar 2025 19:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
