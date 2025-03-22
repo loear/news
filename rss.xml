@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Mar 2025 20:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 21:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【胡塞武装：美军5次空袭也门马里卜省】据胡塞武装消息，当地时间22日晚间，美军对也门马里卜省进行了5次空袭。胡塞武装当天稍早前称，美军当晚对也门荷台达省进行了3次空袭，空袭目标包括荷台达国际机场。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqshv7945271.d.html</link>
+            <guid>4098235</guid>
+            <pubDate>Sat, 22 Mar 2025 21:15:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【胡塞武装：美军三次空袭也门荷台达省】据胡塞武装消息，当地时间22日晚间，美军对也门荷台达省进行了三次空袭，空袭目标包括荷台达国际机场。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmza9430918.d.html</link>
@@ -464,18 +470,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqvi8505501.d.html</link>
             <guid>4098134</guid>
             <pubDate>Sat, 22 Mar 2025 11:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部部长助理苗得雨会见巴西驻华大使高望】2025年3月21日，外交部部长助理苗得雨应约会见巴西驻华大使高望。苗得雨表示，中方愿同巴方共同落实好两国元首重要共识，积极推动中巴命运共同体建设，加快推进共建“一带一路”倡议同巴西发展战略对接各项工作，为深化中巴、中拉合作，促进全球南方共同发展持续贡献力量。高望表示，当前国际形势下，巴中关系的战略性影响日益凸显。巴方愿深化同中方战略协作和各领域务实合作，增进两国人民相知相亲，推动两国关系不断迈上新台阶。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqvh1730169.d.html</link>
-            <guid>4098133</guid>
-            <pubDate>Sat, 22 Mar 2025 11:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：随着乌克兰持续对俄罗斯能源设施进行打击，俄罗斯保留对称回应的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqve2761904.d.html</link>
-            <guid>4098132</guid>
-            <pubDate>Sat, 22 Mar 2025 11:11:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
