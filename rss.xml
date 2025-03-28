@@ -4,20 +4,68 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 28 Mar 2025 21:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 22:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国上诉法庭撤销禁止埃隆·马斯克（Elon Musk）及其领导的政府效率部门（DOGE）进一步削减美国国际开发署（USAID）预算的命令。]]></title>
-            <guid>4110771</guid>
-            <pubDate>Fri, 28 Mar 2025 21:23:26 GMT</pubDate>
+            <title><![CDATA[【经济日报金观平：大力发展服务型制造】今年的《政府工作报告》提出，深化先进制造业和现代服务业融合发展试点，加快发展服务型制造。这一部署，深刻把握了全球制造业发展新趋势，明确了我国制造业转型升级的关键方向，对推动制造业高质量发展、建设现代化产业体系具有重要意义。大力发展服务型制造，是建设制造强国的重要路径。一方面，服务型制造有助于推动制造业向价值链高端攀升。通过增加服务环节，有助于企业突破传统制造瓶颈，更好满足个性化、多样化需求，提升产品附加值，增强市场竞争力。另一方面，服务型制造能挖掘内需潜力，降低制造业对资源、能源等要素的投入依赖，减少环境污染，促进制造业创新发展。服务环节实现生产方和使用方的有效互动，将引导企业加快技术创新与产品研发，加速科技成果转化应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexa9783587.d.html</link>
+            <guid>4110784</guid>
+            <pubDate>Fri, 28 Mar 2025 22:10:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马斯克：xAI已经收购X，按全股票交易方式进行。xAI价值800亿美元，X为330亿美元。]]></title>
-            <guid>4110770</guid>
-            <pubDate>Fri, 28 Mar 2025 21:22:49 GMT</pubDate>
+            <title><![CDATA[【中央气象台3月29日06时解除寒潮蓝色预警】较强冷空气对我国的影响趋于结束，因此解除寒潮蓝色预警。但3月29日08时至3月30日08时，广东中南部、广西中南部、海南岛北部等地部分地区将有4～6℃降温，其中，广西东南部、广东西南部等地部分地区降温可达8～10℃。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhewz0816886.d.html</link>
+            <guid>4110782</guid>
+            <pubDate>Fri, 28 Mar 2025 22:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台3月29日06时继续发布大风蓝色预警】中央气象台3月29日06时继续发布大风蓝色预警。预计，3月29日08时至30日08时，内蒙古中东部、华北北部、西藏北部和中西部、青海南部和西部、甘肃西部、川西高原北部、华南沿海、台湾岛等地有5~6级风，阵风7~8级，其中，西藏北部、青海西南部等地部分地区有7~8级、阵风9~10级的大风；东海大部海域、台湾海峡、台湾以东洋面、巴士海峡、南海北部海域、北部湾将有7~8级、阵风9级的大风，其中台湾海峡部分海域风力可达9级、阵风10级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexa9780407.d.html</link>
+            <guid>4110780</guid>
+            <pubDate>Fri, 28 Mar 2025 21:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：英国春季预算报告不会显著改变我们对其未来几年公共债务仍将处于高位的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexa9779804.d.html</link>
+            <guid>4110779</guid>
+            <pubDate>Fri, 28 Mar 2025 21:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：我们对2025年英国赤字的预测大致与英国预算责任办公室（OBR）的预测一致，但我们预计未来几年财政整顿的步伐将会放缓。]]></title>
+            <guid>4110778</guid>
+            <pubDate>Fri, 28 Mar 2025 21:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：英国财政大臣声明中的措施不会改变我们对英国信用质量以及财政整固前景艰难的看法。]]></title>
+            <guid>4110777</guid>
+            <pubDate>Fri, 28 Mar 2025 21:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：英国为恢复预算空间所采取的行动反映出艰难的财政前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexa9779165.d.html</link>
+            <guid>4110776</guid>
+            <pubDate>Fri, 28 Mar 2025 21:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家航空航天局（NASA）授予SpaceX公司 “星舰”发射服务合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexa9774648.d.html</link>
+            <guid>4110774</guid>
+            <pubDate>Fri, 28 Mar 2025 21:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官表示，他倾向于暂时阻止特朗普针对WilmerHale律师事务所的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexe6548224.d.html</link>
+            <guid>4110773</guid>
+            <pubDate>Fri, 28 Mar 2025 21:35:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达支持的AI公司CoreWeave上市首日破发 分析师称其增长或不可持续】由英伟达支持的CoreWeave公司上周五的股票开盘价低于其40美元的首次公开募股发行价，之后回升并以平盘报收。不过，此次缩减规模的首次公开募股为投资者对人工智能基础设施类股票的需求发出了谨慎信号。D.A.Davidson的分析师Gil Luria在给客户的报告中写道：“CoreWeave是新兴的新型云服务类别中规模最大的公司，但我们认为，它在很大程度上是微软转移非核心算力负载的工具，也是英伟达将一小笔投资转化为一个非常大客户的途径。”Luria补充称，“只要对人工智能的需求继续呈指数级增长”，CoreWeave的商业模式就能继续运转，但如果微软不再需要额外的云服务容量，或者OpenAI无法按照承诺向CoreWeave增加支出，那么CoreWeave的增长可能会被证明是不可持续的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhewz0811366.d.html</link>
+            <guid>4110772</guid>
+            <pubDate>Fri, 28 Mar 2025 21:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国上诉法院解除禁止马斯克和政府效率部进一步削减美国国际开发署经费的命令。]]></title>
@@ -229,12 +277,6 @@
             <pubDate>Fri, 28 Mar 2025 20:02:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CoreWeave美国IPO首日收平，报40美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhexe6522126.d.html</link>
-            <guid>4110717</guid>
-            <pubDate>Fri, 28 Mar 2025 20:02:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wolfspeed收跌52%，创美国IPO以来最差单日表现。]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerhewx6680234.d.html</link>
             <guid>4110716</guid>
@@ -349,48 +391,6 @@
             <title><![CDATA[DownDetector：用户报告显示，截至美国东部时间下午2点46分，美国有53793名用户报告X出现问题。]]></title>
             <guid>4110681</guid>
             <pubDate>Fri, 28 Mar 2025 19:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷1月份工资环比增长2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyre9855795.d.html</link>
-            <guid>4110678</guid>
-            <pubDate>Fri, 28 Mar 2025 19:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普赦免了加密货币交易所BITMEX的三位联合创始人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyrh6627252.d.html</link>
-            <guid>4110676</guid>
-            <pubDate>Fri, 28 Mar 2025 18:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保时捷3月28日买入了71,384欧元的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyre9850045.d.html</link>
-            <guid>4110675</guid>
-            <pubDate>Fri, 28 Mar 2025 18:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人才缺口超百万 新能源汽车售后服务人才成“香饽饽”】近年来，我国新能源汽车发展进入快车道，但维修难问题也日益凸显。最新数据显示，截至2024年底，全国新能源汽车保有量达3140万辆，但新能源汽车维修企业不到2万家，从事维修的技能人员不足10万人。买车容易修车难，已经成为新能源汽车售后的核心问题。深圳市汽车维修行业协会会长廖绍平表示：深圳市新能源汽车超过120万辆，但是新能源从业人员持有技术证的可能不到两千。目前来说的缺口非常大，在两万多人左右。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyrh6619252.d.html</link>
-            <guid>4110674</guid>
-            <pubDate>Fri, 28 Mar 2025 18:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副总统万斯：我们认为格陵兰人会选择从丹麦独立出来，然后我们会进行对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyrh6618228.d.html</link>
-            <guid>4110672</guid>
-            <pubDate>Fri, 28 Mar 2025 18:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南省气象台发布海上雷雨大风黄色预警信号】海南省气象台2025年03月29日02时31分发布海上雷雨大风黄色预警信号：北部湾北部海面03时到09时可能出现雷雨大风天气，风力达7～9级，并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyre9843183.d.html</link>
-            <guid>4110671</guid>
-            <pubDate>Fri, 28 Mar 2025 18:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副总统万斯：格陵兰岛最终将与美国建立合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-29/detail-inerfyqz6794525.d.html</link>
-            <guid>4110670</guid>
-            <pubDate>Fri, 28 Mar 2025 18:34:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
