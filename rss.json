@@ -6,6 +6,144 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4125311,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwmz1121385.d.html",
+            "title": "市场消息：政府效率部门的工作人员目前正在和平队总部工作。",
+            "date_modified": "2025-04-04T19:19:36.000Z"
+        },
+        {
+            "id": 4125300,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnh4111140.d.html",
+            "title": "据知情人士透露，特斯拉软件工程副总裁David Lau离职。",
+            "date_modified": "2025-04-04T19:13:15.000Z"
+        },
+        {
+            "id": 4125299,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6853991.d.html",
+            "title": "市场消息：法国总统马克龙将担任欧洲与普京进行俄乌停火谈判的关键人物。",
+            "date_modified": "2025-04-04T19:13:10.000Z"
+        },
+        {
+            "id": 4125298,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6853656.d.html",
+            "title": "社交交易平台eToro Group考虑推迟美股IPO路演。",
+            "date_modified": "2025-04-04T19:11:47.000Z"
+        },
+        {
+            "id": 4125297,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6853454.d.html",
+            "title": "【泽连斯基：乌军仍在库尔斯克州坚守】乌克兰总统泽连斯基4月4日接受媒体采访时表示，乌军在库尔斯克州牵制着约6.4万俄军，虽然俄方企图将乌军完全赶出库尔斯克州，但乌军仍然坚守在该地区，也没有乌军部队被包围。泽连斯基强调，除库尔斯克州以外，乌军还在其他（俄罗斯）地区作战。俄方对此暂无回应。",
+            "date_modified": "2025-04-04T19:10:58.000Z"
+        },
+        {
+            "id": 4125295,
+            "content_html": "",
+            "title": "谷歌：宣布Sec-Gemini V1模型，这是一个新的实验性人工智能模型，旨在推动网络安全人工智能的前沿发展。",
+            "date_modified": "2025-04-04T19:07:13.000Z"
+        },
+        {
+            "id": 4125294,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0077857.d.html",
+            "title": "【联合国呼吁采取行动保护伊拉克儿童免受地雷威胁】联合国排雷行动处和联合国儿童基金会4日呼吁立即采取行动，保护伊拉克儿童免受地雷和战争遗留爆炸物的威胁。4月4日是“国际提高地雷意识和协助地雷行动日”。联合国儿童基金会伊拉克办事处当天发表声明说，地雷和战争遗留爆炸物仍在持续威胁伊拉克人民的生命，儿童是最易受伤害的群体之一。联合国官方报告显示，过去5年内至少有314名伊拉克儿童因爆炸物死伤，伊拉克目前仍有超过2700平方公里的土地受地雷和爆炸物“污染”。联合国排雷行动处和联合国儿童基金会呼吁采取紧急行动，保护伊拉克最脆弱人群、尤其是儿童的生命，使他们免受地雷和战争遗留爆炸物带来的致命威胁。",
+            "date_modified": "2025-04-04T19:06:54.000Z"
+        },
+        {
+            "id": 4125292,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0076812.d.html",
+            "title": "【 英国首相重申不会急于对特朗普的关税政策采取报复措施 】当地时间4月4日，英国首相府发言人表示，当天英国首相斯塔默分别与澳大利亚总理安东尼·阿尔巴尼斯和意大利总理梅洛尼通电话。斯塔默重申，英国不会急于对特朗普的关税政策采取报复措施。该发言人还表示，英国、意大利和澳大利亚一致认为贸易战“不符合任何人的利益”。",
+            "date_modified": "2025-04-04T19:03:06.000Z"
+        },
+        {
+            "id": 4125289,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0075966.d.html",
+            "title": "微软首席执行官表示，微软将根据需求持续调整人工智能方面的支出。",
+            "date_modified": "2025-04-04T19:00:07.000Z"
+        },
+        {
+            "id": 4125288,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6850458.d.html",
+            "title": "【俄方任命的赫尔松地区行政长官：俄军挫败乌军建立港口企图】俄罗斯任命的赫尔松地区行政长官萨利多表示，俄军挫败了乌军在尼古拉耶夫建立港口的企图。尼古拉耶夫位于赫尔松地区以西，通过在流经该地的南布格河可以直通黑海。萨利多称俄军火力已经能够覆盖至尼古拉耶夫，发现并破坏了乌军在尼古拉耶夫建设海港的企图。萨利多强调，俄军不会让任何一艘船只，不管是军舰还是商船，从尼古拉耶夫驶入黑海。乌方对此暂无回应。",
+            "date_modified": "2025-04-04T18:59:58.000Z"
+        },
+        {
+            "id": 4125287,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6850161.d.html",
+            "title": "美国国务院：美国国务卿鲁比奥与比利时首相会晤，讨论了北约国防开支等优先事项。",
+            "date_modified": "2025-04-04T18:59:00.000Z"
+        },
+        {
+            "id": 4125285,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6849804.d.html",
+            "title": "【欧盟贸易专员与美国商务部长卢特尼克通电话】欧盟贸易专员周五与美国贸易代表Jamieson Greer和商务部长卢特尼克举行了两个小时的视频通话，这是欧盟在成为美国20%关税目标后，为启动与特朗普政府谈判而做出的努力的一部分。欧盟贸易专员Maros Sefcovic表示，他已告知Greer和卢特尼克，美国关税具有破坏性，而且不合理。Sefcovic在社交媒体平台X上发布的一篇关于此次通话的帖子中写道，欧盟与美国贸易关系“需要一种新思路”。他补充说，欧盟“致力于进行有意义的谈判，但也准备好了捍卫我们的利益”。他表示，双方将保持联系。",
+            "date_modified": "2025-04-04T18:57:56.000Z"
+        },
+        {
+            "id": 4125282,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6849235.d.html",
+            "title": "【特朗普关税冲击蔓延至美股IPO市场 多家公司上市计划生变】美国IPO即将复苏的一线希望已经消失。据知情人士透露，票务市场StubHub和金融科技公司Klarna推迟了原定于下周开始的IPO路演。其中一些人说，另一家金融科技公司Chime正在推迟向监管机构提交公开财务报告，也推迟了IPO。知情人士说，虚拟物理治疗公司Hinge Health正在关注市场，预计将于4月底上市。加密货币公司Circle已经接近上市的下一步，但现在正在焦急地观望，然后再决定怎么做。此外，有报道称医疗技术公司Medline推迟美国IPO。周四和周五的股市暴跌，对等待上市的公司关上了大门。过去三年，美国IPO市场经历了一段艰难的时期，但许多银行家和律师希望，2025年将是IPO回归正常步伐的一年。相反，全球贸易战正在搅动股市，让投资者和高管们都感到不安。",
+            "date_modified": "2025-04-04T18:56:23.000Z"
+        },
+        {
+            "id": 4125278,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6848825.d.html",
+            "title": "微软首席执行官认为与OpenAI的合作是长期且双赢的。",
+            "date_modified": "2025-04-04T18:55:06.000Z"
+        },
+        {
+            "id": 4125275,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6848116.d.html",
+            "title": "美国法官命令特朗普政府接回一名被错误驱逐到萨尔瓦多的马里兰男子。",
+            "date_modified": "2025-04-04T18:52:36.000Z"
+        },
+        {
+            "id": 4125273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwne6848027.d.html",
+            "title": "微软首席执行官：微软将逐步适应地缘政治和经济变化。",
+            "date_modified": "2025-04-04T18:52:19.000Z"
+        },
+        {
+            "id": 4125272,
+            "content_html": "",
+            "title": "法庭文件显示：500家律师事务所加入法庭陈情，支持珀金斯·柯伊律师事务所（Perkins Coie）对特朗普政府提起的诉讼。",
+            "date_modified": "2025-04-04T18:48:17.000Z"
+        },
+        {
+            "id": 4125271,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0071893.d.html",
+            "title": "巴拿马政府表示，正在分析特朗普的关税，并寻求将巴拿马排除在外。",
+            "date_modified": "2025-04-04T18:47:06.000Z"
+        },
+        {
+            "id": 4125269,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0070641.d.html",
+            "title": "墨西哥主要股票指数跌幅扩大至5%。",
+            "date_modified": "2025-04-04T18:42:54.000Z"
+        },
+        {
+            "id": 4125268,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwnc0069368.d.html",
+            "title": "【泽连斯基：俄罗斯无人机周五袭击了赫尔松的热电厂】乌克兰总统泽连斯基表示，俄罗斯袭击了乌克兰赫尔松的一个能源设施，“尽管根据俄罗斯对美国的承诺，该能源设施不得遭受任何攻击。”泽连斯基补充称俄罗斯无人机周五在哈尔科夫造成5人死亡，34人受伤。",
+            "date_modified": "2025-04-04T18:38:58.000Z"
+        },
+        {
             "id": 4125260,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzwmz1113889.d.html",
@@ -311,95 +449,6 @@
             "content_html": "",
             "title": "乌克兰总统泽连斯基：土耳其可以在为乌克兰提供安全保障方面发挥“非常重要”的作用，已与土耳其总统埃尔多安讨论过此事。",
             "date_modified": "2025-04-04T17:30:28.000Z"
-        },
-        {
-            "id": 4125191,
-            "content_html": "",
-            "title": "乌克兰总统泽连斯基：除非俄罗斯遵守无条件停火协议，否则乌克兰没有与其进行直接谈判的意义。",
-            "date_modified": "2025-04-04T17:30:16.000Z"
-        },
-        {
-            "id": 4125189,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsek4225047.d.html",
-            "title": "【福特汽车表示正在与特朗普政府合作，努力创造美国就业机会】福特汽车的一位高管表示，该公司正与特朗普政府合作，在美国创造更多就业机会。Ford Pro的临时负责人Andrew Frick周五表示：“我们正在与政府合作，以明确哪些零部件的生产可以在美国增加就业岗位。”由于福特汽车在美国销售的产品大部分都在美国本土生产，因此受关税的影响较小。包括通用汽车和吉普制造商Stellantis在内的其他汽车制造商在海外的业务较多。福特本周早些时候表示，将向公众提供员工折扣优惠。Frick说：“在接下来的60天里，我们将学到很多东西，整个行业都将进行调整，我们认为我们的处境非常有利，相对而言。”",
-            "date_modified": "2025-04-04T17:27:37.000Z"
-        },
-        {
-            "id": 4125188,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsef0179711.d.html",
-            "title": "国际货币基金组织（IMF）再次就阿根廷问题进行商讨，因为预付款项引发争议。",
-            "date_modified": "2025-04-04T17:25:45.000Z"
-        },
-        {
-            "id": 4125183,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsek4224218.d.html",
-            "title": "在英国、澳大利亚和意大利总理就应对美国关税的方法进行会谈之后，美国股指扩大跌幅。",
-            "date_modified": "2025-04-04T17:20:53.000Z"
-        },
-        {
-            "id": 4125182,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsek4223917.d.html",
-            "title": "“债券天王”比尔·格罗斯：下周可能会带来机会。",
-            "date_modified": "2025-04-04T17:18:51.000Z"
-        },
-        {
-            "id": 4125181,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsek4223845.d.html",
-            "title": "市场资讯：美国法官叫停了美国卫生与公众服务部削减110亿美元公共卫生拨款的计划。",
-            "date_modified": "2025-04-04T17:18:25.000Z"
-        },
-        {
-            "id": 4125175,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsec1232779.d.html",
-            "title": "英国首相斯塔默：（关于美国关税）我们将继续准备工作，而不是急于行事。",
-            "date_modified": "2025-04-04T17:15:00.000Z"
-        },
-        {
-            "id": 4125174,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsef0176602.d.html",
-            "title": "谷歌：与英伟达和HiddenLayer合作，推出我们的模型签名库的首个稳定版本。",
-            "date_modified": "2025-04-04T17:14:34.000Z"
-        },
-        {
-            "id": 4125173,
-            "content_html": "",
-            "title": "乌克兰总统泽连斯基：俄罗斯的一枚导弹击中了一个普通的城市，直接击中了住宅区的一条街道。截至目前，已确认14人死亡，其中包括6名儿童。俄罗斯不想停火，我们看到了这一点。",
-            "date_modified": "2025-04-04T17:14:19.000Z"
-        },
-        {
-            "id": 4125172,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsef0176408.d.html",
-            "title": "白宫经济顾问委员会主席Miran：特朗普正在为经济繁荣奠定基础，市场将看到。",
-            "date_modified": "2025-04-04T17:13:52.000Z"
-        },
-        {
-            "id": 4125168,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsec1232131.d.html",
-            "title": "贝克休斯：美国天然气钻井平台数量减少7个，为2023年5月以来单周最大降幅。",
-            "date_modified": "2025-04-04T17:10:47.000Z"
-        },
-        {
-            "id": 4125167,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsec1232083.d.html",
-            "title": "市场消息：英国首相将与澳大利亚总理和意大利总理通电话，讨论美国关税问题。",
-            "date_modified": "2025-04-04T17:10:29.000Z"
-        },
-        {
-            "id": 4125166,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-05/detail-inerzsek4222470.d.html",
-            "title": "白宫经济顾问委员会主席Miran：进入衰退需要发生巨大的变化。",
-            "date_modified": "2025-04-04T17:10:16.000Z"
         }
     ]
 }
