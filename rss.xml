@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 06 Apr 2025 16:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 17:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国当选总理Friedrich Merz的关键盟友Thorsten Frei：“相信”组阁磋商很快就会结束。]]></title>
+            <guid>4127466</guid>
+            <pubDate>Sun, 06 Apr 2025 17:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【私募机构调研热情不断攀升】今年以来，私募机构对A股市场的调研热情持续攀升。据私募排排网最新统计数据，3月份，共有923家私募机构调研了209家A股上市公司，覆盖26个申万一级行业，调研总次数达3513次，较1月份的1694次增长107.38%，环比2月份的3193次增长10.02%。此外，股票私募仓位持续攀升反映机构对后市乐观预期。2025年以来，私募仓位指数从1月份的73.54%快速上升至2月份的76.97%，再到3月下旬的77.04%，虽然近期市场震荡但仓位仍稳中有升，显示私募机构布局意愿强烈。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-07/detail-ineshekm5061153.d.html</link>
+            <guid>4127460</guid>
+            <pubDate>Sun, 06 Apr 2025 17:00:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美官员：对等关税将准时生效 “企鹅岛”也不例外】当地时间4月6日，美国商务部部长霍华德·卢特尼克在接受美国哥伦比亚广播公司（CBS）的采访时表示，美国不会推迟征收关税，“对等关税”将于4月9日生效，并会持续数天。此外，卢特尼克说，美国必须将那些企鹅“居住”的无人岛屿纳入加征关税的范畴，以防止某些国家试图钻空子。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-07/detail-ineshekm5054416.d.html</link>
@@ -446,18 +457,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-06/detail-inesfpnq2300388.d.html</link>
             <guid>4127227</guid>
             <pubDate>Sun, 06 Apr 2025 09:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【莲花控股：2024年净利润2.07亿元，同比增长59.12%】莲花控股公告，2024年度实现营业收入26.59亿元，同比增长26.55%；营业利润2.86亿元，同比增长43.77%；利润总额2.85亿元，同比增长66.79%；归属于上市公司股东的净利润2.07亿元，同比增长59.12%；归属于上市公司股东的扣除非经常性损益的净利润2.07亿元，同比增长75.89%；基本每股收益0.12元，同比增长71.43%；加权平均净资产收益率12.38%，增加3.59个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-06/detail-inesfpnq2300029.d.html</link>
-            <guid>4127226</guid>
-            <pubDate>Sun, 06 Apr 2025 09:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朝鲜时隔六年再办国际马拉松】当地时间4月6日，第31届平壤国际马拉松赛在朝鲜举行。这是朝鲜时隔六年再次办赛。据朝鲜媒体报道，参赛者包括来自中国、罗马尼亚等国家的外国选手。（CGTN记者团）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-06/detail-inesfpnt5391409.d.html</link>
-            <guid>4127224</guid>
-            <pubDate>Sun, 06 Apr 2025 09:33:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
