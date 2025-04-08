@@ -6,6 +6,143 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4132823,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqn4633219.d.html",
+            "title": "美国白宫：特朗普预计关税将生效。",
+            "date_modified": "2025-04-08T17:24:25.000Z"
+        },
+        {
+            "id": 4132822,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqi3415473.d.html",
+            "title": "美国白宫：特朗普相信美国有能力制造iPhone。",
+            "date_modified": "2025-04-08T17:24:02.000Z"
+        },
+        {
+            "id": 4132821,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0183038.d.html",
+            "title": "美国白宫：特朗普将与任何主动来电的国家对话。",
+            "date_modified": "2025-04-08T17:23:27.000Z"
+        },
+        {
+            "id": 4132820,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqi3414484.d.html",
+            "title": "加拿大总理马克・卡尼：美国最近对加拿大软木木材征收的关税是不合理且错误的。",
+            "date_modified": "2025-04-08T17:20:09.000Z"
+        },
+        {
+            "id": 4132819,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0182560.d.html",
+            "title": "美国白宫：针对每个国家，所有选项（都）在考虑范围内。特朗普专注于确保交易对美国人民有利。",
+            "date_modified": "2025-04-08T17:19:50.000Z"
+        },
+        {
+            "id": 4132818,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqi3414230.d.html",
+            "title": "美国白宫：在谈判达成协议期间，对等关税将继续生效。",
+            "date_modified": "2025-04-08T17:19:17.000Z"
+        },
+        {
+            "id": 4132817,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqf6639289.d.html",
+            "title": "美国白宫：美国总统特朗普周二早晨与贸易团队会面，指示团队与每个国家达成定制的贸易协议。",
+            "date_modified": "2025-04-08T17:17:44.000Z"
+        },
+        {
+            "id": 4132814,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqi3412992.d.html",
+            "title": "【古特雷斯重申联合国立场：贸易战没有赢家】当地时间4月8日，在回答记者提问时，联合国秘书长古特雷斯重申联合国立场，贸易战没有赢家。古特雷斯表示，贸易战极其负面，没有人能从中获胜，大家往往都是输家。古特雷斯说，尤其担心最脆弱的发展中国家，因为对它们来说，影响将会更加严重。古特雷斯表示，他希望不会发生经济衰退，因为一旦衰退，其后果将是灾难性的，尤其会严重打击全球最贫困的人群。（央视新闻）",
+            "date_modified": "2025-04-08T17:14:46.000Z"
+        },
+        {
+            "id": 4132812,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqn4631824.d.html",
+            "title": "美国白宫：如果交易有利于美国工人并解决贸易逆差问题，就会达成交易。",
+            "date_modified": "2025-04-08T17:13:40.000Z"
+        },
+        {
+            "id": 4132810,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0181576.d.html",
+            "title": "美国白宫：近70个国家已主动开始就美国关税问题进行谈判。",
+            "date_modified": "2025-04-08T17:12:47.000Z"
+        },
+        {
+            "id": 4132809,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqf6637772.d.html",
+            "title": "美国白宫：以色列总理内塔尼亚胡承诺消除美国的贸易赤字。",
+            "date_modified": "2025-04-08T17:12:30.000Z"
+        },
+        {
+            "id": 4132807,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0181096.d.html",
+            "title": "美国白宫：将讨论帮派成员入狱（服刑）事宜。",
+            "date_modified": "2025-04-08T17:10:05.000Z"
+        },
+        {
+            "id": 4132801,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0179408.d.html",
+            "title": "【国际铜夜盘收跌超1%】国际铜夜盘收跌1.37%，沪铜收跌1.25%，沪铝收跌1.11%，沪锌收跌1.88%，沪铅收跌0.33%，沪镍收跌0.37%，沪锡收跌2.97%。 氧化铝夜盘收跌1.19%。 不锈钢夜盘收跌1.05%。",
+            "date_modified": "2025-04-08T17:01:16.000Z"
+        },
+        {
+            "id": 4132799,
+            "content_html": "",
+            "title": "伦敦证券交易所集团（LSEG）旗下的机构经纪人预估系统（IBES）的数据显示，欧洲公司预计第一季度收益将下降2.2%，而一周前预计的降幅为1.5%。",
+            "date_modified": "2025-04-08T16:57:48.000Z"
+        },
+        {
+            "id": 4132798,
+            "content_html": "",
+            "title": "LME期铜收跌76美元，报8656美元/吨。LME期铝收跌22美元，报2349美元/吨。LME期锌收跌52美元，报2563美元/吨。LME期铅收平，报18700美元/吨。LME期镍收跌184美元，报14180美元/吨。LME期锡收跌1326美元，报32603美元/吨。LME期钴收平，报33700美元/吨。",
+            "date_modified": "2025-04-08T16:57:17.000Z"
+        },
+        {
+            "id": 4132796,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqn4628551.d.html",
+            "title": "美国国防部长赫格塞思：巴拿马运河面临威胁。",
+            "date_modified": "2025-04-08T16:55:23.000Z"
+        },
+        {
+            "id": 4132793,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0176817.d.html",
+            "title": "【乌称袭击俄库尔斯克州一军用仓库 造成30余人死亡】当地时间4月8日，乌克兰武装部队总参谋部通报称，4月7日，乌空军袭击了俄军在库尔斯克州的一处仓库设施，造成一座机库、多座军事建筑和一些技术装备被摧毁，包括无人机机组人员和修理人员在内的30多人死亡。通报称，该设施的摧毁将大大削弱俄军在苏梅州和库尔斯克方向对乌克兰军队实施作战行动的能力。俄方对此暂无回应。（央视新闻）",
+            "date_modified": "2025-04-08T16:46:19.000Z"
+        },
+        {
+            "id": 4132792,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqn4626555.d.html",
+            "title": "【也门荷台达市传出多次爆炸声】据总台报道员消息，当地时间4月8日，也门西部荷台达市传出四次爆炸声，疑似再遭美军空袭。（央视新闻）",
+            "date_modified": "2025-04-08T16:43:50.000Z"
+        },
+        {
+            "id": 4132789,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqi3402231.d.html",
+            "title": "纳斯达克中国金龙指数跌幅扩大，现跌3.0%，最新报6327.14点。",
+            "date_modified": "2025-04-08T16:38:01.000Z"
+        },
+        {
+            "id": 4132788,
+            "content_html": "",
+            "title": "市场消息：美国石油和生物燃料联盟建议美国环保署将 2026 年生物质柴油混合指令设定为 52.5 亿加仑，将 2026 年可再生燃料混合指令设定为 250 亿加仑。",
+            "date_modified": "2025-04-08T16:35:47.000Z"
+        },
+        {
             "id": 4132787,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-04-09/detail-inesnsqe0174722.d.html",
@@ -262,125 +399,6 @@
             "content_html": "",
             "title": "美国能源部长赖特：美国需要不断增长的电力供应来推动人工智能的繁荣。美国需要停止关闭煤电厂。政府希望扩大电力生产，希望电力生产增长25%。",
             "date_modified": "2025-04-08T15:24:15.000Z"
-        },
-        {
-            "id": 4132721,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhq4742557.d.html",
-            "title": "美国能源部长赖特：已收到有兴趣购买美国能源的国家的合作意向。",
-            "date_modified": "2025-04-08T15:23:01.000Z"
-        },
-        {
-            "id": 4132720,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhi6737012.d.html",
-            "title": "新兴市场外汇指数刷新日低，巴西雷亚尔和智利比索走低。",
-            "date_modified": "2025-04-08T15:22:31.000Z"
-        },
-        {
-            "id": 4132715,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhm3509112.d.html",
-            "title": "【以总理称若美伊不能达成协议 将考虑采取军事手段】以色列总理内塔尼亚胡在一份声明中表示，如果伊朗和美国不能达成协议，以色列将考虑采取军事手段。（央视新闻）",
-            "date_modified": "2025-04-08T15:17:43.000Z"
-        },
-        {
-            "id": 4132713,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhm3508439.d.html",
-            "title": "【卧龙电驱：美国加征关税对公司整体影响有限】 卧龙电驱(600580)在互动平台表示，根据公司2023年年报披露，公司来自美洲区客户的营业收入为19.88亿元，占公司营业收入的12.8%。目前，公司向美洲区的供货约80%由墨西哥蒙特雷工厂生产，其关税由美墨加贸易协定约定，不受本轮美国关税政策影响，其余12%由越南工厂生产，6%由中国工厂生产，2%由欧盟工厂生产，整体关税影响有限。公司目前在海外拥有13家生产工厂和4个研发中心，已形成完整的全球供应链体系，可灵活应对关税政策的变化，满足客户需求。",
-            "date_modified": "2025-04-08T15:15:59.000Z"
-        },
-        {
-            "id": 4132712,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0288787.d.html",
-            "title": "【英国首个在移植子宫内孕育的婴儿诞生】英国伦敦一家医院8日确认，该国首位接受子宫移植的女性已于今年2月产下一名女婴。这名女婴成为英国第一个在移植子宫内孕育的婴儿。",
-            "date_modified": "2025-04-08T15:15:32.000Z"
-        },
-        {
-            "id": 4132711,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0288422.d.html",
-            "title": "【冲绳地方政府反对美军在当地部署大型无人侦察机】日本防卫省冲绳防卫局8日向冲绳县政府通报了美军在当地部署大型无人侦察机的计划，冲绳方面对此表示反对。（新华社）",
-            "date_modified": "2025-04-08T15:14:21.000Z"
-        },
-        {
-            "id": 4132710,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhi6732510.d.html",
-            "title": "德国多家经济机构下调2025年增速预期至0.1%。",
-            "date_modified": "2025-04-08T15:12:23.000Z"
-        },
-        {
-            "id": 4132706,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhm3505099.d.html",
-            "title": "Prosus于3月31日-4月4日回购2.938亿欧元股票。",
-            "date_modified": "2025-04-08T15:07:32.000Z"
-        },
-        {
-            "id": 4132705,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhq4735103.d.html",
-            "title": "【云南首个光储充全直流一体化系统投运】云南电力技术有限责任公司与南方电网云南电动汽车服务有限公司合作共建的全省首个“光储直柔+全直流充电桩一体化系统”在云南电力技术公司能源技术科技创新园正式投运。据悉，该系统每年可提供清洁电力超20万度，节约标准煤约70吨，减少二氧化碳排放约176吨。通过多电压等级直流微电网，实现分布式能源就地消纳与精准调配，V2G充电桩的接入让新能源汽车成为“移动储能站”，为未来虚拟电厂建设奠定基础。",
-            "date_modified": "2025-04-08T15:06:59.000Z"
-        },
-        {
-            "id": 4132701,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0283852.d.html",
-            "title": "市场消息：意大利总理梅洛尼将前往美国，直接与美国总统特朗普谈判关税减免事宜。",
-            "date_modified": "2025-04-08T15:03:33.000Z"
-        },
-        {
-            "id": 4132699,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0282599.d.html",
-            "title": "【波音一季度飞机交付数据强劲，接近竞争对手空客】 波音公司一季度交付130架飞机，创2023年四季度以来最佳单季交付量。3月份交付41架，订单192架（含40架777X和53架787梦想家）。波音季度交付量超过空中客车是在2023年一季度。",
-            "date_modified": "2025-04-08T15:01:00.000Z"
-        },
-        {
-            "id": 4132696,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhq4731645.d.html",
-            "title": "美国驻联合国代理大使：我们将最终根据俄罗斯的行动来评判普京对停火的承诺。",
-            "date_modified": "2025-04-08T14:57:25.000Z"
-        },
-        {
-            "id": 4132695,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0281526.d.html",
-            "title": "美国驻联合国代理大使：我们对不诚实的谈判或对承诺的违反将毫不容忍。",
-            "date_modified": "2025-04-08T14:57:18.000Z"
-        },
-        {
-            "id": 4132690,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhm3500731.d.html",
-            "title": "【上海外滩国际人才服务中心启用】 4月8日，上海外滩国际人才服务中心启用。外籍人士在此可以一站式享受通关便利、落户服务、企业服务、民生保障、就业创业等36项政务服务。 新启用的上海外滩国际人才服务中心，建筑面积超过2200平方米，融合搭载人才会客厅、路演大厅、线上求职仓、创业孵化区四大特色空间，一体配置国际人才公寓服务资源，为国际人才提供多领域、全周期、一站式服务。（新华社）",
-            "date_modified": "2025-04-08T14:54:53.000Z"
-        },
-        {
-            "id": 4132688,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhh0280516.d.html",
-            "title": "巴西总统卢拉：我看到了特朗普在美国的所作所为，我认为这不会有好结果。",
-            "date_modified": "2025-04-08T14:53:21.000Z"
-        },
-        {
-            "id": 4132687,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhq4730563.d.html",
-            "title": "巴西总统卢拉：我认为特朗普在美国的行为不会成功。",
-            "date_modified": "2025-04-08T14:53:12.000Z"
-        },
-        {
-            "id": 4132683,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-08/detail-inesnnhm3499435.d.html",
-            "title": "【4月2日至本周一，华尔街空头净赚1270亿美元】数据和分析公司Ortex Technologies的数据显示，从4月2日至周一，以美国公司为目标的卖空者账面获利1270亿美元。数据显示，2025年初至周一，针对美国市值10亿美元及以上公司的做空收益为1,890亿美元。",
-            "date_modified": "2025-04-08T14:51:00.000Z"
         }
     ]
 }
