@@ -4,317 +4,238 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 10 Apr 2025 14:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 15:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Wedbush将微软的目标价从550美元下调至475美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteur3199004.d.html</link>
+            <guid>4138557</guid>
+            <pubDate>Thu, 10 Apr 2025 15:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耶伦：特朗普的经济政策是一个运行良好的经济体的政府所造成的“最严重的自伤行为”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteuk5525344.d.html</link>
+            <guid>4138554</guid>
+            <pubDate>Thu, 10 Apr 2025 15:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西国家石油公司勘探与生产部门负责人：公司正在关注印度的勘探机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteup8860735.d.html</link>
+            <guid>4138552</guid>
+            <pubDate>Thu, 10 Apr 2025 15:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股持续走低，纳指跌幅扩大至4%，道指跌2.85%，标普500指数跌3.5%。纳斯达克100指数跌幅扩大至逾4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteuk5524861.d.html</link>
+            <guid>4138548</guid>
+            <pubDate>Thu, 10 Apr 2025 15:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多米尼加俱乐部屋顶坍塌事故已致221人死亡】根据多米尼加紧急行动中心当地时间10日最新通报，圣多明各俱乐部屋顶坍塌事故造成的死亡人数已上升至221人。8日凌晨，圣多明各一俱乐部屋顶坍塌，事发时该俱乐部正在举办知名歌手表演。突然倒塌的屋顶将很多人埋在废墟下。多米尼加总统阿比纳德尔宣布，8日到10日为全国哀悼日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteur3197693.d.html</link>
+            <guid>4138545</guid>
+            <pubDate>Thu, 10 Apr 2025 15:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团首席策略师Bhanu Baweja：建议投资者在特朗普关税明朗化之前继续逢高卖出股票。]]></title>
+            <guid>4138544</guid>
+            <pubDate>Thu, 10 Apr 2025 15:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国务院：美俄达成谅解 稳定双边使团外交银行业务】当地时间4月10日，美国国务院发表声明称，美国国务院负责俄罗斯及中欧事务的副助理国务卿索纳塔·库尔特率领的美方代表团，当日与俄罗斯驻美国大使达尔奇耶夫率领的俄方代表团在土耳其伊斯坦布尔举行了会谈。声明表示，美俄代表团延续了第一轮会谈确立的建设性方针，交换意见并最终达成谅解，以确保俄美双边使团外交银行业务的稳定。美方再次对俄罗斯联邦“禁止雇用当地雇员”的政策表达关切，称该政策是阻碍美国驻莫斯科大使馆维持稳定、可持续人员编制的关键障碍。声明称，库尔特和达尔奇耶夫商定，将视需要在近期就上述议题举行后续会议，具体时间、地点及双方代表有待进一步确定。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteup8858738.d.html</link>
+            <guid>4138541</guid>
+            <pubDate>Thu, 10 Apr 2025 15:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理马克·卡尼表示，他将于周五召开高级部长会议，讨论当前局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteur3196868.d.html</link>
+            <guid>4138540</guid>
+            <pubDate>Thu, 10 Apr 2025 15:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                                                                                                        纳斯达克指数日内跌幅达到4.00%，报16439.48。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteuk5523457.d.html</link>
+            <guid>4138539</guid>
+            <pubDate>Thu, 10 Apr 2025 15:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国首个“四算合一”算力网络调度平台建成】由中国移动承建的全国首个“四算合一”算力网络调度平台日前正式投入使用。四算合一是指将通用算力、智能算力、超级算力和量子算力四种计算能力融合的算力体系。该算力调度平台可以支持每天上亿次的算力调用，能调度全国1/6的算力规模，算网一体化效率提升20%。平台自有智算中心的芯片国产化率超过90%，兼容8种国产AI芯片，对保障供应链安全、推动国家数字经济高质量发展具有重大意义。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteun2083794.d.html</link>
+            <guid>4138538</guid>
+            <pubDate>Thu, 10 Apr 2025 15:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                                                                                                        道琼斯工业平均指数最新报39491.50，日内跌2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteuk5523227.d.html</link>
+            <guid>4138537</guid>
+            <pubDate>Thu, 10 Apr 2025 15:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                    【德国研究机构大幅下调2025年本国经济增长预期】 德国五大经济研究机构4月10日发布联合经济预测报告指出，受美国关税政策等因素影响，预计2025年德国经济仅增长0.1%，相比去年秋季预测的增长0.8%大幅下调。报告认为，德国经济仍深陷危机，今年年初的内外政治环境重大变动加剧了这一局面。美国贸易保护主义政策给德国经济带来压力，而德国政府更迭导致国内经济政策面临高度不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteuk5523117.d.html</link>
+            <guid>4138535</guid>
+            <pubDate>Thu, 10 Apr 2025 15:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西希望在2026年底前开放电力市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesteun2083168.d.html</link>
+            <guid>4138533</guid>
+            <pubDate>Thu, 10 Apr 2025 15:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海南省气象台2025年04月10日23时08分解除本岛东部海面海上雷雨大风黄色预警信号。]]></title>
+            <guid>4138529</guid>
+            <pubDate>Thu, 10 Apr 2025 15:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鲍曼：同意成本效益分析原则以支持规则制定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8987262.d.html</link>
+            <guid>4138525</guid>
+            <pubDate>Thu, 10 Apr 2025 15:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟贸易专员Maros Sefcovic再次与美国商务部长卢特尼克和贸易代表Greer通电话。]]></title>
+            <guid>4138520</guid>
+            <pubDate>Thu, 10 Apr 2025 15:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                    【国合署与国际原子能机构签署全球发展倡议合作文件】 4月10日，国家国际发展合作署署长罗照辉会见国际原子能机构总干事格罗西。双方签署了全球发展倡议框架下合作谅解备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8986385.d.html</link>
+            <guid>4138518</guid>
+            <pubDate>Thu, 10 Apr 2025 15:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻美国大使：俄美外交官强调恢复直航将有助于扩大商业联系和交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2210742.d.html</link>
+            <guid>4138509</guid>
+            <pubDate>Thu, 10 Apr 2025 15:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻美国大使：俄罗斯和美国将就伊斯坦布尔提出的新一轮磋商的倡议进行合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2210286.d.html</link>
+            <guid>4138506</guid>
+            <pubDate>Thu, 10 Apr 2025 15:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻美国大使：俄美在伊斯坦布尔的会谈使外交使团工作正常化取得进展成为可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2210195.d.html</link>
+            <guid>4138505</guid>
+            <pubDate>Thu, 10 Apr 2025 15:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国博电子：2024年净利润同比下降20.06% 拟10派4元】 国博电子(688375)4月10日晚间发布2024年年度报告，报告期内，公司实现营业总收入25.91亿元，较上年同期下降27.36%；净利润4.85亿元，较上年同期下降20.06%。公司拟向全体股东每10股派发现金红利4元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5650543.d.html</link>
+            <guid>4138504</guid>
+            <pubDate>Thu, 10 Apr 2025 15:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯驻美国大使：俄罗斯重申优先考虑归还被美国没收的外交财产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3323730.d.html</link>
+            <guid>4138502</guid>
+            <pubDate>Thu, 10 Apr 2025 15:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄官员：俄罗斯打算全面参加2028年洛杉矶奥运会】俄罗斯体育部长、俄罗斯奥委会主席米哈伊尔·杰格佳廖夫表示，俄罗斯体育部希望俄罗斯国家队能够全面参加2028年洛杉矶夏季奥运会。“目标是全员参加2028年夏季奥运会：我们的国家队，在我们的旗帜下，完全恢复，”杰格佳廖夫称，他指的是洛杉矶奥运会。至于2026年米兰冬奥会，他说，“我们不太可能完全参加，因为剩下的时间很少，不到一年”，尽管俄罗斯目前在三个项目上“做出了让步”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8984462.d.html</link>
+            <guid>4138501</guid>
+            <pubDate>Thu, 10 Apr 2025 15:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车与腾讯签署深化智能化合作协议】长安汽车与腾讯在重庆签署深化智能化合作协议，将围绕智驾数据要素展开合作（深入数据共享+共建数据闭环）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3322980.d.html</link>
+            <guid>4138492</guid>
+            <pubDate>Thu, 10 Apr 2025 14:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国称与俄罗斯的外交使团会谈具有建设性】美国国务院星期四表示，与俄罗斯就使两国外交使团工作正常化进行的会谈是建设性的，同时表示仍对俄罗斯禁止雇用当地工作人员的政策感到关切。声明称，在伊斯坦布尔开会的各国代表团致力于达成一项谅解，以确保其使团外交银行业务的稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8983451.d.html</link>
+            <guid>4138491</guid>
+            <pubDate>Thu, 10 Apr 2025 14:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石大胜华：2024年净利润1641.96万元，同比下降12.32%】石大胜华公告，2024年营业收入55.47亿元，同比下降1.56%。归属于上市公司股东的净利润1641.96万元，同比下降12.32%。基本每股收益0.08元／股，同比下降11.11%。公司2024年度不进行利润分配和资本公积金转增股本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8983373.d.html</link>
+            <guid>4138490</guid>
+            <pubDate>Thu, 10 Apr 2025 14:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宇树科技更新“格斗”视频 即将开启机器人格斗直播】宇树科技发布最新视频，标题为《Unitree 铁甲拳王：觉醒！》。宇树科技预告称，将在最近一个月左右，开启机器人格斗直播。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2205522.d.html</link>
+            <guid>4138479</guid>
+            <pubDate>Thu, 10 Apr 2025 14:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息称字节跳动2024年净利润增长6%至330亿美元，国际营收收入为390亿美元。截至目前，字节跳动尚未回复。]]></title>
+            <guid>4138478</guid>
+            <pubDate>Thu, 10 Apr 2025 14:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【佳都科技：2024年净亏损1.15亿元】佳都科技公告，2024年营业收入79.49亿元，同比增长27.64%。归属于上市公司股东的净亏损1.15亿元，去年同期净利润3.95亿元。2024年末合并报表未分配利润为14.91亿元；母公司实现净利润为-4650.75万元，2024年末母公司可供分配利润为12.13亿元。公司2024年度拟不分配利润，也不以公积金转增股本，剩余未分配利润结转以后年度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2201843.d.html</link>
+            <guid>4138468</guid>
+            <pubDate>Thu, 10 Apr 2025 14:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格力地产：珠海市国资委将公司控股股东海投公司无偿划转至华发集团】格力地产4月10日公告，公司收到控股股东珠海投资控股有限公司（简称“海投公司”）通知，珠海市人民政府国有资产监督管理委员会（简称“珠海市国资委”）将海投公司整体无偿划转至珠海华发集团有限公司（简称“华发集团”）。划转完成后，海投公司控股股东将由珠海市国资委变更为华发集团。公司控股股东、实际控制人未发生变动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2201824.d.html</link>
+            <guid>4138467</guid>
+            <pubDate>Thu, 10 Apr 2025 14:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ST曙光：2024年净亏损3.41亿元】ST曙光4月10日晚间发布2024年年度报告，2024年，公司实现营业收入14.75亿元，同比增长8.2%。公司实现归属于母公司所有者的净利润-3.41亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2201742.d.html</link>
+            <guid>4138466</guid>
+            <pubDate>Thu, 10 Apr 2025 14:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以土就在叙军事活动问题举行会谈】以色列总理办公室10日发表声明说，以色列外交安全代表团与土耳其代表团9日在阿塞拜疆就在叙利亚军事活动问题举行会谈。声明称，以土双方在会谈中各自阐述了地区利益，并同意继续对话，以维护地区稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5642501.d.html</link>
+            <guid>4138465</guid>
+            <pubDate>Thu, 10 Apr 2025 14:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数日内跌幅达1.5%，报101.43点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2200844.d.html</link>
+            <guid>4138464</guid>
+            <pubDate>Thu, 10 Apr 2025 14:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部长：关注关税对农民的影响，将确保农民获得保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3314582.d.html</link>
+            <guid>4138462</guid>
+            <pubDate>Thu, 10 Apr 2025 14:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国政协调研组来沪，围绕“深化金融体制改革”开展调研】4月7日至10日，全国政协副主席、全国工商联主席高云龙率全国政协经济委员会调研组，围绕“深化金融体制改革”在沪开展专题调研，并召开调研座谈会。在沪期间，调研组一行赴中国外汇交易中心、交通银行、上海华瑞银行、中国民生证券公司、中国人民保险集团上海分公司、上海韦尔半导体公司、上海泓明供应链公司、上海浦东软件园孵化器等在沪各类金融机构、有代表性的实体经济企业、平台实地走访调研，与机构和企业代表深入交流，详细了解上海落实金融体制改革举措、推动金融高质量发展的经验做法、意见建议。（上观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2199655.d.html</link>
+            <guid>4138461</guid>
+            <pubDate>Thu, 10 Apr 2025 14:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月4日当周EIA天然气库存变化值录得570亿立方英尺，为2024年11月1日当周以来最大增幅。预期500亿立方英尺，前值290亿立方英尺。]]></title>
+            <guid>4138460</guid>
+            <pubDate>Thu, 10 Apr 2025 14:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰基辅传出爆炸声】记者在乌克兰基辅市听到爆炸声。此前，由于无人机袭击，基辅拉响防空警报。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2199012.d.html</link>
+            <guid>4138459</guid>
+            <pubDate>Thu, 10 Apr 2025 14:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[分析师报告称，宝马将大多数美国产品的价格稳定到5月底，宝马在美国有大约30天的库存。]]></title>
+            <guid>4138458</guid>
+            <pubDate>Thu, 10 Apr 2025 14:29:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[墨西哥总统辛鲍姆称，墨方将深化与巴西和拉美地区的贸易关系。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2196510.d.html</link>
             <guid>4138453</guid>
             <pubDate>Thu, 10 Apr 2025 14:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩俊在山东调研时强调：因地制宜发展农业新质生产力 扎实有力推进乡村全面振兴】农业农村部部长韩俊在山东调研农业科技创新推广应用、推进乡村全面振兴等工作。他强调，要加快农业科技创新和成果转化应用，大力发展农业新质生产力，推进高水平农业科技自立自强；要学习运用“千万工程”经验，健全长效机制，因地制宜建设宜居宜业和美乡村，推进乡村全面振兴。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2196444.d.html</link>
-            <guid>4138452</guid>
-            <pubDate>Thu, 10 Apr 2025 14:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知名投资人Kyle Bass：美国可能必须经历衰退】达拉斯知名投资人Kyle Bass表示，美国在重新审视其全球贸易关系并试图控制联邦预算赤字的过程中，可能需要经历一次“短暂的衰退”。“我们必须做出一些艰难的抉择，”他在接受采访时说，“这两件事可能都会导致轻微的衰退，如果真是这样，我们可能需要经历一次短暂的衰退，以此来重建我们的经济基础。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8969834.d.html</link>
-            <guid>4138449</guid>
-            <pubDate>Thu, 10 Apr 2025 14:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST恒宇：拟向深交所申请撤销退市风险警示】*ST恒宇公告，公司于2025年4月10日召开董事会，审议通过了《关于申请撤销对公司股票交易实施退市风险警示的议案》，并同日向深圳证券交易所提交了撤销退市风险警示的申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8969166.d.html</link>
-            <guid>4138448</guid>
-            <pubDate>Thu, 10 Apr 2025 14:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST恒宇：2024年净利润2674.17万元，同比增长115.97%】*ST恒宇公告，2024年营业收入1.8亿元，同比增长320.16%。归属于上市公司股东的净利润2674.17万元，同比增长115.97%。公司经本次董事会审议通过的利润分配预案为：以6000万股为基数，向全体股东每10股派发现金红利3.5元（含税），送红股0股（含税），以资本公积金向全体股东每10股转增0股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5636167.d.html</link>
-            <guid>4138447</guid>
-            <pubDate>Thu, 10 Apr 2025 14:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：胡塞领导人誓言将继续对以色列及以色列船只发动攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2194097.d.html</link>
-            <guid>4138446</guid>
-            <pubDate>Thu, 10 Apr 2025 14:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：美俄在伊斯坦布尔会晤时交换照会，最终达成谅解协议，以确保俄罗斯和美国双边使团外交银行的稳定；美俄代表团讨论了在近期根据需要召开后续会议的事宜。]]></title>
-            <guid>4138445</guid>
-            <pubDate>Thu, 10 Apr 2025 14:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中原建业：3月集团在管项目合约销售为人民币8.75亿元】中原建业公告，截至2025年3月31日止三个月，本集团拥有2个新签合约项目，新增合约建筑面积97900平方米，较2024年同期减少73.2%。截至2025年3月31日，本集团拥有250个在管项目，总建筑面积为2996.76万平方米。截至2025年3月31日，本集团拥有合计451个签约项目，累计签约建筑面积5570.79万平方米。于2025年3月，本集团在管项目合约销售为人民币8.75亿元，合约销售建筑面积14.51万平方米。截至2025年3月31日止三个月，本集团在管项目合约销售为人民币26.9亿元，同比减少29.1%，合约销售建筑面积46.02万平方米，同比减少27.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8964650.d.html</link>
-            <guid>4138434</guid>
-            <pubDate>Thu, 10 Apr 2025 14:07:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫经济顾问委员会主席：美国不会走向严重衰退】白宫经济顾问委员会主席Stephen Miran接受CNBC采访时表示，他从未认为美国会走向“严重衰退”。Miran指出，特朗普在为达成贸易协议争取时间。他说，在此期间，美国应加快放松对经济的管制。Miran表示，特朗普希望各国取消关税和非关税壁垒。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2189866.d.html</link>
-            <guid>4138433</guid>
-            <pubDate>Thu, 10 Apr 2025 14:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10年期政府债券收益率跌0.5个基点，现报2.576%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2189764.d.html</link>
-            <guid>4138432</guid>
-            <pubDate>Thu, 10 Apr 2025 14:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长赫格塞思：保护巴拿马主权免受恶性影响至关重要；美国和巴拿马将增加联合训练和演习，在几个基地重新建立轮流和联合存在。]]></title>
-            <guid>4138430</guid>
-            <pubDate>Thu, 10 Apr 2025 14:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三只松鼠：拟收购松鼠爱折扣60%股权及松鼠甄养20%股权】三只松鼠晚间披露投资事项的进展公告，公司拟合计出资1.14亿元通过对未来已来（天津）企业管理有限公司增资及受让李悦、王致凯、张磊所持松鼠爱折扣股权的方式合计取得松鼠爱折扣60%股权；拟出资1295.66万元对安徽三只松鼠甄养饮品有限公司进行增资，从而取得松鼠甄养20%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3304046.d.html</link>
-            <guid>4138428</guid>
-            <pubDate>Thu, 10 Apr 2025 14:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【睿创微纳：2024年净利润5.69亿元，同比增长14.76%】睿创微纳公告，2024年营业收入为43.16亿元，同比增长21.28%；归属于上市公司股东的净利润为5.69亿元，同比增长14.76%。公司拟向全体股东每10股派发现金红利0.8元（含税），合计拟派发现金红利3573.27万元，占2024年度合并报表归属于上市公司股东净利润的6.28%。2024年度公司现金分红总额2.65亿元，占公司2024年度合并报表归属于上市公司股东净利润的46.59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8962555.d.html</link>
-            <guid>4138422</guid>
-            <pubDate>Thu, 10 Apr 2025 14:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【21家A股上市公司盘后披露一季度业绩预增或预盈公告 豪鹏科技同比最高预增1004%】截至发稿，据不完全统计，盘后有包括豪鹏科技、北元集团、澜起科技、西菱动力、全志科技、飞荣达、深圳机场、洁特生物、恒铭达、中金公司、安德利、燕京啤酒、骆驼股份、金力永磁、中信建投、德石股份、沃尔核材、中科三环、美芯晟、捷顺科技和恒申新材在内的21家A股上市公司盘后披露一季度业绩预增或预盈公告。其中，豪鹏科技、北元集团、澜起科技、西菱动力、全志科技共5家上市公司预计一季度净利润同比最高翻倍。小财注：炬芯科技、智微智能、东方精工、移远通信和百龙创园昨日盘后披露业绩预增公告，今日收盘均涨停。铖昌科技周二盘后披露业绩预盈公告，今日收盘录得2连板。]]></title>
-            <guid>4138420</guid>
-            <pubDate>Thu, 10 Apr 2025 13:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华纳兄弟探索跌幅扩大至10%，此前国家电影局称将适度减少美国影片进口数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5628108.d.html</link>
-            <guid>4138417</guid>
-            <pubDate>Thu, 10 Apr 2025 13:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国就业机会均等委员会被解雇民主党成员起诉特朗普】据媒体报道，曾任职于美国就业机会均等委员会的民主党人乔斯林·塞缪尔斯9日提起诉讼，指控特朗普将其解雇属非法行为，要求恢复职位。塞缪尔斯是今年1月被特朗普解雇的就业机会均等委员会的两名成员之一。如果塞缪尔斯和另一位成员夏洛特·伯罗斯能够完成他们的五年任期，那么在特朗普担任总统期间，该委员会将由民主党占多数。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8960623.d.html</link>
-            <guid>4138416</guid>
-            <pubDate>Thu, 10 Apr 2025 13:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆市委书记：有序发展低空旅游、航空运动等低空消费 不断培育壮大低空经济市场】重庆市委书记袁家军前往渝北区、两江新区，调研推动低空经济发展工作并主持召开座谈会，听取全市低空经济发展、低空空域管理改革等情况汇报，中国航天电子技术研究院、哈工大重庆研究院、京东集团、重庆机场集团、重庆翼动科技公司有关负责人作了发言。袁家军指出，要加快建设低空经济管理服务平台，科学规划建设各类基础设施，打造低空经济和空天信息融合的时空数据底座。要深入推进低空空域管理改革，承接做好国家试点示范，建立健全法律法规制度，推动低空领域标准体系建设。要拓展“低空+”多元应用场景，聚焦城市治理、公共服务、低空物流等重点领域，持续丰富应用场景，有序发展低空旅游、航空运动等低空消费，不断培育壮大低空经济市场。要做大做强低空制造业，以龙头企业、链主企业为引领构建企业矩阵，加快建设低空经济产业创新综合体，不断丰富低空制造产品谱系。要优化低空经济发展生态，完善人才引育、政策供给、金融保障等体系，引导国有资本和社会资本协同推动低空经济发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3300333.d.html</link>
-            <guid>4138415</guid>
-            <pubDate>Thu, 10 Apr 2025 13:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力地产：目前经营情况正常 不存在应披露而未披露的重大事项】格力地产公告，公司股票于2025年4月8日、4月9日、4月10日连续三个交易日内日收盘价格涨幅偏离值累计达到20%，属于股票交易异常波动。经公司自查并向控股股东、实际控制人及相关方函询，截至本公告披露日，除已披露事项外，公司不存在其他应披露而未披露的重大信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8959860.d.html</link>
-            <guid>4138414</guid>
-            <pubDate>Thu, 10 Apr 2025 13:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Hayman Capital创始人：经济衰退可能是美国未来增长的“必要重置”】Hayman Capital创始人兼首席投资官Kyle Bass表示，美国可能会经历“短暂的”衰退，以重建基础，这可能是国家未来增长的“必要重置”。债市在抛售期间“发疯了”，这波下跌是反应过度了。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3297564.d.html</link>
-            <guid>4138410</guid>
-            <pubDate>Thu, 10 Apr 2025 13:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普威胁导致美加关系紧张，加拿大驾车往返美国的数量下降32%】随着两国紧张关系的加剧，加拿大游客正与曾经的首选目的地的美国保持距离。加拿大统计局周四表示，3月份加拿大居民自美国驾车返程的人数同比下降31.9%。这是连续第三个月下滑，前一个月下滑了23%。特朗普对加拿大经济和主权的攻击引发了加拿大的民族自豪感和对美国的愤怒，以及对美国产品的抵制。美国对进口加拿大钢铁、铝和汽车征收关税，威胁到严重依赖美国企业和消费者贸易的行业和就业机会。如果实施更广泛的关税，加拿大经济可能会陷入衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2182610.d.html</link>
-            <guid>4138408</guid>
-            <pubDate>Thu, 10 Apr 2025 13:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：04月10日21时35分在新疆和田地区皮山县（北纬36.23度，东经78.06度）发生3.9级地震，震源深度79千米。]]></title>
-            <guid>4138407</guid>
-            <pubDate>Thu, 10 Apr 2025 13:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST曙光：公司股票申请撤销其他风险警示】ST曙光(600303.SH)公告称，根据《上海证券交易所股票上市规则》的有关规定，公司被实施其他风险警示涉及事项的影响已消除，且不存在《股票上市规则》规定的触及其他风险警示的情形，据此，公司董事会向上海证券交易所申请撤销对公司股票实施的其他风险警示。公司股票能否被撤销其他风险警示，尚需上海证券交易所的审核确认，敬请广大投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8956387.d.html</link>
-            <guid>4138406</guid>
-            <pubDate>Thu, 10 Apr 2025 13:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[普拉达首席财务官：致力于新增15亿欧元债务，其中10亿欧元为定期贷款，0.5亿欧元为过渡性融资（过桥贷款）。]]></title>
-            <guid>4138405</guid>
-            <pubDate>Thu, 10 Apr 2025 13:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今创集团：2024年度净利润3.02亿元，同比增长8.87%】今创集团公告，2024年度实现营业总收入45.11亿元，同比增长22.02%；营业利润4.97亿元，同比增长74.56%；利润总额4.89亿元，同比增长71.86%；归属于上市公司股东的净利润3.02亿元，同比增长8.87%；归属于上市公司股东的扣除非经常性损益的净利润3.22亿元，同比增长26.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3295999.d.html</link>
-            <guid>4138404</guid>
-            <pubDate>Thu, 10 Apr 2025 13:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意法半导体推出多项降本改革措施】欧洲芯片制造商意法半导体宣布多项措施，旨在调整其制造布局并削减成本。此前，该公司首席执行官 Jean-Marc Chéry 的业绩表现面临越来越大的压力。公司表示，将专注于提高效率、自动化程度，并利用人工智能来加强其在设计等关键技术研发领域的投入，以及欧洲先进制造的大规模资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5622487.d.html</link>
-            <guid>4138403</guid>
-            <pubDate>Thu, 10 Apr 2025 13:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商汤发布日日新SenseNova V6】4月10日获悉，商汤发布日日新SenseNova V6。该模型具备长思维链、强数理能力、强推理能力和全局记忆的特点，采用6000亿参数MoE架构。通过多模态长思维链合成技术，商汤实现超长思维链的生成与验证，可以合成并理解64K tokens 的多模态长思维链；基于不同难度分级和多奖励模型的强化学习训练，使得该模型在多模态强化学习上突破，让模型推理能力提升的同时，依旧能自然表达情感；多模态全局记忆和多维信息压缩能力，让该模型可以将多元化信息在压缩后，保留核心语义，大幅提高处理效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2181464.d.html</link>
-            <guid>4138402</guid>
-            <pubDate>Thu, 10 Apr 2025 13:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“e租宝”第二次资金清退5%】本周“e租宝”第二批资金清退开始，集资参与人已陆续办理并收到此次清退的资金，有集资参与人告诉记者，本次清退资金为投资本金的5%，加上2020年清退的第一批资金，其收到的清退资金合计为投资本金的40%。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8955807.d.html</link>
-            <guid>4138398</guid>
-            <pubDate>Thu, 10 Apr 2025 13:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋外贸国务部长：阿致力加强全球投资合作，推动经济可持续发展】当地时间4月9日，阿联酋外贸国务部长萨尼·本·艾哈迈德·泽尤迪在阿布扎比出席2025年“AIM投资峰会”第十四届会议期间表示，阿联酋持续致力于深化与全球各国的贸易和投资伙伴关系，巩固其作为全球领先投资中心的地位。泽尤迪指出，阿联酋在全球六大洲投资超过500亿美元（约合人民币3675亿元）用于可再生能源项目，以及在印度投资约70亿美元建设一体化食品冷链系统。在“国际贸易协定在构建开放包容市场中的作用”圆桌会议上，泽尤迪强调，多边合作机制对于推动可持续经济增长和应对全球贸易挑战具有重要意义。他还介绍了阿联酋启动的全面经济伙伴关系计划的成果，该计划在推动出口增长和吸引战略性投资方面发挥了积极作用。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8955129.d.html</link>
-            <guid>4138395</guid>
-            <pubDate>Thu, 10 Apr 2025 13:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：将起草文件，扣留庇护城市/州的联邦资金】美国总统特朗普在社交媒体上表示：“不再有庇护城市！他们保护罪犯，而不是受害者。他们让我们的国家蒙羞，全世界都在嘲笑他们。正在起草文件，扣留任何允许这些死亡陷阱存在的城市或州的所有联邦资金！！”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2179816.d.html</link>
-            <guid>4138393</guid>
-            <pubDate>Thu, 10 Apr 2025 13:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第31届中国国际广播电视信息网络展览会聚焦超高清、人工智能等领域】第31届中国国际广播电视信息网络展览会将于4月22日至25日在北京举办。本届展会聚焦超高清、新型广电网络、人工智能、应急广播、网络安全、网络视听等领域，将全景式展现广电视听科技产业发展成果和未来趋势。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8954282.d.html</link>
-            <guid>4138392</guid>
-            <pubDate>Thu, 10 Apr 2025 13:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科兴制药：2024年净利润3148万元同比扭亏 拟10派0.8元】科兴制药晚间披露2024年年报，报告期内，公司实现营业收入14.07亿元，同比增长11.75%；净利润3148.09万元，上年同期亏损1.9亿元；基本每股收益0.16元。公司拟每10股派发现金红利0.8元（含税）。报告期内，公司主业稳健向好，尤其是白蛋白紫杉醇欧盟区域的销售带动了海外收入实现较大增长。同时，公司有效控制运营成本，销售费用、研发费用和生产成本等同比均有不同幅度下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8954100.d.html</link>
-            <guid>4138391</guid>
-            <pubDate>Thu, 10 Apr 2025 13:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：04月10日21时35分在新疆和田地区皮山县附近（北纬36.30度，东经78.14度）发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>4138388</guid>
-            <pubDate>Thu, 10 Apr 2025 13:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家邮政局：要加强新形势下国际寄递物流体系建设】国家邮政局召开2025年一季度行业运行调度会，总结一季度行业运行情况，部署下一阶段工作。会议强调，要进一步完善行业运行监测和指挥调度体系，及时发现和解决的问题，赢得工作主动。要加强新形势下国际寄递物流体系建设，深入开展农村地区领取邮件快件违规收费专项治理，开展实名寄递专项整治，督促指导企业规范完善业务流程。要深化行业申诉系统改革，压实品牌企业总部主体责任。要做好行业社会治理专项工作，维护行业安全稳定运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5619266.d.html</link>
-            <guid>4138387</guid>
-            <pubDate>Thu, 10 Apr 2025 13:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：正在努力暂停对一些庇护城市的资金支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5619154.d.html</link>
-            <guid>4138386</guid>
-            <pubDate>Thu, 10 Apr 2025 13:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊CEO贾西力挺AI巨额投资：不砸钱就会被时代淘汰】亚马逊掌门人安迪·贾西周四罕见高调，在致股东的年度公开信中为公司在人工智能领域的巨额投入全力辩护。贾西在致股东的信中写道：“如果你的使命是让顾客的日常生活变得更美好、更轻松，并且你相信每一次顾客体验都会被人工智能重塑，那么你就会在人工智能方面进行深入而广泛的投资。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynt3290569.d.html</link>
-            <guid>4138375</guid>
-            <pubDate>Thu, 10 Apr 2025 13:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【独家|京东回应“禁止喜茶外卖产品进入办公区域”传闻：假消息】今日有网传消息称，京东被曝出内部下发禁令，禁止喜茶外卖产品进入办公区域，京东大厦内的喜茶门店撤出园区。一位京东内部人士向新浪科技表示，“该传闻是虚假消息，一切正常，欢迎大家来京东园区体验喜茶。”据悉，3月1日，京东外卖启动“品质堂食餐饮商家”招募以及为外卖骑手缴纳五险一金，正式进军外卖市场与美团展开本地生活战争。喜茶在2018年完成了4亿元人民币的B轮融资，投资方正是美团旗下的龙珠资本。目前喜茶暂未入驻京东外卖，也从未入驻饿了么。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8950733.d.html</link>
-            <guid>4138370</guid>
-            <pubDate>Thu, 10 Apr 2025 13:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[随着调整生产，通用汽车将在其纯电动汽车工厂裁员200人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2175950.d.html</link>
-            <guid>4138369</guid>
-            <pubDate>Thu, 10 Apr 2025 13:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇局贾宁：我国外汇市场韧性总体增强 抵御外部冲击能力提升】国家外汇管理局国际收支司司长贾宁日前在《中国外汇》发表署名文章称，我国外汇市场韧性总体增强，抵御外部冲击能力提升。人民币汇率保持适当弹性，可以有序释放压力，促进市场自我平衡。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2175302.d.html</link>
-            <guid>4138367</guid>
-            <pubDate>Thu, 10 Apr 2025 13:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澜起科技：2024年净利润同比增长213% 拟10派3.9元】澜起科技(688008.SH)公告称，2024年公司实现营业收入36.39亿元，同比增长59.2%；净利润14.12亿元，同比增长213.1%；基本每股收益1.25元。公司拟每10股派发现金红利3.9元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5614755.d.html</link>
-            <guid>4138365</guid>
-            <pubDate>Thu, 10 Apr 2025 13:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普经济顾问Miran：特朗普总统的政策正在有效遏制通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8949371.d.html</link>
-            <guid>4138364</guid>
-            <pubDate>Thu, 10 Apr 2025 13:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金老将Kyle Bass：美国可能会经历短暂的经济衰退以重建基础。经济衰退是未来增长的必要调整；一旦达成贸易协议，美国将处于更好的位置。市场抛售是过度反应。不认为会出现大幅的滞涨走势。]]></title>
-            <guid>4138363</guid>
-            <pubDate>Thu, 10 Apr 2025 13:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌云：从4月10日起，以大幅折扣向美国联邦政府机构提供谷歌工作空间（Google Workspace）服务。]]></title>
-            <guid>4138362</guid>
-            <pubDate>Thu, 10 Apr 2025 13:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【是否会涉足机器人？OPPO中国区总裁：研究院也有很长时间的研究，会更聚焦AI应用和场景】在今日的全新OPPO Find X8系列暨移动智能生态新品发布会上，OPPO中国区总裁刘波表示，在AI方面，从应用角度，OPPO会在影像、生产力、效率、文娱四个方面发力。他 透露，OPPO研究院对机器人也有很长时间的研究，机械臂、关节等，相信中国供应链很快会成熟。OPPO更多要在AI场景、底层上思考，给用户解决什么问题。（新浪科技）]]></title>
-            <guid>4138361</guid>
-            <pubDate>Thu, 10 Apr 2025 13:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晶晨股份：2024年净利润同比增65.03%】晶晨股份公告称，2024年公司实现营业收入59.26亿元，同比增长10.34%；净利润8.22亿元，同比增长65.03%。公司2024年度不进行利润分配，也不进行资本公积转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2173730.d.html</link>
-            <guid>4138359</guid>
-            <pubDate>Thu, 10 Apr 2025 13:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普经济顾问Miran：从未想过我们会走向重大衰退。需要消除监管障碍，以便公司能够更快地建设工厂。]]></title>
-            <guid>4138357</guid>
-            <pubDate>Thu, 10 Apr 2025 13:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国联基金王喆：A股中长期机会值得期待】国联基金多策略投资总监、基金经理王喆表示，展望未来，A股市场的整体走势仍然乐观。随着经济复苏的深入和政策支持的延续，市场的中长期机会依然值得期待。王喆认为，对于以科创板为首的科技板块，其行情持续性需要看基本面是否能够支撑当前的估值水平。2024年年报和2025年一季报将成为市场检验这些公司成长性的关键窗口期。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5612732.d.html</link>
-            <guid>4138356</guid>
-            <pubDate>Thu, 10 Apr 2025 13:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾华人“钢铁大王”郭从愿遭撕票遇害，家人此前已支付全部赎金】从多个渠道确认获悉，有菲律宾“钢铁大王”之称的知名华人侨领郭从愿（Congyuan Guo）及其司机已确认遇害。据菲律宾通讯社（PNA）等多家菲媒报道，菲律宾国家警察4月10日证实，遭绑架的华人郭从愿及其司机已确认遇害。菲律宾国家警察发言人法哈多（Jean Fajardo）准将向媒体表示，警方在黎刹省的罗德里格斯找到了郭从愿及司机的遗体。法哈多表示，已成立特别调查专案组加快调查郭从愿及其司机遭绑架杀害案件。该专案组由菲律宾国家警察行动指挥部总长埃德加多·奥库博中将领导。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynn5611860.d.html</link>
-            <guid>4138354</guid>
-            <pubDate>Thu, 10 Apr 2025 13:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：美国烟酒枪械局副局长在美国总统特朗普政府的压力下辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8946919.d.html</link>
-            <guid>4138353</guid>
-            <pubDate>Thu, 10 Apr 2025 13:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【倍轻松：拟以4000万元至8000万元回购股份】倍轻松公告，公司计划以不低于4000万元、不高于8000万元资金回购股份，回购价格不超过49.81元/股。本次回购股份将全部用于维护公司价值及股东权益，并计划在披露回购结果暨股份变动公告12个月后开始出售，3年内完成出售。若未能在规定期限内完成出售，未出售部分股份将依法予以注销。回购资金来源为公司自有资金及不超过7000万元的专项贷款资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2172269.d.html</link>
-            <guid>4138352</guid>
-            <pubDate>Thu, 10 Apr 2025 13:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新兴铸管：2024年净利润1.67亿元，同比下降87.60%】新兴铸管公告，2024年营业收入为361.94亿元，同比下降16.32%。归属于上市公司股东的净利润为1.67亿元，同比下降87.60%。公司拟向全体股东每10股派发现金红利0.2元（含税），不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8946216.d.html</link>
-            <guid>4138350</guid>
-            <pubDate>Thu, 10 Apr 2025 13:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【供销大集：股东股权转让涉及1153.97万公司股份】供销大集公告，股东新合作商贸连锁集团有限公司与赤峰新合作超市连锁有限公司签署协议，赤峰新合作拟将持有的供销大集1153.97万股股票用于抵偿欠付新合作集团的债务，总额为7449.06万元。转让双方均为公司控股股东中合农信的一致行动人，属同一实际控制人控制的主体之间的股权转让。权益变动后，新合作集团持股比例从2.48%增至2.54%，赤峰新合作不再持有公司股份。此次权益变动不会影响公司控股股东和实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynq2171659.d.html</link>
-            <guid>4138349</guid>
-            <pubDate>Thu, 10 Apr 2025 13:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南普洱：提高购买现房公积金贷款最高额度】云南省普洱市住房公积金管理中心发布关于调整住房公积金贷款部分政策的通知，通知自2025年4月14日起施行。提高购买现房公积金贷款最高额度方面，支持商品房现售，缴存人家庭购买现房（即取得商品房现售备案证明的新建商品房）申请个人住房公积金贷款的，最高贷款额度在现行的最高额度基础上提高10万元。即缴存人家庭单方缴存住房公积金的，申请最高贷款额度由70万元提高至80万元；缴存人家庭双方缴存住房公积金的，申请最高贷款额度由90万元提高至100万元。养育未成年的多孩缴存人家庭购买首套自住住房为现房的，最高贷款额度在本次提高后的贷款额度的基础上上浮比例保持不变。（普洱住房公积金微信公众号）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inessynr8946178.d.html</link>
-            <guid>4138348</guid>
-            <pubDate>Thu, 10 Apr 2025 13:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海合作组织成员国投资促进工作组第九次会议和中国—上海合作组织可持续发展产业合作大会成功召开】据商务部消息，4月10日，上海合作组织成员国投资促进工作组第九次会议和中国—上海合作组织可持续发展产业合作大会在天津市举行。凌激表示，近年来，上合组织区域贸易充满活力，投资合作惠及各方，互联互通成效显著，产业链供应链关系更加紧密。中方愿与各方一道，推进投资合作法律制度可持续发展，促进产业链供应链国际合作，加快区域贸易投资自由化便利化进程。近期，美方宣布对所有贸易伙伴加征所谓“对等关税”，严重违反世贸组织规则，严重损害世贸组织成员正当合法权益，严重破坏以规则为基础的多边贸易体制和国际经贸秩序。在当前形势下，上合组织成员国应共同维护以世贸组织为核心的多边贸易体制，有效应对保护主义、单边主义挑战，致力于促进开放型世界经济发展。]]></title>
-            <guid>4138345</guid>
-            <pubDate>Thu, 10 Apr 2025 13:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
