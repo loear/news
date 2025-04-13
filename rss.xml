@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 13 Apr 2025 18:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 19:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克军方打死3名“伊斯兰国”武装分子】伊拉克安全部门消息人士13日说，伊军方当天在北部萨拉赫丁省打死3名极端组织“伊斯兰国”武装分子。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-14/detail-inetahpf5553084.d.html</link>
+            <guid>4143634</guid>
+            <pubDate>Sun, 13 Apr 2025 18:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州一房屋发生爆炸 至少4人受伤】当地时间4月13日，美国得克萨斯州奥斯汀发生一起房屋爆炸事件，造成至少4人受伤，其中包括一名消防员。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-14/detail-inetahpc8777602.d.html</link>
+            <guid>4143596</guid>
+            <pubDate>Sun, 13 Apr 2025 18:49:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其伊拉克联合声明：将在反恐等领域加强合作】4月13日，土耳其与伊拉克在土南部城市安塔利亚举行第五次高级别安全机制会议，会后发布联合声明。土方由外长费丹、国防部长居莱尔、情报组织负责人卡伦和内政部副部长卡拉奥卢出席，伊方由副总理兼外长侯赛因率团参会。声明重申双方尊重彼此的政治统一、主权和领土完整，并决定在反恐、防务、能源、水资源及“发展之路”项目等领域加强合作。双方支持伊拉克总理苏达尼于5月8日访土并出席高级战略合作委员会会议。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-14/detail-inetahph9858598.d.html</link>
@@ -470,17 +482,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-13/detail-ineszmit0292768.d.html</link>
             <guid>4142875</guid>
             <pubDate>Sun, 13 Apr 2025 09:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部证实击落一架乌F-16战机】俄罗斯国防部表示，俄军在过去24小时内击落了1架乌军F-16战机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-13/detail-ineszmip9220348.d.html</link>
-            <guid>4142874</guid>
-            <pubDate>Sun, 13 Apr 2025 09:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长：与沙特阿拉伯之间肯定会达成“123协议”（即《关于和平利用核能的合作协议》）。]]></title>
-            <guid>4142873</guid>
-            <pubDate>Sun, 13 Apr 2025 09:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
