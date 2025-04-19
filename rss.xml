@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 19 Apr 2025 21:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 22:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以总理：作战目标实现前不会结束加沙军事行动】以色列总理内塔尼亚胡19日晚在视频声明中说，以色列在作战目标实现前不会结束在加沙地带的军事行动。内塔尼亚胡说，巴勒斯坦伊斯兰抵抗运动（哈马斯）拒绝了一项释放部分被扣押人员的提议，坚持要求以色列结束战争并从加沙地带撤军。他强调，在哈马斯被消灭、所有加沙地带被扣押人员获释、确保加沙地带不再对以色列构成威胁之前，以军不会结束在加沙地带的军事行动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-20/detail-inettzmc6370146.d.html</link>
+            <guid>4155152</guid>
+            <pubDate>Sat, 19 Apr 2025 22:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯：尽管俄罗斯宣布了复活节停火，但俄乌边境地区的冲突仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-20/detail-inettzmi0222844.d.html</link>
+            <guid>4155148</guid>
+            <pubDate>Sat, 19 Apr 2025 21:36:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：特朗普政府敦促美国最高法院驳回委内瑞拉移民根据《敌对外侨法》提出的阻止驱逐出境的请求。]]></title>
             <guid>4155147</guid>
@@ -493,23 +505,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-19/detail-inetteft0665987.d.html</link>
             <guid>4154903</guid>
             <pubDate>Sat, 19 Apr 2025 11:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新职业工种来了 全国首场长期照护师考试在南通开考】长期照护师是国家为加强长期护理服务人才队伍建设、促进长期照护职业化发展而专门设立的新型职业工种。今天，全国首场长期照护师初级工（五级）考试在江苏南通开考。在本次考试中，成绩合格的考生将获得全国首批长期照护师职业技能等级证书，这标志着国家设立的长期照护师这一新型职业工种率先在江苏落地。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettefp6800539.d.html</link>
-            <guid>4154901</guid>
-            <pubDate>Sat, 19 Apr 2025 11:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：乌克兰在过去24小时内对俄罗斯能源基础设施进行了10次攻击。（国际文传电讯社）]]></title>
-            <guid>4154900</guid>
-            <pubDate>Sat, 19 Apr 2025 11:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年北京文化核心领域收入超2万亿元 作品著作权登记量保持领先】18日，2025年全国知识产权宣传周版权主题活动启动仪式暨京津冀版权协同发展论坛在北京举行。本届论坛围绕“新质生产力驱动下的版权产业高质量发展”这一主题，发布多项成果。去年，北京文化核心领域收入超过2万亿元，同比增长7.6%，全市作品著作权登记量连续17年居全国首位。未来，北京版权工作将全面提升版权保护能力和服务水平，全力推进版权转化运用，积极扩大国际交流与合作，不断推动北京版权工作出亮点、见成效。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-19/detail-inetteft0663969.d.html</link>
-            <guid>4154899</guid>
-            <pubDate>Sat, 19 Apr 2025 11:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
