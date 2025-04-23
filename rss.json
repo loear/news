@@ -6,6 +6,73 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4162056,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezva6238299.d.html",
+            "title": "阿拉斯加航空印度运营收入31.4亿美元，分析师预期31.6亿美元。",
+            "date_modified": "2025-04-23T21:24:10.000Z"
+        },
+        {
+            "id": 4162055,
+            "content_html": "",
+            "title": "特朗普政府助手：特朗普签署与人工智能教育相关的行政令，确保培养未来人工智能相关的劳动力。",
+            "date_modified": "2025-04-23T21:21:57.000Z"
+        },
+        {
+            "id": 4162054,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezvf9411131.d.html",
+            "title": "特朗普政府助手：特朗普签署与（大学）认证相关的行政令，该命令影响法学院。",
+            "date_modified": "2025-04-23T21:20:29.000Z"
+        },
+        {
+            "id": 4162053,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezve2636119.d.html",
+            "title": "特朗普政府助手：（特朗普签署的）行政令与大学接受外国馈赠有关。",
+            "date_modified": "2025-04-23T21:17:07.000Z"
+        },
+        {
+            "id": 4162052,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezve2635931.d.html",
+            "title": "美国总统特朗普：签署与教育相关的行政命令。",
+            "date_modified": "2025-04-23T21:15:46.000Z"
+        },
+        {
+            "id": 4162049,
+            "content_html": "",
+            "title": "IBM CEO：咨询业务更容易受到可自由支配支出削减和与政府效率部相关举措的影响。",
+            "date_modified": "2025-04-23T21:10:59.000Z"
+        },
+        {
+            "id": 4162047,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezva6235638.d.html",
+            "title": "第一量子矿业预计全年资本开支13亿-14.5亿美元。",
+            "date_modified": "2025-04-23T21:04:55.000Z"
+        },
+        {
+            "id": 4162045,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezvf9407841.d.html",
+            "title": "韩国4月综合商业景气指数从86.7升至87.9，为去年11月以来的最高水平。",
+            "date_modified": "2025-04-23T21:02:45.000Z"
+        },
+        {
+            "id": 4162042,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezve2633238.d.html",
+            "title": "美国白宫：（对欧盟对Meta公司和苹果的罚款发表表示）不会容忍新型经济敲诈行为。",
+            "date_modified": "2025-04-23T21:02:22.000Z"
+        },
+        {
+            "id": 4162040,
+            "content_html": "",
+            "title": "纽蒙特矿业CEO Palmer谈及加拿大矿场，称：下一个项目可能是扩张Red Chris Mine矿场项目。",
+            "date_modified": "2025-04-23T20:56:34.000Z"
+        },
+        {
             "id": 4162036,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezvf9402299.d.html",
@@ -72,12 +139,6 @@
             "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuezva6229843.d.html",
             "title": "【特朗普政府据悉认为乌克兰谈判尚未达到决定性时刻】消息人士称，特朗普政府并不认为他们正处于与乌克兰正在进行的谈判的决定性时刻，这导致美国国务卿鲁比奥取消了周三在伦敦参加乌克兰会谈的计划。领导他们的美俄乌问题特使凯洛格称谈判是积极的。",
             "date_modified": "2025-04-23T20:04:46.000Z"
-        },
-        {
-            "id": 4162019,
-            "content_html": "",
-            "title": "纳斯达克金龙中国指数初步收涨2.9%，大部分时间高位震荡。热门中概股小马智行初步收涨30%，小鹏涨7.8%，小米ADR涨5.5%，蔚来和百胜中国至多涨4.8%，B站涨3.1%，阿里涨2.8%，拼多多涨2.2%，腾讯ADR涨2%，网易涨1.6%，理想涨1%，京东跌0.5%。中概ETF YINN涨3.6%，DRAG涨3%，KWEB涨2.3%，CQQQ涨1.5%。",
-            "date_modified": "2025-04-23T20:00:12.000Z"
         },
         {
             "id": 4162018,
@@ -276,60 +337,6 @@
             "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpm4021356.d.html",
             "title": "【美国持续施压 各方分歧仍在 乌克兰问题会谈推迟】乌克兰、英国、法国和美国代表原计划于23日在伦敦举行会谈，讨论俄乌停火等问题；但据多家英国和美国媒体报道，此次会谈已经被推迟。根据此前透露出来的消息，各方对于会谈内容仍然存在分歧。",
             "date_modified": "2025-04-23T18:09:34.000Z"
-        },
-        {
-            "id": 4161948,
-            "content_html": "",
-            "title": "路透社调查显示，在美国能源信息署（EIA）周四的报告中，预计上周美国天然气库存增加640亿立方英尺。",
-            "date_modified": "2025-04-23T18:02:53.000Z"
-        },
-        {
-            "id": 4161942,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpi9507689.d.html",
-            "title": "【瑞士经济部长称赞与美国贸易代表格里尔的会谈“富有成效”。】瑞士经济部长Guy Parmelin周三表示，他在访问华盛顿期间与美国贸易代表格里尔进行了富有成效的会谈，并期待未来的交流和继续合作。",
-            "date_modified": "2025-04-23T17:54:27.000Z"
-        },
-        {
-            "id": 4161941,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpi9507647.d.html",
-            "title": "瑞银与通用大西洋银行讨论私人信贷合作。",
-            "date_modified": "2025-04-23T17:54:08.000Z"
-        },
-        {
-            "id": 4161940,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpi9505910.d.html",
-            "title": "泽连斯基幕僚长：已向美国特使重申乌克兰将坚持其在领土完整方面的原则立场。",
-            "date_modified": "2025-04-23T17:45:54.000Z"
-        },
-        {
-            "id": 4161939,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpm4017939.d.html",
-            "title": "【应对印方连环举措 巴基斯坦将召开国家安全委员会紧急会议】当地时间4月23日，巴基斯坦国防部部长赫瓦贾·阿西夫宣布，巴国家安全委员会（NSC）将于24日召开紧急会议，由总理夏巴兹·谢里夫主持，商讨如何回应印度方面就印控克什米尔袭击事件针对巴方采取的一系列措施。",
-            "date_modified": "2025-04-23T17:44:25.000Z"
-        },
-        {
-            "id": 4161938,
-            "content_html": "",
-            "title": "OpenAI创始人Sam Altman：ChatGPT Plus订阅者的o3和o4-mini-high的速率限制翻倍了。",
-            "date_modified": "2025-04-23T17:43:03.000Z"
-        },
-        {
-            "id": 4161936,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevpi9505058.d.html",
-            "title": "美国联邦航空局（FAA）：泰国已获得美国联邦航空局一类安全评估等级。",
-            "date_modified": "2025-04-23T17:41:22.000Z"
-        },
-        {
-            "id": 4161935,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-04-24/detail-ineuevph2730334.d.html",
-            "title": "乌克兰外长：乌克兰致力于与美国合作实现和平。",
-            "date_modified": "2025-04-23T17:40:25.000Z"
         }
     ]
 }
