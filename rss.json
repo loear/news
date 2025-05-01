@@ -6,10 +6,256 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4176060,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzp2807741.d.html",
+            "title": "墨西哥总统：将致力于推动悬而未决的问题以造福两国。",
+            "date_modified": "2025-05-01T14:25:40.000Z"
+        },
+        {
+            "id": 4176059,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzp2807717.d.html",
+            "title": "西维斯健康涨超7% Q1业绩超预期，上调全年调整后盈利指引。",
+            "date_modified": "2025-05-01T14:25:33.000Z"
+        },
+        {
+            "id": 4176057,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzs5706256.d.html",
+            "title": "伊朗官员：美国对伊朗的制裁“无助于外交解决核争端”。",
+            "date_modified": "2025-05-01T14:24:46.000Z"
+        },
+        {
+            "id": 4176056,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzu0480959.d.html",
+            "title": "墨西哥总统辛鲍姆：同意未来几天继续就贸易问题开展工作。",
+            "date_modified": "2025-05-01T14:24:43.000Z"
+        },
+        {
+            "id": 4176054,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8931677.d.html",
+            "title": "墨西哥总统辛鲍姆：与美国总统特朗普进行了非常积极的会谈。",
+            "date_modified": "2025-05-01T14:24:05.000Z"
+        },
+        {
+            "id": 4176051,
+            "content_html": "",
+            "title": "对冲基金Third Point据称“大幅”持股美国钢铁公司。美国钢铁股价短线走高，日内整体涨幅重新扩大至将近1.3%。",
+            "date_modified": "2025-05-01T14:19:47.000Z"
+        },
+        {
+            "id": 4176050,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8931172.d.html",
+            "title": "【一侍从盗窃日本皇室生活费360万日元】据日本广播协会（NHK）5月1日报道，日本宫内厅当天向媒体证实，德仁天皇一名侍从自2023年11月起多次盗窃用于皇室生活开支的“内廷费”，赃款合计360万日元（约合18.1万元人民币），该侍从于日前被移交警方。（环球时报）",
+            "date_modified": "2025-05-01T14:19:22.000Z"
+        },
+        {
+            "id": 4176049,
+            "content_html": "",
+            "title": "礼来公司高管表示，预计未来几个月美国监管机构将针对阿尔茨海默病药物多纳单抗（Kisunla）的调整给药方案采取行动。",
+            "date_modified": "2025-05-01T14:13:16.000Z"
+        },
+        {
+            "id": 4176047,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzp2805677.d.html",
+            "title": "马自达北美业务：4月汽车销量为37,660辆，增长21%。",
+            "date_modified": "2025-05-01T14:11:03.000Z"
+        },
+        {
+            "id": 4176046,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8929946.d.html",
+            "title": "礼来首席执行官敦促特朗普政府就关税协议进行谈判。",
+            "date_modified": "2025-05-01T14:10:21.000Z"
+        },
+        {
+            "id": 4176043,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzu0478676.d.html",
+            "title": "【巴基斯坦：绝不会在领土及主权问题上妥协】 当地时间5月1日，巴基斯坦总理谢里夫会见了巴总统扎尔达里，讨论了当前的安全局势。谢里夫重申，巴基斯坦绝不会在国家领土完整和主权问题上妥协，并将以适当的方式回应。扎尔达里赞扬政府对印度毫无根据的指控作出的反应，他表示，巴基斯坦将不惜一切代价捍卫其主权和领土完整以及重要的国家利益。（央视）",
+            "date_modified": "2025-05-01T14:09:10.000Z"
+        },
+        {
+            "id": 4176042,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8929664.d.html",
+            "title": "礼来高管：当前实施的关税措施并未对公司2025年的财务展望产生实质性影响，其他地区关税的扩大或报复性关税的增加将对行业产生负面影响。",
+            "date_modified": "2025-05-01T14:08:26.000Z"
+        },
+        {
+            "id": 4176041,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzs5704118.d.html",
+            "title": "Tether：据报道，本季度来自传统投资的营业利润超过10亿美元。",
+            "date_modified": "2025-05-01T14:07:48.000Z"
+        },
+        {
+            "id": 4176040,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevarzu0478346.d.html",
+            "title": "土耳其警方在伊斯坦布尔与抗议者发生冲突，拘留数百人。",
+            "date_modified": "2025-05-01T14:06:58.000Z"
+        },
+        {
+            "id": 4176037,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9060031.d.html",
+            "title": "【包钢股份中标某国家级高速公路项目1.3万吨桥梁钢订单】 日前，从包钢股份获悉，包钢股份在桥梁钢市场再获突破，成功中标某国家级高速公路项目1.3万吨桥梁钢订单。",
+            "date_modified": "2025-05-01T14:04:59.000Z"
+        },
+        {
+            "id": 4176035,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5834460.d.html",
+            "title": "瑞银集团：将Meta目标价从650美元上调至683美元。",
+            "date_modified": "2025-05-01T14:04:23.000Z"
+        },
+        {
+            "id": 4176034,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2935333.d.html",
+            "title": "阿曼外长：由于后勤方面的原因，我们重新安排了原定于5月3日星期六举行的美伊会谈。",
+            "date_modified": "2025-05-01T14:03:55.000Z"
+        },
+        {
+            "id": 4176033,
+            "content_html": "",
+            "title": "在美国ISM制造业数据公布后，欧元兑美元的跌幅略有扩大，最新下跌0.2%，报1.1306美元。",
+            "date_modified": "2025-05-01T14:03:35.000Z"
+        },
+        {
+            "id": 4176032,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5834322.d.html",
+            "title": "本田汽车印度公司：2025年4月总销量为4871辆。",
+            "date_modified": "2025-05-01T14:03:21.000Z"
+        },
+        {
+            "id": 4176030,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0608310.d.html",
+            "title": "【美洛杉矶港负责人：受关税影响 航运量将大幅下降】当地时间5月1日，美国洛杉矶港执行董事吉恩·塞罗卡（Gene Seroka）表示，因受到关税的影响，他预计下周“抵达洛杉矶的货物量将比去年同期下降35%”。塞罗卡表示，许多大型零售商称他们目前的库存大约够六到八周，如果政策不改变，美国制造商和消费者在未来几周甚至几个月都将“面临艰难的抉择”。（央视新闻）",
+            "date_modified": "2025-05-01T14:01:25.000Z"
+        },
+        {
+            "id": 4176028,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9059480.d.html",
+            "title": "【美国制造业PMI数据高于预期】\n美国4月ISM制造业指数 48.7，预期 47.9，前值 49。\n美国4月ISM制造业物价支付指数 69.8，预期 73，前值 69.4。\n美国4月ISM制造业就业指数 46.5，预期 44.6，前值 44.7。\n美国4月ISM制造业新订单指数 47.2，预期 45，前值 45.2。\n美国4月ISM产出指数 44，前值48.3，创2020年5月以来新低。\n美国4月ISM库存指数 50.8，前值53.4。\n美国3月营建支出月率 -0.5%，预期0.2%，前值由0.70%修正为0.6%。",
+            "date_modified": "2025-05-01T14:00:16.000Z"
+        },
+        {
+            "id": 4176027,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0608028.d.html",
+            "title": "奥本海默：将Meta目标价从650美元上调至665美元",
+            "date_modified": "2025-05-01T13:59:38.000Z"
+        },
+        {
+            "id": 4176026,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5833692.d.html",
+            "title": "【“五一”假期首日香港迎客流高峰】“五一”假期首日，作为出境游热门目的地，香港迎来客流高峰，各旅游景点及场所人流畅旺。香港特区政府入境事务处数据显示，截至1日下午4时，共有近59万人次出入境，入境有超过30万人次，其中内地旅客超过18.2万人次。（新华社）",
+            "date_modified": "2025-05-01T13:56:47.000Z"
+        },
+        {
+            "id": 4176025,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0607592.d.html",
+            "title": "市场消息：韩国国会议长宣布在崔相穆辞职后暂停对其弹劾的投票。",
+            "date_modified": "2025-05-01T13:55:43.000Z"
+        },
+        {
+            "id": 4176024,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5833424.d.html",
+            "title": "【PMI数据显示美国库存急剧下滑】PMI数据显示，4月美国产品市场的担忧加剧，主要是围绕美国贸易政策的未来方向。商业信心降至10个月低点。制成品库存连续第五个月减少，而且降幅是今年以来最大的。财经网站Forexlive分析师表示，令我惊讶的是，库存下降得如此之深，这表明短缺带来的冲击比预期的要大，而且会更快。",
+            "date_modified": "2025-05-01T13:54:05.000Z"
+        },
+        {
+            "id": 4176018,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2932292.d.html",
+            "title": "美国4月Markit制造业PMI终值 50.2，预期 50.5，初值 50.7。",
+            "date_modified": "2025-05-01T13:45:05.000Z"
+        },
+        {
+            "id": 4176017,
+            "content_html": "",
+            "title": "穆迪：上调奈飞（Netflix）评级至A3，反映多年来出色的执行力、稳固且令人羡慕的竞争地位。",
+            "date_modified": "2025-05-01T13:44:40.000Z"
+        },
+        {
+            "id": 4176016,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0605420.d.html",
+            "title": "【深圳北站单日客流量突破117万人次 创历史新高】 4月30日，深圳北站枢纽迎来历史性客流高峰，单日客流量突破117万人次，同比激增13%。其中高铁总客流量约45.56万人次，相较去年“五一”前一天（40.60万人次）上升约12.22%；高铁发送客流量约26.69万人次，相较去年“五一”前一天（25.01万人次）上升6.72%；高铁到站客流量约18.87万人次，相较去年“五一”前一天（15.59万人次）上升约21.04%。",
+            "date_modified": "2025-05-01T13:43:51.000Z"
+        },
+        {
+            "id": 4176015,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9057214.d.html",
+            "title": "亚马逊盘初涨超3.6%，拟投资40亿美元扩大美国小城镇配送网络。",
+            "date_modified": "2025-05-01T13:43:12.000Z"
+        },
+        {
+            "id": 4176013,
+            "content_html": "",
+            "title": "美股盘初，主要行业ETF涨多跌少，全球科技股指数ETF涨超2%，科技行业ETF涨近2%，生物科技指数ETF跌超2%。",
+            "date_modified": "2025-05-01T13:41:35.000Z"
+        },
+        {
+            "id": 4176011,
+            "content_html": "",
+            "title": "万事达卡首席执行官表示，在美国，我们看到消费总体稳定，欧洲的情况则更具挑战性一些。",
+            "date_modified": "2025-05-01T13:39:47.000Z"
+        },
+        {
+            "id": 4176010,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2930973.d.html",
+            "title": "洲际交易所（ICE）5月原糖交割总量为29170手，约合148万公吨。",
+            "date_modified": "2025-05-01T13:38:40.000Z"
+        },
+        {
+            "id": 4176009,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9056402.d.html",
+            "title": "【美国民众说关税战是有钱人搞的捞快钱计划】关于当前的中美关税博弈，美国民众表示，这就是政府里有钱人搞的捞快钱计划，通货膨胀加剧，普通人的生活成本上升，决策者却隔岸观火。中国民众则表示，中国有着自己的消费链，不惧怕他们，但也希望双方回归谈判桌，以诚意解决问题。（CGTN）",
+            "date_modified": "2025-05-01T13:38:06.000Z"
+        },
+        {
+            "id": 4176007,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2930620.d.html",
+            "title": "世界卫生组织总干事：加沙的局势“糟糕透顶”。加沙的200万人正在挨饿。",
+            "date_modified": "2025-05-01T13:36:43.000Z"
+        },
+        {
+            "id": 4176006,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0603926.d.html",
+            "title": "市场消息：微软提高了Xbox主机、游戏和配件的价格。",
+            "date_modified": "2025-05-01T13:36:26.000Z"
+        },
+        {
+            "id": 4176003,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5830523.d.html",
+            "title": "世界卫生组织总干事：我们正在经历记忆中全球卫生筹资遭受的最严重破坏。",
+            "date_modified": "2025-05-01T13:34:29.000Z"
+        },
+        {
             "id": 4176002,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0603438.d.html",
-            "title": "市场消息：美国白宫顾问马修·米勒未承诺为小型企业提供减税措施。",
+            "title": "白宫副幕僚长米勒表示，美国人不会为汽车支付更高的价格。对小企业的关税减免将以减税的形式。米勒未承诺为小型企业提供减税措施。",
             "date_modified": "2025-05-01T13:32:21.000Z"
         },
         {
@@ -186,253 +432,6 @@
             "content_html": "",
             "title": "百时美施贵宝（BD）高管称，公司预计今年剩余的关税支出约为9000万美元（合每股25美分），主要影响第四季度业绩。",
             "date_modified": "2025-05-01T12:54:43.000Z"
-        },
-        {
-            "id": 4175957,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9048883.d.html",
-            "title": "通用汽车首席财务官表示资本分配政策无变动。",
-            "date_modified": "2025-05-01T12:53:48.000Z"
-        },
-        {
-            "id": 4175955,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5823363.d.html",
-            "title": "雅诗兰黛首席财务官表示，正在探索更多的节约方式。",
-            "date_modified": "2025-05-01T12:53:28.000Z"
-        },
-        {
-            "id": 4175954,
-            "content_html": "",
-            "title": "信函称，对冲基金Third Point持有美国钢铁公司（U.S. Steel）“可观”的股份，并相信其与新日铁（Nippon Steel）的计划合并将完成。",
-            "date_modified": "2025-05-01T12:51:55.000Z"
-        },
-        {
-            "id": 4175953,
-            "content_html": "",
-            "title": "通用汽车首席财务官表示，公司预计对从韩国进口的汽车征收关税将产生20亿美元的影响。",
-            "date_modified": "2025-05-01T12:51:34.000Z"
-        },
-        {
-            "id": 4175952,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9048374.d.html",
-            "title": "通用汽车首席财务官表示，公司正在评估帮助供应商减轻关税对其业务影响的方法。",
-            "date_modified": "2025-05-01T12:50:09.000Z"
-        },
-        {
-            "id": 4175950,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5822766.d.html",
-            "title": "通用汽车首席财务官：我们将在合理的情况下采取额外的缓解措施，包括成本削减目标。",
-            "date_modified": "2025-05-01T12:49:33.000Z"
-        },
-        {
-            "id": 4175949,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2921891.d.html",
-            "title": "【美国上周申请失业金人数增加超过预期】美国上周初请失业金人数增幅超过预期，可能暗示因关税而导致的裁员增加。关税在第一季拖累经济。由于企业试图避免特朗普的关税，大量进口商品，上个季度美国GDP出现了三年来的首次萎缩。经济学家预计，激进的贸易政策将导致一波失业浪潮。预计将拖累国内需求的关税，已经在促使一些企业裁员。联合包裹周二表示，将裁员2万人，关闭73家工厂，因亚马逊快递量减少。总体而言，企业大多采取观望态度，保留现有员工，同时对增加员工人数持谨慎态度。",
-            "date_modified": "2025-05-01T12:47:25.000Z"
-        },
-        {
-            "id": 4175947,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2921763.d.html",
-            "title": "好时首席财务官：关税影响下，仍预计2026年盈利将增长。",
-            "date_modified": "2025-05-01T12:46:45.000Z"
-        },
-        {
-            "id": 4175946,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0595021.d.html",
-            "title": "通用汽车首席财务官表示，2025年固定成本大致持平。",
-            "date_modified": "2025-05-01T12:46:21.000Z"
-        },
-        {
-            "id": 4175945,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0594812.d.html",
-            "title": "【深圳新地标湾区之眼8月26日开业】记者5月1日从出版集团了解到，深圳新时代重大文化设施、深圳出版集团倾力打造的全新一代文化综合体“湾区之眼”现已全面落成，即将于8月26日开业运营。（深圳特区报）",
-            "date_modified": "2025-05-01T12:45:21.000Z"
-        },
-        {
-            "id": 4175944,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2921242.d.html",
-            "title": "通用汽车首席财务官表示，库存周转迅速，季度末近90%的库存为2025年款车型。",
-            "date_modified": "2025-05-01T12:44:10.000Z"
-        },
-        {
-            "id": 4175942,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9047139.d.html",
-            "title": "好时：关税影响可能上升至每季度1亿美元。",
-            "date_modified": "2025-05-01T12:42:30.000Z"
-        },
-        {
-            "id": 4175941,
-            "content_html": "",
-            "title": "麦当劳首席执行官：消费者对《我的世界》电影推广活动以及整个4月业绩的反应令人鼓舞。",
-            "date_modified": "2025-05-01T12:41:55.000Z"
-        },
-        {
-            "id": 4175940,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0593733.d.html",
-            "title": "通用汽车首席执行官：关税对第一季度业绩的影响很小，公司至少可以抵消30%的关税风险。",
-            "date_modified": "2025-05-01T12:40:24.000Z"
-        },
-        {
-            "id": 4175939,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0593460.d.html",
-            "title": "【美国首次申领失业救济人数升至2月以来最高 超出经济学家预期】美国首次申请失业救济人数在复活节后的一周跃升至2月以来的最高水平。根据劳工部周四公布的数据，在截至4月26日的一周，首次申领失业救济人数增加1.8万人，达到24.1万人。接受调查的经济学家预测中值为22.3万人。截至4月19日当周，持续申领失业救济人数升至192万人，为2021年以来最高，也超出了经济学家的预期。",
-            "date_modified": "2025-05-01T12:38:56.000Z"
-        },
-        {
-            "id": 4175938,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0593442.d.html",
-            "title": "麦当劳：市场份额和客人数量将比第一季度有所改善。",
-            "date_modified": "2025-05-01T12:38:48.000Z"
-        },
-        {
-            "id": 4175937,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9046457.d.html",
-            "title": "麦当劳：对消费者整体健康状况持谨慎态度。",
-            "date_modified": "2025-05-01T12:38:31.000Z"
-        },
-        {
-            "id": 4175935,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9046358.d.html",
-            "title": "通用汽车首席执行官表示正在全面审查公司的可自由支配支出。",
-            "date_modified": "2025-05-01T12:37:52.000Z"
-        },
-        {
-            "id": 4175933,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5820437.d.html",
-            "title": "【特朗普承认关税影响美物价：以前能买30个玩具，现在只能买两个了】当地时间4月30日，特朗普在白宫内阁会议上谈到现行关税政策对美国的影响。特朗普说：“也许孩子们只能买两个娃娃，而不是30个娃娃了，也许这两个娃娃会比正常价格贵几美元。“网友评论：他承认了，关税是我们承担的。（环球时报）",
-            "date_modified": "2025-05-01T12:36:02.000Z"
-        },
-        {
-            "id": 4175932,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0592730.d.html",
-            "title": "麦当劳：经济压力正在打击中等收入消费者。",
-            "date_modified": "2025-05-01T12:35:32.000Z"
-        },
-        {
-            "id": 4175931,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2919205.d.html",
-            "title": "嘉信理财首席执行官称，四月期间创纪录的交易量“回落”。",
-            "date_modified": "2025-05-01T12:34:38.000Z"
-        },
-        {
-            "id": 4175922,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5819230.d.html",
-            "title": "【“五一”首日“三船同靠” 邮轮出游迎高峰】 5月1日，“海洋赞礼”号、“梦想”号和“芮吉塔”号三艘邮轮同靠天津国际邮轮母港，这是邮轮复航以来，天津邮轮口岸首次迎来“三轮同靠”的盛况。当日入出境（港）人员接近2万人次，办理240小时过境免签手续的旅客达到400余人，创下天津邮轮口岸复航以来单日出入境（港）人数和单日办理240小时过境免签手续人数新高。（新华社）",
-            "date_modified": "2025-05-01T12:29:48.000Z"
-        },
-        {
-            "id": 4175921,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5819104.d.html",
-            "title": "好时：第三季度关税支出料将增加。",
-            "date_modified": "2025-05-01T12:28:52.000Z"
-        },
-        {
-            "id": 4175916,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9043657.d.html",
-            "title": "美国国家经济委员会主任哈塞特：特朗普不支持对富人增税。",
-            "date_modified": "2025-05-01T12:24:22.000Z"
-        },
-        {
-            "id": 4175915,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5818167.d.html",
-            "title": "【本轮巴以冲突已致加沙地带52418人死亡】当地时间5月1日，加沙地带卫生部门发表声明称，自2023年10月7日新一轮巴以冲突爆发以来，以军在加沙的军事行动已导致52418人死亡、118091人受伤。此外，自3月18日以军破坏加沙停火协议并恢复作战以来，以军的袭击已造成至少2326人死亡，另有6050人受伤。（央视新闻）",
-            "date_modified": "2025-05-01T12:24:19.000Z"
-        },
-        {
-            "id": 4175914,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5818035.d.html",
-            "title": "【美国商会致信白宫要求给予小企业关税豁免】美国商会周三致白宫的信件显示，美国商会寻求立即给予小企业关税豁免。商会还要求立即豁免美国国内无法供应的产品，如咖啡、香蕉和某些工业原料。商会要求为那些能够证明因关税而导致工作岗位减少的公司制定豁免程序。",
-            "date_modified": "2025-05-01T12:23:56.000Z"
-        },
-        {
-            "id": 4175913,
-            "content_html": "",
-            "title": "Truist Securities：将Meta目标价从700美元上调至720美元。",
-            "date_modified": "2025-05-01T12:23:14.000Z"
-        },
-        {
-            "id": 4175911,
-            "content_html": "",
-            "title": "信函显示，印度航空公司预计巴基斯坦领空禁令可能会在12个月内使其损失6亿美元，正寻求政府支持。",
-            "date_modified": "2025-05-01T12:21:11.000Z"
-        },
-        {
-            "id": 4175910,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtu5817515.d.html",
-            "title": "印度国防部长：美国国防部长重申美国政府强烈支持印度打击“恐怖主义”。",
-            "date_modified": "2025-05-01T12:21:03.000Z"
-        },
-        {
-            "id": 4175909,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0589971.d.html",
-            "title": "美国国家经济委员会主任哈塞特：收到20多个国家的贸易提议。",
-            "date_modified": "2025-05-01T12:20:44.000Z"
-        },
-        {
-            "id": 4175908,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9042904.d.html",
-            "title": "印度国防部长：美国国防部长赫格塞思称，美国坚定支持印度。",
-            "date_modified": "2025-05-01T12:20:17.000Z"
-        },
-        {
-            "id": 4175901,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9041996.d.html",
-            "title": "Moderna首席财务官：目前关税没有显著的直接影响。",
-            "date_modified": "2025-05-01T12:15:13.000Z"
-        },
-        {
-            "id": 4175900,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0588859.d.html",
-            "title": "【2025五一档档期票房破2亿】据猫眼专业版数据， 截至5月1日20时09分，2025年五一档（5月1日-5月5日）总票房（含预售）破2亿，《水饺皇后》《猎金·游戏》《幽灵公主》分列档期票房榜前三位。",
-            "date_modified": "2025-05-01T12:13:20.000Z"
-        },
-        {
-            "id": 4175896,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtr2914927.d.html",
-            "title": "TD Cowen：将微软目标价从475美元上调至490美元。",
-            "date_modified": "2025-05-01T12:09:55.000Z"
-        },
-        {
-            "id": 4175891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamtw0587474.d.html",
-            "title": "市场消息：美国商会请求免除小企业关税。",
-            "date_modified": "2025-05-01T12:05:25.000Z"
-        },
-        {
-            "id": 4175889,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-01/detail-inevamts9039829.d.html",
-            "title": "【福建：要更大力度扩大内需 多措并举帮扶困难企业】 据福建日报，4月30日，福建省委书记周祖翼主持召开省委常委会会议。会议强调，要扎实做好经济工作，更加精准有效施策，更大力度扩大内需，多措并举帮扶困难企业，持续深化改革开放，着力防范化解重点领域风险，用心用情保民生。",
-            "date_modified": "2025-05-01T12:03:43.000Z"
         }
     ]
 }
