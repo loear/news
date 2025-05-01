@@ -4,11 +4,75 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 01 May 2025 16:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 17:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【OPEC石油产量4月意外下滑 未能实现预期增产】尽管石油输出国组织(OPEC)计划增加石油产量，但该产油国组织的4月石油产量反而下降，主要是因为委内瑞拉受到美国新制裁的影响。根据调查，OPEC在4月的产量减少20万桶/日，至2,724万桶/日。其中约一半的下降来自委内瑞拉，因为雪佛龙等国际生产商缩减当地生产，同时特朗普政府收紧了制裁。但尚不清楚为何沙特和阿联酋等其他OPEC成员国没有借此机会最终增产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawim2698802.d.html</link>
+            <guid>4176209</guid>
+            <pubDate>Thu, 01 May 2025 17:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南方铜业公司：预计（美国总统特朗普挑起的）关税将造成本公司成本上升1%-3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawin8825860.d.html</link>
+            <guid>4176207</guid>
+            <pubDate>Thu, 01 May 2025 17:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：微软准备托管马斯克旗下的Grok AI模型】据报道，一位熟悉微软计划的可靠消息人士透露，微软一直在指示其人工智能基础设施的工程师做好托管马斯克的Grok AI模型的准备。最近几周，微软一直在与xAI讨论托管Grok模型，并通过Azure云服务提供给客户和微软自己的产品团队。此举可能会在内部引起争议，并进一步激化与微软合作伙伴OpenAI的紧张关系。据悉，如果交易继续进行，Grok将在微软的人工智能开发平台Azure AI Foundry上可用，该平台可让开发人员访问人工智能服务、工具和预建模型，以构建人工智能应用程序和代理。这将使开发者能够接入Grok 并在自己的应用程序中使用它，微软也有可能在自己的应用程序和服务中使用该人工智能模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawin8825823.d.html</link>
+            <guid>4176206</guid>
+            <pubDate>Thu, 01 May 2025 17:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：微软与马斯克旗下初创公司XAI洽谈关于后者大模型Grok AI模型的问题。]]></title>
+            <guid>4176205</guid>
+            <pubDate>Thu, 01 May 2025 17:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部称，危地马拉咖啡产量预计将小幅增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawiq5596009.d.html</link>
+            <guid>4176199</guid>
+            <pubDate>Thu, 01 May 2025 16:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军空袭黎南部城镇 造成3人死亡】黎巴嫩安全部门5月1日表示，当天以色列军队一架无人机空袭了黎南部城镇梅斯贾巴尔的一辆汽车，已造成3人死亡。黎巴嫩媒体称死者中有一名黎真主党成员。以色列国防军5月1日表示，当天以军在黎南部梅斯贾巴尔地区发动无人机袭击，打死了一名黎真主党精锐部队拉德万部队的武装人员。此外，以军当天还在同一地区打死另一名真主党武装人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawiq5595987.d.html</link>
+            <guid>4176198</guid>
+            <pubDate>Thu, 01 May 2025 16:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通将福特汽车目标价从每股11美元上调至12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawin8820623.d.html</link>
+            <guid>4176196</guid>
+            <pubDate>Thu, 01 May 2025 16:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：谁从伊朗进口石油，谁就不能和我们做生意。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawiq5594661.d.html</link>
+            <guid>4176194</guid>
+            <pubDate>Thu, 01 May 2025 16:41:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：4月30日对伊朗石油实施了制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawim2694426.d.html</link>
+            <guid>4176193</guid>
+            <pubDate>Thu, 01 May 2025 16:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：美乌矿产协议将提交乌拉达批准】当地时间5月1日，乌克兰总统泽连斯基表示，乌政府团队发布了有关与美国经济伙伴关系的报告。他表示，乌美矿产协议已经签署，并将送交乌克兰最高拉达批准，希望确保该协议不会出现延误。他强调协议中不涉及债务，并正在创建一个复苏基金。这是与美国在公平条件下的合作，乌美双方都可以从合作中获益。他表示，与美国总统特朗普在梵蒂冈的会谈中谈论了双方达成协议的准备情况。事实上，这可以被看作是梵蒂冈会议的第一个成果，他表示期待美乌此次会谈的其他成果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawin8819203.d.html</link>
+            <guid>4176191</guid>
+            <pubDate>Thu, 01 May 2025 16:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：05月02日00时04分在阿根廷（南纬28.55度，西经67.35度）发生5.6级地震，震源深度30千米。]]></title>
+            <guid>4176190</guid>
+            <pubDate>Thu, 01 May 2025 16:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统特朗普：将签署行政令，成立宗教自由委员会。]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-02/detail-inevawis0366411.d.html</link>
@@ -364,68 +428,6 @@
             <title><![CDATA[霍尼韦尔航天首席执行官：如果90天期限过去，关税影响的最坏情况将达到约8000万美元；在采取缓解措施以及转嫁给客户后，2025年的净影响不到1500万美元。]]></title>
             <guid>4176108</guid>
             <pubDate>Thu, 01 May 2025 14:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，卡塔尔能源正与日本液化天然气进口商就大型长期供应协议进行洽谈。此项交易将每年向一个日本财团供应至少300万公吨液化天然气。]]></title>
-            <guid>4176106</guid>
-            <pubDate>Thu, 01 May 2025 14:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[观察人士称，美国进出口银行董事会投票决定终止限制对海外煤炭项目放贷的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzp2811443.d.html</link>
-            <guid>4176103</guid>
-            <pubDate>Thu, 01 May 2025 14:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将eBay目标价从70.00美元上调至74.00美元。]]></title>
-            <guid>4176102</guid>
-            <pubDate>Thu, 01 May 2025 14:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[装货安排显示：利比亚计划5月份石油发货量为120万桶/日，总体发货量预计为3710万桶。相比之下，4月份发货量为123万桶/日，总体发货3690万桶。Es Sider油田发货量预计为112万桶/日，4月发货34.7万桶/日。]]></title>
-            <guid>4176101</guid>
-            <pubDate>Thu, 01 May 2025 14:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦证券交易所集团（LSEG）：标准普尔500指数2025年第一季度的同比盈利增长目前预计为12.9%，而一周前为8.9%；第二季度盈利增长为6.9%，低于4月1日预期的10.2%。]]></title>
-            <guid>4176099</guid>
-            <pubDate>Thu, 01 May 2025 14:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车涨2.3%，4月在美国销量同比增长16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzs5708641.d.html</link>
-            <guid>4176095</guid>
-            <pubDate>Thu, 01 May 2025 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院国资委主任张玉卓检查国资央企“五一”假期值班工作】 5月1日上午，国务院国资委党委书记、主任张玉卓到国资委机关值班室检查“五一”假期国资央企值班工作。张玉卓强调，国资央企系统值班工作是维护社会稳定、保障公共服务、防范重大风险的重要环节。要切实筑牢安全生产防线，加强值班值守，加强交通运输、文化旅游、建筑施工、煤炭矿山、能源电力等重点行业企业风险隐患排查，完善应急预案，坚决防范遏制重大安全事故，切实维护人民群众生命财产安全和社会稳定。要始终秉承“守土有责、守土尽责”理念，坚决落实值班值守职责，做好值班应急、信息报送、沟通协调、服务保障等各项重点工作。要充分发挥中央企业“顶梁柱”作用，确保节假日期间能源保供、通讯保障等公共服务稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzs5708470.d.html</link>
-            <guid>4176093</guid>
-            <pubDate>Thu, 01 May 2025 14:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫国家安全顾问沃尔兹及其副手将离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8933921.d.html</link>
-            <guid>4176092</guid>
-            <pubDate>Thu, 01 May 2025 14:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港铁“猫狗同行”轻铁试行计划正式上线】香港铁路有限公司（港铁）1日起在轻铁全线正式试行“猫狗同行”计划，允许宠物主人即日起至另行通知的其他日期期间，每逢星期六、星期日及公众假期携带猫狗搭乘轻铁。 根据规定，携带猫狗的乘客除如常支付本人车费外，须购买并持有“猫狗同行证”方可携带猫、狗乘搭轻铁，警犬及导盲犬不在此限。此外，港铁还发布了轻铁“猫狗同行证”使用条款及细则，对试行期间宠物的乘车范围、乘车位置、上下车位置、专用袋规格等做了规定及说明，并呼吁乘客相互包容与尊重。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzq8933745.d.html</link>
-            <guid>4176091</guid>
-            <pubDate>Thu, 01 May 2025 14:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国ISM制造业指数创11月以来最大降幅 订单疲弱叠加产出放缓】美国4月制造业萎缩幅度创五个月来最大，订单疲软导致产出创2020年以来最大下降。美国供应管理协会(ISM)周四公布数据显示，4月制造业指数下降0.3点至48.7，低于50这一荣枯分水岭，表明制造业整体处于萎缩区间。生产指标大幅下滑逾4点至44。投入品价格指标小幅上升。数据显示，关税压力和贸易政策不确定性正在限制制造业扩张。新订单连续第三个月下滑，未完成订单加速减少，需求整体偏弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzp2810103.d.html</link>
-            <guid>4176090</guid>
-            <pubDate>Thu, 01 May 2025 14:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood首席执行官：股票和期权目前处于或接近高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-01/detail-inevarzu0483012.d.html</link>
-            <guid>4176086</guid>
-            <pubDate>Thu, 01 May 2025 14:38:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
