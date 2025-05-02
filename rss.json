@@ -6,6 +6,25 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4177418,
+            "content_html": "",
+            "title": "美国环保署（EPA）表示，将把员工数量削减至20世纪80年代以来的最低水平，削减3亿美元预算。",
+            "date_modified": "2025-05-02T19:14:32.000Z"
+        },
+        {
+            "id": 4177411,
+            "content_html": "",
+            "title": "巴西游说团体ABPA表示，巴西农业部长通报称，韩国对巴西猪肉出口免征关税。免税额度为10,000吨冷冻猪肉，猪腹部除外。",
+            "date_modified": "2025-05-02T18:56:16.000Z"
+        },
+        {
+            "id": 4177409,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-03/detail-inevffqn4415823.d.html",
+            "title": "诺和诺德：美国食品药品监督管理局（FDA）受理口服版司美格鲁肽（Wegovy）的新药申请。若获批，司美格鲁肽将成为首个用于慢性体重管理的GLP-1口服制剂。",
+            "date_modified": "2025-05-02T18:43:04.000Z"
+        },
+        {
             "id": 4177406,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-05-03/detail-inevffqn4412738.d.html",
@@ -365,54 +384,6 @@
             "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhn7743424.d.html",
             "title": "【欧股大幅收涨 德国DAX30指数涨2.55%】欧股大幅收涨，德国DAX30指数涨2.55%，英国富时100指数涨1.13%，法国CAC40指数涨2.33%，欧洲斯托克50指数涨2.37%。",
             "date_modified": "2025-05-02T15:31:06.000Z"
-        },
-        {
-            "id": 4177317,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhn7743297.d.html",
-            "title": "加拿大总理卡尼：特朗普是个不错的谈判者，他尊重强者。",
-            "date_modified": "2025-05-02T15:29:35.000Z"
-        },
-        {
-            "id": 4177315,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhn7743221.d.html",
-            "title": "加拿大总理卡尼：加拿大人已经明确表示永远不会加入美国。",
-            "date_modified": "2025-05-02T15:28:33.000Z"
-        },
-        {
-            "id": 4177313,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhn7743122.d.html",
-            "title": "加拿大总理卡尼：特朗普在周二的通话中没有提及第51个州的事情。",
-            "date_modified": "2025-05-02T15:27:26.000Z"
-        },
-        {
-            "id": 4177312,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhq4517534.d.html",
-            "title": "特朗普的预算案将削减航天局总体资金的24%，取消“门户”月球站计划。",
-            "date_modified": "2025-05-02T15:26:19.000Z"
-        },
-        {
-            "id": 4177311,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhm1629109.d.html",
-            "title": "【乌副总理：美乌重建投资基金将在获批后尽快启动】乌克兰第一副总理、经济部长2日表示，美乌于4月30日同意建立的“美国-乌克兰重建投资基金”，也就是此前所称的“美乌矿产协议”已被提交至乌克兰议会。据乌克兰国际文传电讯社2日报道，乌克兰最高拉达（议会）将于5月8日召开特别会议，审议这项美乌间达成的协议并进行投票表决。斯维里坚科表示，如果议会顺利通过，“美国-乌克兰重建投资基金”预计将在一个月至一个半月内正式运作。乌方希望基金尽快启动，并将其视为促进乌克兰经济复苏的重要工具。",
-            "date_modified": "2025-05-02T15:26:04.000Z"
-        },
-        {
-            "id": 4177310,
-            "content_html": "",
-            "title": "白宫管理和预算办公室（OMB）高级官员：计划向国会提交削减政府效率部（DOGE）的撤销法案。",
-            "date_modified": "2025-05-02T15:25:14.000Z"
-        },
-        {
-            "id": 4177309,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-02/detail-inevezhq4517321.d.html",
-            "title": "加拿大总理卡尼：已与反对党领导人就美国贸易战略进行过沟通。",
-            "date_modified": "2025-05-02T15:24:18.000Z"
         }
     ]
 }
