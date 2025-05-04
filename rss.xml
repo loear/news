@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 May 2025 20:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 21:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【莫斯科一住宅楼发生爆炸引发火灾致2死6伤】俄罗斯紧急情况部4日在社交媒体上发文说，俄首都莫斯科西南部一栋住宅楼4日晚发生爆炸并引发火灾，造成2人死亡、6人受伤。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyai6739358.d.html</link>
+            <guid>4178740</guid>
+            <pubDate>Sun, 04 May 2025 21:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一汇市盘初，美元兑加元USD/CAD走弱，现报1.3792，上周五收报1.3817。美元指数DXY下破100，报99.97。]]></title>
+            <guid>4178739</guid>
+            <pubDate>Sun, 04 May 2025 21:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以安全内阁召开会议 讨论加沙军事扩展计划】当地时间5月4日获悉，以色列安全内阁当晚召开会议，重点讨论近期将启动的加沙地带军事行动扩展计划，该计划与日前国防军大规模征召预备役部队同步推进。据了解，与会人员听取了有关分阶段计划的汇报，其中包括在第一阶段接管加沙地带的更多地区，并扩大周边缓冲区，从而在谈判中获得更多战略筹码。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyae5178674.d.html</link>
+            <guid>4178738</guid>
+            <pubDate>Sun, 04 May 2025 20:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大总理访美前夕 特朗普称将永远谈论“第51个州”】当地时间5月4日，美国总统特朗普在接受美媒采访时重申要让加拿大成为美国“第51个州”，并表示他将“永远谈论此事”。特朗普说：“我们每年向加拿大提供高达2000亿美元的补贴。”当被问及是否会考虑动用武力吞并加拿大时，特朗普认为“我们永远不会走到那一步”。加拿大总理卡尼将于6日在白宫与特朗普会面，就关税问题以及更广泛的加美关系进行全面讨论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyam6172417.d.html</link>
+            <guid>4178736</guid>
+            <pubDate>Sun, 04 May 2025 20:35:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【胡塞武装：对以实施空中封锁 仍将继续袭击以机场】当地时间5月4日晚间，也门胡塞武装发言人叶海亚·萨雷亚发表声明称，鉴于以色列决定扩大在加沙地带的军事行动。胡塞武装决定对以色列进行全面空中封锁，并不断袭击以本-古里安国际机场为代表的以色列机场。同时胡塞武装还呼吁各国航空公司在此声明发布后认真考虑，取消前往以色列的航班，保障飞机和乘客的安全。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyae5172786.d.html</link>
@@ -441,29 +464,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawv6642503.d.html</link>
             <guid>4178371</guid>
             <pubDate>Sun, 04 May 2025 12:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加沙卫生部门：过去24小时以军行动造成至少40人死亡】据巴勒斯坦加沙地带卫生部门4日发布的数据，过去24小时内，以色列军队在加沙地带的军事行动造成至少40人死亡、125人受伤。该部门说，今年3月18日以来，以军对加沙地带多地发动袭击，已造成至少2436人死亡、6450人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmaws2410549.d.html</link>
-            <guid>4178369</guid>
-            <pubDate>Sun, 04 May 2025 12:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【Epic Games将允许开发者通过Epic游戏商城托管并运营自有网上商店】 5月4日，据Epic Games官网公告，该公司自2025年6月起，针对所有通过Epic游戏商城处理的付款交易，开发者每年每款应用的前100万美元收益将享受0%分成比例，超出部分则按平台常规的88%/12%（开发者/平台）比例分成。此外，该公司将于2025年6月推出新功能，允许开发者通过Epic游戏商城托管并运营自己的网上商店。“这些网上商店可以为玩家提供应用外购买选项。与通过应用内购买收取高额抽成的Apple和Google等平台相比，这种方式能为开发者节省更多成本。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawt7206560.d.html</link>
-            <guid>4178368</guid>
-            <pubDate>Sun, 04 May 2025 12:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北宣恩文旅局回应游客住进局长家：体育馆设百张床位，游客借宿职工家情况缓解】近日湖北宣恩县游客爆满，“游客住进文旅局局长家中”引发关注。5月4日，宣恩县文旅局工作人员告诉澎湃新闻，体育馆已开放百张床位，“游客在职工家住宿情况”有所缓解。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmaws2409753.d.html</link>
-            <guid>4178360</guid>
-            <pubDate>Sun, 04 May 2025 12:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空取消周日从肯尼迪机场飞往特拉维夫的航班以及周一从特拉维夫飞往肯尼迪机场的航班。]]></title>
-            <guid>4178355</guid>
-            <pubDate>Sun, 04 May 2025 12:06:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
