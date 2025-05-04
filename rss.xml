@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 04 May 2025 21:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 22:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【WTI原油跌幅扩大至5%】WTI原油跌幅扩大至5%，最低至55.03美元/桶。消息面上，欧佩克+成员国同意6月增产41.1万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevnekf6612360.d.html</link>
+            <guid>4178745</guid>
+            <pubDate>Sun, 04 May 2025 22:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西太平洋银行上半年净利润33.2亿澳元 符合预期】西太平洋银行上半年净利润33.2亿澳元，预估33.2亿澳元；每股中期派息0.76澳元，预估0.78澳元；上半年普通股一级资本充足率12.2％，预估11.9％；上半年股本回报率9.42％。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyai6740759.d.html</link>
+            <guid>4178742</guid>
+            <pubDate>Sun, 04 May 2025 21:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【莫斯科一住宅楼发生爆炸引发火灾致2死6伤】俄罗斯紧急情况部4日在社交媒体上发文说，俄首都莫斯科西南部一栋住宅楼4日晚发生爆炸并引发火灾，造成2人死亡、6人受伤。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyai6739358.d.html</link>
@@ -440,30 +452,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmiet6515029.d.html</link>
             <guid>4178382</guid>
             <pubDate>Sun, 04 May 2025 12:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：美国政府拟削减NASA预算 将重心转向登月与火星】据美国《纽约时报》等外媒近日报道，美国政府提出了一项削减美国国家航空航天局(NASA)预算约60亿美元的计划。同时，该计划还将为火星探测项目引入10亿美元的投资。报道称，美国政府的新预算提案显示，NASA今后的任务，几乎只专注于把人送上月球和火星。这意味着，NASA接下来将减少在太空科学、地球观测等诸多项目的研究资金，把重心全部转向这两项目标。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmiet6514872.d.html</link>
-            <guid>4178381</guid>
-            <pubDate>Sun, 04 May 2025 12:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京称俄中关系对维护世界稳定具有战略意义】俄罗斯总统普京在“俄罗斯-1”电视频道4日播出的一部纪录片中表示，自25年前他初次担任总统时就注意到世界经济发展重心正向亚太地区转移。俄罗斯积极发展同中国的关系，为世界稳定打造坚实基础。普京强调，在当今条件下，俄中关系具有深刻的战略意义。“全球性动荡未见缓和，反而呈现扩散态势。俄中两国可靠、稳定的关系本身增强了世界稳定性。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmieq2282559.d.html</link>
-            <guid>4178380</guid>
-            <pubDate>Sun, 04 May 2025 12:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“五一”假期过半 浙江普陀山水域客流突破47万人次】“五一”假期过半，浙江海岛游持续火爆。记者4日从浙江海事局获悉，假期前三天，浙江普陀山水域客流已突破47万人次，单日最高进出岛旅客数达18.2万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmaws2412390.d.html</link>
-            <guid>4178379</guid>
-            <pubDate>Sun, 04 May 2025 12:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国航空暂停特拉维夫航班至5月7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawv6642503.d.html</link>
-            <guid>4178371</guid>
-            <pubDate>Sun, 04 May 2025 12:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
