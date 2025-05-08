@@ -4,13 +4,85 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 08 May 2025 20:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 21:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[乌克兰总统泽连斯基：在与特朗普的通话中重申，乌克兰已准备好以任何形式进行和平谈判。]]></title>
+            <title><![CDATA[美国商务部长卢特尼克：关税改革和降低赤字是特朗普提振经济的王牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynf2018675.d.html</link>
+            <guid>4186193</guid>
+            <pubDate>Thu, 08 May 2025 21:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司：将根据风险评估和产量前景，决定重新开采哪些油气井。一直在计划在墨西哥湾进行一项大规模的二次采油项目。尚未推进第二次采收计划，部分原因是资金短缺。]]></title>
+            <guid>4186192</guid>
+            <pubDate>Thu, 08 May 2025 21:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长卢特尼克：可能会与印度修订7000行关税内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4815874.d.html</link>
+            <guid>4186190</guid>
+            <pubDate>Thu, 08 May 2025 21:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长卢特尼克：10%的关税是底线。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9691306.d.html</link>
+            <guid>4186185</guid>
+            <pubDate>Thu, 08 May 2025 21:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月8日美股成交额前20：苹果自研芯片研发取得进展】周四美股成交额第5名苹果收高0.63%，成交97.06亿美元。苹果旗下晶硅设计团队正在研发新的芯片，这些芯片将成为未来设备的大脑，包括其首款智能眼镜、功能更强大的Mac和AI服务器。消息称该公司在智能眼镜芯片研发方面取得了进展。此举表明苹果正在加紧研发此类设备，以挑战Meta的Ray-Ban眼镜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8039988.d.html</link>
+            <guid>4186183</guid>
+            <pubDate>Thu, 08 May 2025 21:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长卢特尼克：特朗普与英国达成贸易协议，并使其更加完善。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8038012.d.html</link>
+            <guid>4186174</guid>
+            <pubDate>Thu, 08 May 2025 20:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长卢特尼克：下一笔贸易协议将重点关注大国。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4812356.d.html</link>
+            <guid>4186173</guid>
+            <pubDate>Thu, 08 May 2025 20:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：终止拜登时期的“数字公平法案”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4811990.d.html</link>
+            <guid>4186170</guid>
+            <pubDate>Thu, 08 May 2025 20:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：希望俄乌双方能遵守可接受的停火协议】美国总统特朗普表示，希望俄乌双方能遵守可接受的停火协议，如果停火协议未能得到遵守，美国及其合作伙伴将会采取进一步的制裁措施。作为总统，他将继续致力于确保俄罗斯和乌克兰之间的和平，与欧洲人一起，这将是持久的和平。这次停火必须最终促成一项和平协议。这一切都可以很快完成，如果需要我的服务，我将随时待命。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4811578.d.html</link>
+            <guid>4186166</guid>
+            <pubDate>Thu, 08 May 2025 20:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：继续与俄罗斯和乌克兰对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9688986.d.html</link>
+            <guid>4186163</guid>
+            <pubDate>Thu, 08 May 2025 20:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe在政府效率部（DOGE）审查后降低美国软件价格，该公司表示在软件包方面对美国众多机构提供70%的折扣。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4810544.d.html</link>
+            <guid>4186154</guid>
+            <pubDate>Thu, 08 May 2025 20:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微芯科技第四财季调整后EPS为0.11美元 高于预期】微芯科技第四财季调整后EPS为0.11美元，分析师预期0.1美元；第四财季净销售9.705亿美元，分析师预期9.627亿美元；预计第一财季净销售10.2亿-10.7亿美元，分析师预期9.835亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9687951.d.html</link>
+            <guid>4186147</guid>
+            <pubDate>Thu, 08 May 2025 20:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基重申，乌克兰已准备好以任何形式进行和平谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9687872.d.html</link>
             <guid>4186145</guid>
             <pubDate>Thu, 08 May 2025 20:28:52 GMT</pubDate>
         </item>
@@ -21,7 +93,7 @@
             <pubDate>Thu, 08 May 2025 20:27:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国商务部长卢特尼克：希望50%的芯片在美国国内生产。]]></title>
+            <title><![CDATA[美国商务部长卢特尼克：我们希望50%的芯片实现国产化。]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynf2014294.d.html</link>
             <guid>4186141</guid>
             <pubDate>Thu, 08 May 2025 20:26:00 GMT</pubDate>
@@ -299,99 +371,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4799106.d.html</link>
             <guid>4186040</guid>
             <pubDate>Thu, 08 May 2025 19:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Meta Platforms正商谈部署稳定币】2019年，Meta宣布了一个大胆的项目：一种可以在Facebook、WhatsApp和其他众多数字平台上使用的新型加密货币。然而，面对美国国会和其他立法者的强烈反对，该公司最终放弃了这一计划。现在，Meta再次试水加密货币领域。据知情人士透露，该公司正在与加密货币公司讨论引入稳定币作为支付管理手段，并聘请了一位拥有加密货币经验的产品副总裁来协助引导相关讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8023720.d.html</link>
-            <guid>4186039</guid>
-            <pubDate>Thu, 08 May 2025 19:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普预计不会在沙特阿拉伯与普京会谈】美国总统特朗普表示，他预计不会在即将到来的中东之行期间与俄罗斯总统普京会面。尽管如此，特朗普表示两人在进行非常好的对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9681250.d.html</link>
-            <guid>4186035</guid>
-            <pubDate>Thu, 08 May 2025 19:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统发言人：总统泽连斯基正在与美国总统特朗普通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927961.d.html</link>
-            <guid>4186033</guid>
-            <pubDate>Thu, 08 May 2025 19:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷3月份工业产值同比增长5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuep9811622.d.html</link>
-            <guid>4186031</guid>
-            <pubDate>Thu, 08 May 2025 19:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际航空集团（IAG） 将向空客订购约30架宽体喷气式飞机，包括A330和A350型号。]]></title>
-            <guid>4186030</guid>
-            <pubDate>Thu, 08 May 2025 19:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：壳牌加拿大液化天然气项目计划在 6 月底之前实现首次出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927331.d.html</link>
-            <guid>4186027</guid>
-            <pubDate>Thu, 08 May 2025 18:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗：我们将与英国就钢铁问题达成替代安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927127.d.html</link>
-            <guid>4186026</guid>
-            <pubDate>Thu, 08 May 2025 18:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗：美英协议将提振牛肉、乳制品、玉米和乙醇出口。美英数字服务条款仍在谈判中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuei2137238.d.html</link>
-            <guid>4186021</guid>
-            <pubDate>Thu, 08 May 2025 18:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗：英国与美国的协议为我们如何推进提供了模板。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuep9810445.d.html</link>
-            <guid>4186020</guid>
-            <pubDate>Thu, 08 May 2025 18:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗：我们会关注波音(BA.N)。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuek8150561.d.html</link>
-            <guid>4186017</guid>
-            <pubDate>Thu, 08 May 2025 18:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：出于商业原因，美国版谷歌支付公司（GPC）的P2P产品已于2024年6月停用，远早于美国消费者金融保护局发布相关指定 。]]></title>
-            <guid>4186016</guid>
-            <pubDate>Thu, 08 May 2025 18:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌发言人：立即停止对美国消费者金融保护局（CFPB）的诉讼，因为CFPB决定撤回对谷歌支付公司进行监管的相关努力。]]></title>
-            <guid>4186015</guid>
-            <pubDate>Thu, 08 May 2025 18:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普说他周四会见了泰格·伍兹。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuek8149307.d.html</link>
-            <guid>4186014</guid>
-            <pubDate>Thu, 08 May 2025 18:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：我们距离达成能够向加沙运送食品和援助物资的解决方案仅有几步之遥。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4923237.d.html</link>
-            <guid>4186010</guid>
-            <pubDate>Thu, 08 May 2025 18:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表格里尔：美英协议是正确的模式。其他国家应该以此为模板。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4923217.d.html</link>
-            <guid>4186009</guid>
-            <pubDate>Thu, 08 May 2025 18:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表格里尔： 美国可能需要对进口服务采取执法行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-09/detail-inevwuei2134569.d.html</link>
-            <guid>4186006</guid>
-            <pubDate>Thu, 08 May 2025 18:29:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

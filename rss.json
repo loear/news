@@ -6,9 +6,93 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4186193,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynf2018675.d.html",
+            "title": "美国商务部长卢特尼克：关税改革和降低赤字是特朗普提振经济的王牌。",
+            "date_modified": "2025-05-08T21:14:38.000Z"
+        },
+        {
+            "id": 4186192,
+            "content_html": "",
+            "title": "墨西哥国家石油公司：将根据风险评估和产量前景，决定重新开采哪些油气井。一直在计划在墨西哥湾进行一项大规模的二次采油项目。尚未推进第二次采收计划，部分原因是资金短缺。",
+            "date_modified": "2025-05-08T21:12:00.000Z"
+        },
+        {
+            "id": 4186190,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4815874.d.html",
+            "title": "美国商务部长卢特尼克：可能会与印度修订7000行关税内容。",
+            "date_modified": "2025-05-08T21:11:14.000Z"
+        },
+        {
+            "id": 4186185,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9691306.d.html",
+            "title": "美国商务部长卢特尼克：10%的关税是底线。",
+            "date_modified": "2025-05-08T21:05:09.000Z"
+        },
+        {
+            "id": 4186183,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8039988.d.html",
+            "title": "【5月8日美股成交额前20：苹果自研芯片研发取得进展】周四美股成交额第5名苹果收高0.63%，成交97.06亿美元。苹果旗下晶硅设计团队正在研发新的芯片，这些芯片将成为未来设备的大脑，包括其首款智能眼镜、功能更强大的Mac和AI服务器。消息称该公司在智能眼镜芯片研发方面取得了进展。此举表明苹果正在加紧研发此类设备，以挑战Meta的Ray-Ban眼镜。",
+            "date_modified": "2025-05-08T21:01:37.000Z"
+        },
+        {
+            "id": 4186174,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8038012.d.html",
+            "title": "美国商务部长卢特尼克：特朗普与英国达成贸易协议，并使其更加完善。",
+            "date_modified": "2025-05-08T20:47:21.000Z"
+        },
+        {
+            "id": 4186173,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4812356.d.html",
+            "title": "美国商务部长卢特尼克：下一笔贸易协议将重点关注大国。",
+            "date_modified": "2025-05-08T20:46:09.000Z"
+        },
+        {
+            "id": 4186170,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4811990.d.html",
+            "title": "美国总统特朗普：终止拜登时期的“数字公平法案”。",
+            "date_modified": "2025-05-08T20:43:47.000Z"
+        },
+        {
+            "id": 4186166,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4811578.d.html",
+            "title": "【特朗普：希望俄乌双方能遵守可接受的停火协议】美国总统特朗普表示，希望俄乌双方能遵守可接受的停火协议，如果停火协议未能得到遵守，美国及其合作伙伴将会采取进一步的制裁措施。作为总统，他将继续致力于确保俄罗斯和乌克兰之间的和平，与欧洲人一起，这将是持久的和平。这次停火必须最终促成一项和平协议。这一切都可以很快完成，如果需要我的服务，我将随时待命。",
+            "date_modified": "2025-05-08T20:41:34.000Z"
+        },
+        {
+            "id": 4186163,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9688986.d.html",
+            "title": "美国总统特朗普：继续与俄罗斯和乌克兰对话。",
+            "date_modified": "2025-05-08T20:39:45.000Z"
+        },
+        {
+            "id": 4186154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4810544.d.html",
+            "title": "Adobe在政府效率部（DOGE）审查后降低美国软件价格，该公司表示在软件包方面对美国众多机构提供70%的折扣。",
+            "date_modified": "2025-05-08T20:34:46.000Z"
+        },
+        {
+            "id": 4186147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9687951.d.html",
+            "title": "【微芯科技第四财季调整后EPS为0.11美元 高于预期】微芯科技第四财季调整后EPS为0.11美元，分析师预期0.1美元；第四财季净销售9.705亿美元，分析师预期9.627亿美元；预计第一财季净销售10.2亿-10.7亿美元，分析师预期9.835亿美元。",
+            "date_modified": "2025-05-08T20:29:56.000Z"
+        },
+        {
             "id": 4186145,
             "content_html": "",
-            "title": "乌克兰总统泽连斯基：在与特朗普的通话中重申，乌克兰已准备好以任何形式进行和平谈判。",
+            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9687872.d.html",
+            "title": "乌克兰总统泽连斯基重申，乌克兰已准备好以任何形式进行和平谈判。",
             "date_modified": "2025-05-08T20:28:52.000Z"
         },
         {
@@ -22,7 +106,7 @@
             "id": 4186141,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynf2014294.d.html",
-            "title": "美国商务部长卢特尼克：希望50%的芯片在美国国内生产。",
+            "title": "美国商务部长卢特尼克：我们希望50%的芯片实现国产化。",
             "date_modified": "2025-05-08T20:26:00.000Z"
         },
         {
@@ -345,115 +429,6 @@
             "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynk4799106.d.html",
             "title": "【科创债“扩容”热潮涌动 机构企业抢滩发行总额超百亿】5月7日，中国人民银行、中国证监会联合发布关于支持发行科技创新债券有关事宜的公告，其中一大亮点是在发行主体上新增支持金融机构、科技型企业、私募股权投资机构和创业投资机构发行科技创新债券。政策风起，各大发行主体积极响应。国家开发银行、工商银行、兴业银行以及多家证券公司纷纷公告发行计划。另据交易商协会数据，截至5月8日，已有36家企业公告发行科技创新债券，发行规模合计210亿元；14家企业开展注册申报，注册规模合计180亿元。24家股权投资机构注册发行科技创新债券，预计总体规模近100亿元。（证券时报）",
             "date_modified": "2025-05-08T19:15:47.000Z"
-        },
-        {
-            "id": 4186039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynh8023720.d.html",
-            "title": "【Meta Platforms正商谈部署稳定币】2019年，Meta宣布了一个大胆的项目：一种可以在Facebook、WhatsApp和其他众多数字平台上使用的新型加密货币。然而，面对美国国会和其他立法者的强烈反对，该公司最终放弃了这一计划。现在，Meta再次试水加密货币领域。据知情人士透露，该公司正在与加密货币公司讨论引入稳定币作为支付管理手段，并聘请了一位拥有加密货币经验的产品副总裁来协助引导相关讨论。",
-            "date_modified": "2025-05-08T19:10:04.000Z"
-        },
-        {
-            "id": 4186035,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwynm9681250.d.html",
-            "title": "【特朗普预计不会在沙特阿拉伯与普京会谈】美国总统特朗普表示，他预计不会在即将到来的中东之行期间与俄罗斯总统普京会面。尽管如此，特朗普表示两人在进行非常好的对话。",
-            "date_modified": "2025-05-08T19:08:05.000Z"
-        },
-        {
-            "id": 4186033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927961.d.html",
-            "title": "乌克兰总统发言人：总统泽连斯基正在与美国总统特朗普通话。",
-            "date_modified": "2025-05-08T19:02:17.000Z"
-        },
-        {
-            "id": 4186031,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuep9811622.d.html",
-            "title": "阿根廷3月份工业产值同比增长5.2%。",
-            "date_modified": "2025-05-08T19:01:35.000Z"
-        },
-        {
-            "id": 4186030,
-            "content_html": "",
-            "title": "国际航空集团（IAG） 将向空客订购约30架宽体喷气式飞机，包括A330和A350型号。",
-            "date_modified": "2025-05-08T19:01:21.000Z"
-        },
-        {
-            "id": 4186027,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927331.d.html",
-            "title": "市场消息：壳牌加拿大液化天然气项目计划在 6 月底之前实现首次出口。",
-            "date_modified": "2025-05-08T18:58:01.000Z"
-        },
-        {
-            "id": 4186026,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4927127.d.html",
-            "title": "白宫贸易顾问纳瓦罗：我们将与英国就钢铁问题达成替代安排。",
-            "date_modified": "2025-05-08T18:56:43.000Z"
-        },
-        {
-            "id": 4186021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuei2137238.d.html",
-            "title": "白宫贸易顾问纳瓦罗：美英协议将提振牛肉、乳制品、玉米和乙醇出口。美英数字服务条款仍在谈判中。",
-            "date_modified": "2025-05-08T18:51:58.000Z"
-        },
-        {
-            "id": 4186020,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuep9810445.d.html",
-            "title": "白宫贸易顾问纳瓦罗：英国与美国的协议为我们如何推进提供了模板。",
-            "date_modified": "2025-05-08T18:50:58.000Z"
-        },
-        {
-            "id": 4186017,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuek8150561.d.html",
-            "title": "白宫贸易顾问纳瓦罗：我们会关注波音(BA.N)。",
-            "date_modified": "2025-05-08T18:45:34.000Z"
-        },
-        {
-            "id": 4186016,
-            "content_html": "",
-            "title": "谷歌：出于商业原因，美国版谷歌支付公司（GPC）的P2P产品已于2024年6月停用，远早于美国消费者金融保护局发布相关指定 。",
-            "date_modified": "2025-05-08T18:44:36.000Z"
-        },
-        {
-            "id": 4186015,
-            "content_html": "",
-            "title": "谷歌发言人：立即停止对美国消费者金融保护局（CFPB）的诉讼，因为CFPB决定撤回对谷歌支付公司进行监管的相关努力。",
-            "date_modified": "2025-05-08T18:43:38.000Z"
-        },
-        {
-            "id": 4186014,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuek8149307.d.html",
-            "title": "特朗普说他周四会见了泰格·伍兹。",
-            "date_modified": "2025-05-08T18:37:53.000Z"
-        },
-        {
-            "id": 4186010,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4923237.d.html",
-            "title": "美国国务院：我们距离达成能够向加沙运送食品和援助物资的解决方案仅有几步之遥。",
-            "date_modified": "2025-05-08T18:33:46.000Z"
-        },
-        {
-            "id": 4186009,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuen4923217.d.html",
-            "title": "美国贸易代表格里尔：美英协议是正确的模式。其他国家应该以此为模板。",
-            "date_modified": "2025-05-08T18:33:37.000Z"
-        },
-        {
-            "id": 4186006,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-09/detail-inevwuei2134569.d.html",
-            "title": "美国贸易代表格里尔： 美国可能需要对进口服务采取执法行动。",
-            "date_modified": "2025-05-08T18:29:39.000Z"
         }
     ]
 }
