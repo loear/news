@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 16 May 2025 16:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 17:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[微软：将继续在全球范围内提供所有不含Teams（微软团队）的Frontline（一线员工）套件版本。]]></title>
+            <guid>4199402</guid>
+            <pubDate>Fri, 16 May 2025 17:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic完成25亿美元五年期信用额度的融资，当前华尔街资金继续流向AI领域。]]></title>
+            <guid>4199400</guid>
+            <pubDate>Fri, 16 May 2025 17:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：状态页面显示，苹果支付出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-17/detail-inewuuyt0750322.d.html</link>
+            <guid>4199392</guid>
+            <pubDate>Fri, 16 May 2025 16:38:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[苹果发言人：已要求Epic（游戏公司）瑞典分部在不包含苹果应用商店美国店面（内容）的情况下重新提交应用更新。]]></title>
             <guid>4199390</guid>
@@ -343,45 +359,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-16/detail-inewuqsw5906501.d.html</link>
             <guid>4199301</guid>
             <pubDate>Fri, 16 May 2025 14:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渣打集团(02888)发布公告，于2025年5月15日该公司斥资1342.45万英镑回购116.79万股。]]></title>
-            <guid>4199299</guid>
-            <pubDate>Fri, 16 May 2025 14:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列军队正在袭击也门荷台达港。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-16/detail-inewuqsv0861231.d.html</link>
-            <guid>4199297</guid>
-            <pubDate>Fri, 16 May 2025 14:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音公司（BA）维持超过1%的跌幅，报道称，该公司与美国围绕坠机事故的官司达成临时不起诉协议。]]></title>
-            <guid>4199294</guid>
-            <pubDate>Fri, 16 May 2025 14:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据胡塞武装的媒体：以色列袭击也门萨利夫港。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-16/detail-inewuqsr8231820.d.html</link>
-            <guid>4199292</guid>
-            <pubDate>Fri, 16 May 2025 14:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[药房连锁CVS Health Corp.寻求收购Rite Aid Corp.位于美国西北部的多家门店和病患数据，后者正第二次申请破产。]]></title>
-            <guid>4199288</guid>
-            <pubDate>Fri, 16 May 2025 14:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府：英国外交大臣拉米访问巴基斯坦，欢迎停火协议的达成。拉米将明确表示“进一步的冲突对任何一方都没有利益”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-16/detail-inewuqsv0859687.d.html</link>
-            <guid>4199287</guid>
-            <pubDate>Fri, 16 May 2025 14:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：波音(BA.N)在致命坠机案件中达成了初步的不起诉协议。美国司法部正在权衡与波音公司就致命坠机案达成的不起诉协议，还是将波音公司送上法庭。波音不再同意在致命坠机案件中认罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-16/detail-inewuqsw5904394.d.html</link>
-            <guid>4199286</guid>
-            <pubDate>Fri, 16 May 2025 14:28:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
