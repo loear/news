@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 17 May 2025 18:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 19:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：德国、意大利表示，欧洲领导人“远未”就向乌克兰部署军队进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewxefp2752691.d.html</link>
+            <guid>4200089</guid>
+            <pubDate>Sat, 17 May 2025 19:11:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国外交部发言人：外交部长瓦德菲尔今天再次与以色列外长通电话。]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewxefp2749993.d.html</link>
@@ -512,24 +518,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-17/detail-inewwpiw9853898.d.html</link>
             <guid>4199852</guid>
             <pubDate>Sat, 17 May 2025 10:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《在学术期刊中合理应用人工智能的倡议书》发布】中国社会科学院图书馆5月17日在北京发布《在学术期刊中合理应用人工智能的倡议书》。倡议书提出，坚持正确的政治方向和学术导向；坚持以人为主，技术为辅；注重数据安全与隐私保护；保持透明性与可解释性；建立行业标准与规范；健全信息真实性审核机制；鼓励创新应用实践；加强人才队伍建设。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-17/detail-inewwpiv3079142.d.html</link>
-            <guid>4199851</guid>
-            <pubDate>Sat, 17 May 2025 10:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【进出口银行党委书记、董事长陈怀宇赴福建省调研】进出口银行党委书记、董事长陈怀宇赴福建省调研。在闽期间，陈怀宇董事长一行还与福耀玻璃工业集团股份有限公司、永荣控股集团有限公司负责人围绕制造业转型升级、全球化发展布局等议题深入交流，了解企业金融需求，并就深化合作交换意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-17/detail-inewwpiv3078763.d.html</link>
-            <guid>4199850</guid>
-            <pubDate>Sat, 17 May 2025 10:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家解读以色列“基甸战车”行动】以色列一直在加沙采取军事行动，现在又宣称启动对加沙地带的大规模攻势，代号为“基甸战车”。这个代号有什么含义？以色列加大对加沙进攻规模有何意图？宁夏大学中国阿拉伯国家研究院教授牛新春表示，以色列把这一次军事行动命名为“基甸战车”行动，是有一定的宗教历史和军事上的象征意义，这次的军事行动有三项核心目标。按照以色列总理内塔尼亚胡的说法，这是他在加沙地带的最后一次大规模军事行动。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-17/detail-inewwpit7262415.d.html</link>
-            <guid>4199849</guid>
-            <pubDate>Sat, 17 May 2025 10:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
