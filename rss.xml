@@ -4,13 +4,50 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 05 Jul 2025 21:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jul 2025 22:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【伊朗互联网出现中断】伊朗互联网部分基础设施网络的国际链接出现问题，该国大部分互联网服务提供商出现网络中断。目前伊朗官方暂未就此回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenrnw5842998.d.html</link>
+            <guid>4274598</guid>
+            <pubDate>Sat, 05 Jul 2025 22:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台7月6日06时解除强对流天气蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenrnu9067129.d.html</link>
+            <guid>4274597</guid>
+            <pubDate>Sat, 05 Jul 2025 22:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台7月6日06时继续发布高温黄色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenrnw5841638.d.html</link>
+            <guid>4274596</guid>
+            <pubDate>Sat, 05 Jul 2025 22:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台7月6日06时继续发布暴雨蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenrnt1169784.d.html</link>
+            <guid>4274595</guid>
+            <pubDate>Sat, 05 Jul 2025 22:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【时隔57年 印度领导人访问阿根廷】当地时间7月4日晚，印度总理莫迪抵达阿根廷首都布宜诺斯艾利斯开启对阿国事访问，这是自1968年甘地访问以来印度领导人再次访问阿根廷。5日，阿根廷总统米莱在总统府会见了莫迪，两人的会谈议题主要集中在农业、锂矿、能源和核能等战略领域的贸易合作。莫迪之后会前往巴西，出席将于里约热内卢举办的金砖国家领导人第十七次会晤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenrnu9067049.d.html</link>
+            <guid>4274594</guid>
+            <pubDate>Sat, 05 Jul 2025 22:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球博士生过剩 业界呼吁培养“产业博士”】近日，《自然》新闻版块撰文指出，过去几十年来，全球博士毕业生数量稳步增长。在中国和印度等国家，这一数字更是呈爆发式增长。针对大量的博士生人数，并没有足够多的研究机构的学术岗位可以容纳得下，而许多大学也没有为毕业生做好学术界以外职业的准备。为解决博士生过剩的难题，业内呼吁推出诸如“产业博士”的替代选择，能让博士生与企业合作，完成面向实际产业需求的研究，并更好地满足多样化的社会和劳动力市场的人才供给。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenmey5971490.d.html</link>
+            <guid>4274593</guid>
+            <pubDate>Sat, 05 Jul 2025 21:45:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【美国得州洪水死亡人数上升至32人】当地时间7月5日，美国得克萨斯州克尔县警长办公室称，得州4日因暴雨引发的洪灾死亡人数上升至32人。美国得克萨斯州州长阿博特在当日举行的新闻发布会上签署了一份联邦灾难的请求声明，以寻求联邦政府立即和持续的帮助。此外，阿博特还签署了一份文件，新增6个县纳入该州的灾难声明，并表示将根据需要继续扩展至其他县。此前，阿博特在4日向该州14个县发布了灾难声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenmey5970577.d.html</link>
             <guid>4274592</guid>
             <pubDate>Sat, 05 Jul 2025 21:25:40 GMT</pubDate>
         </item>
@@ -501,35 +538,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuie9545631.d.html</link>
             <guid>4274436</guid>
             <pubDate>Sat, 05 Jul 2025 13:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国印第安纳波利斯市发生枪击事件 已致2死7伤】当地时间7月5日凌晨，美国印第安纳州印第安纳波利斯市发生枪击事件，造成2人死亡，至少7人受伤。印第安纳波利斯大都会警察局表示，警方于凌晨1时30分左右接到事故报告。事发后，市中心多条道路被封锁，以配合警方调查。当地政府呼吁司机和行人避开该区域。目前尚未公布嫌疑人信息或枪击原因，伤者的具体情况也仍不明确。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuii8209631.d.html</link>
-            <guid>4274435</guid>
-            <pubDate>Sat, 05 Jul 2025 13:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【再破纪录！苏超单场观赛人数超6万】今晚，被称为“苏超德比”的南京队vs苏州队比赛在南京奥体中心激情上演。根据现场电子屏显示，现场共有60396名观众，再破“苏超”单场观赛人数纪录。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuic1648790.d.html</link>
-            <guid>4274434</guid>
-            <pubDate>Sat, 05 Jul 2025 13:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海南省气象台2025年07月05日21时26分继续发布海上雷雨大风黄色预警信号：本岛东部海面5日21时30分到6日08时可能出现雷雨大风天气，风力达7～9级，并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
-            <guid>4274433</guid>
-            <pubDate>Sat, 05 Jul 2025 13:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【持续高温用电负荷创新高 山东多措并举保供电】连日来，山东潍坊、聊城、德州、淄博等多地持续出现高温天气，带动山东电网负荷持续攀升。记者从国网山东省电力公司获悉，7月3日13时9分，山东电网用电负荷达1.1483亿千瓦。这是今年度夏期间，山东电网负荷首创历史新高，较2024年度夏最高负荷增长31万千瓦、时间提前1个月。为积极应对高温天气带来的影响，山东电力统筹省内新能源、常规电源机组和省外来电资源，全力保障迎峰度夏期间电网稳定运行、电力安全可靠供应。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuih6319722.d.html</link>
-            <guid>4274432</guid>
-            <pubDate>Sat, 05 Jul 2025 13:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   【美团即时零售日订单突破1亿，较去年峰值提前33天】 7月5日晚，美团面向核心本地商业内部员工推送的一则战报显示，截至20时45分，美团即时零售日订单量已经突破1亿单。今年美团的订单峰值比去年提前了33天，去年美团在8月7日曾经突破了9000万单。而据媒体报道，今年6月以来美团的日订单连续保持在9000万以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuii8209099.d.html</link>
-            <guid>4274430</guid>
-            <pubDate>Sat, 05 Jul 2025 13:29:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
