@@ -4,13 +4,48 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 15 Jul 2025 20:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 21:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：特朗普新任美国证券交易委员会主席将美国首席审计监管官埃里卡・威廉姆斯解职。]]></title>
+            <title><![CDATA[【欧盟委员会拟制定1.717万亿欧元的中央预算计划】据Politico报道，欧盟委员会正专注于一项提议，从2028年开始的七年里，制定1.717万亿欧元中央预算。当地时间周二晚上，围绕最终数字的争论进入了最后阶段。这一数字表明，与从2021年开始的上一份预算相比，欧盟的支出能力有所提高。如果以欧盟委员会主席冯德莱恩为首的欧盟委员会成员在接下来的几个小时内就这一数字达成一致，那么从2028年起的七年里，总开支将上升到国民总收入的1.23%，而当前这一比例约为1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffrepe3263533.d.html</link>
+            <guid>4289447</guid>
+            <pubDate>Tue, 15 Jul 2025 21:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国6月以韩元计出口物价较上年同期下嫁4.5%，前月为下降2.4%；进口物价较上年同期下降6.2%，前月为下降5.0%。]]></title>
+            <guid>4289444</guid>
+            <pubDate>Tue, 15 Jul 2025 21:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国总理佩通坦向宪法法院申请延期提交“录音门”案申辩材料】据央视新闻报道，泰国总理秘书长彭民·勒素里亚德透露，总理佩通坦·钦那瓦已向宪法法院申请延期提交“录音门”案申辩材料15天，理由是在此前法院规定的15天期限内无法完成全部申辩材料的准备工作。彭民表示，此类延长期限的申请属于被诉人依法享有的权利，是法律程序中的正常行为，是否批准延期需由宪法法院审议决定。]]></title>
+            <guid>4289443</guid>
+            <pubDate>Tue, 15 Jul 2025 21:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国6月出口价格指数环比下降1.1%，进口价格指数环比下降0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffrepe3260854.d.html</link>
+            <guid>4289442</guid>
+            <pubDate>Tue, 15 Jul 2025 21:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世贸组织预测受美国关税政策影响全球货物贸易先扬后抑】世界贸易组织15日发布的季度数据显示，由于对美国上调关税的预期，今年一季度全球货物贸易增长势头强劲，但随着更高的关税付诸实施，后续增速预计将放缓。世贸组织说，今年一季度全球货物贸易较上一季度增长3.6%，较去年同期增长5.3%，高于世贸组织先前预期。主要原因是，对美国上调关税的预期导致北美地区进口大幅增长，环比增幅达13.4%，远高于其他地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyex5048991.d.html</link>
+            <guid>4289440</guid>
+            <pubDate>Tue, 15 Jul 2025 20:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS网站：伊朗若在8月底前无法达成协议，将面临严厉制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyfe6616334.d.html</link>
+            <guid>4289438</guid>
+            <pubDate>Tue, 15 Jul 2025 20:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国证券交易委员会（SEC）主席要求美国审计委员会主管辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyfh3390483.d.html</link>
             <guid>4289436</guid>
             <pubDate>Tue, 15 Jul 2025 20:31:02 GMT</pubDate>
         </item>
@@ -19,6 +54,12 @@
             <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyfe1608552.d.html</link>
             <guid>4289435</guid>
             <pubDate>Tue, 15 Jul 2025 20:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西政府在声明中强调，反对美国国务院及美国大使馆的相关言论，这些言论是对巴西司法部门职责不可接受的新干涉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyex5047820.d.html</link>
+            <guid>4289434</guid>
+            <pubDate>Tue, 15 Jul 2025 20:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[据美国政治新闻网站Axios的一名记者在社交平台X上援引一位美国官员的话报道，特朗普政府曾要求以色列停止对叙利亚南部的叙利亚军队发动袭击。]]></title>
@@ -36,11 +77,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqyfe1607705.d.html</link>
             <guid>4289426</guid>
             <pubDate>Tue, 15 Jul 2025 20:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙中国指数初步收涨2.8%。热门中概股金山云、世纪互联、高徒至少涨11%，百度和阿里巴巴至少涨约8.3%，万国数据、B站涨超7%，京东涨4%。ETF中，YINN涨5.99%，DRAG涨4%，KWEB涨4%，CQQQ涨3.3%。]]></title>
-            <guid>4289420</guid>
-            <pubDate>Tue, 15 Jul 2025 20:00:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国总统特朗普：未来几周将宣布更多投资。]]></title>
@@ -223,65 +259,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh1725488.d.html</link>
             <guid>4289341</guid>
             <pubDate>Tue, 15 Jul 2025 17:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：印尼的稀土和原材料是有利用价值的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh6732644.d.html</link>
-            <guid>4289340</guid>
-            <pubDate>Tue, 15 Jul 2025 17:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见哈萨克斯坦副总理兼外长努尔特列乌】中共中央政治局委员、外交部长王毅15日在天津会见哈萨克斯坦副总理兼外长努尔特列乌。王毅说，在两国元首亲自擘画下，中哈关系正处于历史最好时期。中方愿同哈方一道，坚定相互支持，夯实政治互信，打造更多合作新亮点。中方期待同哈方等成员国共同努力，推动天津峰会取得圆满成功，为上合组织未来发展作出规划。努尔特列乌表示哈方完全支持中方所提各项合作倡议，愿为天津峰会顺利举行作出积极贡献。哈方愿同中方落实好两国元首共识，筹备好高层交往，深化互利合作，密切人文交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh1725343.d.html</link>
-            <guid>4289339</guid>
-            <pubDate>Tue, 15 Jul 2025 17:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：07月16日01时15分在格陵兰岛北岸近海附近（北纬83.32度，西经32.23度）发生6.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>4289336</guid>
-            <pubDate>Tue, 15 Jul 2025 17:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：将进入印度市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxk3506814.d.html</link>
-            <guid>4289335</guid>
-            <pubDate>Tue, 15 Jul 2025 17:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：印度正在沿着与印尼相同的路线前进。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh6732289.d.html</link>
-            <guid>4289334</guid>
-            <pubDate>Tue, 15 Jul 2025 17:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：还有几项协议将会宣布。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtwz5164262.d.html</link>
-            <guid>4289333</guid>
-            <pubDate>Tue, 15 Jul 2025 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称与印尼达成贸易协议】当地时间7月15日，美国总统特朗普在社交媒体平台上发文称，刚刚与印尼达成了一项对各方都来说都很棒的协议。特朗普随后表示，印尼输美商品将支付19%关税，美国出口商品则无需支付。美国将获得印尼市场的全面准入。特朗普称，类似的贸易协议正在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxk3506667.d.html</link>
-            <guid>4289332</guid>
-            <pubDate>Tue, 15 Jul 2025 17:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：没有计划向乌克兰提供远程导弹】美国总统特朗普表示，美国没有计划向乌克兰提供远程导弹。此前有报道称，特朗普在电话中询问泽连斯基，如果美国提供远程武器，乌克兰能否打击莫斯科。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh1724795.d.html</link>
-            <guid>4289331</guid>
-            <pubDate>Tue, 15 Jul 2025 17:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙惊现46℃极端高温！近两个月，该国1180人因高温死亡，去年同期为114人】综合央视新闻、中国新闻网7月15日报道，7月14日，西班牙环境部援引卡洛斯三世健康研究所的数据发布声明称，5月16日至7月13日期间，西班牙有1180人因高温 相关原因死亡，去年同期，这个数字为114例。在1180人死亡中，大部分死者的年龄在65岁以上。西班牙北部加利西亚、拉里奥哈等地受高温影响最为严重。另据西班牙国家气象局的预计，14日起，西班牙将遭遇新一轮高温天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxh6731983.d.html</link>
-            <guid>4289330</guid>
-            <pubDate>Tue, 15 Jul 2025 17:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：对俄罗斯实施制裁的最后期限可能会早于50天到来。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-16/detail-inffqtxk3506340.d.html</link>
-            <guid>4289329</guid>
-            <pubDate>Tue, 15 Jul 2025 17:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
