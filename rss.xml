@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 19 Jul 2025 20:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 21:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[叙利亚内政部：苏韦达市已清剿完贝都因部落武装分子，冲突在叙利亚安全部队部署以执行停火令后得以停止。]]></title>
+            <guid>4296281</guid>
+            <pubDate>Sat, 19 Jul 2025 21:13:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“乘数效应”打造10万亿市场 海洋经济成中国经济增长“蓝色引擎”】今年上半年，我国海洋经济劈波斩浪，一季度生产总值突破2.5万亿元，同比增长5.7%，增速领跑国民经济。今年两会“深海科技”首次被写入政府工作报告，本月举行的中央财经委员会第六次会议上，也明确提出要强化海洋战略科技力量。海洋经济正在成为中国经济增长的“蓝色引擎”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-20/detail-infhaexe4557241.d.html</link>
+            <guid>4296280</guid>
+            <pubDate>Sat, 19 Jul 2025 20:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚苏韦达冲突已造成至少940人死亡】总部位于英国的叙利亚人权观察组织当地时间19日表示，自上周以来，发生在叙利亚苏韦达的冲突已造成至少940人死亡。叙利亚当局新闻部门负责人哈姆扎·穆斯塔法19日表示，停火协议为在国家主导下达成政治解决方案提供了机会。叙利亚当局启动协议第一阶段的部署，部署了内部安全部队，第二阶段的工作正在进行中，旨在为平民开辟人道主义走廊。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-20/detail-infhaexe9548308.d.html</link>
+            <guid>4296279</guid>
+            <pubDate>Sat, 19 Jul 2025 20:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国加快扩建移民拘留营 计划年底前将床位扩至10万张】当地时间7月19日，记者获悉，美国移民与海关执法局（ICE）在获得450亿美元资金后，正加快在全国建设帐篷式移民拘留营，目标在2025年底前将拘留容量从现有4万张床位增至10万张。]]></title>
             <link>https://finance.sina.cn/7x24/2025-07-20/detail-inffzyrk6453352.d.html</link>
@@ -539,23 +556,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-19/detail-inffzitq5019159.d.html</link>
             <guid>4296157</guid>
             <pubDate>Sat, 19 Jul 2025 12:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海绿色算力规模一年半增长近40倍】作为中国首个绿色算电协同试点省，青海省绿色算力规模从2024年年初的370P(即PFLOPS，每秒执行1千万亿次浮点运算)，增长至今年6月的1.5万P，增长近40倍。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-19/detail-inffzits6775442.d.html</link>
-            <guid>4296156</guid>
-            <pubDate>Sat, 19 Jul 2025 12:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月19日19时53分在西藏那曲市双湖县（北纬32.76度，东经89.85度）发生3.8级地震，震源深度10千米。]]></title>
-            <guid>4296152</guid>
-            <pubDate>Sat, 19 Jul 2025 12:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带58765人死亡】当地时间7月19日下午，加沙地带卫生部门发布消息称，过去48小时以军在加沙地带的军事行动导致98人死亡，另有511人受伤。自2023年10月7日新一轮巴以大规模冲突爆发以来，以军在加沙地带的军事行动共造成58765人死亡，另有140485人受伤。自今年3月18日以军破坏加沙停火协议并在加沙地带恢复军事行动以来，加沙地带死亡人数已达7938人，受伤人数为28444人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-19/detail-inffzits6772198.d.html</link>
-            <guid>4296150</guid>
-            <pubDate>Sat, 19 Jul 2025 12:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
