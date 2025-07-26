@@ -4,11 +4,46 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 26 Jul 2025 19:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 20:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国务院：美国暂停在尼日尔大使馆的签证办理业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnh6579984.d.html</link>
+            <guid>4307352</guid>
+            <pubDate>Sat, 26 Jul 2025 20:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称已恢复向加沙地带空投援助物资】当地时间7月26日，以色列国防军发表声明称，以军将启动一系列旨在改善加沙地带人道响应的行动。声明称，26日晚，以军已恢复向加沙地带空投援助物资。当晚空投了由国际援助组织提供的面粉、糖与罐头食品等物资。此外，以方还将开辟安全通道，保障联合国车队能够安全地向加沙民众运送食物和药品。声明还指出，以军已做好准备在人口密集区域实施“人道主义暂停”，同时将继续在相关作战区域拆除巴勒斯坦伊斯兰抵抗运动（哈马斯）的军事基础设施并打击其武装人员。以色列国防军在声明中称将继续在加沙展开打击哈马斯的军事行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnk3353783.d.html</link>
+            <guid>4307351</guid>
+            <pubDate>Sat, 26 Jul 2025 19:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《华尔街日报》民意调查：美国民主党的形象处于30多年来的最低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnk3353259.d.html</link>
+            <guid>4307350</guid>
+            <pubDate>Sat, 26 Jul 2025 19:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方发言人：以色列军队已开始向加沙空投人道主义援助物资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnh6578170.d.html</link>
+            <guid>4307349</guid>
+            <pubDate>Sat, 26 Jul 2025 19:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊气象部门表示，周六该国气温预计最高将达44摄氏度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnk3352767.d.html</link>
+            <guid>4307348</guid>
+            <pubDate>Sat, 26 Jul 2025 19:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华盛顿邮报：美国国防部长赫格塞斯利用测谎测试追查向媒体泄密者一事，在一名高级顾问就自身成为目标向高层官员发出警告后，已按白宫指示停止。]]></title>
+            <guid>4307347</guid>
+            <pubDate>Sat, 26 Jul 2025 19:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列国防军发言人：准备在加沙部分地区“实施人道主义停火”。]]></title>
             <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnh6577341.d.html</link>
@@ -42,12 +77,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnm7283617.d.html</link>
             <guid>4307339</guid>
             <pubDate>Sat, 26 Jul 2025 18:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：苏丹联盟发言人宣布了平行政府的组成人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-27/detail-infhvwnm7283437.d.html</link>
-            <guid>4307338</guid>
-            <pubDate>Sat, 26 Jul 2025 18:47:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【以色列一公交站发生火灾 1人死亡】当地时间7月26日下午，以色列中部城市巴特亚姆市一公交站突发火灾。大火致公交车内一名30岁左右男子死亡。目前，火灾原因及死者具体死亡原因仍在调查中。（央视新闻）]]></title>
@@ -472,29 +501,6 @@
             <link>https://finance.sina.cn/7x24/2025-07-26/detail-infhvmwi0406887.d.html</link>
             <guid>4307250</guid>
             <pubDate>Sat, 26 Jul 2025 14:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电子云、中国长城、沐曦股份联合发布AI一体机】今日的2025世界人工智能大会（WAIC）上，中国电子云、中国长城、沐曦股份联合发布三大AI一体机。据悉，此次发布的一体机产品集成中国电子云AI能力、中国长城服务器、沐曦股份GPU，由三方联合进行训推引擎优化。其中，AI应用一体机预置中国电子云特色应用，开箱即用；模型开发一体机预置模型开发全套工具链及50+内置模型算子，训推一体；应用开发一体机预置完整应用开发框架，提供应用开发全链路能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-26/detail-infhvmwq3581025.d.html</link>
-            <guid>4307249</guid>
-            <pubDate>Sat, 26 Jul 2025 14:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人形机器人行业迎融资热潮】今天，2025世界人工智能大会暨人工智能全球治理高级别会议在上海举行。本届大会围绕“智能时代 同球共济”为主题，展览面积首次突破7万平方米，吸引800余家企业参展。超3000项前沿展品集中展示，100余款“全球首发”“中国首秀”的重磅新品集中亮相。同时有不少机器人已经在进厂打工了，有的在物流中心通过视觉传感系统，分辨不同的包裹，还可以对包裹进行分拣。还有远程康复机器人，让在万里之外的基层医院也能进行康复治疗。今年以来，机器人行业的融资也在不断加速。据统计，六月以来已有十多家人形机器人企业宣布完成新一轮融资，融资金额均达到亿元级别。数据显示，2025年至今，人形机器人领域投融资次数108次，金额达153.5亿元，新增中国发明专利41696件。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-26/detail-infhvmwi0406404.d.html</link>
-            <guid>4307248</guid>
-            <pubDate>Sat, 26 Jul 2025 14:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[网传“少林寺方丈释永信被带走调查”，记者向少林寺方面求证，分别被告知“等官方消息”、“不清楚” 。（凤凰周刊）]]></title>
-            <guid>4307246</guid>
-            <pubDate>Sat, 26 Jul 2025 14:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲别再幻想西方联盟】英国知名学者马丁·雅克近日在接受总台记者专访时指出，在美国特朗普政府推动“美国优先”的背景下，欧洲别再幻想“传统西方联盟”。马丁·雅克说，他认为，在特朗普开启第二任期之后，欧盟至今“表现得非常胆怯、焦虑和短视”。他希望随着时间的推移，欧洲能够更接近中国。 （CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-26/detail-infhvfqm0535707.d.html</link>
-            <guid>4307245</guid>
-            <pubDate>Sat, 26 Jul 2025 14:02:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
