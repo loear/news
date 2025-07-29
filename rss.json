@@ -6,6 +6,124 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4312149,
+            "content_html": "",
+            "title": "美国证券交易委员会（SEC）：允许加密货币交易所交易产品（ETP）进行实物创设和赎回。",
+            "date_modified": "2025-07-29T20:30:39.000Z"
+        },
+        {
+            "id": 4312148,
+            "content_html": "",
+            "title": "金山软件：公司同意购买、小米同意出售网络硬件设备，初始期限为一年，自 7 月 29 日起生效。",
+            "date_modified": "2025-07-29T20:30:17.000Z"
+        },
+        {
+            "id": 4312147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxn7282162.d.html",
+            "title": "【英国：若以色列不结束加沙惨状 英将承认巴勒斯坦国】英国首相府29日发表声明说，如果以色列不采取实质性行动结束加沙地带骇人惨状，并承诺实现长期可持续和平，英国将在9月联合国大会开幕前承认巴勒斯坦国，维护“两国方案”的可行性。（新华社）",
+            "date_modified": "2025-07-29T20:29:53.000Z"
+        },
+        {
+            "id": 4312146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxh8770322.d.html",
+            "title": "美国司法部：认定加州大学洛杉矶分校违反了联邦民权法。",
+            "date_modified": "2025-07-29T20:17:49.000Z"
+        },
+        {
+            "id": 4312144,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxf4191780.d.html",
+            "title": "【俄杜马国防委员会主席：特朗普的任何最后通牒都无法改变特别军事行动的目标】俄罗斯国家杜马国防委员会主席卡尔塔波洛夫对俄新社表示，美国总统特朗普的任何“最后通牒”都无法改变特别军事行动的目标和任务，特别军事行动的目标和任务是俄罗斯总统普京定下的。早些时候，特朗普表示，达成乌克兰停火的十天期限倒计时“从今天开始”，他同时指出，若乌克兰协议无果，则计划征收进口关税，但不确定这对俄罗斯是否会有作用。",
+            "date_modified": "2025-07-29T20:15:29.000Z"
+        },
+        {
+            "id": 4312143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxn7281117.d.html",
+            "title": "【胡塞武装称使用导弹袭击以色列本-古里安机场】当地时间7月29日晚间，也门胡塞武装军事发言人叶海亚·萨雷亚表示，胡塞武装通过“巴勒斯坦-2”型高超音速导弹，成功袭击了以色列的本-古里安国际机场，导致机场运营中断。以色列国防军发表声明称，当天稍早时成功拦截了一枚由也门胡塞武装发射的弹道导弹。目前暂无人员伤亡或财产损失的报告。",
+            "date_modified": "2025-07-29T20:13:25.000Z"
+        },
+        {
+            "id": 4312142,
+            "content_html": "",
+            "title": "知情人士：纽交所（NYSE）的所有人/母公司洲际交易所（ICE）洽谈60亿美元收购Enverus的潜在交易。",
+            "date_modified": "2025-07-29T20:10:42.000Z"
+        },
+        {
+            "id": 4312141,
+            "content_html": "",
+            "title": "Visa 公司财年展望：按非美国通用会计准则（Non - GAAP）调整后的固定美元计算，A 类普通股摊薄每股收益（EPS）有望实现低两位数增长。",
+            "date_modified": "2025-07-29T20:08:40.000Z"
+        },
+        {
+            "id": 4312140,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxh8769691.d.html",
+            "title": "Visa第三财季调整后EPS为2.98美元，分析师预期2.85美元。",
+            "date_modified": "2025-07-29T20:06:29.000Z"
+        },
+        {
+            "id": 4312139,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxh8769668.d.html",
+            "title": "星巴克第三财季净营收95亿美元，分析师预期92.9亿美元。",
+            "date_modified": "2025-07-29T20:05:46.000Z"
+        },
+        {
+            "id": 4312138,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxm0506053.d.html",
+            "title": "Booking二季度营收68.0亿美元，分析师预期65.5亿美元。",
+            "date_modified": "2025-07-29T20:05:09.000Z"
+        },
+        {
+            "id": 4312130,
+            "content_html": "",
+            "title": "白宫国家经济委员会主任凯文·哈塞特：大量协议的接近达成，只是在等待敲定关税税率而已。",
+            "date_modified": "2025-07-29T19:44:44.000Z"
+        },
+        {
+            "id": 4312128,
+            "content_html": "",
+            "title": "中国地震台网正式测定：07月30日03时26分在四川凉山州盐源县（北纬28.22度，东经101.71度）发生3.3级地震，震源深度10千米。",
+            "date_modified": "2025-07-29T19:36:37.000Z"
+        },
+        {
+            "id": 4312127,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxh8767782.d.html",
+            "title": "【土耳其一客机降落时起落架冒烟】当地时间7月29日，土耳其航空公司一架从伊斯坦布尔飞往安塔利亚的波音777-300ER型客机在安塔利亚机场降落后，滑行期间起落架冒烟。机组人员在消防应急救援部门的建议下开启应急滑梯疏散乘客。据悉，机上247名乘客和13名机组成员全体安全，无人员伤亡报告。初步检查显示，烟雾源于液压系统技术故障。（CCTV国际时讯）",
+            "date_modified": "2025-07-29T19:36:14.000Z"
+        },
+        {
+            "id": 4312125,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxn7278969.d.html",
+            "title": "【马斯克宣布 xAI 取消 “研究员” 职称，强调只设工程师岗位】马斯克在社交媒体平台 X上发布动态回应xAI招聘信息，宣布xAI公司将取消 “研究员” 与 “工程师” 这种职称区分，今后公司内只有 “工程师” 这一称谓。马斯克指出，“研究员” 这一术语是学术界遗留下来的产物，而 “研究员” 和 “工程师” 这种职称划分，实际上是对两层级工程体系的一种掩饰，xAI 决定摒弃这种错误的命名方式。此外，马斯克还提到 SpaceX 公司。他强调，SpaceX 在推进火箭和卫星技术方面开展的 “研究” 比地球上所有大学实验室的总和更具意义且更前沿，但 SpaceX 从不使用 “研究员” 这一自命不凡、责任界定模糊的术语，而是统一以 “工程师” 相称。",
+            "date_modified": "2025-07-29T19:35:44.000Z"
+        },
+        {
+            "id": 4312124,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infietxh8767449.d.html",
+            "title": "以色列总理内塔尼亚胡：如今以色列边境的圣战主义国家，明日就会对英国构成威胁。",
+            "date_modified": "2025-07-29T19:29:11.000Z"
+        },
+        {
+            "id": 4312123,
+            "content_html": "",
+            "title": "中国地震台网自动测定：07月30日03时26分在四川凉山州冕宁县附近（北纬28.21度，东经101.78度）发生3.2级左右地震，最终结果以正式速报为准。",
+            "date_modified": "2025-07-29T19:28:34.000Z"
+        },
+        {
+            "id": 4312122,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡：（回应英国计划承认巴勒斯坦国）斯塔默是在 “奖励‘哈马斯’的骇人恐怖主义，惩罚其受害者”。",
+            "date_modified": "2025-07-29T19:28:21.000Z"
+        },
+        {
             "id": 4312120,
             "content_html": "",
             "title": "马斯克：Grok Imagine 目前仍处于早期测试阶段，其优化方向旨在带来极致乐趣，因此评估它时应从 “制作有趣、可分享的视频的最快速度” 这一角度出发，而非追求视觉或听觉上的完美。我们的高性能视频模型将基于下月投入使用的 110k GB200 芯片进行训练。",
@@ -256,158 +374,6 @@
             "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprk8888228.d.html",
             "title": "特朗普：马克龙可以对巴勒斯坦发表意见。",
             "date_modified": "2025-07-29T17:31:35.000Z"
-        },
-        {
-            "id": 4312045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprk8888152.d.html",
-            "title": "以色列军方称，其监测到一枚从也门发射、射向以色列的导弹。",
-            "date_modified": "2025-07-29T17:30:58.000Z"
-        },
-        {
-            "id": 4312044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprq7401266.d.html",
-            "title": "特朗普：与印度的贸易协议尚未敲定。",
-            "date_modified": "2025-07-29T17:30:27.000Z"
-        },
-        {
-            "id": 4312043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprp0626629.d.html",
-            "title": "特朗普：印度关税税率尚未最终确定。",
-            "date_modified": "2025-07-29T17:29:53.000Z"
-        },
-        {
-            "id": 4312041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infiepri4309621.d.html",
-            "title": "特朗普：没有讨论取消苏格兰威士忌的关税。",
-            "date_modified": "2025-07-29T17:28:27.000Z"
-        },
-        {
-            "id": 4312040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprk8888035.d.html",
-            "title": "特朗普：和英国达成了一项很好的协议。",
-            "date_modified": "2025-07-29T17:28:18.000Z"
-        },
-        {
-            "id": 4312038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprq7401135.d.html",
-            "title": "特朗普：以色列不希望哈马斯窃取资金或食物。",
-            "date_modified": "2025-07-29T17:27:16.000Z"
-        },
-        {
-            "id": 4312037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprk8887928.d.html",
-            "title": "特朗普：如果有其他选择，许多加沙人希望离开。",
-            "date_modified": "2025-07-29T17:26:37.000Z"
-        },
-        {
-            "id": 4312036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infiepri4309504.d.html",
-            "title": "特朗普：以色列总理内塔尼亚胡希望确保资金得到妥善使用，食品得到合理分配。",
-            "date_modified": "2025-07-29T17:26:26.000Z"
-        },
-        {
-            "id": 4312034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infiepri4309450.d.html",
-            "title": "特朗普：将与以色列就加沙地带的食品供应中心事宜进行协商。",
-            "date_modified": "2025-07-29T17:25:00.000Z"
-        },
-        {
-            "id": 4312033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infiepri4309446.d.html",
-            "title": "特朗普：无意向以色列施压以寻求长期解决方案。",
-            "date_modified": "2025-07-29T17:24:53.000Z"
-        },
-        {
-            "id": 4312032,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprk8887828.d.html",
-            "title": "特朗普：加沙需要食物。",
-            "date_modified": "2025-07-29T17:24:22.000Z"
-        },
-        {
-            "id": 4312031,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprq7400960.d.html",
-            "title": "特朗普：对英国的决定没有看法。",
-            "date_modified": "2025-07-29T17:23:50.000Z"
-        },
-        {
-            "id": 4312030,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprp0626330.d.html",
-            "title": "特朗普：从未讨论过英国在以色列未对加沙采取行动的情况下承认巴勒斯坦国的决定。",
-            "date_modified": "2025-07-29T17:23:32.000Z"
-        },
-        {
-            "id": 4312026,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infiepri4308545.d.html",
-            "title": "针对英国承认巴勒斯坦国的计划，以色列外交部回应称：我们反对英国首相发表的声明。",
-            "date_modified": "2025-07-29T17:12:24.000Z"
-        },
-        {
-            "id": 4312025,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprp0625524.d.html",
-            "title": "【苹果又一名AI研究员跳槽到Meta】苹果公司人工智能（AI）研究员Bowen Zhang加盟扎克伯格旗下Meta Platforms的Superintelligence团队。Bowen Zhang曾在苹果负责AI基础模型。7月上旬消息，苹果基础模型团队的杰出工程师兼经理庞若明将加入Meta新成立的超级智能团队，获得每年数千万美元的薪酬待遇。",
-            "date_modified": "2025-07-29T17:11:18.000Z"
-        },
-        {
-            "id": 4312024,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprp0625471.d.html",
-            "title": "苹果股价延续跌势，跌幅扩大至1.5%。",
-            "date_modified": "2025-07-29T17:10:36.000Z"
-        },
-        {
-            "id": 4312023,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieprq7400082.d.html",
-            "title": "开云集团副首席执行：预计2026年和2027年将有更多门店净关闭。",
-            "date_modified": "2025-07-29T17:10:28.000Z"
-        },
-        {
-            "id": 4312022,
-            "content_html": "",
-            "title": "苹果公司Bowen Zhang加盟Meta的Superintelligence团队。",
-            "date_modified": "2025-07-29T17:08:29.000Z"
-        },
-        {
-            "id": 4312021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieiir0755806.d.html",
-            "title": "开云集团副首席执行官：美国的消费者信心略有改善，客流量有所增加。",
-            "date_modified": "2025-07-29T17:06:51.000Z"
-        },
-        {
-            "id": 4312020,
-            "content_html": "",
-            "title": "意大利银行股普遍收涨，Bper Banca涨4.87%，Banco Desio SpA涨3.04%。",
-            "date_modified": "2025-07-29T17:05:50.000Z"
-        },
-        {
-            "id": 4312018,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieiin9015787.d.html",
-            "title": "【国际铜夜盘收涨0.10%】国际铜夜盘收涨0.10%，沪铜收涨0.14%，沪铝收跌0.02%，沪锌收涨0.26%，沪铅收跌0.21%，沪镍收涨0.39%，沪锡收涨0.21%。氧化铝夜盘收涨3.39%，铝合金收涨0.05%。不锈钢夜盘收涨0.66%。",
-            "date_modified": "2025-07-29T17:00:53.000Z"
-        },
-        {
-            "id": 4312017,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-07-30/detail-infieiir0753363.d.html",
-            "title": "惠誉：受人工智能和能源需求增长影响，美国企业资本支出在2026年前将保持高位。",
-            "date_modified": "2025-07-29T16:54:42.000Z"
         }
     ]
 }
