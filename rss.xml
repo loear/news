@@ -4,15 +4,235 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 31 Jul 2025 20:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 21:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[苹果第三财季Mac收入80.5亿美元，同比+15%，预估73亿美元。]]></title>
-            <guid>4317066</guid>
-            <pubDate>Thu, 31 Jul 2025 20:33:08 GMT</pubDate>
+            <title><![CDATA[【俄方宣布控制顿涅茨克重镇】俄罗斯国防部7月31日通报，俄武装部队已控制顿涅茨克地区重镇恰索夫亚尔。俄武装力量军事政治总局副局长阿劳季诺夫表示，随着俄军控制恰索夫亚尔，乌军在这一方向上的防御体系已被突破，为俄军下一步行动提供了有力支撑。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhcm9395784.d.html</link>
+            <guid>4317121</guid>
+            <pubDate>Thu, 31 Jul 2025 21:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果首席财务官：苹果预计9月季度服务业务营收增速将与6月季度持平。毛利率预测包含11亿美元与关税相关的成本。]]></title>
+            <guid>4317120</guid>
+            <pubDate>Thu, 31 Jul 2025 21:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席财务官：预计第二季度资本支出能合理代表今年下半年的季度资本投资率。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5339229.d.html</link>
+            <guid>4317118</guid>
+            <pubDate>Thu, 31 Jul 2025 21:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席财务官：第二季度资本支出为314亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8564591.d.html</link>
+            <guid>4317117</guid>
+            <pubDate>Thu, 31 Jul 2025 21:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果（财年）季度末现金（和现金等价物）1330亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhcm9395571.d.html</link>
+            <guid>4317116</guid>
+            <pubDate>Thu, 31 Jul 2025 21:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：9月所在财季公司总营收将实现中高个位数增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5339180.d.html</link>
+            <guid>4317115</guid>
+            <pubDate>Thu, 31 Jul 2025 21:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席执行官：Kuiper项目已达成的协议数量相当可观。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8564473.d.html</link>
+            <guid>4317114</guid>
+            <pubDate>Thu, 31 Jul 2025 21:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：iPhone在美国和中国城市是最畅销的手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8564386.d.html</link>
+            <guid>4317113</guid>
+            <pubDate>Thu, 31 Jul 2025 21:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：苹果将在美国投资 5000 亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6864705.d.html</link>
+            <guid>4317111</guid>
+            <pubDate>Thu, 31 Jul 2025 21:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：在6月所在季度因关税产生了8亿美元相关成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5338789.d.html</link>
+            <guid>4317110</guid>
+            <pubDate>Thu, 31 Jul 2025 21:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合健康集团：在雇佣期间，公司将自费为高管提供一份保额为200万美元的定期人寿保险单。]]></title>
+            <guid>4317108</guid>
+            <pubDate>Thu, 31 Jul 2025 21:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席执行官：目前亚马逊云科技（AWS）的需求超过了我们的供应能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6864474.d.html</link>
+            <guid>4317107</guid>
+            <pubDate>Thu, 31 Jul 2025 21:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席执行官：在Prime会员日之前的三周内，Prime会员注册数创历史新高。]]></title>
+            <guid>4317106</guid>
+            <pubDate>Thu, 31 Jul 2025 21:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：加拿大对巴勒斯坦的立场不会影响关税协议达成】当地时间7月31日，美国总统特朗普表示，加拿大对巴勒斯坦的立场不会影响关税协议达成，加拿大必须“支付一个公平的税率”。当地时间7月30日，加拿大总理卡尼表示，如果约旦河西岸管理机构满足某些条件，加拿大将于今年9月召开的联合国大会上宣布承认巴勒斯坦国。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8563865.d.html</link>
+            <guid>4317104</guid>
+            <pubDate>Thu, 31 Jul 2025 21:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席执行官：公司在自动化和机器人技术应用方面才刚刚起步，旨在提升运营效率 。]]></title>
+            <guid>4317103</guid>
+            <pubDate>Thu, 31 Jul 2025 21:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊首席执行官：该公司第二季度向Prime会员交付商品的速度创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6864248.d.html</link>
+            <guid>4317102</guid>
+            <pubDate>Thu, 31 Jul 2025 21:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：已经发货超过30亿部iPhone。Mac销售受到M4 MacBook Air强大性能的驱动。服务器也由Apple silicon支持。]]></title>
+            <guid>4317101</guid>
+            <pubDate>Thu, 31 Jul 2025 21:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：爱立信正就投资英特尔独立网络业务进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8563567.d.html</link>
+            <guid>4317100</guid>
+            <pubDate>Thu, 31 Jul 2025 21:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：iPhone营收表现得益于iPhone 16系列的受欢迎程度。]]></title>
+            <guid>4317099</guid>
+            <pubDate>Thu, 31 Jul 2025 21:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：苹果正将人工智能元素融入设备，包括写作功能和Siri语音助手。]]></title>
+            <guid>4317098</guid>
+            <pubDate>Thu, 31 Jul 2025 21:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：6月所在财季的客户升级数量创下纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6863949.d.html</link>
+            <guid>4317097</guid>
+            <pubDate>Thu, 31 Jul 2025 21:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：正集中于让人工智能（AI）可用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5338057.d.html</link>
+            <guid>4317096</guid>
+            <pubDate>Thu, 31 Jul 2025 21:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列撤回驻阿联酋大使馆工作人员】当地时间7月31日，由于局势紧张，以色列驻阿联酋大使馆工作人员已得到指示，要求其撤离当地并返回以色列。以色列总理办公室当天稍早前发表声明，表示国家安全委员会对在阿联酋的以色列人发出旅行警告，称恐怖组织活动近期增强，可能对以色列不利。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5337761.d.html</link>
+            <guid>4317093</guid>
+            <pubDate>Thu, 31 Jul 2025 21:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：当前，我在特斯拉股票上并没有个人贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5337664.d.html</link>
+            <guid>4317092</guid>
+            <pubDate>Thu, 31 Jul 2025 21:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：美国中东问题特使威特科夫在访问以色列后将前往俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8561574.d.html</link>
+            <guid>4317090</guid>
+            <pubDate>Thu, 31 Jul 2025 20:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：不知道制裁手段能否对俄罗斯总统普京产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6862532.d.html</link>
+            <guid>4317089</guid>
+            <pubDate>Thu, 31 Jul 2025 20:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：（谈加沙）这是一场可怕的局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5336133.d.html</link>
+            <guid>4317088</guid>
+            <pubDate>Thu, 31 Jul 2025 20:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月01日04时36分在堪察加东岸远海（北纬52.70度，东经160.75度）发生5.5级地震，震源深度10千米。]]></title>
+            <guid>4317087</guid>
+            <pubDate>Thu, 31 Jul 2025 20:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普谈俄罗斯的最新袭击：令人作呕。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8561451.d.html</link>
+            <guid>4317085</guid>
+            <pubDate>Thu, 31 Jul 2025 20:53:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[文莱主权财富基金目前持有桥水基金近20%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhcm9392887.d.html</link>
+            <guid>4317084</guid>
+            <pubDate>Thu, 31 Jul 2025 20:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普称鲍威尔为“政治仆从”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8561350.d.html</link>
+            <guid>4317080</guid>
+            <pubDate>Thu, 31 Jul 2025 20:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：伊朗的行为极其恶劣。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8561267.d.html</link>
+            <guid>4317077</guid>
+            <pubDate>Thu, 31 Jul 2025 20:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：（谈关税法律战）我们自始至终都在赢。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5335843.d.html</link>
+            <guid>4317076</guid>
+            <pubDate>Thu, 31 Jul 2025 20:46:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：告诉过加拿大，他们若想置身 “金色穹顶” 之下，就得付钱。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5335769.d.html</link>
+            <guid>4317075</guid>
+            <pubDate>Thu, 31 Jul 2025 20:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：加拿大对巴勒斯坦国的看法不会成为破坏贸易协议的因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhch8561097.d.html</link>
+            <guid>4317074</guid>
+            <pubDate>Thu, 31 Jul 2025 20:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：不喜欢加拿大在承认巴勒斯坦国问题上的做法。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhce6862034.d.html</link>
+            <guid>4317073</guid>
+            <pubDate>Thu, 31 Jul 2025 20:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：今天并没有与加拿大总理卡尼通电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhcm9392447.d.html</link>
+            <guid>4317072</guid>
+            <pubDate>Thu, 31 Jul 2025 20:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我将和捐赠者们一起为新的白宫宴会厅买单，新宴会厅将完全尊重现有建筑。]]></title>
+            <guid>4317071</guid>
+            <pubDate>Thu, 31 Jul 2025 20:44:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦上诉法院提出尖锐质疑，特朗普大部分关税面临严峻法律考验】美国总统特朗普大范围施加全球关税的合法性遭到考验。美国一家联邦上诉法院于周四召开听证会，而就在次日，针对多国的更高关税势将生效。由11位法官组成的小组轮番质询美国司法部一位高级官员，质询的焦点是特朗普政府声称美国持续的贸易逆差构成国家紧急状态，从而允许总统绕过国会，对全球多国加征关税。美国司法部民事司负责人Brett Shumate在听证会上表示，特朗普的关税政策旨在应对“我们不断扩大的贸易逆差带来的后果”，并使总统“得以向其他国家施压”。他补充称，特朗普认定贸易逆差已飙升至“临界点”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infimhck5335536.d.html</link>
+            <guid>4317070</guid>
+            <pubDate>Thu, 31 Jul 2025 20:40:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国总统特朗普：不久前我们刚刚达成了另外几项贸易协议。]]></title>
@@ -142,230 +362,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8684911.d.html</link>
             <guid>4317018</guid>
             <pubDate>Thu, 31 Jul 2025 18:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：5月美国馏分燃料产品供应量降至2024年12月以来的最低水平。]]></title>
-            <guid>4317016</guid>
-            <pubDate>Thu, 31 Jul 2025 18:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯称抵抗不会停止 直至以色列占领结束】巴勒斯坦伊斯兰抵抗运动（哈马斯）当地时间31日发表声明称，巴勒斯坦人的抵抗不会停止，直至以色列的占领结束，建立一个以耶路撒冷为首都的独立的巴勒斯坦国。以此回应沙特、法国等十多个国家和欧盟、阿盟要求其解除武装，在加沙建立过渡性治理和安全机制的呼吁。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8684387.d.html</link>
-            <guid>4317014</guid>
-            <pubDate>Thu, 31 Jul 2025 18:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列总理内塔尼亚胡在耶路撒冷会见了德国外交部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5458900.d.html</link>
-            <guid>4317012</guid>
-            <pubDate>Thu, 31 Jul 2025 18:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[设计软件巨头Figma熔断，涨幅达到241.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvp9513684.d.html</link>
-            <guid>4317011</guid>
-            <pubDate>Thu, 31 Jul 2025 18:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[设计软件巨头Figma涨幅扩大至229%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8683909.d.html</link>
-            <guid>4317009</guid>
-            <pubDate>Thu, 31 Jul 2025 18:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：致制药公司首席执行官的信件告知制造商，如果他们拒绝配合，政府将“动用一切手段”来阻止“滥用药物定价行为”。]]></title>
-            <guid>4317007</guid>
-            <pubDate>Thu, 31 Jul 2025 18:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普只会接受制药商作出的能让美国家庭立即从虚高药价中得到缓解的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5458096.d.html</link>
-            <guid>4317006</guid>
-            <pubDate>Thu, 31 Jul 2025 18:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“无视风险警告” 美联邦航空管理局被批官僚主义】当地时间7月30日，美国国家运输安全委员会就今年1月发生在华盛顿里根国家机场附近的军用“黑鹰”直升机与客机相撞事故举行听证会。调查人员称，军用直升机当时的飞行高度高于规定，并且其高度读数存在误差，“黑鹰”直升机飞行员也没听到关键指令。美国国家运输安全委员会主席霍门迪猛批美国联邦航空管理局，称该机构“无视空管人员提出的调整飞行路线以避免风险的警告”，并透露事发的华盛顿里根国家机场塔台“存在严重人员流失问题”。霍门迪称，“所有迹象都表明存在安全隐患，塔台人员也多次发出警示，但联邦航空管理局却选择调离人员，而非解决问题。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5458084.d.html</link>
-            <guid>4317005</guid>
-            <pubDate>Thu, 31 Jul 2025 18:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普宣布采取行动，让美国人能以全球最优惠价格购买处方药。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvp9512790.d.html</link>
-            <guid>4317004</guid>
-            <pubDate>Thu, 31 Jul 2025 18:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普今日将签署加强体育事业的行政命令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5457871.d.html</link>
-            <guid>4317003</guid>
-            <pubDate>Thu, 31 Jul 2025 17:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普不同意加拿大和英国承认巴勒斯坦国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5457730.d.html</link>
-            <guid>4317000</guid>
-            <pubDate>Thu, 31 Jul 2025 17:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西总统：无论美国想打政治仗还是想谈贸易都奉陪】美国政府此前威胁，将从8月1日开始向未能与美国达成贸易协议的贸易伙伴征收高关税。如今期限将至，巴西和印度表示，不会屈服于美国的压力，将采取一切必要措施维护国家利益。此前，美国宣布自8月1日起对从巴西进口的商品征收50%的关税。7月30日，美国《纽约时报》发表了对巴西总统卢拉的采访，卢拉表示他曾尝试联系美国总统特朗普，但是对方并无就关税问题进行沟通的意愿。卢拉表示，美国的关税威胁让巴西感到“担忧”，而并非“害怕”，他不会屈服于美国的决定，无论美国是想打政治仗还是想谈贸易，巴西都奉陪，但美国不应将政治问题和贸易问题混为一谈。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5457681.d.html</link>
-            <guid>4316999</guid>
-            <pubDate>Thu, 31 Jul 2025 17:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【莱维特：特朗普今日就药价问题致信17位制药公司首席执行官】白宫新闻秘书卡罗琳·莱维特表示，总统特朗普今天向17家制药公司的首席执行官签发信函，敦促他们跟他合作，落实他的最惠国药品定价行政命令并降低药品价格。收到信件的公司中包括礼来公司等。特朗普敦促企业在未来60天内采取以下行动：将最惠国定价扩大到医疗补助计划，确保新上市药品执行最惠国定价，将海外增加的收入返还给美国患者和纳税人，以最惠国定价直接采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6981748.d.html</link>
-            <guid>4316998</guid>
-            <pubDate>Thu, 31 Jul 2025 17:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普称新生儿保险计划旨在“补充”社会保障制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6981681.d.html</link>
-            <guid>4316997</guid>
-            <pubDate>Thu, 31 Jul 2025 17:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：总统将在两周后即将举行的美韩峰会上揭晓美国投资的细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8682643.d.html</link>
-            <guid>4316996</guid>
-            <pubDate>Thu, 31 Jul 2025 17:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：韩国已同意在总统的指示下投资3500亿美元以促进美国制造业，其中90%的利润将用于美国政府偿还债务和其他总统优先事项。]]></title>
-            <guid>4316995</guid>
-            <pubDate>Thu, 31 Jul 2025 17:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌就史诗游戏诉讼案表态：这一裁决将严重损害用户安全、限制选择并阻碍创新。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5457086.d.html</link>
-            <guid>4316992</guid>
-            <pubDate>Thu, 31 Jul 2025 17:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普将于今日签署关于关税的行政命令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6981233.d.html</link>
-            <guid>4316990</guid>
-            <pubDate>Thu, 31 Jul 2025 17:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普今天将签署贸易行政命令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8682356.d.html</link>
-            <guid>4316989</guid>
-            <pubDate>Thu, 31 Jul 2025 17:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：将就二十国集团（G20）相关事宜发布公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5456968.d.html</link>
-            <guid>4316988</guid>
-            <pubDate>Thu, 31 Jul 2025 17:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：特朗普支持官员不能为自己谋利的观点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5456941.d.html</link>
-            <guid>4316986</guid>
-            <pubDate>Thu, 31 Jul 2025 17:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：没有协议或信函的国家将在今晚之前收到美国的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8682199.d.html</link>
-            <guid>4316985</guid>
-            <pubDate>Thu, 31 Jul 2025 17:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：日本和韩国有定制的贸易协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvp9511388.d.html</link>
-            <guid>4316984</guid>
-            <pubDate>Thu, 31 Jul 2025 17:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：制药公司需在2025年9月29日之前采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8681877.d.html</link>
-            <guid>4316983</guid>
-            <pubDate>Thu, 31 Jul 2025 17:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌首都基辅遭空袭 死亡人数升至13人】乌克兰首都基辅市军事管理局局长特卡琴科7月31日晚说，俄军30日晚至31日凌晨对基辅市发动的大规模空袭已造成13人死亡。据乌克兰媒体报道，另有135人在空袭中受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8681777.d.html</link>
-            <guid>4316981</guid>
-            <pubDate>Thu, 31 Jul 2025 17:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普要求制药企业高管将最惠国定价机制扩展至医疗补助计划，为新药提供该定价保障，并在直接采购中应用这一定价机制。]]></title>
-            <guid>4316980</guid>
-            <pubDate>Thu, 31 Jul 2025 17:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在工会成员拒绝了最初的提议后，波音公司正在与工会进行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8681659.d.html</link>
-            <guid>4316979</guid>
-            <pubDate>Thu, 31 Jul 2025 17:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普致药企的信事关药品价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5456262.d.html</link>
-            <guid>4316978</guid>
-            <pubDate>Thu, 31 Jul 2025 17:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普宴会厅建设将于9月启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5456190.d.html</link>
-            <guid>4316977</guid>
-            <pubDate>Thu, 31 Jul 2025 17:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普致函制药公司，讨论药品定价问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5456174.d.html</link>
-            <guid>4316976</guid>
-            <pubDate>Thu, 31 Jul 2025 17:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普预计在9月29日之前会收到具有约束力的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8681493.d.html</link>
-            <guid>4316974</guid>
-            <pubDate>Thu, 31 Jul 2025 17:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：呼吁礼来公司在60天内采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvk8681365.d.html</link>
-            <guid>4316973</guid>
-            <pubDate>Thu, 31 Jul 2025 17:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：美国总统特朗普今天（7月31日）签署了17封信函给医药行业的CEO们。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6979849.d.html</link>
-            <guid>4316971</guid>
-            <pubDate>Thu, 31 Jul 2025 17:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝森特：美加贸易谈判正在讨论铝关税水平问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6979838.d.html</link>
-            <guid>4316970</guid>
-            <pubDate>Thu, 31 Jul 2025 17:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普周四对制药行业采取行动，向多家首席执行官致信。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvn5455721.d.html</link>
-            <guid>4316969</guid>
-            <pubDate>Thu, 31 Jul 2025 17:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：新的对等关税税率周五生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvp9510163.d.html</link>
-            <guid>4316968</guid>
-            <pubDate>Thu, 31 Jul 2025 17:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莱维特谈欧盟协议：投资将于2028年底到位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6979674.d.html</link>
-            <guid>4316966</guid>
-            <pubDate>Thu, 31 Jul 2025 17:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：最终计划获批后，将提供更多细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-01/detail-infikzvh6979639.d.html</link>
-            <guid>4316965</guid>
-            <pubDate>Thu, 31 Jul 2025 17:28:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
