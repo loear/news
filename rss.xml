@@ -4,16 +4,72 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 05 Aug 2025 16:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 17:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：俄罗斯正考虑就俄乌冲突向特朗普提出乌克兰空中停火提议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfep0641486.d.html</link>
-            <guid>4323479</guid>
-            <pubDate>Tue, 05 Aug 2025 16:32:01 GMT</pubDate>
+            <title><![CDATA[欧洲汽车制造概念股普遍收涨，保时捷P911涨2.50%，戴姆勒卡车涨2.32%，法拉利涨2.27%，德国大众汽车涨1.98%，阿斯顿马丁则收跌1.75%。]]></title>
+            <guid>4323499</guid>
+            <pubDate>Tue, 05 Aug 2025 17:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总理斯维里登科：讨论了国防和投资合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfep0650385.d.html</link>
+            <guid>4323498</guid>
+            <pubDate>Tue, 05 Aug 2025 17:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊旗下AWS新增OpenAI权重模型到Bedrock。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfep0649953.d.html</link>
+            <guid>4323495</guid>
+            <pubDate>Tue, 05 Aug 2025 17:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：如果巴西存在稀土和关键矿产，那么它们属于我们，我们将确保对其开采能让巴西受益。]]></title>
+            <guid>4323491</guid>
+            <pubDate>Tue, 05 Aug 2025 16:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌48美元，报9638美元/吨。
+LME期铝收涨10美元，报2562美元/吨。
+LME期锌收涨8美元，报2758美元/吨。
+LME期铅收涨14美元，报1974美元/吨。
+LME期镍收跌42美元，报15024美元/吨。
+LME期锡收涨50美元，报33256美元/吨。
+LME期钴收平，报33335美元/吨。]]></title>
+            <guid>4323489</guid>
+            <pubDate>Tue, 05 Aug 2025 16:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：特朗普政府将正式撤销马斯克发给联邦工作人员的“ 周报五件事”邮件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfek9005644.d.html</link>
+            <guid>4323488</guid>
+            <pubDate>Tue, 05 Aug 2025 16:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：我们将运用所有适用手段，包括利用世界贸易组织（WTO）来捍卫我们的利益。]]></title>
+            <guid>4323487</guid>
+            <pubDate>Tue, 05 Aug 2025 16:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：但我会邀请特朗普参加第30届联合国气候变化大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfeq7420129.d.html</link>
+            <guid>4323486</guid>
+            <pubDate>Tue, 05 Aug 2025 16:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：我不会给特朗普打电话，因为他不想交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfes1535763.d.html</link>
+            <guid>4323485</guid>
+            <pubDate>Tue, 05 Aug 2025 16:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列媒体：以色列考虑全面接管加沙地带，内阁将于周四召开会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-06/detail-infiyfes1535409.d.html</link>
+            <guid>4323482</guid>
+            <pubDate>Tue, 05 Aug 2025 16:48:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【美公布“泰坦”号深潜器事故调查报告】美国海岸警卫队5日发布2023年6月“泰坦”号深海潜水器爆炸事故调查报告。报告认为，事故主要原因是美国海洋之门勘探公司在“泰坦”号的设计、认证、维护和检查流程中存在缺陷。这份300多页的调查报告概述了事故的关键调查结果、事故主要成因以及其他因素。事故调查委员会发现，在2022年的潜水考察作业后，“泰坦”号的船体已出现异常，但海洋之门勘探公司未能进行适当调查和解决。（新华社）]]></title>
@@ -274,78 +330,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywr0752634.d.html</link>
             <guid>4323399</guid>
             <pubDate>Tue, 05 Aug 2025 14:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴厘岛倾覆快艇上有80人】当地时间5日，一艘快艇在印尼巴厘岛萨努尔海域被海浪击中后翻覆。据报道，船上共有80人，包括73名外国乘客，2名印度尼西亚人和5名船员。记者从中国驻登巴萨总领馆了解到，初步统计，船上有8名中国公民，其中，2人遇难，3人受伤送医治疗，其余3人轻微受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixyws7526996.d.html</link>
-            <guid>4323398</guid>
-            <pubDate>Tue, 05 Aug 2025 14:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福能股份与华润电力华东大区开展业务交流】据福能股份消息，近日，福能股份党委书记、董事长桂思玉等一行，前往南京拜访华润电力华东大区，与华润电力华东大区党委书记、总经理彭峰会谈，双方开展业务交流。双方一致认为，应在电力资产管理、股东权益维护、深化合作发展等方面，进一步加深沟通互信、拓宽业务合作，充分发挥各自资源禀赋优势，实现共赢发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywm4532342.d.html</link>
-            <guid>4323391</guid>
-            <pubDate>Tue, 05 Aug 2025 14:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方数据显示，截至8月3日，欧盟2025/26年度玉米进口量为697,612吨，上年同期为244万吨。]]></title>
-            <guid>4323389</guid>
-            <pubDate>Tue, 05 Aug 2025 14:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥能源部长：政府为墨西哥国家石油公司（Pemex）制定的计划旨在实现每日180万桶的稳定原油产量。]]></title>
-            <guid>4323388</guid>
-            <pubDate>Tue, 05 Aug 2025 14:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李想透露理想i8小订用户超3万】8月5日晚间，理想汽车CEO李想在抖音发布视频，解答了理想i8为什么要统一配置版本这一核心问题——主要是因为听了用户的需求。他还透露，理想i8小订用户超3万。据介绍，理想i8原有的Pro、Max和Ultra三个版本统一调整为MAX单一配置，并增加少量选装，最终定价为33.98万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixyws7523256.d.html</link>
-            <guid>4323387</guid>
-            <pubDate>Tue, 05 Aug 2025 14:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025上半年，小鹏汽车纯电销量位居全球前六】2025年上半年，小鹏在全球销量超19万辆，居全球纯电品牌前六。目前，小鹏汽车出口已经覆盖全球超46个国家和地区，上半年海外销量超1.8万台，是欧洲市场销量最高的中国高端汽车品牌。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywm4529509.d.html</link>
-            <guid>4323386</guid>
-            <pubDate>Tue, 05 Aug 2025 14:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase：加拿大客户可使用PayPal买卖加密货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywr0748464.d.html</link>
-            <guid>4323385</guid>
-            <pubDate>Tue, 05 Aug 2025 14:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌涨幅收窄，现涨0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywr0748242.d.html</link>
-            <guid>4323384</guid>
-            <pubDate>Tue, 05 Aug 2025 14:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[彭博美元指数缩减涨幅，此前ISM服务业数据不及预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixyws7522776.d.html</link>
-            <guid>4323383</guid>
-            <pubDate>Tue, 05 Aug 2025 14:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其议会成立新委员会 推动和平进程制度化】土耳其大国民议会当地时间8月5日成立并召开“无恐怖土耳其”特别委员会首次会议，旨在彻底结束国内“恐怖主义”威胁、巩固社会和平。议长努曼·库尔图尔穆什在开幕致辞中表示，土耳其在半个世纪的反恐斗争后迎来新阶段，“枪声的停息和恐怖组织的解散，是民族意志的体现，而非任何政治交易”。库尔德工人党成立于1979年，被土耳其列为恐怖组织。今年3月，库尔德工人党宣布停火并响应其被监禁领导人阿卜杜拉·厄贾兰的呼吁，表示将放下武器并解散。5月，库尔德工人党正式发表声明结束武装斗争；7月，首批成员在伊拉克北部解除武装。分析人士认为，议会新委员会的成立将推动和平进程走向制度化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywm4528638.d.html</link>
-            <guid>4323382</guid>
-            <pubDate>Tue, 05 Aug 2025 14:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月ISM非制造业PMI 50.1，预期51.5，前值50.8。
-美国7月ISM非制造业就业指数 46.4，前值47.2。
-美国7月ISM非制造业新订单指数 50.3，前值51.3。
-美国7月ISM非制造业物价指数 69.9，预期66.5，前值67.5。]]></title>
-            <guid>4323379</guid>
-            <pubDate>Tue, 05 Aug 2025 14:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内涨幅达0.50%，现报147.83。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-05/detail-infixywr0746999.d.html</link>
-            <guid>4323376</guid>
-            <pubDate>Tue, 05 Aug 2025 13:56:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
