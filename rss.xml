@@ -4,11 +4,27 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 09 Aug 2025 20:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 21:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月10日04时40分在危地马拉沿岸近海（北纬13.60度，西经92.30度）发生6.0级地震，震源深度10千米。]]></title>
+            <guid>4329657</guid>
+            <pubDate>Sat, 09 Aug 2025 21:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地球科学研究中心（GFZ）：墨西哥恰帕斯州海岸附近发生5.84级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkmsep7378650.d.html</link>
+            <guid>4329656</guid>
+            <pubDate>Sat, 09 Aug 2025 20:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心（NHC）：“伊沃”（IVO）正在减弱，预计到周日晚些时候将转变为温带气旋。]]></title>
+            <guid>4329655</guid>
+            <pubDate>Sat, 09 Aug 2025 20:39:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国首相斯塔默和法国总统马克龙重申对乌克兰总统泽连斯基的坚定支持。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkmsei1968132.d.html</link>
@@ -450,34 +466,6 @@ S40广洪高速眉山段：关闭眉山南、丹棱、仁美收费站入口。�
             <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhv7735384.d.html</link>
             <guid>4329553</guid>
             <pubDate>Sat, 09 Aug 2025 14:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东、荣耀联合定制首款大屏AI手机，售价1199元】8月8日，京东、荣耀联合定制的大屏AI手机荣耀畅玩70 Plus正式发布，售价1199元。据介绍，这是双方通过C2M（反向定制）模式推出的首款大屏AI手机，聚焦产品操控、智能出行、居家生活三大用机场景。荣耀中国区副总裁、荣耀中国区电商部部长李云鹏在接受采访时表示，手机产业进入AI 时代已是趋势，一部好的AI手机不是无限叠加硬件让消费者承担额外成本，而是用最合适的硬件、最优质的价格提供最好的服务。京东3C数码群手机事业二部负责人谢易对界面新闻称，团队最终明确要聚焦AI与大屏这一核心方向，战略眼光和未来预测也不止于手机，而是覆盖所有硬件品类。若生态无法支持AI，行业难有大发展。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhv7733583.d.html</link>
-            <guid>4329552</guid>
-            <pubDate>Sat, 09 Aug 2025 14:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月09日22时04分在千岛群岛以东海域（北纬50.00度，东经160.05度）发生6.0级地震，震源深度10千米。]]></title>
-            <guid>4329551</guid>
-            <pubDate>Sat, 09 Aug 2025 14:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：卢拉表示支持旨在解决乌克兰危机的努力。两国元首确认了进一步加强俄巴战略伙伴关系以及两国内部合作的意向。]]></title>
-            <guid>4329550</guid>
-            <pubDate>Sat, 09 Aug 2025 14:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京向卢拉介绍了美国中东问题特使威特科夫访问的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhr2323748.d.html</link>
-            <guid>4329549</guid>
-            <pubDate>Sat, 09 Aug 2025 14:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京与巴西总统卢拉通电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhr2323411.d.html</link>
-            <guid>4329548</guid>
-            <pubDate>Sat, 09 Aug 2025 14:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
