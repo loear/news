@@ -4,11 +4,28 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 10 Aug 2025 16:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 17:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国地球科学研究中心（GFZ）：土耳其发生6.19级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvu0309491.d.html</link>
+            <guid>4330032</guid>
+            <pubDate>Sun, 10 Aug 2025 16:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥政府：该决定保护了生产者权益，防止了市场扭曲，并确保了国内供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvq9336713.d.html</link>
+            <guid>4330031</guid>
+            <pubDate>Sun, 10 Aug 2025 16:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥政府：已确定新鲜番茄出口的最低价格，此举是在与美国的反倾销调查中止协议结束之后做出的。]]></title>
+            <guid>4330030</guid>
+            <pubDate>Sun, 10 Aug 2025 16:47:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄副外长：核对抗危险未减 俄武器库尽在掌握】俄罗斯外交部副部长里亚布科夫在10日播出的“俄罗斯-1”电视频道访谈节目中表示，全球核对抗的危险没有减弱，核冲突的风险依然存在。西方国家应当明白，俄罗斯拥有的所有武器库都在牢靠的掌握中并为保卫国家服务。里亚布科夫说，除新型高超音速中程弹道导弹“榛树”外，俄还掌握着最新式武器。“俄在部署武器方面所采取的所有举措，都是对美国及其盟国在该领域所采取步骤的回应。”（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvr6412212.d.html</link>
@@ -457,21 +474,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpefu9550233.d.html</link>
             <guid>4329933</guid>
             <pubDate>Sun, 10 Aug 2025 11:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰敖德萨州附近海域发生两起爆炸 致3人死亡】当地时间8月10日，乌克兰敖德萨州军政管理局通报称，当天在敖德萨的海滩附近海域发生两起爆炸，造成三名游客遇难。初步数据显示，爆炸发生在距岸海岸约50米的海域。警方确认，三名遇难者包括一名女性和两名男性，具体身份正在核实。乌克兰敖德萨州军政管理局负责人奥列格·基佩尔表示，遇难者均在禁止游泳的危险区域游泳时触碰了爆炸物。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infknxxw9679798.d.html</link>
-            <guid>4329929</guid>
-            <pubDate>Sun, 10 Aug 2025 11:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 ChatGPT“误诊”致男患者溴中毒】据美国趣味科学网站8月8日报道，一名男子在咨询聊天生成预训练转换器(ChatGPT)后，改变了饮食习惯。而在坚持这种饮食改变三个月后，他最终因新出现的偏执和幻觉等精神病症状而就医于急诊科。
-事实证明，这位60岁男子患有溴中毒，这是一种由长期过度接触溴化物或其近亲溴引起的综合征。在这桩个案中，该男子一直服用他在网上购买的溴化钠。
-关于该病例的报告发表在8月5日的美国《内科医学年鉴：临床病例》上。
-趣味科学网站记者就该病例联系了ChatGPT的开发者开放人工智能研究中心(OpenAI)。该公司一名发言人指点记者查阅其服务条款。条款声明，其服务不用于诊断或治疗任何健康问题。其条款称：“您不应依赖我们的服务输出作为真相或事实信息的唯一来源，或者作为专业建议的替代品。”
-在19世纪和20世纪，溴化物被广泛用于处方药和非处方药，包括镇静剂、抗惊厥药和助眠剂。不过，随着时间推移，人们逐渐意识到，与其长期接触会导致溴中毒。]]></title>
-            <guid>4329928</guid>
-            <pubDate>Sun, 10 Aug 2025 11:13:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
