@@ -4,11 +4,62 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 19 Aug 2025 20:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 21:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦季风暴雨已致706人死亡】巴基斯坦国家灾害管理局19日说，过去24小时，强季风暴雨引发的灾害造成46人死亡。自6月26日进入雨季以来，季风暴雨已在巴全国范围内造成706人死亡。]]></title>
+            <guid>4343616</guid>
+            <pubDate>Tue, 19 Aug 2025 21:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌用户要求陪审团在隐私案中判处290亿美元赔偿】谷歌公司的用户要求联邦陪审团判处他们290亿美元的赔偿金，以应对这家搜索巨头在关闭隐私开关的情况下继续收集个人数据的指控。这项赔偿请求是在周二于旧金山开始的集体诉讼庭审的开庭陈词中提出的，其金额将远远超过其他针对谷歌的重大隐私案件的赔偿金额，包括今年早些时候德克萨斯州总检察长与谷歌就州隐私侵权达成的14亿美元和解协议。这笔巨额赔偿金是根据集体诉讼中的用户数量以及涉嫌侵权行为的持续时间计算得出的。该集体诉讼由近1亿谷歌用户组成。集体诉讼律师、来自Boies Schiller Flexner LLP的大卫·博伊斯（David Boies）在周二的开庭陈述中向八人陪审团表示，该群体声称，在他们关闭账户设置中的追踪功能后，谷歌在八年的时间里非法收集了他们的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnp2064226.d.html</link>
+            <guid>4343615</guid>
+            <pubDate>Tue, 19 Aug 2025 21:20:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国内布拉斯加州玉米单产料落后于2024年水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnt5634846.d.html</link>
+            <guid>4343608</guid>
+            <pubDate>Tue, 19 Aug 2025 20:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[叙利亚外交部部长与以色列代表团举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnr7145834.d.html</link>
+            <guid>4343606</guid>
+            <pubDate>Tue, 19 Aug 2025 20:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会文件显示，Robinhood首席财务官Jason Warnick在8月15日公开市场出售了10万股公司的A类普通股，平均价格为每股110.929美元。]]></title>
+            <guid>4343605</guid>
+            <pubDate>Tue, 19 Aug 2025 20:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国白宫拒绝排除向委内瑞拉派遣地面部队的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnr7144790.d.html</link>
+            <guid>4343602</guid>
+            <pubDate>Tue, 19 Aug 2025 20:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空将季度股息上调至每股88美分，市场预期为每股89美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnr7144624.d.html</link>
+            <guid>4343601</guid>
+            <pubDate>Tue, 19 Aug 2025 20:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心（NHC）：热带风暴警戒范围向北延伸。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqmnp2060744.d.html</link>
+            <guid>4343600</guid>
+            <pubDate>Tue, 19 Aug 2025 20:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国总统特朗普周一曾致电匈牙利总理欧尔班，讨论匈牙利为何阻挠乌克兰加入欧盟的谈判。]]></title>
+            <guid>4343596</guid>
+            <pubDate>Tue, 19 Aug 2025 20:30:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周二（8月19日），彭博电动汽车价格回报指数跌0.03%，报2950.79点。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmqfet7272298.d.html</link>
@@ -247,71 +298,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmpywv7374528.d.html</link>
             <guid>4343516</guid>
             <pubDate>Tue, 19 Aug 2025 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪对加拿大航空的评价：空乘罢工对其息税折旧摊销前利润（EBITDA）的短期影响有限。]]></title>
-            <guid>4343512</guid>
-            <pubDate>Tue, 19 Aug 2025 17:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪对加拿大航空的评级：展望调整为稳定，反映出利润率改善推迟，与此前预测相比杠杆率持续降低。]]></title>
-            <guid>4343511</guid>
-            <pubDate>Tue, 19 Aug 2025 17:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟、乌克兰、美国会谈次日，欧洲军工股“哀鸿遍野”】意大利莱昂纳多收跌10.16%，RENK跌8.27%，萨博跌7.02%，Kongsberg Gruppen跌6.11%，德国莱茵金属RHM跌4.85%，泰雷兹跌4.11%。德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌4.59%。英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmpywx5860558.d.html</link>
-            <guid>4343510</guid>
-            <pubDate>Tue, 19 Aug 2025 17:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津四预警同时生效 目前航班延误60班】8月19日晚，天津市暴雨黄色预警信号、雷雨大风黄色预警信号、海上大风黄色预警信号、地质灾害气象风险黄色预警同时生效中。截至21时，天津出现雷阵雨，局部暴雨到大暴雨，平均降雨量28.9毫米，最大138.3毫米（滨海新区中新生态城），最大小时降雨量95.9毫米（东丽区军粮城）。目前宁河、北辰、滨海新区升级发布暴雨红色预警信号。受天气影响，天津滨海机场于21时55分启动大面积航班延误红色等级响应。目前航班延误60班，取消13班，备降外场16班，请广大旅客密切关注天气情况和相关航空公司信息，妥善做好出行安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmpywx5859063.d.html</link>
-            <guid>4343508</guid>
-            <pubDate>Tue, 19 Aug 2025 17:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI创始人Sam Altman：ChatGPT Go已在印度推出，期待首先让ChatGPT在印度变得更实惠，然后从反馈中学习，扩展到其他国家。]]></title>
-            <guid>4343506</guid>
-            <pubDate>Tue, 19 Aug 2025 17:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【氧化铝夜盘收跌约1.5%】国际铜夜盘收跌0.47%，沪铜收跌0.42%，沪铝收跌0.41%，沪锌收跌0.29%，沪铅收跌0.68%，沪镍收跌0.23%，沪锡收涨0.88%。氧化铝夜盘收跌1.49%，铝合金收跌0.15%。不锈钢夜盘收跌0.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmpywx5858219.d.html</link>
-            <guid>4343505</guid>
-            <pubDate>Tue, 19 Aug 2025 17:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌41美元，报9692美元/吨。
-LME期铝收跌25美元，报2564美元/吨。
-LME期锌收跌8美元，报2768美元/吨。
-LME期铅收涨2美元，报1974美元/吨。
-LME期镍收跌145美元，报15006美元/吨。
-LME期锡收涨148美元，报33850美元/吨。
-LME期钴收平，报33335美元/吨。]]></title>
-            <guid>4343503</guid>
-            <pubDate>Tue, 19 Aug 2025 16:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克总理：伊拉克与美国雪佛龙公司签署项目协议，该项目涵盖四个勘探区块以及其他油田的开发。]]></title>
-            <guid>4343502</guid>
-            <pubDate>Tue, 19 Aug 2025 16:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大航空首席运营官：地面工作薪酬问题已解决。空乘人员在地面的工作时间将获得相应报酬。]]></title>
-            <guid>4343498</guid>
-            <pubDate>Tue, 19 Aug 2025 16:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚财政规则委员会：2025 年上半年哥伦比亚财政赤字占国内生产总值（GDP）的 3.7% 。]]></title>
-            <guid>4343497</guid>
-            <pubDate>Tue, 19 Aug 2025 16:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟称将于9月出台针对俄罗斯的新一轮制裁方案】当地时间8月19日，欧洲理事会举行视频会议讨论乌克兰问题华盛顿会晤。欧盟外交与安全政策高级代表卡拉斯在会后表示，欧盟领导人都致力于实现持久和平，以保护乌克兰和欧洲至关重要的安全利益。卡拉斯称，欧盟将继续针对俄罗斯采取措施，针对莫斯科的下一轮制裁方案预计将于9月出台。卡拉斯表示已将这些议题列为下周欧盟外交和防务部长讨论议程的首要议题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-20/detail-infmpywt2293122.d.html</link>
-            <guid>4343495</guid>
-            <pubDate>Tue, 19 Aug 2025 16:33:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
