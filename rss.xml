@@ -4,11 +4,21 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 24 Aug 2025 19:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 20:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国副总统万斯：美国认为俄乌冲突解决有两个主要问题需要解决，即领土让步和安全保障。]]></title>
+            <guid>4350453</guid>
+            <pubDate>Sun, 24 Aug 2025 19:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：大概六七年后，星舰飞船24小时内的发射次数会超过24次。]]></title>
+            <guid>4350452</guid>
+            <pubDate>Sun, 24 Aug 2025 19:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【古尔曼预测苹果 AirPods Pro 3 耳机今年发布，支持心率监测功能】彭博社记者马克・古尔曼（Mark Gurman）在今天最新的《Power On》中提到，苹果预计将在今年发布新一代 AirPods Pro，核心新功能是 —— 心率监测。当两只耳机同时佩戴并启用该功能时，苹果将通过其内置的 LED 光学传感器以每秒超过 100 次的频率透过血流来测量心率。该功能可与健身 App 联动，记录健身数据并同步至 iPhone 上的“健康”应用。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-25/detail-infncqvt9552960.d.html</link>
@@ -471,23 +481,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsc9996154.d.html</link>
             <guid>4350225</guid>
             <pubDate>Sun, 24 Aug 2025 11:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航行警告 南海部分海域进行军事训练】据中国海事局网站消息，清澜海事局发布航行警告，8月25日至8月26日，每日2时10分至4时30分，南海部分海域进行军事训练，禁止驶入。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsc9996104.d.html</link>
-            <guid>4350224</guid>
-            <pubDate>Sun, 24 Aug 2025 11:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄一炼油厂遭袭后起火 已连续扑救四天】俄罗斯罗斯托夫州州长尤里·斯柳萨尔当地时间24日表示，该州新沙赫京斯克炼油厂的灭火工作仍在持续，火场面积已有缩减。除本地救援力量外，已有来自其他四个地区的紧急情况部门人员投入灭火，总计投入412名工作人员和150台设备。斯柳萨尔指出，扑救需消耗大量水源，导致部分居民点出现供水中断。现仍有克拉斯尼苏林市及数个村镇约8000名居民断水。据报道，新沙赫京斯克炼油厂8月21日遭乌军袭击后起火。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsc9992744.d.html</link>
-            <guid>4350223</guid>
-            <pubDate>Sun, 24 Aug 2025 11:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近20家A股上市公司本周披露并购重组最新公告 开普云拟购买南宁泰克70％股权明日复牌】据不完全统计，截至发稿，本周（8月18日-8月24日）包括开普云、焦作万方、重庆水务、万朗磁塑、通策医疗、泰凌微、力诺药包、镇洋发展、赛微电子、诺诚健华、鑫宏业、梅雁吉祥、通业科技、春晖智控、康平科技和信质集团在内的16家A股上市公司披露并购重组进展最新公告。其中，开普云拟购买南宁泰克70％股权，新增存储产品相关业务，股票8月25日复牌。]]></title>
-            <guid>4350222</guid>
-            <pubDate>Sun, 24 Aug 2025 11:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
