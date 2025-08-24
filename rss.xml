@@ -4,11 +4,22 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 24 Aug 2025 16:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 17:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[智利国家铜业公司（CODELCO）：智利矿业监管机构已批准重启丘基卡马塔铜矿（El Teniente）安第斯北部（Andes Norte）和迪亚曼特（Diamante）矿区的运营。]]></title>
+            <guid>4350420</guid>
+            <pubDate>Sun, 24 Aug 2025 17:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风“剑鱼”来袭 直击十二级风圈里的三亚】台风“剑鱼”已于24日14时由台风级加强为强台风级。24日19时其中心距离海南三亚市南偏东方向约40公里，中心附近最大风力有14级，以每小时20公里左右的速度向西偏北方向移动，强度还将有所加强。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-25/detail-infnckpt4386184.d.html</link>
+            <guid>4350405</guid>
+            <pubDate>Sun, 24 Aug 2025 17:02:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泽连斯基：乌克兰使用国产远程武器打击俄境内目标】乌克兰总统泽连斯基24日表示，乌克兰使用国产远程武器打击俄罗斯境内目标，并已不再就此类行动与美国讨论。他说，就此类行动与美方进行协调是“很久以前的事了”。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-25/detail-infncefz8279346.d.html</link>
@@ -493,24 +504,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsa3327428.d.html</link>
             <guid>4350203</guid>
             <pubDate>Sun, 24 Aug 2025 10:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲多国邮政暂停对美包裹寄递 美关税冲击跨境物流】美国从8月29日起暂停对价值800美元及以下的进口包裹给予免税待遇，届时小额包裹需缴纳适用的所有税费。受此影响，欧洲多国邮政运营商近日纷纷宣布暂停寄往美国的包裹服务。分析人士指出，美国政府单方面取消低价值货物免税待遇的做法，正引发跨境物流和中小企业连锁反应，给全球邮政合作体系带来不确定性。专家认为，受冲击最大的将是依赖跨境电商的小微企业。意大利一消费者权益组织负责人路易吉·达尼埃莱说：“这是特朗普政府加征关税的直接结果，而欧盟在谈判中的被动，使关税最终落到消费者和企业头上。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsf8463997.d.html</link>
-            <guid>4350202</guid>
-            <pubDate>Sun, 24 Aug 2025 10:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长：西方国家欲破坏俄美总统共同推动的冲突解决进程】当地时间24日，“俄罗斯-1”电视频道播出了一段对俄罗斯外交部长拉夫罗夫的采访。针对部分西方国家不久前称“不会与俄罗斯进行任何谈判”，现在又称如果谈判不举行或结果不如人意将再次对俄实施制裁，拉夫罗夫回应道：“他们只是在为阻止谈判找借口，同时想把责任甩给泽连斯基。”拉夫罗夫认为，这种行为意在破坏由俄美总统共同推动且已取得良好成果的冲突解决进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsc9973579.d.html</link>
-            <guid>4350201</guid>
-            <pubDate>Sun, 24 Aug 2025 10:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【久远银海：上半年净利润2994.81万元 同比增长160.02%】久远银海8月24日晚间披露2025年半年报，上半年实现营业收入4.39亿元，同比增长11.33%；归母净利润2994.81万元，同比增长160.02%；基本每股收益0.07元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-24/detail-infnatsc9972397.d.html</link>
-            <guid>4350200</guid>
-            <pubDate>Sun, 24 Aug 2025 10:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
