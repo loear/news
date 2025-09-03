@@ -6,6 +6,93 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4367993,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3964378.d.html",
+            "title": "市场消息：沙特阿美计划最早于本月发行美元计价伊斯兰债券。",
+            "date_modified": "2025-09-03T19:18:49.000Z"
+        },
+        {
+            "id": 4367992,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvx2282789.d.html",
+            "title": "市场消息：OpenAI 将二次股票出售规模提升至 103 亿美元。",
+            "date_modified": "2025-09-03T19:17:59.000Z"
+        },
+        {
+            "id": 4367990,
+            "content_html": "",
+            "title": "洛克希德・马丁公司：预计 2025 年交付 600 多枚 “爱国者 - 3” 导弹分段增强型（PAC-3 MSE）拦截弹。",
+            "date_modified": "2025-09-03T19:14:17.000Z"
+        },
+        {
+            "id": 4367989,
+            "content_html": "",
+            "title": "美国卫生与公众服务部（HHS）：将对阻碍患者获取、交换或使用电子健康数据的医疗保健机构采取积极执法行动。",
+            "date_modified": "2025-09-03T19:13:38.000Z"
+        },
+        {
+            "id": 4367984,
+            "content_html": "",
+            "title": "洛克希德・马丁公司：该合同为1970 枚 “爱国者 - 3” 导弹分段增强型（PAC-3 MSE）拦截弹。",
+            "date_modified": "2025-09-03T19:10:52.000Z"
+        },
+        {
+            "id": 4367983,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3964174.d.html",
+            "title": "洛克希德・马丁公司：美国陆军授予其 98 亿美元合同。",
+            "date_modified": "2025-09-03T19:09:41.000Z"
+        },
+        {
+            "id": 4367979,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229534.d.html",
+            "title": "消息人士称，空中客车8月交付了61架喷气式飞机。",
+            "date_modified": "2025-09-03T18:46:52.000Z"
+        },
+        {
+            "id": 4367977,
+            "content_html": "",
+            "title": "波兰总统：我坚信，我们在增加美国在波兰驻军数量方面将会取得成功，但我们目前仍处于这一进程的起步阶段。",
+            "date_modified": "2025-09-03T18:42:03.000Z"
+        },
+        {
+            "id": 4367974,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229224.d.html",
+            "title": "xAI公司CFO利伯托雷（Liberatore）辞职。",
+            "date_modified": "2025-09-03T18:39:25.000Z"
+        },
+        {
+            "id": 4367973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229206.d.html",
+            "title": "【谷歌加强在AI芯片市场与英伟达之间的较量】谷歌近期接洽了一些以租赁英伟达芯片为主的小型云服务商，希望它们的数据中心也能部署谷歌的人工智能（AI）芯片。谷歌已经与至少一家云服务商达成协议，其中包括总部位于伦敦的Fluidstack，后者将在纽约的数据中心部署谷歌的张量处理单元（TPU）。",
+            "date_modified": "2025-09-03T18:38:36.000Z"
+        },
+        {
+            "id": 4367972,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229163.d.html",
+            "title": "波兰总统纳夫罗茨基：特朗普邀请我参加明年的二十国集团（G20）峰会。",
+            "date_modified": "2025-09-03T18:37:10.000Z"
+        },
+        {
+            "id": 4367971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229119.d.html",
+            "title": "波兰总统：特朗普在闭门会议和公开场合中都有力地保障了波兰的安全。",
+            "date_modified": "2025-09-03T18:36:07.000Z"
+        },
+        {
+            "id": 4367970,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9229098.d.html",
+            "title": "波兰总统：已与特朗普就增加在波美军数量进行交谈。",
+            "date_modified": "2025-09-03T18:35:21.000Z"
+        },
+        {
             "id": 4367969,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvx2281326.d.html",
@@ -260,119 +347,6 @@
             "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2406936.d.html",
             "title": "特朗普即将与泽连斯基会谈。",
             "date_modified": "2025-09-03T17:11:41.000Z"
-        },
-        {
-            "id": 4367892,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7470496.d.html",
-            "title": "巴西8月汽车销量同比下降5.1%至225,348辆。",
-            "date_modified": "2025-09-03T17:09:32.000Z"
-        },
-        {
-            "id": 4367891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7470477.d.html",
-            "title": "特朗普还在考虑让柯蒂斯・斯利瓦（Curtis Sliwa）在政府中担任职务。",
-            "date_modified": "2025-09-03T17:09:07.000Z"
-        },
-        {
-            "id": 4367890,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2406716.d.html",
-            "title": "印度税务秘书：电动汽车税维持在5%。",
-            "date_modified": "2025-09-03T17:08:33.000Z"
-        },
-        {
-            "id": 4367886,
-            "content_html": "",
-            "title": "印度总理莫迪：税收改革将改善公民生活，确保所有人营商便利，尤其是小商贩和小微企业。",
-            "date_modified": "2025-09-03T17:05:27.000Z"
-        },
-        {
-            "id": 4367885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4086942.d.html",
-            "title": "印度税务秘书：政府将与企业界合作，确保税率下调的好处传递给消费者。",
-            "date_modified": "2025-09-03T17:05:24.000Z"
-        },
-        {
-            "id": 4367884,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2406380.d.html",
-            "title": "【特朗普暗示：如果关税措施被取消，贸易协定将被取消】美国总统特朗普暗示，如果美国法院最终裁定他的全球关税措施非法，他与包括欧盟、日本和韩国在内的经济体达成的贸易协定将被取消。特朗普周三表示，这些关税使他能够与主要贸易伙伴达成协议，美国可以在不遭到报复的情况下提高其产品的进口税——他表示，这些安排让美国“有机会再次变得异常富裕”。特朗普在椭圆形办公室告诉记者：“如果我们打不赢这场官司，我们的国家将遭受巨大损失。这些协议都已经达成，我想我们不得不撤销它们。”",
-            "date_modified": "2025-09-03T17:05:06.000Z"
-        },
-        {
-            "id": 4367883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7469775.d.html",
-            "title": "印度税务秘书：整个降息举措对联邦政府和邦政府而言在财政上都是可持续的。",
-            "date_modified": "2025-09-03T17:02:41.000Z"
-        },
-        {
-            "id": 4367882,
-            "content_html": "",
-            "title": "消息人士称，美国告知各国不要在联合国航运机构支持燃油排放协议，否则将面临可能的关税措施。",
-            "date_modified": "2025-09-03T17:02:09.000Z"
-        },
-        {
-            "id": 4367880,
-            "content_html": "",
-            "title": "国际铜夜盘收涨0.11%，沪铜收涨0.10%，沪铝收跌0.19%，沪锌收跌0.49%，沪铅收跌0.06%，沪镍收涨0.39%，沪锡收涨0.21%。氧化铝夜盘收跌2.15%，铝合金收跌0.17%。不锈钢夜盘收跌0.23%。",
-            "date_modified": "2025-09-03T17:01:56.000Z"
-        },
-        {
-            "id": 4367879,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7469684.d.html",
-            "title": "美国斯巴鲁公司：2025年8月汽车销量达61,220辆。",
-            "date_modified": "2025-09-03T17:01:21.000Z"
-        },
-        {
-            "id": 4367877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9352495.d.html",
-            "title": "塞勒姆媒体集团宣布首席运营官大卫·埃文斯离职。",
-            "date_modified": "2025-09-03T17:00:57.000Z"
-        },
-        {
-            "id": 4367876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4086448.d.html",
-            "title": "印度税务秘书：预计减税带来的净财政收入影响将达4800亿卢比。",
-            "date_modified": "2025-09-03T17:00:29.000Z"
-        },
-        {
-            "id": 4367875,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）：环境评估报告将批准SpaceX在40号综合设施（Complex-40）建设着陆区。",
-            "date_modified": "2025-09-03T17:00:13.000Z"
-        },
-        {
-            "id": 4367874,
-            "content_html": "",
-            "title": "中国地震台网正式测定：09月04日00时52分在新疆阿克苏地区库车市（北纬41.32度，东经83.81度）发生3.9级地震，震源深度18千米。",
-            "date_modified": "2025-09-03T16:59:01.000Z"
-        },
-        {
-            "id": 4367873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4086347.d.html",
-            "title": "两名外交消息人士称，美国特使史蒂夫·维特科夫在乌克兰问题联盟会议召开前抵达巴黎。",
-            "date_modified": "2025-09-03T16:58:57.000Z"
-        },
-        {
-            "id": 4367872,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）：最终环境评估报告将批准猎鹰9号每年最多120次发射。",
-            "date_modified": "2025-09-03T16:57:58.000Z"
-        },
-        {
-            "id": 4367871,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2405713.d.html",
-            "title": "美国联邦航空管理局（FAA）发布SpaceX猎鹰9号运营最终环境评估报告。",
-            "date_modified": "2025-09-03T16:57:19.000Z"
         }
     ]
 }
