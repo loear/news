@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 27 Sep 2025 18:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 19:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【古巴外长：美国封锁是制造饥饿与绝望的经济战争】当地时间9月27日，古巴外长罗德里格斯在第80届联合国大会一般性辩论上发表讲话，直指美国对委内瑞拉和加勒比地区的威胁，谴责其对古巴愈演愈烈的封锁，使古巴正在面临“影响深远、旷日持久的经济战争”。罗德里格斯在发言中指出，美国对古巴的封锁是古巴面临经济困境的核心原因。长期以来，古巴人民正遭受着“每日停电、食品供应困难、药品短缺、公共交通不畅和严重通货膨胀”等问题。他强调，这些困难并非偶然，而是美国政策刻意为之的结果，其明确目的就是“剥夺古巴人民的生计和可持续发展，造成饥饿和绝望”。他还指出，美国政府对古巴的政策自1960年以来从未改变，一脉相承至今。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-28/detail-infrynqc4976533.d.html</link>
+            <guid>4408385</guid>
+            <pubDate>Sat, 27 Sep 2025 19:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外长：俄美第三轮双边关系刺激因素磋商将于今秋举行】俄罗斯外长拉夫罗夫表示，俄罗斯与美国就双边关系刺激因素举行的第三轮磋商将于今年秋季进行。拉夫罗夫在联合国大会第80届会议高级别周结束后举行的记者会上称：“我们（俄美双方）就签证问题、使馆运行问题、财产问题以及外交代表机构日常运作的其他方面持续进行对话。此前已举行了两轮磋商，我们与美国国务卿马尔科·鲁比奥商定于今年秋季举行第三轮磋商。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-28/detail-infrynqc4976160.d.html</link>
+            <guid>4408384</guid>
+            <pubDate>Sat, 27 Sep 2025 19:03:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国驻以色列大使赫卡比预计将访问埃及，就加沙和以色列问题展开讨论。]]></title>
             <link>https://finance.sina.cn/7x24/2025-09-28/detail-infrynqc4970792.d.html</link>
@@ -549,12 +561,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-27/detail-infrxvsp3780561.d.html</link>
             <guid>4408183</guid>
             <pubDate>Sat, 27 Sep 2025 11:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025国家工业软件大会召开 发布多项关键成果】9月27日，2025国家工业软件大会在浙江宁波召开，大会由中国自动化学会主办，以“智驱新质”为主题，汇聚高校、研究院所和行业领域等近千名代表，聚焦前沿技术与产业需求，共探工业软件自主创新与产业化发展路径。大会发布了《中国自动化技术发展报告》和《中国自动化产业发展报告》。《中国自动化技术发展报告》全景呈现自动化技术的硬核实力，聚焦工业过程自动化、装备设备自动化、共性关键技术三大核心领域的23个关键方向，把脉行业现状，领航未来方向；《中国自动化产业发展报告》围绕全维度解析自动化核心产品生态，赋能国民经济重点行业智能化转型，引领装备设备自动化创新突破。同时，大会还发布了国内首个针对有色金属冶炼行业的智冶大模型，让AI读懂工业语言、驾驭冶金思维、精准操控生产全链，开创大模型从“能聊”到“能做”的具身智控工业应用新范式。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-27/detail-infrxvsp3778929.d.html</link>
-            <guid>4408180</guid>
-            <pubDate>Sat, 27 Sep 2025 11:11:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
