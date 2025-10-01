@@ -6,6 +6,46 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4414962,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmtha0885600.d.html",
+            "title": "【消息人士称哈马斯或有条件接受“20点计划”】一名接近巴勒斯坦伊斯兰抵抗运动（哈马斯）的消息人士1日告诉新华社记者，哈马斯可能会有条件接受美国总统特朗普就结束加沙地带冲突提出的“20点计划”。哈马斯及巴勒斯坦相关派别围绕该方案的讨论当天进入第二天。这名消息人士表示，哈马斯可能提出的条件是必须对该方案一些条款加以修改、明确以军撤军时间表和与哈马斯相关的保障。（新华社）",
+            "date_modified": "2025-10-01T21:22:18.000Z"
+        },
+        {
+            "id": 4414959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmtha0885289.d.html",
+            "title": "市场消息：韩国外长称美方正在审阅韩美货币互换协议，但告知韩方前景不乐观。",
+            "date_modified": "2025-10-01T21:15:09.000Z"
+        },
+        {
+            "id": 4414955,
+            "content_html": "",
+            "title": "七国集团声明：正在认真考虑对那些为俄罗斯军事行动提供资金支持的国家和实体采取贸易措施及其他限制手段。",
+            "date_modified": "2025-10-01T21:08:11.000Z"
+        },
+        {
+            "id": 4414944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmtfy6655759.d.html",
+            "title": "【美国私营部门9月减少3.2万个就业岗位】美国自动数据处理公司（ADP）1日发布的数据显示，今年9月美国私营部门减少3.2万个就业岗位，出现2023年3月以来最大降幅，远低于增加约5万个就业岗位的市场预期。（新华社）",
+            "date_modified": "2025-10-01T20:45:40.000Z"
+        },
+        {
+            "id": 4414943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmthc9373123.d.html",
+            "title": "【马杜罗发文祝贺新中国成立76周年】委内瑞拉总统马杜罗9月30日在社交媒体发文，祝贺中华人民共和国成立76周年，高度赞扬新中国取得的卓越发展成就，以及两国建立在相互尊重和共同发展基础上的牢固伙伴关系。（新华社）",
+            "date_modified": "2025-10-01T20:42:48.000Z"
+        },
+        {
+            "id": 4414940,
+            "content_html": "",
+            "title": "美国9月投资级债券市场供应量达到2070亿美元，创历史新高，这让华尔街顶级承销商美国银行感到震惊。",
+            "date_modified": "2025-10-01T20:31:52.000Z"
+        },
+        {
             "id": 4414938,
             "content_html": "",
             "title": "【印尼学校建筑物倒塌事故死亡人数升至5人 仍有84人被埋】印尼东爪哇省搜救部门1日说，该省诗都阿佐县9月29日发生的学校建筑物倒塌事故死亡人数已上升至5人，另有84人被埋。数百名救援人员仍在现场展开搜救行动。东爪哇省搜救部门负责人纳南·西吉特透露，1日共有7名学生被救出，其中5人生还、2人遇难。西吉特表示，倒塌的建筑物废墟仍不稳定，给救援人员和幸存者带来严重风险。目前，救援人员正在评估是否动用重型设备进行搜救。事故原因仍在调查中。（央视新闻）",
@@ -365,137 +405,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnye1008065.d.html",
             "title": "阿根廷比索收跌3.16%。",
             "date_modified": "2025-10-01T18:01:46.000Z"
-        },
-        {
-            "id": 4414832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnye1007983.d.html",
-            "title": "特朗普：部分关税收入将用于救助美国大豆种植户。",
-            "date_modified": "2025-10-01T18:00:45.000Z"
-        },
-        {
-            "id": 4414830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496713.d.html",
-            "title": "白宫发言人莱维特：现在无法进行与医疗保健问题有关的谈判。",
-            "date_modified": "2025-10-01T18:00:00.000Z"
-        },
-        {
-            "id": 4414828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6772101.d.html",
-            "title": "英特尔正在与AMD洽谈，希望将其列为代工客户。",
-            "date_modified": "2025-10-01T17:59:42.000Z"
-        },
-        {
-            "id": 4414826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6771927.d.html",
-            "title": "白宫发言人莱维特：预计很快会有更多裁员公告。",
-            "date_modified": "2025-10-01T17:58:34.000Z"
-        },
-        {
-            "id": 4414825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6771893.d.html",
-            "title": "白宫发言人莱维特：政府裁员将在两天内发生，很快就会发生。",
-            "date_modified": "2025-10-01T17:58:16.000Z"
-        },
-        {
-            "id": 4414824,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496571.d.html",
-            "title": "【荷兰呼吁欧盟将也门胡塞武装列为恐怖组织】在一艘悬挂荷兰国旗的货船在亚丁湾遭到袭击后，荷兰当地时间10月1日呼吁欧盟将也门胡塞武装列入恐怖组织名单，并对其实施制裁。",
-            "date_modified": "2025-10-01T17:56:16.000Z"
-        },
-        {
-            "id": 4414823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6771607.d.html",
-            "title": "白宫发言人莱维特：希望哈马斯接受和平计划。",
-            "date_modified": "2025-10-01T17:55:54.000Z"
-        },
-        {
-            "id": 4414822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496497.d.html",
-            "title": "【美司法部因政府停摆请求推迟针对特朗普诉讼的截止期限】当地时间10月1日，美国司法部开始请求联邦法院暂停针对美国总统特朗普重组联邦政府所涉诉讼的截止期限。据悉，由于特朗普在联邦机构实施大规模削减与改革，许多相关诉讼此前已获得法院紧急审理。但司法部认为，政府停摆意味着政府律师暂时无法在法庭截止日期前完成工作。当天，美国被解雇的地面运输委员会成员就被免职一事起诉特朗普。",
-            "date_modified": "2025-10-01T17:54:34.000Z"
-        },
-        {
-            "id": 4414821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6771387.d.html",
-            "title": "白宫：裁员迫在眉睫。",
-            "date_modified": "2025-10-01T17:54:13.000Z"
-        },
-        {
-            "id": 4414818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496464.d.html",
-            "title": "【阿联酋总统与伊拉克总理讨论双边关系及地区发展】当地时间10月1日，阿联酋总统穆罕默德与伊拉克总理苏达尼在阿布扎比进行了会晤，双方回顾两国间的密切关系，并探讨了如何扩大双边合作，特别是在发展和经济领域。两国领导人还讨论了一系列共同关心的地区和国际问题，并就中东地区的最新局势发展交换了意见。他们强调，有必要明确通往持久和平的道路，并推进支持该地区安全、稳定和发展的外交举措。他们还强调，在国际社会最近承认巴勒斯坦国的基础上再接再厉，这是实现巴勒斯坦人民合法愿望的一步。",
-            "date_modified": "2025-10-01T17:53:32.000Z"
-        },
-        {
-            "id": 4414813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6771153.d.html",
-            "title": "白宫发言人莱维特：将很快宣布劳工统计局局长人选。",
-            "date_modified": "2025-10-01T17:52:31.000Z"
-        },
-        {
-            "id": 4414812,
-            "content_html": "",
-            "title": "白宫发言人莱维特：持有美洲锂业（Lithium Americas）股份有助于解决债务危机。",
-            "date_modified": "2025-10-01T17:51:40.000Z"
-        },
-        {
-            "id": 4414810,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6770917.d.html",
-            "title": "白宫发言人莱维特：对GDP的影响取决于政府停摆时间。",
-            "date_modified": "2025-10-01T17:50:44.000Z"
-        },
-        {
-            "id": 4414808,
-            "content_html": "",
-            "title": "路孚特数据显示，美国9月液化天然气（LNG）出口量达创纪录的940万吨，高于8月的930万吨。",
-            "date_modified": "2025-10-01T17:48:38.000Z"
-        },
-        {
-            "id": 4414807,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496232.d.html",
-            "title": "白宫：此次政府停摆将影响美国民众。",
-            "date_modified": "2025-10-01T17:48:34.000Z"
-        },
-        {
-            "id": 4414805,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6770423.d.html",
-            "title": "白宫：围绕加沙计划正在进行敏感讨论。",
-            "date_modified": "2025-10-01T17:46:36.000Z"
-        },
-        {
-            "id": 4414804,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnya6770389.d.html",
-            "title": "白宫发言人莱维特：政府停摆非常可能导致裁员。",
-            "date_modified": "2025-10-01T17:46:19.000Z"
-        },
-        {
-            "id": 4414803,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnyf9496134.d.html",
-            "title": "美国副总统万斯：在政府停摆期间尚未就员工问题做出最终决定。",
-            "date_modified": "2025-10-01T17:46:10.000Z"
-        },
-        {
-            "id": 4414802,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-02/detail-infsmnye1007215.d.html",
-            "title": "白宫行政管理和预算局（OMB）局长沃特：预计1-2天内将启动裁员。",
-            "date_modified": "2025-10-01T17:43:01.000Z"
         }
     ]
 }
