@@ -6,18 +6,64 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4421673,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcncv0782038.d.html",
+            "title": "阿根廷劳工部：政府下令暂停油籽工人工会活动，直至谈判结束。",
+            "date_modified": "2025-10-07T21:15:11.000Z"
+        },
+        {
+            "id": 4421668,
+            "content_html": "",
+            "title": "厄瓜多尔能源部长：总统诺沃亚曾遭遇暗杀企图，并已正式提出指控。已有5人被拘留。厄瓜多尔总统诺沃亚在此次事件中未受伤。",
+            "date_modified": "2025-10-07T20:56:49.000Z"
+        },
+        {
+            "id": 4421664,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfvy3910049.d.html",
+            "title": "【西班牙马德里一酒店坍塌 已致2人死亡】当地时间10月7日，西班牙马德里市长阿尔梅达确认，当天中午马德里市中心发生的建筑倒塌事件已经造成2人死亡。当天13时左右，马德里市中心一座正在进行翻修的酒店发生倒塌。",
+            "date_modified": "2025-10-07T20:51:18.000Z"
+        },
+        {
+            "id": 4421653,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfvy3909863.d.html",
+            "title": "刚果（金）货币政策委员会将关键利率从 25% 下调至 17.5%。",
+            "date_modified": "2025-10-07T20:42:36.000Z"
+        },
+        {
+            "id": 4421649,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfwa2398327.d.html",
+            "title": "富时罗素：尼日利亚被列入观察名单，可能从无分类重新归类为前沿市场地位。",
+            "date_modified": "2025-10-07T20:35:00.000Z"
+        },
+        {
+            "id": 4421648,
+            "content_html": "",
+            "title": "美国至10月3日当周API原油库存 278万桶，预期225万桶，前值-367.4万桶。\n美国至10月3日当周API汽油库存 -124.5万桶，预期-138.2万桶，前值130万桶。",
+            "date_modified": "2025-10-07T20:33:42.000Z"
+        },
+        {
+            "id": 4421647,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfvx0910065.d.html",
+            "title": "纳斯达克9月股票期权成交量3.78亿，同比增长42%。",
+            "date_modified": "2025-10-07T20:33:28.000Z"
+        },
+        {
+            "id": 4421645,
+            "content_html": "",
+            "title": "市场消息：琳恩·罗斯柴尔德已将其家族持有的《经济学人》26.7%的全部股份挂牌出售。若交易达成，这将是《经济学人》十年来最大的一次股权变动。此前有报道称，琳恩仅计划出售其个人所持的部分股份，约占公司20%。",
+            "date_modified": "2025-10-07T20:28:33.000Z"
+        },
+        {
             "id": 4421644,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfvy3908970.d.html",
             "title": "【卡塔尔首相和土耳其代表团将加入加沙停火谈判】卡塔尔外交部7日宣布，卡塔尔首相兼外交大臣穆罕默德将于8日加入正在埃及举行的加沙地带停火谈判。土耳其官方媒体报道，土耳其代表团也将于8日加入谈判。卡塔尔外交部发言人安萨里在社交媒体发表声明说，卡塔尔首相穆罕默德加入谈判，正值谈判“处于关键阶段”之时，体现调解方“促成协议以结束加沙地带灾难性战争的坚定决心”。（新华社）",
             "date_modified": "2025-10-07T20:25:20.000Z"
-        },
-        {
-            "id": 4421643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftcfvx0909475.d.html",
-            "title": "富时罗素（FTSE）将希腊重新纳入发达市场，新增斯洛伐克到FTSE WGBI市场。",
-            "date_modified": "2025-10-07T20:24:51.000Z"
         },
         {
             "id": 4421637,
@@ -231,152 +277,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524509.d.html",
             "title": "特斯拉官网显示，美国市场标准后轮驱动版Model 3售价为36990美元。",
             "date_modified": "2025-10-07T18:26:32.000Z"
-        },
-        {
-            "id": 4421574,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524477.d.html",
-            "title": "特斯拉：标准款Model Y车内配备手动调节方向盘，而非电动调节方向盘。",
-            "date_modified": "2025-10-07T18:25:57.000Z"
-        },
-        {
-            "id": 4421573,
-            "content_html": "",
-            "title": "特斯拉网站显示，标准后轮驱动版Model Y续航里程为321英里（美国环保署估计值）。",
-            "date_modified": "2025-10-07T18:25:26.000Z"
-        },
-        {
-            "id": 4421572,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524465.d.html",
-            "title": "特斯拉：标准款Model Y车内没有可定制的环绕式氛围灯，配备封闭式玻璃车顶。",
-            "date_modified": "2025-10-07T18:25:19.000Z"
-        },
-        {
-            "id": 4421570,
-            "content_html": "",
-            "title": "美国众议长约翰逊：若15日前未能解决此事（政府停摆），给我们军队的款项将无法按时发放；13日是发放款项的最后期限。",
-            "date_modified": "2025-10-07T18:23:00.000Z"
-        },
-        {
-            "id": 4421569,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524364.d.html",
-            "title": "欧元兑日元最新报177.01，日内涨0.56%。",
-            "date_modified": "2025-10-07T18:21:32.000Z"
-        },
-        {
-            "id": 4421568,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4035577.d.html",
-            "title": "加拿大魁北克省财务主管：劳动力市场疲软问题正在蔓延。",
-            "date_modified": "2025-10-07T18:20:41.000Z"
-        },
-        {
-            "id": 4421567,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1032298.d.html",
-            "title": "普京：2022年2月做出的“特别军事行动”决定是正确且及时的。",
-            "date_modified": "2025-10-07T18:18:45.000Z"
-        },
-        {
-            "id": 4421566,
-            "content_html": "",
-            "title": "俄罗斯武装力量总参谋长格拉西莫夫：南方集团军正在向塞韦尔斯克和康斯坦丁诺夫卡推进。",
-            "date_modified": "2025-10-07T18:12:18.000Z"
-        },
-        {
-            "id": 4421565,
-            "content_html": "",
-            "title": "俄罗斯武装力量总参谋长格拉西莫夫：俄罗斯武装力量继续向特别军事行动的几乎所有方向推进。",
-            "date_modified": "2025-10-07T18:11:47.000Z"
-        },
-        {
-            "id": 4421563,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1031934.d.html",
-            "title": "美国德克萨斯州国民警卫队提前抵达芝加哥南部陆军预备役中心。",
-            "date_modified": "2025-10-07T18:10:37.000Z"
-        },
-        {
-            "id": 4421562,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524136.d.html",
-            "title": "普京：国防工业为前线提供了一切必要保障，并以快速步伐研发最新技术。",
-            "date_modified": "2025-10-07T18:09:48.000Z"
-        },
-        {
-            "id": 4421561,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1031880.d.html",
-            "title": "【儿基会：6万多加沙儿童因巴以冲突致死致残】联合国儿童基金会发言人里卡多·皮雷斯7日表示，新一轮巴以冲突爆发两年来，已导致加沙地带约6.1万名儿童死亡或残疾。",
-            "date_modified": "2025-10-07T18:09:15.000Z"
-        },
-        {
-            "id": 4421560,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2524089.d.html",
-            "title": "普京：基辅方面正试图深入打击俄罗斯领土，将民用设施列为目标，但这对他们无济于事。",
-            "date_modified": "2025-10-07T18:07:35.000Z"
-        },
-        {
-            "id": 4421558,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1031729.d.html",
-            "title": "普京：2025年俄罗斯军队在乌克兰控制了近5000平方公里土地。",
-            "date_modified": "2025-10-07T18:06:07.000Z"
-        },
-        {
-            "id": 4421556,
-            "content_html": "",
-            "title": "俄罗斯总统新闻秘书佩斯科夫：普京生日当天访问了圣彼得堡并与军方举行了会议，听取了前线局势的汇报。",
-            "date_modified": "2025-10-07T18:05:17.000Z"
-        },
-        {
-            "id": 4421555,
-            "content_html": "",
-            "title": "欧盟提议提高关税以保护自身陷入困境的行业后，英国钢铁行业发出警告，称可能出现生存危机。",
-            "date_modified": "2025-10-07T18:04:35.000Z"
-        },
-        {
-            "id": 4421554,
-            "content_html": "",
-            "title": "谷歌：将欧泊（Opal）引入15个国家，并添加新功能，让人工智能迷你应用程序的开发更加便捷。",
-            "date_modified": "2025-10-07T18:03:09.000Z"
-        },
-        {
-            "id": 4421551,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1031140.d.html",
-            "title": "美国证交会主席Paul Atkins：并不认为私人信用市场繁荣构成系统风险。",
-            "date_modified": "2025-10-07T18:00:28.000Z"
-        },
-        {
-            "id": 4421547,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2523692.d.html",
-            "title": "人工智能数据中心的电力需求将在10年内增长四倍。",
-            "date_modified": "2025-10-07T17:58:19.000Z"
-        },
-        {
-            "id": 4421546,
-            "content_html": "",
-            "title": "意大利总理：我们无意通过征收新税来惩罚银行体系，但我认为我们可以通过合作来寻求帮助。",
-            "date_modified": "2025-10-07T17:53:09.000Z"
-        },
-        {
-            "id": 4421545,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4034633.d.html",
-            "title": "白宫备忘录称，政府停摆期间被迫休假的联邦工作人员无法保证补发工资。",
-            "date_modified": "2025-10-07T17:50:39.000Z"
-        },
-        {
-            "id": 4421543,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2523165.d.html",
-            "title": "【卡土美三国代表团抵达埃及 将参加新一轮加沙停火谈判】埃及消息人士当天透露，埃及正加紧与各方努力以达成协议，明确实施美方“20点计划”所需的机制和程序。目前，卡塔尔、土耳其和美国的代表团已陆续抵达埃及沙姆沙伊赫，将参加新一轮和谈会议。美国代表团由美国中东问题特使威特科夫率领。",
-            "date_modified": "2025-10-07T17:45:17.000Z"
         }
     ]
 }
