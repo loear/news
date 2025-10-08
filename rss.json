@@ -6,6 +6,325 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4422955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepe1363784.d.html",
+            "title": "消息人士：刚果（金）将依据过去三年出货数据分配年度钴出口配额。",
+            "date_modified": "2025-10-08T15:25:53.000Z"
+        },
+        {
+            "id": 4422954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepe1363748.d.html",
+            "title": "【特朗普：芝加哥市长和伊利诺伊州州长“应入狱”】据央视报道，10月8日，美国总统特朗普在社交平台“真实社交”发文指责民主党籍的芝加哥市长约翰逊和伊利诺伊州州长普里茨克，称二人“应入狱”。据美国媒体7日报道，特朗普政府已向伊利诺伊州派出国民警卫队，首批200名得克萨斯州国民警卫队员当天抵达芝加哥地区。",
+            "date_modified": "2025-10-08T15:25:23.000Z"
+        },
+        {
+            "id": 4422952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepe1363478.d.html",
+            "title": "通用汽车终止现有库存电动车税收抵免延长计划。",
+            "date_modified": "2025-10-08T15:22:03.000Z"
+        },
+        {
+            "id": 4422950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepe1363079.d.html",
+            "title": "土耳其外交部长：今日加沙谈判或达成停火。",
+            "date_modified": "2025-10-08T15:17:14.000Z"
+        },
+        {
+            "id": 4422949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepa2874271.d.html",
+            "title": "【欧洲汽车制造商协会：欧盟如削减钢铁进口配额将加剧通胀】欧洲汽车制造商协会8日发表声明说，欧盟委员会削减钢铁进口配额将推高相关产品价格，从而加剧通胀。欧盟委员会在7日公布的一份提案中说，为保护欧盟钢铁行业，计划大幅下调钢铁免关税进口配额，并对配额外进口钢铁征收50%的关税，同时将采取措施对钢铁原产地加大溯源力度。欧洲汽车制造商协会在声明中指出，欧盟委员会的提案不仅无助于缓解欧洲市场压力，新的原产地规则还将进一步限制进口，给欧洲钢铁产品进口商带来巨大负担。（新华社）",
+            "date_modified": "2025-10-08T15:16:56.000Z"
+        },
+        {
+            "id": 4422947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftfepa2874155.d.html",
+            "title": "土耳其外交部长：土耳其期待加沙谈判取得积极成果。",
+            "date_modified": "2025-10-08T15:15:11.000Z"
+        },
+        {
+            "id": 4422946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0187112.d.html",
+            "title": "土耳其外交部长：今日加沙谈判聚焦人质、囚犯与援助问题。",
+            "date_modified": "2025-10-08T15:14:33.000Z"
+        },
+        {
+            "id": 4422945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3004922.d.html",
+            "title": "IBM将公布2025年第三季度财务业绩。",
+            "date_modified": "2025-10-08T15:14:16.000Z"
+        },
+        {
+            "id": 4422943,
+            "content_html": "",
+            "title": "Cantor寻求就First Brands风险敞口问题与瑞银集团O’Connor达成新的协议。",
+            "date_modified": "2025-10-08T15:11:45.000Z"
+        },
+        {
+            "id": 4422941,
+            "content_html": "",
+            "title": "IMF总裁格奥尔基耶娃：在低收入国家，偿债正在侵蚀本就有限的、用于服务本国人民的财政空间。",
+            "date_modified": "2025-10-08T15:09:28.000Z"
+        },
+        {
+            "id": 4422939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1493173.d.html",
+            "title": "墨西哥总统辛鲍姆：墨西哥和美国将于下周举行重要贸易谈判。",
+            "date_modified": "2025-10-08T15:08:00.000Z"
+        },
+        {
+            "id": 4422938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0185824.d.html",
+            "title": "【扎哈罗娃：若欧盟向乌转交俄被冻结资产 俄方将强硬回应】当地时间8日，俄罗斯外交部发言人扎哈罗娃表示，如果欧盟向乌克兰转交被冻结的俄罗斯资产，俄方将进行强硬回应。她还表示，如果美国向乌克兰提供“战斧”导弹，这将对俄美关系造成无法弥补的损害。（央视新闻）",
+            "date_modified": "2025-10-08T15:07:44.000Z"
+        },
+        {
+            "id": 4422937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0185473.d.html",
+            "title": "墨西哥总统辛鲍姆：与美国的贸易谈判“进展顺利”。",
+            "date_modified": "2025-10-08T15:06:39.000Z"
+        },
+        {
+            "id": 4422936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3004173.d.html",
+            "title": "IMF总裁格奥尔基耶娃：非常担忧发达经济体的公共债务增长速度快于发展中经济体。",
+            "date_modified": "2025-10-08T15:06:19.000Z"
+        },
+        {
+            "id": 4422935,
+            "content_html": "",
+            "title": "土耳其外交部长：以色列在叙利亚南部开展单边行动，试图破坏叙利亚稳定，这对我们来说构成了国家安全问题。",
+            "date_modified": "2025-10-08T15:06:06.000Z"
+        },
+        {
+            "id": 4422926,
+            "content_html": "",
+            "title": "一条帖子称：“OpenAI正计划打造一个占地多平方英里的 “超级大脑”，该系统将由100亿块图形处理器（GPU）提供算力支持。这简直是在让智能铺满整个地球。”马斯克对此表示，“微不足道（Small Potatoes）。”",
+            "date_modified": "2025-10-08T15:00:32.000Z"
+        },
+        {
+            "id": 4422925,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3003429.d.html",
+            "title": "法国总统马克龙支持率下降 3 个百分点至 14%。",
+            "date_modified": "2025-10-08T15:00:22.000Z"
+        },
+        {
+            "id": 4422923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0183261.d.html",
+            "title": "美元指数DXY短线走高十点，现报98.84。",
+            "date_modified": "2025-10-08T15:00:10.000Z"
+        },
+        {
+            "id": 4422922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0183092.d.html",
+            "title": "【印度“毒糖浆”已致17名儿童死亡 多家药企被查出违规】印度药品监管机构8日说，对多家印度药企的最新检查发现，一些制药厂存在违规行为，未按要求检测每个批次的药物原料。此前，已有至少17名5岁以下儿童服用含有毒成分的止咳糖浆后死亡。",
+            "date_modified": "2025-10-08T14:59:29.000Z"
+        },
+        {
+            "id": 4422921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3003315.d.html",
+            "title": "梅赛德斯-奔驰出行业务将并入梅赛德斯-奔驰集团。",
+            "date_modified": "2025-10-08T14:58:57.000Z"
+        },
+        {
+            "id": 4422920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1492082.d.html",
+            "title": "【阿里通义林俊旸：已建立机器人和具身智能的小型团队】记者注意到，阿里通义千问大语言模型负责人林俊旸在社交媒体上发文表示，已建立机器人和具身智能的小型团队。他表示，多模态基础模型正转变为基础智能体（agents），这些智能体可以利用工具和记忆通过强化学习进行长视野（long-horizon ）推理，”它们绝对应该从虚拟世界走向物理世界“。",
+            "date_modified": "2025-10-08T14:58:53.000Z"
+        },
+        {
+            "id": 4422917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0181981.d.html",
+            "title": "阿根廷连续第七天在即期市场抛售美元。",
+            "date_modified": "2025-10-08T14:54:18.000Z"
+        },
+        {
+            "id": 4422916,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0181712.d.html",
+            "title": "【中意举行政府委员会第12次联席会议】当地时间2025年10月8日，中意政府委员会第12次联席会议在罗马举行。中共中央政治局委员、外交部长王毅同意大利副总理兼外长塔亚尼共同出席，听取双方成员单位代表汇报并作总结发言。王毅说，去年以来，马塔雷拉总统、拉鲁萨参议长、梅洛尼总理分别访华，中意共同发表加强全面战略伙伴关系的行动计划。双方积极落实两国领导人重要共识，以今年中意建交55周年为契机，推动各领域务实合作稳步拓展，亮点纷呈。王毅表示，中意委作为中国同欧洲国家建立的首个政府间合作机制，至今已走过21个年头，为双边关系发展发挥重要作用，得到两国各界信任和广泛支持。当前国际形势快速深刻变化，中意合作面临新形势、新机遇、新挑战。中方愿同意方一道秉持中意委成立初心，守正创新，推动合作机制向更加系统化、更有针对性、更富成效的“2.0版本”升级，更好配合中意关系发展战略。（新华社）",
+            "date_modified": "2025-10-08T14:53:24.000Z"
+        },
+        {
+            "id": 4422915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1491573.d.html",
+            "title": "据港交所文件：坦博尔集团股份有限公司向港交所提交上市申请书。",
+            "date_modified": "2025-10-08T14:53:05.000Z"
+        },
+        {
+            "id": 4422913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0180894.d.html",
+            "title": "乌克兰的德泰克公司称俄罗斯袭击了其煤炭精炼厂。",
+            "date_modified": "2025-10-08T14:51:11.000Z"
+        },
+        {
+            "id": 4422912,
+            "content_html": "",
+            "title": "土耳其外交部长：由库尔德人主导的叙利亚民主军（SDF）必须放弃分裂主义议程，周三已与叙利亚讨论了3月的一体化协议。",
+            "date_modified": "2025-10-08T14:50:46.000Z"
+        },
+        {
+            "id": 4422910,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3002459.d.html",
+            "title": "土耳其外长：叙利亚的地区和国际参与度日益增强。",
+            "date_modified": "2025-10-08T14:49:39.000Z"
+        },
+        {
+            "id": 4422909,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：美国上周石油产品周度供应量升至2022年12月以来的最高水平。",
+            "date_modified": "2025-10-08T14:49:15.000Z"
+        },
+        {
+            "id": 4422905,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0179507.d.html",
+            "title": "IMF总裁格奥尔基耶娃：美国数据显示经济出现一定程度的疲软。",
+            "date_modified": "2025-10-08T14:46:04.000Z"
+        },
+        {
+            "id": 4422904,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0179465.d.html",
+            "title": "【国庆7天浙江水上出行旅客超190万人次 同比增长72%】从浙江海事局了解到，今年国庆中秋假期，浙江水路出行人数持续高位，1-7日该省水上发送旅客191.85万人次，比去年国庆7天假期增长72%。",
+            "date_modified": "2025-10-08T14:45:48.000Z"
+        },
+        {
+            "id": 4422902,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1490790.d.html",
+            "title": "【辽宁：“十一”假期实现旅游综合收入同比增长18.2%】从辽宁省文化和旅游厅获悉，“十一”假期截至10月8日15时，辽宁省累计接待游客按可比口径同比增长17.54%；实现旅游综合收入按可比口径同比增长18.20%。",
+            "date_modified": "2025-10-08T14:44:10.000Z"
+        },
+        {
+            "id": 4422901,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0178901.d.html",
+            "title": "【机构称泰国政府“速赢”措施有助于支撑经济增长】泰国开泰研究中心8日发布报告称，泰国政府刚刚推出的“速赢”措施有助于支撑经济增长。 报告称，泰国新一届政府日前向国会提交了施政纲领，涵盖经济、国家安全、自然灾害与环境、政府行政管理与法律改革五大施政重点。经济是新政府的首要施政重点，短期内将着重刺激购买力、解决债务问题、恢复旅游业、吸引外商直接投资以及应对美国关税措施的影响；中长期则强调维护财政纪律，推进经济与社会结构性改革。",
+            "date_modified": "2025-10-08T14:43:31.000Z"
+        },
+        {
+            "id": 4422898,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0178531.d.html",
+            "title": "【国庆中秋假期湖南接待游客近4000万人次】湖南省文化和旅游厅8日晚发布消息，根据手机信令大数据建模分析，10月1日至8日，湖南累计接待游客3992.94万人次，同比增长19.35%(同口径比增长11.7%)，其中省外游客1037.12万人次，占比25.97%。根据假期全省游客花费抽样调查结果测算，全省实现游客总花费502.06亿元，同比增长25.96%(同口径比增长16.28%)，其中省外游客总花费192.51亿元，同比增长21.43%。",
+            "date_modified": "2025-10-08T14:42:23.000Z"
+        },
+        {
+            "id": 4422897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0178408.d.html",
+            "title": "格奥尔基耶娃：不确定性将长期存在，需要私营部门发挥灵活性来增强增长前景。",
+            "date_modified": "2025-10-08T14:41:58.000Z"
+        },
+        {
+            "id": 4422896,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：中西部地区原油库存上周降至2024年9月以来的最低水平 。",
+            "date_modified": "2025-10-08T14:40:50.000Z"
+        },
+        {
+            "id": 4422895,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0177926.d.html",
+            "title": "IMF总裁格奥尔基耶娃：我们需要监管环境清晰明确，既不过度监管，也不监管不足。",
+            "date_modified": "2025-10-08T14:40:24.000Z"
+        },
+        {
+            "id": 4422894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1490369.d.html",
+            "title": "格奥尔基耶娃：各国需要优质数据和能确保公平竞争环境的良好制度。",
+            "date_modified": "2025-10-08T14:40:04.000Z"
+        },
+        {
+            "id": 4422893,
+            "content_html": "",
+            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：在不确定性极高的时期，你需要具备灵活性和适应能力。",
+            "date_modified": "2025-10-08T14:39:53.000Z"
+        },
+        {
+            "id": 4422890,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0177279.d.html",
+            "title": "富国银行将戴尔科技集团目标价从160.00美元上调至180.00美元。",
+            "date_modified": "2025-10-08T14:37:37.000Z"
+        },
+        {
+            "id": 4422889,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0177185.d.html",
+            "title": "即将卸任的法国外交部长称：被伊朗扣押的莱纳特·蒙特洛斯已获释。",
+            "date_modified": "2025-10-08T14:37:20.000Z"
+        },
+        {
+            "id": 4422888,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3001332.d.html",
+            "title": "  伯恩斯坦将联合健康集团目标股价从每股379.00美元上调至433.00美元。",
+            "date_modified": "2025-10-08T14:36:56.000Z"
+        },
+        {
+            "id": 4422887,
+            "content_html": "",
+            "title": "10月03日当周美国原油出口减少16.1万桶/日至359.0万桶/日。\n10月03日当周美国国内原油产量增加12.4万桶至1362.9万桶/日。\n除却战略储备的商业原油库存增加371.5万桶至4.2亿桶，增幅0.89%。\n美国原油产品四周平均供应量为2089.7万桶/日，较去年同期增加1.68%。\n10月03日当周美国战略石油储备（SPR）库存增加28.5万桶至4.07亿桶，增幅0.07%。\n10月03日当周美国除却战略储备的商业原油进口640.3万桶/日，较前一周增加57.0万桶/日。\n美国至10月3日当周国内原油产量为2024年12月6日当周以来最高。\n美国至10月3日当周EIA精炼油库存降幅录得2025年6月20日当周以来最大。\n美国至10月3日当周国内原油产量增幅录得2025年1月31日当周以来最大。\n美国至10月3日当周EIA战略石油储备库存为2022年10月7日当周以来最高。",
+            "date_modified": "2025-10-08T14:34:45.000Z"
+        },
+        {
+            "id": 4422885,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1489454.d.html",
+            "title": "德国DAX指数日内涨幅达1.00%。",
+            "date_modified": "2025-10-08T14:33:05.000Z"
+        },
+        {
+            "id": 4422881,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe3000055.d.html",
+            "title": "道明·考恩将戴尔科技目标价从130美元上调至150美元。",
+            "date_modified": "2025-10-08T14:31:06.000Z"
+        },
+        {
+            "id": 4422880,
+            "content_html": "",
+            "title": "美国炼油厂开工率为92.4%；市场预期为90.50%。",
+            "date_modified": "2025-10-08T14:30:39.000Z"
+        },
+        {
+            "id": 4422879,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2999743.d.html",
+            "title": "EIA称原油库存增加372万桶。",
+            "date_modified": "2025-10-08T14:30:08.000Z"
+        },
+        {
+            "id": 4422878,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0173905.d.html",
+            "title": "美国前联邦调查局（FBI）局长詹姆斯·科米科米虚假陈述案审判定于1月5日举行。",
+            "date_modified": "2025-10-08T14:29:32.000Z"
+        },
+        {
             "id": 4422877,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0173526.d.html",
@@ -93,248 +412,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2997199.d.html",
             "title": "IMF格奥尔基耶娃称不确定性是新常态。",
             "date_modified": "2025-10-08T14:06:32.000Z"
-        },
-        {
-            "id": 4422852,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0166847.d.html",
-            "title": "IMF总裁：金融市场的大幅回调可能削弱增长。加征关税的全面影响尚未显现。",
-            "date_modified": "2025-10-08T14:05:18.000Z"
-        },
-        {
-            "id": 4422850,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）：富裕国家和贫穷国家都必须整合财政支出，解决过度失衡问题，并重建缓冲机制。 美国应采取持续行动解决联邦赤字问题，鼓励家庭储蓄。",
-            "date_modified": "2025-10-08T14:04:15.000Z"
-        },
-        {
-            "id": 4422849,
-            "content_html": "",
-            "title": "前联邦调查局局长科米对美国检方的指控表示不认罪。",
-            "date_modified": "2025-10-08T14:04:03.000Z"
-        },
-        {
-            "id": 4422847,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）总裁表示，关税冲击程度未如预期般严重，国际货币基金组织总裁称2025年和2026年全球经济增长“仅会略有放缓”。",
-            "date_modified": "2025-10-08T14:03:36.000Z"
-        },
-        {
-            "id": 4422845,
-            "content_html": "",
-            "title": "巴西汽车制造商协会（ANFAVEA）负责人：丰田在巴西的生产中断可能影响汽车总产量。",
-            "date_modified": "2025-10-08T14:03:12.000Z"
-        },
-        {
-            "id": 4422844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0166039.d.html",
-            "title": "IMF格奥尔基耶娃：DOT-COM的估值正朝着2000年的高度迈进。",
-            "date_modified": "2025-10-08T14:02:56.000Z"
-        },
-        {
-            "id": 4422843,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2996650.d.html",
-            "title": "IMF格奥尔基耶娃：宽松的金融环境掩盖了增长疲软。",
-            "date_modified": "2025-10-08T14:02:24.000Z"
-        },
-        {
-            "id": 4422842,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2996579.d.html",
-            "title": "IMF格奥尔基耶娃呼吁欧盟以“单一市场沙皇”推动改革。",
-            "date_modified": "2025-10-08T14:02:05.000Z"
-        },
-        {
-            "id": 4422841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2996554.d.html",
-            "title": "【IMF：全球经济总体上顶住了多重冲击带来的严峻压力】IMF 总裁克里斯塔利娜・格奥尔基耶娃（Kristalina Georgieva）在华盛顿发表讲话时指出：“所有迹象都表明，全球经济总体上顶住了多重冲击带来的严峻压力。” 她提到，今年早些时候对经济衰退的预测并未成为现实，2025 年和 2026 年全球经济增长将小幅放缓；许多经济体的表现 “好于预期，但仍未达到我们所需的水平”。",
-            "date_modified": "2025-10-08T14:01:48.000Z"
-        },
-        {
-            "id": 4422840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0164984.d.html",
-            "title": "IMF格奥尔吉耶娃：资产估值正朝着 2000 年互联网泡沫时期的水平攀升。",
-            "date_modified": "2025-10-08T14:00:18.000Z"
-        },
-        {
-            "id": 4422839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0164845.d.html",
-            "title": "阿富汗外交部：阿富汗塔利班外交部长启程访问印度。",
-            "date_modified": "2025-10-08T13:59:51.000Z"
-        },
-        {
-            "id": 4422838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0164800.d.html",
-            "title": "费城半导体指数涨超1%，AMD涨超5%，美光科技涨近4%，台积电涨超2%。",
-            "date_modified": "2025-10-08T13:59:37.000Z"
-        },
-        {
-            "id": 4422837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0164694.d.html",
-            "title": "马斯克：Grok Code现已在Visual Studio中可用。",
-            "date_modified": "2025-10-08T13:59:06.000Z"
-        },
-        {
-            "id": 4422835,
-            "content_html": "",
-            "title": "约翰·切维登：敦促特斯拉股东对第6项提案投赞成票，以使特斯拉通过多数股东投票实现民主治理。",
-            "date_modified": "2025-10-08T13:58:13.000Z"
-        },
-        {
-            "id": 4422832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2996103.d.html",
-            "title": "世贸组织上调2025年贸易增长预期，但2026年关税将加重。",
-            "date_modified": "2025-10-08T13:56:42.000Z"
-        },
-        {
-            "id": 4422831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2995924.d.html",
-            "title": "【以色列国家安全部长进入阿克萨清真寺区域，沙特：最强烈谴责！】据以色列多家媒体8日报道，以色列国家安全部长本-格维尔当天在安全人员护卫下进入阿克萨清真寺区域。本-格维尔办公室发表声明说，他前往“冲突爆发点”是为了祈祷“战争胜利、哈马斯被摧毁、被扣押人员归来”。另据法新社报道，针对本-格维尔的举动，沙特8日予以强烈谴责。沙特外交部在一份声明中表示，“谴责以色列官员和定居者在占领军的保护下冲击阿克萨清真寺，并重申对持续袭击阿克萨清真寺的行为表示最强烈谴责”。（环球时报新媒体）",
-            "date_modified": "2025-10-08T13:55:06.000Z"
-        },
-        {
-            "id": 4422830,
-            "content_html": "",
-            "title": "瑞安航空首席执行官：欧洲至美国跨大西洋航线的旅行需求疲软，推动了欧洲旅游目的地的热度，让瑞安航空受益。",
-            "date_modified": "2025-10-08T13:53:54.000Z"
-        },
-        {
-            "id": 4422828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0163275.d.html",
-            "title": "蓝色起源：新谢泼德号助推器已着陆！欢迎归来，NS-36 机组人员！",
-            "date_modified": "2025-10-08T13:53:03.000Z"
-        },
-        {
-            "id": 4422827,
-            "content_html": "",
-            "title": "瑞安航空首席执行官：英国和法国的经济疲软正促使人们从国有航空公司转而选择瑞安航空。",
-            "date_modified": "2025-10-08T13:51:31.000Z"
-        },
-        {
-            "id": 4422823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2995094.d.html",
-            "title": "【埃尔多安：哈马斯表现出比以色列更具建设性的立场】土耳其总统埃尔多安8日表示，新一轮加沙停火谈判开始以来，巴勒斯坦伊斯兰抵抗运动（哈马斯）表现出比以色列更具建设性的立场，而以方尚未表现出类似的建设性行为。土耳其阿纳多卢通讯社当天援引埃尔多安的话报道说，土耳其将致力于在“两国方案”基础上解决巴勒斯坦问题。“我们的首要任务是尽快实现（加沙）立即全面停火。人道主义援助须不拖延、不间断地抵达加沙。”",
-            "date_modified": "2025-10-08T13:49:14.000Z"
-        },
-        {
-            "id": 4422821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1483446.d.html",
-            "title": "【甲骨文涨超1.4%，将与软银合作在日本推出主权云和人工智能服务】甲骨文涨超1.4%，报288.25美元。消息面上，软银集团与甲骨文合作，旨在为日本企业提供安全、合规且可扩展的主权云和人工智能服务。软银将推出名为Cloud PF Type A的新服务，该服务基于Oracle Alloy，为日本市场提供软银独有的云和AI服务。",
-            "date_modified": "2025-10-08T13:46:14.000Z"
-        },
-        {
-            "id": 4422818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0160855.d.html",
-            "title": "发言人：英国首相与塔塔高管会面，就钢铁事宜进行商谈。",
-            "date_modified": "2025-10-08T13:45:10.000Z"
-        },
-        {
-            "id": 4422817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1483230.d.html",
-            "title": "雪佛龙公司报告加州埃尔塞贡多炼油厂发生紧急火炬燃烧情况。",
-            "date_modified": "2025-10-08T13:44:35.000Z"
-        },
-        {
-            "id": 4422816,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1483227.d.html",
-            "title": "今年截至9月份希腊天然气消费量增长17%。",
-            "date_modified": "2025-10-08T13:44:30.000Z"
-        },
-        {
-            "id": 4422815,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2994405.d.html",
-            "title": "分析师称，铝厂火灾将使福特的利润最多减少10亿美元。",
-            "date_modified": "2025-10-08T13:43:58.000Z"
-        },
-        {
-            "id": 4422814,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0160546.d.html",
-            "title": "联合国项目事务厅主任：加沙地带 80% 的基础设施已遭到彻底摧毁。",
-            "date_modified": "2025-10-08T13:43:46.000Z"
-        },
-        {
-            "id": 4422813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0160378.d.html",
-            "title": "穆迪确认新西兰的Ba2评级。",
-            "date_modified": "2025-10-08T13:43:02.000Z"
-        },
-        {
-            "id": 4422808,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfc0159971.d.html",
-            "title": "英国首相发言人：不会深入探讨国民医疗服务体系（NHS）的资金来源问题。",
-            "date_modified": "2025-10-08T13:41:24.000Z"
-        },
-        {
-            "id": 4422806,
-            "content_html": "",
-            "title": "发言人表示，英国首相斯塔默已与印孚瑟斯（Infosys）的尼勒卡尼（Nilekani）就数字身份（Digital ID）议题展开讨论。",
-            "date_modified": "2025-10-08T13:40:32.000Z"
-        },
-        {
-            "id": 4422802,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1482382.d.html",
-            "title": "美国银行全球研究部将美国医疗保健板块评级从“减持”上调至“增持”。",
-            "date_modified": "2025-10-08T13:37:05.000Z"
-        },
-        {
-            "id": 4422801,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2993596.d.html",
-            "title": "联合国项目事务办公室主任：“我们需要520亿美元重建加沙地带”。",
-            "date_modified": "2025-10-08T13:36:55.000Z"
-        },
-        {
-            "id": 4422787,
-            "content_html": "",
-            "title": "在与VERIZON签署协议后AST SPACEMOBILE股价攀升16%创下新高。",
-            "date_modified": "2025-10-08T13:31:10.000Z"
-        },
-        {
-            "id": 4422783,
-            "content_html": "",
-            "title": "思科为分布式人工智能工作负载推出行业最具可扩展性、最高效的51.2T路由系统，树立行业标杆，推出Silicon One P200芯片和8223路由系统，用于连接数据中心并为下一代人工智能工作负载提供支持。",
-            "date_modified": "2025-10-08T13:30:24.000Z"
-        },
-        {
-            "id": 4422782,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfh1481466.d.html",
-            "title": "【皇庭国际：深圳皇庭广场以物抵债】皇庭国际(000056)10月8日公告，公司收到广东省深圳市中级人民法院《执行裁定书》，公司全资子公司深圳融发投资有限公司名下位于深圳市福田区中心区的晶岛国商购物中心（即深圳皇庭广场）及相关附属设施、设备被司法裁定以第一次网络拍卖起拍价30.53亿元抵偿相关债务。",
-            "date_modified": "2025-10-08T13:29:20.000Z"
-        },
-        {
-            "id": 4422781,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2992666.d.html",
-            "title": "市场消息：俄罗斯代表团已抵达塔吉克斯坦的杜尚贝市。",
-            "date_modified": "2025-10-08T13:29:06.000Z"
-        },
-        {
-            "id": 4422780,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-infteyfe2992567.d.html",
-            "title": "美国联邦住房金融局局长Pulte：房利美和房地美寻求披露大型建筑商的贷款。",
-            "date_modified": "2025-10-08T13:28:23.000Z"
         }
     ]
 }
