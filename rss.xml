@@ -4,11 +4,57 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 11 Oct 2025 16:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 17:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗与巴基斯坦外长通电话 探讨深化地区合作】当地时间10月11日，伊朗外交部长阿拉格齐与巴基斯坦副总理兼外长达尔通电话。双方强调，应深化地区合作，充分挖掘和利用在贸易、运输等领域的潜在优势。同时，应通过积极外交、信息共享和区域协调，促进地区和平与稳定。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzye6803020.d.html</link>
+            <guid>4428282</guid>
+            <pubDate>Sat, 11 Oct 2025 17:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国密西西比州枪击事件造成4死12伤】据美国媒体报道，美国南部密西西比州利兰市11日凌晨发生一起枪击事件，造成至少4人死亡、12人受伤。利兰市市长约翰·李告诉媒体，枪击事件发生在当地一条主要街道上，当时正值一场高中返校节橄榄球比赛结束散场。目前警方暂未拘留任何嫌疑人，调查仍在进行中。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzyh5288411.d.html</link>
+            <guid>4428281</guid>
+            <pubDate>Sat, 11 Oct 2025 16:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国田纳西州军用炸药厂爆炸事件尚未发现幸存者】当地时间10月11日，美国田纳西州汉弗莱斯县警长戴维斯表示，截至目前，在军工炸药厂爆炸事故现场“未发现任何幸存者”，至少18人失踪，恐已遇难。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzye6798046.d.html</link>
+            <guid>4428280</guid>
+            <pubDate>Sat, 11 Oct 2025 16:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普二儿子埃里克・特朗普称加密货币第四季度 “表现惊人” 两周后，该市场遭遇了历史上规模最大的单日清算。]]></title>
+            <guid>4428279</guid>
+            <pubDate>Sat, 11 Oct 2025 16:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月12日00时01分在埃塞俄比亚（北纬13.85度，东经39.85度）发生5.2级地震，震源深度10千米。]]></title>
+            <guid>4428278</guid>
+            <pubDate>Sat, 11 Oct 2025 16:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈马斯官员：谈论将哈马斯领导人驱逐出加沙地带的说法是 “徒劳的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzxy9935963.d.html</link>
+            <guid>4428277</guid>
+            <pubDate>Sat, 11 Oct 2025 16:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈马斯官员：哈马斯不会参与在埃及举行的与以色列的协议签署仪式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzyc4599573.d.html</link>
+            <guid>4428276</guid>
+            <pubDate>Sat, 11 Oct 2025 16:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国《金融时报》：美元正经历数十年来表现最差的一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzxy9935850.d.html</link>
+            <guid>4428275</guid>
+            <pubDate>Sat, 11 Oct 2025 16:29:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[德国地球科学研究中心（GFZ）：埃塞俄比亚地区发生 5.7 级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-12/detail-inftpzyh5283295.d.html</link>
@@ -492,48 +538,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprki4809690.d.html</link>
             <guid>4428182</guid>
             <pubDate>Sat, 11 Oct 2025 11:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中核集团漳州核电2号机组获批装料】10月11日，生态环境部向中核集团旗下中国核电投资控股的漳州核电2号机组颁发运行许可证。当天16时13分，采用国家名片“华龙一号”技术的漳州核电2号机组开始装载首炉核燃料，标志着机组进入主系统带核调试阶段，为后续机组临界、并网发电等工作奠定了坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkn5499473.d.html</link>
-            <guid>4428180</guid>
-            <pubDate>Sat, 11 Oct 2025 11:46:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带67682人死亡】据加沙地带卫生部门统计，自2023年10月7日新一轮巴以冲突爆发以来，以军在加沙地带的军事行动已造成67682人死亡，另有170033人受伤。加沙地带因饥荒和营养不良死亡的总人数已升至463人，其中包括157名儿童。过去24小时内，加沙地带卫生部门在当地找到116具遗体，加沙地带医疗机构共接收35具遗体和72名伤员。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprki4807732.d.html</link>
-            <guid>4428179</guid>
-            <pubDate>Sat, 11 Oct 2025 11:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legal & General拟收购NatWest养老金部门Cushon。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkn5497549.d.html</link>
-            <guid>4428177</guid>
-            <pubDate>Sat, 11 Oct 2025 11:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部公布水预算管理第二批试点地区】为落实关于全面构建节水制度政策体系的意见要求，加快建立健全水预算管理体系，在第一批试点地区取得阶段性成效基础上，水利部启动水预算管理第二批试点工作。试点申报地区按照水利部印发的《水预算管理试点方案》编制实施方案，并按程序上报。水利部组织专家评审，遴选确定在辽河流域开展流域试点，在河北省、上海市、浙江省、山东省开展省域试点，在北京市通州区、黑龙江省大兴安岭地区、江西省景德镇市、重庆市大足区、新疆维吾尔自治区乌鲁木齐市开展市域试点，在辽宁省大连市长海县、福建省漳州市东山县、湖南省长沙市长沙县开展县域试点，进一步夯实水预算管理制度建设实践基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkf0143040.d.html</link>
-            <guid>4428176</guid>
-            <pubDate>Sat, 11 Oct 2025 11:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电力财务有限公司原党委委员、副总经理薛嘉璋接受审查调查】中央纪委国家监委网站10月11日通报，据中央纪委国家监委驻国家电网有限公司纪检监察组、甘肃省纪委监委消息：中国电力财务有限公司原党委委员、副总经理薛嘉璋涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家电网有限公司纪检监察组纪律审查和甘肃省定西市监察委员会监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkn5497499.d.html</link>
-            <guid>4428175</guid>
-            <pubDate>Sat, 11 Oct 2025 11:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024年以来重庆办理涉企行政复议案6000多件 为企业挽损1.71亿元】记者11日从重庆市政府新闻办举行的新闻发布会上获悉，2024年以来，重庆办理涉企行政复议案件6000多件，案结事了率92.11%，为企业挽回经济损失1.71亿元。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkk7008507.d.html</link>
-            <guid>4428174</guid>
-            <pubDate>Sat, 11 Oct 2025 11:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹法希尔一避难所遭无人机袭击 至少60人死亡】当地时间10月11日，苏丹西部北达尔富尔州地方组织法希尔抵抗委员会发表声明称，该州首府法希尔市一收容流离失所者的避难所当天遭无人机袭击并引发大火，目前已造成至少60名平民死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-11/detail-inftprkk7007793.d.html</link>
-            <guid>4428173</guid>
-            <pubDate>Sat, 11 Oct 2025 11:32:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
