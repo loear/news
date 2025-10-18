@@ -4,11 +4,34 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Oct 2025 18:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 19:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡表示他计划参加下次选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-19/detail-infukeay7029870.d.html</link>
+            <guid>4440987</guid>
+            <pubDate>Sat, 18 Oct 2025 19:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：Grok Imagine 视频生成再次升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-19/detail-infukeax4547394.d.html</link>
+            <guid>4440986</guid>
+            <pubDate>Sat, 18 Oct 2025 19:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：摧毁了一艘正沿某知名贩毒运输路线驶向美国的大型运毒潜艇。美国情报部门已证实，这艘潜艇上装载的货物以芬太尼为主，还包含其他非法毒品。船上已知有四名毒恐分子，其中两人已被击毙。另外两名幸存的毒恐分子正被遣返回其原籍国 —— 厄瓜多尔和哥伦比亚，以便当地对其实施拘留和起诉。此次打击行动中，美军无人伤亡。]]></title>
+            <guid>4440985</guid>
+            <pubDate>Sat, 18 Oct 2025 18:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗谴责以色列违反加沙停火协议】当地时间10月18日，伊朗外交部发言人巴加埃发表声明，强烈谴责以色列多次违反加沙地带停火协议，尤其是近日以军对一辆载有巴勒斯坦流离失所者的车辆发动袭击，导致包括7名儿童和2名妇女在内的11人死亡。此外，巴加埃还批评以色列拒绝履行重新开放拉法口岸的承诺。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-19/detail-infuixve5648163.d.html</link>
+            <guid>4440984</guid>
+            <pubDate>Sat, 18 Oct 2025 18:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：日本主要在野党之一的日本维新会倾向与自由民主党开展 “阁外合作”。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-19/detail-infuixve5647752.d.html</link>
@@ -476,24 +499,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-18/detail-infuipfk5870896.d.html</link>
             <guid>4440824</guid>
             <pubDate>Sat, 18 Oct 2025 12:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地球科学研究中心（GFZ）：菲律宾棉兰老岛发生5.63级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-18/detail-infuipff4898170.d.html</link>
-            <guid>4440822</guid>
-            <pubDate>Sat, 18 Oct 2025 12:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏南通：要激发消费活力 精心办好江苏城市足球联赛半决赛南通主场比赛】10月18日下午，市委财经委员会会议暨经济形势分析会召开。会议强调，要激发消费活力，精心办好江苏城市足球联赛半决赛南通主场比赛，以“全域主场、全域观赛、全域消费”理念抓住用好赛事流量，分类施策扩大商品消费，积极培育服务消费新场景新业态新模式，加大“好房子”供给，进一步促进房地产市场平稳健康发展。（南通发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-18/detail-infuipfk5870591.d.html</link>
-            <guid>4440821</guid>
-            <pubDate>Sat, 18 Oct 2025 12:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：派拉蒙或将在美国裁员2000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-18/detail-infuipfc0234355.d.html</link>
-            <guid>4440820</guid>
-            <pubDate>Sat, 18 Oct 2025 12:38:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
