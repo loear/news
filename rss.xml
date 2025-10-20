@@ -4,16 +4,125 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 20 Oct 2025 18:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 19:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[加密货币交易所Coinbase：交易服务部分恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4820293.d.html</link>
-            <guid>4443449</guid>
-            <pubDate>Mon, 20 Oct 2025 18:35:14 GMT</pubDate>
+            <title><![CDATA[【哈马斯向以方移交一具被扣押人员遗体】巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别“卡桑旅”当地时间20日表示，该组织当天将通过红十字国际委员会向以色列方面移交一具以方被扣押人员遗体。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshz4807159.d.html</link>
+            <guid>4443480</guid>
+            <pubDate>Mon, 20 Oct 2025 19:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹首都喀土穆国际机场将于22日起恢复部分运营】苏丹首都喀土穆国际机场当地时间10月20日发布声明宣布，自10月22日起恢复运营国内航班。声明未提及何时恢复运营国际航班。这将是自苏丹武装冲突爆发两年多以来，喀土穆国际机场首次恢复运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqsic9470816.d.html</link>
+            <guid>4443479</guid>
+            <pubDate>Mon, 20 Oct 2025 19:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统万斯很快将启程前往以色列。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4822406.d.html</link>
+            <guid>4443478</guid>
+            <pubDate>Mon, 20 Oct 2025 19:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase表示，交易服务部分恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshz4807057.d.html</link>
+            <guid>4443477</guid>
+            <pubDate>Mon, 20 Oct 2025 19:20:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：多米尼加共和国地区发生5.5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshz4807013.d.html</link>
+            <guid>4443475</guid>
+            <pubDate>Mon, 20 Oct 2025 19:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[多米尼加共和国发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshz4806975.d.html</link>
+            <guid>4443474</guid>
+            <pubDate>Mon, 20 Oct 2025 19:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊云科技（AWS）：随着成功调用次数增多且函数错误减少，提高简单队列服务（SQS）的轮询速率。]]></title>
+            <guid>4443473</guid>
+            <pubDate>Mon, 20 Oct 2025 19:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊云科技（AWS）：对于使用Lambda服务的客户而言，调用其他服务的网络请求函数可能会间歇性出现函数错误。]]></title>
+            <guid>4443472</guid>
+            <pubDate>Mon, 20 Oct 2025 19:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊云科技（AWS）：继续观察到所有亚马逊云科技服务均在恢复，且在美国东部1区的多个可用区中，实例启动均获成功。]]></title>
+            <guid>4443471</guid>
+            <pubDate>Mon, 20 Oct 2025 19:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqsic9470487.d.html</link>
+            <guid>4443470</guid>
+            <pubDate>Mon, 20 Oct 2025 19:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国上诉法院允许特朗普向俄勒冈州波特兰市派遣军队。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshz4806720.d.html</link>
+            <guid>4443469</guid>
+            <pubDate>Mon, 20 Oct 2025 19:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：上诉法院现已批准在波特兰部署军队。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4821992.d.html</link>
+            <guid>4443467</guid>
+            <pubDate>Mon, 20 Oct 2025 19:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美债10年收益率日内跌幅达到1.02%，报3.983。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4821942.d.html</link>
+            <guid>4443466</guid>
+            <pubDate>Mon, 20 Oct 2025 19:08:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[叙利亚内政部消息人士称，安全部队仍在追捕大规模毒品走私网络的成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4821914.d.html</link>
+            <guid>4443465</guid>
+            <pubDate>Mon, 20 Oct 2025 19:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉代理咨询摘要】代理顾问Glass Lewis建议特斯拉股东投票反对拟议的 2025 年首席执行官绩效奖和高管薪酬咨询投票，理由是存在治理方面的担忧。 它还敦促股东反对特斯拉董事会授权投资 xAI 的提议，但支持取消公司的绝对多数投票要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqsic9469844.d.html</link>
+            <guid>4443460</guid>
+            <pubDate>Mon, 20 Oct 2025 18:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Archer Aviation携手大韩航空 推动空中出租车在韩落地】美东时间周一，美国知名电动垂直起降飞行器(eVTOL)公司Archer Aviation宣布，公司已与大韩航空签署合作协议，计划在韩国推动其空中出租车的商业化运营，协议中还包含最多购买100架eVTOL飞行器的潜在订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshw4821597.d.html</link>
+            <guid>4443459</guid>
+            <pubDate>Mon, 20 Oct 2025 18:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[代理投票咨询机构Glass Lewis建议特斯拉股东投票反对一项关于董事会授权投资 XAI 的股东提案。]]></title>
+            <guid>4443458</guid>
+            <pubDate>Mon, 20 Oct 2025 18:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[代理投票咨询机构Glass Lewis建议特斯拉股东投票反对 2025 年 CEO 绩效奖励提案。]]></title>
+            <guid>4443457</guid>
+            <pubDate>Mon, 20 Oct 2025 18:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长与联合国秘书长通电话 讨论加沙与也门局势】据央视新闻，当地时间20日，伊朗外交部长阿拉格齐与联合国秘书长古特雷斯通电话，就地区局势，特别是加沙和也门局势的最新发展交换了意见。阿拉格齐在通话中强调，国际社会有责任制止以色列继续违反停火协议，并确保向加沙民众提供人道主义援助。他还谴责以色列对也门发动的侵略行动，并强调伊朗将继续与联合国保持沟通与合作，支持国际社会为实现也门局势稳定和地区安全所作的努力。古特雷斯对伊朗在推动地区和平方面发挥的积极作用表示赞赏，并呼吁各方通过外交途径继续推动对话，以实现也门和中东地区的长期稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqsic9469319.d.html</link>
+            <guid>4443456</guid>
+            <pubDate>Mon, 20 Oct 2025 18:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称数名巴勒斯坦武装分子越过“黄线”并向以军开火】据以色列国防军当地时间20日声明，数名巴勒斯坦武装分子当天越过以军在加沙地带标示的“黄线”并向以军开火，在交火期间以军无人机打死2名巴勒斯坦武装分子，以军暂无人员伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqshy3309560.d.html</link>
+            <guid>4443453</guid>
+            <pubDate>Mon, 20 Oct 2025 18:40:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉CEO埃隆·马斯克：将 Grokipedia v0.1 发布推迟到本周末。我们需开展更多工作，以清除其中的宣传性内容。]]></title>
@@ -280,131 +389,6 @@ LME期钴收涨1470美元，报45650美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqfti9718017.d.html</link>
             <guid>4443377</guid>
             <pubDate>Mon, 20 Oct 2025 16:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯泰兰蒂斯集团Stellantis计划在Mirafiori为混合动力车型菲亚特500（Fiat 500）招聘400人。]]></title>
-            <guid>4443375</guid>
-            <pubDate>Mon, 20 Oct 2025 16:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：正在采取诸多措施以维持停火协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqfti9717829.d.html</link>
-            <guid>4443374</guid>
-            <pubDate>Mon, 20 Oct 2025 16:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：（谈俄乌冲突）乌克兰仍有可能取胜，但我认为他们不会赢。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqftf5053567.d.html</link>
-            <guid>4443371</guid>
-            <pubDate>Mon, 20 Oct 2025 16:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：（谈俄乌冲突）任何情况都可能发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-21/detail-infuqfte3555072.d.html</link>
-            <guid>4443369</guid>
-            <pubDate>Mon, 20 Oct 2025 16:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：我们正全力推进 “奥库斯” 联盟相关工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfta5066150.d.html</link>
-            <guid>4443368</guid>
-            <pubDate>Mon, 20 Oct 2025 15:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：澳大利亚支付的关税非常低，处于最低水平之列。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfte3554907.d.html</link>
-            <guid>4443367</guid>
-            <pubDate>Mon, 20 Oct 2025 15:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：（谈俄乌冲突）我认为我们会解决问题的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfte3554880.d.html</link>
-            <guid>4443366</guid>
-            <pubDate>Mon, 20 Oct 2025 15:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：澳大利亚购买了大量波音飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfta5065869.d.html</link>
-            <guid>4443365</guid>
-            <pubDate>Mon, 20 Oct 2025 15:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：波音公司表现不错。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfte3554628.d.html</link>
-            <guid>4443364</guid>
-            <pubDate>Mon, 20 Oct 2025 15:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：预计加快为澳大利亚提供核潜艇的进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqftf5052944.d.html</link>
-            <guid>4443363</guid>
-            <pubDate>Mon, 20 Oct 2025 15:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：我已受邀访问澳大利亚，目前正在考虑此事。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfta5065725.d.html</link>
-            <guid>4443362</guid>
-            <pubDate>Mon, 20 Oct 2025 15:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马达加斯加总统任命政府总理】当地时间10月20日，马达加斯加总统米夏埃尔·兰德里亚尼里纳办公室宣布，任命赫林萨拉马·拉贾奥纳里韦洛为政府总理。当地时间17日，马达加斯加军官兰德里亚尼里纳在首都塔那那利佛高等宪法法院宣誓就任该国总统。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfte3554418.d.html</link>
-            <guid>4443361</guid>
-            <pubDate>Mon, 20 Oct 2025 15:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：我们正在额外建造几艘潜艇，进展很快。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfti9716338.d.html</link>
-            <guid>4443360</guid>
-            <pubDate>Mon, 20 Oct 2025 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海军：寻求改进先前协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfti9716311.d.html</link>
-            <guid>4443359</guid>
-            <pubDate>Mon, 20 Oct 2025 15:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海军部长就 “奥库斯” 潜艇协议表态：正试图厘清模糊之处。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfta5065505.d.html</link>
-            <guid>4443358</guid>
-            <pubDate>Mon, 20 Oct 2025 15:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚总理阿尔巴尼斯：准备推进85亿美元管道项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqftf5052480.d.html</link>
-            <guid>4443357</guid>
-            <pubDate>Mon, 20 Oct 2025 15:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚总理阿尔巴尼斯：正探讨将 “奥库斯” 联盟提升至更高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfta5065351.d.html</link>
-            <guid>4443355</guid>
-            <pubDate>Mon, 20 Oct 2025 15:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚总理阿尔巴尼斯：矿产协议将两国关系提升到一个新的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfte3554113.d.html</link>
-            <guid>4443354</guid>
-            <pubDate>Mon, 20 Oct 2025 15:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚总理阿尔巴尼斯：已讨论将国防合作提升到新高度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqftf5052322.d.html</link>
-            <guid>4443353</guid>
-            <pubDate>Mon, 20 Oct 2025 15:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚总理阿尔巴尼斯：（与美国）我们是亲密的朋友，也是坚实的盟友。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqfti9715947.d.html</link>
-            <guid>4443352</guid>
-            <pubDate>Mon, 20 Oct 2025 15:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：正与澳大利亚合作建造军舰和车辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-20/detail-infuqftf5052136.d.html</link>
-            <guid>4443351</guid>
-            <pubDate>Mon, 20 Oct 2025 15:46:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
