@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 25 Oct 2025 18:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 19:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[立陶宛国家危机管理中心：因气球进入空域，维尔纽斯机场已关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczye1445117.d.html</link>
+            <guid>4455185</guid>
+            <pubDate>Sat, 25 Oct 2025 19:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统特朗普：（谈与普京会面）在认为能达成和平协议之前，不会与普京会面。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvcvsa5355429.d.html</link>
@@ -527,12 +533,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuq1907039.d.html</link>
             <guid>4454941</guid>
             <pubDate>Sat, 25 Oct 2025 10:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京发布国际医药创新公园规划方案】10月25日，在2025国际生物医药产业创新北京论坛全体大会上，北京市发布国际医药创新公园（BioPark）规划方案，提出高标准规划总部集聚区、医工融合区等四大产业功能区，构筑高端产业链体系，打造全球医药健康创新合作枢纽。根据规划，园区承接国家人工智能应用中试基地，建设超级算力底座、数据标注基地、医疗健康及药品行业可信数据空间等关键基础设施；联合知名高校，建设生命健康产教融合基地，筹建北京生命健康产业创新研究院；同步建设国际临床医学研究中心，打造以医学研究为核心、创新转化为导向的一流临床研究型医院。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceum7242975.d.html</link>
-            <guid>4454940</guid>
-            <pubDate>Sat, 25 Oct 2025 10:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
