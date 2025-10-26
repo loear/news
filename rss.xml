@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 26 Oct 2025 20:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 21:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷国家选举委员会：阿根廷中期选举登记选民投票率达 66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmex5536086.d.html</link>
+            <guid>4455977</guid>
+            <pubDate>Sun, 26 Oct 2025 21:06:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统特朗普：孕妇除非必要，否则不要使用泰诺（对乙酰氨基酚）。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmfc2574350.d.html</link>
@@ -487,24 +493,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfpzp3057610.d.html</link>
             <guid>4455747</guid>
             <pubDate>Sun, 26 Oct 2025 13:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海军包头舰与肯尼亚海军航行通过演练】当地时间10月22日下午，海军第47批护航编队包头舰结束为期5天的补给休整，驶离肯尼亚蒙巴萨港。随后，包头舰与肯尼亚海军开展了航行通过演练，演练主要围绕编队运动进行。（央视军事）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfpzr1546232.d.html</link>
-            <guid>4455746</guid>
-            <pubDate>Sun, 26 Oct 2025 13:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特鲁多在巴黎为“水果姐”庆生，两人首次公开恋情】据美国福克斯集团旗下娱乐小报《TMZ》报道，当地时间10月25日，美国歌手“水果姐”凯蒂·佩里公开与加拿大前总理贾斯廷·特鲁多的恋情。 两人当天在法国巴黎一起观看歌舞表演，庆祝水果姐的41岁生日，结束后两人牵手出门，一起乘车离开。这是两人首次正式公开同行。 佩里今年6月刚刚与前未婚夫奥兰多·布鲁姆分手。而现年53岁的特鲁多则在2023年与结婚18年的妻子索菲·格雷瓜尔结束婚姻关系。 今年7月，两人在加拿大蒙特利尔共进晚餐约会，随后在公园散步，恋情传闻随之传开。（观察者网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfpzp3056702.d.html</link>
-            <guid>4455745</guid>
-            <pubDate>Sun, 26 Oct 2025 12:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商证券：短期建议持续关注八大赛道以及军工板块】招商证券研报称，二十届四中全会召开，重点提及了航空强国、海洋等赛道，新增国防实力等目标，并对当前经济形势进行部署；周五（24日）召开的发布会，科技成为重大亮点之一，也重点提及了包括低空经济、量子科技、核聚变能、脑机接口、具身智能等多个科技的细分赛道。后续从政策层面来看，科技大概率仍是建议稿的重点部署领域。因此，短期建议持续关注以AI算力及应用、半导体自主可控、固态电池、商业航天、可控核聚变为代表的八大赛道以及军工板块，中长期布局应着眼于2026年中美可能出现的经济共振及PPI回升趋势，重点配置低位顺周期板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfpzr1545300.d.html</link>
-            <guid>4455744</guid>
-            <pubDate>Sun, 26 Oct 2025 12:55:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
