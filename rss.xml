@@ -4,11 +4,71 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 27 Oct 2025 20:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 21:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普道琼斯指数公司宣布，车美仕（CARMAX）将取代美国康纳斯公司，入选标普小型股600指数。]]></title>
+            <guid>4458962</guid>
+            <pubDate>Mon, 27 Oct 2025 21:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月28日美股成交额前20：高通将推出AI处理器与AMD及英伟达竞争】周一美股成交额第4名高通收高11.09%，成交156.51亿美元。该公司宣布推出与AMD和英伟达竞争的人工智能处理器。该公司表示，AI200芯片将于明年开始出货，可作为独立组件、可插入现有设备的扩展卡，或作为由高通提供的整机机架服务器的一部分。该产品的首位客户是沙特阿拉伯的人工智能初创公司Humain，该公司计划从2026年开始基于这款新芯片部署200兆瓦的算力。分析师称此次推出AI芯片标志着高通的战略转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkumz1545427.d.html</link>
+            <guid>4458957</guid>
+            <pubDate>Mon, 27 Oct 2025 21:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，Paramount Skydance Corp.将在周三宣布裁员1000人。]]></title>
+            <guid>4458950</guid>
+            <pubDate>Mon, 27 Oct 2025 21:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格罗方德半导体（格芯，GFS）首席财务官（CFO）John Hollister将因个人原因而离职。]]></title>
+            <guid>4458948</guid>
+            <pubDate>Mon, 27 Oct 2025 21:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国10月消费者信心指数下滑在109.8，前值110.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkqec1672440.d.html</link>
+            <guid>4458947</guid>
+            <pubDate>Mon, 27 Oct 2025 21:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[文远知行：此次发售包括 8380 万股 A 类普通股的国际发售以及 440 万股 A 类普通股的香港公开发售。]]></title>
+            <guid>4458942</guid>
+            <pubDate>Mon, 27 Oct 2025 20:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI 呼吁白宫扩大美国能源容量，并警告说电力是人工智能基础设施的战略资产。]]></title>
+            <guid>4458941</guid>
+            <pubDate>Mon, 27 Oct 2025 20:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：给予Strategy Inc.垃圾级信用评级B-。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkqef0160668.d.html</link>
+            <guid>4458936</guid>
+            <pubDate>Mon, 27 Oct 2025 20:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NextEra Energy与谷歌公司公布新协议，加速核能（相关项目）推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkqcz9324591.d.html</link>
+            <guid>4458935</guid>
+            <pubDate>Mon, 27 Oct 2025 20:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列证实哈马斯移交1具被扣押人员遗体】当地时间10月27日晚，以色列总理办公室发布声明称，红十字国际委员会当晚在加沙地带北部从哈马斯方面接收了1具以方被扣押人员遗体，并已将其移交给以军驻加沙地带部队。随后，这具遗体将被送至特拉维夫市一家法医研究所进行身份鉴定。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkqcz9324515.d.html</link>
+            <guid>4458934</guid>
+            <pubDate>Mon, 27 Oct 2025 20:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[报道称：美国法官驳回针对苹果公司 iPhone 应用程序反垄断市场控制的集体诉讼主张。]]></title>
+            <guid>4458933</guid>
+            <pubDate>Mon, 27 Oct 2025 20:38:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[澳大利亚警方：新南威尔士州西部一地下矿井发生爆炸，造成两人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkqec1670847.d.html</link>
@@ -302,68 +362,6 @@
             <title><![CDATA[美国纽约大都会北方铁路（Metro-North）开往宾夕法尼亚车站（Penn Station）的新线路服务推迟三年。]]></title>
             <guid>4458827</guid>
             <pubDate>Mon, 27 Oct 2025 18:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其与英国签署“台风”战机采购协议】当地时间10月27日，土耳其总统埃尔多安在安卡拉总统府与英国首相斯塔默举行会晤，双方共同签署关于“台风”战斗机的合作协议。据悉，此次协议总额达80亿英镑（约合107亿美元），包括土方采购20架“台风”战斗机等内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwi0281466.d.html</link>
-            <guid>4458825</guid>
-            <pubDate>Mon, 27 Oct 2025 17:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌与NextEra能源合作重启爱荷华州核电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwi0281149.d.html</link>
-            <guid>4458822</guid>
-            <pubDate>Mon, 27 Oct 2025 17:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国民航局：东部航空已暂停运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwc9443275.d.html</link>
-            <guid>4458820</guid>
-            <pubDate>Mon, 27 Oct 2025 17:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科特迪瓦选举：前第一夫人西蒙娜·巴博承认在选举中输给瓦塔拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkivz4779537.d.html</link>
-            <guid>4458819</guid>
-            <pubDate>Mon, 27 Oct 2025 17:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特国家通讯社消息：相关项目授予了阿联酋的马斯达尔公司、道达尔能源公司、法国电力集团电力解决方案公司以及韩国电力公社。]]></title>
-            <guid>4458818</guid>
-            <pubDate>Mon, 27 Oct 2025 17:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特国家通讯社消息：沙特电力采购公司授予五个可再生能源项目，总装机容量达4.5吉瓦，投资超90亿里亚尔。]]></title>
-            <guid>4458817</guid>
-            <pubDate>Mon, 27 Oct 2025 17:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扎克伯格已任命长期副手维沙尔·沙阿担任Meta人工智能团队的关键职位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwf1791207.d.html</link>
-            <guid>4458815</guid>
-            <pubDate>Mon, 27 Oct 2025 17:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称打击越过“黄线”的巴勒斯坦武装人员】以色列国防军当地时间10月27日称，在加沙地带南部的汗尤尼斯，一批巴勒斯坦武装人员当天越过“黄线”并接近以军控制区内的以军部队，以军对这些人员进行打击，袭击造成2人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwc9440981.d.html</link>
-            <guid>4458812</guid>
-            <pubDate>Mon, 27 Oct 2025 17:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本国际协力银行（JBIC）将为乌兹别克斯坦的可再生能源项目安排一笔约14.5亿美元的联合融资方案。]]></title>
-            <guid>4458811</guid>
-            <pubDate>Mon, 27 Oct 2025 17:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：Coinbase与资管巨头Apollo达成合作，拟于2026年推出基于稳定币的信贷产品。]]></title>
-            <guid>4458810</guid>
-            <pubDate>Mon, 27 Oct 2025 17:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[初步结果显示：科特迪瓦总统瓦塔拉赢得再次当选。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-28/detail-infvkiwf1790338.d.html</link>
-            <guid>4458809</guid>
-            <pubDate>Mon, 27 Oct 2025 17:28:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
