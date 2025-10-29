@@ -4,11 +4,249 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 29 Oct 2025 21:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 22:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[提醒：谷歌母公司Alphabet分析师电话会议结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrw9689069.d.html</link>
+            <guid>4465589</guid>
+            <pubDate>Wed, 29 Oct 2025 22:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：前沿人工智能模型的基础发展速度惊人，谷歌将于 2025 年底推出 “显著升级” 的 Gemini人工智能模型。]]></title>
+            <guid>4465588</guid>
+            <pubDate>Wed, 29 Oct 2025 22:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【车企与动力电池企业合作，固态电池研发频现突破性进展】与江铃汽车合作固态电池研发的动力电池上市公司孚能科技日前在互动平台介绍，公司固态电池中试线处于稳步建设过程中。与国轩高科合作的奇瑞汽车近日也透露，奇瑞犀牛S全固态电池将于2027年完成装车验证。市场关注的固态电池领域频现突破性进展。近日采访获悉，中国整车和动力电池领域上市公司两两结对的固态电池研发组合所结出的成果正在纷纷浮出水面，通过优势互补、互相赋能，多对合作组合的固态电池研发时间表开始逐渐清晰。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrw9687926.d.html</link>
+            <guid>4465586</guid>
+            <pubDate>Wed, 29 Oct 2025 22:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“梅利莎”已致海地25人死亡】当地时间29日获悉，飓风“梅利莎”造成河水决堤，在海地南部引发洪水，冲毁多栋民房，已致25人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8176385.d.html</link>
+            <guid>4465585</guid>
+            <pubDate>Wed, 29 Oct 2025 22:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软预计第二财季营收将为795亿-806亿美元。预计第二财季Azure按恒定汇率将增长37%。预计第二财季资本开支将季环比增长。预计2026财年资本开支增速将比2025财年更加陡峭。]]></title>
+            <guid>4465582</guid>
+            <pubDate>Wed, 29 Oct 2025 22:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CFO：本财年末前将存在 Azure算力容量限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8175906.d.html</link>
+            <guid>4465581</guid>
+            <pubDate>Wed, 29 Oct 2025 22:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：东京燃气株式会社放弃可再生能源目标，转而聚焦投资美国页岩气。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8175825.d.html</link>
+            <guid>4465579</guid>
+            <pubDate>Wed, 29 Oct 2025 22:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：美国的造船业很快将迎来重大复兴。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8175733.d.html</link>
+            <guid>4465578</guid>
+            <pubDate>Wed, 29 Oct 2025 22:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：Waymo正在探索与Gemini、YouTube进行整合。]]></title>
+            <guid>4465577</guid>
+            <pubDate>Wed, 29 Oct 2025 22:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：美国将分享其秘而不宣的技术，以帮助韩国建造核动力潜艇。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8175497.d.html</link>
+            <guid>4465576</guid>
+            <pubDate>Wed, 29 Oct 2025 22:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta三季报要点总结】
+1、即将进行大规模支出： Meta表示计划在明年增加在计算和人工智能（AI）基础设施等方面的支出。该公司称，资本支出将“明显更大”。
+2、第四季度营收预测平平： Meta 对第四季度的营收预测范围为560亿-590亿美元，与市场预期基本一致。但考虑到即将到来的支出狂潮，我认为一些投资者原本期待更高的预测。
+3、Reality Labs仍是一个“烧钱大户”： 这个负责Meta可穿戴设备业务的部门在第三季度又亏损44亿美元。由于Quest头戴设备销量下降，该业务在假日季的销售额也将下滑，不过Meta的AI眼镜需求预计会上升。
+4、一次性税收冲击影响了利润： Meta在第三季度承担了一笔巨额的一次性税收费用，这削减了利润。该公司将此归咎于《一项重大且美好的法案》（One Big Beautiful Bill Act），但表示该法律将在未来显著减轻Meta的税收负担。
+5、扎克伯格不担心AI投入过度： 首席执行官（CEO）扎克伯格（Mark Zuckerberg）表示，Meta不担心在人工智能上支出过多。“我们希望确保我们没有投资不足，”他在电话会议结束时补充道。扎克伯格相信，即使Meta确实不小心超支了，它也能为这些计算能力或基础设施找到用途。他补充说，其中一个选择甚至可以是将其出售给其他科技公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2754664.d.html</link>
+            <guid>4465574</guid>
+            <pubDate>Wed, 29 Oct 2025 22:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织执行董事会完成对厄瓜多尔扩展基金安排的第三次审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2754303.d.html</link>
+            <guid>4465572</guid>
+            <pubDate>Wed, 29 Oct 2025 22:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软业绩展望：第二季度生产力与商业流程板块营收预计为 333 亿至 336 亿美元，高于预期。]]></title>
+            <guid>4465570</guid>
+            <pubDate>Wed, 29 Oct 2025 22:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CFO：公司预计至少在本财年末之前，人工智能业务都会面临产能受限的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2754178.d.html</link>
+            <guid>4465569</guid>
+            <pubDate>Wed, 29 Oct 2025 22:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eBay首席财务官：今年，还将面临取消全球小额免税政策带来的整季度影响，而去年仅受影响一个月。]]></title>
+            <guid>4465568</guid>
+            <pubDate>Wed, 29 Oct 2025 22:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软 Outlook第二季度运营支出预计为 173 亿至 174 亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8174847.d.html</link>
+            <guid>4465565</guid>
+            <pubDate>Wed, 29 Oct 2025 22:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席财务官：预计2026年资本支出将大幅增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrv7417555.d.html</link>
+            <guid>4465563</guid>
+            <pubDate>Wed, 29 Oct 2025 22:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席财务官：公司将继续向Waymo投入更多资源。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8174779.d.html</link>
+            <guid>4465562</guid>
+            <pubDate>Wed, 29 Oct 2025 22:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席财务官：因企业对人工智能的需求强劲，旗下谷歌云的积压订单增加。]]></title>
+            <guid>4465560</guid>
+            <pubDate>Wed, 29 Oct 2025 22:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比尔·格罗斯认为10年期美债短期目标收益率为4.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrw9685916.d.html</link>
+            <guid>4465557</guid>
+            <pubDate>Wed, 29 Oct 2025 21:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软股价跌幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8174689.d.html</link>
+            <guid>4465556</guid>
+            <pubDate>Wed, 29 Oct 2025 21:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eBay 首席财务官：在 “最低豁免额” 政策取消后，自 9 月起，向美国出口商品的关键市场其交易量同比增速开始放缓。]]></title>
+            <guid>4465554</guid>
+            <pubDate>Wed, 29 Oct 2025 21:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席商务官：谷歌服务收入同比增长14%，增长主要得益于搜索和YouTube的强劲表现。搜索广告收入增长15%，零售和金融服务行业贡献最大。]]></title>
+            <guid>4465553</guid>
+            <pubDate>Wed, 29 Oct 2025 21:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：领英目前拥有近13亿会员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrw9685420.d.html</link>
+            <guid>4465552</guid>
+            <pubDate>Wed, 29 Oct 2025 21:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：Waymo的强劲增长与发展势头将在 2026 年持续。]]></title>
+            <guid>4465551</guid>
+            <pubDate>Wed, 29 Oct 2025 21:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：Copilot消费端应用的日活跃用户环比增长近50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8174171.d.html</link>
+            <guid>4465550</guid>
+            <pubDate>Wed, 29 Oct 2025 21:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：人工智能收入推动第三财季云业务加速增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrv7416662.d.html</link>
+            <guid>4465549</guid>
+            <pubDate>Wed, 29 Oct 2025 21:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：Gemini Enterprise在 700 家企业中拥有 200 万订阅用户。]]></title>
+            <guid>4465548</guid>
+            <pubDate>Wed, 29 Oct 2025 21:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：第三季度谷歌云新增客户签约速度加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2752688.d.html</link>
+            <guid>4465547</guid>
+            <pubDate>Wed, 29 Oct 2025 21:42:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：谷歌新云客户同比增长34%。超过70%的云客户使用谷歌AI产品。]]></title>
+            <guid>4465546</guid>
+            <pubDate>Wed, 29 Oct 2025 21:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：其各产品的人工智能功能月活跃用户已达9亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8173786.d.html</link>
+            <guid>4465545</guid>
+            <pubDate>Wed, 29 Oct 2025 21:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：AI模型的全球日活用户数已经超过7500万。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2752399.d.html</link>
+            <guid>4465543</guid>
+            <pubDate>Wed, 29 Oct 2025 21:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：公司今年将人工智能总产能提升80%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2752333.d.html</link>
+            <guid>4465542</guid>
+            <pubDate>Wed, 29 Oct 2025 21:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet首席执行官：人工智能概览内容推动第三季度青少年群体的搜索量增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrw9684852.d.html</link>
+            <guid>4465541</guid>
+            <pubDate>Wed, 29 Oct 2025 21:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet 首席执行官：第三季度人工智能收入推动云业务加速增长 。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrv7415777.d.html</link>
+            <guid>4465539</guid>
+            <pubDate>Wed, 29 Oct 2025 21:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet 首席执行官：Gemini APP现在月活用户数超过6.5亿。Gemini现在每分钟处理70亿tokens。]]></title>
+            <guid>4465538</guid>
+            <pubDate>Wed, 29 Oct 2025 21:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet 首席执行官：谷歌很高兴与 Anthropic 达成合作，涉及 100 万个TPU。]]></title>
+            <guid>4465537</guid>
+            <pubDate>Wed, 29 Oct 2025 21:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet 首席执行官：谷歌正加大 TPU 算力投入以满足需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhry8173299.d.html</link>
+            <guid>4465536</guid>
+            <pubDate>Wed, 29 Oct 2025 21:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet 首席执行官：谷歌付费订阅用户数突破 3 亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrv7415467.d.html</link>
+            <guid>4465535</guid>
+            <pubDate>Wed, 29 Oct 2025 21:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta首席财务官：合资数据中心的建设成本未来将不再计入公司的资本支出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2751586.d.html</link>
+            <guid>4465534</guid>
+            <pubDate>Wed, 29 Oct 2025 21:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统特朗普计划提名白宫助手Baasch担任联邦贸易委员会委员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrt2750988.d.html</link>
+            <guid>4465529</guid>
+            <pubDate>Wed, 29 Oct 2025 21:26:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvrhrv7414384.d.html</link>
@@ -22,7 +260,7 @@
             <pubDate>Wed, 29 Oct 2025 21:22:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统特朗普：他们已同意大量购买我们的石油和天然气，而且韩国富有的企业和商人对我国的投资将超过6000亿美元。]]></title>
+            <title><![CDATA[美国总统特朗普：韩国已同意大量购买我们的石油和天然气，而且韩国富有的企业和商人对我国的投资将超过6000亿美元。]]></title>
             <guid>4465526</guid>
             <pubDate>Wed, 29 Oct 2025 21:22:00 GMT</pubDate>
         </item>
@@ -164,193 +402,6 @@ Meta预计第四季度营收为560亿至590亿美元，市场预期为573.8亿�
             <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9806820.d.html</link>
             <guid>4465488</guid>
             <pubDate>Wed, 29 Oct 2025 20:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alphabet：欧盟委员会决定处以35亿美元罚款，我们已将这笔罚款计入截至9月30日季度谷歌服务部门的一般及行政费用。]]></title>
-            <guid>4465484</guid>
-            <pubDate>Wed, 29 Oct 2025 20:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡特彼勒涨12%，创2009年以来最大单日涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraix7538474.d.html</link>
-            <guid>4465481</guid>
-            <pubDate>Wed, 29 Oct 2025 20:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，万事达卡正就收购ZeroHash进行后期谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8295113.d.html</link>
-            <guid>4465466</guid>
-            <pubDate>Wed, 29 Oct 2025 19:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利法院拒绝156亿欧元规模的Sicily桥梁项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraix7538102.d.html</link>
-            <guid>4465465</guid>
-            <pubDate>Wed, 29 Oct 2025 19:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹快速支援部队宣布调查法希尔平民遇害事件】当地时间10月29日，苏丹快速支援部队领导人达加洛在社交媒体发表声明，宣布成立调查委员会，对苏丹西部北达尔富尔州首府法希尔市发生的平民遇害事件展开调查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8294339.d.html</link>
-            <guid>4465452</guid>
-            <pubDate>Wed, 29 Oct 2025 19:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：12月降息的可能性可能为50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8294155.d.html</link>
-            <guid>4465450</guid>
-            <pubDate>Wed, 29 Oct 2025 19:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：认为同比通胀率在整个（相关时期）都将保持在 3% 以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraix7537160.d.html</link>
-            <guid>4465447</guid>
-            <pubDate>Wed, 29 Oct 2025 19:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国防部长赫格塞思预计将于11月7日公布武器销售改革方案，计划旨在提高武器产量和采购。]]></title>
-            <guid>4465441</guid>
-            <pubDate>Wed, 29 Oct 2025 19:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：我们正在考虑收益率曲线进一步变陡的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8293315.d.html</link>
-            <guid>4465440</guid>
-            <pubDate>Wed, 29 Oct 2025 19:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：认为我们需要剔除对12月降息的定价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8293233.d.html</link>
-            <guid>4465438</guid>
-            <pubDate>Wed, 29 Oct 2025 19:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国财政大臣里夫斯考虑提前取消对英国石油和天然气行业征收的暴利税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9804266.d.html</link>
-            <guid>4465430</guid>
-            <pubDate>Wed, 29 Oct 2025 19:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔结束新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9804182.d.html</link>
-            <guid>4465427</guid>
-            <pubDate>Wed, 29 Oct 2025 19:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：目前未发现更广泛的信贷问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiv2872792.d.html</link>
-            <guid>4465426</guid>
-            <pubDate>Wed, 29 Oct 2025 19:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：正在“密切关注”信贷趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292917.d.html</link>
-            <guid>4465425</guid>
-            <pubDate>Wed, 29 Oct 2025 19:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：承认次级信贷违约情况增多。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292899.d.html</link>
-            <guid>4465423</guid>
-            <pubDate>Wed, 29 Oct 2025 19:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：我们正在实时做出相当艰难的决策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292877.d.html</link>
-            <guid>4465419</guid>
-            <pubDate>Wed, 29 Oct 2025 19:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：与此同时，自4月以来通胀上升的风险已有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9804079.d.html</link>
-            <guid>4465418</guid>
-            <pubDate>Wed, 29 Oct 2025 19:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：认为通胀问题不存在是不合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiv2872690.d.html</link>
-            <guid>4465417</guid>
-            <pubDate>Wed, 29 Oct 2025 19:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：我认为到目前为止我们做对了事情。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292822.d.html</link>
-            <guid>4465414</guid>
-            <pubDate>Wed, 29 Oct 2025 19:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：你会预料到对于该采取什么行动以及行动的速度，人们会有各种各样的观点，而我们现在面临的就是这种情况。]]></title>
-            <guid>4465413</guid>
-            <pubDate>Wed, 29 Oct 2025 19:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：总体而言，这是一幅良好的经济图景。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9803989.d.html</link>
-            <guid>4465409</guid>
-            <pubDate>Wed, 29 Oct 2025 19:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：同时要保持物价稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292727.d.html</link>
-            <guid>4465405</guid>
-            <pubDate>Wed, 29 Oct 2025 19:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：打造更强劲的劳动力市场是我们能为民众做的最有益之事。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9803928.d.html</link>
-            <guid>4465404</guid>
-            <pubDate>Wed, 29 Oct 2025 19:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：失业者的求职成功率非常低。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraix7536186.d.html</link>
-            <guid>4465403</guid>
-            <pubDate>Wed, 29 Oct 2025 19:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：就业岗位创造数量非常少。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraiy9803902.d.html</link>
-            <guid>4465402</guid>
-            <pubDate>Wed, 29 Oct 2025 19:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：首次申领失业救济人数、职位空缺数据也表明就业市场或经济的任何部分都没有出现显著恶化。]]></title>
-            <guid>4465398</guid>
-            <pubDate>Wed, 29 Oct 2025 19:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：再说了，我们还没拿到9月份的就业报告呢。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292656.d.html</link>
-            <guid>4465397</guid>
-            <pubDate>Wed, 29 Oct 2025 19:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：我们并未看到就业市场的疲软态势在加剧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraix7536143.d.html</link>
-            <guid>4465396</guid>
-            <pubDate>Wed, 29 Oct 2025 19:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：其他人可能会争辩说，情况没有改变；不知道我们是否会面临这种情况。]]></title>
-            <guid>4465394</guid>
-            <pubDate>Wed, 29 Oct 2025 19:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：希望到12月会议时，我们能获得更优质的数据流。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292588.d.html</link>
-            <guid>4465391</guid>
-            <pubDate>Wed, 29 Oct 2025 19:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卢浮宫劫案被捕2人承认涉案】法国巴黎检察官洛尔·贝屈奥10月29日表示，两名因涉嫌从卢浮宫盗取藏品而被捕的男子已“部分承认”参与了这起光天化日之下的劫案。但目前失窃的8件珍贵珠宝仍然下落不明，被劫匪丢在现场的一件珠宝、也就是欧仁妮皇后的皇冠尚未修复。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292504.d.html</link>
-            <guid>4465386</guid>
-            <pubDate>Wed, 29 Oct 2025 19:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：经济出现了一些放缓迹象，今年经济增长率约为1.6%，低于去年。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-30/detail-infvraka8292481.d.html</link>
-            <guid>4465385</guid>
-            <pubDate>Wed, 29 Oct 2025 19:14:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
