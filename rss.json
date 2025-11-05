@@ -6,6 +6,208 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4480806,
+            "content_html": "",
+            "title": "富国银行首席执行官在谈到缩减银行业务时表示：我们没有减少银行业务的动机，我们有拓展更多银行业务的动力。",
+            "date_modified": "2025-11-05T19:21:49.000Z"
+        },
+        {
+            "id": 4480805,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyff3794720.d.html",
+            "title": "新西兰储备银行行长霍克斯比：新西兰经济呈现多速发展态势。",
+            "date_modified": "2025-11-05T19:20:47.000Z"
+        },
+        {
+            "id": 4480804,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3902167.d.html",
+            "title": "以色列国防军证实，（哈马斯）已将一名人质遗体移交给红十字会。",
+            "date_modified": "2025-11-05T19:20:43.000Z"
+        },
+        {
+            "id": 4480802,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3902076.d.html",
+            "title": "新西兰储备银行行长霍克斯比：抵押贷款市场的贷款损失拨备开始见顶。",
+            "date_modified": "2025-11-05T19:19:12.000Z"
+        },
+        {
+            "id": 4480801,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3902064.d.html",
+            "title": "特朗普：在我的政府任期内，从不使用自动签名机，所有文件都是我亲自签署的。",
+            "date_modified": "2025-11-05T19:19:03.000Z"
+        },
+        {
+            "id": 4480800,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3902041.d.html",
+            "title": "新西兰储备银行行长霍克斯比：劳动力市场已恶化，这是我们此前预料到的情况。",
+            "date_modified": "2025-11-05T19:18:12.000Z"
+        },
+        {
+            "id": 4480799,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfm2390793.d.html",
+            "title": "美国共和党参议员麦康奈尔：共和党人不会终止冗长辩论。",
+            "date_modified": "2025-11-05T19:18:08.000Z"
+        },
+        {
+            "id": 4480796,
+            "content_html": "",
+            "title": "美国联邦贸易委员会（FTC）敦促诺和诺德在完成对Metsera的收购交易前，与该机构开展合作。",
+            "date_modified": "2025-11-05T19:15:03.000Z"
+        },
+        {
+            "id": 4480795,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3901766.d.html",
+            "title": "新西兰储备银行行长霍克斯比：我们认为全球贸易紧张局势最糟糕的情况尚未过去。",
+            "date_modified": "2025-11-05T19:13:59.000Z"
+        },
+        {
+            "id": 4480794,
+            "content_html": "",
+            "title": "美国联邦贸易委员会（FTC）表示，诺和诺德与Metsera的收购要约引发了有关并购申报的担忧。",
+            "date_modified": "2025-11-05T19:13:12.000Z"
+        },
+        {
+            "id": 4480792,
+            "content_html": "",
+            "title": "谷歌的Gemini人工智能模型将于2026年助力苹果运行语音助手Siri的相关功能。苹果公司正敲定一项协议，该协议将使苹果每年向谷歌支付约10亿美元。",
+            "date_modified": "2025-11-05T19:12:29.000Z"
+        },
+        {
+            "id": 4480790,
+            "content_html": "",
+            "title": "富国银行首席执行官表示，消费者状况依然良好，信贷表现强劲；认为写字楼市场存在疲软情况。",
+            "date_modified": "2025-11-05T19:10:15.000Z"
+        },
+        {
+            "id": 4480789,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfm6048138.d.html",
+            "title": "【瑞典议会通过议案 明年1月1日解禁铀矿开采】当地时间11月5日，瑞典议会表决通过了解除铀矿开采禁令的提案，从2026年1月1日起，瑞典将允许开采铀矿，铀也将被归类为“具有重要社会意义的金属”。",
+            "date_modified": "2025-11-05T19:09:13.000Z"
+        },
+        {
+            "id": 4480788,
+            "content_html": "",
+            "title": "Metsera致法院的信件显示：Metsera估计诺和诺德的最新报价为每股69.82美元至70.18美元。",
+            "date_modified": "2025-11-05T19:09:06.000Z"
+        },
+        {
+            "id": 4480787,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfi3901533.d.html",
+            "title": "Metsera致法院的信件显示：诺和诺德自周二以来未提交新的投标。",
+            "date_modified": "2025-11-05T19:08:27.000Z"
+        },
+        {
+            "id": 4480786,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfm2390270.d.html",
+            "title": "Metsera估算辉瑞最新提案的价值为每股63.29美元至63.33美元。",
+            "date_modified": "2025-11-05T19:07:56.000Z"
+        },
+        {
+            "id": 4480785,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfm2390238.d.html",
+            "title": "特朗普：南非不应加入二十国集团（G20）。",
+            "date_modified": "2025-11-05T19:07:25.000Z"
+        },
+        {
+            "id": 4480783,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkyfm2390173.d.html",
+            "title": "市场资讯：特朗普计划在明年聚焦 “可负担性” 议题。",
+            "date_modified": "2025-11-05T19:06:42.000Z"
+        },
+        {
+            "id": 4480782,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxm4032123.d.html",
+            "title": "特朗普：正在与哈佛大学达成和解。",
+            "date_modified": "2025-11-05T19:05:33.000Z"
+        },
+        {
+            "id": 4480781,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520863.d.html",
+            "title": "伊拉克将7.64亿美元的巴格达机场扩建项目授予美洲机场公司和阿姆瓦杰国际公司。",
+            "date_modified": "2025-11-05T19:05:22.000Z"
+        },
+        {
+            "id": 4480779,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp6178397.d.html",
+            "title": "特朗普：不会参加在南非举行的二十国集团（G20）峰会。",
+            "date_modified": "2025-11-05T19:04:50.000Z"
+        },
+        {
+            "id": 4480778,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520829.d.html",
+            "title": "哈马斯在加沙向红十字会移交了人质遗体。",
+            "date_modified": "2025-11-05T19:04:20.000Z"
+        },
+        {
+            "id": 4480777,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxi3923714.d.html",
+            "title": "美国国务院：鲁比奥强调费雷尔为古巴民主进步运动发声的重要性。",
+            "date_modified": "2025-11-05T19:03:36.000Z"
+        },
+        {
+            "id": 4480776,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520721.d.html",
+            "title": "加拿大太平洋堪萨斯城铁路公司（CPKC）与美国工会达成13项临时集体协议。",
+            "date_modified": "2025-11-05T19:01:50.000Z"
+        },
+        {
+            "id": 4480775,
+            "content_html": "",
+            "title": "美国国务院：鲁比奥在与古巴人费雷尔会面时强调，他以及其他像他这样的人的声援对古巴的亲民主运动仍然至关重要。",
+            "date_modified": "2025-11-05T19:00:56.000Z"
+        },
+        {
+            "id": 4480772,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxm4031802.d.html",
+            "title": "富国银行CEO：展望未来，公司员工数量很可能会减少。",
+            "date_modified": "2025-11-05T18:58:05.000Z"
+        },
+        {
+            "id": 4480770,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520474.d.html",
+            "title": "医药公司Metsera跌幅迅速扩大至5%。",
+            "date_modified": "2025-11-05T18:56:45.000Z"
+        },
+        {
+            "id": 4480767,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520309.d.html",
+            "title": "富国银行CEO：我们完全感觉不到进行任何并购的压力。",
+            "date_modified": "2025-11-05T18:52:14.000Z"
+        },
+        {
+            "id": 4480766,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxp2520283.d.html",
+            "title": "市场消息：特朗普对西屋公司的核电投资或将促成其上市，美国政府或将成为股东。",
+            "date_modified": "2025-11-05T18:51:49.000Z"
+        },
+        {
+            "id": 4480765,
+            "content_html": "",
+            "title": "美国官员：美国将于周三晚些时候与联合国安理会 10 个当选理事国分享有关加沙地带的决议草案。",
+            "date_modified": "2025-11-05T18:51:36.000Z"
+        },
+        {
             "id": 4480761,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxm4030054.d.html",
@@ -238,89 +440,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwktxm4021272.d.html",
             "title": "据IFX：美国已就“民兵”导弹发射一事通知俄罗斯。",
             "date_modified": "2025-11-05T16:58:59.000Z"
-        },
-        {
-            "id": 4480700,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkprr2639479.d.html",
-            "title": "【美国肯塔基州因货机坠毁事故进入紧急状态】当地时间11月5日，美国肯塔基州州长安迪·贝希尔宣布，该州因一架美国联合包裹运送服务公司（UPS）飞机坠机事故进入紧急状态，以应对事故造成的影响和善后工作。据机场网站消息，截至5日上午，往返路易斯维尔的客运航班已恢复，但由于4日晚间航班延误严重积压，且目前只有一条跑道可供使用，航班运行仍受到影响。美国联邦航空管理局4日表示，美国国家运输安全委员会将主导此次坠机事故调查。（央视新闻）",
-            "date_modified": "2025-11-05T16:48:07.000Z"
-        },
-        {
-            "id": 4480697,
-            "content_html": "",
-            "title": "肯塔基州州长宣布进入紧急状态，以应对联合包裹服务公司（UPS）货运飞机坠毁事故的后续影响。",
-            "date_modified": "2025-11-05T16:40:27.000Z"
-        },
-        {
-            "id": 4480696,
-            "content_html": "",
-            "title": "瑞士国家银行理事会成员Tschudin：当前的主要挑战是美国的关税政策，该政策已加剧了全球不确定性。",
-            "date_modified": "2025-11-05T16:38:23.000Z"
-        },
-        {
-            "id": 4480695,
-            "content_html": "",
-            "title": "美国银行：预计在2026年及以后将增加新兴增长和地区业务的覆盖人员数量，并拓展在美国各地的业务据点。",
-            "date_modified": "2025-11-05T16:37:29.000Z"
-        },
-        {
-            "id": 4480694,
-            "content_html": "",
-            "title": "肯塔基州州长：联合包裹服务公司（UPS）货机致命坠毁事故死亡人数预计将升至10人。",
-            "date_modified": "2025-11-05T16:37:13.000Z"
-        },
-        {
-            "id": 4480691,
-            "content_html": "",
-            "title": "多家公司的代理律师Katyal在美国最高法院听证会上表示：（总统特朗普挑起的）关税就是税收，而那本来应该是（宪法赋予）国会山的责任。",
-            "date_modified": "2025-11-05T16:36:19.000Z"
-        },
-        {
-            "id": 4480689,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkprr6296505.d.html",
-            "title": "美国银行：投资银行业环境将继续改善。",
-            "date_modified": "2025-11-05T16:34:51.000Z"
-        },
-        {
-            "id": 4480684,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkprp4149378.d.html",
-            "title": "【上市辅导提醒：武汉嘉晨电子技术股份有限公司启动上市辅导】据证监会官网显示，武汉嘉晨电子技术股份有限公司于2025年11月5日正式启动上市辅导，平安证券担任辅导机构。",
-            "date_modified": "2025-11-05T16:30:37.000Z"
-        },
-        {
-            "id": 4480682,
-            "content_html": "",
-            "title": "欧洲STOXX 600指数初步收涨0.18%，报571.62点。欧元区STOXX 50指数初步收涨0.03%，报5661.70点。富时泛欧绩优300指数初步收涨0.22%，报2276.53点。",
-            "date_modified": "2025-11-05T16:30:27.000Z"
-        },
-        {
-            "id": 4480681,
-            "content_html": "",
-            "title": "白宫新闻秘书莱维特：美国总统特朗普下午1点（北京时间02:00）的重要演讲将围绕经济展开。",
-            "date_modified": "2025-11-05T16:26:42.000Z"
-        },
-        {
-            "id": 4480680,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkprp4148774.d.html",
-            "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
-            "date_modified": "2025-11-05T16:25:31.000Z"
-        },
-        {
-            "id": 4480679,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-06/detail-infwkprr2637469.d.html",
-            "title": "【以军称空袭黎巴嫩南部 打死一真主党成员】当地时间5日，以色列国防军发布战报称，当天以军对黎巴嫩南部发动空袭，打死1名黎真主党“拉德万部队”的成员。以军称，该人员曾参与策划针对以色列的袭击。以军宣称，在过去一个月内，已有约20名违反以黎停火协议的武装人员被以军打死。截至目前，黎巴嫩真主党方面对此暂无回应。（央视新闻）",
-            "date_modified": "2025-11-05T16:25:14.000Z"
-        },
-        {
-            "id": 4480662,
-            "content_html": "",
-            "title": "AES Corp.预计2025年将实现4 GW新增电力供应合同。在美国印第安纳州恢复1.2 GW天然气发电/供电。公司当前项目订单积压11.1 GW，其中4 GW是与多个数据中心签署的合同。",
-            "date_modified": "2025-11-05T16:11:18.000Z"
         }
     ]
 }
