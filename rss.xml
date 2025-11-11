@@ -4,11 +4,82 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 11 Nov 2025 18:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 19:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[罗马尼亚能源部长：我们必须掌控卢克石油公司在罗马尼亚的分公司，以执行制裁、保护就业并维持能源稳定。]]></title>
+            <guid>4492894</guid>
+            <pubDate>Tue, 11 Nov 2025 19:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰经济大臣：致力于保障半导体供应链安全，决心尽快恢复供应链。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1544689.d.html</link>
+            <guid>4492892</guid>
+            <pubDate>Tue, 11 Nov 2025 19:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉副总统：1-10月税收收入同比增长13.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6810839.d.html</link>
+            <guid>4492890</guid>
+            <pubDate>Tue, 11 Nov 2025 19:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特国防大臣在白宫会见美国国务卿鲁比奥与中东问题特使威特科夫。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvs5325383.d.html</link>
+            <guid>4492888</guid>
+            <pubDate>Tue, 11 Nov 2025 19:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚能源部长：罗马尼亚必须接管卢克石油公司在罗马尼亚的子公司，以确保国际制裁得以执行、保障就业并维持能源稳定。]]></title>
+            <guid>4492887</guid>
+            <pubDate>Tue, 11 Nov 2025 19:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。]]></title>
+            <guid>4492884</guid>
+            <pubDate>Tue, 11 Nov 2025 19:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚能源部长称，罗马尼亚不会请求美国延长针对卢克石油公司制裁所设定的11月21日最后期限。]]></title>
+            <guid>4492882</guid>
+            <pubDate>Tue, 11 Nov 2025 19:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列媒体：以色列战略事务部长罗恩·德尔默辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6809724.d.html</link>
+            <guid>4492879</guid>
+            <pubDate>Tue, 11 Nov 2025 18:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西方石油公司首席执行官：该公司不会在市场供应过剩的情况下激进地向市场投放大量额外的石油。]]></title>
+            <guid>4492877</guid>
+            <pubDate>Tue, 11 Nov 2025 18:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计未来3-5年年均营收增长率将达到35%，预计数据中心整体业务年复合增长率将超过60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808729.d.html</link>
+            <guid>4492875</guid>
+            <pubDate>Tue, 11 Nov 2025 18:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计服务器CPU市场份额将超过 50%，预计个人电脑市场的CPU份额将超过 40%。]]></title>
+            <guid>4492874</guid>
+            <pubDate>Tue, 11 Nov 2025 18:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计2027年数据中心收入将为“数百亿美元”。数据中心业务增长目标聚焦于数据中心领域的人工智能芯片。]]></title>
+            <guid>4492873</guid>
+            <pubDate>Tue, 11 Nov 2025 18:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD ：预计数据中心业务复合年增长率（CAGR）将超过 80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808633.d.html</link>
+            <guid>4492872</guid>
+            <pubDate>Tue, 11 Nov 2025 18:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[通用汽车中国宣布管理层人事变动：任命Steve Hill为负责全球出口与零售创新高级副总裁（SVP）。任命John Roth为通用汽车中国总裁，接替Steve Hill。]]></title>
             <guid>4492870</guid>
@@ -303,67 +374,6 @@ LME期钴收平，报48570美元/吨。]]></title>
 总体订单836架，至10月31日累计销售847架。]]></title>
             <guid>4492791</guid>
             <pubDate>Tue, 11 Nov 2025 16:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问哈塞特：到明年年初经济将重回3%至4%的增长速度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxaafw5566562.d.html</link>
-            <guid>4492789</guid>
-            <pubDate>Tue, 11 Nov 2025 16:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音10月交付53架飞机，含40架737飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxaaft4146713.d.html</link>
-            <guid>4492786</guid>
-            <pubDate>Tue, 11 Nov 2025 16:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌公司将在德国数据中心和办公室投资55亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxaafr1786962.d.html</link>
-            <guid>4492785</guid>
-            <pubDate>Tue, 11 Nov 2025 16:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会声明：将启动一项价值2.5亿欧元的招标项目，以支持无人机及反无人机能力的采购。]]></title>
-            <guid>4492783</guid>
-            <pubDate>Tue, 11 Nov 2025 15:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会声明：移民压力下，希腊、塞浦路斯、西班牙和意大利有资格获得欧盟团结基金。]]></title>
-            <guid>4492781</guid>
-            <pubDate>Tue, 11 Nov 2025 15:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国现在提供 180 个月的汽车贷款——此举旨在降低汽车价格飙升和利率高企情况下的每月还款额。]]></title>
-            <guid>4492779</guid>
-            <pubDate>Tue, 11 Nov 2025 15:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部：强烈谴责伊斯兰堡发生的恐怖袭击事件，土耳其在巴基斯坦打击恐怖主义的斗争中与巴方站在一起。]]></title>
-            <guid>4492775</guid>
-            <pubDate>Tue, 11 Nov 2025 15:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其一军用运输机在格鲁吉亚境内坠毁】土耳其国防部11日说，该国一架C-130“大力神”军用运输机当天在从阿塞拜疆返回土耳其途中在格鲁吉亚境内坠毁，但未公布飞机坠毁原因和人员伤亡情况。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infxaafu7051539.d.html</link>
-            <guid>4492774</guid>
-            <pubDate>Tue, 11 Nov 2025 15:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚大马士革国家博物馆多件文物被盗】当地时间10日晚，叙利亚国大马士革国家博物馆发生文物失窃案，多尊古代雕像和数件珍贵文物被盗。大马士革内政安全部门负责人称，相关调查行动正在进行，有关部门将全力抓捕涉案嫌疑人并追回被盗物品。据悉，被盗雕像的年代可追溯到古罗马时期。位于叙首都大马士革中心地带的大马士革国家博物馆于1936年正式开放，该博物馆承载了叙利亚悠久且多元的文化遗产，被认为是阿拉伯国家中最重要、最古老的博物馆之一。(央视新闻)]]></title>
-            <guid>4492772</guid>
-            <pubDate>Tue, 11 Nov 2025 15:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞幸咖啡股东大钲资本据悉考虑竞购Costa Coffee】据知情人士透露，瑞幸咖啡股东大钲资本正在考虑竞购英国咖啡运营商Costa Coffee。知情人士表示，大钲资本在评估是否对可口可乐探索出售的Costa Coffee提出收购。潜在交易的具体结构尚未确定，也不清楚大钲资本是可能自行投标还是通过瑞幸咖啡竞购。知情人士表示，若瑞幸咖啡或大钲资本提出收购，将面临也在研究该交易的其他私募股权公司和战略投资方的竞争。部分知情人士称，潜在报价可能使Costa Coffee的估值约为10亿英镑(13亿美元)。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infxaafr1784981.d.html</link>
-            <guid>4492771</guid>
-            <pubDate>Tue, 11 Nov 2025 15:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌高级官员：德国未对数据中心提供国家补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infxaafu7051054.d.html</link>
-            <guid>4492768</guid>
-            <pubDate>Tue, 11 Nov 2025 15:45:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
