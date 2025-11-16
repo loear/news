@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 16 Nov 2025 20:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 21:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[智利总统与议会选举投票即将结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrwnp5924205.d.html</link>
+            <guid>4501823</guid>
+            <pubDate>Sun, 16 Nov 2025 21:03:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新西兰拟增发 40 亿新西兰元 2036 年 5 月到期的名义债券。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrwnu4117992.d.html</link>
@@ -459,17 +465,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxrfqy5768215.d.html</link>
             <guid>4501724</guid>
             <pubDate>Sun, 16 Nov 2025 13:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度国家调查局：逮捕了一名克什米尔居民，该居民曾在红堡地区爆炸案中与自杀式炸弹袭击者合谋。]]></title>
-            <guid>4501723</guid>
-            <pubDate>Sun, 16 Nov 2025 13:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空客公司：到2044年底，中东地区的服务市场规模将翻一番，达到299亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxrfra4466251.d.html</link>
-            <guid>4501722</guid>
-            <pubDate>Sun, 16 Nov 2025 13:39:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
