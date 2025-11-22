@@ -4,11 +4,19 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 22 Nov 2025 21:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 22:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【经济日报金观平：扩大开放更要统筹好发展和安全】习近平总书记近日在海南三亚听取海南自由贸易港建设工作汇报时强调，越是扩大开放，越要统筹发展和安全，牢牢守住安全底线。要科学有序安排开放节奏和进度，加强风险识别和防范，稳扎稳打、步步为营。
+当前国际政治经济形势复杂多变，经贸环境挑战严峻。海南自由贸易港实施更大范围、更宽领域、更深层次的对外开放，“风险敞口”随之扩大，更易受到外部因素冲击。同时，作为更高水平对外开放的“试验田”，自贸港在法律法规、监管模式、管理体制、营商环境等方面的首创性、集成式探索均需先行先试，“摸着石头过河”难免有些磕磕碰碰。因此，统筹好发展和安全，牢牢守住安全底线，对实现高水平对外开放尤为重要。
+对外开放面临的不确定不稳定因素越来越多，应坚持稳中求进、以进促稳。在局部领域和范围开展多轮全流程、全要素、全覆盖、实战化的压力测试，是检验创新制度可行性和风险防控能力的“试金石”。先行先试有助于发现扩大开放中可能出现的问题挑战，要提前做好应对准备；推动自贸试验区、自由贸易港等开放高地率先探索出改革创新成果，再逐步向全国范围推广，既能为实现更高水平对外开放开辟可行路径，也能避免急于求成扩大风险。开放进程只有分阶段、分步骤向前推进，才能让步子走得快、走得稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirks5402536.d.html</link>
+            <guid>4514729</guid>
+            <pubDate>Sat, 22 Nov 2025 22:25:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南航空开通布鲁塞尔至重庆直飞航线】中国海南航空公司22日正式开通布鲁塞尔至重庆直飞航线。布鲁塞尔国际机场举行首航仪式，以车辆护送仪式欢送首个航班启程。新航线计划每周执行3个往返航班，班期为每周一、周四、周六。布鲁塞尔至重庆航线是继布鲁塞尔至北京、深圳、上海航线后，海南航空开通的又一条从比利时始发飞往中国的国际航线。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirkm7201827.d.html</link>
@@ -480,34 +488,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhufa5868500.d.html</link>
             <guid>4514628</guid>
             <pubDate>Sat, 22 Nov 2025 13:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲领导人关于乌克兰的声明：与欧盟和北约相关的内容需获得其同意。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhuey7103570.d.html</link>
-            <guid>4514627</guid>
-            <pubDate>Sat, 22 Nov 2025 13:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲领导人关于乌克兰问题的声明：欢迎美国为推动乌克兰实现和平所做的持续努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhuev7671730.d.html</link>
-            <guid>4514626</guid>
-            <pubDate>Sat, 22 Nov 2025 13:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲领导人关于乌克兰问题的声明：我们明确秉持原则，即不得通过武力改变乌克兰的边界。]]></title>
-            <guid>4514625</guid>
-            <pubDate>Sat, 22 Nov 2025 13:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地医疗机构称，以色列空袭加沙城一辆汽车，造成4人死亡，另有多人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhuey7102842.d.html</link>
-            <guid>4514624</guid>
-            <pubDate>Sat, 22 Nov 2025 13:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋周六表示，将投入 10 亿美元用于在非洲地区拓展人工智能基础设施及与人工智能相关的服务，旨在帮助各国实现国家发展重点目标。]]></title>
-            <guid>4514623</guid>
-            <pubDate>Sat, 22 Nov 2025 13:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
