@@ -4,11 +4,17 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 29 Nov 2025 19:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 20:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国航空称受空客故障影响的飞机已修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxn8175400.d.html</link>
+            <guid>4527904</guid>
+            <pubDate>Sat, 29 Nov 2025 19:36:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泽连斯基：乌代表团将抵美进行新一轮谈判】乌克兰总统泽连斯基29日表示，乌克兰代表团将于美国当地时间29日晚抵达美国，并将基于日内瓦的谈判成果继续与美方展开磋商。泽连斯基表示，乌克兰代表团拥有必要的指令，并期待他们按照乌克兰优先事项开展工作。据悉，谈判将于30日进行。29日稍早时，泽连斯基曾在其官方社交平台上发文称，乌克兰国家安全与国防委员会秘书兼乌克兰代表团团长乌梅罗夫与乌谈判团队已在前往美国的路上。泽连斯基称，当天听取了乌梅罗夫的汇报，乌克兰代表团任务明确，即迅速且有实质内容地准备结束冲突的步骤条款。乌克兰继续与美国保持最大程度的合作，乌方希望日内瓦会议的成果能在美国得到完善。他表示，期待30日乌克兰代表团的工作总结报告。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxq6662955.d.html</link>
@@ -533,11 +539,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzamua6229484.d.html</link>
             <guid>4527603</guid>
             <pubDate>Sat, 29 Nov 2025 11:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰国防部长表示：乌克兰将从德国获得高达 115 亿欧元的援助，用于购买火炮、无人机、军事装备及其他物资。德国议会下议院已批准了 2026 年的联邦预算。]]></title>
-            <guid>4527602</guid>
-            <pubDate>Sat, 29 Nov 2025 11:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
