@@ -6,6 +6,324 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4532998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyav0692431.d.html",
+            "title": "西班牙巴塞罗那地区新增7例非洲猪瘟，累计发现9例。",
+            "date_modified": "2025-12-02T17:32:10.000Z"
+        },
+        {
+            "id": 4532997,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2203580.d.html",
+            "title": "美国交通部长达菲：将要重建宾夕法尼亚车站，2027年底开工。",
+            "date_modified": "2025-12-02T17:31:52.000Z"
+        },
+        {
+            "id": 4532996,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyav0691944.d.html",
+            "title": "乌克兰正与权证持有人合作，以解决债券交易中的问题。",
+            "date_modified": "2025-12-02T17:28:21.000Z"
+        },
+        {
+            "id": 4532995,
+            "content_html": "",
+            "title": "委内瑞拉副总统德尔西·罗德里格斯表示，拒绝美国对Citgo石油公司的“欺诈性”出售。",
+            "date_modified": "2025-12-02T17:28:15.000Z"
+        },
+        {
+            "id": 4532994,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyaw9991142.d.html",
+            "title": "美国国防部长赫格塞思：我们支持我们的指挥官们。",
+            "date_modified": "2025-12-02T17:25:50.000Z"
+        },
+        {
+            "id": 4532993,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2202952.d.html",
+            "title": "美国国防部长赫格塞思：目前暂停了打击行动，因为现在很难找到船只。",
+            "date_modified": "2025-12-02T17:24:49.000Z"
+        },
+        {
+            "id": 4532991,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0822096.d.html",
+            "title": "特朗普：路易斯安那州州长已请求联邦政府为新奥尔良提供援助。",
+            "date_modified": "2025-12-02T17:19:36.000Z"
+        },
+        {
+            "id": 4532990,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333311.d.html",
+            "title": "特朗普：国民警卫队将在几周后前往新奥尔良。",
+            "date_modified": "2025-12-02T17:19:18.000Z"
+        },
+        {
+            "id": 4532989,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333297.d.html",
+            "title": "特朗普：华盛顿特区已经变成了一个非常安全的地方。",
+            "date_modified": "2025-12-02T17:18:59.000Z"
+        },
+        {
+            "id": 4532988,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0822068.d.html",
+            "title": "特朗普：我们很快将和国民警卫队一同前往新奥尔良。",
+            "date_modified": "2025-12-02T17:18:46.000Z"
+        },
+        {
+            "id": 4532987,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0822053.d.html",
+            "title": "乌克兰总统泽连斯基：要为乌克兰提供资金，除了动用俄罗斯资产外，我们别无选择。",
+            "date_modified": "2025-12-02T17:18:12.000Z"
+        },
+        {
+            "id": 4532986,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1924495.d.html",
+            "title": "印度航空：第三方系统已完全恢复，所有机场的值机服务均正常运行。",
+            "date_modified": "2025-12-02T17:17:46.000Z"
+        },
+        {
+            "id": 4532985,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0821979.d.html",
+            "title": "特朗普：我已经阻止了八场战争，也希望能结束俄乌冲突。",
+            "date_modified": "2025-12-02T17:16:33.000Z"
+        },
+        {
+            "id": 4532984,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333163.d.html",
+            "title": "特朗普：上个月在俄乌冲突中，已有约2.7万人死亡，其中大部分是士兵。",
+            "date_modified": "2025-12-02T17:15:39.000Z"
+        },
+        {
+            "id": 4532983,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0821893.d.html",
+            "title": "特朗普：我们在俄罗斯和乌克兰问题上存在分歧，目前正试图解决这一问题。",
+            "date_modified": "2025-12-02T17:14:17.000Z"
+        },
+        {
+            "id": 4532982,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333104.d.html",
+            "title": "洪都拉斯民族党：我们提醒公民，全国选举委员会是唯一有权宣布获胜者的机构。",
+            "date_modified": "2025-12-02T17:14:02.000Z"
+        },
+        {
+            "id": 4532981,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0120978.d.html",
+            "title": "洪都拉斯民族党：我们呼吁选举委员会（CNE）继续公布完整的计票结果。",
+            "date_modified": "2025-12-02T17:14:00.000Z"
+        },
+        {
+            "id": 4532980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0821870.d.html",
+            "title": "特朗普：乌克兰局势并不简单，真是一团糟。",
+            "date_modified": "2025-12-02T17:13:51.000Z"
+        },
+        {
+            "id": 4532979,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0821855.d.html",
+            "title": "乌克兰总统泽连斯基：我能从谈判的速度以及美国对这一进程的关注中看到一些乐观因素。",
+            "date_modified": "2025-12-02T17:13:40.000Z"
+        },
+        {
+            "id": 4532978,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333055.d.html",
+            "title": "Anthropic公司正就收购初创企业Bun进行深入谈判。",
+            "date_modified": "2025-12-02T17:13:14.000Z"
+        },
+        {
+            "id": 4532977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2333009.d.html",
+            "title": "特朗普：我做了一项认知测试。",
+            "date_modified": "2025-12-02T17:12:32.000Z"
+        },
+        {
+            "id": 4532976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0120708.d.html",
+            "title": "特朗普：我的体检结果全是A。",
+            "date_modified": "2025-12-02T17:10:53.000Z"
+        },
+        {
+            "id": 4532973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1923704.d.html",
+            "title": "人工智能初创公司Ricursive最新融资轮估值达7.5亿美元。",
+            "date_modified": "2025-12-02T17:08:15.000Z"
+        },
+        {
+            "id": 4532972,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0120257.d.html",
+            "title": "巴西总统府：卢拉告知特朗普，两国需要加强合作以打击国际有组织犯罪。",
+            "date_modified": "2025-12-02T17:07:10.000Z"
+        },
+        {
+            "id": 4532971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0120048.d.html",
+            "title": "巴西总统府：卢拉告知特朗普巴西希望在其他产品的关税谈判方面取得进展。",
+            "date_modified": "2025-12-02T17:05:25.000Z"
+        },
+        {
+            "id": 4532970,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0821114.d.html",
+            "title": "特朗普：我们将用关税收入向民众发放红利。",
+            "date_modified": "2025-12-02T17:04:59.000Z"
+        },
+        {
+            "id": 4532969,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2332297.d.html",
+            "title": "巴西总统府：卢拉感谢特朗普决定取消对咖啡、牛肉等产品的关税。",
+            "date_modified": "2025-12-02T17:04:21.000Z"
+        },
+        {
+            "id": 4532968,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0119931.d.html",
+            "title": "特朗普：将用关税收入发放退款。",
+            "date_modified": "2025-12-02T17:04:14.000Z"
+        },
+        {
+            "id": 4532967,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2332017.d.html",
+            "title": "特朗普：与民主党就医保问题展开谈判。",
+            "date_modified": "2025-12-02T17:02:46.000Z"
+        },
+        {
+            "id": 4532966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0820761.d.html",
+            "title": "特朗普：医疗保健领域将有新动向，但这不会一帆风顺。",
+            "date_modified": "2025-12-02T17:02:33.000Z"
+        },
+        {
+            "id": 4532964,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0820343.d.html",
+            "title": "巴西总统府：卢拉与特朗普进行了40分钟富有成效的通话。",
+            "date_modified": "2025-12-02T16:58:44.000Z"
+        },
+        {
+            "id": 4532963,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1922334.d.html",
+            "title": "巴西总统府：总统卢拉与特朗普就贸易及有组织犯罪问题进行了讨论。",
+            "date_modified": "2025-12-02T16:58:11.000Z"
+        },
+        {
+            "id": 4532959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0820157.d.html",
+            "title": "特朗普重申对鲍威尔的批评。",
+            "date_modified": "2025-12-02T16:56:39.000Z"
+        },
+        {
+            "id": 4532958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0820131.d.html",
+            "title": "【白宫将提出更宽松的燃油经济性标准】消息人士称，白宫将提议大幅降低燃油经济性标准，推翻时任拜登去年敲定的规则。预计美国国家公路交通安全管理局将提议大幅降低2022年至2031年车型的燃油经济性要求。特朗普将在周三的白宫活动上宣布这一计划，预计底特律三大汽车制造商的高管也将出席。今年早些时候，特朗普签署了一项立法，终止了对汽车制造商的燃油经济性处罚。",
+            "date_modified": "2025-12-02T16:56:32.000Z"
+        },
+        {
+            "id": 4532957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1921969.d.html",
+            "title": "巴西总统卢拉：已于今日早些时候与特朗普通了电话。",
+            "date_modified": "2025-12-02T16:55:29.000Z"
+        },
+        {
+            "id": 4532955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0117601.d.html",
+            "title": "特朗普在白宫内阁会议上讲话。",
+            "date_modified": "2025-12-02T16:50:02.000Z"
+        },
+        {
+            "id": 4532954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0117545.d.html",
+            "title": "英伟达CFO：在人工智能（AI）竞赛中，我们绝对没有失去领先地位。",
+            "date_modified": "2025-12-02T16:49:29.000Z"
+        },
+        {
+            "id": 4532953,
+            "content_html": "",
+            "title": "巴西国家石油公司首席执行官表示，该公司预计到2030年将把石油精炼产能提高40万桶/日。",
+            "date_modified": "2025-12-02T16:48:59.000Z"
+        },
+        {
+            "id": 4532952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1920730.d.html",
+            "title": "俄罗斯总统助理乌沙科夫、总统特使德米特里耶夫陪同普京参加美方会谈。",
+            "date_modified": "2025-12-02T16:48:34.000Z"
+        },
+        {
+            "id": 4532951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2329183.d.html",
+            "title": "消息人士称，白宫将于周三提议修订燃油效率标准。",
+            "date_modified": "2025-12-02T16:47:32.000Z"
+        },
+        {
+            "id": 4532950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2329090.d.html",
+            "title": "普京对美国代表团表示：很高兴见到你们。",
+            "date_modified": "2025-12-02T16:47:04.000Z"
+        },
+        {
+            "id": 4532949,
+            "content_html": "",
+            "title": "美国国家航空航天局（NASA）局长提名人贾里德·艾萨克曼希望加大该机构在核推进和表面动力系统方面的投资。",
+            "date_modified": "2025-12-02T16:46:06.000Z"
+        },
+        {
+            "id": 4532948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2328896.d.html",
+            "title": "开云集团：批准2025年每股1.25欧元的中期股息。",
+            "date_modified": "2025-12-02T16:45:54.000Z"
+        },
+        {
+            "id": 4532947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2328796.d.html",
+            "title": "【委内瑞拉称拦截一架非法飞越其领空的飞机】当地时间12月2日，委内瑞拉玻利瓦尔国民武装部队战略作战指挥官多明戈·埃尔南德斯·拉雷斯公布消息称，当天拦截了一架低空非法飞越委内瑞拉玻利瓦尔州南部的飞机。",
+            "date_modified": "2025-12-02T16:45:11.000Z"
+        },
+        {
+            "id": 4532946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2328766.d.html",
+            "title": "普京开始与美国特使维特科夫以及库什纳举行会谈。",
+            "date_modified": "2025-12-02T16:45:01.000Z"
+        },
+        {
+            "id": 4532945,
+            "content_html": "",
+            "title": "软银集团拟出售欧洲通信卫星公司（Eutelsat Communications）约3600万股认购权。",
+            "date_modified": "2025-12-02T16:41:21.000Z"
+        },
+        {
             "id": 4532942,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1918851.d.html",
@@ -190,169 +508,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2321553.d.html",
             "title": "亚马逊：公司与 Adobe 也在围绕人工智能代理应用和多代理协作展开合作。",
             "date_modified": "2025-12-02T16:06:06.000Z"
-        },
-        {
-            "id": 4532897,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuz0109949.d.html",
-            "title": "沃尔玛CFO：消费者资金紧张，在生活必需品上的支出占比更高。",
-            "date_modified": "2025-12-02T16:05:00.000Z"
-        },
-        {
-            "id": 4532896,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2321117.d.html",
-            "title": "亚马逊：Adobe等公司在产品创新、新商业模式以及加强客户互动方面深化合作。",
-            "date_modified": "2025-12-02T16:04:36.000Z"
-        },
-        {
-            "id": 4532895,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0809856.d.html",
-            "title": "沙特王储表示，“2030 愿景”提升了私营部门在沙特王国的作用。",
-            "date_modified": "2025-12-02T16:04:29.000Z"
-        },
-        {
-            "id": 4532894,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2321066.d.html",
-            "title": "巴西总统卢拉：巴西或许能够恢复柴油和汽油的出口。",
-            "date_modified": "2025-12-02T16:04:23.000Z"
-        },
-        {
-            "id": 4532893,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0809733.d.html",
-            "title": "美国联邦通信委员会（FCC）要求停止仿冒沃尔玛的自动语音电话（机器人电话）。",
-            "date_modified": "2025-12-02T16:04:06.000Z"
-        },
-        {
-            "id": 4532892,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0809690.d.html",
-            "title": "亚马逊推出最新人工智能芯片，挑战英伟达和谷歌。",
-            "date_modified": "2025-12-02T16:03:56.000Z"
-        },
-        {
-            "id": 4532891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuu1912305.d.html",
-            "title": "沙特王储表示，自推出“2030愿景”以来，这一转型推动了非石油活动的增长。",
-            "date_modified": "2025-12-02T16:02:43.000Z"
-        },
-        {
-            "id": 4532890,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtux0809195.d.html",
-            "title": "英伟达现涨超2%。",
-            "date_modified": "2025-12-02T16:02:22.000Z"
-        },
-        {
-            "id": 4532888,
-            "content_html": "",
-            "title": "Zendesk宣布与亚马逊云科技（AWS）达成战略合作协议，以推动由人工智能驱动的联络中心转型。",
-            "date_modified": "2025-12-02T16:01:45.000Z"
-        },
-        {
-            "id": 4532885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmtuv2319961.d.html",
-            "title": "【我国科学家破解水稻高温感知机制 助力水稻稳产】记者从中国科学院分子植物科学卓越创新中心获悉，该中心林鸿宣院士团队与上海交通大学林尤舜研究员团队、广州国家实验室李亦学研究员团队最新合作研究破解了水稻感知并响应高温的双重“密码锁”，揭示了植物中的一个循序激活、协同串联的热信号感知机制，并通过对该机制的遗传改良，成功培育出具有梯度耐热性的水稻新株系，助力作物耐高温分子育种，为应对全球变暖导致的粮食减产提供了新的解决方案。相关研究成果北京时间2025年12月3日在国际学术期刊《细胞》发表。（央视新闻）",
-            "date_modified": "2025-12-02T16:00:26.000Z"
-        },
-        {
-            "id": 4532880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtux0808246.d.html",
-            "title": "波音公司CFO表示，预计明年自由现金流增幅将处于低个位数水平。",
-            "date_modified": "2025-12-02T15:55:52.000Z"
-        },
-        {
-            "id": 4532879,
-            "content_html": "",
-            "title": "美国副总统万斯：对于华盛顿而言，（美国军队的）红线在于动用武力打击我们所在半球的毒品恐怖分子。",
-            "date_modified": "2025-12-02T15:55:20.000Z"
-        },
-        {
-            "id": 4532874,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuz0106823.d.html",
-            "title": "马自达北美业务部11月汽车总销量达32,909辆。",
-            "date_modified": "2025-12-02T15:51:41.000Z"
-        },
-        {
-            "id": 4532872,
-            "content_html": "",
-            "title": "声明显示：阿根廷航空公司Flybondi宣布斥资17亿美元实施机队扩张计划，将在其机队中新增15架空客A220 - 300型飞机和10架波音737 MAX 10型飞机。",
-            "date_modified": "2025-12-02T15:51:07.000Z"
-        },
-        {
-            "id": 4532871,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuu1909971.d.html",
-            "title": "沙特国家通讯社：沙特预计2026年预算赤字达1650亿里亚尔。",
-            "date_modified": "2025-12-02T15:50:48.000Z"
-        },
-        {
-            "id": 4532870,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtux0807583.d.html",
-            "title": "沙特通讯社：沙特阿拉伯2026年预算总收入达1.15万亿里亚尔。",
-            "date_modified": "2025-12-02T15:50:30.000Z"
-        },
-        {
-            "id": 4532869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuv2318794.d.html",
-            "title": "沙特通讯社：沙特2026年预算总支出达1.31万亿里亚尔。",
-            "date_modified": "2025-12-02T15:50:19.000Z"
-        },
-        {
-            "id": 4532863,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuu1909479.d.html",
-            "title": "沙特阿拉伯批准2026年预算。",
-            "date_modified": "2025-12-02T15:47:08.000Z"
-        },
-        {
-            "id": 4532862,
-            "content_html": "",
-            "title": "特朗普：（美国）是否有能力摧毁委内瑞拉整个国家，这一点毋庸置疑，我认为马杜罗清楚这一点。",
-            "date_modified": "2025-12-02T15:46:25.000Z"
-        },
-        {
-            "id": 4532859,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuz0105899.d.html",
-            "title": "法国AI初创公司Mistral AI发布Mistral 3模型。",
-            "date_modified": "2025-12-02T15:44:52.000Z"
-        },
-        {
-            "id": 4532858,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtux0806894.d.html",
-            "title": "美国能源部长赖特：美国计划启用未投入使用的柴油发电机以获取更多电力。",
-            "date_modified": "2025-12-02T15:44:08.000Z"
-        },
-        {
-            "id": 4532850,
-            "content_html": "",
-            "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。现况指数下滑2个点，未来预期指数上扬15个点。",
-            "date_modified": "2025-12-02T15:39:00.000Z"
-        },
-        {
-            "id": 4532848,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuv2317266.d.html",
-            "title": "【普京称欧洲提出的要求不可接受】俄罗斯总统普京表示，欧洲国家在有关乌克兰的谈判中并没有拿出和平议程。他称，欧洲对美国和平方案提出的修改只是在阻挠和平进程，并提出让俄罗斯无法接受的要求；如果欧洲愿意考虑“地面上的现实情况”，未来或许可以重新被允许回到谈判桌。",
-            "date_modified": "2025-12-02T15:37:34.000Z"
-        },
-        {
-            "id": 4532846,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzmtuz0104558.d.html",
-            "title": "【美国政府支持拜耳向最高法请求“限制除草剂诉讼”】美国联邦政府12月1日介入德国制药和农用化学品巨头拜耳公司牵涉的除草剂官司，支持这家跨国企业向美国最高法院提出的限制相关索赔诉讼请求。美国政府此举令拜耳公司的股票价格涨至近两年来最高位。",
-            "date_modified": "2025-12-02T15:36:07.000Z"
         }
     ]
 }
