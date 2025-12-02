@@ -6,6 +6,67 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4533123,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzneku9883935.d.html",
+            "title": "【中国在新能源、工程与交通等多个领域有新突破】内蒙古乌海半固态锂电池储能项目成功并网发电，实现中国桥梁从千米跨径到两千米跨径突破的张靖皋长江大桥南主塔封顶，江苏太仓至上海浦东低空交通航线正式开通，中国硬核实力再度交出亮眼成绩单。储能新阶段内蒙古乌海半固态锂电池储能项目并网发电近年来，半固态锂电池因兼顾安全性与经济性，成为储能领域技术迭代的核心方向。此前我国已并网的最大半固态储能项目为10万千瓦/20万千瓦时示范项目，此次乌海项目规模实现翻倍增长，标志着我国在半固态储能技术规模化应用领域已走在世界前列。（央视新闻）",
+            "date_modified": "2025-12-02T21:22:44.000Z"
+        },
+        {
+            "id": 4533121,
+            "content_html": "",
+            "title": "CrowdStrike：基于 2026 年预期上调，有信心在 2027 年实现 20% 的新增年度经常性收入（ARR）增长。",
+            "date_modified": "2025-12-02T21:14:28.000Z"
+        },
+        {
+            "id": 4533120,
+            "content_html": "",
+            "title": "CrowdStrike三季度营收12.3亿美元，分析师预期12.1亿美元。\n预计全年营收48.0亿-48.1亿美元，公司原本预计47.5亿-48.1亿美元。\n预计四季度营收12.9亿-13.0亿美元，分析师预期12.9亿美元。",
+            "date_modified": "2025-12-02T21:11:36.000Z"
+        },
+        {
+            "id": 4533119,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekt0578649.d.html",
+            "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
+            "date_modified": "2025-12-02T21:10:05.000Z"
+        },
+        {
+            "id": 4533118,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekq1682803.d.html",
+            "title": "波音收涨10%，创4月份以来最大单日涨幅。",
+            "date_modified": "2025-12-02T21:03:41.000Z"
+        },
+        {
+            "id": 4533114,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekt0574477.d.html",
+            "title": "国际货币基金组织就厄瓜多尔扩展基金贷款安排下的第四次评估达成工作人员层面协议。",
+            "date_modified": "2025-12-02T20:48:00.000Z"
+        },
+        {
+            "id": 4533111,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekr2085408.d.html",
+            "title": "美国总统特朗普：正考虑推出美国版的澳大利亚退休计划。",
+            "date_modified": "2025-12-02T20:41:53.000Z"
+        },
+        {
+            "id": 4533107,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekt0573848.d.html",
+            "title": "【亚马逊火速推出最新自研人工智能芯片 挑战英伟达和谷歌】亚马逊公司旗下云业务部门正争分夺秒地将最新版本自研人工智能芯片推向市场，重新发力销售能够与英伟达和谷歌产品竞争的硬件。亚马逊云服务副总裁Dave Brown在采访中表示，这款名为Trainium3 的加速器最近已安装在少数几个数据中心，并将从周二开始向客户提供。他说，“到进入明年年初，我们将开始非常、非常快速地大规模铺开”。",
+            "date_modified": "2025-12-02T20:37:43.000Z"
+        },
+        {
+            "id": 4533106,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzneku9876681.d.html",
+            "title": "【卢浮宫抢劫案第四名嫌疑人被临时收监】当地时间12月2日，据巴黎检方消息，在被捕一周后，卢浮宫抢劫案第四名嫌疑人被下令临时收监。这名男子是当天直接参与劫案的最后一名落网成员。11月25日，他在拉瓦勒的一处施工工地被捕，并于28日因 “有组织团伙盗窃罪”和“为实施犯罪而结成犯罪团伙罪”的罪名被正式起诉。（央视新闻）",
+            "date_modified": "2025-12-02T20:34:19.000Z"
+        },
+        {
             "id": 4533105,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infznekr2084705.d.html",
@@ -389,113 +450,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2207148.d.html",
             "title": "【古巴国家主席：美对委干涉与军事威胁不可接受】当地时间12月2日，古巴国家主席迪亚斯-卡内尔在社交媒体发文称，美国针对委内瑞拉政府的干涉以及军事威胁是“不可接受的”。他重申，拉丁美洲和加勒比地区是“和平区”。",
             "date_modified": "2025-12-02T18:14:22.000Z"
-        },
-        {
-            "id": 4533023,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2206414.d.html",
-            "title": "BLOCK股价迅速扩大跌幅，现跌3.6%。",
-            "date_modified": "2025-12-02T18:06:03.000Z"
-        },
-        {
-            "id": 4533022,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyav0695145.d.html",
-            "title": "【俄罗斯总统普京与美国特使举行会晤】当地时间12月2日晚，北京时间12月3日凌晨，俄罗斯总统普京在克里姆林宫会晤美国特使威特科夫和特朗普的女婿库什纳。俄罗斯总统助理乌沙科夫、俄罗斯负责对外投资和经济合作事务的总统特别代表德米特里耶夫参加会谈。",
-            "date_modified": "2025-12-02T18:05:17.000Z"
-        },
-        {
-            "id": 4533021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2206347.d.html",
-            "title": "微软：Mistral AI大模型3现已在Azure云服务平台上线。",
-            "date_modified": "2025-12-02T18:04:58.000Z"
-        },
-        {
-            "id": 4533020,
-            "content_html": "",
-            "title": "Anthropic：Claude Code产品的年化营收已达10亿美元里程碑，宣布收购Bun公司。",
-            "date_modified": "2025-12-02T18:04:33.000Z"
-        },
-        {
-            "id": 4533019,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2206145.d.html",
-            "title": "英伟达与人工智能公司Mistral AI合作，加速推出全新系列的开源模型。",
-            "date_modified": "2025-12-02T18:02:48.000Z"
-        },
-        {
-            "id": 4533018,
-            "content_html": "",
-            "title": "Coinbase：在Osmosis网络上，买入、卖出以及法币提现/存入操作不受影响。",
-            "date_modified": "2025-12-02T18:02:17.000Z"
-        },
-        {
-            "id": 4533017,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2206042.d.html",
-            "title": "美国斯巴鲁公司：2025年11月汽车销量达52,081辆。",
-            "date_modified": "2025-12-02T18:01:49.000Z"
-        },
-        {
-            "id": 4533016,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyaw9994668.d.html",
-            "title": "Coinbase：知悉部分用户在Osmosis网络上可能遇到收发延迟问题。",
-            "date_modified": "2025-12-02T18:01:28.000Z"
-        },
-        {
-            "id": 4533015,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyav0694775.d.html",
-            "title": "美国司法部长邦迪：我们已被起诉575次，且已赢得24项最高法院裁决。",
-            "date_modified": "2025-12-02T18:01:20.000Z"
-        },
-        {
-            "id": 4533014,
-            "content_html": "",
-            "title": "美国司法部：“矮子”古兹曼之子、锡那罗亚贩毒集团头目华金·古兹曼·洛佩斯在芝加哥就联邦毒品指控认罪。",
-            "date_modified": "2025-12-02T17:58:35.000Z"
-        },
-        {
-            "id": 4533013,
-            "content_html": "",
-            "title": "美国国土安全部一名官员表示，特朗普政府将把旅行禁令扩大到约30个国家，预计将很快公布被列入禁令的国家名单。",
-            "date_modified": "2025-12-02T17:56:56.000Z"
-        },
-        {
-            "id": 4533012,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyav0694414.d.html",
-            "title": "【一艘俄货轮在黑海遇袭 乌方回应称与事件“毫无关联”】当地时间12月2日，乌克兰外交部发言人泰希在社交媒体上就MIDVOLGA-2号货轮在黑海发生的事件作出回应。泰希指出，乌克兰与此事“毫无关联”。",
-            "date_modified": "2025-12-02T17:56:08.000Z"
-        },
-        {
-            "id": 4533009,
-            "content_html": "",
-            "title": "洪都拉斯选举委员会成员：计票系统出现问题，意味着总统选举仍有20%的选票有待统计。",
-            "date_modified": "2025-12-02T17:54:59.000Z"
-        },
-        {
-            "id": 4533008,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyas1797176.d.html",
-            "title": "美国农业部长罗林斯表示，下周将宣布一笔过渡性付款以帮助农民。",
-            "date_modified": "2025-12-02T17:53:16.000Z"
-        },
-        {
-            "id": 4533007,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2205400.d.html",
-            "title": "【西藏那曲市比如县4.9级地震致313户房屋受损】2025年12月2日18时56分，西藏那曲市比如县发生4.9级地震，震源深度10千米。地震发生后，当地救援力量第一时间响应，迅速集结开展排查。初步核实，截至3日凌晨1点，地震已导致比如县夏曲镇313户房屋受损。其中，310户房屋出现轻微裂缝，3户房屋出现较大裂缝且部分院墙倒塌。",
-            "date_modified": "2025-12-02T17:52:30.000Z"
-        },
-        {
-            "id": 4533006,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-03/detail-infzmyat2205339.d.html",
-            "title": "美国官员：将于下周起停止向部分州提供联邦资金。",
-            "date_modified": "2025-12-02T17:51:20.000Z"
         }
     ]
 }
