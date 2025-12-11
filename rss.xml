@@ -4,356 +4,388 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 11 Dec 2025 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 18:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[英国首相斯塔默办公室发布声明称，“自愿联盟”领导人在周四的会议上讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。]]></title>
+            <guid>4550944</guid>
+            <pubDate>Thu, 11 Dec 2025 18:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫 ：特朗普对参与竞标华纳兄弟的两家公司都表示尊重。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7499442.d.html</link>
+            <guid>4550943</guid>
+            <pubDate>Thu, 11 Dec 2025 18:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普尊重NETFLIX和派拉蒙。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6196550.d.html</link>
+            <guid>4550942</guid>
+            <pubDate>Thu, 11 Dec 2025 18:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我从拜登政府那里继承了一个烂摊子——历史上最严重的通货膨胀和我国有史以来最高的物价。]]></title>
+            <guid>4550939</guid>
+            <pubDate>Thu, 11 Dec 2025 18:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epic Games：继续与谷歌合作，寻求法院批准我们达成的和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707576.d.html</link>
+            <guid>4550938</guid>
+            <pubDate>Thu, 11 Dec 2025 18:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：美国制造的产品价格可能会“高出一到两美元”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707543.d.html</link>
+            <guid>4550937</guid>
+            <pubDate>Thu, 11 Dec 2025 18:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epic Games：《堡垒之夜》重新上架美国谷歌应用商店。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7499047.d.html</link>
+            <guid>4550936</guid>
+            <pubDate>Thu, 11 Dec 2025 18:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普政府计划对基尔马尔·阿夫雷戈·加西亚一案的判决提出上诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695594.d.html</link>
+            <guid>4550934</guid>
+            <pubDate>Thu, 11 Dec 2025 18:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国西南航空公司首席执行官表示，公司将考虑增设头等舱座位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498897.d.html</link>
+            <guid>4550933</guid>
+            <pubDate>Thu, 11 Dec 2025 18:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫就英伟达H200芯片表态：该芯片将向获批准的客户发货。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707230.d.html</link>
+            <guid>4550932</guid>
+            <pubDate>Thu, 11 Dec 2025 18:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普知晓乌克兰的最新提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707156.d.html</link>
+            <guid>4550930</guid>
+            <pubDate>Thu, 11 Dec 2025 18:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，美国行动将针对可能运输过伊朗等受制裁原油的油轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498527.d.html</link>
+            <guid>4550926</guid>
+            <pubDate>Thu, 11 Dec 2025 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：威特科夫及其团队继续与乌克兰和俄罗斯进行沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498498.d.html</link>
+            <guid>4550925</guid>
+            <pubDate>Thu, 11 Dec 2025 18:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普对乌克兰和俄罗斯的情况感到极度失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498478.d.html</link>
+            <guid>4550924</guid>
+            <pubDate>Thu, 11 Dec 2025 18:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：如果美国认为谈判值得将派遣特使。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498462.d.html</link>
+            <guid>4550922</guid>
+            <pubDate>Thu, 11 Dec 2025 18:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫就乌克兰问题表态：特朗普政府继续与双方进行对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695113.d.html</link>
+            <guid>4550921</guid>
+            <pubDate>Thu, 11 Dec 2025 18:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特表示：将依照法律程序处理扣押的委内瑞拉石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5694834.d.html</link>
+            <guid>4550918</guid>
+            <pubDate>Thu, 11 Dec 2025 18:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：船只将前往美国港口。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498131.d.html</link>
+            <guid>4550916</guid>
+            <pubDate>Thu, 11 Dec 2025 18:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：美国确实打算没收这批石油，但将遵循法律程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498112.d.html</link>
+            <guid>4550915</guid>
+            <pubDate>Thu, 11 Dec 2025 18:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫就委内瑞拉问题表态：美国司法部已批准扣押船只的授权令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706570.d.html</link>
+            <guid>4550913</guid>
+            <pubDate>Thu, 11 Dec 2025 18:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：我们还将把 GPT-5.2 模型引入 Microsoft Foundry和 Copilot Studio，同时开始在面向消费者的 Copilot 体验中逐步推出该模型。]]></title>
+            <guid>4550911</guid>
+            <pubDate>Thu, 11 Dec 2025 18:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：在 GitHub Copilot 中，GPT-5.2 是一款出色的多功能模型，尤其在编程或研究复杂代码库时，其长上下文处理能力与推理能力表现突出。该模型今日已正式上线。]]></title>
+            <guid>4550909</guid>
+            <pubDate>Thu, 11 Dec 2025 18:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软CEO：对合作伙伴 OpenAI 推出的 GPT-5.2，我们无比振奋。将其原生集成到人们日常使用的微软工具中，并结合你的工作数据，能让这款新模型的所有能力充分发挥。]]></title>
+            <guid>4550908</guid>
+            <pubDate>Thu, 11 Dec 2025 18:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古巴调整外汇管理措施 部分放宽外汇留存额度及使用范围】2025年12月11日， 古巴官方公报正式发布一系列法令与决议，对外汇管理进行了多项重大调整。其核心为，在政府管控下，通过实施“部分美元化”，以应对当前经济挑战。此次改革的最大亮点是向非国有经济倾斜。中小微企业、合作社及个体经营者等，在出口、电子商务等创汇活动中，可将高达80%的外汇收入留存于古巴的个人外汇账户中，自主支配使用。此外，古巴政府通过建立“外汇获取能力分配”机制，允许国家重点计划内主体按官方汇率购买外汇。境内交易原则上仍使用古巴比索，但与马里埃尔特区及授权外汇商店的交易等特定场景可使用外汇。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6195236.d.html</link>
+            <guid>4550907</guid>
+            <pubDate>Thu, 11 Dec 2025 18:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AXIOS：美国还对与马杜罗有关系的商人实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7497504.d.html</link>
+            <guid>4550905</guid>
+            <pubDate>Thu, 11 Dec 2025 18:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：在 GDPval 评估中，GPT-5.2 Thinking 成为我们首款达到人类专家水平的模型。该评估聚焦 44 种职业的明确知识型工作任务，涵盖演示文稿制作、电子表格处理及其他各类工作成果产出等任务。]]></title>
+            <guid>4550904</guid>
+            <pubDate>Thu, 11 Dec 2025 18:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI发布GPT - 5.2 思维能力测评结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7497424.d.html</link>
+            <guid>4550903</guid>
+            <pubDate>Thu, 11 Dec 2025 18:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【孟加拉国确定2026年大选日期】孟加拉国首席选举专员纳西尔·乌丁11日宣布，孟加拉国定于2026年2月12日举行大选，这是该国自前总理谢赫·哈西娜辞职后的首次大选。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5693980.d.html</link>
+            <guid>4550899</guid>
+            <pubDate>Thu, 11 Dec 2025 18:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AXIOS：特朗普政府制裁6艘运载委内瑞拉石油的船只。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706120.d.html</link>
+            <guid>4550895</guid>
+            <pubDate>Thu, 11 Dec 2025 18:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AXIOS：美国对委内瑞拉总统马杜罗的三个侄子实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5693854.d.html</link>
+            <guid>4550894</guid>
+            <pubDate>Thu, 11 Dec 2025 18:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德总理：已向美发出涉及乌领土让步问题的提案】德国总理默茨11日表示，他与欧洲多国领导人共同向美国总统特朗普发出一份提案，内容涉及乌克兰准备做出的领土让步。默茨当天与到访的北约秘书长吕特共同会见记者时说，这一提案是他与法国总统马克龙、英国首相斯塔默10日与特朗普通话后发出的。默茨说，他与其他欧洲国家领导人已向特朗普阐明，（在领土问题上让步）这一问题须由乌克兰总统和乌克兰人民来回答。]]></title>
+            <guid>4550892</guid>
+            <pubDate>Thu, 11 Dec 2025 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行（BOFA）将 394 人晋升为董事总经理，晋升人数较此前增长近 2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706041.d.html</link>
+            <guid>4550891</guid>
+            <pubDate>Thu, 11 Dec 2025 18:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基表示，在乌克兰举行选举需要实现停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7496809.d.html</link>
+            <guid>4550889</guid>
+            <pubDate>Thu, 11 Dec 2025 18:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西政府表示，这是一次简短的电话通话，旨在讨论和平进程以及加勒比地区和南美洲的局势。]]></title>
+            <guid>4550888</guid>
+            <pubDate>Thu, 11 Dec 2025 18:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达将举办关于数据中心供电短缺问题的活动】据几位受邀人士透露，英伟达计划于下周举办一场私人峰会，邀请专注于解决数据中心电力问题的初创企业参与 —— 这类电力问题可能会阻碍人工智能的发展。此次峰会将在英伟达位于加利福尼亚州圣克拉拉市的总部举行，这一举措表明，能源短缺正对那些配备了英伟达高能耗人工智能服务器芯片的设施建设企业产生影响。预计电力及电气工程领域初创企业的高管将出席峰会，其中包括英伟达已参股的部分公司。这些企业的产品涵盖从软件到实体电力设备技术等多个领域。英伟达发言人拒绝置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7496748.d.html</link>
+            <guid>4550887</guid>
+            <pubDate>Thu, 11 Dec 2025 18:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西政府确认卢拉与委内瑞拉总统马杜罗通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6194476.d.html</link>
+            <guid>4550886</guid>
+            <pubDate>Thu, 11 Dec 2025 18:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟理事会批准对乌支付第六笔约23亿欧元援助】当地时间12月11日，欧盟理事会通过了关于向乌克兰提供欧盟“乌克兰援助机制”第六笔定期援助款项的决定，乌克兰将很快收到约23亿欧元的资金。这笔资金的主要目的是增强乌克兰的宏观金融稳定性，并支持其公共行政部门的正常运作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7705707.d.html</link>
+            <guid>4550885</guid>
+            <pubDate>Thu, 11 Dec 2025 18:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达将举办关于数据中心供电短缺问题的会议活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6194404.d.html</link>
+            <guid>4550883</guid>
+            <pubDate>Thu, 11 Dec 2025 18:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民主党少数党领袖舒默表示：在两项医改方案均告失败后，“共和党人现在要为美国的医改危机负责”。]]></title>
+            <guid>4550880</guid>
+            <pubDate>Thu, 11 Dec 2025 18:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Workato 与 Confluent 达成合作，携手布局 AI 智能体（AI Agents）领域。]]></title>
+            <guid>4550877</guid>
+            <pubDate>Thu, 11 Dec 2025 18:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：ChatGPT的GPT - 5.2 Instant、Thinking和Pro版本今日开始逐步推出，首先面向付费订阅用户。]]></title>
+            <guid>4550875</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：处于推出年龄预测模型的早期阶段，该模型旨在自动为18岁以下用户提供内容保护措施。]]></title>
+            <guid>4550874</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：在ChatGPT中，GPT - 5.1仍将在旧版模式下向付费用户开放使用三个月。]]></title>
+            <guid>4550873</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：GPT - 5.2定价为每100万个输入令牌1.75美元，每100万个输出令牌14美元，缓存输入可享90%折扣。]]></title>
+            <guid>4550871</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：GPT - 5.2 - Pro定价为每100万个输入令牌21美元，每100万个输出令牌168美元 。]]></title>
+            <guid>4550870</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：预计在未来几周内发布为代码解释器（Codex）优化的GPT - 5.2版本。]]></title>
+            <guid>4550868</guid>
+            <pubDate>Thu, 11 Dec 2025 18:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：恭喜皮埃尔拉卡基斯当选欧元集团主席。当前局势动荡，欧元区的稳定与团结比以往任何时候都更为重要。我们还将在欧元的国际地位以及储蓄与投资联盟等议题上密切合作，以增强我们的竞争力。]]></title>
+            <guid>4550866</guid>
+            <pubDate>Thu, 11 Dec 2025 17:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[葛兰素史克公司：BLUJEPA 获美国批准用于治疗淋病。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6193600.d.html</link>
+            <guid>4550865</guid>
+            <pubDate>Thu, 11 Dec 2025 17:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大丰业银行将甲骨文公司的目标股价从每股360.00美元下调至260.00美元。]]></title>
+            <guid>4550864</guid>
+            <pubDate>Thu, 11 Dec 2025 17:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，Alphabet旗下的谷歌明年将因偏袒自身服务而面临欧盟罚款 。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7704813.d.html</link>
+            <guid>4550863</guid>
+            <pubDate>Thu, 11 Dec 2025 17:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，谷歌为遵守具有里程碑意义的欧盟规则所做的努力仍不足。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7495363.d.html</link>
+            <guid>4550862</guid>
+            <pubDate>Thu, 11 Dec 2025 17:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩最高法院判处日企向二战强征劳工受害者赔偿1亿韩元】韩国大法院（最高法院）11日就二战时期日本强征劳工受害者遗属对一家日本企业提起的索赔诉讼案作出终审判决，维持二审判决结果，要求被告赔偿1亿韩元（约合48万元人民币）。韩国籍二战强征劳工受害者郑某的遗属2019年4月对日本制铁公司提起索赔诉讼。一审法院2021年9月以遗属行使损害赔偿请求的权利已失效为由，判处原告败诉。二审法院2024年8月援引韩国大法院一项判决，认为该案没有超过诉讼时效，推翻一审判决，要求被告向原告支付1亿韩元赔偿金。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7704803.d.html</link>
+            <guid>4550861</guid>
+            <pubDate>Thu, 11 Dec 2025 17:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本泛太平洋铜业公司同意延长2026年铜冶炼费用不变】 泛太平洋铜业公司(Pan Pacific Copper)和伦丁矿业公司已同意，明年将把把铜矿石加工成金属的加工费用大致维持不变。据知情人士透露，2026年商业条款的展期协议包括冶炼费用（即加工精炼费用）保持不变。该协议表明了一种趋势：随着全球冶炼行业陷入更深层次的危机，矿商正在向关键的长期客户做出商业让步。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6193533.d.html</link>
+            <guid>4550859</guid>
+            <pubDate>Thu, 11 Dec 2025 17:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：美国与我们站在一起并支持我们至关重要。现在，对乌克兰的防御支持尤为重要，因为俄罗斯并未停止其袭击，我们需要加强对生命安全的保护，以便外交能够朝着公正和平的方向努力。]]></title>
+            <guid>4550858</guid>
+            <pubDate>Thu, 11 Dec 2025 17:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：委内瑞拉议员废除批准《罗马规约》的法律，为退出国际刑事法院铺平道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7704637.d.html</link>
+            <guid>4550857</guid>
+            <pubDate>Thu, 11 Dec 2025 17:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨316美元，报11872美元/吨。LME期铝收涨33美元，报2900美元/吨。LME期锌收涨122美元，报3204美元/吨。]]></title>
+            <guid>4550855</guid>
+            <pubDate>Thu, 11 Dec 2025 17:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉评级公司表示：由于人工智能需求超过宏观层面的担忧，北美半导体行业前景保持中性。]]></title>
+            <guid>4550854</guid>
+            <pubDate>Thu, 11 Dec 2025 17:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fuzzy Panda Research：仍维持对 Rezolve AI 的做空立场。]]></title>
+            <guid>4550850</guid>
+            <pubDate>Thu, 11 Dec 2025 17:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌美就安全保障协议展开深入磋商】当地时间11日，乌克兰总统泽连斯基在其官方社交平台上发文称，乌方当天与美方高级代表团就当前正在推进的三份文件之一的安全保障协议进行了建设性且深入的磋商。美方参会人员包括美国国务卿鲁比奥、国防部长赫格塞思、特朗普特使威特科夫、库什纳等人，北约秘书长吕特也参与了讨论。泽连斯基表示，安全保障是所有后续步骤中最关键的一环。乌方曾有过《布达佩斯备忘录》的负面教训，当前至关重要的是，这份安全保障文件必须明确回应乌克兰民众最关切的问题，即一旦俄罗斯再次发动打击，乌伙伴将采取哪些具体行动。他表示，美乌团队将加紧工作，力争在短期内就安全保障的具体内容达成清晰、可操作的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5690799.d.html</link>
+            <guid>4550849</guid>
+            <pubDate>Thu, 11 Dec 2025 17:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员推动在年度国防法案中加强军用直升机安全要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7703877.d.html</link>
+            <guid>4550847</guid>
+            <pubDate>Thu, 11 Dec 2025 17:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“特斯拉劲敌”Rivian推出AI芯片，以在未来车型中取代英伟达产品】据报道，“特斯拉劲敌”、美国电动汽车公司Rivian(RIVN.O)正研发自己的人工智能芯片，以取代英伟达(NVDA.O)的技术，作为其在未来车辆中增加和增强自动驾驶功能的更广泛举措的一部分。Rivian(RIVN.O)将在其即将推出的R2运动型多用途车上配备Rivian自主驾驶处理器芯片（RAP1）和新型激光雷达传感器。台积电将负责生产这些芯片，结合新型传感器和人工智能模型的开发，将助力Rivian最终实现提供自动驾驶功能的目标。据悉，两枚RAP1芯片将驱动Rivian新一代车载计算机——Autonomy Compute Module 3，该系统每秒可处理50亿像素，性能达到Rivian现役车型搭载的英伟达系统的四倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7703631.d.html</link>
+            <guid>4550846</guid>
+            <pubDate>Thu, 11 Dec 2025 17:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱将百事公司目标价从每股142美元上调至144美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5689919.d.html</link>
+            <guid>4550840</guid>
+            <pubDate>Thu, 11 Dec 2025 17:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莫迪同特朗普就贸易和能源等问题通电话】印度总理莫迪11日同美国总统特朗普通电话，就扩大双边贸易、加强能源合作等议题进行讨论。这是俄罗斯总统普京4日至5日访问印度后，印美领导人首次通话。莫迪在社交媒体发文说：“与特朗普总统进行了非常友好且富有成效的对话。我们回顾了双边关系的进展，并讨论了地区和国际形势。印度和美国将继续携手合作，维护全球和平、稳定与繁荣。”据印度媒体报道，双方还讨论了扩大关键技术、能源、国防和安全以及其他优先领域的合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7703310.d.html</link>
+            <guid>4550839</guid>
+            <pubDate>Thu, 11 Dec 2025 17:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国发言人表示，联合国秘书长警告不要采取可能 “破坏” 委内瑞拉及该地区稳定的行动。]]></title>
+            <guid>4550838</guid>
+            <pubDate>Thu, 11 Dec 2025 17:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：尽管保护主义加剧，2026年全球钢铁领域前景仍保持中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6191959.d.html</link>
+            <guid>4550837</guid>
+            <pubDate>Thu, 11 Dec 2025 17:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：今天，我们通过 Gemini Deep Research agent，将自身领先的深度研究经验赋能开发者。这是首次让开发者能将谷歌最先进的自主研究能力直接嵌入到他们自己的应用程序中。]]></title>
+            <guid>4550836</guid>
+            <pubDate>Thu, 11 Dec 2025 17:37:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[乌克兰军方称其部队仍控制着乌克兰东部前线城市西弗斯克。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6191747.d.html</link>
             <guid>4550835</guid>
             <pubDate>Thu, 11 Dec 2025 17:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗萨里奥谷物交易所消息：阿根廷2025/2026年度小麦收成预计将达创纪录的2770万吨，此前预估为2450万吨。]]></title>
-            <guid>4550833</guid>
-            <pubDate>Thu, 11 Dec 2025 17:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.59%。英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.77%。]]></title>
-            <guid>4550832</guid>
-            <pubDate>Thu, 11 Dec 2025 17:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行将新思科技（Synopsys）的目标价从每股445美元上调至500美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7833392.d.html</link>
-            <guid>4550829</guid>
-            <pubDate>Thu, 11 Dec 2025 17:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟的KERAVNOS表示：欧元集团已选举皮埃尔拉卡基斯担任主席。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7833368.d.html</link>
-            <guid>4550828</guid>
-            <pubDate>Thu, 11 Dec 2025 17:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月12日01时18分在云南昭通市大关县（北纬28.22度，东经103.90度）发生3.9级地震，震源深度10千米。]]></title>
-            <guid>4550827</guid>
-            <pubDate>Thu, 11 Dec 2025 17:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟的东布罗夫斯基斯表示：成员国必须使预算与财政规则保持一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7622340.d.html</link>
-            <guid>4550826</guid>
-            <pubDate>Thu, 11 Dec 2025 17:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国重组福特 - SK 合资企业贷款，以 “降低纳税人风险敞口”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7622311.d.html</link>
-            <guid>4550824</guid>
-            <pubDate>Thu, 11 Dec 2025 17:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部重组向福特（Ford）与 SK ON 合资企业提供的 96 亿美元贷款。]]></title>
-            <guid>4550823</guid>
-            <pubDate>Thu, 11 Dec 2025 17:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内涨幅扩大至2.00%，现报1499.25美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7833172.d.html</link>
-            <guid>4550822</guid>
-            <pubDate>Thu, 11 Dec 2025 17:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经新闻：日本住友商事将把在印度可再生能源领域的投资增加一倍至13亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6321908.d.html</link>
-            <guid>4550821</guid>
-            <pubDate>Thu, 11 Dec 2025 17:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN首席执行官表示，人工智能芯片能节省数百美元的费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5818674.d.html</link>
-            <guid>4550819</guid>
-            <pubDate>Thu, 11 Dec 2025 17:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN首席执行官表示，其人工智能芯片相较于英伟达的芯片能节省大量成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7833071.d.html</link>
-            <guid>4550818</guid>
-            <pubDate>Thu, 11 Dec 2025 17:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN在首届自动驾驶与人工智能日活动上推出定制芯片、下一代自动驾驶平台以及深度人工智能集成方案。自动驾驶功能将于2026年初推出，定价为一次性支付2500美元或每月49.99美元。]]></title>
-            <guid>4550817</guid>
-            <pubDate>Thu, 11 Dec 2025 17:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：12月12日01时18分在云南昭通市大关县附近（北纬28.22度，东经103.93度）发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>4550816</guid>
-            <pubDate>Thu, 11 Dec 2025 17:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基表示，各方同意继续谈判，以便在近期达成具体共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7832959.d.html</link>
-            <guid>4550815</guid>
-            <pubDate>Thu, 11 Dec 2025 17:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基表示，乌克兰必须了解合作伙伴将作何反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5818378.d.html</link>
-            <guid>4550814</guid>
-            <pubDate>Thu, 11 Dec 2025 17:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基称，乌克兰与美国在视频会议中讨论了安全保障问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5818340.d.html</link>
-            <guid>4550813</guid>
-            <pubDate>Thu, 11 Dec 2025 17:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国总理向国王递交申请 要求解散国会下议院】当地时间11日，泰国总理阿努廷已向国王递交申请，要求解散国会下议院。今年9月，在国会下议院拥有最多席位的人民党与自豪泰党达成协议，支持阿努廷出任新总理，但前提是新政府必须在4个月内推动修宪并解散国会下议院，为重新大选铺路。12月11日晚，泰国国会联席会议表决审议宪法修正案草案的二读，结果显示宪法修正案二读最终未能获得足够票数通过。随后，阿努廷在社交媒体发文称，他将把权力归还给人民。根据法律规定，解散国会下议院后将在45至60天内举行新的选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6321545.d.html</link>
-            <guid>4550811</guid>
-            <pubDate>Thu, 11 Dec 2025 17:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安（RIVIAN）：包括第三代自动驾驶计算模块（ACM3）和激光雷达在内的第三代自动驾驶硬件目前正在进行验证，预计从2026年底起将搭载于R2车型交付。]]></title>
-            <guid>4550810</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安：推出大型驾驶模型，这是一种像大语言模型一样训练的基础自动驾驶模型。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5818190.d.html</link>
-            <guid>4550809</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安（RIVIAN）：短期内，第二代R1车型将迎来软件升级，新增通用免提功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7621512.d.html</link>
-            <guid>4550808</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN：2026年初在第一代和第二代R1车型上推出里维安助手。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6321471.d.html</link>
-            <guid>4550807</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴西总统卢拉和委内瑞拉总统马杜罗上周举行了电话会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7832700.d.html</link>
-            <guid>4550806</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN：推出RIVIAN自主处理器（RAP1），这是我们自主研发、专为特定用途打造的芯片 。]]></title>
-            <guid>4550805</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rivian：除了ACM3之外，还计划将激光雷达集成到未来的R2车型中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6321432.d.html</link>
-            <guid>4550804</guid>
-            <pubDate>Thu, 11 Dec 2025 17:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安（RIVIAN）首席执行官表示，其平台未来将支持无人驾驶，目标是在未来车型中实现 L4 级自动驾驶。]]></title>
-            <guid>4550802</guid>
-            <pubDate>Thu, 11 Dec 2025 17:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN CEO称其系统可实现免手动操作的点对点驾驶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6321275.d.html</link>
-            <guid>4550801</guid>
-            <pubDate>Thu, 11 Dec 2025 17:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RIVIAN：将于明年推出部分自动化驾驶系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7832471.d.html</link>
-            <guid>4550800</guid>
-            <pubDate>Thu, 11 Dec 2025 17:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软承诺创造“与人类利益相符”的超级智能】微软公司消费人工智能主管Mustafa Suleyman正在创造一种“与人类利益相符”的超级智能，并承诺如果这项工作对人类构成威胁，他将停止。Suleyman的工作此前受到与OpenAI合同条款的限制，但去年10月的一项协议使微软获得了开发自己人工智能的权利。Suleyman在一篇博客文章中宣布了超级智能的推进工作，概述了微软的观点：只有当这些系统被设计来服务人类时，它们才能成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7832408.d.html</link>
-            <guid>4550799</guid>
-            <pubDate>Thu, 11 Dec 2025 17:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rivian CEO：RIvian人工智能平台的性能是此前英伟达系统的 4 倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5817804.d.html</link>
-            <guid>4550798</guid>
-            <pubDate>Thu, 11 Dec 2025 17:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国环保署高级官员称，美国环境保护局正考虑将拜登政府时期通过的车辆污染规则的执行时间推迟两年。]]></title>
-            <guid>4550797</guid>
-            <pubDate>Thu, 11 Dec 2025 17:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安（RIVIAN）计划后续为未来的 R2 车型加装激光雷达传感器。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5817696.d.html</link>
-            <guid>4550795</guid>
-            <pubDate>Thu, 11 Dec 2025 17:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[里维安（RIVIAN）研发人工智能芯片，计划在未来车型中取代英伟达（NVIDIA）的产品。]]></title>
-            <guid>4550794</guid>
-            <pubDate>Thu, 11 Dec 2025 17:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【搭建国家级服务平台 教育部发布2026春晖创新创业新举措】12月11日，教育部在上海举行“春晖计划”三十周年纪念暨2025春晖中国留学人员创新创业交流活动，并现场发布多项2026春晖创新创业新举措。活动现场，教育部与全国首批50家单位合作，建设春晖合作伙伴网络，并发布“春晖倡议”，提供全链条助力，为海外学子回国就业创业搭建国家级服务平台。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6320720.d.html</link>
-            <guid>4550791</guid>
-            <pubDate>Thu, 11 Dec 2025 17:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约银行加入美国政府的儿童投资倡议，为员工拓宽储蓄途径并增加金融机遇 。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7831832.d.html</link>
-            <guid>4550790</guid>
-            <pubDate>Thu, 11 Dec 2025 17:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：开源一项新的网络研究智能体基准测试DeepSearchQA，旨在测试智能体在网络研究任务中的全面性。]]></title>
-            <guid>4550786</guid>
-            <pubDate>Thu, 11 Dec 2025 17:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：推出交互应用程序编程接口（API），这是一个用于与我们的模型（如双子座3专业版）以及像双子座深度研究这样的智能体进行交互的统一接口。]]></title>
-            <guid>4550785</guid>
-            <pubDate>Thu, 11 Dec 2025 17:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：将推出一款功能大幅提升的双子星深度研究代理工具，可通过互动应用程序编程接口（API）获取。]]></title>
-            <guid>4550784</guid>
-            <pubDate>Thu, 11 Dec 2025 17:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoreWeave：Runway将使用科睿维的英伟达系统进行训练。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6320026.d.html</link>
-            <guid>4550783</guid>
-            <pubDate>Thu, 11 Dec 2025 17:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COREWEAVE将为RUNWAY的下一代人工智能视频模型提供算力支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7831164.d.html</link>
-            <guid>4550782</guid>
-            <pubDate>Thu, 11 Dec 2025 17:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软承诺打造 “与人类目标一致” 的超级人工智能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6319863.d.html</link>
-            <guid>4550781</guid>
-            <pubDate>Thu, 11 Dec 2025 17:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率小幅上升，30 年期贷款利率涨至 6.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6319855.d.html</link>
-            <guid>4550780</guid>
-            <pubDate>Thu, 11 Dec 2025 17:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在与法国外贸银行（Natixis）的合作协议告吹后，忠利保险（GENERALI）确认所有目标保持不变。]]></title>
-            <guid>4550776</guid>
-            <pubDate>Thu, 11 Dec 2025 16:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：乌领土问题应由乌人民决定】当地时间11日，乌克兰总统泽连斯基在会见记者时表示，在有关和平计划两个关键问题上尚未达成共识仍存在分歧，即顿涅茨克地区的领土及扎波罗热核电站问题。泽连斯基强调，“我听取了美方，实际上也听取了俄方关于顿涅茨克地区领土的所有建议，并表示这绝对不符合乌克兰利益，但我们需要继续对话，努力找到所有问题的答案，使一切更加充分。”泽连斯基表示，关于领土问题可能做出妥协的问题，应该由乌克兰人民以选举或全民公投的形式作出回答。泽连斯基说，“我相信乌克兰人民会回答这个问题。无论是通过选举还是全民公投，都必须表明乌克兰人民的立场。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6319545.d.html</link>
-            <guid>4550775</guid>
-            <pubDate>Thu, 11 Dec 2025 16:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。]]></title>
-            <guid>4550773</guid>
-            <pubDate>Thu, 11 Dec 2025 16:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[参议员称，特朗普向美国城市派遣军队已花费超3.4亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5814316.d.html</link>
-            <guid>4550766</guid>
-            <pubDate>Thu, 11 Dec 2025 16:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度、美国结束为期两天的贸易谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7617602.d.html</link>
-            <guid>4550765</guid>
-            <pubDate>Thu, 11 Dec 2025 16:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开云集团美妆业务自12月31日起将在财务报表中被重新归类为已终止经营业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7617538.d.html</link>
-            <guid>4550762</guid>
-            <pubDate>Thu, 11 Dec 2025 16:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开云集团就旗下业务出售给欧莱雅集团一事达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6317266.d.html</link>
-            <guid>4550761</guid>
-            <pubDate>Thu, 11 Dec 2025 16:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦住房金融局(FHFA)局长Bill Pulte：将（加州）旧金山办公室搬迁至阿拉巴马州。]]></title>
-            <guid>4550759</guid>
-            <pubDate>Thu, 11 Dec 2025 16:47:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[忠利保险（GENERALI）与法国人民储蓄银行集团（BPCE）终止了资产管理合作。]]></title>
-            <guid>4550758</guid>
-            <pubDate>Thu, 11 Dec 2025 16:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲卫星导航公司（ESN）获得美国导弹防御局（MDA）的可扩展本土创新企业分层防御（SHIELD）合同。]]></title>
-            <guid>4550756</guid>
-            <pubDate>Thu, 11 Dec 2025 16:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开云集团上半年营收达 75.9 亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7827884.d.html</link>
-            <guid>4550753</guid>
-            <pubDate>Thu, 11 Dec 2025 16:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开云集团上半年经常性经营收入达9.69亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvz6316620.d.html</link>
-            <guid>4550752</guid>
-            <pubDate>Thu, 11 Dec 2025 16:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国将着力推动投资止跌回稳】投资是扩大内需的重要抓手。12月10日至11日举行的中央经济工作会议部署明年经济工作重点任务时提出“坚持内需主导，建设强大国内市场”，并明确“推动投资止跌回稳”“有效激发民间投资活力”。受外部环境复杂严峻、投资收益下降等因素影响，今年前10个月，全国固定资产投资同比下降1.7%。与此同时，我国投资结构优化，高技术行业投资较快增长。会议提出，适当增加中央预算内投资规模，优化实施“两重”项目，优化地方政府专项债券用途管理，继续发挥新型政策性金融工具作用。“相关部署将更好发挥政府投资的撬动作用，进一步优化投资结构，不断释放投资活力。”国家发展改革委宏观经济研究院研究员张林山说。民间投资是稳增长、调结构、促就业的重要支撑力量。会议指出，有效激发民间投资活力。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7616444.d.html</link>
-            <guid>4550748</guid>
-            <pubDate>Thu, 11 Dec 2025 16:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央明确“支持经济大省挑大梁”】12月10日至11日举行的中央经济工作会议在部署明年经济工作时提出，“支持经济大省挑大梁”。经济大省，是稳住中国经济基本盘的“压舱石”和拉动经济增长的“火车头”。2022年7月召开的中共中央政治局会议提出“经济大省要勇挑大梁”。2024年9月召开的中共中央政治局会议、2024年12月举行的中央经济工作会议和《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》中都提出“支持经济大省挑大梁”。此次中央经济工作会议再次明确“支持经济大省挑大梁”，经济大省在中国经济发展中的重要作用不言而喻。今年前三季度，经济大省展现出强劲的发展动能，以实际行动诠释挑大梁的担当。“经济大省是支撑全国经济的关键力量，肩负着在全国发展大局中稳增长的重任。”国务院发展研究中心市场经济研究所市场流通研究室主任、研究员陈丽芬说，加强要素保障、鼓励科技创新、探索改革开放先行先试，将有助于支持经济大省挑大梁、走在前，带动各地各展所长、形成合力。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancwc5813019.d.html</link>
-            <guid>4550747</guid>
-            <pubDate>Thu, 11 Dec 2025 16:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：乌克兰已向美国提交更新版的和平计划】当地时间11日，乌克兰总统泽连斯基在会见记者时表示，乌克兰已向美国提交了一份修订后的和平计划，但该计划尚未最终定稿。他表示，该计划已于10日提交给美国方面，但这并非最终方案，而是在既有条件下，对乌方收到的信息做出的回应。泽连斯基同时透露，最初的方案已经过修改，从28项缩减到20项。他表示，目前方案一直在不断完善和修改，这是一个持续的过程。泽连斯基同时表示，这项计划并非单一文件，而是一系列文件。据他介绍，许多文件尚未最终定稿，它包含多个方面，包括乌战后经济和复苏、安全保障等。泽连斯基强调，有些立场仍存在争议，尤其是在领土问题上。此外，根据可能的和平协议草案，乌克兰武装部队的规模将为80万人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7825573.d.html</link>
-            <guid>4550741</guid>
-            <pubDate>Thu, 11 Dec 2025 16:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行证券宣布维萨（Visa）目标股价为每股382.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvx7825486.d.html</link>
-            <guid>4550740</guid>
-            <pubDate>Thu, 11 Dec 2025 16:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特：我们已知悉SK的披露内容，目前暂无更多信息可分享。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-12/detail-inhancvw7615109.d.html</link>
-            <guid>4550737</guid>
-            <pubDate>Thu, 11 Dec 2025 16:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.61%，报581.72点，银行板块初步收涨1.3%。欧元区STOXX 50指数初步收涨0.85%，报5756.73点。富时泛欧绩优300指数初步收涨0.61%，报2319.97点。]]></title>
-            <guid>4550735</guid>
-            <pubDate>Thu, 11 Dec 2025 16:30:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
