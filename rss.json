@@ -6,6 +6,109 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4553224,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx6851439.d.html",
+            "title": "精神航空称当前谈判仍富有成效。",
+            "date_modified": "2025-12-12T19:22:47.000Z"
+        },
+        {
+            "id": 4553223,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkt6676886.d.html",
+            "title": "精神航空：正与破产管理融资方密切合作。",
+            "date_modified": "2025-12-12T19:22:20.000Z"
+        },
+        {
+            "id": 4553222,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkt6676761.d.html",
+            "title": "精神航空公司否认拟停止运营的传闻。",
+            "date_modified": "2025-12-12T19:21:05.000Z"
+        },
+        {
+            "id": 4553221,
+            "content_html": "",
+            "title": "美国地质调查局（USGS）消息：日本串本市东南方向 214 公里处发生 5.3 级地震。",
+            "date_modified": "2025-12-12T19:18:54.000Z"
+        },
+        {
+            "id": 4553220,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkt6676652.d.html",
+            "title": "【特朗普政府批准首批加密货币银行】特朗普政府于当地时间周五批准了启动五家新的专注于加密货币的全国性银行的计划，这是其推动该行业更广泛地进入传统金融体系的一部分。获得美国货币监理署申请批准的加密货币初创公司包括Circle和Ripple。Paxos、BitGo和富达投资(Fidelity)周五也获得了批准。",
+            "date_modified": "2025-12-12T19:18:12.000Z"
+        },
+        {
+            "id": 4553219,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkv5165315.d.html",
+            "title": "【白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担】美国白宫人工智能和加密货币顾问萨克斯为总统特朗普限制各州对人工智能监管的举措辩护，称此举旨在减轻企业日益加重的合规负担。萨克斯说，根据特朗普周四签署的指令，政府正在与国会一起制定监管这项新兴技术的共同标准。当前，人工智能模型的开发可以在多个州进行，每个州都有自己的监管标准。萨克斯在接受采访时称：“五十个州各自为政，这种合规制度对小企业和初创公司来说很难应对，尤其是创新者更是如此。我们需要的是一个单一的联邦或国家层面的人工智能监管框架。”",
+            "date_modified": "2025-12-12T19:15:39.000Z"
+        },
+        {
+            "id": 4553218,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx4715435.d.html",
+            "title": "【今年港股IPO数量破百 科技板块成市场引擎】12月11日，随着京东工业敲响港交所的锣声，港股市场迎来2025年第100只新股。这一里程碑事件不仅标志着港股IPO市场的强势复苏，其背后港股新股呈现“量额齐升”的蓬勃态势，更彰显了香港作为国际金融中心的独特魅力与强大韧性。（证券时报）",
+            "date_modified": "2025-12-12T19:14:53.000Z"
+        },
+        {
+            "id": 4553217,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkv5165261.d.html",
+            "title": "【海光信息终止合并中科曙光 341家机构火速调研】本周（12月8日—12月12日）共有164家公司接待机构调研，从赚钱效应来看，近四成机构调研股实现正收益。其中，多家机构调研公司周内实现首板或连板：超捷股份周内涨39.03%，实现首板；霍莱沃、斯瑞新材、博盈特焊周内涨超30%，博盈特焊也实现首板；华菱线缆、南矿集团、百大集团、冰轮环境、赛恩斯、陕西华达等公司累计涨超20%，华菱线缆和百大集团实现2连板。（证券时报）",
+            "date_modified": "2025-12-12T19:14:17.000Z"
+        },
+        {
+            "id": 4553215,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkv5165165.d.html",
+            "title": "美国联邦通信委员会（FCC）拟审议人工智能模型的联邦报告标准。",
+            "date_modified": "2025-12-12T19:11:22.000Z"
+        },
+        {
+            "id": 4553213,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkt6676318.d.html",
+            "title": "【“险资入豫”持续发力 河南累计引入保险资金突破万亿元】近年来，随着“险资入豫”专项行动的深入开展，河南的保险资金运用取得一定成效，呈现“增量扩面提质”的特点。数据显示，截至10月末，河南累计引入险资已破万亿元，较2020年末翻两番，连续4年增量超千亿元，险资运用余额超7000亿元，超额完成“十四五”目标。（上证报）",
+            "date_modified": "2025-12-12T19:08:34.000Z"
+        },
+        {
+            "id": 4553212,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkv5164927.d.html",
+            "title": "美国西南航空公司将于 2026 年 3 月在奥斯汀机场新增机组人员基地。",
+            "date_modified": "2025-12-12T19:05:06.000Z"
+        },
+        {
+            "id": 4553210,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx6850162.d.html",
+            "title": "杰富瑞将梅西百货目标股价从每股26美元上调至27美元。",
+            "date_modified": "2025-12-12T19:02:00.000Z"
+        },
+        {
+            "id": 4553208,
+            "content_html": "",
+            "title": "消息人士：美国总统特朗普预计最早于下周一发布行政令，允许对大麻进行重新分类；此举将使大麻相关企业适用不同的税收法规，并将鼓励相关投资。",
+            "date_modified": "2025-12-12T18:56:31.000Z"
+        },
+        {
+            "id": 4553207,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx4713786.d.html",
+            "title": "甲骨文声明：对各项承诺的履行及业务扩张保持信心。",
+            "date_modified": "2025-12-12T18:49:09.000Z"
+        },
+        {
+            "id": 4553206,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx4713742.d.html",
+            "title": "甲骨文声明：对 OpenAI 的合同承诺无延迟。",
+            "date_modified": "2025-12-12T18:48:39.000Z"
+        },
+        {
             "id": 4553204,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqtkx4713258.d.html",
@@ -422,107 +525,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpaz4836150.d.html",
             "title": "乌克兰海军发言人表示，俄罗斯的袭击致使敖德萨地区总计三艘土耳其拥有的船只受损。",
             "date_modified": "2025-12-12T17:12:53.000Z"
-        },
-        {
-            "id": 4553123,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpax5289348.d.html",
-            "title": "【乌称一黑海港口城市遭导弹袭击 致货船起火】乌克兰方面称，乌克兰敖德萨州黑海港口城市切尔诺莫斯克当天下午遭俄军导弹袭击，一艘停靠在港口内的土耳其籍集装箱船被击中起火，造成至少1人受伤。据悉，被击中船只为土耳其一家航运公司所属的集装箱船，船上载有发电机等货物。乌克兰紧急服务部门表示，火势已得到控制，伤者已被送医，环境监测未发现有害物质释放。",
-            "date_modified": "2025-12-12T17:09:13.000Z"
-        },
-        {
-            "id": 4553122,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpax5288958.d.html",
-            "title": "谷歌：将Gemini的翻译能力引入谷歌文本和网站翻译服务。",
-            "date_modified": "2025-12-12T17:05:03.000Z"
-        },
-        {
-            "id": 4553121,
-            "content_html": "",
-            "title": "谷歌：具备GEMINI能力的谷歌翻译更新从今日起在美国、印度推出，支持英语与近20种语言互译。",
-            "date_modified": "2025-12-12T17:04:23.000Z"
-        },
-        {
-            "id": 4553119,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpaz6970239.d.html",
-            "title": "乌克兰谈判团队成员乌梅罗夫表示，乌克兰、欧洲和美国国家安全顾问于周五举行了会谈。",
-            "date_modified": "2025-12-12T17:02:42.000Z"
-        },
-        {
-            "id": 4553118,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpav6799919.d.html",
-            "title": "俄罗斯 12 月石油和天然气收入可能降至 5 年来最低水平。",
-            "date_modified": "2025-12-12T17:02:28.000Z"
-        },
-        {
-            "id": 4553117,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpav6799649.d.html",
-            "title": "华特迪士尼动画工作室：《疯狂动物城2》全球票房将突破10亿美元大关。",
-            "date_modified": "2025-12-12T17:00:29.000Z"
-        },
-        {
-            "id": 4553114,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpax5288285.d.html",
-            "title": "特朗普的加密货币主管：科罗拉多州的人工智能相关措施存在问题。",
-            "date_modified": "2025-12-12T16:58:21.000Z"
-        },
-        {
-            "id": 4553113,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpav6799487.d.html",
-            "title": "特朗普的加密货币主管：加州、纽约州人工智能法案是否面临挑战仍不明确。",
-            "date_modified": "2025-12-12T16:57:57.000Z"
-        },
-        {
-            "id": 4553112,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpaz6969360.d.html",
-            "title": "马来西亚总理安瓦尔接到美国总统特朗普的电话。",
-            "date_modified": "2025-12-12T16:56:04.000Z"
-        },
-        {
-            "id": 4553111,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpaz6969217.d.html",
-            "title": "特朗普的加密货币主管：人工智能带来的新增就业岗位多于流失岗位。",
-            "date_modified": "2025-12-12T16:54:46.000Z"
-        },
-        {
-            "id": 4553110,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpav6798941.d.html",
-            "title": "特朗普的加密货币主管：监管混乱导致合规问题频发。",
-            "date_modified": "2025-12-12T16:53:39.000Z"
-        },
-        {
-            "id": 4553109,
-            "content_html": "",
-            "title": "特朗普的加密货币主管就人工智能行政令表态：该行政令旨在规范各州相互矛盾的相关规定。",
-            "date_modified": "2025-12-12T16:52:25.000Z"
-        },
-        {
-            "id": 4553106,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-13/detail-inhaqpax5286224.d.html",
-            "title": "泽连斯基称，乌克兰安全保障工作组将在德国举行会谈。",
-            "date_modified": "2025-12-12T16:44:43.000Z"
-        },
-        {
-            "id": 4553105,
-            "content_html": "",
-            "title": "边疆集团控股公司：瑞银开始对公司进行研究覆盖，给予“中性”评级；目标股价为6美元。",
-            "date_modified": "2025-12-12T16:44:28.000Z"
-        },
-        {
-            "id": 4553104,
-            "content_html": "",
-            "title": "阿拉斯加航空：瑞银开始对公司进行研究覆盖，给予“买入”评级；目标股价为77美元。",
-            "date_modified": "2025-12-12T16:44:01.000Z"
         }
     ]
 }
