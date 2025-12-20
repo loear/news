@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 20 Dec 2025 20:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 21:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国土安全部长：美国扣押了一艘最近在委内瑞拉停靠过的油轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynt6027847.d.html</link>
+            <guid>4567958</guid>
+            <pubDate>Sat, 20 Dec 2025 20:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利北部地区发生5.2级地震】智利大学地震中心报告，当地时间12月20日17时50分，智利北部地区发生5.2级地震，震源深度153公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynt6027751.d.html</link>
+            <guid>4567957</guid>
+            <pubDate>Sat, 20 Dec 2025 20:55:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：斯塔默考虑对哈马斯领导人实施制裁。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynx9392105.d.html</link>
@@ -548,23 +560,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5976554.d.html</link>
             <guid>4567803</guid>
             <pubDate>Sat, 20 Dec 2025 12:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈文清在江苏调研时表示 学习好贯彻好习近平总书记重要指示精神 推动江苏政法工作在全国走在前当表率】中共中央政治局委员、中央政法委书记陈文清18日至19日在江苏调研时表示，江苏政法机关要学习好贯彻好习近平总书记在党的二十届四中全会、中央经济工作会议上的重要讲话精神，学习好贯彻好习近平总书记关于全面依法治国的重要指示和中央全面依法治国工作会议精神，学习好贯彻好习近平总书记关于江苏工作的重要指示精神，牢记嘱托、感恩奋进，推动江苏政法工作在全国走在前、当表率。（新华社）]]></title>
-            <guid>4567802</guid>
-            <pubDate>Sat, 20 Dec 2025 12:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年度泉金“小三通”客运航线出入境旅客破10万】12月20日，随着搭载203名旅客的“八方”轮驶离福建泉州泉金“小三通”客运码头前往金门，至此，泉金“小三通”客运航线2025年度出入境旅客量正式突破10万人次。据统计，2025年泉金航线出入境旅客总量较去年同期增长近150%，其中台胞占比超五成，商务、探亲、寻根等两岸交流往来日益密切。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5975277.d.html</link>
-            <guid>4567801</guid>
-            <pubDate>Sat, 20 Dec 2025 12:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国特使访柬推动柬泰停火】据路透社12月20日报道，柬埔寨外交与国际合作部20日表示，中国外交部亚洲事务特使邓锡军本周访问金边，推动缓和柬埔寨与泰国两国边境的交火。 报道称，邓锡军此次访问正值美国和中国重启斡旋努力，推动柬泰两国停火之际。东盟将就此事于22日召开特别会议。 柬埔寨外交与国际合作部在一份声明中说，中方重申“将继续发挥建设性作用，推动柬埔寨同泰国开展对话，以期促进争端和平解决”。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcncic6479336.d.html</link>
-            <guid>4567800</guid>
-            <pubDate>Sat, 20 Dec 2025 12:11:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
