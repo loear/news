@@ -6,6 +6,138 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4571535,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7500754.d.html",
+            "title": "市场资讯：英国拟禁止活煮龙虾，动物福利标准再收紧。",
+            "date_modified": "2025-12-22T17:27:23.000Z"
+        },
+        {
+            "id": 4571533,
+            "content_html": "",
+            "title": "通用电气维诺瓦（GE Vernova）：交付工作将分阶段进行，总体目标是在2030年前完成。",
+            "date_modified": "2025-12-22T17:26:52.000Z"
+        },
+        {
+            "id": 4571532,
+            "content_html": "",
+            "title": "通用电气维诺瓦（GE Vernova）获得一份重大合同，将为阿达尼集团（Adani）在印度的2.5吉瓦输电走廊项目提供高压直流技术。",
+            "date_modified": "2025-12-22T17:26:19.000Z"
+        },
+        {
+            "id": 4571531,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctace1368807.d.html",
+            "title": "以色列总理内塔尼亚胡表示，以色列同意深化与希腊和塞浦路斯的安全合作。",
+            "date_modified": "2025-12-22T17:25:27.000Z"
+        },
+        {
+            "id": 4571530,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaw8901664.d.html",
+            "title": "巴西国家石油公司在火灾事故后恢复 P-68 平台生产。",
+            "date_modified": "2025-12-22T17:21:05.000Z"
+        },
+        {
+            "id": 4571529,
+            "content_html": "",
+            "title": "阿尔斯通将向希腊的希腊铁路公司供应23列科拉迪娅Stream型电动列车，并提供为期10年的相关维护服务。",
+            "date_modified": "2025-12-22T17:19:00.000Z"
+        },
+        {
+            "id": 4571528,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7500310.d.html",
+            "title": "美国民主党少数党领袖舒默就爱泼斯坦相关文件披露事宜，拟对特朗普政府提起诉讼。",
+            "date_modified": "2025-12-22T17:18:44.000Z"
+        },
+        {
+            "id": 4571524,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaw8900880.d.html",
+            "title": "阿尔斯通赢得希腊3.93亿欧元的列车供应合同。",
+            "date_modified": "2025-12-22T17:13:21.000Z"
+        },
+        {
+            "id": 4571522,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7499660.d.html",
+            "title": "【特朗普政府召回30名驻外使节推进“美国优先”政策，批评者称此举将削弱美国领导力】特朗普政府正召回近30名大使及其他资深职业外交官，旨在确保驻外使馆工作契合其“美国优先”政策的核心要务。批评人士指出，此举将削弱美国在全球的领导力。美国国务院拒绝提供此次被召回外交官的名单。一名国务院高级官员于周一表示，此举“在任何一届政府任内均属常规流程”，但批评者并不认同这一说法。这位匿名发言的官员称“大使是总统的个人代表，总统有权确保派驻各国的使节能够推动‘美国优先’的施政议程。”",
+            "date_modified": "2025-12-22T17:10:21.000Z"
+        },
+        {
+            "id": 4571521,
+            "content_html": "",
+            "title": "美国联邦航空管理局（FAA）拟对艾瑞航空有限责任公司处以 1570 万美元的罚款。",
+            "date_modified": "2025-12-22T17:09:03.000Z"
+        },
+        {
+            "id": 4571518,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7498226.d.html",
+            "title": "索洛品牌公司达成协议，未来5年将减少1000万美元的现金税款支付。",
+            "date_modified": "2025-12-22T16:56:55.000Z"
+        },
+        {
+            "id": 4571517,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7498202.d.html",
+            "title": "索洛品牌公司宣布进行公司架构简化，设立单一类别普通股并限制其税收应收协议。",
+            "date_modified": "2025-12-22T16:56:37.000Z"
+        },
+        {
+            "id": 4571515,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7498079.d.html",
+            "title": "斯派尔全球公司（SPIRE GLOBAL）股价延续涨势，最新涨幅达19.3%。",
+            "date_modified": "2025-12-22T16:55:36.000Z"
+        },
+        {
+            "id": 4571512,
+            "content_html": "",
+            "title": "谷歌预计，随着人工智能需求的攀升，2026 年前该公司将持续处于计算资源供不应求的紧张态势。",
+            "date_modified": "2025-12-22T16:48:44.000Z"
+        },
+        {
+            "id": 4571510,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctace1363251.d.html",
+            "title": "【美国加州强降雨和洪水已致1人死亡】当地时间12月22日，美国加州遭遇持续强降雨和严重洪水，已确认至少1人在加州北部雷丁市遇难。当地官员表示，事发时警方和消防部门正在开展水上救援行动，相关细节仍在进一步核实中。",
+            "date_modified": "2025-12-22T16:45:04.000Z"
+        },
+        {
+            "id": 4571509,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaz7496048.d.html",
+            "title": "美国实施新拦截行动后，委内瑞拉石油装载速度放缓，更多船只掉头返航。",
+            "date_modified": "2025-12-22T16:44:20.000Z"
+        },
+        {
+            "id": 4571508,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-23/detail-inhctaaw8896058.d.html",
+            "title": "华纳兄弟探索公司：探索全球任命阿德里安娜·奥哈拉为首席传播与公共事务官。",
+            "date_modified": "2025-12-22T16:41:41.000Z"
+        },
+        {
+            "id": 4571507,
+            "content_html": "",
+            "title": "加拿大帝国商业银行经济学家埃弗里・申菲尔德表示：展望 2026 年，加拿大消费者的消费态势预计将更为稳定。",
+            "date_modified": "2025-12-22T16:39:58.000Z"
+        },
+        {
+            "id": 4571506,
+            "content_html": "",
+            "title": "加拿大帝国商业银行：尽管 2025 年全年消费状况有所改善，但加拿大消费者的支出态度仍较为谨慎。",
+            "date_modified": "2025-12-22T16:39:28.000Z"
+        },
+        {
+            "id": 4571504,
+            "content_html": "",
+            "title": "加拿大帝国商业银行：2025 年初的不确定性消退后，加拿大消费者支出的表现好于预期。",
+            "date_modified": "2025-12-22T16:37:56.000Z"
+        },
+        {
             "id": 4571501,
             "content_html": "",
             "title": "美国以3.485%的高利率出售6个月期国库券，按最高利率分配的投标占比为44.33%。",
@@ -294,142 +426,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctacc5971987.d.html",
             "title": "巴西前总统博索纳罗之子爱德华多在法院调查期间两本巴西护照均被吊销。",
             "date_modified": "2025-12-22T15:38:59.000Z"
-        },
-        {
-            "id": 4571434,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctacc5971911.d.html",
-            "title": "波兰铜业集团（KGHM）表示，11月可交付铜产量为6.03万吨。",
-            "date_modified": "2025-12-22T15:38:25.000Z"
-        },
-        {
-            "id": 4571433,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaz7483055.d.html",
-            "title": "波兰铜业集团（KGHM）公布，11 月铜销售量达 6.21 万吨。",
-            "date_modified": "2025-12-22T15:38:09.000Z"
-        },
-        {
-            "id": 4571431,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctacc5971776.d.html",
-            "title": "派拉蒙天舞传媒股价延续涨势，最新涨幅达 7.2%。",
-            "date_modified": "2025-12-22T15:37:40.000Z"
-        },
-        {
-            "id": 4571429,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaw8884847.d.html",
-            "title": "【蓝色起源公司首次将乘坐轮椅者送入太空】蓝色起源公司(Blue Origin)将欧洲航天局工程师Michaela Benthaus送至太空边缘；这家由杰夫·贝索斯支持的公司为贝索斯（亚马逊（AMZN）创始人）私人持有。",
-            "date_modified": "2025-12-22T15:37:12.000Z"
-        },
-        {
-            "id": 4571428,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaw8884592.d.html",
-            "title": "【AAA预计假日美国出行人数创纪录】美国汽车协会（AAA）预计年底假期将有创纪录的1.224亿美国人出行，南加州高速公路和机场面临高峰拥堵和天气风险。",
-            "date_modified": "2025-12-22T15:35:38.000Z"
-        },
-        {
-            "id": 4571427,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctace1351191.d.html",
-            "title": "斯特兰蒂斯首席执行官称，欧盟修订后的燃油车规划对长期投资存在不确定性。",
-            "date_modified": "2025-12-22T15:35:29.000Z"
-        },
-        {
-            "id": 4571426,
-            "content_html": "",
-            "title": "《投资者商业日报(IBD)》：一些股票买入信号显现。该报指出Palantir（PLTR）、通用电气（GE）等股票进入买入区间，因市场反弹至关键移动平均线之上。",
-            "date_modified": "2025-12-22T15:34:43.000Z"
-        },
-        {
-            "id": 4571425,
-            "content_html": "",
-            "title": "俄外交部：外长拉夫罗夫与委内瑞拉外长通话，就美方在加勒比海地区的行动升级表达严重关切。",
-            "date_modified": "2025-12-22T15:34:07.000Z"
-        },
-        {
-            "id": 4571424,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaz7482140.d.html",
-            "title": "印度知名金融科技公司Paytm将在印度尼西亚、卢森堡设立分支机构。",
-            "date_modified": "2025-12-22T15:32:41.000Z"
-        },
-        {
-            "id": 4571422,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctace1350461.d.html",
-            "title": "厄瓜多尔法院判处另外5名士兵两年以上监禁。",
-            "date_modified": "2025-12-22T15:31:16.000Z"
-        },
-        {
-            "id": 4571421,
-            "content_html": "",
-            "title": "厄瓜多尔检察院通报，该国法院就瓜亚基尔四名儿童遭强迫失踪一案作出判决，17 名涉案军人中有 11 人被判处 34 年以上监禁。",
-            "date_modified": "2025-12-22T15:30:05.000Z"
-        },
-        {
-            "id": 4571420,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctace1350199.d.html",
-            "title": "美国以国家安全为由暂停发放海上风电许可证。",
-            "date_modified": "2025-12-22T15:29:24.000Z"
-        },
-        {
-            "id": 4571419,
-            "content_html": "",
-            "title": "美国知名激进投资机构特里安资本（Trian Fund Management）与全球头部风险投资公司通用催化剂（General Catalyst）联手达成74亿美元收购骏利亨德森协议。",
-            "date_modified": "2025-12-22T15:28:26.000Z"
-        },
-        {
-            "id": 4571417,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctace1349665.d.html",
-            "title": "【占边威士忌将于2026年暂停克莱尔蒙特蒸馏业务】三得利全球烈酒旗下的占边威士忌(Jim Beam)明年将在其位于肯塔基州的主要厂区暂停生产，原因在于关税不确定性及库存高企；其他业务仍正常运营（三得利饮料食品（东京证券交易所代码：2587））。",
-            "date_modified": "2025-12-22T15:26:24.000Z"
-        },
-        {
-            "id": 4571414,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaz7480911.d.html",
-            "title": "美国官员：特朗普今日下午4:30（北京时间5:30）将发表讲话，主题聚焦造船业。",
-            "date_modified": "2025-12-22T15:24:20.000Z"
-        },
-        {
-            "id": 4571413,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctacc5969513.d.html",
-            "title": "【壁仞科技获23名基石投资者认购3.725亿美元】壁仞科技于12月22日至12月29日招股，预计将于2026年1月2日上市，届时将成2026年首家港股上市公司，同时也是港股GPU第一股。壁仞科技此次招股采用18C招股机制，计划全球发售约2.48亿股H股，每股发售价在17港元至19.6港元之间。公司此次引入23名基石投资者，包括启明创投、平安人寿保险、上海景林、UBS、泰康人寿、神州数码、中和资本、南方基金等，合共认购3.725亿美元。",
-            "date_modified": "2025-12-22T15:23:09.000Z"
-        },
-        {
-            "id": 4571406,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaw8881328.d.html",
-            "title": "强生公司：欧盟委员会批准特诺雅用于治疗斑块状银屑病儿童患者。",
-            "date_modified": "2025-12-22T15:18:43.000Z"
-        },
-        {
-            "id": 4571405,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctace1347824.d.html",
-            "title": "【法国一实验室发生爆炸 已致4人受伤】当地时间12月22日，法国罗讷省里昂市附近的一间实验室发生爆炸，已造成4人受伤，其中2人重伤。消防员已在现场进行营救。有关部门在事发地周围设立了半径2公里的安全警戒范围，并已启动应急预案。有消息称，事故可能因氢气泄漏造成。",
-            "date_modified": "2025-12-22T15:17:57.000Z"
-        },
-        {
-            "id": 4571403,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaw8881111.d.html",
-            "title": "【中企承建塞内加尔公路改造项目开工】中企承建的达喀尔—比绍公路走廊相关路段改造提升项目开工仪式22日在塞内加尔南部塔纳夫市举行。塞内加尔总统法耶出席仪式并为项目奠基。",
-            "date_modified": "2025-12-22T15:17:24.000Z"
-        },
-        {
-            "id": 4571402,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-22/detail-inhctaaz7479353.d.html",
-            "title": "【土外长率团访叙 讨论经贸合作等议题】当地时间22日，土耳其外长费丹率领代表团访问叙利亚首都大马士革，会见叙利亚政权领导人沙拉。",
-            "date_modified": "2025-12-22T15:16:13.000Z"
         }
     ]
 }
