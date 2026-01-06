@@ -4,11 +4,68 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 06 Jan 2026 16:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 17:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据英国《金融时报》：根据乌克兰问题草案，美方将负责停火监督工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6766116.d.html</link>
+            <guid>4597063</guid>
+            <pubDate>Tue, 06 Jan 2026 17:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【峰会声明草案：美国将承诺在乌克兰未来再遭俄罗斯袭击时提供支持】据乌克兰主要盟友正在磋商的一份声明草案，美国总统唐纳德·特朗普政府将同意，未来俄罗斯如果袭击乌克兰，美国将向乌克兰提供支持。根据媒体看到的协议文本，该计划仍可能有变，且需要华盛顿的批准。计划包含具有约束力的安全保障，是乌克兰政府作为和平协议的一部分所紧迫寻求的，其中也包括美国提出的对欧洲牵头军事力量的支持。草案显示，欧洲和加拿大领导人周二在巴黎与特朗普特使会晤，推动一项计划，内容包括监督俄乌停火、支持基辅的军事力量，并组建一支多国部队以保障停火。草案指出：“这些要素将由欧洲牵头、美国参与，包括美国的情报和后勤等能力，以及美国承诺在部队遭受攻击时予以支援。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765906.d.html</link>
+            <guid>4597062</guid>
+            <pubDate>Tue, 06 Jan 2026 17:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非总统：“完全反对”美对委军事行动】南非总统拉马福萨6日表示，南非“完全反对”美国对委内瑞拉的军事行动，呼吁立即释放委内瑞拉总统马杜罗及其妻子。拉马福萨当天在约翰内斯堡索韦托区参加活动时说，美方行动严重侵犯委内瑞拉“主权和领土完整”，南非对此表示严重关切。拉马福萨说，南非始终支持《联合国宪章》和国际法，反对任何破坏主权国家独立和安全的行为。他呼吁联合国安理会切实履行维护国际和平与安全的职责，就当前局势采取果断行动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5254611.d.html</link>
+            <guid>4597061</guid>
+            <pubDate>Tue, 06 Jan 2026 17:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta聘请微软Mahoney为首席法务官。（Axios）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5254097.d.html</link>
+            <guid>4597057</guid>
+            <pubDate>Tue, 06 Jan 2026 17:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西门子与英伟达扩大合作，共同打造工业人工智能操作系统。英伟达将提供人工智能基础设施、模拟库、模型、框架和蓝图，西门子将投入工业人工智能专家、领先的硬件和软件。]]></title>
+            <guid>4597051</guid>
+            <pubDate>Tue, 06 Jan 2026 17:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石头科技演示爬楼梯扫地设备】扫地机器人生产商石头科技（Roborock）展示了一款名为Saros Rover的概念设备，这是一款配有两条“腿”、能够爬楼梯的家用扫地机器人。Saros Rover结合了人工智能（AI）、多种运动传感器和3D空间信息进行导航，其双腿可独立升降，从而实现跨越阶梯和在不平整地面行驶。该设备目前尚未确定上市日期。对于石头科技等公司而言，要实现家庭机器人的普及，仍需面临高昂价格、提升移动能力及电池续航等挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5253471.d.html</link>
+            <guid>4597050</guid>
+            <pubDate>Tue, 06 Jan 2026 17:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟消息人士：意大利将在周五举行的欧盟会议上投票支持与南方共同市场达成贸易协定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6764631.d.html</link>
+            <guid>4597048</guid>
+            <pubDate>Tue, 06 Jan 2026 17:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恩智浦半导体：宣布推出新的eIQ代理AI框架，新工具可在边缘设备上直接实现自主代理智能。]]></title>
+            <guid>4597046</guid>
+            <pubDate>Tue, 06 Jan 2026 17:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉要求美国法官承认无权审理马杜罗案】委内瑞拉公共检察官Tarek William Saab呼吁审理尼古拉斯·马杜罗及其妻子西莉亚·弗洛雷斯一案的美国法官承认“缺乏管辖权”。Saab在委内瑞拉官方电视台表示：“我呼吁该法官尊重国际法，并承认其法庭缺乏管辖权，无法审理像委内瑞拉这样国家的领导人——一位享有外交豁免权的国家元首。”Saab要求“立即释放”马杜罗和弗洛雷斯，并声称他们1月3日的被捕“无效”，违反了《世界人权宣言》和美国宪法。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6894539.d.html</link>
+            <guid>4597044</guid>
+            <pubDate>Tue, 06 Jan 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：壳牌公司签署协议，从雪佛龙旗下子公司收购安哥拉近海两个石油区块 35% 的股权。]]></title>
+            <guid>4597042</guid>
+            <pubDate>Tue, 06 Jan 2026 16:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【古巴委内瑞拉55名军人阵亡】据当地媒体1月6日援引古巴与委内瑞拉官方声明报道，美国1月3日对委内瑞拉发动军事侵略，古巴和委内瑞拉有55名军人阵亡。有统计显示其中古巴阵亡32人，委内瑞拉伤亡约在23至48人之间，总伤亡人数约为55至80人。1月6日，古巴媒体公布了阵亡32人的名单。（CCTV国际时讯）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6891239.d.html</link>
@@ -142,12 +199,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886348.d.html</link>
             <guid>4597004</guid>
             <pubDate>Tue, 06 Jan 2026 16:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 也门亚丁市马西克宫总统府附近传出枪声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886063.d.html</link>
-            <guid>4597003</guid>
-            <pubDate>Tue, 06 Jan 2026 16:12:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AMD首席执行官苏姿丰： 人工智能的潜力挖掘尚处于初期阶段。]]></title>
@@ -337,55 +388,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6878351.d.html</link>
             <guid>4596941</guid>
             <pubDate>Tue, 06 Jan 2026 15:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：将加快武器生产速度。制造武器耗时太长。将要求国防承包商加快建设速度。武器和飞机的生产速度将大幅提升。]]></title>
-            <guid>4596940</guid>
-            <pubDate>Tue, 06 Jan 2026 15:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在2026年国际消费类电子产品展览会(CES)首日，英伟达（NVDA）和AMD（AMD）公布了新款人工智能硬件，优步（UBER）展示了由Nuro与Lucid（LCID）合作打造的自动驾驶出租车，乐高则首次推出搭载传感器的“智能积木”，一系列新品发布为展会定下基调。]]></title>
-            <guid>4596938</guid>
-            <pubDate>Tue, 06 Jan 2026 15:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美考虑为石油公司报销重建委内瑞拉石油基础设施的费用】美国总统特朗普表示，美国可能向埃克森美孚（XOM）、雪佛龙（CVX）和康菲石油（COP）等石油公司报销其修复委内瑞拉基础设施的费用，与此同时官员们正计划与业界举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5366871.d.html</link>
-            <guid>4596934</guid>
-            <pubDate>Tue, 06 Jan 2026 15:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据GLOBO：医生称博索纳罗头部受轻伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8146559.d.html</link>
-            <guid>4596933</guid>
-            <pubDate>Tue, 06 Jan 2026 15:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：AI初创公司Lmarena 完成 1.5 亿美元融资，估值达 17 亿美元。]]></title>
-            <guid>4596920</guid>
-            <pubDate>Tue, 06 Jan 2026 15:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国批准部分涉俄政府交易，有效期至 4 月 9 日。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwse5677914.d.html</link>
-            <guid>4596911</guid>
-            <pubDate>Tue, 06 Jan 2026 15:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美国总统特朗普： 我不在乎那几个我不待见的共和党人在不在场，我压根不在乎。两天前我们过得非常顺利。我们的总统任期很成功。]]></title>
-            <guid>4596910</guid>
-            <pubDate>Tue, 06 Jan 2026 15:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普： 将于今年赢得一场 “史诗级” 的中期选举胜利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6876169.d.html</link>
-            <guid>4596908</guid>
-            <pubDate>Tue, 06 Jan 2026 15:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  官方数据显示，截至 1 月 4 日，欧盟 2025/26 年度油菜籽进口量为 185 万吨，上年同期为 323 万吨。]]></title>
-            <guid>4596904</guid>
-            <pubDate>Tue, 06 Jan 2026 15:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
