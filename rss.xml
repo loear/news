@@ -4,16 +4,329 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Mon, 12 Jan 2026 06:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 07:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【两市成交额突破3.46万亿 刷新纪录】沪深两市成交额突破3.46万亿元，刷新此前在2024年10月8日创下的34549.33亿元的成交额历史纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4691128.d.html</link>
-            <guid>4607743</guid>
-            <pubDate>Mon, 12 Jan 2026 06:51:25 GMT</pubDate>
+            <title><![CDATA[【浩瀚深度：发行3.54亿元可转债，8575万元收购云边云54%表决权】浩瀚深度公告称，经证监会同意，公司向不特定对象发行3.54亿元可转换公司债券，期限6年，实际募资净额3.46亿元。初始转股价格为24.38元/股。此外，公司以8330万元收购云边云34%股权，全资子公司合肥浩瀚以245万元收购员工持股平台各5%财产份额，对应云边云各0.5%股权，取得20%表决权，合计控制54%表决权并获控制权。交易总价8575万元，分三期现金支付。2026年1月7日，公司董事会审议通过该议案，协议已签署。]]></title>
+            <guid>4607838</guid>
+            <pubDate>Mon, 12 Jan 2026 07:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【合富中国：2025年1-12月合并营业收入同比下降26.67%】合富中国公告称，公司2025年1-12月合并营业收入为6.89亿元，较去年同期下降26.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukt9955748.d.html</link>
+            <guid>4607837</guid>
+            <pubDate>Mon, 12 Jan 2026 07:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国开行发行181天期债券，规模20亿元，发行利率1.4829%，预期1.5000%，投标倍数3.40倍，边际倍数1.00倍；国开行发行3年期债券，规模40亿元，发行利率1.6912%，预期1.7000%，投标倍数3.73倍，边际倍数2.23倍。]]></title>
+            <guid>4607835</guid>
+            <pubDate>Mon, 12 Jan 2026 07:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[默茨谈伊朗：暴力必须停止，这是软弱而非强大的表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6810405.d.html</link>
+            <guid>4607833</guid>
+            <pubDate>Mon, 12 Jan 2026 07:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国制定今年出口160亿美元食品及农产品目标】韩国农林畜产食品部周一表示，韩国的目标是今年出口价值160亿美元的食品和农业相关产品。这一目标如果实现，将比2025年的136.2亿美元增长17.5%，再次创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8321511.d.html</link>
+            <guid>4607832</guid>
+            <pubDate>Mon, 12 Jan 2026 07:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长：政府已与抗议者展开对话 局势目前完全得到控制】伊朗外交部长阿拉格齐当地时间12日表示，近期发生在伊朗的抗议活动是和平的，伊朗政府也立即与商户及有关各方展开对话。伊朗政府已采取一系列行动、措施和改革，以回应这些和平示威者的诉求。阿拉格齐称，有武装恐怖组织混入抗议人群，试图将抗议活动引离原本的正当轨道。阿拉格齐还称，已掌握了伊朗安全部队遭枪击的证据，这些袭击的目的是制造更多伤亡。他说，美国总统特朗普有关伊朗局势的表态是对伊朗内政的干涉。阿拉格齐还表示，伊朗政府正密切关注街头正在发生的事态，“局势目前已完全得到控制”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6809464.d.html</link>
+            <guid>4607829</guid>
+            <pubDate>Mon, 12 Jan 2026 07:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：2025年全球智能手机出货量增长2%，苹果市占率20%位居第一】市场研究机构Counterpoint Research周一表示，受新兴市场需求强劲和经济增长势头的提振，2025年全球智能手机出货量同比增长2%。得益于新兴市场和中型市场的稳健需求，以及iPhone 17系列的强劲销售，苹果以20%的市场份额领先市场。三星以19%的市场份额排名第二，小米以13%位列第三。Counterpoint表示，由于芯片制造商优先考虑人工智能数据中心而不是手机需求，在芯片短缺和零部件成本上升的情况下，2026年全球智能手机市场预计将走软。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukv4593536.d.html</link>
+            <guid>4607827</guid>
+            <pubDate>Mon, 12 Jan 2026 07:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长说伊朗安全部队已控制全国局势】伊朗外长阿拉格齐12日表示，伊朗安全部队已控制全国局势，以色列和美国应对伊朗发生的事件承担“直接责任”。 （新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8319403.d.html</link>
+            <guid>4607824</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部长：与欧盟的贸易协定已进入“最后”阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6808037.d.html</link>
+            <guid>4607823</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默茨：必须紧急完成欧盟和印度自由贸易协定的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8319178.d.html</link>
+            <guid>4607822</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三一集团等在广东成立智能技术公司 注册资本5000万】天眼查工商信息显示，近日，广东华胥智能技术有限公司成立，法定代表人为陈立军，注册资本5000万人民币，经营范围含计算机系统服务、信息系统运行维护服务、人工智能行业应用系统集成服务、信息系统集成服务、工程和技术研究和试验发展等。股东信息显示，该公司由三一集团旗下广东华胥私募基金管理有限公司、YUNG ROBERT分别持股95%、5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6807947.d.html</link>
+            <guid>4607821</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易部长：我们正在与美国就双边贸易协定进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6807667.d.html</link>
+            <guid>4607820</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[默茨：我们希望与印度加强安全合作，以便让印度减少对俄罗斯的依赖。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8318832.d.html</link>
+            <guid>4607819</guid>
+            <pubDate>Mon, 12 Jan 2026 07:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默茨：我们正目睹保护主义的复兴，这对德国和印度都造成了损害。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8317448.d.html</link>
+            <guid>4607817</guid>
+            <pubDate>Mon, 12 Jan 2026 07:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪对尤尼珀（Uniper）的液氨交易表示欢迎，称其有助于供应链的稳定可靠。]]></title>
+            <guid>4607816</guid>
+            <pubDate>Mon, 12 Jan 2026 07:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国与印度签署加强防务合作协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6805430.d.html</link>
+            <guid>4607813</guid>
+            <pubDate>Mon, 12 Jan 2026 07:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰农业部称，截至目前，2025年粮食收成达5880万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8316159.d.html</link>
+            <guid>4607812</guid>
+            <pubDate>Mon, 12 Jan 2026 07:24:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美光：存储短缺或将持续至2028年】美光半导体移动和客户端业务部门营销副总裁Christopher Moore表示，鉴于晶圆厂扩建和认证流程的复杂性，目前存储短缺的局面不太可能在2028年之前得到缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukt9946112.d.html</link>
+            <guid>4607811</guid>
+            <pubDate>Mon, 12 Jan 2026 07:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：待安全恢复后，将恢复互联网。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukv4588320.d.html</link>
+            <guid>4607810</guid>
+            <pubDate>Mon, 12 Jan 2026 07:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年起企业抵税项目有所扩大】增值税法及其实施条例从今年起正式施行，其中一大变化是企业抵税项目有所扩大。 增值税应纳税额的一般计税方法是销项税额抵扣进项税额，因此允许抵扣的进项税额越多，企业缴纳的增值税就越少。 2026年之前，增值税相关法规明确，纳税人购进的餐饮服务、居民日常服务和娱乐服务的进项税额，不得从销项税额中抵扣。 今年起施行的增值税法第二十二条对此作出调整，即纳税人购进并直接用于消费的餐饮服务、居民日常服务和娱乐服务对应的进项税额，不得从销项税额中抵扣。 与此前法规相比，多了“直接用于消费”这一表述。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukp8314650.d.html</link>
+            <guid>4607808</guid>
+            <pubDate>Mon, 12 Jan 2026 07:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：安全部队已完全控制伊朗全境。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6802681.d.html</link>
+            <guid>4607805</guid>
+            <pubDate>Mon, 12 Jan 2026 07:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富士康在郑州成立伸翼电子科技公司 注册资本4850万】天眼查工商信息显示，近日，伸翼电子科技（郑州）有限公司成立，法定代表人为萧世伟，注册资本4850万人民币，经营范围含电子测量仪器销售、试验机销售、电子专用设备销售、新材料技术研发、电子专用材料销售、电子专用材料研发、模具销售、信息技术咨询服务等。股东信息显示，该公司由富士康旗下富顶精密组件（深圳）有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukt9942064.d.html</link>
+            <guid>4607804</guid>
+            <pubDate>Mon, 12 Jan 2026 07:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证转债指数收涨1.37%】1月12日，中证转债指数收涨1.37%，报520.82点。其中，嘉美转债涨20%，超达转债涨14.12%，天箭转债涨13.56%；天源转债跌5.59%，华锐转债跌4.58%，声讯转债跌2.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukt9941325.d.html</link>
+            <guid>4607803</guid>
+            <pubDate>Mon, 12 Jan 2026 07:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能量奇点研制出20特斯拉纯导冷结构高温超导磁体】1月12日，据能量奇点消息，能量奇点自主研制的纯导冷结构高温超导磁体成功励磁至20.8特斯拉，经150分钟稳定运行后安全退磁。该磁体由20个单饼组成，外直径120mm，单饼绕制直径30mm，为无绝缘结构，采用纯导冷方式运行。该磁体运行的初始温度为10K，在整个励磁过程中温升始终控制在5K以内。该磁体及相关技术将应用于能量奇点自主研制的商用级材料性能测量平台，包括综合物性测量系统、临界电流高场角度依赖性测量系统等。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6800566.d.html</link>
+            <guid>4607801</guid>
+            <pubDate>Mon, 12 Jan 2026 07:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南空港口岸2025年进出境人员264.4万人次 同比增长27.2%】据海口海关统计，2025年海口海关共监管海南空港口岸进出境人员264.4万人次，同比增长27.2%；监管进出境飞机17907架次，同比增长17.4%。2025年，全岛航空口岸累计运营国际及地区客运航线92条，新增国际及地区航线37条，包括全国首条投入运营的第七航权“三亚—布拉格”航线、2条第五航权客运航线，以及4条开通国际航班国内段客运业务的国际航线等，航线网络覆盖东北亚、东南亚、欧洲、大洋洲等核心区域，进一步织密海南自贸港联通世界的“空中桥梁”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukr6800021.d.html</link>
+            <guid>4607799</guid>
+            <pubDate>Mon, 12 Jan 2026 07:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荣耀手机将与泡泡玛特进行IP联名合作】记者获悉，荣耀手机近期将与泡泡玛特进行IP联名合作。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzukv4582713.d.html</link>
+            <guid>4607798</guid>
+            <pubDate>Mon, 12 Jan 2026 07:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长指责特朗普干涉伊朗内政】伊朗外长阿拉格齐12日在德黑兰举行的记者会上表示，美国总统特朗普有关伊朗局势的表态是对伊朗内政的干涉，伊朗国内抗议活动“变得暴力和血腥，为特朗普干预提供了借口”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8440824.d.html</link>
+            <guid>4607795</guid>
+            <pubDate>Mon, 12 Jan 2026 07:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非主要股指涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6929273.d.html</link>
+            <guid>4607794</guid>
+            <pubDate>Mon, 12 Jan 2026 07:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄联邦安全局称挫败一起针对铁路桥的袭击图谋】当地时间1月12日，俄罗斯联邦安全局通报称，其挫败了一起由乌克兰方面策划的针对俄罗斯彼尔姆边疆区铁路桥的袭击图谋。俄罗斯联邦安全局还通报称，一名受欺诈分子指使的俄罗斯公民因涉嫌准备实施该恐怖袭击而被捕。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8440322.d.html</link>
+            <guid>4607793</guid>
+            <pubDate>Mon, 12 Jan 2026 07:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国内乱特检组要求对前行政安全部长判处15年有期徒刑】韩国内乱特检组1月12日要求对涉嫌在2024年12月3日紧急戒严期间指示对部分媒体断水断电的前行政安全部长官李祥敏判处15年有期徒刑。去年7月28日，韩国内乱特检组以涉嫌参与执行内乱重大任务、滥用职权妨害权利行使、作伪证等为由提请法院批捕李祥敏。特检组认为，李祥敏协助前总统尹锡悦宣布紧急戒严，滥用职权指示警察厅和消防厅切断部分媒体办公楼的水电供应，侵犯媒体自由并侵害国民生命安全，这些行为属于“扰乱国家宪政秩序”的行为。李祥敏还涉嫌在出席宪法法院对尹锡悦的弹劾案庭审时作伪证。8月1日凌晨，首尔中央地方法院以“担心毁灭证据”为由，对李祥敏签发了拘捕令，李祥敏被直接收押。李祥敏也是继前国防部长官金龙显之后，因紧急戒严事件而被拘留的尹锡悦政府的第二位国务委员。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4710893.d.html</link>
+            <guid>4607791</guid>
+            <pubDate>Mon, 12 Jan 2026 07:14:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度与德国进行密切合作以搭建可靠、安全的供应链。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4710322.d.html</link>
+            <guid>4607790</guid>
+            <pubDate>Mon, 12 Jan 2026 07:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百亿单品茅台1935或执行新价格体系 打款价零售价均下调】记者从渠道人士处获悉，茅台1935或将执行新价格，打款价与零售价预计均将下调。其中，打款价或从798元/瓶下调至668元/瓶；此前茅台1935建议零售价分别为1188元/瓶；目前i茅台上其售价738元/瓶。经销商打款价下调后，按最新零售价算，茅台1935预计仍有接近10%的毛利空间。2025年茅台1935销售额超过100亿元，是茅台酱香系列酒的核心单品。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4709944.d.html</link>
+            <guid>4607789</guid>
+            <pubDate>Mon, 12 Jan 2026 07:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【共和党籍参议员保罗再批特朗普：对格陵兰岛进行武力恫吓只会适得其反】据美国广播公司报道，共和党籍参议员兰德·保罗当地时间1月11日在该媒体节目上说，特朗普对格陵兰岛的“贬低性”武力恫吓只会适得其反，这让部分共和党人和格陵兰岛居民对其产生反感。“假设你想购买格陵兰岛，我不否认这或许是我们可能想要的东西，”保罗在节目上说，“要想实现这一目标，绝不能采用激怒或贬低居住在那里的民众、宣称‘如果不把岛卖给我们，我们就将派遣海军陆战队强行占领它’这种做法。这只会令他们更不愿意将土地卖给我们。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4706514.d.html</link>
+            <guid>4607787</guid>
+            <pubDate>Mon, 12 Jan 2026 07:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[政府数据显示，印度4月至12月期间钢铁出口量增长了三分之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0063561.d.html</link>
+            <guid>4607786</guid>
+            <pubDate>Mon, 12 Jan 2026 07:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行（RBC）将美国运通目标价从390美元上调至425美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8435120.d.html</link>
+            <guid>4607785</guid>
+            <pubDate>Mon, 12 Jan 2026 07:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：我们掌握了大量外国势力介入的证据。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8434898.d.html</link>
+            <guid>4607784</guid>
+            <pubDate>Mon, 12 Jan 2026 07:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪授予印尼美元债券Baa2评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6923043.d.html</link>
+            <guid>4607780</guid>
+            <pubDate>Mon, 12 Jan 2026 07:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：抗议活动已得到控制。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0062267.d.html</link>
+            <guid>4607779</guid>
+            <pubDate>Mon, 12 Jan 2026 07:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【喜力首席执行官将于5月31日卸任】喜力1月12日宣布，首席执行官兼执行董事会主席Dolf van den Brink已通知监事会，他将于2026年5月31日卸任，另外同意自6月1日起以顾问身份继续为公司服务8个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0060282.d.html</link>
+            <guid>4607777</guid>
+            <pubDate>Mon, 12 Jan 2026 07:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：自从特朗普提及干预，抗议活动变得血腥起来，这是为干预找借口。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8430233.d.html</link>
+            <guid>4607773</guid>
+            <pubDate>Mon, 12 Jan 2026 07:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：局势现已完全受控。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8429490.d.html</link>
+            <guid>4607771</guid>
+            <pubDate>Mon, 12 Jan 2026 07:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚吉隆坡一大学食堂发生爆炸 有学生受伤】当地时间12日，马来西亚吉隆坡一所私立大学的食堂发生爆炸。爆炸造成数名学生受伤，伤者已被送医救治。目前当地消防局正在现场施救，校方已停课并疏散学生。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4698187.d.html</link>
+            <guid>4607770</guid>
+            <pubDate>Mon, 12 Jan 2026 07:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[喜力首席执行官DOLF VAN DEN BRINK将于5月31日卸任。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8428998.d.html</link>
+            <guid>4607769</guid>
+            <pubDate>Mon, 12 Jan 2026 07:02:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国牵头的滑动轴承国际标准正式发布】记者今天了解到，国际标准化组织（ISO）正式发布《滑动轴承 轴承材料摩擦学特性试验 第1部分：轴承合金材料试验》国际标准。该标准由我国牵头，日本、德国、英国、法国、奥地利等7国专家共同参与制定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8427763.d.html</link>
+            <guid>4607766</guid>
+            <pubDate>Mon, 12 Jan 2026 07:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部长阿拉格齐：上周末暴力事件激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8426721.d.html</link>
+            <guid>4607760</guid>
+            <pubDate>Mon, 12 Jan 2026 06:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【脑机海河实验室：脑机接口在医疗健康、消费电子、军事航天等领域均展现巨大应用前景】脑机交互与人机共融海河实验室主任、天津大学副校长明东表示，脑机接口在医疗健康、消费电子、军事航天等多个领域均展现出巨大的应用前景和市场潜力。脑机接口一旦实现产业化以及规模化应用，必将为人类生产生活方式带来颠覆性变革，其发展必将成为影响未来世界经济周期的重要变量之一，也是影响未来世界经济格局的一大重要因素。因此，突破脑机接口技术封锁，发展自主可控的脑机接口关键技术与核心元器件事关我国新型工业化发展和国家经济安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6914875.d.html</link>
+            <guid>4607758</guid>
+            <pubDate>Mon, 12 Jan 2026 06:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【漳州发展在新疆成立新能源公司，含生物质能技术业务】企查查APP显示，近日，漳发新能源（新疆）有限公司成立，注册资本1000万元，经营范围包含：电气设备销售；节能管理服务；电力行业高效节能技术研发；生物质能技术服务等。企查查股权穿透显示，该公司由漳州发展全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4694187.d.html</link>
+            <guid>4607757</guid>
+            <pubDate>Mon, 12 Jan 2026 06:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰前司法部长：决定接受匈牙利政府给予的庇护。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8425177.d.html</link>
+            <guid>4607754</guid>
+            <pubDate>Mon, 12 Jan 2026 06:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【脑机海河实验室：在航空航天领域开发五代空间站在轨脑机交互系统，完成人类首次“太空脑机接口实验”】日前，由工业和信息化部主管、中国电子信息产业发展研究院主办期刊《新型工业化》刊发脑机交互与人机共融海河实验室主任、天津大学副校长明东署名文章《打通技术链 补全人才链 促进脑机接口科技成果转化应用》。明东提到，天津大学脑机交互与人机共融海河实验室团队聚焦无创脑机接口领域，持续推动科技创新与产业化落地。目前，已形成从高性能的器件、芯片、算法、平台，到系统集成和关键底座与应用集于一体的全链条布局。在临床应用领域，天津大学研制的“神工”脑机交互创新医疗器械全谱系产品相继问世，逐步覆盖脑卒中康复、脊髓损伤运动辅助、抑郁诊疗、听觉障碍诊疗等临床场景应用。在航空航天领域，设计开发五代空间站在轨脑机交互系统，完成人类首次“太空脑机接口实验”，并相继在后续多次载人飞行任务中取得重要应用，服务于航天员功能状态与情绪状态等精准检测，实现了航天员的效能增强，为我国载人航天工程的新一代医学与人因保障系统提供关键技术支撑。]]></title>
+            <guid>4607753</guid>
+            <pubDate>Mon, 12 Jan 2026 06:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【曝强脑科技秘密提交港股IPO申请，公司暂无回应】据外媒报道，浙江强脑科技有限公司（BrainCo）已秘密提交香港IPO申请，有望成为中国“杭州六巨头”（杭州六大新兴科技公司）中首家上市的企业。不过，截止目前强脑科技方面并未回应此事。公开资料显示，浙江强脑科技有限公司简称强脑科技，最早于2016年完成天使轮和Pre-A轮融资，并在2019年完成4亿美元A轮融资。2025年，公司又先后从道氏技术和三七互娱完成3000万美元Pre-B轮以及2000万美元B轮融资。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0050562.d.html</link>
+            <guid>4607751</guid>
+            <pubDate>Mon, 12 Jan 2026 06:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【脑机海河实验室：在航空航天领域开发五代空间站在轨脑机交互系统，完成人类首次“太空脑机接口实验”】日前，由工业和信息化部主管、中国电子信息产业发展研究院主办期刊《新型工业化》刊发脑机交互与人机共融海河实验室主任、天津大学副校长明东署名文章《打通技术链 补全人才链 促进脑机接口科技成果转化应用》。明东提到，天津大学脑机交互与人机共融海河实验室团队聚焦无创脑机接口领域，持续推动科技创新与产业化落地。目前，已形成从高性能的器件、芯片、算法、平台，到系统集成和关键底座与应用集于一体的全链条布局。在临床应用领域，天津大学研制的“神工”脑机交互创新医疗器械全谱系产品相继问世，逐步覆盖脑卒中康复、脊髓损伤运动辅助、抑郁诊疗、听觉障碍诊疗等临床场景应用。在航空航天领域，设计开发五代空间站在轨脑机交互系统，完成人类首次“太空脑机接口实验”，并相继在后续多次载人飞行任务中取得重要应用，服务于航天员功能状态与情绪状态等精准检测，实现了航天员的效能增强，为我国载人航天工程的新一代医学与人因保障系统提供关键技术支撑。]]></title>
+            <guid>4607750</guid>
+            <pubDate>Mon, 12 Jan 2026 06:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天娱传媒变更法定代表人】天眼查工商信息显示，近日，上海天娱传媒有限公司发生工商变更，申亚东卸任法定代表人，由唐藩接任。该公司成立于2004年5月，注册资本9000万人民币，经营范围包括演出活动策划、商务咨询、经营演出及经纪业务等。股东信息显示，该公司由芒果超媒（300413）全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6913227.d.html</link>
+            <guid>4607747</guid>
+            <pubDate>Mon, 12 Jan 2026 06:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抖音科技内容需求激增 AI兴趣用户增长翻倍】抖音发布的《2025抖音科技内容生态报告》显示，过去一年，用户对科技内容的需求明显增长，抖音科技内容全年观看量超 1.4 万亿次，相当于每位进入抖音的用户每天观看6次以上科技内容。其中，AI受到格外关注。2025年抖音上AI 学习类内容观看量增长 200% ，平台 AI 兴趣用户数同比增长 105%。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4691958.d.html</link>
+            <guid>4607746</guid>
+            <pubDate>Mon, 12 Jan 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国官方确认歼10CE战果：一举击落多架战机 自己无一损失】国家国防科技工业局新闻宣传办公室近日正式对外发布2025年度国防科技工业十大新闻，其中一则新闻是《歼10CE首次取得实战战果引发全球关注》。文中提到，5月中旬，我国外销型战机歼10CE首次取得了实战战果，在空战中一举击落多架战机，自己无一损失。歼10CE战斗机是由我国自主研制的全天候、单发单座、多用途战斗机。 (中国军工)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8423880.d.html</link>
+            <guid>4607745</guid>
+            <pubDate>Mon, 12 Jan 2026 06:52:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【航班管家：2025年支线机场客运起降约92.1万架次，同比增长2.4%】根据航班管家DAST数据，2025年支线机场客运起降约92.1万架次，同比2024年增长2.4%，从月趋势看4、5月份同比增长率在5%以上，7月份及之后月份的增长率皆在年平均水平之下；航班执行率87.3%，比民航整体执行率高约1.0个百分点，比2024年低约0.2个百分点；客运起降架次占境内机场总量的8.8%，与2024年持平。]]></title>
@@ -47,295 +360,6 @@
             <title><![CDATA[美国驻印度大使：印度将于下月获邀加入“硅盟”（Pax Silica）成为正式成员。]]></title>
             <guid>4607732</guid>
             <pubDate>Mon, 12 Jan 2026 06:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国成立军警特别工作组调查无人机事件】据韩联社报道，韩国12日成立军警联合调查特别工作组，以查明日前发生的无人机事件真相。韩国警察厅国家调查本部当天向媒体通报说，针对此次无人机事件，已组建一个规模约30人的特别工作组，并展开调查。特别工作组由警方约20人和军方约10人组成，安保调查局局长任组长。国家调查本部还表示，特别工作组将迅速展开调查，明确查清事件真相。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8421113.d.html</link>
-            <guid>4607731</guid>
-            <pubDate>Mon, 12 Jan 2026 06:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ETF两市成交额超4000亿元】截至目前，ETF两市成交额超4000亿元，报4005.54亿元，分类型来看，股票型ETF成交额1818亿元，债券型ETF成交额1012.97亿元，货币型ETF成交额235.74亿元，商品型ETF成交额99.60亿元，QDII型ETF成交额445.70亿元。其中，成交额最高的非货币型ETF分别是易方达中证香港证券投资主题(港股通)ETF（513090）、国泰中证a500ETF（159338）、南方中证a500ETF（159352），成交额分别为139.17亿元、80.16亿元、78.33亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8420937.d.html</link>
-            <guid>4607729</guid>
-            <pubDate>Mon, 12 Jan 2026 06:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源投资集团在内蒙古成立焦煤公司】企查查APP显示，近日，国能焦煤（内蒙古）有限公司成立，注册资本1亿元，经营范围包含：煤炭及制品销售；金属矿石销售；金属材料销售；化工产品销售（不含许可类化工产品）等。企查查股权穿透显示，该公司由国家能源投资集团有限责任公司间接全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8420883.d.html</link>
-            <guid>4607728</guid>
-            <pubDate>Mon, 12 Jan 2026 06:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年私募业绩亮眼 平均收益率超25%】2025年境内私募证券投资产品交出亮眼成绩单。私募排排网最新统计数据显示，全市场有业绩记录的9934只私募证券产品中，8915只产品实现正收益，正收益占比达89.74%；产品整体平均收益率达25.68%，收益中位数亦录得18.78%，展现出优异的整体盈利水平。各策略均展现出独特的竞争力。股票策略以绝对优势成为收益冠军，该策略下6298只产品中有5680只取得正收益，正收益占比90.19%，平均收益率高达29.99%，体现了股票市场在2025年的良好投资机遇。在股票策略各子策略中，量化多头表现尤为亮眼，1360只产品的正收益占比高达95.81%，平均收益率39.51%。主观多头表现仅次于量化多头，有业绩记录的4361只主观多头产品，平均收益率29.51%。股票多空和股票市场中性策略则因为有加入对冲，收益表现不及主观和量化多头抢眼，平均收益率分别为17.53%和9.64%。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4687363.d.html</link>
-            <guid>4607727</guid>
-            <pubDate>Mon, 12 Jan 2026 06:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商证券：预计25H2绝大多数餐饮头部品牌将实现客流量回正】浙商证券发布研报称，本轮自2023年初以来的餐饮行业复苏，其幅度由需求决定，节奏由供给决定。头部茶饮品牌已于25Q1逐步回暖，预计头部西式快餐/头部正餐分别已于25Q2/25Q3实现同店持平或回正。客流量方面，伴随同比基数正常化，预计25H2绝大多数餐饮头部品牌将实现客流量回正。客单价方面，伴随格局改善，更多头部品牌客单价正企稳或回升。餐饮茶饮是服务消费复苏中的首选。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6909483.d.html</link>
-            <guid>4607726</guid>
-            <pubDate>Mon, 12 Jan 2026 06:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻印度大使：周二将进行下一轮贸易通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4687075.d.html</link>
-            <guid>4607724</guid>
-            <pubDate>Mon, 12 Jan 2026 06:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻印度大使：双方在贸易问题上继续积极接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8420377.d.html</link>
-            <guid>4607723</guid>
-            <pubDate>Mon, 12 Jan 2026 06:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻印度大使：真正的朋友可以有分歧，但最终会化解分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8420348.d.html</link>
-            <guid>4607722</guid>
-            <pubDate>Mon, 12 Jan 2026 06:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦经济部：2025年该国国内生产总值（GDP）增长6.5%，2024年为增长5.0%。]]></title>
-            <guid>4607721</guid>
-            <pubDate>Mon, 12 Jan 2026 06:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻印度大使Sergio Gor： 希望特朗普能在一两年内访问印度。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0044107.d.html</link>
-            <guid>4607720</guid>
-            <pubDate>Mon, 12 Jan 2026 06:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国石化在东营成立石油化工公司 注册资本1000万】天眼查工商信息显示，近日，中石化胜利（东营）石油化工有限公司成立，法定代表人为崔国居，注册资本1000万人民币，经营范围含润滑油销售、石油制品制造、石油制品销售、化工产品生产、化工产品销售、仪器仪表修理、计量技术服务等。股东信息显示，该公司由中国石化（600028）全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8418383.d.html</link>
-            <guid>4607716</guid>
-            <pubDate>Mon, 12 Jan 2026 06:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里健康涨超9% 与北京梅尔森医药达成战略合作】1月12日，阿里健康午后继续走高，涨超9%，报6.33港元/股。消息面上，据阿里健康官微消息，1月8日，阿里健康与北京梅尔森医药技术开发有限公司达成战略合作，共同宣布将在儿童专科创新药领域展开深度合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8417823.d.html</link>
-            <guid>4607713</guid>
-            <pubDate>Mon, 12 Jan 2026 06:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两融新开账户创近十年新高】数据显示，2025年全年新开两融账户达154.21万户，如何看待这一数字？154.21万户创下近十年以来的最高纪录，较2024年增加了53.36万户，增幅超52%，较2018年的阶段性低点40.34万户增长近3.8倍。2025年末两融账户总数突破1564万户，较2024年末实现跨越式增长。截至2025年末，全市场融资余额从2024年末的1.85万亿元升至2.52万亿元，增幅超36%，投资者参与两融业务的热情高涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8417491.d.html</link>
-            <guid>4607711</guid>
-            <pubDate>Mon, 12 Jan 2026 06:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东阳光、光大金控在韶关成立股权投资公司 注册资本2.11亿】天眼查工商信息显示，近日，韶关新耀股权投资有限公司成立，法定代表人为喻梦旸，注册资本2.11亿人民币，经营范围为以自有资金从事投资活动、自有资金投资的资产管理服务。股东信息显示，该公司由东阳光（600673）、光大金控资产管理有限公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6906227.d.html</link>
-            <guid>4607710</guid>
-            <pubDate>Mon, 12 Jan 2026 06:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台达电12月销售额536.9亿元台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4682078.d.html</link>
-            <guid>4607708</guid>
-            <pubDate>Mon, 12 Jan 2026 06:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股脑机接口概念走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。]]></title>
-            <guid>4607706</guid>
-            <pubDate>Mon, 12 Jan 2026 06:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国综指收涨0.83%】韩国综指收涨0.83%，报4624.57点。日本股市休市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6904038.d.html</link>
-            <guid>4607704</guid>
-            <pubDate>Mon, 12 Jan 2026 06:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿提哈德航空公司12月运送旅客220万人次，同比增长28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8414341.d.html</link>
-            <guid>4607701</guid>
-            <pubDate>Mon, 12 Jan 2026 06:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AmSpec：马来西亚1月1 - 10日棕榈油出口量为466,457吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6902699.d.html</link>
-            <guid>4607699</guid>
-            <pubDate>Mon, 12 Jan 2026 06:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AmSpec：马来西亚1月1 - 10日棕榈油出口量环比增长18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6902641.d.html</link>
-            <guid>4607698</guid>
-            <pubDate>Mon, 12 Jan 2026 06:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建信投资、上汽等在上海成立创业投资合伙企业 出资额27.5亿】天眼查工商信息显示，近日，上海孚展创业投资合伙企业（有限合伙）成立，执行事务合伙人为上海孚腾私募基金管理有限公司，出资额27.5亿人民币，经营范围为创业投资。合伙人信息显示，该合伙企业由建信金融资产投资有限公司、建信金投私募基金管理（北京）有限公司、上海上汽创远创业投资合伙企业（有限合伙）、深圳市高新投创业投资有限公司等共同出资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6901900.d.html</link>
-            <guid>4607695</guid>
-            <pubDate>Mon, 12 Jan 2026 06:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【死了么APP正考虑融资50万美元】简洁的白绿配色页面中，只有“今日签到”功能，下方显示：2日未签到，系统将以你的名义，在次日邮件通知你的紧急联系人。 近日，这款名为“死了么”的App爆火。有人认为符合独居人士需求，也有人质疑名字“不吉利”，建议改名为“活着么”，且收费8元的App功能过于单一。 1月11日，“死了么”App开发商月境（郑州）技术服务公司的创始人吕先生告诉记者，名字的灵感来自网友，“我不认为‘死了么’不好听，它更能提醒我们珍惜当下”。 他表示，早期成本不到1500元，现在的下载量比之前多了大概300倍，主要依靠用户购买App实现盈利，预计之后会涨到14元或者15元。“我们还在考虑融资，金额大约是50万美元。” （南方日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8413092.d.html</link>
-            <guid>4607694</guid>
-            <pubDate>Mon, 12 Jan 2026 06:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，杭州“六小龙”之一强脑科技以保密形式提交港股IPO申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0033829.d.html</link>
-            <guid>4607693</guid>
-            <pubDate>Mon, 12 Jan 2026 06:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雄忻高铁连通晋冀省界的北太行山隧道全线贯通】今天（1月12日）上午，随着最后一次开挖爆破顺利完成，历经1113天的奋战，雄忻高铁连接山西和河北的北太行山隧道全线贯通。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8411526.d.html</link>
-            <guid>4607691</guid>
-            <pubDate>Mon, 12 Jan 2026 06:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月12日：“农产品批发价格200指数”比上周五下降0.31个点】据农业农村部监测，1月12日“农产品批发价格200指数”为128.40，比上周五下降0.31个点，“菜篮子”产品批发价格指数为130.93，比上周五下降0.35个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为17.83元/公斤，比上周五下降0.8%；牛肉66.12元/公斤，比上周五上升0.1%；羊肉63.50元/公斤，比上周五上升0.2%；鸡蛋7.61元/公斤，比上周五上升0.8%；白条鸡17.67元/公斤，比上周五上升0.4%。重点监测的28种蔬菜平均价格为5.51元/公斤，比上周五下降0.4%；重点监测的6种水果平均价格为7.80元/公斤，比上周五下降0.9%。鲫鱼19.12元/公斤，比上周五下降0.1%；鲤鱼13.64元/公斤，比上周五下降0.9%；白鲢鱼10.51元/公斤，比上周五下降1.0%；大带鱼39.78元/公斤，比上周五下降2.7%。今日，国内鲜活农产品批发市场重点监测的46个品种中，与上周五相比价格升幅前五名的是菠萝、莴笋、冬瓜、平菇和大白菜，幅度分别为3.3%、3.0%、2.2%、2.2%和2.0%；价格降幅前五名的是西葫芦、巨峰葡萄、生菜、油菜和大带鱼，幅度分别为3.5%、3.4%、3.1%、2.8%和2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4674376.d.html</link>
-            <guid>4607688</guid>
-            <pubDate>Mon, 12 Jan 2026 06:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车据称已为飞行汽车子公司赴香港PIO事宜聘请投资银行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8410779.d.html</link>
-            <guid>4607685</guid>
-            <pubDate>Mon, 12 Jan 2026 06:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗国旗被X平台改了】据美国《纽约邮报》1月10日报道，总部位于美国的社交平台X应伊朗反对派人士的要求，已将该平台的伊朗国旗表情符号更换为1979年伊朗伊斯兰革命前的狮子太阳旗，导致多个伊朗官方X平台账号无法再使用伊朗国旗表情。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6899048.d.html</link>
-            <guid>4607684</guid>
-            <pubDate>Mon, 12 Jan 2026 06:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津生态城绿色发展投资控股集团登记成立 注册资本50亿】天眼查工商信息显示，近日，天津生态城绿色发展投资控股集团有限公司成立，法定代表人为张昆，注册资本50亿人民币，经营范围含以自有资金从事投资活动、信息咨询服务、自有资金投资的资产管理服务、非居住房地产租赁、再生资源加工、人工智能行业应用系统集成服务、互联网销售等。股东信息显示，该公司由中新天津生态城管理委员会全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6898105.d.html</link>
-            <guid>4607681</guid>
-            <pubDate>Mon, 12 Jan 2026 06:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞将联合健康目标价从115美元上调至118美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8408981.d.html</link>
-            <guid>4607679</guid>
-            <pubDate>Mon, 12 Jan 2026 06:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【呼伦贝尔能源投资开发集团增资至208亿 增幅约20701%】天眼查工商信息显示，近日，呼伦贝尔能源投资开发（集团）有限责任公司发生工商变更，呼伦贝尔城市建设投资（集团）有限责任公司退出股东行列，同时，注册资本由1亿人民币增至约208亿人民币，增幅约20701%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6896922.d.html</link>
-            <guid>4607678</guid>
-            <pubDate>Mon, 12 Jan 2026 06:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江征求意见：鼓励高校、科研院所按照“先使用后付费”方式把科技成果许可给企业使用】浙江省经济和信息化厅日前就《浙江省“十五五”新型工业化规划（征求意见稿）》公开征求意见。其中提到，加强创新成果转化应用。推进概念验证中心建设，加快中试平台先进制造业集群全覆盖，推动创新成果工程化、产业化。完善首台（套）产品攻关、认定、应用、推广全流程服务机制。深化国家科技成果转移转化示范区建设，完善成果“沿途下蛋”机制。鼓励高校、科研院所按照“先使用后付费”方式把科技成果许可给企业使用。支持高校院所科研人员创新创业，深化职务科技成果赋权改革。举办技术创新大赛，面向全球招募创新成果，面向全省精准落地创新成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8407894.d.html</link>
-            <guid>4607677</guid>
-            <pubDate>Mon, 12 Jan 2026 06:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江征求意见：建设多元可控的算力设施 有序布局万卡算力集群】浙江省经信厅牵头编制了《浙江省“十五五”新型工业化规划（征求意见稿）》，现就文稿内容及公平竞争性向社会公开征求意见。征求意见指出，加强数字基础设施建设。建设多元可控的算力设施，有序布局万卡算力集群，建立高效动态平衡的算力供需机制。实施自主大模型生态培育工程，打造国际一流通用大模型和开源社区，培育行业大模型和智能体。梯次推进可信数据空间建设，开展工业可信数据空间创新发展试点。系统建设新一代通信网络，加快乡镇以上区域5G-A规模覆盖，争取6G实网试验。实施工业互联网和人工智能融合赋能行动，拓展“平台+智能体”服务，优化工业互联网体系架构。前瞻布局卫星通信设施、时空基础设施，加速打造低空、海洋等数字融合基础设施，全面夯实无线电监测设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6895839.d.html</link>
-            <guid>4607675</guid>
-            <pubDate>Mon, 12 Jan 2026 06:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银将潘多拉（Pandora）的目标价从655丹麦克朗下调至555丹麦克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4667396.d.html</link>
-            <guid>4607672</guid>
-            <pubDate>Mon, 12 Jan 2026 06:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丹斯克银行将潘多拉（Pandora）的目标股价从980丹麦克朗下调至750丹麦克朗。]]></title>
-            <guid>4607671</guid>
-            <pubDate>Mon, 12 Jan 2026 06:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江征求意见：晶圆制造领域加速突破3-7nm制程 发展离子注入机、涂胶显影、先进制程光刻机、刻蚀机等】浙江省经信厅牵头编制了《浙江省“十五五”新型工业化规划（征求意见稿）》，现就文稿内容及公平竞争性向社会公开征求意见。征求意见指出，芯片设计与制造领域，突破低功耗芯片设计，发展高端通用芯片、专用芯片、智能芯片等，开发第五代精简指令集架构芯片。晶圆制造领域，加速突破3-7nm制程。关键材料领域，发展化合物半导体材料、电子气体、高纯靶材、光刻胶等。关键设备领域，发展离子注入机、涂胶显影、先进制程光刻机、刻蚀机等。封装测试领域，加快突破芯粒封装、三维异构集成封装、异质封装、脉冲序列测试等技术。新一代半导体领域，发展氧化镓、金刚石、碳化硅、氮化镓等。]]></title>
-            <guid>4607670</guid>
-            <pubDate>Mon, 12 Jan 2026 06:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德业股份：德业产业基金入股国内可控核聚变领域企业星环聚能】德业股份今日官微消息，近日，由德业股份发起设立的德润泰和基金、德业股份控股股东艾思睿投资参与出资的晨曦乾元基金共同参与出资设立的专项基金，参与了对上海星环聚能科技A轮投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8404561.d.html</link>
-            <guid>4607668</guid>
-            <pubDate>Mon, 12 Jan 2026 06:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纵横股份新设子公司，含通用航空服务业务】企查查APP显示，近日，湖北纵横无人机科技有限公司成立，注册资本1000万元，经营范围包含：人工智能通用应用系统；人工智能应用软件开发；智能无人飞行器制造；通用航空服务；民用航空器驾驶员培训等。企查查股权穿透显示，该公司由纵横股份全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqaw0022943.d.html</link>
-            <guid>4607666</guid>
-            <pubDate>Mon, 12 Jan 2026 06:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北证50指数涨逾5%】截至发稿，北证50指数涨逾5%，北交所近30股涨幅超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqax4665129.d.html</link>
-            <guid>4607665</guid>
-            <pubDate>Mon, 12 Jan 2026 06:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域】《上海市支持先进制造业转型升级三年行动方案（2026—2028 年）》近日发布。其中提出，推动重点产业和新兴产业壮大发展。大力发展新一代电子信息、智能网联新能源汽车、高端装备、先进材料、绿色低碳、时尚消费品产业，支持企业发展先进制造。积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域，加速电动垂直起降飞行器（eVTOL）、商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈。]]></title>
-            <guid>4607662</guid>
-            <pubDate>Mon, 12 Jan 2026 06:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚矿业与能源工会消息：昆士兰州猛犸地下矿于1月2日发生致命事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8403298.d.html</link>
-            <guid>4607661</guid>
-            <pubDate>Mon, 12 Jan 2026 06:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江：拟突破高可靠飞行控制、气动优化与高效推进、智能导航等技术】近日，《浙江省“十五五”新型工业化规划（征求意见稿）》公开征求意见。其中提到，低空飞行器领域，突破高可靠飞行控制、气动优化与高效推进、智能导航等技术，发展工业级无人机、电动垂直起降航空器、中型轻型直升机、轻型多用途飞机、大中型固定翼飞机等。低空制造配套领域，发展航空动力电池、电机电控、机载系统等。低空运营服务领域，突破数字空域管理、智能运行管控等技术，发展航空教育培训、低空物流、低空旅游、无人机应用服务等。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6891523.d.html</link>
-            <guid>4607658</guid>
-            <pubDate>Mon, 12 Jan 2026 06:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赛诺菲的泰泽尔德（Teizeild）获欧盟批准用于治疗2期1型糖尿病患者。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6891027.d.html</link>
-            <guid>4607655</guid>
-            <pubDate>Mon, 12 Jan 2026 06:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：到2028年 新增年产值10亿元以上制造业企业100家】《上海市支持先进制造业转型升级三年行动方案（2026—2028 年）》近日发布，明确以构建先进制造业为骨干的现代化产业体系为目标，推动大中小企业协同融通发展，其核心发展目标：到2028年，新增年产值10亿元以上制造业企业100家，累计总量突破600家；带动产业链新增规上工业企业500家，同时实现规上制造业企业研发费用占营收比重显著提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8401975.d.html</link>
-            <guid>4607654</guid>
-            <pubDate>Mon, 12 Jan 2026 05:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿达尼绿色能源公司：2026财年前9个月新增2995兆瓦新建项目产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6890744.d.html</link>
-            <guid>4607653</guid>
-            <pubDate>Mon, 12 Jan 2026 05:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江：拟发展卫星制造与卫星互联网、火箭制造及关键部组件等】《浙江省“十五五”新型工业化规划（征求意见稿）》公开征求意见。其中提到，紧密跟踪科技革命前沿，主动面向国家战略需求，科学布局未来产业。合成生物，发展生物制药、生物化工、生物材料、生物农业、生物食品、生物能源等。商业航天，发展卫星制造与卫星互联网、火箭制造及关键部组件、空天信息及应用终端产品等。下一代移动通信，发展6G、空天地一体化通信、光通信、太赫兹通信等。量子信息，发展量子计算、量子通信、量子测量等。类脑智能，发展类脑计算、类脑传感等软硬件系统和终端产品。原子级制造，发展原子级制造装备、测量装备和仿真设计软件等。碳捕集利用与封存，突破低能耗低成本碳捕集和利用技术，发展二氧化碳合成化学品、燃料等。深地深海，发展深地深远海资源开发、地热资源利用、深海探测、海洋生物利用、海洋信息服务等。地理信息，发展北斗导航、测绘遥感、“地理信息+”服务等。同时，在柔性电子、光子信息、极弱磁等前沿领域充分探索和布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6890187.d.html</link>
-            <guid>4607649</guid>
-            <pubDate>Mon, 12 Jan 2026 05:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理梅洛尼：委内瑞拉已释放了意大利籍囚犯TRENTINI, BURLO。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6890106.d.html</link>
-            <guid>4607647</guid>
-            <pubDate>Mon, 12 Jan 2026 05:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泡泡玛特：近期会和知名手机品牌推出IP联名合作】1月12日，针对日前市场传闻，泡泡玛特相关人士回应记者称：公司没有研发手机的计划，近期会和知名手机品牌推出IP联名合作。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6889900.d.html</link>
-            <guid>4607646</guid>
-            <pubDate>Mon, 12 Jan 2026 05:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰和新材：公司产品在航天的应用主要是芳纶纸】泰和新材在机构调研中表示，氨纶的底部基本确认了，行业中有经营困难和计划要退出的企业，对市场的影响还得继续观察。此外，公司在回复投资者提问时表示，公司产品在航天的应用主要是芳纶纸，主要用在整流罩等方面。芳纶涂覆隔膜进展方面，公司表示，有产线生产，在进行订单交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqar8400867.d.html</link>
-            <guid>4607644</guid>
-            <pubDate>Mon, 12 Jan 2026 05:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小鹏汽车与工商银行广东省分行达成战略合作 获100亿元授信额度】记者1月12日获悉，近日，小鹏汽车与工商银行广东省分行在小鹏科技园签订战略合作协议。据协议，工商银行广东省分行将支持小鹏汽车100亿元的授信额度，用于融资业务、国际业务、现金管理等方面，全力支持小鹏汽车业务运营及发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfzqat6888799.d.html</link>
-            <guid>4607642</guid>
-            <pubDate>Mon, 12 Jan 2026 05:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
