@@ -6,6 +6,225 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4641337,
+            "content_html": "",
+            "title": "人工智能初创公司Anthropic正与科图资本（Coatue）、新加坡政府投资公司（GIC）、艾康尼克（Iconiq）和红杉资本（Sequoia）就以3500亿美元估值筹集新资金进行谈判。",
+            "date_modified": "2026-01-27T18:53:33.000Z"
+        },
+        {
+            "id": 4641335,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡：现在我们正集中精力完成剩下的两项任务：解除哈马斯的武装和加沙的非军事化。只有两种可能，要么轻松完成，要么艰难完成。但无论如何，这都将成为现实。",
+            "date_modified": "2026-01-27T18:53:09.000Z"
+        },
+        {
+            "id": 4641334,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡：我们已为各种情况做好准备。我的愿望和希望是选举能够如期举行。",
+            "date_modified": "2026-01-27T18:52:49.000Z"
+        },
+        {
+            "id": 4641332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupi9342576.d.html",
+            "title": "叙利亚通讯社：特朗普称美方已准备好支持叙利亚重建工作。",
+            "date_modified": "2026-01-27T18:51:42.000Z"
+        },
+        {
+            "id": 4641331,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupn5282086.d.html",
+            "title": "叙利亚通讯社：特朗普对叙利亚停火协议表示欢迎。",
+            "date_modified": "2026-01-27T18:51:35.000Z"
+        },
+        {
+            "id": 4641330,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupm7830987.d.html",
+            "title": "叙利亚声称，领导人沙拉向特朗普强调，有必要统一国际力量，阻止恐怖组织死灰复燃。",
+            "date_modified": "2026-01-27T18:49:24.000Z"
+        },
+        {
+            "id": 4641325,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupn5280427.d.html",
+            "title": "以色列总理：若伊朗发动袭击，以方将予以前所未有的强力反击。",
+            "date_modified": "2026-01-27T18:43:27.000Z"
+        },
+        {
+            "id": 4641324,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupi9341040.d.html",
+            "title": "乌克兰检察官称，俄罗斯无人机袭击乌克兰东北部哈尔科夫地区一列火车，造成三人死亡。",
+            "date_modified": "2026-01-27T18:43:00.000Z"
+        },
+        {
+            "id": 4641322,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡：只有在人质全部归来、哈马斯被击溃、加沙实现全面解除武装之后，我们才能取得彻底胜利。这才是真正的绝对胜利。为促成人质获释，不理会外界的干扰声音至关重要。",
+            "date_modified": "2026-01-27T18:34:59.000Z"
+        },
+        {
+            "id": 4641321,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupi9339582.d.html",
+            "title": "【乌外长：泽连斯基愿与普京会面 以解决领土等敏感问题】乌克兰外长瑟比加27日表示，乌克兰总统泽连斯基愿意与俄罗斯总统普京举行会晤，以解决和平计划中最敏感的两个问题，即领土和扎波罗热核电站问题。瑟比加指出，乌克兰希望签署一项包含20项内容的和平计划，这是一份双边文件，将由美国和乌克兰签署，前提是该计划能够获得批准。他表示目前最敏感的问题，即领土和扎波罗热核电站问题仍然没有得到解决。瑟比加强调，乌总统泽连斯基正是为了解决这些问题才愿意与普京会面并进行讨论。",
+            "date_modified": "2026-01-27T18:34:00.000Z"
+        },
+        {
+            "id": 4641320,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡：我们都致力于解除哈马斯的武装，实现加沙的非军事化。只有这样，我们才能确保加沙不再对以色列国构成威胁。",
+            "date_modified": "2026-01-27T18:33:37.000Z"
+        },
+        {
+            "id": 4641319,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupq4237968.d.html",
+            "title": "法国政府在法国议会的两次不信任投票中第二次过关。",
+            "date_modified": "2026-01-27T18:33:23.000Z"
+        },
+        {
+            "id": 4641318,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupm7828059.d.html",
+            "title": "以色列媒体：事件尚未平息，以色列境内正针对数名可疑人员展开搜捕行动。",
+            "date_modified": "2026-01-27T18:32:01.000Z"
+        },
+        {
+            "id": 4641317,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupm7827876.d.html",
+            "title": "【移民数量大幅减少 美国人口增长去年显著放缓】根据美国普查局最新数据，由于移民大幅放缓，去年美国人口增长明显降温。周二公布的数据显示，截至2025年7月1日的一年里，美国人口仅增加180万人，增幅为0.5%，总人口接近3.42亿。这是自2021年以来最慢的增长速度，既反映出移居美国的移民减少，也反映出离开美国的人数增多。",
+            "date_modified": "2026-01-27T18:30:45.000Z"
+        },
+        {
+            "id": 4641315,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupi9338368.d.html",
+            "title": "以色列军方称，其发现有“疑似人员从约旦潜入”以色列。",
+            "date_modified": "2026-01-27T18:25:57.000Z"
+        },
+        {
+            "id": 4641313,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupm7825572.d.html",
+            "title": "【联合国儿基会：恢复教育服务必须成为加沙重建议程的重中之重】当地时间27日，在联合国日内瓦办事处例行新闻发布会上，联合国儿童基金会发言人詹姆斯·埃尔德警告说：“近两年半以来，加沙学校遭受的袭击使整整一代人处于危险之中。”埃尔德强调，在这个饱受摧残的地区，60%的学龄儿童无法接受面对面的教育，超过90%的学校遭到破坏或摧毁。埃尔德指出，恢复教育服务必须成为加沙重建议程的重中之重。",
+            "date_modified": "2026-01-27T18:16:14.000Z"
+        },
+        {
+            "id": 4641312,
+            "content_html": "",
+            "title": "谷歌：将谷歌开发者计划高级权益直接整合到谷歌人工智能专业版（Google AI Pro）和谷歌人工智能至尊版（Google AI Ultra）订阅服务中。",
+            "date_modified": "2026-01-27T18:15:06.000Z"
+        },
+        {
+            "id": 4641311,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuupn5274403.d.html",
+            "title": "【美明州州长要求联邦政府结束针对该州的“报复性行动”】当地时间1月27日，美国明尼苏达州州长蒂姆·沃尔兹在与美总统特朗普派往当地负责移民执法事务的汤姆·霍曼会面时，要求就近期两起发生在该州的致命事件开展公正调查，并呼吁迅速且大幅削减驻该州的联邦执法力量，结束针对该州的联邦“报复性行动”。沃尔兹办公室表示，双方同意保持持续对话，并朝上述目标推进，相关方向也已获得特朗普认可。",
+            "date_modified": "2026-01-27T18:13:39.000Z"
+        },
+        {
+            "id": 4641309,
+            "content_html": "",
+            "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费版ChatGPT套餐提供。",
+            "date_modified": "2026-01-27T18:12:15.000Z"
+        },
+        {
+            "id": 4641308,
+            "content_html": "",
+            "title": "OpenAI的PRISM工具即将面向使用ChatGPT商业版、团队版、企业版和教育版计划的机构开放。",
+            "date_modified": "2026-01-27T18:11:04.000Z"
+        },
+        {
+            "id": 4641307,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9466457.d.html",
+            "title": "Richtech Robotics宣布与微软合作后，股价飙升36%。",
+            "date_modified": "2026-01-27T18:09:34.000Z"
+        },
+        {
+            "id": 4641306,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4363980.d.html",
+            "title": "路威酩轩集团首席财务官：2026年集团在法国的税费支出可能与2025年相近。",
+            "date_modified": "2026-01-27T18:08:46.000Z"
+        },
+        {
+            "id": 4641304,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7954719.d.html",
+            "title": "市场资讯：和平委员会拟赋予特朗普管控加沙的广泛权力。",
+            "date_modified": "2026-01-27T18:06:48.000Z"
+        },
+        {
+            "id": 4641303,
+            "content_html": "",
+            "title": "路易威登集团（LVMH）副首席执行官比安奇：我们对钟表业务仍有信心，将继续进行投资。",
+            "date_modified": "2026-01-27T18:04:04.000Z"
+        },
+        {
+            "id": 4641302,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9465432.d.html",
+            "title": "路易威登集团（LVMH）副首席执行官比安基：出售真力时手表品牌从未列入议程。",
+            "date_modified": "2026-01-27T18:03:35.000Z"
+        },
+        {
+            "id": 4641300,
+            "content_html": "",
+            "title": "谷歌：在美国，谷歌人工智能增强版（Google AI Plus）月订阅费用为7.99美元。",
+            "date_modified": "2026-01-27T18:02:24.000Z"
+        },
+        {
+            "id": 4641299,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4362583.d.html",
+            "title": "谷歌AI Plus现已在提供AI服务套餐的所有地区推出，包括美国。",
+            "date_modified": "2026-01-27T18:02:09.000Z"
+        },
+        {
+            "id": 4641297,
+            "content_html": "",
+            "title": "得州电力可靠性委员会（ERCOT）：天气预警将于今日中午解除，电网仍有充足资源满足用电需求，预计电网状况将恢复正常。",
+            "date_modified": "2026-01-27T17:54:28.000Z"
+        },
+        {
+            "id": 4641296,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9463828.d.html",
+            "title": "路威酩轩集团酒业部门负责人：销售额下降是由于经济形势，而非结构性问题。",
+            "date_modified": "2026-01-27T17:54:18.000Z"
+        },
+        {
+            "id": 4641295,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7952538.d.html",
+            "title": "路威酩轩集团（LVMH）葡萄酒与烈酒部门负责人：美国市场全产品线需求均在下降。",
+            "date_modified": "2026-01-27T17:53:48.000Z"
+        },
+        {
+            "id": 4641294,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4360697.d.html",
+            "title": "【美国将在中东举行空军战备演习】美军中央司令部27日发布消息说，其下辖空军部队将举行为期数天的战备演习。前一天，中央司令部宣布美军“亚伯拉罕·林肯”号航空母舰打击群已驶入中东。",
+            "date_modified": "2026-01-27T17:52:18.000Z"
+        },
+        {
+            "id": 4641293,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7951833.d.html",
+            "title": "路威酩轩集团（LVMH）首席执行官阿尔诺：不太倾向于让路易威登品牌进一步多元化。",
+            "date_modified": "2026-01-27T17:50:17.000Z"
+        },
+        {
+            "id": 4641291,
+            "content_html": "",
+            "title": "路威酩轩（LVMH）首席财务官：美国客户消费情况进一步放缓，主要是受基数效应影响，而中国市场的趋势保持稳定。",
+            "date_modified": "2026-01-27T17:46:45.000Z"
+        },
+        {
             "id": 4641288,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9460220.d.html",
@@ -213,223 +432,6 @@
             "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9452589.d.html",
             "title": "【伊朗总统与沙特王储通电话 讨论地区局势】当地时间27日，伊朗总统佩泽希齐扬与沙特王储兼首相穆罕默德通电话。佩泽希齐扬在通话中表示，以色列和美国直接介入伊朗近期发生的骚乱中。美国方面的威胁和心理战，目的是破坏地区安全，只会给其自身带来不稳定。他表示，相信伊斯兰国家的团结与凝聚力能够保障地区持久安全、稳定与和平。沙特在此方面发挥着十分重要的作用。穆罕默德表示，沙特阿拉伯认为，任何针对伊朗的威胁和紧张局势都是不可接受的。沙特已准备好与伊朗及地区内的国家开展合作，共同建立持久的和平与安全。",
             "date_modified": "2026-01-27T16:49:53.000Z"
-        },
-        {
-            "id": 4641237,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7940496.d.html",
-            "title": "路威酩轩（LVMH）：财年营收808.1亿欧元。",
-            "date_modified": "2026-01-27T16:46:43.000Z"
-        },
-        {
-            "id": 4641236,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9451529.d.html",
-            "title": "路易威登（LVMH）：财年净收入108.78亿欧元",
-            "date_modified": "2026-01-27T16:46:10.000Z"
-        },
-        {
-            "id": 4641235,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7940269.d.html",
-            "title": "路易威登（LVMH）：全年经常性业务利润为177.55亿欧元。",
-            "date_modified": "2026-01-27T16:45:59.000Z"
-        },
-        {
-            "id": 4641234,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9451438.d.html",
-            "title": "路易威登（LVMH）：财年净债务为6.857亿欧元。",
-            "date_modified": "2026-01-27T16:45:51.000Z"
-        },
-        {
-            "id": 4641233,
-            "content_html": "",
-            "title": "  路威酩轩（LVMH）：第四季度时装皮具部门有机销售额同比下降 3%，市场预期降幅为 2.94%。",
-            "date_modified": "2026-01-27T16:45:37.000Z"
-        },
-        {
-            "id": 4641232,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4345212.d.html",
-            "title": "路威酩轩集团（LVMH）：第四季度欧洲销售额下降2%，美国和亚洲销售额增长1%。",
-            "date_modified": "2026-01-27T16:45:19.000Z"
-        },
-        {
-            "id": 4641231,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfq5385286.d.html",
-            "title": "标普确认欧洲银行长期发行人信用评级为 “BBB-”，展望为正面。",
-            "date_modified": "2026-01-27T16:44:42.000Z"
-        },
-        {
-            "id": 4641230,
-            "content_html": "",
-            "title": "美国纽约州州长凯西·霍楚尔：将全力推动盖特威隧道（Gateway Tunnel）项目落地建设。",
-            "date_modified": "2026-01-27T16:41:14.000Z"
-        },
-        {
-            "id": 4641225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7938250.d.html",
-            "title": "达美航空：随着枢纽机场周边当地情况好转，在冬季风暴“弗恩”过后恢复全面运营。",
-            "date_modified": "2026-01-27T16:39:46.000Z"
-        },
-        {
-            "id": 4641224,
-            "content_html": "",
-            "title": "据巴西全国谷物出口商协会（ANEC）数据，巴西1月玉米出口量预计将达339万吨，前一周预期为345万吨。",
-            "date_modified": "2026-01-27T16:37:14.000Z"
-        },
-        {
-            "id": 4641223,
-            "content_html": "",
-            "title": "据巴西全国谷物出口商协会（ANEC）数据，巴西1月份豆粕出口量预计达178万吨，前一周预期为182万吨。",
-            "date_modified": "2026-01-27T16:37:04.000Z"
-        },
-        {
-            "id": 4641222,
-            "content_html": "",
-            "title": "据巴西全国谷物出口商协会（ANEC）消息，巴西1月大豆出口量预计达323万吨，前一周预计为379万吨。",
-            "date_modified": "2026-01-27T16:36:42.000Z"
-        },
-        {
-            "id": 4641220,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4340527.d.html",
-            "title": "加拿大宝马拟发行总规模不低于5亿加元的双部分债券。",
-            "date_modified": "2026-01-27T16:32:08.000Z"
-        },
-        {
-            "id": 4641218,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7934750.d.html",
-            "title": "巴西国家石油公司高管：进入委内瑞拉市场可能是一种选择。",
-            "date_modified": "2026-01-27T16:28:59.000Z"
-        },
-        {
-            "id": 4641217,
-            "content_html": "",
-            "title": "伊朗媒体：伊朗总统在与沙特王储的电话通话中表示，德黑兰一直欢迎并仍欢迎任何防止战争的进程。",
-            "date_modified": "2026-01-27T16:27:19.000Z"
-        },
-        {
-            "id": 4641213,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4338725.d.html",
-            "title": "波音公司首席执行官：政府部门愿意与我们沟通，倾听了我们的担忧。",
-            "date_modified": "2026-01-27T16:25:01.000Z"
-        },
-        {
-            "id": 4641212,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7933472.d.html",
-            "title": "巴西国家石油公司高管称，公司自2月起将天然气平均价格下调7.8%。",
-            "date_modified": "2026-01-27T16:23:28.000Z"
-        },
-        {
-            "id": 4641211,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfp7933359.d.html",
-            "title": "波音公司首席执行官：特朗普政府明白商用航空航天业对美国经济的重要性。",
-            "date_modified": "2026-01-27T16:23:04.000Z"
-        },
-        {
-            "id": 4641209,
-            "content_html": "",
-            "title": "波音公司首席执行官：完成F - 47战机的研发是未来国防业务组合中的一项重大资本投资。",
-            "date_modified": "2026-01-27T16:20:58.000Z"
-        },
-        {
-            "id": 4641208,
-            "content_html": "",
-            "title": "巴西方面证实，总统卢拉于本周二同法国总统马克龙通电话，双方就特朗普的和平委员会及委内瑞拉问题交换意见。",
-            "date_modified": "2026-01-27T16:20:49.000Z"
-        },
-        {
-            "id": 4641206,
-            "content_html": "",
-            "title": "波音公司首席执行官：计划将KC - 46加油机交付量从2025年的14架提高至2026年的19架。",
-            "date_modified": "2026-01-27T16:16:39.000Z"
-        },
-        {
-            "id": 4641205,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9442727.d.html",
-            "title": "波音计划2026年交付19架加油机。",
-            "date_modified": "2026-01-27T16:16:30.000Z"
-        },
-        {
-            "id": 4641203,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9442368.d.html",
-            "title": "【打击“贩毒船”致人死亡 特朗普政府被提起诉讼】当地时间1月27日，两名男子在美军对委内瑞拉附近一艘疑似“贩毒船”进行的导弹袭击中丧生，他们的家人于27日提起诉讼，指控特朗普政府授权的针对民用船只的军事行动“明显非法”，导致两人被谋杀。民权律师于波士顿联邦法院提起诉讼，此举是针对特朗普政府授权的、在加勒比海与太平洋海域实施的36起导弹袭击船只行动的首次司法挑战。自去年9月以来，这些袭击已造成超120人死亡。",
-            "date_modified": "2026-01-27T16:15:20.000Z"
-        },
-        {
-            "id": 4641202,
-            "content_html": "",
-            "title": "波音首席财务官：关于787客机交付量，预计交付90 - 100架，高于今年的88架。",
-            "date_modified": "2026-01-27T16:13:52.000Z"
-        },
-        {
-            "id": 4641201,
-            "content_html": "",
-            "title": "波音首席财务官：计划2026年制造30架737 - 10型飞机，但将于2027年交付。",
-            "date_modified": "2026-01-27T16:13:13.000Z"
-        },
-        {
-            "id": 4641198,
-            "content_html": "",
-            "title": "波音首席财务官：737和787机型的现金利润率低迷，这在我们的自由现金流中有所体现。",
-            "date_modified": "2026-01-27T16:11:16.000Z"
-        },
-        {
-            "id": 4641196,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfq5375152.d.html",
-            "title": "【外媒关注：担忧美国发起贸易战，德企2025年在华投资激增】“因担忧美国发起贸易战，德国企业2025年对华投资激增。”路透社当地时间27日以此为题独家报道称，该媒体获得的数据显示，2025年德国企业在华投资额达到四年来的最高水平，这凸显了特朗普政府发起的贸易战正推动产业界和各国政府加强与其他地区的商业联系。（环球网）",
-            "date_modified": "2026-01-27T16:10:28.000Z"
-        },
-        {
-            "id": 4641195,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfs4334741.d.html",
-            "title": "【美国刷卡费改革势头增强】随着美国总统特朗普支持《信用卡竞争法案》，维萨（V）和万事达卡（MA）面临的风险上升；商户敦促参议员将其纳入加密货币立法，而信用合作社则以不相关为由反对此举。",
-            "date_modified": "2026-01-27T16:10:11.000Z"
-        },
-        {
-            "id": 4641194,
-            "content_html": "",
-            "title": "美国前总统拜登：过去一个月，明尼阿波利斯所发生的一切，违背了我们美国人最为根本的价值观。",
-            "date_modified": "2026-01-27T16:09:50.000Z"
-        },
-        {
-            "id": 4641193,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9440453.d.html",
-            "title": "【去年底欧洲电动车销量已超纯汽油车 特斯拉在欧销量下降37%】数据显示，2025年电池电动车占欧盟新车注册量的17.4%，并在12月销量超过纯汽油车，而特斯拉（TSLA）在欧盟的销售额同比下降37%，比亚迪市场份额提升。",
-            "date_modified": "2026-01-27T16:09:09.000Z"
-        },
-        {
-            "id": 4641192,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfq5374714.d.html",
-            "title": "波音首席执行官：仍在应对 787 项目座椅设计和布局认证延迟问题。",
-            "date_modified": "2026-01-27T16:08:50.000Z"
-        },
-        {
-            "id": 4641191,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-28/detail-inhiuqfm9440060.d.html",
-            "title": "波音首席执行官：将产量从47架提高到52架会更具挑战性。",
-            "date_modified": "2026-01-27T16:07:54.000Z"
-        },
-        {
-            "id": 4641190,
-            "content_html": "",
-            "title": "波音公司首席执行官：认为在后续将产量从42架提高到47架的过程中，供应链不会对我们构成挑战。",
-            "date_modified": "2026-01-27T16:07:12.000Z"
         }
     ]
 }
