@@ -4,11 +4,387 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Thu, 29 Jan 2026 15:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 16:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特朗普：福特和通用汽车的表现比以往任何时候都好。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7343091.d.html</link>
+            <guid>4648192</guid>
+            <pubDate>Thu, 29 Jan 2026 16:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦通信委员会委员戈麦斯表示，特朗普政府通过关于平等时间规则的新指引举措，对深夜档和白天档节目构成威胁。]]></title>
+            <guid>4648189</guid>
+            <pubDate>Thu, 29 Jan 2026 16:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗、卡塔尔、巴基斯坦呼吁通过外交途径缓和地区紧张局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7341201.d.html</link>
+            <guid>4648188</guid>
+            <pubDate>Thu, 29 Jan 2026 16:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗总统与卡塔尔埃米尔、巴基斯坦总理商讨地区事务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0563927.d.html</link>
+            <guid>4648187</guid>
+            <pubDate>Thu, 29 Jan 2026 16:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈政府停摆：将以两党合作的方式避免政府停摆。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7340054.d.html</link>
+            <guid>4648185</guid>
+            <pubDate>Thu, 29 Jan 2026 16:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：努力避免政府关门。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0562520.d.html</link>
+            <guid>4648183</guid>
+            <pubDate>Thu, 29 Jan 2026 16:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：民主党人也不希望政府关门。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7339665.d.html</link>
+            <guid>4648182</guid>
+            <pubDate>Thu, 29 Jan 2026 16:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：希望美国不会停摆。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0562406.d.html</link>
+            <guid>4648181</guid>
+            <pubDate>Thu, 29 Jan 2026 16:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈委内瑞拉：美国人很快就能去那里旅游了。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4060348.d.html</link>
+            <guid>4648179</guid>
+            <pubDate>Thu, 29 Jan 2026 16:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈委内瑞拉：已告知总统，我们将开放委内瑞拉上空的领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4060318.d.html</link>
+            <guid>4648178</guid>
+            <pubDate>Thu, 29 Jan 2026 16:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：刚刚与委内瑞拉代总统通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0561528.d.html</link>
+            <guid>4648177</guid>
+            <pubDate>Thu, 29 Jan 2026 16:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：石油公司将为美国和委内瑞拉创造财富。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7338608.d.html</link>
+            <guid>4648176</guid>
+            <pubDate>Thu, 29 Jan 2026 16:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈委内瑞拉：让大型石油公司去勘探选址。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0561266.d.html</link>
+            <guid>4648175</guid>
+            <pubDate>Thu, 29 Jan 2026 16:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：大型石油企业正赴委内瑞拉考察布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4060026.d.html</link>
+            <guid>4648174</guid>
+            <pubDate>Thu, 29 Jan 2026 16:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：与委内瑞拉领导人相处融洽。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7338229.d.html</link>
+            <guid>4648173</guid>
+            <pubDate>Thu, 29 Jan 2026 16:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟理事会宣布对苏丹7名个人实施制裁】当地时间29日，欧盟理事会发布声明称，鉴于苏丹局势持续严峻，暴力事件急剧升级，决定对七名个人实施制裁。当天被列入制裁名单的人员中，5人与苏丹快速支援部队有关联，2人与苏丹武装部队有关联。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4059513.d.html</link>
+            <guid>4648172</guid>
+            <pubDate>Thu, 29 Jan 2026 16:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普主持内阁会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizanc0912805.d.html</link>
+            <guid>4648171</guid>
+            <pubDate>Thu, 29 Jan 2026 16:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据航运数据显示，古巴的石油储备仅够维持15至20天。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4059068.d.html</link>
+            <guid>4648170</guid>
+            <pubDate>Thu, 29 Jan 2026 16:39:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联邦调查局搜查一选举中心 民主党批特朗普“公报私仇”】美国联邦调查局28日突袭搜查佐治亚州富尔顿县一处选举中心，意在调查美国总统特朗普所指控的2020年总统选举期间“选民欺诈”问题。美国民主党人指责这次搜查行动体现出特朗普把联邦执法部门当作“不受约束的个人权力和复仇工具”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizanc0912438.d.html</link>
+            <guid>4648169</guid>
+            <pubDate>Thu, 29 Jan 2026 16:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克：预计到2028财年后，将在中国新增15000-20000家咖啡店。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0559327.d.html</link>
+            <guid>4648168</guid>
+            <pubDate>Thu, 29 Jan 2026 16:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克：预计到2028财年后，在美国境外将拥有近4万家门店。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0559042.d.html</link>
+            <guid>4648167</guid>
+            <pubDate>Thu, 29 Jan 2026 16:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克：预计2028财年，全球及美国同店销售额至少增长3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4058680.d.html</link>
+            <guid>4648166</guid>
+            <pubDate>Thu, 29 Jan 2026 16:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克：预计到2028财年后，美国将有多达5000家新咖啡店开店机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7335828.d.html</link>
+            <guid>4648165</guid>
+            <pubDate>Thu, 29 Jan 2026 16:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：只要车主还拥有车辆，我们就会继续支持Model S和Model X车型项目。]]></title>
+            <guid>4648163</guid>
+            <pubDate>Thu, 29 Jan 2026 16:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一品牌公司创始人帕特里克・詹姆斯被美国检察官提起刑事诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0557328.d.html</link>
+            <guid>4648161</guid>
+            <pubDate>Thu, 29 Jan 2026 16:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国以3.635%的高利率标售8周期国库券，以该高利率中标比例为9.36%。 美国8周期国库券认购倍数为2.87。]]></title>
+            <guid>4648160</guid>
+            <pubDate>Thu, 29 Jan 2026 16:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克2028年展望：合并净收入增长5%或更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7332620.d.html</link>
+            <guid>4648157</guid>
+            <pubDate>Thu, 29 Jan 2026 16:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军方证实约7万巴勒斯坦人死于加沙战火】据以色列媒体29日报道，以国防军28日证实，2023年10月新一轮巴以冲突爆发以来，加沙地带约有7万名巴勒斯坦人在冲突中丧生。这与加沙地带卫生部门此前公布的数字相近。以方此前从未正式承认巴方公布的伤亡数字。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizanc0907792.d.html</link>
+            <guid>4648156</guid>
+            <pubDate>Thu, 29 Jan 2026 16:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长：欧盟在地区危机中“推波助澜” 损害自身利益】当地时间29日，伊朗外交部长阿拉格齐就欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”发表声明，批评欧盟在地区危机中“推波助澜”，损害自身利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0554390.d.html</link>
+            <guid>4648155</guid>
+            <pubDate>Thu, 29 Jan 2026 16:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们很快会再次通话，最终还会安排在我们各自国家举行会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7330187.d.html</link>
+            <guid>4648150</guid>
+            <pubDate>Thu, 29 Jan 2026 16:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：其中很大一部分内容聚焦于边境问题、打击毒品走私以及贸易问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7330168.d.html</link>
+            <guid>4648149</guid>
+            <pubDate>Thu, 29 Jan 2026 16:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统辛鲍姆：计划尽快与加拿大总理卡尼进行通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7327292.d.html</link>
+            <guid>4648146</guid>
+            <pubDate>Thu, 29 Jan 2026 16:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长与多国外长通话 就地区局势交换意见】伊朗外交部当地时间1月29日发表声明称，伊朗外交部长阿拉格齐28日夜间至29日分别与卡塔尔、埃及、阿联酋、巴基斯坦、阿曼和土耳其外长通电话，就最新地区及国际局势发展交换意见。阿拉格齐在通话中阐述了伊朗对当前局势的立场，强调相关事态的敏感性，并呼吁各方保持克制与理性。声明指出，各方在通话中认为，有必要以负责任的态度妥善管控当前局势，重视持续发展对地区安全与稳定可能带来的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0549723.d.html</link>
+            <guid>4648145</guid>
+            <pubDate>Thu, 29 Jan 2026 16:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克总统府重申反对外部干涉伊内政】当地时间1月29日，伊拉克总统府发表声明，重申坚决反对任何形式的外部势力干涉伊拉克政治事务。声明强调，伊拉克内部事务完全属于国家主权范畴，应由伊拉克人民依据宪法、通过民主制度和选举程序自行决定，相关选举结果真实反映了民众意愿。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0549122.d.html</link>
+            <guid>4648143</guid>
+            <pubDate>Thu, 29 Jan 2026 16:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：欧盟拟于2月24日推出第二十轮对俄制裁方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0547918.d.html</link>
+            <guid>4648142</guid>
+            <pubDate>Thu, 29 Jan 2026 16:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表格里尔：美国与萨尔瓦多两国签署互惠贸易协定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4050907.d.html</link>
+            <guid>4648141</guid>
+            <pubDate>Thu, 29 Jan 2026 16:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：欧盟多国支持对俄罗斯前作战人员实施申根区入境禁令。]]></title>
+            <guid>4648140</guid>
+            <pubDate>Thu, 29 Jan 2026 16:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉石油法改革将取消石油行业附加税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0545763.d.html</link>
+            <guid>4648139</guid>
+            <pubDate>Thu, 29 Jan 2026 16:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉石油法改革将允许削减石油项目所得税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizanc0897456.d.html</link>
+            <guid>4648138</guid>
+            <pubDate>Thu, 29 Jan 2026 16:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉石油法改革将新增合同模式以允许石油产量分成。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7322782.d.html</link>
+            <guid>4648137</guid>
+            <pubDate>Thu, 29 Jan 2026 16:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案显示：委内瑞拉石油法改革将降低特许权使用费并引入新的“碳氢化合物税”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7322652.d.html</link>
+            <guid>4648135</guid>
+            <pubDate>Thu, 29 Jan 2026 16:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日程安排显示：文本修改后，委内瑞拉国民议会将于周四讨论该国主要石油法改革事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0545250.d.html</link>
+            <guid>4648132</guid>
+            <pubDate>Thu, 29 Jan 2026 16:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：美国向乌克兰提出的让步条件 “相当苛刻”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamx7321442.d.html</link>
+            <guid>4648129</guid>
+            <pubDate>Thu, 29 Jan 2026 16:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰银行将微软目标价从667美元下调至588美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamw0543542.d.html</link>
+            <guid>4648126</guid>
+            <pubDate>Thu, 29 Jan 2026 16:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金雷股份：2025年净利润预增75%-110% 风电行业回暖驱动盈利跃升】1月29日晚，风电零部件龙头企业金雷股份发布2025年度业绩预告，公司预计归属于上市公司股东的净利润达3.02亿元至3.63亿元，同比增长75.00%至110.00%；扣除非经常性损益后的净利润更为亮眼，预计为3.32亿元至3.93亿元，同比增长91.07%至125.83%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4047492.d.html</link>
+            <guid>4648125</guid>
+            <pubDate>Thu, 29 Jan 2026 16:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯在评论与伊朗的紧张局势时表示，该地区不需要一场新的战争。]]></title>
+            <guid>4648123</guid>
+            <pubDate>Thu, 29 Jan 2026 16:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦通信委员会出台新版境外“竞争对手”管控规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-30/detail-inhizamz4046759.d.html</link>
+            <guid>4648122</guid>
+            <pubDate>Thu, 29 Jan 2026 16:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：欧盟部长们通过了对快速支援部队成员和苏丹武装部队成员的新制裁措施。]]></title>
+            <guid>4648120</guid>
+            <pubDate>Thu, 29 Jan 2026 15:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统助理乌沙科夫：领土问题仍然是俄乌谈判的主要议题，不过议程上还有许多其他问题。]]></title>
+            <guid>4648119</guid>
+            <pubDate>Thu, 29 Jan 2026 15:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于贵宾休息室的问题，西南航空首席执行官表示，我们正在关注客户想要的东西，目前没有具体情况可汇报。]]></title>
+            <guid>4648118</guid>
+            <pubDate>Thu, 29 Jan 2026 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗首都启动战时避难设施建设规划】伊朗首都德黑兰市政府已启动战时避难设施建设规划，包括将地下停车场改造为“平时停车、战时避难”的双用途空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7317649.d.html</link>
+            <guid>4648117</guid>
+            <pubDate>Thu, 29 Jan 2026 15:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：已有提案建议将俄罗斯前作战人员列入申根区禁令名单。]]></title>
+            <guid>4648116</guid>
+            <pubDate>Thu, 29 Jan 2026 15:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统辛鲍姆：我们不能把加拿大排除在三边协议之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizanc0890096.d.html</link>
+            <guid>4648113</guid>
+            <pubDate>Thu, 29 Jan 2026 15:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：所有旨在限制俄罗斯资金的措施均应纳入考量范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7316994.d.html</link>
+            <guid>4648112</guid>
+            <pubDate>Thu, 29 Jan 2026 15:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：欧盟第二十轮对俄制裁方案的相关工作仍在推进中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamw0539710.d.html</link>
+            <guid>4648111</guid>
+            <pubDate>Thu, 29 Jan 2026 15:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有报道称获微软（MSFT）支持的OpenAI正探索建立生物识别社交网络，可能采用World Network的ID系统验证真人用户并遏制网络机器人，此后World Network的代币价格飙升。]]></title>
+            <guid>4648109</guid>
+            <pubDate>Thu, 29 Jan 2026 15:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交与安全政策高级代表卡拉斯：因存在洗钱风险将俄罗斯列入黑名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamz4043751.d.html</link>
+            <guid>4648107</guid>
+            <pubDate>Thu, 29 Jan 2026 15:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空首席执行官：我们将看到市场份额向西南航空转移，因为如今我们的产品竞争力更强了，尤其是对企业客户而言。]]></title>
+            <guid>4648106</guid>
+            <pubDate>Thu, 29 Jan 2026 15:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空首席执行官：在所有这些变动之后，我们并未看到旅客弃选西南航空。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7315750.d.html</link>
+            <guid>4648104</guid>
+            <pubDate>Thu, 29 Jan 2026 15:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，巴西联邦警察逮捕一名与“伊斯兰国”有关联、疑似准备发动自杀式袭击的嫌疑人。]]></title>
+            <guid>4648103</guid>
+            <pubDate>Thu, 29 Jan 2026 15:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2026中英企业家委员会会议在京举行】1月29日，2026中英企业家委员会会议在北京人民大会堂举行。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7315418.d.html</link>
+            <guid>4648102</guid>
+            <pubDate>Thu, 29 Jan 2026 15:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统新闻秘书：泽连斯基未回应是否前往莫斯科会晤普京】俄罗斯总统新闻秘书佩斯科夫对媒体表示，乌克兰总统泽连斯基尚未就是否会前往莫斯科与俄总统普京会晤作出回应。在被问及如果泽连斯基拒绝前往莫斯科，俄方是否会同意在阿联酋与其会面时，佩斯科夫说：“我们讨论的是莫斯科，假设性的推论是不合适的。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamw0537695.d.html</link>
+            <guid>4648099</guid>
+            <pubDate>Thu, 29 Jan 2026 15:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大丰业银行将Meta Platforms的目标股价从每股685.00美元上调至700.00美元，维持对Meta Platforms的“行业表现相符”评级。]]></title>
+            <guid>4648098</guid>
+            <pubDate>Thu, 29 Jan 2026 15:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统辛鲍姆：我们没有讨论关键矿物问题，但这是我们两国正在探讨的一个重要议题。]]></title>
+            <guid>4648097</guid>
+            <pubDate>Thu, 29 Jan 2026 15:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：推进气象数据要素市场化改革】1月29日，上海市召开气象高质量发展三年行动计划工作部署会，明确将气象事业高质量发展深度融入城市建设全局，让气象服务更贴民生、更助发展、更优治理。其中提出，上海要推进气象数据要素市场化改革，在保障安全的前提下，开展数据融合共享、跨境流通试点，让气象数据释放更大价值。同时，上海要打造国际标杆，深化多灾种早期预警体系建设，为全球城市防灾减灾贡献“上海方案”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizanc0886087.d.html</link>
+            <guid>4648096</guid>
+            <pubDate>Thu, 29 Jan 2026 15:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[消息人士称，空客计划为A220 - 500采用“简单加长”设计。]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizanc0885803.d.html</link>
@@ -25,116 +401,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7313012.d.html</link>
             <guid>4648092</guid>
             <pubDate>Thu, 29 Jan 2026 15:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：我与特朗普未谈及古巴问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamw0534825.d.html</link>
-            <guid>4648088</guid>
-            <pubDate>Thu, 29 Jan 2026 15:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：墨西哥方面正竭力维护美墨加协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamw0534754.d.html</link>
-            <guid>4648087</guid>
-            <pubDate>Thu, 29 Jan 2026 15:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数跌幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhizamx7311328.d.html</link>
-            <guid>4648085</guid>
-            <pubDate>Thu, 29 Jan 2026 15:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦敦金属交易所金属价格均冲高回落】伦敦金属交易所金属均冲高回落，三个月期铜涨3.05%此前涨11%；三个月期锡跌1.35%此前涨超5%，三个月期镍涨0.41%此前涨超4%，三个月期铅涨0.17%此前涨2%，三个月期锌涨1.81%此前涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywec4170448.d.html</link>
-            <guid>4648083</guid>
-            <pubDate>Thu, 29 Jan 2026 15:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：与特朗普讨论了关税和非关税壁垒。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7440970.d.html</link>
-            <guid>4648079</guid>
-            <pubDate>Thu, 29 Jan 2026 15:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：特朗普邀我赴美，双方尚未敲定会面日期。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywec4169463.d.html</link>
-            <guid>4648074</guid>
-            <pubDate>Thu, 29 Jan 2026 15:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：美国已要求提高《美墨加协定》（USMCA）下的区域含量标准，且不只是在汽车行业。]]></title>
-            <guid>4648073</guid>
-            <pubDate>Thu, 29 Jan 2026 15:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：审查仍在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcy0662227.d.html</link>
-            <guid>4648070</guid>
-            <pubDate>Thu, 29 Jan 2026 15:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：关于贸易协定，目前尚无具体成果，但我们进展顺利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7438989.d.html</link>
-            <guid>4648068</guid>
-            <pubDate>Thu, 29 Jan 2026 15:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V2X公司将与亚马逊合作开展智能仓储和全球物流自动化业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7438748.d.html</link>
-            <guid>4648067</guid>
-            <pubDate>Thu, 29 Jan 2026 15:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国医疗保险和医疗补助服务中心（CMS）：医疗补助技术公司承诺节省6亿美元，以支持社区参与及相关州医疗补助系统的改进。]]></title>
-            <guid>4648064</guid>
-            <pubDate>Thu, 29 Jan 2026 15:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商务部长卢特尼克将接管商务部旗下创业投资部门，并正从各大银行和私募股权投资公司招募人才推进相关项目。]]></title>
-            <guid>4648063</guid>
-            <pubDate>Thu, 29 Jan 2026 15:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瓦莱罗公司：如果委内瑞拉油种比其他替代油种更具优势，我们将购买该油种。进入2月后，委内瑞拉原油将在我们的重质油采购中占据相当大的比例。]]></title>
-            <guid>4648061</guid>
-            <pubDate>Thu, 29 Jan 2026 15:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瓦莱罗公司：已与三家委内瑞拉原油授权销售商展开合作，将从这三家销售商处购买原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcy0659672.d.html</link>
-            <guid>4648059</guid>
-            <pubDate>Thu, 29 Jan 2026 15:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：我们都认为在安全方面，一切进展非常顺利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcy0659550.d.html</link>
-            <guid>4648057</guid>
-            <pubDate>Thu, 29 Jan 2026 15:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部长霍华德·卢特尼克将接手管理美国政府风险投资部门的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7436578.d.html</link>
-            <guid>4648056</guid>
-            <pubDate>Thu, 29 Jan 2026 15:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒称伊朗接收俄制武装直升机】据俄罗斯《观点报》网站1月28日报道，有照片显示，俄罗斯米-28NE武装直升机出现在伊朗。照片中，这架直升机采用数码迷彩涂装，且没有桨叶，易损部位被特殊防护罩包裹，表明该装备可能刚刚运到，尚未投入使用。有消息人士称，这是俄罗斯向伊朗交付的米-28NE直升机中的一架。该媒体报道说，俄罗斯总统新闻秘书佩斯科夫此前表示，俄罗斯将继续努力缓解围绕伊朗及整个地区的紧张局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7435347.d.html</link>
-            <guid>4648047</guid>
-            <pubDate>Thu, 29 Jan 2026 15:30:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署称，上周美国天然气库存减少 2420 亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywef1005910.d.html</link>
-            <guid>4648046</guid>
-            <pubDate>Thu, 29 Jan 2026 15:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韦德布什将微软的目标股价从每股625美元下调至575美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-29/detail-inhiywcz7433276.d.html</link>
-            <guid>4648009</guid>
-            <pubDate>Thu, 29 Jan 2026 15:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
