@@ -6,6 +6,260 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4662894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzz6370834.d.html",
+            "title": "美国和欧盟将确定并支持采矿、回收、加工和精炼领域的项目。",
+            "date_modified": "2026-02-04T17:01:17.000Z"
+        },
+        {
+            "id": 4662893,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksrac3472673.d.html",
+            "title": "美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以增强关键矿产供应链的韧性。",
+            "date_modified": "2026-02-04T17:01:07.000Z"
+        },
+        {
+            "id": 4662891,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9467601.d.html",
+            "title": "美国、欧盟和日本将制定行动计划，并与其他伙伴共同探索开展诸边贸易倡议。",
+            "date_modified": "2026-02-04T17:00:50.000Z"
+        },
+        {
+            "id": 4662890,
+            "content_html": "",
+            "title": "美国贸易代表办公室：美国和墨西哥就如何在关键矿产贸易诸边协议中纳入价格下限进行磋商。",
+            "date_modified": "2026-02-04T17:00:47.000Z"
+        },
+        {
+            "id": 4662887,
+            "content_html": "",
+            "title": "美国贸易代表办公室：与墨西哥达成的行动计划是在对美墨加贸易协定进行审查之际加强双边合作的重要一步。",
+            "date_modified": "2026-02-04T17:00:26.000Z"
+        },
+        {
+            "id": 4662886,
+            "content_html": "",
+            "title": "诺和诺德：已提交司美格鲁肽（Ozempic）25毫克片剂的补充新药申请，该药物用于治疗成年2型糖尿病患者。",
+            "date_modified": "2026-02-04T17:00:07.000Z"
+        },
+        {
+            "id": 4662884,
+            "content_html": "",
+            "title": "诺和诺德：推出诺和泰（Ozempic®）口服片，将于2026年第二季度在美国上市。",
+            "date_modified": "2026-02-04T16:59:44.000Z"
+        },
+        {
+            "id": 4662881,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9466299.d.html",
+            "title": "美国劳工统计局将1月份消费者物价指数报告发布日期推迟至2月13日。",
+            "date_modified": "2026-02-04T16:56:28.000Z"
+        },
+        {
+            "id": 4662880,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2689019.d.html",
+            "title": "房地美涨3.3%，房利美涨3.7%。",
+            "date_modified": "2026-02-04T16:56:12.000Z"
+        },
+        {
+            "id": 4662879,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2688909.d.html",
+            "title": "美国劳工统计局表示，将于2月5日发布12月职位空缺和劳动力流动报告。",
+            "date_modified": "2026-02-04T16:55:46.000Z"
+        },
+        {
+            "id": 4662875,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2688271.d.html",
+            "title": "由于委内瑞拉局势动荡，欧佩克1月的产量有所下降。",
+            "date_modified": "2026-02-04T16:53:14.000Z"
+        },
+        {
+            "id": 4662873,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9465185.d.html",
+            "title": "纳斯达克100指数跌幅扩大至2%。",
+            "date_modified": "2026-02-04T16:52:06.000Z"
+        },
+        {
+            "id": 4662871,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9464696.d.html",
+            "title": "印度航空表示，已对开关完成预防性重新检查，未发现问题，将对英国民航局作出回应。",
+            "date_modified": "2026-02-04T16:50:31.000Z"
+        },
+        {
+            "id": 4662870,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2687482.d.html",
+            "title": "英国民用航空管理局警告印度航空，若其在一周内不作出回应，可能会对其采取监管行动。",
+            "date_modified": "2026-02-04T16:50:28.000Z"
+        },
+        {
+            "id": 4662868,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2686971.d.html",
+            "title": "【乌官员称三方会谈首日谈判内容充实且富有成效】乌克兰国家安全与国防委员会秘书乌梅罗夫4日表示，当天在阿布扎比举行乌美俄三方会谈后，谈判进程继续以小组形式进行。他表示，本轮会谈内容充实、富有成效，重点关注具体行动和实际解决方案。",
+            "date_modified": "2026-02-04T16:49:11.000Z"
+        },
+        {
+            "id": 4662856,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2684701.d.html",
+            "title": "特朗普反欺诈特别工作组将针对加利福尼亚州展开行动，该工作组将由副总统万斯领导。",
+            "date_modified": "2026-02-04T16:41:49.000Z"
+        },
+        {
+            "id": 4662855,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2684579.d.html",
+            "title": "卡塔尔和伊朗外长讨论缓和局势的努力。",
+            "date_modified": "2026-02-04T16:41:27.000Z"
+        },
+        {
+            "id": 4662853,
+            "content_html": "",
+            "title": "美国主要汽车制造商希望对特朗普政府的燃油经济性提案作出修改，但支持大幅降低严格程度的计划。",
+            "date_modified": "2026-02-04T16:40:08.000Z"
+        },
+        {
+            "id": 4662851,
+            "content_html": "",
+            "title": "精神航空（Spirit Airlines）拟以3000万美元的价格将芝加哥两座机场登机口转让给联合航空（United Airlines）。",
+            "date_modified": "2026-02-04T16:37:35.000Z"
+        },
+        {
+            "id": 4662848,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksrac3464652.d.html",
+            "title": "保诚金融跌6.8%，为去年4月以来最大跌幅。",
+            "date_modified": "2026-02-04T16:33:15.000Z"
+        },
+        {
+            "id": 4662846,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksrac3464141.d.html",
+            "title": "【中央政府驻港联络办举行2026年新春团拜会】中央人民政府驻香港特别行政区联络办公室2026年新春团拜会4日在香港会议展览中心举行。受中央港澳办、国务院港澳办主任夏宝龙委托，中央港澳办、国务院港澳办副主任，中央政府驻港联络办主任周霁出席并致辞，代表中央港澳办、国务院港澳办和中央政府驻港联络办，向香港市民致以最美好的新春祝福。（新华社）",
+            "date_modified": "2026-02-04T16:32:03.000Z"
+        },
+        {
+            "id": 4662840,
+            "content_html": "",
+            "title": "尼日利亚国家石油公司（NNPC）首席执行官表示，该公司正与一家中国公司就炼油厂项目进行谈判。",
+            "date_modified": "2026-02-04T16:28:38.000Z"
+        },
+        {
+            "id": 4662839,
+            "content_html": "",
+            "title": "尼日利亚国家石油公司（NNPC）首席执行官表示，该公司将出让其在炼油厂的部分股权，以确保炼油厂能够实现自我融资。",
+            "date_modified": "2026-02-04T16:28:36.000Z"
+        },
+        {
+            "id": 4662838,
+            "content_html": "",
+            "title": "尼日利亚国家石油公司（NNPC）首席执行官表示，该公司正在寻找有经验的炼油厂运营商作为股权合作伙伴，以重振亏损的炼油厂。",
+            "date_modified": "2026-02-04T16:28:33.000Z"
+        },
+        {
+            "id": 4662836,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzz6360964.d.html",
+            "title": "乌克兰总统泽连斯基任命了一位临时对外情报局局长。",
+            "date_modified": "2026-02-04T16:27:45.000Z"
+        },
+        {
+            "id": 4662832,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2678370.d.html",
+            "title": "【美国务卿：俄乌谈判取得进展 但最棘手问题仍未解决】当地时间2月4日，美国国务卿鲁比奥表示，乌克兰与俄罗斯之间的和平谈判已取得一定进展，但剩余的议题也是“最困难的部分”，短期内难以实现突破。鲁比奥当天表示，与去年同期相比，特朗普政府在推动乌俄谈判方面已取得“显著进展”。他说，如果对比去年此时尚未解决的议题清单与目前仍待解决的问题数量，可以明显看到清单已“大幅缩短”。不过，鲁比奥同时强调，尽管未解决事项减少，但留下的都是最复杂、最难处理的问题。",
+            "date_modified": "2026-02-04T16:21:24.000Z"
+        },
+        {
+            "id": 4662830,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzz6358382.d.html",
+            "title": "【国开行香港分行澳门首笔政策性银行公募债券在MOX上市】国家开发银行香港分行澳门首笔政策性银行公募债券4日在中华（澳门）金融资产交易股份有限公司（简称“MOX”）成功上市。此笔债券上市共计总规模为55亿元人民币，其中，3年期专项债券票面利率为1.75%，规模为35亿元人民币；5年期专项债券票面利率为1.85%，规模为20亿元人民币。这是于澳门发行的首只政策性银行公募债券，也是国开行香港分行首次在澳门发行“一带一路”及葡语国家和地区的专项债券。",
+            "date_modified": "2026-02-04T16:17:56.000Z"
+        },
+        {
+            "id": 4662829,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzz6358021.d.html",
+            "title": "乌克兰首席谈判代表称在阿布扎比举行的谈判具有实质意义且富有成效。",
+            "date_modified": "2026-02-04T16:16:32.000Z"
+        },
+        {
+            "id": 4662828,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2676460.d.html",
+            "title": "惠誉因主权评级调整将土耳其财富基金展望上调至正面。",
+            "date_modified": "2026-02-04T16:14:47.000Z"
+        },
+        {
+            "id": 4662825,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9451972.d.html",
+            "title": "纳斯达克100指数跌幅扩大至1.5%。",
+            "date_modified": "2026-02-04T16:09:43.000Z"
+        },
+        {
+            "id": 4662824,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2674694.d.html",
+            "title": "【欧洲议会恢复针对批准欧美贸易协议提案的立法工作】欧洲议会4日决定，恢复针对批准欧美贸易协议提案的立法工作。此前，由于美国总统特朗普为得到格陵兰岛而一度宣称将对欧洲8国加征关税，欧洲议会1月21日决定暂缓批准欧美贸易协议。",
+            "date_modified": "2026-02-04T16:09:28.000Z"
+        },
+        {
+            "id": 4662820,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2672621.d.html",
+            "title": "【我国科学家世界首次发现帕金森病底层功能网络机制】昌平实验室科学家刘河生教授团队5日发布，团队发现了帕金森病的底层功能网络机制，并针对这一网络进行直接干预，在临床研究中取得良好成效，此次发现属世界首次。这项突破性成果发表于5日上线的国际学术期刊《自然》。",
+            "date_modified": "2026-02-04T16:03:24.000Z"
+        },
+        {
+            "id": 4662819,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzz6353377.d.html",
+            "title": "伊朗高级官员表示：在阿曼与美国的会谈将仅涉及核问题，导弹计划不在讨论范围内。",
+            "date_modified": "2026-02-04T16:02:49.000Z"
+        },
+        {
+            "id": 4662818,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzw2672302.d.html",
+            "title": "【可灵3.0系列模型正式上线 基于All-in-One产品和技术理念构建】2月5日，可灵AI正式全球上线3.0系列模型，目前正面向黑金会员开放使用，预计将于近期全量上线。此次发布的可灵视频3.0、可灵视频3.0 Omni及可灵图片3.0、可灵图片3.0 Omni模型，覆盖图片生成、视频生成、编辑及后期等影视级全流程链路，标志着AI正式进入影视与创意内容的核心生产环节，可灵AI也正式迈入3.0时代。",
+            "date_modified": "2026-02-04T16:02:36.000Z"
+        },
+        {
+            "id": 4662815,
+            "content_html": "",
+            "title": "Cerebras Systems完成H轮融资，筹集10亿美元，估值约230亿美元。",
+            "date_modified": "2026-02-04T16:01:23.000Z"
+        },
+        {
+            "id": 4662813,
+            "content_html": "",
+            "title": "俄罗斯统计局：截至2月2日当周，俄罗斯消费者通胀率为0.20%，前一周为0.19%。",
+            "date_modified": "2026-02-04T16:00:12.000Z"
+        },
+        {
+            "id": 4662811,
+            "content_html": "",
+            "title": "Anthropic承诺旗下Claude产品永不投放广告，并借超级碗赛事向ChatGPT发起挑战。",
+            "date_modified": "2026-02-04T15:56:23.000Z"
+        },
+        {
+            "id": 4662810,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6351378.d.html",
+            "title": "【美股存储概念股跌幅扩大】闪迪跌近11%，西部数据跌超8%，美光科技跌超7%，希捷科技跌超5%。",
+            "date_modified": "2026-02-04T15:55:43.000Z"
+        },
+        {
             "id": 4662806,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2669279.d.html",
@@ -38,380 +292,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2667366.d.html",
             "title": "【尼日利亚两个村庄遭武装袭击致超百人死亡】尼日利亚红十字会消息人士4日向记者证实，尼中部夸拉州卡亚马地方政府辖区两个村庄3日晚遭武装人员袭击，截至发稿时，死亡人数已超过100人。",
             "date_modified": "2026-02-04T15:42:47.000Z"
-        },
-        {
-            "id": 4662794,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9444399.d.html",
-            "title": "美国国务卿鲁比奥：伊朗会谈的地点仍在协商中。",
-            "date_modified": "2026-02-04T15:42:16.000Z"
-        },
-        {
-            "id": 4662793,
-            "content_html": "",
-            "title": "美国国务卿鲁比奥：要使与伊朗的谈判取得有意义的成果，就必须将弹道导弹问题纳入讨论范围。",
-            "date_modified": "2026-02-04T15:41:57.000Z"
-        },
-        {
-            "id": 4662791,
-            "content_html": "",
-            "title": "美国能源信息署（EIA）：美国馏分油库存上周出现自2021年2月以来的最大单周降幅。",
-            "date_modified": "2026-02-04T15:41:16.000Z"
-        },
-        {
-            "id": 4662788,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9443253.d.html",
-            "title": "美国国务卿鲁比奥：维特科夫和库什纳将参加有关乌克兰问题会议的部分议程。",
-            "date_modified": "2026-02-04T15:38:19.000Z"
-        },
-        {
-            "id": 4662787,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6346136.d.html",
-            "title": "巴拿马方面称，巴拿马运河相关裁决完全基于法律，而非政治因素。",
-            "date_modified": "2026-02-04T15:38:12.000Z"
-        },
-        {
-            "id": 4662786,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2665724.d.html",
-            "title": " 美国国务卿鲁比奥：乌克兰和俄罗斯的技术军事团队将于周三和周四在阿布扎比举行会议。",
-            "date_modified": "2026-02-04T15:37:21.000Z"
-        },
-        {
-            "id": 4662785,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9442816.d.html",
-            "title": "美国能源信息署（EIA）：美国汽油库存最近一周升至2020年6月以来的最高水平。",
-            "date_modified": "2026-02-04T15:37:04.000Z"
-        },
-        {
-            "id": 4662778,
-            "content_html": "",
-            "title": "市场资讯：欧盟成员国就向乌克兰提供900亿欧元（1080亿美元）贷款的实施框架达成一致。",
-            "date_modified": "2026-02-04T15:35:44.000Z"
-        },
-        {
-            "id": 4662777,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2665187.d.html",
-            "title": "瑞银集团：归属于股东的净利润为11.99亿美元，本季度同比增长56%。",
-            "date_modified": "2026-02-04T15:35:19.000Z"
-        },
-        {
-            "id": 4662775,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2665091.d.html",
-            "title": "EIA：受寒流影响，美国石油库存创2016年以来最大降幅。",
-            "date_modified": "2026-02-04T15:34:58.000Z"
-        },
-        {
-            "id": 4662774,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9442212.d.html",
-            "title": "美国国务卿鲁比奥：将于周三晚些时候与多个合作伙伴签署关键矿产框架协议。",
-            "date_modified": "2026-02-04T15:34:37.000Z"
-        },
-        {
-            "id": 4662771,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9442086.d.html",
-            "title": "美国国务卿鲁比奥：贸易代表格里尔将提出关键矿产的价格下限机制。",
-            "date_modified": "2026-02-04T15:34:11.000Z"
-        },
-        {
-            "id": 4662768,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9441890.d.html",
-            "title": "瑞银集团：2025年第四季度净利润同比增长56%，达12亿美元。",
-            "date_modified": "2026-02-04T15:33:13.000Z"
-        },
-        {
-            "id": 4662766,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksrac3445984.d.html",
-            "title": "瑞银集团：计划向股东提议每股派发1.10美元股息。",
-            "date_modified": "2026-02-04T15:32:53.000Z"
-        },
-        {
-            "id": 4662765,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2664521.d.html",
-            "title": "瑞银集团2026年展望：预计净节约额将逐步累积，且下半年的占比会更高。",
-            "date_modified": "2026-02-04T15:32:37.000Z"
-        },
-        {
-            "id": 4662764,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2664498.d.html",
-            "title": "瑞银集团：预计第一季度全球财富管理业务的净利息收入将出现个位数的小幅下降。",
-            "date_modified": "2026-02-04T15:32:29.000Z"
-        },
-        {
-            "id": 4662763,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2664400.d.html",
-            "title": "瑞银集团：仍有望在年底前完成整合。",
-            "date_modified": "2026-02-04T15:32:07.000Z"
-        },
-        {
-            "id": 4662762,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2664362.d.html",
-            "title": "瑞银集团：第一季度，个人与企业银行业务的净利息收入预计以美元计算将大致保持稳定。",
-            "date_modified": "2026-02-04T15:31:59.000Z"
-        },
-        {
-            "id": 4662761,
-            "content_html": "",
-            "title": "瑞银集团：2025年第四季度净利润为12亿美元，2025财年净利润为78亿美元；股息同比增长22%。",
-            "date_modified": "2026-02-04T15:31:46.000Z"
-        },
-        {
-            "id": 4662760,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2664081.d.html",
-            "title": "【追觅科技公布三款SUV车型，命名为星际T08、星际T08L和星际D09】2月4日晚间消息，今日，追觅科技在苏州奥体中心举办“敢梦敢为·追觅之夜”演唱会。会上，追觅科技在《敢梦敢为·追觅之夜》演唱会暖场视频中，首次公开三款SUV车型名称及外观。据介绍，三款车型命名分别为星际T08、星际T08L和星际D09。其中，星际T08定位全域硬派SUV，星际T08L定位全地形硬派SUV，星际D09则定位六座奢华旗舰SUV。此外，追觅汽车的品牌名称定为STAR MOTOTR星际穿越。（新浪科技）",
-            "date_modified": "2026-02-04T15:31:01.000Z"
-        },
-        {
-            "id": 4662759,
-            "content_html": "",
-            "title": "艾伯维高管表示，潜在交易并不局限于早期阶段，且专注于核心领域，即免疫学、神经科学、肿瘤学以及拓展肥胖症治疗业务。",
-            "date_modified": "2026-02-04T15:30:22.000Z"
-        },
-        {
-            "id": 4662758,
-            "content_html": "",
-            "title": "美国1月30日当周EIA汽油库存变动 68.5万桶，预期 75.5万桶，前值 22.3万桶。",
-            "date_modified": "2026-02-04T15:30:12.000Z"
-        },
-        {
-            "id": 4662757,
-            "content_html": "",
-            "title": "德国总理弗里德里希·默茨将目光投向中东，试图为欧洲最大经济体多元化能源供应，减少对美国液化天然气进口的依赖。",
-            "date_modified": "2026-02-04T15:29:49.000Z"
-        },
-        {
-            "id": 4662755,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9440709.d.html",
-            "title": "艾伯维高管表示，公司有充足的资金实力来寻求早期和后期阶段的并购机会。",
-            "date_modified": "2026-02-04T15:28:28.000Z"
-        },
-        {
-            "id": 4662754,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9440603.d.html",
-            "title": "《华盛顿邮报》在邮件声明中证实将进行裁员。",
-            "date_modified": "2026-02-04T15:28:03.000Z"
-        },
-        {
-            "id": 4662753,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6342396.d.html",
-            "title": "惠誉：预测加拿大失业率已达峰值，部分反映了收紧的移民政策对劳动力的影响。",
-            "date_modified": "2026-02-04T15:27:47.000Z"
-        },
-        {
-            "id": 4662749,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2663073.d.html",
-            "title": "市场预计美国原油库存将减少670万桶。",
-            "date_modified": "2026-02-04T15:26:19.000Z"
-        },
-        {
-            "id": 4662748,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2662754.d.html",
-            "title": "惠誉：预计加拿大经济增速到2026年将放缓至仅1.1%。",
-            "date_modified": "2026-02-04T15:24:48.000Z"
-        },
-        {
-            "id": 4662747,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2662645.d.html",
-            "title": "美国议员、Waymo公司和特斯拉敦促国会采取行动以加速自动驾驶汽车的部署。",
-            "date_modified": "2026-02-04T15:24:16.000Z"
-        },
-        {
-            "id": 4662746,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9439778.d.html",
-            "title": "惠誉评级：由于贸易风险犹存，加拿大消费者前景仍显疲软。",
-            "date_modified": "2026-02-04T15:24:02.000Z"
-        },
-        {
-            "id": 4662742,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2662031.d.html",
-            "title": "贸易商称，土耳其招标采购并进口25.5万公吨饲料大麦。",
-            "date_modified": "2026-02-04T15:21:53.000Z"
-        },
-        {
-            "id": 4662741,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksrac3442526.d.html",
-            "title": "海湾地区官员表示：目前的计划是让维特科夫和库什纳代表美国（谈判）。",
-            "date_modified": "2026-02-04T15:21:37.000Z"
-        },
-        {
-            "id": 4662740,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6340519.d.html",
-            "title": "海湾地区官员表示：正在讨论的谈判机制是让多个国家协助伊朗和美国进行调解。",
-            "date_modified": "2026-02-04T15:21:20.000Z"
-        },
-        {
-            "id": 4662739,
-            "content_html": "",
-            "title": "墨西哥总统表示，2月份将支付墨西哥国家石油公司（Pemex）2024年欠供应商的部分款项。",
-            "date_modified": "2026-02-04T15:20:59.000Z"
-        },
-        {
-            "id": 4662738,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9438987.d.html",
-            "title": "海湾地区官员表示：正在考虑的议程是就核问题开启谈判，然后逐步讨论其他问题。",
-            "date_modified": "2026-02-04T15:20:55.000Z"
-        },
-        {
-            "id": 4662737,
-            "content_html": "",
-            "title": "海湾官员透露：关于周五在美国和伊朗之间于阿曼举行直接会谈的计划正在敲定中，在土耳其举行会谈的方案已不再被考虑。",
-            "date_modified": "2026-02-04T15:20:47.000Z"
-        },
-        {
-            "id": 4662736,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2661702.d.html",
-            "title": "【美民主党议员要求国土安全部长下台】一段时间以来，美国国土安全部下属的移民与海关执法局、海关与边境保护局等部门的执法人员，在进行移民执法时暴行频发，引发美国国内抗议。2月3日，多名美国民众描述了自己遭执法人员“枪击”或“粗暴对待”的经历。同一天，一群美国民主党联邦议员在华盛顿特区的移民与海关执法局总部门前举行集会，要求国土安全部长诺姆下台。",
-            "date_modified": "2026-02-04T15:20:30.000Z"
-        },
-        {
-            "id": 4662735,
-            "content_html": "",
-            "title": "【沙特与土耳其发表声明反对以色列占领加沙】沙特阿拉伯和土耳其4日发表联合声明，呼吁国际社会向以色列施压结束其对加沙地带的占领，同时加大对加沙民众的救助。土耳其总统埃尔多安3日访问沙特，并与沙特王储兼首相穆罕默德举行会谈。4日，两国就此次访问发表联合声明。双方在声明中强调，国际社会有必要向以色列施压，使其确保平民安全，避免袭击关键基础设施，并遵守国际法和国际人道法。双方强调必须巩固停火，结束以色列对加沙地带的占领。",
-            "date_modified": "2026-02-04T15:20:16.000Z"
-        },
-        {
-            "id": 4662734,
-            "content_html": "",
-            "title": "【四川甘孜州白玉县启动三级森林草原火灾应急响应】记者从甘孜州州委宣传部了解到，白玉县森林火灾已启动三级森林草原火灾应急响应，共组织专业力量及干部群众500余人在现场处置火情，并协调周边8个县市专业力量前往支援。截至22时，当地投入消防救援车23台、水泵47台、水带18190米、油锯21台、灭火水桶150个、移动水池4台、无人机6台、对讲机20台、卫星电话2台，在做好气象监测的基础上科学开展现场扑救。（央视新闻）",
-            "date_modified": "2026-02-04T15:19:37.000Z"
-        },
-        {
-            "id": 4662733,
-            "content_html": "",
-            "title": "礼来公司高管在电话会议上表示，公司预计Orforglipron将于2026年第二季度在美国上市，并于2027年在大多数国际市场推出。",
-            "date_modified": "2026-02-04T15:19:13.000Z"
-        },
-        {
-            "id": 4662732,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6339843.d.html",
-            "title": "礼来公司计划2027年在美国以外地区推出肥胖症口服药。",
-            "date_modified": "2026-02-04T15:19:01.000Z"
-        },
-        {
-            "id": 4662731,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9438565.d.html",
-            "title": "礼来公司称，自费购买的肥胖症药物瓶装制剂为最受欢迎的选择。",
-            "date_modified": "2026-02-04T15:18:52.000Z"
-        },
-        {
-            "id": 4662730,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2661269.d.html",
-            "title": "VinFast汽车有限公司：2025年第四季度在全球交付86,557辆电动汽车。",
-            "date_modified": "2026-02-04T15:18:17.000Z"
-        },
-        {
-            "id": 4662729,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksrac3441504.d.html",
-            "title": "福特汽车据悉与吉利洽谈欧洲产能合作，涉及西班牙工厂。",
-            "date_modified": "2026-02-04T15:17:51.000Z"
-        },
-        {
-            "id": 4662727,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzx9438163.d.html",
-            "title": "礼来公司预计2026年（美国）医疗补助计划对肥胖症药物的覆盖范围将缩减。",
-            "date_modified": "2026-02-04T15:16:50.000Z"
-        },
-        {
-            "id": 4662725,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2660432.d.html",
-            "title": "瑞银：将AMD目标价从330美元下调至310美元。",
-            "date_modified": "2026-02-04T15:14:47.000Z"
-        },
-        {
-            "id": 4662724,
-            "content_html": "",
-            "title": "礼来公司高管在电话会议中表示，预计价格因素将在2026年拖累公司实现低至中两位数的增长。",
-            "date_modified": "2026-02-04T15:14:31.000Z"
-        },
-        {
-            "id": 4662723,
-            "content_html": "",
-            "title": "墨西哥国家石油公司（PEMEX）首席执行官表示，自3月起部分原油出口合同已被取消，因为这些原油将在当地进行精炼。",
-            "date_modified": "2026-02-04T15:13:51.000Z"
-        },
-        {
-            "id": 4662720,
-            "content_html": "",
-            "title": "墨西哥国家石油公司（PEMEX）首席执行官表示，如果有可供出口的原油，对古巴的发货将继续进行，但优先考虑的是在本地进行炼油。",
-            "date_modified": "2026-02-04T15:12:25.000Z"
-        },
-        {
-            "id": 4662717,
-            "content_html": "",
-            "title": "Palantir股价跌至去年7月以来最低点，或回吐周二涨幅；最新跌幅达9.9%。",
-            "date_modified": "2026-02-04T15:10:23.000Z"
-        },
-        {
-            "id": 4662715,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzw2659052.d.html",
-            "title": "【纳斯达克考虑在SpaceX等大型IPO之前推出新的“快速入指”规则】鉴于今年预计将有一大批科技巨头挂牌上市，纳斯达克交易所提议加快将新上市的大型企业纳斯达克100指数。纳斯达克在声明中表示，这项被称为“快速入指”的拟议修订规则将允许新上市公司在满15个交易日后即加入纳斯达克100指数，比目前至少三个月的等待期要短得多。今年有望进行首次公开募股(IPO)的公司包括SpaceX，其潜在估值达1.3万亿美元，料将成为纳斯达克100指数最大成分股之一。",
-            "date_modified": "2026-02-04T15:09:24.000Z"
-        },
-        {
-            "id": 4662714,
-            "content_html": "",
-            "title": "礼来公司首席执行官在电话会议上表示，2025年与礼来直接互动的人数增至超过100万患者。",
-            "date_modified": "2026-02-04T15:08:14.000Z"
-        },
-        {
-            "id": 4662713,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksrac3438693.d.html",
-            "title": "墨西哥总统表示，该国将继续向古巴提供人道主义援助，同时努力处理关税问题。",
-            "date_modified": "2026-02-04T15:07:51.000Z"
-        },
-        {
-            "id": 4662712,
-            "content_html": "",
-            "title": "墨西哥国家石油公司首席执行官称，去年向古巴出售了价值 4.96 亿美元的石油和燃油。",
-            "date_modified": "2026-02-04T15:07:32.000Z"
-        },
-        {
-            "id": 4662711,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksrac3438367.d.html",
-            "title": "【12306回应取消3次订单会被锁定账户】针对网友热议的“替别人订票再取消三次，会导致对方当天买不了票”，12306官方对此作出了明确回应：网传的说法并不符合实际规则，该操作触发的购票限制仅针对操作账号本人。换句话说，这种做法无法限制他人购票，反而会导致操作者自身当日购票受限，购票权限会被锁定，次日零点自动恢复。此外，该规则并非新增，而是已实行多年的常规规定，目的是规范购票秩序，打击恶意刷单、囤票等扰乱票务秩序的行为。（央视新闻）",
-            "date_modified": "2026-02-04T15:06:56.000Z"
-        },
-        {
-            "id": 4662710,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhksqzz6336340.d.html",
-            "title": "墨西哥总统在谈到石油运输时表示，古巴有一个开放的信贷额度，并且会按时还款。",
-            "date_modified": "2026-02-04T15:06:31.000Z"
         }
     ]
 }
