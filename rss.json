@@ -6,6 +6,106 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4663027,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhkszrt9251378.d.html",
+            "title": "美国劳工部：计划按原计划于周四发布每周失业救济申请报告。",
+            "date_modified": "2026-02-04T19:41:51.000Z"
+        },
+        {
+            "id": 4663026,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhkszrx3243826.d.html",
+            "title": "据伊朗官方媒体：伊朗外长阿拉格齐将在阿曼阐明德黑兰在与美国谈判问题上的官方立场。",
+            "date_modified": "2026-02-04T19:37:59.000Z"
+        },
+        {
+            "id": 4663025,
+            "content_html": "",
+            "title": "美国联邦住房金融局局长Bill Pulte：在我看来，两房价值5000亿-750亿美元。",
+            "date_modified": "2026-02-04T19:37:24.000Z"
+        },
+        {
+            "id": 4663023,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviz3374324.d.html",
+            "title": "房利美涨幅扩大至5.3%，房地美也涨5%。",
+            "date_modified": "2026-02-04T19:36:21.000Z"
+        },
+        {
+            "id": 4663021,
+            "content_html": "",
+            "title": "美国联邦住房金融局局长Bill Pulte：如果两房（房利美+房地美）公开上市，可能会出售2.5%-5%的股份。",
+            "date_modified": "2026-02-04T19:35:41.000Z"
+        },
+        {
+            "id": 4663020,
+            "content_html": "",
+            "title": "  波音公司：将为新加坡航空集团运营的 737 MAX 和 787 机队中逾 75 架飞机提供起落架更换服务。",
+            "date_modified": "2026-02-04T19:32:34.000Z"
+        },
+        {
+            "id": 4663019,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviu2602122.d.html",
+            "title": "【报道：Stellantis因ACC工厂瓶颈而面临标致电动车交付延迟】据知情人士透露，由于电池供应商Automotive Cells Co.（ACC）面临制造困难，斯泰兰蒂斯集团Stellantis NV 的部分电动车型正面临交付延迟。标致3008和5008等纯电动车型因ACC生产的长续航电池出现技术故障，交付时间被推迟了长达八个月。ACC目前每月仅能供应约1,000辆汽车所需的电池，远低于其初始目标；目前该公司正考虑在法国实施降本方案，以减轻制造瓶颈带来的财务冲击。",
+            "date_modified": "2026-02-04T19:32:15.000Z"
+        },
+        {
+            "id": 4663016,
+            "content_html": "",
+            "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。",
+            "date_modified": "2026-02-04T19:24:25.000Z"
+        },
+        {
+            "id": 4663014,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviv9375295.d.html",
+            "title": "意图刺杀特朗普的ROUTH被判处终身监禁。",
+            "date_modified": "2026-02-04T19:18:58.000Z"
+        },
+        {
+            "id": 4663012,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviu2596170.d.html",
+            "title": "油价延续涨势，特朗普称伊朗领导人应该感到担心。",
+            "date_modified": "2026-02-04T19:11:11.000Z"
+        },
+        {
+            "id": 4663009,
+            "content_html": "",
+            "title": "美国平等就业机会委员会（EEOC）展开调查并发出传票，向耐克索要相关信息，涉及的主题包括裁员员工的选拔标准，以及“据称提供种族限制指导的项目”。",
+            "date_modified": "2026-02-04T19:07:41.000Z"
+        },
+        {
+            "id": 4663008,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviz3368716.d.html",
+            "title": "美国总统特朗普谈明尼阿波利斯：我们可以采取更温和的方式。",
+            "date_modified": "2026-02-04T19:07:11.000Z"
+        },
+        {
+            "id": 4663006,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviz3368457.d.html",
+            "title": "美国总统特朗普：伊朗最高领袖如今应当忧心忡忡。",
+            "date_modified": "2026-02-04T19:05:52.000Z"
+        },
+        {
+            "id": 4663005,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviv9371816.d.html",
+            "title": "美国总统特朗普： 我觉得他（沃什）反正就是想调整利率。",
+            "date_modified": "2026-02-04T19:05:22.000Z"
+        },
+        {
+            "id": 4663003,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksvix6266036.d.html",
+            "title": "美国总统特朗普： 移民执法仍须保持强硬立场。",
+            "date_modified": "2026-02-04T19:03:07.000Z"
+        },
+        {
             "id": 4663002,
             "content_html": "",
             "title": "潘多拉四季度营收118.6亿丹麦克朗，分析师预期119.3亿克朗。四季度有机营收增长4%，分析师预期增长5.25%。四季度EBIT为40亿丹麦克朗，分析师预期40.1亿克朗。预计2026年有机营收下滑1%至增长2%，分析师预期增长3.87%。预计全年EBIT利润率为21%-22%。",
@@ -286,39 +386,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviv9345785.d.html",
             "title": "DownDetector：用户报告显示美国的OpenAI存在问题。",
             "date_modified": "2026-02-04T17:33:31.000Z"
-        },
-        {
-            "id": 4662923,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksviv9345384.d.html",
-            "title": "美国已告知伊朗，不会同意更改原定于周五举行的会谈地点和形式。",
-            "date_modified": "2026-02-04T17:32:23.000Z"
-        },
-        {
-            "id": 4662915,
-            "content_html": "",
-            "title": "罗马尼亚总理表示，在3月底天然气总体价格上限政策结束后，政府将在一年内控制面向家庭消费者的天然气价格。",
-            "date_modified": "2026-02-04T17:24:57.000Z"
-        },
-        {
-            "id": 4662907,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksqzx9472589.d.html",
-            "title": "【谢锋大使会见美国药品研究与制造企业协会总裁兼首席执行官尤布尔】2026年2月3日，中国驻美国大使谢锋应约会见美国药品研究与制造企业协会（PhRMA）总裁兼首席执行官尤布尔。双方就中美生物医药行业政策、两国医药合作等议题深入交换了意见。（中国驻美国大使馆）",
-            "date_modified": "2026-02-04T17:18:19.000Z"
-        },
-        {
-            "id": 4662904,
-            "content_html": "",
-            "title": "美国中央司令部：美军在叙利亚多地实施军事打击，1月27日至2月2日，美军针对极端组织“伊斯兰国”目标发动五次打击。",
-            "date_modified": "2026-02-04T17:12:30.000Z"
-        },
-        {
-            "id": 4662902,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-05/detail-inhksrac3474676.d.html",
-            "title": "罗马尼亚总理表示，2026年预算赤字目标将占国内生产总值的6.2%。",
-            "date_modified": "2026-02-04T17:10:12.000Z"
         }
     ]
 }
