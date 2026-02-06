@@ -6,9 +6,183 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4668336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1828775.d.html",
+            "title": "阿根廷12月建筑业活动同比增长2.9%。",
+            "date_modified": "2026-02-06T19:01:55.000Z"
+        },
+        {
+            "id": 4668334,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0976393.d.html",
+            "title": "阿根廷国家统计局（INDEC）数据显示，12月阿根廷工业产出同比下降3.9%。",
+            "date_modified": "2026-02-06T19:01:10.000Z"
+        },
+        {
+            "id": 4668332,
+            "content_html": "",
+            "title": "巴西环境监管机构伊巴玛（IBAMA）负责人表示，伊巴玛将因巴西国家石油公司（Petrobras）在亚马孙河口发生液体泄漏事件对其进行罚款。",
+            "date_modified": "2026-02-06T18:57:56.000Z"
+        },
+        {
+            "id": 4668331,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0972498.d.html",
+            "title": "【国际原子能机构：乌克兰电网再遭袭击 核电站运行受影响】国际原子能机构总干事格罗西6日通报称，乌克兰电网上周末再次遭到军事行动冲击，多地输电线路受损，核电站运行受到严重影响。格罗西表示，连接乌克兰与邻国的输电线路被切断，引发境内多条线路连锁断电。受电压波动影响，一座核电站的一台机组脱网并自动停机，其他机组被迫降功率运行。切尔诺贝利核电站一度完全失去外部供电，仅依靠应急柴油发电机维持约一小时。",
+            "date_modified": "2026-02-06T18:49:21.000Z"
+        },
+        {
+            "id": 4668329,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：11月美国天然气凝析液产量增加5.1万桶/日，至784.9万桶/日（10月为779.8万桶/日）。",
+            "date_modified": "2026-02-06T18:43:28.000Z"
+        },
+        {
+            "id": 4668328,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7746230.d.html",
+            "title": "美国共和党减税政策落地后，亚马逊税负大幅下降。",
+            "date_modified": "2026-02-06T18:39:03.000Z"
+        },
+        {
+            "id": 4668327,
+            "content_html": "",
+            "title": "预测平台Kalshi：与体育应用程序Sleeper整合，将预测市场直接引入其平台。",
+            "date_modified": "2026-02-06T18:38:34.000Z"
+        },
+        {
+            "id": 4668323,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7743791.d.html",
+            "title": "通用电气航空集团：宣布每股派息0.47美元。",
+            "date_modified": "2026-02-06T18:31:58.000Z"
+        },
+        {
+            "id": 4668321,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1822092.d.html",
+            "title": "【亚洲室内田径锦标赛首日中国队斩获三金】第十二届亚洲室内田径锦标赛6日在天津拉开战幕，中国队成为当日最大赢家，斩获六枚金牌中的三枚，其中男子三级跳远和女子铅球都是包揽前三名。",
+            "date_modified": "2026-02-06T18:28:47.000Z"
+        },
+        {
+            "id": 4668320,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1821408.d.html",
+            "title": "联合国发言人表示，联合国秘书长“强烈谴责”巴基斯坦一座清真寺遭遇的袭击事件。",
+            "date_modified": "2026-02-06T18:25:15.000Z"
+        },
+        {
+            "id": 4668317,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）数据显示，11月美国精炼油品总出口量升至335.1万桶/日（10月为302.4万桶/日）。",
+            "date_modified": "2026-02-06T18:24:38.000Z"
+        },
+        {
+            "id": 4668316,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）数据显示，美国馏分燃料油出口量11月升至131.3万桶/日（10月为127.4万桶/日）。",
+            "date_modified": "2026-02-06T18:24:35.000Z"
+        },
+        {
+            "id": 4668315,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）数据显示，11月美国汽油出口量升至102.3万桶/日（10月为84.4万桶/日）。",
+            "date_modified": "2026-02-06T18:24:33.000Z"
+        },
+        {
+            "id": 4668312,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0961557.d.html",
+            "title": "【英伟达CEO：人工智能领域资本支出合理且具备可持续性】针对市场担忧客户在数据中心领域支出过高的问题，英伟达CEO黄仁勋表示，当前的支出规模合理且具备可持续性。黄仁勋周五称，人工智能基础设施的建设进程将持续七八年时间，同时表示人工智能领域的需求 “高得惊人”。“人工智能已具备实际应用价值，且性能愈发强大，” 黄仁勋说，“该技术的普及度也已达到极高水平。”黄仁勋认为，人工智能技术已为其应用方带来实际收益，而如果这些企业拥有更多数据中心，业绩表现还将更上一层楼。他并不担心科技行业会出现产能过剩的问题。与互联网首次基础设施建设浪潮不同，当前人工智能领域的基础设施不存在闲置情况。他还提到，Anthropic和OpenAI等企业已凭借人工智能业务实现盈利性营收。",
+            "date_modified": "2026-02-06T18:16:14.000Z"
+        },
+        {
+            "id": 4668307,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：11月美国原油产量降至1378.2万桶/日，较10月修正后的1386.4万桶/日减少8.2万桶/日。",
+            "date_modified": "2026-02-06T18:08:31.000Z"
+        },
+        {
+            "id": 4668306,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：10月美国石油产量向下修正6000桶/日，至1386.4万桶/日。",
+            "date_modified": "2026-02-06T18:08:25.000Z"
+        },
+        {
+            "id": 4668305,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7735670.d.html",
+            "title": "  特朗普下令将自阿根廷的牛肉进口量提升至四倍。",
+            "date_modified": "2026-02-06T18:06:47.000Z"
+        },
+        {
+            "id": 4668303,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1817775.d.html",
+            "title": "特朗普料下令增加从阿根廷的牛肉进口。",
+            "date_modified": "2026-02-06T18:05:39.000Z"
+        },
+        {
+            "id": 4668302,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1817425.d.html",
+            "title": "富国银行将微芯科技的目标股价从每股68美元上调至70美元。",
+            "date_modified": "2026-02-06T18:04:06.000Z"
+        },
+        {
+            "id": 4668300,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7734353.d.html",
+            "title": "俄罗斯总统新闻秘书佩斯科夫表示，目前暂无普京与特朗普的会晤计划。",
+            "date_modified": "2026-02-06T18:03:06.000Z"
+        },
+        {
+            "id": 4668299,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0956955.d.html",
+            "title": "贝克休斯：美国钻井公司连续第三周增加石油和天然气钻井平台数量。",
+            "date_modified": "2026-02-06T18:02:34.000Z"
+        },
+        {
+            "id": 4668298,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7733921.d.html",
+            "title": "贝克休斯：截至2月6日当周，美国天然气钻井平台数量增加5座，至130座。",
+            "date_modified": "2026-02-06T18:01:56.000Z"
+        },
+        {
+            "id": 4668297,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0956679.d.html",
+            "title": "贝克休斯：截至2月6日当周，美国水平钻井平台数量增加5座，达到483座。",
+            "date_modified": "2026-02-06T18:01:47.000Z"
+        },
+        {
+            "id": 4668295,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1816576.d.html",
+            "title": "贝克休斯：美国钻机总数为551。",
+            "date_modified": "2026-02-06T18:00:54.000Z"
+        },
+        {
+            "id": 4668287,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0955353.d.html",
+            "title": "富国银行将亚马逊的目标股价从每股301.00美元上调至每股305.00美元。",
+            "date_modified": "2026-02-06T17:58:00.000Z"
+        },
+        {
+            "id": 4668282,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipx1814906.d.html",
+            "title": "【贝莱德的Rieder减持美国投资级和高收益债 称“非常喜欢”新兴市场】贝莱德全球固定收益首席投资官Rick Rieder表示，他正在降低对美国投资级债券和高收益债券的敞口，同时增加新兴市场债券持仓，理由是估值有利且美元偏弱。Rieder周五称，美国信用市场的收益率利差目前徘徊在三十年来的最低水平附近，在债券供应增加之际，这样的利差没有足够吸引力。Rieder称，他看好新兴市场的部分原因在于，其相对美国垃圾债的收益率溢价处于从历史上看颇具吸引力的水平。“我们非常喜欢新兴市场，”他说，“美元会继续受到限制。新兴市场与高收益债之间的收益率差，几乎处于历来最佳水平。”他还补充称，在欧洲市场去年表现尤为强劲之后，他已将部分投资从欧洲转向亚洲。",
+            "date_modified": "2026-02-06T17:52:34.000Z"
+        },
+        {
             "id": 4668281,
             "content_html": "",
-            "title": "  美国中央司令部：亚伯拉罕・林肯”号航母打击群在两艘军用补给舰、两艘美国海岸警卫队巡逻舰的伴随下，今日于阿拉伯海协同航行，第九舰载机联队的战机在编队上空飞行。",
+            "title": "美国中央司令部：亚伯拉罕・林肯号航母打击群在两艘军用补给舰、两艘美国海岸警卫队巡逻舰的伴随下，今日于阿拉伯海协同航行，第九舰载机联队的战机在编队上空飞行。",
             "date_modified": "2026-02-06T17:50:23.000Z"
         },
         {
@@ -168,188 +342,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0944779.d.html",
             "title": "英伟达CEO黄仁勋：市场需求 “空前高涨”。",
             "date_modified": "2026-02-06T17:28:13.000Z"
-        },
-        {
-            "id": 4668236,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipt7721738.d.html",
-            "title": "Anthropic首席执行官：未来6至12个月，软件工程这一职业将彻底被淘汰。",
-            "date_modified": "2026-02-06T17:27:30.000Z"
-        },
-        {
-            "id": 4668235,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxipv4706669.d.html",
-            "title": "【巴基斯坦清真寺爆炸事件已致32人死亡】6日晚间，巴基斯坦卫生部确认，当天下午该国首都伊斯兰堡一座清真寺发生的自杀式爆炸事件已造成32人死亡。当晚，恐怖组织“巴基斯坦塔利班”发表声明，否认与这起爆炸事件有任何关联。",
-            "date_modified": "2026-02-06T17:25:59.000Z"
-        },
-        {
-            "id": 4668230,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxips0940892.d.html",
-            "title": "美国住宅建商PulteGroup股价跌超1%。",
-            "date_modified": "2026-02-06T17:16:29.000Z"
-        },
-        {
-            "id": 4668225,
-            "content_html": "",
-            "title": "俄罗斯总统新闻秘书佩斯科夫宣布，乌克兰问题新一轮谈判即将举行，目前尚未确定具体日期；没有计划在美国举行下一轮谈判，也没有就此进行过讨论。",
-            "date_modified": "2026-02-06T17:08:56.000Z"
-        },
-        {
-            "id": 4668222,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1067651.d.html",
-            "title": "【美伊核谈判“暂时”结束 伊朗外长离开阿曼首都】当地时间2月6日晚，在当天举行的美伊核谈判结束后，伊朗外交部长阿拉格齐离开阿曼首都马斯喀特。据悉，阿拉格齐在当天谈判结束后接受采访时表示，伊朗代表团必须返回德黑兰就“关键问题”进行磋商，并为未来的谈判做好准备。",
-            "date_modified": "2026-02-06T17:05:22.000Z"
-        },
-        {
-            "id": 4668212,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfv7842687.d.html",
-            "title": "阿根廷外交部长：阿根廷正在寻求提高南方共同市场的灵活性。",
-            "date_modified": "2026-02-06T17:00:05.000Z"
-        },
-        {
-            "id": 4668210,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfx4830967.d.html",
-            "title": "巴基斯坦国防部长：阿富汗政府支持那些加剧与国家对抗的恐怖分子。",
-            "date_modified": "2026-02-06T16:59:01.000Z"
-        },
-        {
-            "id": 4668209,
-            "content_html": "",
-            "title": "美国能源部长赖特表示，在即将进行的委内瑞拉之行中，将更好地了解当地的石油和天然气生产运营情况。",
-            "date_modified": "2026-02-06T16:58:43.000Z"
-        },
-        {
-            "id": 4668208,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfz1932386.d.html",
-            "title": "瑞安航空：呼吁比利时联邦政府撤销联邦税收上调政策。",
-            "date_modified": "2026-02-06T16:57:19.000Z"
-        },
-        {
-            "id": 4668205,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfv7840568.d.html",
-            "title": "凯捷与谷歌云扩大战略合作，加速大规模人工智能应用。",
-            "date_modified": "2026-02-06T16:54:06.000Z"
-        },
-        {
-            "id": 4668204,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1063290.d.html",
-            "title": "美国能源部长赖特表示，不久后将与委内瑞拉领导层会面。",
-            "date_modified": "2026-02-06T16:53:51.000Z"
-        },
-        {
-            "id": 4668202,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1062031.d.html",
-            "title": "泛欧交易所1月现金市场总交易金额环比增长27%。",
-            "date_modified": "2026-02-06T16:50:44.000Z"
-        },
-        {
-            "id": 4668199,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfz1930319.d.html",
-            "title": "巴西总统卢拉：巴西需为安全领域设立专项预算。",
-            "date_modified": "2026-02-06T16:48:59.000Z"
-        },
-        {
-            "id": 4668198,
-            "content_html": "",
-            "title": "OpenAI CEO奥特曼发起投票：用户更希望如何对Codex收费？固定月订阅制，还是20美元为单位的按量付费包？",
-            "date_modified": "2026-02-06T16:47:57.000Z"
-        },
-        {
-            "id": 4668197,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfv7837707.d.html",
-            "title": "美国合众银行（Citizens）维持亚马逊目标股价为每股315美元。",
-            "date_modified": "2026-02-06T16:46:35.000Z"
-        },
-        {
-            "id": 4668195,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1060181.d.html",
-            "title": "巴西总统卢拉：若国会批准相关证券法案，巴西将设立新部委。",
-            "date_modified": "2026-02-06T16:45:49.000Z"
-        },
-        {
-            "id": 4668194,
-            "content_html": "",
-            "title": "OpenAI CEO奥特曼：各界对5.3版本的追捧热潮看着真让人开心。印象中，自打初代GPT-4问世后，还没有哪款模型能引发这么大的热度。",
-            "date_modified": "2026-02-06T16:43:52.000Z"
-        },
-        {
-            "id": 4668192,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1058123.d.html",
-            "title": "Strategy涨超20%。",
-            "date_modified": "2026-02-06T16:40:07.000Z"
-        },
-        {
-            "id": 4668191,
-            "content_html": "",
-            "title": "美国纽约州一名法官为路易吉·曼吉奥内涉联合健康保险部门CEO谋杀案的审判日期设定在6月8日。",
-            "date_modified": "2026-02-06T16:39:26.000Z"
-        },
-        {
-            "id": 4668190,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfx4825204.d.html",
-            "title": "  美国能源部长：威廉姆斯公司旗下的康斯迪图申输油管道项目亟需推进建设。",
-            "date_modified": "2026-02-06T16:37:10.000Z"
-        },
-        {
-            "id": 4668189,
-            "content_html": "",
-            "title": "欧安组织的卡西斯表示，欧安组织准备在卢加诺举行的外长会议上接待俄罗斯外长拉夫罗夫。",
-            "date_modified": "2026-02-06T16:36:03.000Z"
-        },
-        {
-            "id": 4668188,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfz1926415.d.html",
-            "title": "百度短线拉涨，现涨超4%。",
-            "date_modified": "2026-02-06T16:35:23.000Z"
-        },
-        {
-            "id": 4668185,
-            "content_html": "",
-            "title": "特朗普在社交媒体发起投票：是否支持特朗普出台的新行政令，该政令旨在将处方药价格下调最高500%甚至更多？\n注：特朗普所说的500%意为降至五分之一。",
-            "date_modified": "2026-02-06T16:32:38.000Z"
-        },
-        {
-            "id": 4668184,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfv7830413.d.html",
-            "title": "【巴基斯坦爆炸无中国公民死亡消息】据中国驻巴基斯坦使馆消息，目前没有中国公民在2月6日巴基斯坦首都伊斯兰堡爆炸事件中死亡的报告。这起自杀式爆炸事件目前已造成至少31人死亡，超过170人受伤。（CCTV国际时讯）",
-            "date_modified": "2026-02-06T16:27:54.000Z"
-        },
-        {
-            "id": 4668183,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1052528.d.html",
-            "title": "【英伟达领衔增长浪潮 半导体行业有望首次迈入万亿美元时代】受人工智能发展以及计算机芯片几乎渗透至经济各个领域的推动，半导体行业今年的营收有望首次达到1万亿美元。据半导体行业协会(SIA)，2025年行业总销售为7917亿美元，预计2026年还将增长26%。SIA首席执行官John Neuffer表示，市场达到1万亿美元里程碑的速度远快于最初预期，这对整个商业领域而言是个好兆头。",
-            "date_modified": "2026-02-06T16:26:07.000Z"
-        },
-        {
-            "id": 4668180,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfv7828719.d.html",
-            "title": "【联合国秘书长发表声明：欢迎伊朗与美国恢复会谈】当地时间2月6日，联合国秘书长古特雷斯通过新闻发言人发表声明，欢迎伊朗与美国当日恢复会谈，并希望此次会谈有助于缓解地区紧张局势，防止更广泛的危机发生。",
-            "date_modified": "2026-02-06T16:23:26.000Z"
-        },
-        {
-            "id": 4668179,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-07/detail-inhkxcfu1050135.d.html",
-            "title": "【伊朗外长阿拉格齐启程出访卡塔尔】伊朗外长阿拉格齐于当地时间周五晚间动身前往卡塔尔首都多哈，出席第十七届议会大会。作为本次大会特邀嘉宾，阿拉格齐不仅将在周六的大会上发表讲话，还将与卡塔尔首相兼外交大臣会面并举行会谈。",
-            "date_modified": "2026-02-06T16:20:10.000Z"
         }
     ]
 }
