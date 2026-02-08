@@ -4,11 +4,23 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sun, 08 Feb 2026 18:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 19:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄外长：若欧洲国家发动攻击 俄方将用一切手段进行军事回应】当地时间2月8日，俄罗斯外长拉夫罗夫表示，俄方多次声明没有攻击欧洲的任何计划。他说，理智的欧洲人理解这一点，但部分欧洲国家领导人将自己驱赶进了与俄罗斯对抗的陷阱并被迫不断提升局势的紧张程度。拉夫罗夫指出，如果欧洲国家准备战争并开始攻击俄罗斯，那么来自俄方的应对方式将不是特别军事行动，而是利用一切手段的完全军事回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-09/detail-inhmczzz6764519.d.html</link>
+            <guid>4670465</guid>
+            <pubDate>Sun, 08 Feb 2026 19:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看好A股春节假期前后“红包行情” 机构称“持股过节或为上策”】过去一周，A股市场整体呈震荡调整态势，节前资金观望情绪有所升温。本周，A股即将迎来春节假期前最后一个交易周。每逢春节临近，市场对持股过节还是持币过节的讨论就会升温。机构策略展望报告显示，此前市场调整的核心原因，是海外AI产业链情绪扰动与主要市场流动性预期边际变化共同作用，导致了市场风险偏好的阶段性回落，而非基本面发生了根本性走弱。从历史规律来看，春节假期前A股市场往往因资金观望出现短线调整，而春节假期后随着资金回流，市场量能通常会迎来显著提升。综合历史经验与当下市场基本面来看，A股具备积极布局的基础，持股过节的性价比相对较高。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-09/detail-inhmcvty2726091.d.html</link>
+            <guid>4670464</guid>
+            <pubDate>Sun, 08 Feb 2026 19:04:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【战争选项未排除 以色列仍是伊美谈判危险因素】8日，伊朗外长阿拉格齐就近期地区局势、美伊关系等热点议题举行新闻发布会。阿拉格齐在会上进一步阐释了伊朗的谈判立场以及与谈判有关的后续计划。这也是自本月6日伊朗和美国在阿曼举行谈判之后，阿拉格齐在伊朗举行的首场新闻发布会。阿拉格齐表示，6日的谈判仅围绕核问题展开，如未来谈判继续进行，谈判的议题也将保持不变。目前各方正在评估首轮谈判结果，并将就谈判是否继续做出决定。他表示，伊朗将带着对过去经验的总结和反思来参与到新的谈判中。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-02-09/detail-inhmcvty2717417.d.html</link>
@@ -442,30 +454,6 @@
             <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhmcmef9984498.d.html</link>
             <guid>4670234</guid>
             <pubDate>Sun, 08 Feb 2026 13:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相高市早苗表示，我的目标是打造一个能抵御外汇波动的有韧性的国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhmcmef9984351.d.html</link>
-            <guid>4670232</guid>
-            <pubDate>Sun, 08 Feb 2026 13:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相高市早苗称日元贬值利弊皆有。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhmcmei7086105.d.html</link>
-            <guid>4670231</guid>
-            <pubDate>Sun, 08 Feb 2026 13:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相高市早苗：将加快有关食品减税的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhmcmee2924820.d.html</link>
-            <guid>4670230</guid>
-            <pubDate>Sun, 08 Feb 2026 13:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本选举：首相高市早苗表示将加快考虑削减消费税。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhmcmea6147556.d.html</link>
-            <guid>4670229</guid>
-            <pubDate>Sun, 08 Feb 2026 13:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
