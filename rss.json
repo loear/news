@@ -6,8 +6,421 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4685321,
+            "content_html": "",
+            "title": "知名投资者Jenny Harrington认为，购买实物资产、低淘汰率的股息股可能是对冲日益增长的人工智能威胁的良好方式。\"这些股票，假设人类在AI时代继续生存，我们将在未来10年、15年、20年内持续使用这些产品。\"",
+            "date_modified": "2026-02-17T20:49:53.000Z"
+        },
+        {
+            "id": 4685318,
+            "content_html": "",
+            "title": "在埃塞俄比亚总理阿比·艾哈迈德·阿里陪同下，土耳其总统埃尔多安受到埃塞俄比亚儿童热情的迎接和问候。视频显示，埃尔多安步履蹒跚。",
+            "date_modified": "2026-02-17T20:47:23.000Z"
+        },
+        {
+            "id": 4685317,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4632235.d.html",
+            "title": "泛林半导体加大在博伊西的投资，以支持美国半导体制造业预计的增长态势。",
+            "date_modified": "2026-02-17T20:46:17.000Z"
+        },
+        {
+            "id": 4685316,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5621905.d.html",
+            "title": "【美国一司机逃避移民执法人员拦查时发生车祸 致1人死亡】当地时间2月17日，美国佐治亚州萨凡纳市一名涉嫌逃避移民执法人员拦查的司机发生车祸，导致一名教师死亡。",
+            "date_modified": "2026-02-17T20:42:55.000Z"
+        },
+        {
+            "id": 4685315,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1408867.d.html",
+            "title": "【美国科罗拉多州发生多车连环相撞事故 已致4人死亡】当地时间2月17日，美国科罗拉多州一公路发生多车连环相撞事故，造成至少4人死亡，另有29人被送医。",
+            "date_modified": "2026-02-17T20:42:31.000Z"
+        },
+        {
+            "id": 4685312,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4631469.d.html",
+            "title": "美国副总统万斯：可能会有一种联邦人工智能标准或一种州级标准占据主导地位。",
+            "date_modified": "2026-02-17T20:41:17.000Z"
+        },
+        {
+            "id": 4685311,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5621619.d.html",
+            "title": "美国副总统万斯：将采用统一的人工智能标准。",
+            "date_modified": "2026-02-17T20:39:59.000Z"
+        },
+        {
+            "id": 4685309,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1407968.d.html",
+            "title": "美国副总统万斯：不希望移民执法（出现）混乱局面。",
+            "date_modified": "2026-02-17T20:37:15.000Z"
+        },
+        {
+            "id": 4685307,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1407790.d.html",
+            "title": "美国空军公布“空军一号”及行政机队新的红、白、金、蓝涂装方案。",
+            "date_modified": "2026-02-17T20:36:08.000Z"
+        },
+        {
+            "id": 4685305,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4630347.d.html",
+            "title": "美国副总统万斯：降低利率是特朗普议程的关键部分。",
+            "date_modified": "2026-02-17T20:34:40.000Z"
+        },
+        {
+            "id": 4685304,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1407509.d.html",
+            "title": "美国副总统万斯：降息将使住房更容易负担得起。",
+            "date_modified": "2026-02-17T20:34:29.000Z"
+        },
+        {
+            "id": 4685303,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1407455.d.html",
+            "title": "【美国一男子手持霰弹枪冲向国会大厦随后被捕】当地时间2月17日，美国警方表示，一名手持霰弹枪冲向美国国会大厦的男子已被逮捕，相关调查仍在进行中。",
+            "date_modified": "2026-02-17T20:34:09.000Z"
+        },
+        {
+            "id": 4685299,
+            "content_html": "",
+            "title": "Stripe旗下的Bridge获美国货币监理署（OCC）有条件批准组建一家联邦特许全国信托银行。",
+            "date_modified": "2026-02-17T20:28:01.000Z"
+        },
+        {
+            "id": 4685298,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5620340.d.html",
+            "title": "美国副总统万斯：伊朗绝不能拥有核武器，这一直是核心重点。",
+            "date_modified": "2026-02-17T20:26:37.000Z"
+        },
+        {
+            "id": 4685297,
+            "content_html": "",
+            "title": "特朗普：很高兴宣布在得克萨斯州的石油和天然气战略领域、俄亥俄州的发电领域以及佐治亚州的关键矿产领域将开展三个项目。",
+            "date_modified": "2026-02-17T20:25:05.000Z"
+        },
+        {
+            "id": 4685296,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4628636.d.html",
+            "title": "特朗普：俄亥俄州天然气发电厂将是（美国）历史上最大的。",
+            "date_modified": "2026-02-17T20:23:53.000Z"
+        },
+        {
+            "id": 4685295,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4628583.d.html",
+            "title": "美国副总统万斯：希望欧洲盟友做得更好。",
+            "date_modified": "2026-02-17T20:23:35.000Z"
+        },
+        {
+            "id": 4685290,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4628359.d.html",
+            "title": "特朗普：日本正在推进5500亿美元的首笔投资计划。",
+            "date_modified": "2026-02-17T20:22:22.000Z"
+        },
+        {
+            "id": 4685283,
+            "content_html": "",
+            "title": "美国副总统万斯：特朗普希望找到解决方案，无论是通过外交途径还是其他选择。",
+            "date_modified": "2026-02-17T20:19:33.000Z"
+        },
+        {
+            "id": 4685282,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4627770.d.html",
+            "title": "美国副总统万斯：刚刚与库什纳、威特科夫就伊朗问题交换了意见。",
+            "date_modified": "2026-02-17T20:18:57.000Z"
+        },
+        {
+            "id": 4685281,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5619506.d.html",
+            "title": "美国副总统万斯：伊朗人仍不愿承认特朗普的一些红线。",
+            "date_modified": "2026-02-17T20:18:47.000Z"
+        },
+        {
+            "id": 4685279,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4627632.d.html",
+            "title": "美国副总统万斯：伊朗谈判进展顺利。",
+            "date_modified": "2026-02-17T20:18:15.000Z"
+        },
+        {
+            "id": 4685277,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5619430.d.html",
+            "title": "【阿富汗释放三名巴基斯坦士兵】阿富汗政府发言人穆贾希德17日晚宣布，阿方当天释放三名被关押超过4个月的巴基斯坦士兵。",
+            "date_modified": "2026-02-17T20:18:00.000Z"
+        },
+        {
+            "id": 4685276,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1404724.d.html",
+            "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
+            "date_modified": "2026-02-17T20:17:42.000Z"
+        },
+        {
+            "id": 4685275,
+            "content_html": "",
+            "title": "瑞银将eBay的目标价从每股95.00美元下调至93.00美元，维持对eBay股票的“中性”评级。",
+            "date_modified": "2026-02-17T20:16:29.000Z"
+        },
+        {
+            "id": 4685273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4627157.d.html",
+            "title": "亚马逊的Blue Jay项目已于1月悄然终止。",
+            "date_modified": "2026-02-17T20:15:29.000Z"
+        },
+        {
+            "id": 4685272,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1404236.d.html",
+            "title": "【纽约市长拟二十余年来首次提高房产税 计划上调幅度为9.5%】美国纽约市市长佐赫兰·马姆达尼提议二十多年来首次提高纽约市房产税，并计划动用城市储备基金来填补约50亿美元的预算缺口。纽约市审计长马克·莱文表示，“他提出了一个相当极端的方案，提高房产税和动用储备金双管齐下，并且还依赖于一些相当激进的收入预测”。拟议中9.5%的房产税上调计划从7月1日开始的下一财政年度生效，马姆达尼称之为“最后手段”，该调整将涵盖全市所有类型的房产，影响超过300万个住宅单元和超过10万个商业单元。市长办公室表示，如果实施，这将在下一财年增加37亿美元的收入。",
+            "date_modified": "2026-02-17T20:14:52.000Z"
+        },
+        {
+            "id": 4685264,
+            "content_html": "",
+            "title": "加拿大总理卡尼：过去几十年里，加拿大在国防上的投入不足，对国防工业的投资也不够。我们过于依赖地理位置和其他国家来保护自己。这造成了我们无法承受的脆弱性和无法持续的依赖性。",
+            "date_modified": "2026-02-17T20:08:12.000Z"
+        },
+        {
+            "id": 4685263,
+            "content_html": "",
+            "title": "微软：Claude Sonnet 4.6 今日在Microsoft Foundry上线。",
+            "date_modified": "2026-02-17T20:07:27.000Z"
+        },
+        {
+            "id": 4685261,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1402702.d.html",
+            "title": "【白宫拒绝民主党提出的结束国土安全部“停摆”最新方案】当地时间2月17日，美国白宫拒绝了民主党提出的最新方案，双方在结束国土安全部（DHS）部分“停摆”问题上仍“相距甚远”。白宫官员表示，政府仍愿进行“善意对话”以结束“民主党导致的‘停摆’”，但同时坚持执行总统在移民执法方面的承诺。民主党方面则要求在联邦移民执法上加强监督，作为支持拨款的前提。此次部分停摆已持续数日，暂未看到即将达成协议的迹象。",
+            "date_modified": "2026-02-17T20:05:37.000Z"
+        },
+        {
+            "id": 4685257,
+            "content_html": "",
+            "title": "加拿大总理卡尼：我们目前有望在今年春季达到北约2%的（国防）开支目标，比原计划提前了整整十年。",
+            "date_modified": "2026-02-17T20:03:22.000Z"
+        },
+        {
+            "id": 4685254,
+            "content_html": "",
+            "title": "消息人士称，美国环境保护署（EPA）预计本周将把2026年生物燃料混合配额提交至白宫进行最终审核。",
+            "date_modified": "2026-02-17T20:01:47.000Z"
+        },
+        {
+            "id": 4685248,
+            "content_html": "",
+            "title": "派拉蒙天空舞公司：确认华纳兄弟探索与奈飞共同发布的声明，它们已决定给予派拉蒙7天的“豁免期”用于谈判。",
+            "date_modified": "2026-02-17T19:47:55.000Z"
+        },
+        {
+            "id": 4685247,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1398327.d.html",
+            "title": "派拉蒙天空舞公司：将继续推进我们的要约收购，并坚持反对与奈飞进行劣质合并。",
+            "date_modified": "2026-02-17T19:46:34.000Z"
+        },
+        {
+            "id": 4685246,
+            "content_html": "",
+            "title": "派拉蒙天空舞公司：我们打算在即将召开的华纳兄弟探索年度股东大会上提名新一届董事会成员。",
+            "date_modified": "2026-02-17T19:46:25.000Z"
+        },
+        {
+            "id": 4685245,
+            "content_html": "",
+            "title": "美国白宫正考虑于周四与银行及加密货币公司召开稳定币收益专题会议，不过相关计划尚未最终确定。",
+            "date_modified": "2026-02-17T19:46:15.000Z"
+        },
+        {
+            "id": 4685244,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenav5615801.d.html",
+            "title": "派拉蒙天空舞公司：董事会还决定于3月20日召开特别股东大会。",
+            "date_modified": "2026-02-17T19:45:54.000Z"
+        },
+        {
+            "id": 4685241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenat8513766.d.html",
+            "title": "派拉蒙确认华纳兄弟公司的豁免期，称已 “准备好” 与其进行接洽。",
+            "date_modified": "2026-02-17T19:44:51.000Z"
+        },
+        {
+            "id": 4685240,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4620349.d.html",
+            "title": "【欧洲多国国安顾问在日内瓦跟进乌美俄会谈】乌克兰总统办公室顾问列先科17日说，欧洲多国领导人的国家安全顾问当天在瑞士日内瓦跟进乌美俄三方会谈情况。列先科在一档电视节目中说，乌方一贯主张欧洲参与谈判。作为乌克兰的主要欧洲盟友，法国、德国、意大利、英国等国国安顾问来到日内瓦，符合乌方利益，也符合乌总统泽连斯基的立场。他说，乌美俄三方会谈以闭门形式举行。这些欧方官员没有直接参与谈判，但与各方代表保持密切联系，及时了解谈判进展。（新华社）",
+            "date_modified": "2026-02-17T19:43:27.000Z"
+        },
+        {
+            "id": 4685238,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4619111.d.html",
+            "title": "【美国与伊朗官员纷纷表态 双方日内瓦核谈判取得进展】一名美国官员周二表示，美国与伊朗当天在日内瓦举行的核谈判取得进展。伊朗谈判代表计划在两周的时间带回一份新的提案。这一审慎而偏向乐观的评估显示，近期爆发军事冲突的可能性较低。伊朗将提交更为详细的方案，以弥合双方之间剩余的分歧，但同时提醒称仍有许多细节有待讨论。而伊朗早前在声明中表示，已与美国围绕一项潜在核协议的基础达成总体共识，该协议将解除对德黑兰的制裁并缓解中东战争风险。",
+            "date_modified": "2026-02-17T19:39:03.000Z"
+        },
+        {
+            "id": 4685236,
+            "content_html": "",
+            "title": "黑石旗下的Liftoff Mobile据悉最早将于周二考虑重新提交首次公开募股申请。",
+            "date_modified": "2026-02-17T19:34:21.000Z"
+        },
+        {
+            "id": 4685235,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenat8512176.d.html",
+            "title": "巴拿马分两阶段发行30亿美元债券。",
+            "date_modified": "2026-02-17T19:33:22.000Z"
+        },
+        {
+            "id": 4685233,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4616934.d.html",
+            "title": "【特斯拉无人驾驶出租车运营8个月内发生14起事故】据特斯拉向美国监管机构提交的报告显示，该公司无人驾驶出租车在奥斯汀投入运营8个月内上报了14起碰撞事故，事故类型包括财产损失、轻微受伤及人员住院。特斯拉尚未披露目前在奥斯汀投放的无人驾驶出租车车队规模，但计划在年中前将服务拓展至约另外7座城市。首起事故发生在去年7月，公司当时上报仅造成财产损失。但特斯拉在12月就该起事故提交了补充报告，新增信息显示事故造成了轻微受伤与人员住院。另一起同样发生在7月的事故也导致轻微受伤。特斯拉最新报告显示，1月上报了去年12月与今年1月发生的5起新事故。其中1月的一起事故为一辆静止的无人驾驶出租车与奥斯汀市公交车相撞；另有两起事故是无人驾驶出租车在停车场倒车时撞上物体。",
+            "date_modified": "2026-02-17T19:31:10.000Z"
+        },
+        {
+            "id": 4685231,
+            "content_html": "",
+            "title": "加拿大汽车工人联合会（Unifor）：该决定可能会使温哥华国际机场二号货运站（YVR2）的工人获得超过100万加元的欠薪。",
+            "date_modified": "2026-02-17T19:28:46.000Z"
+        },
+        {
+            "id": 4685230,
+            "content_html": "",
+            "title": "加拿大汽车工人联合会（Unifor）：劳工委员会认定，亚马逊非法克扣其三角洲（Delta）工厂员工本应获得的加薪。",
+            "date_modified": "2026-02-17T19:28:25.000Z"
+        },
+        {
+            "id": 4685229,
+            "content_html": "",
+            "title": "加拿大汽车工人联合会（Unifor）：不列颠哥伦比亚省劳工关系委员会裁定，亚马逊“非法”对工会成员实施工资冻结，违反了劳工法。",
+            "date_modified": "2026-02-17T19:28:19.000Z"
+        },
+        {
+            "id": 4685228,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4615717.d.html",
+            "title": "  秘鲁国会投票罢免了临时总统何塞·杰里。",
+            "date_modified": "2026-02-17T19:26:50.000Z"
+        },
+        {
+            "id": 4685227,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4615564.d.html",
+            "title": "伊朗外交部召见德国大使。",
+            "date_modified": "2026-02-17T19:26:13.000Z"
+        },
+        {
+            "id": 4685226,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenas1392677.d.html",
+            "title": "秘鲁国会正式通过针对总统杰里的不信任动议，并解除其总统职务。",
+            "date_modified": "2026-02-17T19:25:56.000Z"
+        },
+        {
+            "id": 4685225,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnenaq4614699.d.html",
+            "title": "  秘鲁国会已获得足够票数通过对总统杰里的不信任动议，投票仍在继续。",
+            "date_modified": "2026-02-17T19:23:16.000Z"
+        },
+        {
+            "id": 4685224,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5742894.d.html",
+            "title": "亚马逊：推出适用于亚马逊云科技（AWS）的代理插件。",
+            "date_modified": "2026-02-17T19:21:16.000Z"
+        },
+        {
+            "id": 4685223,
+            "content_html": "",
+            "title": "杰富瑞将Shopify目标价从每股160.00美元下调至125.00美元，维持对Shopify股票的“持有”评级。",
+            "date_modified": "2026-02-17T19:20:03.000Z"
+        },
+        {
+            "id": 4685222,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5742499.d.html",
+            "title": "亿滋国际股价跌超5%，最新报59.43美元。",
+            "date_modified": "2026-02-17T19:19:23.000Z"
+        },
+        {
+            "id": 4685220,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4743092.d.html",
+            "title": "  秘鲁国会就罢免总统杰里的动议开始投票。",
+            "date_modified": "2026-02-17T19:15:18.000Z"
+        },
+        {
+            "id": 4685219,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4742981.d.html",
+            "title": "亿滋国际首席执行官表示，许多消费者对当前零食的平均价格水平感到不安。",
+            "date_modified": "2026-02-17T19:14:58.000Z"
+        },
+        {
+            "id": 4685218,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4742922.d.html",
+            "title": "秘鲁国会决定加速推进罢免该国总统杰里的投票程序。",
+            "date_modified": "2026-02-17T19:14:45.000Z"
+        },
+        {
+            "id": 4685217,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4742663.d.html",
+            "title": "马斯克：准确预测未来是衡量（人工智能模型）智力的最佳标准。",
+            "date_modified": "2026-02-17T19:13:53.000Z"
+        },
+        {
+            "id": 4685216,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5741461.d.html",
+            "title": "立陶宛危机管理中心：维尔纽斯机场因来自白俄罗斯的气球而关闭。",
+            "date_modified": "2026-02-17T19:12:35.000Z"
+        },
+        {
+            "id": 4685215,
+            "content_html": "",
+            "title": "老虎环球管理公司（TIGER GLOBAL MANAGEMENT）将其在Zscaler公司的持股比例削减6.1%，至160万股。",
+            "date_modified": "2026-02-17T19:12:30.000Z"
+        },
+        {
+            "id": 4685214,
+            "content_html": "",
+            "title": "老虎环球管理公司（TIGER GLOBAL MANAGEMENT）将其对拉姆研究公司的持股比例削减25.9%，减至390万股。",
+            "date_modified": "2026-02-17T19:11:52.000Z"
+        },
+        {
+            "id": 4685213,
+            "content_html": "",
+            "title": "老虎全球管理公司（Tiger Global Management）将布洛克公司（Block Inc）的持股比例提高43.9%，至640万股。",
+            "date_modified": "2026-02-17T19:11:12.000Z"
+        },
+        {
+            "id": 4685212,
+            "content_html": "",
+            "title": "老虎环球管理公司（TIGER GLOBAL MANAGEMENT）将其在Reddit的股份减持17.7%，至380万股。",
+            "date_modified": "2026-02-17T19:10:52.000Z"
+        },
+        {
             "id": 4685211,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5741006.d.html",
             "title": "【乌方代表：乌美俄首日会谈聚焦“实际议题”】乌克兰谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫17日晚在社交媒体发文表示，乌美俄当天在瑞士日内瓦先举行联合会谈，随后进行分组磋商，讨论重点集中于“实际议题及潜在解决方案的落实机制”。",
             "date_modified": "2026-02-17T19:10:28.000Z"
         },
@@ -40,411 +453,6 @@
             "content_html": "",
             "title": "老虎环球管理公司（TIGER GLOBAL MANAGEMENT）将台积电股份减持18.6%，至370万份存托股份。",
             "date_modified": "2026-02-17T19:07:28.000Z"
-        },
-        {
-            "id": 4685202,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1516685.d.html",
-            "title": "乌克兰总统泽连斯基表示，乌克兰人民不会允许他向俄罗斯割让领土。",
-            "date_modified": "2026-02-17T19:04:29.000Z"
-        },
-        {
-            "id": 4685200,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4739297.d.html",
-            "title": "【尼日利亚发生恐袭事件 安理会强烈谴责】当地时间2月17日，联合国安理会发表新闻声明，以最强烈措辞谴责尼日利亚夸拉州3日发生的恐怖袭击事件。声明说，此次袭击造成至少100人死亡，并造成财产损失。",
-            "date_modified": "2026-02-17T19:03:56.000Z"
-        },
-        {
-            "id": 4685197,
-            "content_html": "",
-            "title": "洛杉矶港执行董事：作为全美最繁忙的海运贸易门户，洛杉矶港 1 月份出口量为 104,297 标准箱（TEU），为近三年来最低月度数据。",
-            "date_modified": "2026-02-17T18:53:58.000Z"
-        },
-        {
-            "id": 4685196,
-            "content_html": "",
-            "title": "洛杉矶港执行董事：1 月份洛杉矶港集装箱进口量为 421,594 标准箱（20 英尺当量单位），较 2025 年 1 月下降 13%。",
-            "date_modified": "2026-02-17T18:53:15.000Z"
-        },
-        {
-            "id": 4685195,
-            "content_html": "",
-            "title": "  亚马逊云科技（AWS）与约塔数据服务公司（Yotta Data Services）合作，为印度国家信息中心（NIC）的MeghRaj 2.0项目部署混合云基础设施。",
-            "date_modified": "2026-02-17T18:52:11.000Z"
-        },
-        {
-            "id": 4685193,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4733632.d.html",
-            "title": "【乌官员：为准备及组织大选 乌克兰需至少60日全面停火】当地时间17日，乌克兰最高拉达(议会)第一副主席科尔尼延科表示，为了准备关于选举的法律并直接组织冲突期间的选举过程，乌克兰至少需要60天的全面停火。科尔尼延科表示，乌克兰法律规定常规选举需90天，提前选举需60天。60天是最短期限，整个选举过程必须在完全安全的环境下进行。（央视新闻）",
-            "date_modified": "2026-02-17T18:47:07.000Z"
-        },
-        {
-            "id": 4685192,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4732995.d.html",
-            "title": "【俄媒：俄美乌首日会谈气氛紧张 其间举行俄乌会谈】俄罗斯塔斯社17日援引消息人士的话报道，当天在瑞士日内瓦举行的俄美乌三方首日会谈气氛紧张，其间还举行了俄美、俄乌会谈。各方同意18日继续会谈。（新华社）",
-            "date_modified": "2026-02-17T18:45:14.000Z"
-        },
-        {
-            "id": 4685191,
-            "content_html": "",
-            "title": "特斯拉CEO埃隆·马斯克：Grok 4.2 公开测试版现已上线可供使用。你需要手动选择该版本。与此前的 Grok 版本不同，4.2 能够快速学习，因此每周都会通过更新日志带来功能改进。",
-            "date_modified": "2026-02-17T18:41:00.000Z"
-        },
-        {
-            "id": 4685190,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1508437.d.html",
-            "title": "  纳斯达克 100 指数收复失地。",
-            "date_modified": "2026-02-17T18:39:31.000Z"
-        },
-        {
-            "id": 4685189,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4730796.d.html",
-            "title": "【巴克莱银行： “机器人十年”点燃万亿美元市场希望】根据巴克莱银行分析团队的观点，到2035年，由人工智能（AI）驱动的机器人和自主机器市场有望膨胀至 1 万亿美元 的规模。分析师在题为《机器人十年》（The Decade of the Robot）的报告中写道，自动驾驶汽车将一马当先，紧随其后的是无人机，最后是更为复杂的通用人机机器人。",
-            "date_modified": "2026-02-17T18:37:57.000Z"
-        },
-        {
-            "id": 4685187,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4730313.d.html",
-            "title": "据伊朗媒体报道，伊朗周二短暂关闭了霍尔木兹海峡数小时，以进行安全演习。",
-            "date_modified": "2026-02-17T18:36:28.000Z"
-        },
-        {
-            "id": 4685184,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1507168.d.html",
-            "title": "【燃料紧缺迫使谢里特国际暂停古巴镍钴矿业务】谢里特国际公司（Sherritt International Corp.）由于燃料供应受限，计划暂停在古巴的镍和钴生产。该公司预计将在下周内暂停其Moa合资企业的开采和加工工作，并将在停工期间进行计划内的维护活动。谢里特位于阿尔伯塔省的精炼厂拥有足够运营至4月中旬的库存；其在古巴的Energas SA能源合资项目目前按计划继续运行。",
-            "date_modified": "2026-02-17T18:35:23.000Z"
-        },
-        {
-            "id": 4685183,
-            "content_html": "",
-            "title": "市场消息：白宫经济顾问委员会报告估计，监管负担已使消费者付出超过2370 亿美元的成本。",
-            "date_modified": "2026-02-17T18:28:13.000Z"
-        },
-        {
-            "id": 4685181,
-            "content_html": "",
-            "title": "亚马逊：宣布在Amazon Bedrock上提供Claude Opus 4.6模型。",
-            "date_modified": "2026-02-17T18:22:46.000Z"
-        },
-        {
-            "id": 4685173,
-            "content_html": "",
-            "title": "乌克兰谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫：日内瓦三方会谈第一天已经结束。 联合会议结束后，与会者继续按主题分组讨论。讨论重点集中在实际问题和可能的决策机制上。 截至今日，政治集团和军事集团都已完成各自的工作。 我们感谢美国合作伙伴的建设性合作和稳步推进工作的意愿。今天将向乌克兰总统提交一份关于日内瓦首日谈判结果的报告。明天上午，各政治和军事团体将继续开展工作。",
-            "date_modified": "2026-02-17T18:14:09.000Z"
-        },
-        {
-            "id": 4685170,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5729224.d.html",
-            "title": "【美银：预期欧洲周期股上行空间大于防御股的投资者比例接近一年来的最高水平】Andreas Bruckner牵头的美国银行策略师引用的数据显示，高达74%的投资者认为，随着德国财政刺激措施提振宏观经济数据，欧洲经济增长将在短期内加速，这一比例创纪录新高。他们写道，预期欧洲周期股上行空间大于防御股的投资者比例接近一年来的最高水平。",
-            "date_modified": "2026-02-17T18:06:34.000Z"
-        },
-        {
-            "id": 4685168,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4720810.d.html",
-            "title": "【伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查】伊朗总统佩泽希齐扬17日说，伊朗并不寻求核武器，并已准备好就其核工业的和平性质接受任何形式的核查。（新华社）",
-            "date_modified": "2026-02-17T18:05:50.000Z"
-        },
-        {
-            "id": 4685167,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5728782.d.html",
-            "title": "特斯拉股价跌至逾一周以来的最低水平，最新跌幅为3%。",
-            "date_modified": "2026-02-17T18:04:26.000Z"
-        },
-        {
-            "id": 4685166,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4719870.d.html",
-            "title": "【Anthropic发布新AI模型：操控计算机能力大幅提升】Anthropic PBC发布名为Claude Sonnet 4.6的人工智能（AI）新模型，可以执行需要多个步骤的计算机操作，例如填写网页表单，然后跨多个浏览器标签页协调信息。Anthropic 在一篇博客文章中写道：“在操作计算机方面，该模型当然仍落后于最熟练的人类。但尽管如此，其进步速度依然惊人。”Anthropic表示，Sonnet 4.6在抵御提示词注入攻击（Prompt Injection Attacks）等安全威胁方面表现更好，这类攻击是指通过恶意指令操控AI模型。",
-            "date_modified": "2026-02-17T18:03:04.000Z"
-        },
-        {
-            "id": 4685164,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuv8626301.d.html",
-            "title": "  埃及总理前往华盛顿，出席特朗普主持的和平委员会会议。",
-            "date_modified": "2026-02-17T18:02:19.000Z"
-        },
-        {
-            "id": 4685163,
-            "content_html": "",
-            "title": "美国总统特朗普：今年的退税金额，因为“大而美”法案，远超以往任何时候。据估算，在部分情况下，将有超过 20% 的税款返还给纳税人。",
-            "date_modified": "2026-02-17T18:00:35.000Z"
-        },
-        {
-            "id": 4685162,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4718158.d.html",
-            "title": "【报道：苹果大改AI眼镜等三款可穿戴设备】苹果公司正在加速开发三款新型可穿戴设备。这是其向人工智能（AI）驱动硬件转型战略的一部分，OpenAI和Meta Platforms Inc.也在竞逐这一领域。据知情人士透漏，苹果正加大在智能眼镜、一款可以别在衬衫上或作为项链佩戴的挂饰（Pendant），以及具备扩展AI功能的AirPods上的研发投入。这三款设备都将围绕Siri数字助理构建，Siri将依靠视觉语境（Visual Context）来执行相关指令。每一款产品都将与苹果的iPhone联动，且均依赖于一套功能各异的摄像头系统。",
-            "date_modified": "2026-02-17T17:57:31.000Z"
-        },
-        {
-            "id": 4685161,
-            "content_html": "",
-            "title": "伊拉克内阁批准与俄罗斯卢克石油公司就西古尔纳 2 号油田运营权移交至国有巴士拉石油公司达成友好和解。",
-            "date_modified": "2026-02-17T17:56:52.000Z"
-        },
-        {
-            "id": 4685160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1495048.d.html",
-            "title": "家乐福首席执行官： 我们将继续在法国推行价格优惠政策。",
-            "date_modified": "2026-02-17T17:56:32.000Z"
-        },
-        {
-            "id": 4685158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4717395.d.html",
-            "title": "  华纳兄弟激进投资者安科拉仍对与派拉蒙的谈判表示 “满意”。",
-            "date_modified": "2026-02-17T17:55:08.000Z"
-        },
-        {
-            "id": 4685157,
-            "content_html": "",
-            "title": "LME期铜收跌231美元，报12620美元/吨。LME期铝收跌18美元，报3035美元/吨。LME期锌收跌4美元，报3286美元/吨。LME期铅收跌12美元，报1946美元/吨。LME期镍收跌254美元，报16861美元/吨。LME期锡收涨250美元，报45931美元/吨。LME期钴收平，报56290美元/吨。",
-            "date_modified": "2026-02-17T17:53:49.000Z"
-        },
-        {
-            "id": 4685155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuv8624220.d.html",
-            "title": "  美国前总统奥巴马：听闻杰西・杰克逊逝世的消息，深感悲痛。",
-            "date_modified": "2026-02-17T17:52:40.000Z"
-        },
-        {
-            "id": 4685154,
-            "content_html": "",
-            "title": "Anthropic： Claude Sonnet 4.6 定价与 Sonnet 4.5 保持一致，起价为每百万令牌 3 美元 / 15 美元。",
-            "date_modified": "2026-02-17T17:52:17.000Z"
-        },
-        {
-            "id": 4685153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1493409.d.html",
-            "title": "家乐福首席执行官：我们在巴西可能已度过难关。",
-            "date_modified": "2026-02-17T17:51:31.000Z"
-        },
-        {
-            "id": 4685151,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefux5725516.d.html",
-            "title": "Anthropic： 推出 Claude Sonnet 4.6版本。",
-            "date_modified": "2026-02-17T17:50:16.000Z"
-        },
-        {
-            "id": 4685150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4714399.d.html",
-            "title": "【美国纽约州一教堂发生爆炸 致5人受伤】当地时间2月17日，美国纽约州布恩维尔镇12号州际公路旁的一座教堂发生爆炸，造成5人受伤。纽约州警方表示，当日上午10时23分左右接到教堂内疑似燃气泄漏报警。目击者称事发前闻到明显燃气气味。爆炸发生时，一名消防员正在建筑内处置险情。警方称，一名消防员和一名平民伤势危重，另有3人受伤但暂无生命危险。爆炸原因仍在调查中。（央视新闻）",
-            "date_modified": "2026-02-17T17:46:04.000Z"
-        },
-        {
-            "id": 4685146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4712677.d.html",
-            "title": "伊朗总统：德黑兰永远不会放弃其和平利用核能的计划。",
-            "date_modified": "2026-02-17T17:40:56.000Z"
-        },
-        {
-            "id": 4685145,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4711978.d.html",
-            "title": "【中国地震局对云南西双版纳州景洪市地震启动四级应急服务响应】从中国地震局获悉，中国地震局对云南西双版纳州景洪市4.6级地震启动四级应急服务响应。",
-            "date_modified": "2026-02-17T17:39:02.000Z"
-        },
-        {
-            "id": 4685144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuv8620004.d.html",
-            "title": "【农机制造商CNH：预计行业复苏将推迟至2027年】全球最大的农业机械制造商之一CNH工业（CNH Industrial NV）表示，由于低粮价和贸易不确定性，北美农场的艰苦局面将持续，复苏已推迟至明年。旗下拥有凯斯（Case IH）和纽荷兰（New Holland）等拖拉机品牌的CNH在一份声明中称，今年全球需求可能“再下降5%，跌至历史低谷水平”。尽管特朗普政府正推出120亿美元的农民援助计划，但其竞争对手爱科集团（AGCO Corp.）本月早些时候表示，这些援助尚未转化为新的销售额。",
-            "date_modified": "2026-02-17T17:35:27.000Z"
-        },
-        {
-            "id": 4685143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1487696.d.html",
-            "title": "【民调居首的英国改革党公布“影子内阁” 拟由前保守党要员Jenrick任财相】英国改革党党首奈杰尔·法拉奇表示，如果该党在下一届大选中取胜，那么将任命Robert Jenrick为财政大臣。英国改革党持续在民调中位居首位。法拉奇公布了他所委任的该党所谓影子内阁，任命副党首Richard Tice负责商业、贸易及能源一揽子事务，并委任政策主管Zia Yusuf负责包括移民在内的内政事务，而正是移民问题帮助推动了改革党的支持率。自去年4月以来，法拉奇领导的改革党一直居于全国民调榜首。他誓言要让改革党走向专业化，并做好执政准备，而周二的声明是这一进程中的关键一步。改革党2024年在下议院650个席位中仅赢得5席，使得法拉奇组建一支能够在议会有效发言的领导团队的余地非常有限。",
-            "date_modified": "2026-02-17T17:34:43.000Z"
-        },
-        {
-            "id": 4685141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1485840.d.html",
-            "title": "EMEIS 全年营收59.0亿欧元，预估59.3亿欧元。",
-            "date_modified": "2026-02-17T17:28:31.000Z"
-        },
-        {
-            "id": 4685140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1485281.d.html",
-            "title": "波音：阿斯塔纳航空敲定最多 15 架波音 787 梦想客机的订单。",
-            "date_modified": "2026-02-17T17:26:59.000Z"
-        },
-        {
-            "id": 4685139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4707988.d.html",
-            "title": "【英国寻求欧盟盟友，共同反对法国的“欧洲制造”倡议】英国正在游说包括德国、意大利和荷兰在内的国家，以抵制法国严苛的贸易提案。该提案可能会将英国排除在欧盟的公共采购招标之外。法国正致力于推动针对商品和服务的严厉“欧盟优先”规则，特别是在汽车、先进技术和可再生能源等行业。英国试图劝说欧盟委员会放弃这一路线，担心其可能损及双方利益。一些欧盟成员国也依然感到担忧，认为过度限制的“本土内容”规则可能会遏制投资、推高制造成本并变相助推竞争对手。",
-            "date_modified": "2026-02-17T17:26:39.000Z"
-        },
-        {
-            "id": 4685138,
-            "content_html": "",
-            "title": "纽约市市长马姆达尼：特朗普政府已再次解冻并发放 7700 万美元纽约隧道项目冻结资金。",
-            "date_modified": "2026-02-17T17:23:35.000Z"
-        },
-        {
-            "id": 4685137,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1483021.d.html",
-            "title": "纽约市市长马姆达尼计划提高纽约市财产税，以填补预算缺口。",
-            "date_modified": "2026-02-17T17:19:38.000Z"
-        },
-        {
-            "id": 4685135,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4703085.d.html",
-            "title": "  美国能源部长赖特：我们不需要国际能源署提出的净零排放情景方案。",
-            "date_modified": "2026-02-17T17:11:42.000Z"
-        },
-        {
-            "id": 4685134,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefus4702832.d.html",
-            "title": "【福特公布低成本纯电平台新细节：首款车型为中型电动皮卡】福特汽车公司现在聚焦一款全新的通用电动汽车平台（UEV），由位于加州的一支 “特种项目团队” 从头开发。首款产品将是一款中型电动皮卡，售价约3万美元，目标从一开始就实现盈利。“电动车成本仍在大幅下降，而要做到这一点，只能靠创新，靠系统级优化，最终打造出消费者想要的产品。” 福特的艾伦・克拉克表示。他负责长滩的这支特种团队，此前也是特斯拉的资深工程师。",
-            "date_modified": "2026-02-17T17:10:59.000Z"
-        },
-        {
-            "id": 4685133,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1479988.d.html",
-            "title": "美国能源部长赖特：我们对国际能源署的变革仍不满意。",
-            "date_modified": "2026-02-17T17:10:50.000Z"
-        },
-        {
-            "id": 4685132,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhnefuu1479661.d.html",
-            "title": "美国能源部长赖特：我认为到年底将看到委内瑞拉石油产量每天增加数十万桶。",
-            "date_modified": "2026-02-17T17:09:54.000Z"
-        },
-        {
-            "id": 4685131,
-            "content_html": "",
-            "title": "乌克兰总统泽连斯基： 基辅对俄方谈判团队的变动感到意外。 乌克兰将在日内瓦讨论由俄方控制的核电站问题。",
-            "date_modified": "2026-02-17T17:07:20.000Z"
-        },
-        {
-            "id": 4685129,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznx8743270.d.html",
-            "title": "【美官员：预计伊朗将在未来两周就核谈判内容提出详细方案】2月17日获悉，一位美国官员说，伊朗表示将在未来两周内提出详细方案，以弥合与美国在核谈判中的分歧。这位要求匿名的官员表示：“谈判取得了一些进展，但仍有许多细节需要讨论。伊朗方面表示，他们将在未来两周内提出详细方案，以解决我们立场上的一些分歧。”截至目前，相关内容暂未得到美伊官方证实。（央视）",
-            "date_modified": "2026-02-17T17:04:02.000Z"
-        },
-        {
-            "id": 4685128,
-            "content_html": "",
-            "title": "  美国运通：2026 年 1 月末，美国中小企业卡会员贷款仅本金净核销率为2.8%。",
-            "date_modified": "2026-02-17T17:03:58.000Z"
-        },
-        {
-            "id": 4685126,
-            "content_html": "",
-            "title": "美国能源部长赖特：欧盟碳边境关税是一个巨大风险，可能会使向欧洲出口天然气变得风险过高。",
-            "date_modified": "2026-02-17T16:56:10.000Z"
-        },
-        {
-            "id": 4685125,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznu4827163.d.html",
-            "title": "美国能源部长赖特：我们将在美国重启铀浓缩活动，部分工作将与法国合作伙伴共同开展。",
-            "date_modified": "2026-02-17T16:52:19.000Z"
-        },
-        {
-            "id": 4685124,
-            "content_html": "",
-            "title": "  捷克通讯社（CTK）援引捷克部长的话报道：捷克共和国将通过友谊管道反向输油向斯洛伐克提供少量石油；若要供应更大规模，则需要进行技术调整。",
-            "date_modified": "2026-02-17T16:52:10.000Z"
-        },
-        {
-            "id": 4685123,
-            "content_html": "",
-            "title": "据POLITICO：特朗普与米莱的协议加大对欧盟的压力，迫使其敲定与南方共同市场的贸易协定。",
-            "date_modified": "2026-02-17T16:48:45.000Z"
-        },
-        {
-            "id": 4685122,
-            "content_html": "",
-            "title": "家乐福：全年自由现金流净额13.1亿欧元，预估14.8亿欧元；全年股息0.97欧元，预估0.96欧元；全年经常性营业利润21.6亿欧元，预估22.1亿欧元；第四季度剔除燃油、日历因素的法国同店销售+0.4％；第四季度剔除燃油、日历因素的同店销售+1.6％。",
-            "date_modified": "2026-02-17T16:46:53.000Z"
-        },
-        {
-            "id": 4685121,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznu4824558.d.html",
-            "title": "美国能源部长赖特：我们将继续以低价向欧洲供应液化天然气。",
-            "date_modified": "2026-02-17T16:44:31.000Z"
-        },
-        {
-            "id": 4685118,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznx8737634.d.html",
-            "title": "微软和爱立信为 Windows 11 带来企业级 5G 笔记本电脑管理方案。",
-            "date_modified": "2026-02-17T16:39:22.000Z"
-        },
-        {
-            "id": 4685117,
-            "content_html": "",
-            "title": "明晟公司MSCI北欧国家指数涨0.2%，报386.38点。在十个板块中，北欧医疗保健板块涨幅最大。Genmab A/S涨4.4%，在一众北欧个股里领跑。",
-            "date_modified": "2026-02-17T16:37:53.000Z"
-        },
-        {
-            "id": 4685115,
-            "content_html": "",
-            "title": "德国DAX 30指数初步收涨0.69%，报24972.94点。法国股指初步收涨0.48%，意大利股指初步收涨0.72%、银行指数涨1.41%，英国股指初步收涨0.59%。",
-            "date_modified": "2026-02-17T16:30:26.000Z"
-        },
-        {
-            "id": 4685114,
-            "content_html": "",
-            "title": "欧洲STOXX 600指数初步收涨0.38%，报620.88点。欧元区STOXX 50指数初步收涨0.74%，报6022.93点。富时泛欧绩优300指数初步收涨0.46%，报2476.17点。",
-            "date_modified": "2026-02-17T16:30:23.000Z"
-        },
-        {
-            "id": 4685113,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznu4818243.d.html",
-            "title": "拜耳：就集体诉讼问题协议总体金额至多72.5亿美元。",
-            "date_modified": "2026-02-17T16:26:05.000Z"
-        },
-        {
-            "id": 4685108,
-            "content_html": "",
-            "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
-            "date_modified": "2026-02-17T16:20:56.000Z"
-        },
-        {
-            "id": 4685107,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznu4816676.d.html",
-            "title": "加拿大总理卡尼：加拿大加入金色穹顶联盟的相关谈判 “进展顺利”。",
-            "date_modified": "2026-02-17T16:20:45.000Z"
-        },
-        {
-            "id": 4685106,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-18/detail-inhncznz5834767.d.html",
-            "title": "【潘兴广场资本管理公司斥资20亿美元押注Meta，同时清仓希尔顿】潘兴广场资本管理公司清仓了希尔顿全球 (HLT) 的股票，并披露持有约20亿美元的Meta (META) 头寸。该公司认为，尽管Meta有庞大的人工智能资本支出计划，但其广告业务仍被\"深度低估\"。",
-            "date_modified": "2026-02-17T16:19:55.000Z"
         }
     ]
 }
