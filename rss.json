@@ -6,6 +6,211 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4703770,
+            "content_html": "",
+            "title": "英国政府：我们已采取预防措施，将部分工作人员及其家属从特拉维夫暂时转移至以色列境内的其他地点。",
+            "date_modified": "2026-02-27T16:48:58.000Z"
+        },
+        {
+            "id": 4703768,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuw6422649.d.html",
+            "title": "比尔·克林顿：在我们有限的互动中，我从未目睹任何能表明真正发生了什么的迹象。",
+            "date_modified": "2026-02-27T16:47:08.000Z"
+        },
+        {
+            "id": 4703767,
+            "content_html": "",
+            "title": "比尔·克林顿：如果我当时哪怕有一丝一毫察觉到杰弗里·爱泼斯坦的所作所为，我都不会乘坐他的飞机。",
+            "date_modified": "2026-02-27T16:45:57.000Z"
+        },
+        {
+            "id": 4703766,
+            "content_html": "",
+            "title": "草案文本显示，印度与欧盟将确保针对影响进出口或过境货物的海关决策制定非歧视性且可获取的申诉程序。",
+            "date_modified": "2026-02-27T16:45:52.000Z"
+        },
+        {
+            "id": 4703763,
+            "content_html": "",
+            "title": "德国联邦机动车运输管理局（KBA）：宝马召回涉及2022年至2025年生产的i7、i5、5系、7系及M5车型。宝马召回事件可能影响全球337,374辆汽车，其中在德国涉及29,441辆。",
+            "date_modified": "2026-02-27T16:41:30.000Z"
+        },
+        {
+            "id": 4703762,
+            "content_html": "",
+            "title": "草案文本显示，印度和欧盟拟在自贸协定下加强海关合作、简化清关流程；该协定将在批准后生效。",
+            "date_modified": "2026-02-27T16:40:24.000Z"
+        },
+        {
+            "id": 4703761,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0516102.d.html",
+            "title": "英国政府：外交部现建议除必要旅行外，避免前往以色列和巴勒斯坦。",
+            "date_modified": "2026-02-27T16:40:18.000Z"
+        },
+        {
+            "id": 4703759,
+            "content_html": "",
+            "title": "明晟公司MSCI北欧国家指数涨0.6%，创2月18日（当天收涨1.4%）以来最大单日涨幅，报386.52点。在十个板块中，北欧工业板块涨幅最大。诺基亚收涨4.0%，在一众北欧个股里领跑、并对指数的表现做出最大贡献。",
+            "date_modified": "2026-02-27T16:37:47.000Z"
+        },
+        {
+            "id": 4703758,
+            "content_html": "",
+            "title": "草案显示，印欧自贸协定生效一年后双方将每年交换进口数据，以监测协定执行情况和优惠利用情况。",
+            "date_modified": "2026-02-27T16:37:43.000Z"
+        },
+        {
+            "id": 4703757,
+            "content_html": "",
+            "title": "草案显示，印度和欧盟拟在自由贸易协定框架下，使食品和植物安全规则与世贸组织规范接轨，并简化认证和审核流程。",
+            "date_modified": "2026-02-27T16:36:26.000Z"
+        },
+        {
+            "id": 4703756,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0514346.d.html",
+            "title": "俄罗斯统计局：俄罗斯1月份天然气产量同比增长7.5%。",
+            "date_modified": "2026-02-27T16:34:42.000Z"
+        },
+        {
+            "id": 4703755,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuw6417507.d.html",
+            "title": "草案文本显示，印欧协议生效后，双方将给予对方五年最惠国待遇。",
+            "date_modified": "2026-02-27T16:33:38.000Z"
+        },
+        {
+            "id": 4703754,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0513980.d.html",
+            "title": "【希腊建议本国公民避免前往伊朗和巴以地区】当地时间2月27日，希腊外交部发表声明称，鉴于中东地区局势不断变化，建议希腊公民除绝对必要外，避免前往以色列、巴勒斯坦和伊朗。",
+            "date_modified": "2026-02-27T16:33:29.000Z"
+        },
+        {
+            "id": 4703753,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuu9639673.d.html",
+            "title": "俄罗斯统计局：1 月份俄罗斯汽车产量同比下降 13.2%。",
+            "date_modified": "2026-02-27T16:32:11.000Z"
+        },
+        {
+            "id": 4703752,
+            "content_html": "",
+            "title": "草案文本显示，印度和欧盟拟在自贸协定货物协议中约定，除世贸组织规则允许范围外，不再设置新的进出口限制措施，并取消领事要求。",
+            "date_modified": "2026-02-27T16:32:05.000Z"
+        },
+        {
+            "id": 4703751,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0513182.d.html",
+            "title": "【英国股市本周涨超2%，意大利银行板块累跌超2%】德国DAX 30指数初步收涨0.12%，报25318.42点，本周累涨约0.2%。法国股指初步收跌0.16%。意大利股指初步收跌0.41%，银行指数跌2.34%、本周累跌约2.5%。英国股指初步收涨0.79%，本周累涨约2.3%。",
+            "date_modified": "2026-02-27T16:30:57.000Z"
+        },
+        {
+            "id": 4703749,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuu9637112.d.html",
+            "title": "【特朗普在最高法院败诉后，面临2000起关税诉讼】美国最高法院裁定大部分关税非法后，针对唐纳德·特朗普关税政策的诉讼案件激增至2000多起，联邦快递和欧莱雅等大型企业也加入了诉讼行列。涉及的关税总额超过1700亿美元，但退税前景仍不明朗，可能需要数年时间才能解决。随着企业努力追回损失，不断涌现的诉讼案件也给政府带来了更大的压力。",
+            "date_modified": "2026-02-27T16:25:20.000Z"
+        },
+        {
+            "id": 4703748,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0511185.d.html",
+            "title": "OpenAI：ChatGPT 周活用户已突破9亿，付费订阅用户达5000万。",
+            "date_modified": "2026-02-27T16:22:46.000Z"
+        },
+        {
+            "id": 4703745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuu9634438.d.html",
+            "title": "墨西哥国家石油公司（Pemex）预计2026年到期债务规模为134亿美元。",
+            "date_modified": "2026-02-27T16:18:34.000Z"
+        },
+        {
+            "id": 4703744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuva0509886.d.html",
+            "title": "特朗普在TRUTH社交帖子中贴出了美国联邦贸易委员会苹果公司的信函。",
+            "date_modified": "2026-02-27T16:17:40.000Z"
+        },
+        {
+            "id": 4703742,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuu9633949.d.html",
+            "title": "【美国否认从伊拉克和科威特撤出非必要外交人员】美国国务院27日否认从伊拉克和科威特撤出非必要外交人员。当天早些时候，有媒体报道，美国国务院批准从伊拉克和科威特撤出非必要外交人员。美国国务院首席副发言人汤米·皮戈特在社交媒体上转发有关报道，并评论“这个消息不实”。",
+            "date_modified": "2026-02-27T16:17:26.000Z"
+        },
+        {
+            "id": 4703741,
+            "content_html": "",
+            "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
+            "date_modified": "2026-02-27T16:17:07.000Z"
+        },
+        {
+            "id": 4703740,
+            "content_html": "",
+            "title": "RTL：将继续与欧盟委员会开展建设性合作，仍有信心获得监管批准，并于2026年上半年完成交易。",
+            "date_modified": "2026-02-27T16:15:52.000Z"
+        },
+        {
+            "id": 4703733,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphuuw6405445.d.html",
+            "title": "法国外交部因伊朗安全局势，建议法国公民不要前往以色列、耶路撒冷和约旦河西岸。",
+            "date_modified": "2026-02-27T16:04:17.000Z"
+        },
+        {
+            "id": 4703731,
+            "content_html": "",
+            "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
+            "date_modified": "2026-02-27T16:01:17.000Z"
+        },
+        {
+            "id": 4703730,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-28/detail-inhphqpe0634650.d.html",
+            "title": "俄罗斯1月工业产出同比下滑0.8%。",
+            "date_modified": "2026-02-27T16:00:47.000Z"
+        },
+        {
+            "id": 4703727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9756967.d.html",
+            "title": "【英国政府从伊朗撤回其使馆工作人员】国政府从伊朗撤回其使馆工作人员，英国政府2月27日表示，由于中东地区持续升级的安全局势，已采取这一临时预防性措施。使馆将远程办公。",
+            "date_modified": "2026-02-27T15:59:38.000Z"
+        },
+        {
+            "id": 4703725,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0633121.d.html",
+            "title": "市场消息：美国打算提名一名美国人担任联合国世界粮食计划署负责人。",
+            "date_modified": "2026-02-27T15:54:47.000Z"
+        },
+        {
+            "id": 4703724,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9754927.d.html",
+            "title": "市场消息：所有美国空军加油机已从卡塔尔乌代德空军基地撤离。",
+            "date_modified": "2026-02-27T15:52:30.000Z"
+        },
+        {
+            "id": 4703721,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6531402.d.html",
+            "title": "伊朗议会安全与外交政策委员会主席：谈判仅限于铀浓缩，伊朗不会放弃其权利。",
+            "date_modified": "2026-02-27T15:50:29.000Z"
+        },
+        {
+            "id": 4703717,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9753398.d.html",
+            "title": "【澳门计划于年内设立特区政府引导基金 推动产业多元化】澳门特区政府27日举行新闻发布会，介绍计划于2026年内设立的政府引导基金方案。发布会上，澳门特区政府经济财政司司长戴建业表示，为对接国家“十五五”规划，特区政府计划通过设立引导基金发挥引领作用，经济财政司司长办公室联同澳门金融管理局、经济及科技发展局和招商投资促进局组成基金筹建工作组，经深入分析和研究澳门的经济发展情况并结合外部专家团队的可行性调研结果，制定了政府引导基金方案。（央视新闻）",
+            "date_modified": "2026-02-27T15:48:23.000Z"
+        },
+        {
             "id": 4703714,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6529300.d.html",
@@ -252,157 +457,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9733645.d.html",
             "title": "碧桂园：净新增38.61亿元人民币违约债务。",
             "date_modified": "2026-02-27T14:51:03.000Z"
-        },
-        {
-            "id": 4703668,
-            "content_html": "",
-            "title": "【新安洁：董事长被立案调查和留置】新安洁公告，公司实际控制人、董事长魏延田被重庆市綦江区监察委员会立案调查和实施留置措施。",
-            "date_modified": "2026-02-27T14:49:58.000Z"
-        },
-        {
-            "id": 4703667,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3507434.d.html",
-            "title": "拉斯维加斯大道1月份博彩收入同比下降11%，至7.477亿美元。",
-            "date_modified": "2026-02-27T14:49:49.000Z"
-        },
-        {
-            "id": 4703666,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6510344.d.html",
-            "title": "尼日利亚统计局：第四季度石油产量为每日158万桶。",
-            "date_modified": "2026-02-27T14:49:37.000Z"
-        },
-        {
-            "id": 4703664,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9732981.d.html",
-            "title": "碧桂园：截至1月31日，新增未决诉讼14宗。",
-            "date_modified": "2026-02-27T14:49:13.000Z"
-        },
-        {
-            "id": 4703663,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3507121.d.html",
-            "title": "【飞荣达：截至目前，机器人领域通过认证的客户二十多家】飞荣达2月27日在机构调研时表示，公司围绕机器人的AI芯片、关节电机、传感器等部件的散热与结构支撑需求，可以提供导热材料、风扇、液冷散热系统、灵巧手、关节模组及轻量化结构件等产品，适配高功率密度、小型化及动态交互场景，可支撑智能终端产品稳定运行。截至目前，机器人领域通过认证的客户二十多家，因客户要求及保密协议约定，具体合作细节不便公开交流，行业内其他重要客户公司也正在商务接触及洽谈。目前，导热材料、风扇、液冷散热系统、灵巧手已通过部分客户认证，处于送样、测试或小批量供货阶段。",
-            "date_modified": "2026-02-27T14:48:56.000Z"
-        },
-        {
-            "id": 4703661,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9732701.d.html",
-            "title": "【伊朗德黑兰东南部一处仓库起火】当地时间27日，伊朗德黑兰东南部的一处鞋厂原材料仓库起火。当地消防部门表示，事发地点附近包括五个鞋厂原材料仓库，其中三个仓库发生火情。目前，消防人员正在全力灭火，尚未收到人员伤亡报告。（央视新闻）",
-            "date_modified": "2026-02-27T14:48:26.000Z"
-        },
-        {
-            "id": 4703660,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9732299.d.html",
-            "title": "【巴西东南部地区暴雨已造成68人死亡】当地时间2月26日晚，巴西东南部米纳斯吉拉斯州消防局数据显示，在该州茹伊斯迪福拉和乌巴等地发生的暴雨灾害造成的死人数上升至68人，另有7人失联。目前，暴雨灾害引发滑坡、房屋坍塌等次生影响，救援队已救出超过230人，另有超5500人流离失所。救援活动仍在持续。（央视新闻）",
-            "date_modified": "2026-02-27T14:47:18.000Z"
-        },
-        {
-            "id": 4703659,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9731965.d.html",
-            "title": "KBW银行指数跌幅扩大至3.7%。",
-            "date_modified": "2026-02-27T14:46:22.000Z"
-        },
-        {
-            "id": 4703657,
-            "content_html": "",
-            "title": "美国2月芝加哥PMI 57.7，预期52.8，前值54。\n美国2月芝加哥PMI录得57.7，为2022年5月以来新高。",
-            "date_modified": "2026-02-27T14:45:47.000Z"
-        },
-        {
-            "id": 4703650,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0606644.d.html",
-            "title": "市场消息：英国财政大臣里夫斯将批准从意大利莱昂纳多公司购买23架直升机的交易。",
-            "date_modified": "2026-02-27T14:42:01.000Z"
-        },
-        {
-            "id": 4703647,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9729453.d.html",
-            "title": "美国银行：将戴尔(DELL.N)目标价从135美元上调至155美元。",
-            "date_modified": "2026-02-27T14:39:50.000Z"
-        },
-        {
-            "id": 4703645,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3503027.d.html",
-            "title": "国际货币基金组织乌克兰代表团副团长：正密切关注乌克兰债券持有人相关情况。",
-            "date_modified": "2026-02-27T14:38:11.000Z"
-        },
-        {
-            "id": 4703644,
-            "content_html": "",
-            "title": "据港交所文件：Radvance Cayman Limited向港交所提交上市申请书。",
-            "date_modified": "2026-02-27T14:37:54.000Z"
-        },
-        {
-            "id": 4703643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6505493.d.html",
-            "title": "马士基将部分船只改道绕行非洲南部。",
-            "date_modified": "2026-02-27T14:37:06.000Z"
-        },
-        {
-            "id": 4703642,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3501905.d.html",
-            "title": "【广合科技通过港交所上市聆讯】广州广合科技股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。",
-            "date_modified": "2026-02-27T14:35:30.000Z"
-        },
-        {
-            "id": 4703627,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3499393.d.html",
-            "title": "【卧龙电气驱动集团股份有限公司向港交所提交上市申请书】据港交所文件：卧龙电气驱动集团股份有限公司向港交所提交上市申请书。",
-            "date_modified": "2026-02-27T14:29:29.000Z"
-        },
-        {
-            "id": 4703621,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9723579.d.html",
-            "title": "国际货币基金组织（IMF）表示，已达成一致的增值税调整措施越早生效越好。",
-            "date_modified": "2026-02-27T14:25:34.000Z"
-        },
-        {
-            "id": 4703620,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0599975.d.html",
-            "title": "市场消息：三星将关闭位于斯洛伐克的电视机生产工厂。",
-            "date_modified": "2026-02-27T14:24:50.000Z"
-        },
-        {
-            "id": 4703618,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3497560.d.html",
-            "title": "市场消息：宝马将在德国工厂投产人形机器人。",
-            "date_modified": "2026-02-27T14:22:56.000Z"
-        },
-        {
-            "id": 4703617,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9722198.d.html",
-            "title": "国际货币基金组织敦促乌克兰提高汇率灵活性。",
-            "date_modified": "2026-02-27T14:21:45.000Z"
-        },
-        {
-            "id": 4703616,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9721543.d.html",
-            "title": "国际货币基金组织（IMF）要求乌克兰在3月底前取消税收豁免。",
-            "date_modified": "2026-02-27T14:20:05.000Z"
-        },
-        {
-            "id": 4703615,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3496434.d.html",
-            "title": "【我国推动到2030年实现高校科普工作全覆盖】中国科协、教育部日前印发《关于进一步加强高等学校科普工作的意见》，提出到2030年实现高校科普工作全覆盖。根据意见，到2030年，高校科普工作体系将更加完善，高校科普地位作用更加凸显，科学素质和能力培养导向更加鲜明，高校社会化科普服务效能更加彰显，服务国家创新驱动发展的贡献度进一步提升。",
-            "date_modified": "2026-02-27T14:19:17.000Z"
         }
     ]
 }
