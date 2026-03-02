@@ -6,6 +6,267 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4711208,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavv0903017.d.html",
+            "title": "新西兰1月营建许可月率 1.9%，前值由-4.60%修正为-4.5%。",
+            "date_modified": "2026-03-02T21:45:11.000Z"
+        },
+        {
+            "id": 4711207,
+            "content_html": "",
+            "title": "  美国总统特朗普：如果不是我终止了奥巴马那份糟糕的伊朗核协议（JCPOA），伊朗三年前就已经拥有核武器了。那是我们有史以来签署过的最危险的协议，如果任由它继续存在，现在的世界将会完全不同。你们都可以去怪罪奥巴马和拜登。",
+            "date_modified": "2026-03-02T21:44:43.000Z"
+        },
+        {
+            "id": 4711204,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavv0901982.d.html",
+            "title": "  德黑兰多个地区传来爆炸声回响。",
+            "date_modified": "2026-03-02T21:42:24.000Z"
+        },
+        {
+            "id": 4711203,
+            "content_html": "",
+            "title": "明晟公司（MSCI）新兴市场外汇指数收跌0.5%，创2024年11月以来最差单日表现。",
+            "date_modified": "2026-03-02T21:37:09.000Z"
+        },
+        {
+            "id": 4711202,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavt4122565.d.html",
+            "title": "  迪士尼CFO：乐园游客量增长空间有限。",
+            "date_modified": "2026-03-02T21:36:59.000Z"
+        },
+        {
+            "id": 4711201,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavw7706195.d.html",
+            "title": "以色列军方对贝鲁特南郊居民发出撤离警告。",
+            "date_modified": "2026-03-02T21:35:21.000Z"
+        },
+        {
+            "id": 4711200,
+            "content_html": "",
+            "title": "据日经新闻：日本的原油储备足够用254天，如果霍尔木兹海峡封锁持续，日本可能释放原油储备以稳定国内供应。",
+            "date_modified": "2026-03-02T21:35:07.000Z"
+        },
+        {
+            "id": 4711199,
+            "content_html": "",
+            "title": "  以色列民政管理局（COGAT）宣布，以色列将于明日重新开放与加沙地带的凯雷姆沙洛姆过境点，允许人道主义援助 “逐步” 进入。",
+            "date_modified": "2026-03-02T21:33:41.000Z"
+        },
+        {
+            "id": 4711198,
+            "content_html": "",
+            "title": "加州州长加文・纽森：特朗普花在谈论他宴会厅窗帘上的时间，都比谈论因他发起的行动而牺牲的四名军人的时间还要多。",
+            "date_modified": "2026-03-02T21:33:14.000Z"
+        },
+        {
+            "id": 4711195,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavt4119861.d.html",
+            "title": "  以色列军方：已开始对德黑兰发动新一轮打击。",
+            "date_modified": "2026-03-02T21:29:45.000Z"
+        },
+        {
+            "id": 4711193,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhpsavt4119266.d.html",
+            "title": "【伊朗开展“真实承诺-4”行动第13轮攻击】当地时间3月3日，伊朗伊斯兰革命卫队公共关系部宣布，其海军无人机部队对位于科威特的“阿里夫詹”美军基地发起了“真实承诺-4”行动的第13轮攻击。（央视新闻）",
+            "date_modified": "2026-03-02T21:28:12.000Z"
+        },
+        {
+            "id": 4711192,
+            "content_html": "",
+            "title": "以色列国防军： 此前不久，该国北部地区接到无人机入侵警报，但经查实，这是一次误报。",
+            "date_modified": "2026-03-02T21:24:22.000Z"
+        },
+        {
+            "id": 4711191,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1024240.d.html",
+            "title": "迪士尼 CFO：国际市场上的订阅式视频点播（SVOD）家庭渗透率远低于美国本土。",
+            "date_modified": "2026-03-02T21:19:47.000Z"
+        },
+        {
+            "id": 4711190,
+            "content_html": "",
+            "title": "  哥伦比亚国家油气署（ANH）：1 月份哥伦比亚商用天然气产量同比下降 16.8%，至每日 6.83 亿立方英尺。",
+            "date_modified": "2026-03-02T21:19:24.000Z"
+        },
+        {
+            "id": 4711189,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4245999.d.html",
+            "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
+            "date_modified": "2026-03-02T21:17:10.000Z"
+        },
+        {
+            "id": 4711188,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1023136.d.html",
+            "title": "  迪士尼 CFO：体育业务盈利表现将更多集中在第四季度。",
+            "date_modified": "2026-03-02T21:17:00.000Z"
+        },
+        {
+            "id": 4711187,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4245864.d.html",
+            "title": "  以色列：靠近黎巴嫩边境的西加利利地区多个以色列社区响起疑似无人机渗透警报。",
+            "date_modified": "2026-03-02T21:16:52.000Z"
+        },
+        {
+            "id": 4711186,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1022740.d.html",
+            "title": "  据法尔斯通讯社最新报道：伊朗议会并未遭到袭击。",
+            "date_modified": "2026-03-02T21:16:06.000Z"
+        },
+        {
+            "id": 4711185,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1022343.d.html",
+            "title": "以色列国防军：我们将在未来几个小时内攻击德黑兰的军事基础设施。",
+            "date_modified": "2026-03-02T21:15:24.000Z"
+        },
+        {
+            "id": 4711183,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4243547.d.html",
+            "title": "  PayPay公司：此次发行完成后，软银集团将持有已发行流通股的 7.4%。",
+            "date_modified": "2026-03-02T21:13:08.000Z"
+        },
+        {
+            "id": 4711181,
+            "content_html": "",
+            "title": "  PayPay 公司：已解除三菱日联金融（MUFG）作为其美国 IPO 承销商的资格。",
+            "date_modified": "2026-03-02T21:11:45.000Z"
+        },
+        {
+            "id": 4711180,
+            "content_html": "",
+            "title": "PayPay 公司：美国证券交易委员会（SEC）文件显示，软银在此次发售完成后将持有 91.78%的投票权。",
+            "date_modified": "2026-03-02T21:11:03.000Z"
+        },
+        {
+            "id": 4711179,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4930993.d.html",
+            "title": "  伊朗方面消息：伊朗议会大楼数分钟前遭到美国 / 以色列袭击。",
+            "date_modified": "2026-03-02T21:08:39.000Z"
+        },
+        {
+            "id": 4711178,
+            "content_html": "",
+            "title": "以色列国防军：向位于德黑兰埃文地区伊朗伊斯兰共和国广播电视台警戒线内的所有人员发出紧急警告。",
+            "date_modified": "2026-03-02T21:04:45.000Z"
+        },
+        {
+            "id": 4711177,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4237025.d.html",
+            "title": "  阿根廷政府：阿根廷 2 月税收收入达 16.231830 万亿比索。",
+            "date_modified": "2026-03-02T21:04:09.000Z"
+        },
+        {
+            "id": 4711175,
+            "content_html": "",
+            "title": "美国中央司令部：截至美国东部时间3月2日下午4点，已有六名美军士兵在战斗中阵亡。美军近日从伊朗在该地区发动的首次袭击中被击中的一处设施内，找到了两名此前下落不明的士兵遗体。 主要作战行动仍在继续。阵亡者的身份信息将在通知其近亲属24小时后公布。",
+            "date_modified": "2026-03-02T21:00:07.000Z"
+        },
+        {
+            "id": 4711167,
+            "content_html": "",
+            "title": "  伊朗官方媒体伊朗伊斯兰共和国广播电视台（IRIB）：伊朗向科威特境内的美国阿里夫詹基地发动无人机袭击。",
+            "date_modified": "2026-03-02T20:54:57.000Z"
+        },
+        {
+            "id": 4711165,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4926475.d.html",
+            "title": "美国国务卿鲁比奥：美国不会蓄意针对任何学校。",
+            "date_modified": "2026-03-02T20:54:29.000Z"
+        },
+        {
+            "id": 4711164,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4926432.d.html",
+            "title": "卡塔尔致信联合国及安理会，谴责伊朗对其领土的攻击，并保留完全的回应权利。",
+            "date_modified": "2026-03-02T20:54:16.000Z"
+        },
+        {
+            "id": 4711163,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4233553.d.html",
+            "title": "美国国务卿鲁比奥：我们已就此次袭击通知国会领导层及Gang of 8。",
+            "date_modified": "2026-03-02T20:54:06.000Z"
+        },
+        {
+            "id": 4711161,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1010307.d.html",
+            "title": "瑞银将美光科技公司目标价从450.00美元上调至475.00美元。",
+            "date_modified": "2026-03-02T20:52:33.000Z"
+        },
+        {
+            "id": 4711160,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4232895.d.html",
+            "title": "美国国务卿鲁比奥：政权更迭并非此次任务的明确目标。",
+            "date_modified": "2026-03-02T20:51:55.000Z"
+        },
+        {
+            "id": 4711159,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4232788.d.html",
+            "title": "阿根廷MERVAL指数收跌1.47%，逼近260.3万点，整体冲高回落。",
+            "date_modified": "2026-03-02T20:51:32.000Z"
+        },
+        {
+            "id": 4711158,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4232743.d.html",
+            "title": "美国国务卿鲁比奥：目标是摧毁伊朗的导弹和海军，我们也希望看到伊朗出现新政权。",
+            "date_modified": "2026-03-02T20:51:23.000Z"
+        },
+        {
+            "id": 4711155,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4232368.d.html",
+            "title": "以色列军方对黎巴嫩多个城镇发布撤离警告，预示即将发动袭击。",
+            "date_modified": "2026-03-02T20:50:05.000Z"
+        },
+        {
+            "id": 4711154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx1009568.d.html",
+            "title": "美国国务卿鲁比奥：希望伊朗人民能推翻政府。",
+            "date_modified": "2026-03-02T20:50:00.000Z"
+        },
+        {
+            "id": 4711153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4925325.d.html",
+            "title": "美国国务卿鲁比奥：伊朗绝对构成了迫在眉睫的威胁。",
+            "date_modified": "2026-03-02T20:49:21.000Z"
+        },
+        {
+            "id": 4711152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4232141.d.html",
+            "title": "奥驰亚 副总裁帕特森交出844股奥驰亚集团公司（股票代码：MO）股票。",
+            "date_modified": "2026-03-02T20:49:11.000Z"
+        },
+        {
+            "id": 4711151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4925265.d.html",
+            "title": "美国国务卿鲁比奥：美国在消除伊朗海军威胁方面取得了成功。",
+            "date_modified": "2026-03-02T20:49:01.000Z"
+        },
+        {
             "id": 4711149,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4924995.d.html",
@@ -258,264 +519,6 @@
             "content_html": "",
             "title": "杰富瑞将希尔顿分时度假俱乐部（Hilton Grand Vacations）的目标股价从每股46美元上调至50美元。",
             "date_modified": "2026-03-02T20:19:28.000Z"
-        },
-        {
-            "id": 4711101,
-            "content_html": "",
-            "title": "杰富瑞维持希尔顿分时度假酒店集团（Hilton Grand Vacations）股票“持有”评级。",
-            "date_modified": "2026-03-02T20:19:23.000Z"
-        },
-        {
-            "id": 4711100,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4221477.d.html",
-            "title": "【伊朗称霍尔木兹海峡已关闭 将打击所有试图通过的船只】当地时间3月2日深夜，伊朗伊斯兰革命卫队司令顾问表示，霍尔木兹海峡已被关闭，伊方将打击所有试图从霍尔木兹海峡通过的船只。目前伊朗伊斯兰革命卫队暂未发表官方声明。（央视新闻）",
-            "date_modified": "2026-03-02T20:19:18.000Z"
-        },
-        {
-            "id": 4711098,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0998423.d.html",
-            "title": "科威特宣布又有一名士兵阵亡。",
-            "date_modified": "2026-03-02T20:18:35.000Z"
-        },
-        {
-            "id": 4711097,
-            "content_html": "",
-            "title": "日本海洋网联船务（ONE）首席执行官称，全球约10%的集装箱船被困在霍尔木兹海峡拥堵中。",
-            "date_modified": "2026-03-02T20:18:33.000Z"
-        },
-        {
-            "id": 4711096,
-            "content_html": "",
-            "title": "杰富瑞维持对奥克塔公司（Okta）的“买入”评级， 目标股价从每股125.00美元下调至105.00美元。",
-            "date_modified": "2026-03-02T20:16:29.000Z"
-        },
-        {
-            "id": 4711094,
-            "content_html": "",
-            "title": " 据 OIS Defender 援引美国国务院消息：因受到威胁，美国驻约旦大使馆所有人员已临时撤离安曼使馆馆舍。",
-            "date_modified": "2026-03-02T20:14:29.000Z"
-        },
-        {
-            "id": 4711093,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4219585.d.html",
-            "title": "可口可乐公司（股票代码：KO）董事长昆西登记出售25万股公司股票。",
-            "date_modified": "2026-03-02T20:14:29.000Z"
-        },
-        {
-            "id": 4711091,
-            "content_html": "",
-            "title": "Coinbase：知悉部分用户在通过Apple Pay使用Coinbase Onramp（Coinbase面向商家推出的支付集成工具）进行交易时可能遇到延迟或性能下降的问题。",
-            "date_modified": "2026-03-02T20:13:47.000Z"
-        },
-        {
-            "id": 4711090,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0996251.d.html",
-            "title": "格陵兰矿业部长表示，自特朗普发出相关威胁以来，投资者对格陵兰矿业的兴趣有所增加。",
-            "date_modified": "2026-03-02T20:12:59.000Z"
-        },
-        {
-            "id": 4711089,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4917255.d.html",
-            "title": "安永针对销售平台推出EY.ai，由Snowflake和Canva提供支持。",
-            "date_modified": "2026-03-02T20:12:06.000Z"
-        },
-        {
-            "id": 4711088,
-            "content_html": "",
-            "title": "Davidson维持对阿科萨公司（Arcosa）股票的“买入”评级，目标价从每股120.00美元上调至125.00美元。",
-            "date_modified": "2026-03-02T20:11:57.000Z"
-        },
-        {
-            "id": 4711085,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4916524.d.html",
-            "title": "【以军空袭贝鲁特南郊 杰哈德在黎指挥官遇袭身亡】据黎巴嫩国家通讯社2日报道，巴勒斯坦伊斯兰圣战组织（杰哈德）宣布，其在黎巴嫩的军事分支指挥官阿扎姆·奥斯曼在以色列对黎首都贝鲁特南部郊区发动的空袭中身亡。（新华社）",
-            "date_modified": "2026-03-02T20:08:02.000Z"
-        },
-        {
-            "id": 4711084,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4217138.d.html",
-            "title": "【以军空袭黎巴嫩致52死154伤】黎巴嫩官方当地时间3月2日晚公布的统计数据显示，当天以军对黎巴嫩的空袭造成至少52人死亡、154人受伤。以军对黎巴嫩南部、东部以及首都贝鲁特南郊的轰炸还导致超过28500人流离失所。 (CCTV国际时讯)",
-            "date_modified": "2026-03-02T20:07:32.000Z"
-        },
-        {
-            "id": 4711082,
-            "content_html": "",
-            "title": "  谷歌：VRC 不可跳过广告现已在全球范围内正式上线，适用于谷歌广告及展示与视频 360（DV360）平台 。",
-            "date_modified": "2026-03-02T20:05:50.000Z"
-        },
-        {
-            "id": 4711081,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4216003.d.html",
-            "title": "市场消息：伊拉克武装组织声称对袭击科威特美军基地事件负责。",
-            "date_modified": "2026-03-02T20:04:50.000Z"
-        },
-        {
-            "id": 4711080,
-            "content_html": "",
-            "title": "  伊朗伊斯兰革命卫队公共关系部门：伊朗革命卫队海军防空部队在布什尔省击落并摧毁了第 21 架 “赫尔墨斯” 无人机。",
-            "date_modified": "2026-03-02T20:03:10.000Z"
-        },
-        {
-            "id": 4711079,
-            "content_html": "",
-            "title": "  美国农业部（USDA）：1 月份 DDGS 产量为177.8 万吨，低于去年同期的185.1 万吨。1 月份用于燃料乙醇的玉米用量为 4.610 亿蒲式耳，低于去年同期的 4.679 亿蒲式耳。",
-            "date_modified": "2026-03-02T20:01:51.000Z"
-        },
-        {
-            "id": 4711078,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0991137.d.html",
-            "title": "市场消息：阿联酋环球铝业正考虑动用海外库存，以应对因中东冲突导致的装船延误问题。",
-            "date_modified": "2026-03-02T20:00:03.000Z"
-        },
-        {
-            "id": 4711076,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0989714.d.html",
-            "title": "阿曼外交部长称与国际原子能机构总干事通了“良好”电话。",
-            "date_modified": "2026-03-02T19:56:10.000Z"
-        },
-        {
-            "id": 4711075,
-            "content_html": "",
-            "title": "海洋网联船务有限公司（ONE）首席执行官杰里米・尼克松就美以袭击伊朗后不断升级的中东冲突表示：这又是一起黑天鹅事件。在霍尔木兹海峡附近滞留的约750艘船只中，有100艘是集装箱船。全球约10%的集装箱船船队受此影响。",
-            "date_modified": "2026-03-02T19:53:57.000Z"
-        },
-        {
-            "id": 4711074,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4210555.d.html",
-            "title": "伊朗外长阿拉格奇：美国在核谈判期间袭击伊朗，背叛了外交原则。",
-            "date_modified": "2026-03-02T19:51:18.000Z"
-        },
-        {
-            "id": 4711073,
-            "content_html": "",
-            "title": "  美国联邦航空管理局（FAA）：联合航空公司一架波音 787 客机因发动机故障返回洛杉矶机场后，FAA 已发布地面停飞指令。",
-            "date_modified": "2026-03-02T19:50:18.000Z"
-        },
-        {
-            "id": 4711072,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4209821.d.html",
-            "title": "伊朗外长阿拉格奇： 地区国家应向美国施压，反对其袭击伊朗。",
-            "date_modified": "2026-03-02T19:49:39.000Z"
-        },
-        {
-            "id": 4711071,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0986904.d.html",
-            "title": "伊朗外长阿拉格奇：德黑兰无意与地区国家处于战争状态。",
-            "date_modified": "2026-03-02T19:49:22.000Z"
-        },
-        {
-            "id": 4711069,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpy7809338.d.html",
-            "title": "市场消息：伊朗黑客组织数量从150个锐减至17个。",
-            "date_modified": "2026-03-02T19:46:15.000Z"
-        },
-        {
-            "id": 4711068,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0985106.d.html",
-            "title": "美国军方：自周六行动开始以来，已在伊朗境内袭击了超过1250个目标。",
-            "date_modified": "2026-03-02T19:45:12.000Z"
-        },
-        {
-            "id": 4711067,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0984948.d.html",
-            "title": "  伊朗外交部长对国家电视台表示：刺杀哈梅内伊是 “宗教罪行”，将产生严重后果。",
-            "date_modified": "2026-03-02T19:44:48.000Z"
-        },
-        {
-            "id": 4711066,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0984285.d.html",
-            "title": "  厄瓜多尔总统诺沃亚宣布将于 3 月与美国开展联合行动。",
-            "date_modified": "2026-03-02T19:43:05.000Z"
-        },
-        {
-            "id": 4711065,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0983831.d.html",
-            "title": "  消息人士：亚马逊关闭阿布扎比仓库，并暂停配送服务。",
-            "date_modified": "2026-03-02T19:41:57.000Z"
-        },
-        {
-            "id": 4711064,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4909939.d.html",
-            "title": "  消息人士：亚马逊暂停在阿布扎比的电商业务运营。",
-            "date_modified": "2026-03-02T19:41:31.000Z"
-        },
-        {
-            "id": 4711063,
-            "content_html": "",
-            "title": "埃隆·马斯克的X（原推特）及其人工智能公司 XAI 将通知贷方，计划偿还 175 亿美元 债务。",
-            "date_modified": "2026-03-02T19:37:19.000Z"
-        },
-        {
-            "id": 4711060,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpy7805506.d.html",
-            "title": "  伊拉克发表声明称，周一在摩苏尔大坝附近击落了一架本地制造的无人机。",
-            "date_modified": "2026-03-02T19:31:54.000Z"
-        },
-        {
-            "id": 4711058,
-            "content_html": "",
-            "title": "市场消息：最新高分辨率卫星图像显示，在伊朗无人机袭击后，沙特阿拉伯拉斯坦努拉石油设施遭受严重损毁。",
-            "date_modified": "2026-03-02T19:30:50.000Z"
-        },
-        {
-            "id": 4711057,
-            "content_html": "",
-            "title": "美国声称在阿曼湾击中了伊朗船只，并补充说“两天前伊朗在那里有11艘船，今天一艘也没有了”。",
-            "date_modified": "2026-03-02T19:30:24.000Z"
-        },
-        {
-            "id": 4711056,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwqa4906772.d.html",
-            "title": "【国际运输工人联盟宣布霍尔木兹海峡为高风险区域】国际运输工人联盟和联合谈判组在前者官网发布声明表示，霍尔木兹海峡及其周边水域在当地军事冲突升级后已被划定为“高风险区域”。 这一划定意味着船东和运营商必须确保加强对海员的保护，包括过境前进行风险评估、签订合同保险以及海员有权拒绝驶入该区域。国际运输工人联盟代表全球1,650万名运输从业者，而联合谈判组则汇集了海事行业的雇主。",
-            "date_modified": "2026-03-02T19:29:47.000Z"
-        },
-        {
-            "id": 4711054,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpv4201400.d.html",
-            "title": "伊朗红新月会：三名红新月会救援人员在救援行动中成为袭击目标。",
-            "date_modified": "2026-03-02T19:28:54.000Z"
-        },
-        {
-            "id": 4711051,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0977868.d.html",
-            "title": "【以军称袭击伊朗德黑兰市中心数十个政府机构】当地时间3月2日，以色列军方称，当天对伊朗首都德黑兰市中心数十个政府组织机构进行打击，还袭击了伊朗情报与国家安全部的分支机构和伊朗伊斯兰革命卫队下属特种部队圣城旅。（央视新闻）",
-            "date_modified": "2026-03-02T19:27:05.000Z"
-        },
-        {
-            "id": 4711049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-03/detail-inhprwpx0977369.d.html",
-            "title": "市场消息：由于伊朗冲突，美国国会大厦安保“升级”。",
-            "date_modified": "2026-03-02T19:26:00.000Z"
-        },
-        {
-            "id": 4711047,
-            "content_html": "",
-            "title": "以色列国防军：以色列空军对伊朗发动实弹打击，进一步加强了对伊朗西部地区的空中控制。",
-            "date_modified": "2026-03-02T19:24:58.000Z"
         }
     ]
 }
