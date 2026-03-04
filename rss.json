@@ -6,18 +6,139 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4717397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0075028.d.html",
+            "title": "据阿联酋通讯社：紧急海湾合作委员会-欧盟部长会议定于周四召开。",
+            "date_modified": "2026-03-04T19:44:51.000Z"
+        },
+        {
+            "id": 4717395,
+            "content_html": "",
+            "title": "消息人士：马克龙与特朗普就黎巴嫩问题进行了交谈；法国将继续关注局势。",
+            "date_modified": "2026-03-04T19:40:57.000Z"
+        },
+        {
+            "id": 4717394,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6850888.d.html",
+            "title": "消息人士：特朗普于周三晚间联系了马克龙，向他通报了美国对伊朗军事行动的情况。",
+            "date_modified": "2026-03-04T19:40:12.000Z"
+        },
+        {
+            "id": 4717393,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3522070.d.html",
+            "title": "【伊朗军方在冲突中首次使用“哈迪德110”高速无人机】当地时间4日，伊朗伊斯兰革命卫队在本轮冲突中首次使用了“哈迪德110”高速无人机。据伊朗军方此前消息，“哈迪德110”是一款新型高速自杀攻击型无人机，采用火箭助推发射，最高时速达500公里，是目前伊朗速度最快的自杀攻击型无人机。（央视新闻）",
+            "date_modified": "2026-03-04T19:38:42.000Z"
+        },
+        {
+            "id": 4717390,
+            "content_html": "",
+            "title": "据 Axios 报道，以色列总理内塔尼亚胡本周早些时候得知特朗普政府官员可能与伊朗政权进行沟通后，要求白宫做出澄清。",
+            "date_modified": "2026-03-04T19:37:03.000Z"
+        },
+        {
+            "id": 4717389,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3521657.d.html",
+            "title": "乌克兰总统泽连斯基：包括美国在内的基辅盟友已寻求基辅帮助其防御伊朗无人机。",
+            "date_modified": "2026-03-04T19:35:40.000Z"
+        },
+        {
+            "id": 4717380,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0070089.d.html",
+            "title": "亚马逊在机器人部门裁员。（Business Insider）",
+            "date_modified": "2026-03-04T19:27:23.000Z"
+        },
+        {
+            "id": 4717379,
+            "content_html": "",
+            "title": "  真主党领导人：该组织要求停止 “以色列与美国的侵略行径”，并要求以色列从黎巴嫩撤军。",
+            "date_modified": "2026-03-04T19:26:37.000Z"
+        },
+        {
+            "id": 4717371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0069105.d.html",
+            "title": "美国内政部长伯古姆与委内瑞拉代理总统德尔茜·罗德里格斯会面。",
+            "date_modified": "2026-03-04T19:23:46.000Z"
+        },
+        {
+            "id": 4717369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0068208.d.html",
+            "title": "真主党领袖表示，无论付出多大牺牲，该组织都不会投降。",
+            "date_modified": "2026-03-04T19:20:39.000Z"
+        },
+        {
+            "id": 4717368,
+            "content_html": "",
+            "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
+            "date_modified": "2026-03-04T19:18:08.000Z"
+        },
+        {
+            "id": 4717366,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0067183.d.html",
+            "title": "市场消息：如果被命令支付进口商关税退款，美国将支付利息。",
+            "date_modified": "2026-03-04T19:16:59.000Z"
+        },
+        {
+            "id": 4717365,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511947.d.html",
+            "title": "真主党领袖称以色列近期对黎巴嫩的袭击是“有预谋的侵略”。",
+            "date_modified": "2026-03-04T19:15:28.000Z"
+        },
+        {
+            "id": 4717364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511911.d.html",
+            "title": "【西班牙媒体称该国外交大臣否认与美国军事合作】西班牙《国家报》援引外交大臣阿尔瓦雷斯的消息报道，西班牙否认与美国进行军事合作。此前美国白宫新闻秘书莱维特称西班牙已同意与美国军方合作。",
+            "date_modified": "2026-03-04T19:15:13.000Z"
+        },
+        {
+            "id": 4717361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511105.d.html",
+            "title": "  刚果民主共和国矿业部：鲁巴亚矿山发生山体滑坡，已造成200 多人死亡。",
+            "date_modified": "2026-03-04T19:10:02.000Z"
+        },
+        {
+            "id": 4717360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6841738.d.html",
+            "title": "法国总统马克龙：呼吁内塔尼亚胡避免对黎巴嫩发动地面进攻。",
+            "date_modified": "2026-03-04T19:07:41.000Z"
+        },
+        {
+            "id": 4717359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3517555.d.html",
+            "title": "法国总统马克龙：真主党的升级战略是一个重大错误，使整个地区陷入危险之中。",
+            "date_modified": "2026-03-04T19:07:03.000Z"
+        },
+        {
+            "id": 4717358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6841310.d.html",
+            "title": "真主党领袖称以色列对该组织构成生存威胁。",
+            "date_modified": "2026-03-04T19:06:17.000Z"
+        },
+        {
+            "id": 4717357,
+            "content_html": "",
+            "title": "市场消息：法国总统马克龙周三就黎巴嫩局势与以色列总理内塔尼亚胡以及黎巴嫩领导人进行了交谈。",
+            "date_modified": "2026-03-04T19:05:30.000Z"
+        },
+        {
             "id": 4717354,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6840071.d.html",
             "title": "白宫新闻秘书莱维特：美军不会针对平民。",
             "date_modified": "2026-03-04T19:02:49.000Z"
-        },
-        {
-            "id": 4717353,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0062665.d.html",
-            "title": "据EL PAIS：西班牙否认与美国的军事合作。",
-            "date_modified": "2026-03-04T19:02:06.000Z"
         },
         {
             "id": 4717352,
@@ -410,166 +531,6 @@
             "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6957198.d.html",
             "title": "毕马威选中前澳大利亚业务负责人加里·温格罗夫担任下一任全球主席。",
             "date_modified": "2026-03-04T18:18:14.000Z"
-        },
-        {
-            "id": 4717279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3639406.d.html",
-            "title": "路孚特数据显示，近几日股票抛售速度几乎增至原来的三倍。",
-            "date_modified": "2026-03-04T18:17:54.000Z"
-        },
-        {
-            "id": 4717278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6957071.d.html",
-            "title": "路孚特数据显示，自上周五以来，企业和投资者通过股票发售筹集了约200亿美元资金。",
-            "date_modified": "2026-03-04T18:17:52.000Z"
-        },
-        {
-            "id": 4717277,
-            "content_html": "",
-            "title": "据巴西全国谷物出口商协会（ANEC）消息，巴西3月玉米出口量预计将达到约69.7万吨，而去年同期为47.4165万吨。",
-            "date_modified": "2026-03-04T18:16:19.000Z"
-        },
-        {
-            "id": 4717276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3632083.d.html",
-            "title": "特朗普：将要求我不支持的候选人退出选举。",
-            "date_modified": "2026-03-04T18:16:15.000Z"
-        },
-        {
-            "id": 4717275,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0179166.d.html",
-            "title": "特朗普：将很快在德克萨斯州共和党参议员初选中表态支持某位候选人。",
-            "date_modified": "2026-03-04T18:15:53.000Z"
-        },
-        {
-            "id": 4717273,
-            "content_html": "",
-            "title": "据巴西全国谷物出口商协会（ANEC）消息，预计巴西3月大豆出口量将达1610万吨，去年同期为1570万吨。",
-            "date_modified": "2026-03-04T18:15:32.000Z"
-        },
-        {
-            "id": 4717272,
-            "content_html": "",
-            "title": "美国密苏里州一家州法院法官周三初步批准了一项72.5亿美元的和解方案，以解决数千起指控拜耳公司的农达（Roundup）除草剂致癌的诉讼。",
-            "date_modified": "2026-03-04T18:14:55.000Z"
-        },
-        {
-            "id": 4717269,
-            "content_html": "",
-            "title": "中国地震台网自动测定：03月05日01时54分在拉特群岛[阿留申群岛]附近（北纬52.58度，东经176.36度）发生6.3级左右地震，最终结果以正式速报为准。",
-            "date_modified": "2026-03-04T18:13:40.000Z"
-        },
-        {
-            "id": 4717268,
-            "content_html": "",
-            "title": "英国预算责任办公室（OBR）经济学家：若能源价格飙升，英国无力为家庭提供有力支持。",
-            "date_modified": "2026-03-04T18:11:58.000Z"
-        },
-        {
-            "id": 4717267,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3630941.d.html",
-            "title": "  美国国防部长赫格塞思：海军摧毁了一艘伊朗潜艇，这是二战以来首次击毁敌方潜艇。",
-            "date_modified": "2026-03-04T18:11:32.000Z"
-        },
-        {
-            "id": 4717265,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0176495.d.html",
-            "title": "美国特使维特科夫表示，在谈判中，哈马斯比伊朗更为理性。",
-            "date_modified": "2026-03-04T18:08:45.000Z"
-        },
-        {
-            "id": 4717264,
-            "content_html": "",
-            "title": "日本经济产业大臣赤泽亮成大臣将于周四至周日访问华盛顿，计划在周五与美国商务部长霍华德·卢特尼克会面。",
-            "date_modified": "2026-03-04T18:07:28.000Z"
-        },
-        {
-            "id": 4717263,
-            "content_html": "",
-            "title": "日本和美国方面正在考虑将核电站等项目列为日本承诺在美国进行的5500亿美元投资和贷款第二阶段的候选项目。",
-            "date_modified": "2026-03-04T18:06:46.000Z"
-        },
-        {
-            "id": 4717262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0175575.d.html",
-            "title": "谷歌在与Epic达成协议后，将全球下调应用开发者费用。",
-            "date_modified": "2026-03-04T18:06:27.000Z"
-        },
-        {
-            "id": 4717260,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3629405.d.html",
-            "title": "以色列预计将与伊朗展开为期数周的战争。",
-            "date_modified": "2026-03-04T18:05:37.000Z"
-        },
-        {
-            "id": 4717259,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3629391.d.html",
-            "title": "日本未来对美投资可能涉及核电站和铜精炼厂。",
-            "date_modified": "2026-03-04T18:05:31.000Z"
-        },
-        {
-            "id": 4717258,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6951550.d.html",
-            "title": "德国地球科学研究中心（GFZ）：阿留申群岛拉特群岛发生6.2级地震。",
-            "date_modified": "2026-03-04T18:03:44.000Z"
-        },
-        {
-            "id": 4717257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3628677.d.html",
-            "title": "  赫伯罗特航运公司宣布暂停所有往返波斯湾的订舱业务，直至另行通知。",
-            "date_modified": "2026-03-04T18:03:36.000Z"
-        },
-        {
-            "id": 4717256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6951295.d.html",
-            "title": "古巴国家电力工会表示，从卡马圭到比那尔德里奥的古巴大部分地区发生断电情况。",
-            "date_modified": "2026-03-04T18:03:12.000Z"
-        },
-        {
-            "id": 4717255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6950279.d.html",
-            "title": "俄罗斯国防部：莫斯科时间下午 4 点至 8 点期间，共击落34 架乌克兰无人机。",
-            "date_modified": "2026-03-04T18:00:41.000Z"
-        },
-        {
-            "id": 4717254,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6950069.d.html",
-            "title": "美国地质调查局：阿拉斯加地区阿图站发生6.5级地震。",
-            "date_modified": "2026-03-04T18:00:13.000Z"
-        },
-        {
-            "id": 4717253,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3634336.d.html",
-            "title": "美国国务卿鲁比奥与意大利官员今日就伊朗及中东问题举行会谈。",
-            "date_modified": "2026-03-04T17:59:57.000Z"
-        },
-        {
-            "id": 4717251,
-            "content_html": "",
-            "title": "特朗普政府官员对聚集在委内瑞拉的矿业高管和金属交易商表示，美国希望帮助他们开发该国的矿产资源。",
-            "date_modified": "2026-03-04T17:57:22.000Z"
-        },
-        {
-            "id": 4717250,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3626420.d.html",
-            "title": "【伊朗外长与俄罗斯外长通电话 讨论地区冲突】伊朗外交部消息，当地时间4日，伊朗外交部长阿拉格齐与俄罗斯外交部长拉夫罗夫举行了电话会谈。拉夫罗夫就美国和以色列发动军事侵略期间，伊朗最高领袖、多名高级军事指挥官以及伊朗同胞的遇难表示慰问。拉夫罗夫强调，美国和以色列对伊朗的袭击违反了国际法基本原则和《联合国宪章》，并对地区乃至全球的稳定与安全造成极其严重的后果。阿拉格齐对俄方来电及表达慰问表示感谢，并向对方通报了最新局势进展以及以色列和美国针对伊朗人民犯下的相关罪行，包括袭击居民区、学校、清真寺、医院以及救援和公共服务中心。（央视新闻）",
-            "date_modified": "2026-03-04T17:57:01.000Z"
         }
     ]
 }
