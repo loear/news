@@ -4,11 +4,55 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 03 Apr 2026 19:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 20:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  穆迪关于摩尔多瓦的评级声明：本次评级上调的决定，反映出摩尔多瓦在强化制度建设与治理水平方面取得了显著进展。   潜在下行风险方面，摩尔多瓦因邻国乌克兰冲突所面临的地缘政治风险敞口依然居高不下。]]></title>
+            <guid>4796015</guid>
+            <pubDate>Fri, 03 Apr 2026 20:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  穆迪评级：将摩尔多瓦主权信用评级从 B3 上调至 B2，展望为稳定。 将摩尔多瓦政府本外币长期发行人评级从 B3 上调至 B2，评级展望维持稳定。]]></title>
+            <guid>4796014</guid>
+            <pubDate>Fri, 03 Apr 2026 20:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫高级官员：特朗普今天在椭圆形办公室和椭圆形餐厅听取简报。特朗普的国家安全团队已在白宫集结。]]></title>
+            <guid>4796011</guid>
+            <pubDate>Fri, 03 Apr 2026 20:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗北部地震已致8人死亡】阿富汗自然灾害管理部发言人优素福·哈马德3日说，阿北部地区当晚发生的5.8级地震已造成至少8人死亡。优素福·哈马德在一份声明中说，地震导致喀布尔省一栋房屋倒塌，造成8名居民遇难，另有一名儿童受伤。阿富汗北部地区3日晚发生5.8级地震，首都喀布尔市震感明显。震中在喀布尔东北方向的巴达赫尚省，位于北纬36.55度、东经70.85度，震源深度186.4公里。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthnki6577324.d.html</link>
+            <guid>4796010</guid>
+            <pubDate>Fri, 03 Apr 2026 20:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美军两架搜救直升机被击中 无人受伤】美国全国广播公司3日以一名美国官员为消息源报道，两架美军直升机当天在伊朗境内搜救被击落的美军战机飞行员时被伊朗火力击中，机上乘员无人受伤。当天早些时候，美军空军一架F-15E型战斗机在伊朗上空被击落。美军搜救飞机和直升机进入伊朗境内，发现并救起一名机组成员，正在寻找第二名机组成员。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6704143.d.html</link>
+            <guid>4796009</guid>
+            <pubDate>Fri, 03 Apr 2026 20:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国 SEC 文件显示：贝莱德将多数贷款人的循环信贷额度到期日延长至 2031 年 3 月 31 日。]]></title>
+            <guid>4796008</guid>
+            <pubDate>Fri, 03 Apr 2026 20:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普称美军机被击落不会影响与伊朗谈判】当地时间4月3日，美国总统特朗普在接受采访时称，美军战机被击落不会影响与伊朗的谈判。特朗普拒绝透露在美军战机被击落后，目前在伊朗境内开展搜救行动的具体细节，但他对部分媒体的相关报道表示不满，因为这显然是一场紧张且敏感的军事行动。被问及当日事件是否会影响与伊朗的谈判时，特朗普表示不会。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6701671.d.html</link>
+            <guid>4796007</guid>
+            <pubDate>Fri, 03 Apr 2026 20:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗首都德黑兰再次遭袭】当地时间3日23时15分， 伊朗首都德黑兰再次遭袭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhai9922826.d.html</link>
+            <guid>4796006</guid>
+            <pubDate>Fri, 03 Apr 2026 19:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  冈比亚政府公布 4 月燃油零售价：汽油每升 98 达拉西，柴油每升 95 达拉西。]]></title>
             <guid>4796004</guid>
@@ -359,47 +403,6 @@
             <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzut8586696.d.html</link>
             <guid>4795918</guid>
             <pubDate>Fri, 03 Apr 2026 16:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软CEO：在我看来，必须要有强有力的国际规则来推动民用基础设施的保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzur3498309.d.html</link>
-            <guid>4795912</guid>
-            <pubDate>Fri, 03 Apr 2026 16:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗谴责美精确打击导弹致21人遇难】伊朗外交部发言人巴加埃4月2日在社交媒体上发文，谴责美国于2月28日对伊朗拉默尔德市一座体育馆发动的袭击，表示“这是一起令人发指的战争罪行”。巴加埃称，美国此次袭击使用了精确打击导弹，导致21名青少年遇难。 美军中央司令部在3月31日曾否认相关指控，并声称“美军不以平民为目标”。而《纽约时报》在3月29日的一篇报道中就指出，美国在对伊朗战争首日使用了此前未经实战检验的导弹。该媒体和武器专家通过分析相关影像，发现美国在此次空袭中使用导弹的武器特征、爆炸方式及造成的破坏均与精确打击导弹相符。3月初，美军中央司令部证实，已在伊朗战事中使用该型导弹，并发布相关画面。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzup6775999.d.html</link>
-            <guid>4795910</guid>
-            <pubDate>Fri, 03 Apr 2026 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：一名以色列高级官员表示，以色列取消了原定对伊朗的袭击，以免影响搜救工作。]]></title>
-            <guid>4795909</guid>
-            <pubDate>Fri, 03 Apr 2026 15:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软CEO：数据中心安全架构需在伊朗导弹袭击事件后做出调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-03/detail-inhtfzum9998557.d.html</link>
-            <guid>4795908</guid>
-            <pubDate>Fri, 03 Apr 2026 15:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称过去24小时对伊朗多地实施70余次空袭】当地时间4月3日，以色列国防军发表声明称，过去24小时内，以军对伊朗西部和中部地区发动70余次空袭，目标包括弹道导弹发射场、无人机基地以及防空系统等数十个目标。声明表示，以军将继续打击伊朗的进攻和防御基础设施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-03/detail-inhtfzup6775508.d.html</link>
-            <guid>4795906</guid>
-            <pubDate>Fri, 03 Apr 2026 15:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄土总统通电话讨论波斯湾形势】俄罗斯总统普京3日与土耳其总统埃尔多安通电话，就波斯湾地区持续升级的军事政治对抗问题深入交换意见。据俄总统新闻网站发布的消息，俄土领导人在通话中说，激烈的军事行动给地区乃至全球范围内的能源、贸易和物流领域造成了严重后果。俄土双方都认为必须立即实现停火，并制定兼顾海湾地区所有国家合法利益的和平协议。在讨论乌克兰局势时，普京和埃尔多安都强调将加强协调，全面保障黑海地区安全。此外，双方还围绕进一步扩大俄土政治、经贸联系，推动能源领域联合项目实施等进行了讨论。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-03/detail-inhtfzut8584256.d.html</link>
-            <guid>4795905</guid>
-            <pubDate>Fri, 03 Apr 2026 15:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒说美官员证实一美军战机在伊朗南部坠毁】据美国《华盛顿邮报》3日报道，美国官员证实，一架美军战斗机当天在伊朗南部坠毁，美方目前正对机上两名飞行员展开搜救。报道说，坠毁战机可能是美空军的F-15战机。美国防部尚未就这一事件发表评论。另据美国有线电视新闻网报道，该媒体通过地理定位确认的一段视频显示，多架军用飞机正低空飞越伊朗中部的胡齐斯坦省上空。视频中可见，一架飞机正低空飞行，另有两架直升机紧随其后，这种编队形式与空中加油作业时的队形相吻合。该视频拍摄于位于德黑兰以南约470公里处卡伦河上的一座桥上。报道说，这是美国和以色列对伊朗发动军事行动以来，已知首次有美国战机在伊朗境内坠毁。此前，美军承认有3架F-15战机在科威特被“友军误击”后坠毁。伊朗塔斯尼姆通讯社3日援引消息人士的话报道称，当天早些时候，一架美军战机在伊朗上空被击中后飞行员弹射出舱，后美方试图营救无果。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-03/detail-inhtfzup6775311.d.html</link>
-            <guid>4795904</guid>
-            <pubDate>Fri, 03 Apr 2026 15:55:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
