@@ -6,6 +6,309 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 4809014,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4630939.d.html",
+            "title": "伊朗议会议长卡利巴夫：伊朗“对美国抱有善意，但不信任美国”。",
+            "date_modified": "2026-04-10T21:50:01.000Z"
+        },
+        {
+            "id": 4809012,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4630562.d.html",
+            "title": "消息人士：黎巴嫩与美国已要求以色列暂停对真主党的打击。",
+            "date_modified": "2026-04-10T21:47:56.000Z"
+        },
+        {
+            "id": 4809011,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7853323.d.html",
+            "title": "AXIOS：黎巴嫩和美国要求以色列“暂停”战斗。",
+            "date_modified": "2026-04-10T21:47:41.000Z"
+        },
+        {
+            "id": 4809010,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7852495.d.html",
+            "title": "【美国海关：关税退税工具将于4月20日上线 进口商可提交申请】美国海关与边境保护局周五表示，寻求关税退款的进口商将能够从4月20日起开始提交申请。在第一阶段，报关统一管理与处理工具（简称CAPE）将处理部分较为简单且近期的进口报关单据，而更复杂的退款情形将留待后续阶段处理。",
+            "date_modified": "2026-04-10T21:43:20.000Z"
+        },
+        {
+            "id": 4809008,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfm9805534.d.html",
+            "title": "【特朗普称霍尔木兹海峡“很快就会重新开放”】当地时间4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视新闻）",
+            "date_modified": "2026-04-10T21:42:45.000Z"
+        },
+        {
+            "id": 4809007,
+            "content_html": "",
+            "title": "市场消息：美国官员称，在巴基斯坦伊斯兰堡举行的美伊会谈将同时采取间接和直接的方式。",
+            "date_modified": "2026-04-10T21:41:14.000Z"
+        },
+        {
+            "id": 4809006,
+            "content_html": "",
+            "title": "根据NBC新闻援引的S&P Global Market Intelligence的船舶追踪数据，周五仅有两艘船通过霍尔木兹海峡。",
+            "date_modified": "2026-04-10T21:40:35.000Z"
+        },
+        {
+            "id": 4809005,
+            "content_html": "",
+            "title": "  美国 PJM 电网计划新增 15 吉瓦电力供应，以满足数据中心建设热潮带来的用电需求。",
+            "date_modified": "2026-04-10T21:35:01.000Z"
+        },
+        {
+            "id": 4809003,
+            "content_html": "",
+            "title": "中国地震台网自动测定：04月11日05时26分在辽宁鞍山市岫岩县附近（北纬40.53度，东经123.06度）发生3.5级左右地震，最终结果以正式速报为准。",
+            "date_modified": "2026-04-10T21:28:28.000Z"
+        },
+        {
+            "id": 4809002,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4626189.d.html",
+            "title": "特朗普总统表示，与伊朗达成的好协议的“第一要务”是“无核武器”。",
+            "date_modified": "2026-04-10T21:28:24.000Z"
+        },
+        {
+            "id": 4809001,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4625896.d.html",
+            "title": "【巴西提议组建国家控股稀土公司】巴西立法者提出法案，提议创建一家专注于稀土和关键矿产的国家控股公司。这是该南美国家为实现精炼本土化、并将自己定位为最大生产国。众议员Rodrigo Rollemberg提议成立“巴西稀土股份有限公司”（Terras Raras Brasileiras SA，简称 Terrabras），旨在进行矿产研究、勘探和商业化。该公司的运作模式将类似于国家控股的石油生产商巴西石油公司（Petrobras），其资本结构可包括私人企业、开发银行和主权基金，但联邦政府将保留最低限度的股份以确保控制权。",
+            "date_modified": "2026-04-10T21:26:54.000Z"
+        },
+        {
+            "id": 4809000,
+            "content_html": "",
+            "title": "以色列驻美国大使：以色列已同意在周二与黎巴嫩大使及美国大使的会晤中启动正式和平谈判。",
+            "date_modified": "2026-04-10T21:25:13.000Z"
+        },
+        {
+            "id": 4808999,
+            "content_html": "",
+            "title": "特朗普： 霍尔木兹海峡会自动开放……否则，他们就赚不到钱。我们无论如何都会开放这条海峡。",
+            "date_modified": "2026-04-10T21:22:46.000Z"
+        },
+        {
+            "id": 4808998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4714212.d.html",
+            "title": "国际货币基金组织：执董们普遍同意将预防性余额当前下限维持在200亿特别提款权。",
+            "date_modified": "2026-04-10T21:22:28.000Z"
+        },
+        {
+            "id": 4808997,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7847734.d.html",
+            "title": "国际货币基金组织：仅有少数董事支持提高预防性余额的中期目标。",
+            "date_modified": "2026-04-10T21:22:24.000Z"
+        },
+        {
+            "id": 4808996,
+            "content_html": "",
+            "title": "国际货币基金组织：大多数董事支持将预防性余额的现行中期目标维持在250亿特别提款权。",
+            "date_modified": "2026-04-10T21:22:17.000Z"
+        },
+        {
+            "id": 4808995,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4714010.d.html",
+            "title": "国际货币基金组织：董事会成员强调，风险构成已发生变化，信贷风险已小幅上升。",
+            "date_modified": "2026-04-10T21:21:29.000Z"
+        },
+        {
+            "id": 4808994,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfm9800985.d.html",
+            "title": "国际货币基金组织：董事会成员指出，预防性余额预计将维持在目标水平之上。",
+            "date_modified": "2026-04-10T21:21:23.000Z"
+        },
+        {
+            "id": 4808993,
+            "content_html": "",
+            "title": "国际货币基金组织：董事会成员普遍认为，基金组织面临的整体风险与风险缓释因素的总体格局大致保持不变。",
+            "date_modified": "2026-04-10T21:20:39.000Z"
+        },
+        {
+            "id": 4808992,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4624494.d.html",
+            "title": "市场消息：思科正洽谈收购 Astrix，交易金额至少 2.5 亿美元。",
+            "date_modified": "2026-04-10T21:20:22.000Z"
+        },
+        {
+            "id": 4808991,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7847022.d.html",
+            "title": "国际货币基金组织：执行董事会讨论资金预防性储备的充足性问题。",
+            "date_modified": "2026-04-10T21:19:00.000Z"
+        },
+        {
+            "id": 4808990,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7846901.d.html",
+            "title": "   特朗普表示，其他国家正 “主动前来” 海峡地区提供协助。",
+            "date_modified": "2026-04-10T21:18:25.000Z"
+        },
+        {
+            "id": 4808989,
+            "content_html": "",
+            "title": "美国司法部长布兰奇：IBM支付1700万美元，以了结其通过非法多元公平包容（DEI）做法实施歧视的指控。",
+            "date_modified": "2026-04-10T21:15:58.000Z"
+        },
+        {
+            "id": 4808987,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7845851.d.html",
+            "title": "特朗普谈伊朗问题：我们拭目以待谈判进展。",
+            "date_modified": "2026-04-10T21:15:21.000Z"
+        },
+        {
+            "id": 4808986,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4712522.d.html",
+            "title": "特朗普表示：霍尔木兹海峡很快就会恢复畅通。",
+            "date_modified": "2026-04-10T21:14:52.000Z"
+        },
+        {
+            "id": 4808984,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4622498.d.html",
+            "title": "特朗普：海峡很快将开放。",
+            "date_modified": "2026-04-10T21:14:29.000Z"
+        },
+        {
+            "id": 4808982,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfm9799208.d.html",
+            "title": "荷兰监管机构RDW表示，全自动驾驶系统（FSD）若使用得当，可提升道路安全性。",
+            "date_modified": "2026-04-10T21:14:04.000Z"
+        },
+        {
+            "id": 4808981,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfm9799169.d.html",
+            "title": "特朗普：开放（霍尔木兹）海峡很快就会发生。",
+            "date_modified": "2026-04-10T21:13:57.000Z"
+        },
+        {
+            "id": 4808980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4622030.d.html",
+            "title": "特朗普谈伊朗：我们总能以某种方式彻底解决它。",
+            "date_modified": "2026-04-10T21:13:39.000Z"
+        },
+        {
+            "id": 4808979,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4621909.d.html",
+            "title": "特朗普：我们将开放海湾。",
+            "date_modified": "2026-04-10T21:13:29.000Z"
+        },
+        {
+            "id": 4808976,
+            "content_html": "",
+            "title": "  以色列驻华盛顿大使耶希尔・莱特博士：在今日大使级会谈中，以色列同意于周二举行后续会议，以推动与黎巴嫩达成和平协议，但拒绝就与真主党停火展开磋商。真主党仍在持续袭击以色列，是实现和平的主要障碍。",
+            "date_modified": "2026-04-10T21:11:36.000Z"
+        },
+        {
+            "id": 4808971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4709269.d.html",
+            "title": "惠誉：土耳其展望评级调整反映出自伊朗局势升级以来，其国际储备出现显著下降。",
+            "date_modified": "2026-04-10T21:06:22.000Z"
+        },
+        {
+            "id": 4808968,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4617193.d.html",
+            "title": "特斯拉表示，全自动驾驶（FSD）很快将开始在荷兰推广。",
+            "date_modified": "2026-04-10T21:05:33.000Z"
+        },
+        {
+            "id": 4808967,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4616194.d.html",
+            "title": "特斯拉：FSD Supervised 在荷兰获得批准。",
+            "date_modified": "2026-04-10T21:03:57.000Z"
+        },
+        {
+            "id": 4808966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4615957.d.html",
+            "title": "惠誉：土耳其展望评级调整反映出自伊朗局势升级以来，该国国际储备大幅下降。",
+            "date_modified": "2026-04-10T21:03:37.000Z"
+        },
+        {
+            "id": 4808965,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfm9794962.d.html",
+            "title": "【克里姆林宫：特使访美不等于复谈 复活节停火是人道考量】俄罗斯总统新闻秘书佩斯科夫10日证实，俄总统特别代表德米特里耶夫正在美国访问，但这不意味着双方就乌克兰问题恢复谈判。俄方提议东正教复活节停火是出于人道主义考虑。佩斯科夫表示，德米特里耶夫并未就乌克兰问题与美方谈判，此访也不意味着恢复谈判进程。德米特里耶夫是俄罗斯直接投资基金总裁、负责对外投资和经济合作事务的总统特别代表，负责俄美经济工作组事务。据今日俄罗斯通讯社报道，他正就恢复俄美经济合作的议题与美方继续接触。（新华社）",
+            "date_modified": "2026-04-10T21:02:50.000Z"
+        },
+        {
+            "id": 4808964,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4707794.d.html",
+            "title": "特朗普媒体与科技集团：斯威德辞职并非因与管理层或董事会发生分歧，也与此无关。",
+            "date_modified": "2026-04-10T21:02:26.000Z"
+        },
+        {
+            "id": 4808963,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4615303.d.html",
+            "title": "惠誉维持尼日利亚“B”评级，展望稳定。",
+            "date_modified": "2026-04-10T21:02:16.000Z"
+        },
+        {
+            "id": 4808962,
+            "content_html": "",
+            "title": "SEC文件显示，特朗普媒体与科技集团的埃里克·斯威德辞去特朗普媒体与科技集团股份有限公司董事职务，于2026年4月6日生效。",
+            "date_modified": "2026-04-10T21:02:08.000Z"
+        },
+        {
+            "id": 4808961,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7837901.d.html",
+            "title": "惠誉将土耳其的评级展望调整为稳定，维持“BB-”评级。",
+            "date_modified": "2026-04-10T21:01:44.000Z"
+        },
+        {
+            "id": 4808960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7837760.d.html",
+            "title": "【英国表示希望美伊谈判为长期解决冲突铺平道路】英国首相斯塔默10日下午在与巴基斯坦总理夏巴兹通话时表示，英国希望即将举行的美伊谈判为长期解决冲突铺平道路。据英国首相府当天发布的信息，斯塔默在通话中对美伊停火表示欢迎，并就巴基斯坦从中斡旋发挥关键作用表示感谢。双方认为，即将举行的美伊谈判对推动停火、维护持久和平与霍尔木兹海峡的重新开放“至关重要”。斯塔默表示，英国支持并希望谈判为长期解决冲突铺平道路。（新华社）",
+            "date_modified": "2026-04-10T21:01:21.000Z"
+        },
+        {
+            "id": 4808959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfn7837251.d.html",
+            "title": "【联合国秘书长欢迎美伊在伊斯兰堡举行谈判】联合国秘书长古特雷斯的发言人迪雅里克10日说，古特雷斯对美国和伊朗在巴基斯坦斡旋下，将在巴基斯坦首都伊斯兰堡举行谈判表示欢迎。迪雅里克在当天的记者会上表示，秘书长呼吁各方抓住这一外交契机，本着诚意开展接触，致力于达成一项持久且全面的协议，以缓和局势并防止敌对行动死灰复燃。秘书长重申，依据包括《联合国宪章》在内的国际法，和平解决国际争端是唯一可行的途径。",
+            "date_modified": "2026-04-10T20:59:17.000Z"
+        },
+        {
+            "id": 4808957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfq4613504.d.html",
+            "title": "海湾地区顶级铝业生产商宣布对部分合同实施不可抗力。",
+            "date_modified": "2026-04-10T20:54:06.000Z"
+        },
+        {
+            "id": 4808956,
+            "content_html": "",
+            "title": "美国驻印度大使： 很高兴今早与美国能源部长克里斯・赖特以及外秘维克拉姆・米斯里会面，探讨美印能源合作的未来。在印度历史性通过《沙蒂法案》之后，我们除了将在煤炭气化、美国液化石油气出口等领域开展合作外，还准备在民用核能方面展开协作。",
+            "date_modified": "2026-04-10T20:52:19.000Z"
+        },
+        {
+            "id": 4808954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuakfi4706021.d.html",
+            "title": "【黎巴嫩总统府：黎以同意14日在美讨论停火】黎巴嫩总统府当地时间10日晚发布声明称，黎巴嫩驻美大使娜达·哈马德·穆阿瓦德和以色列驻美大使叶希尔·莱特于当日晚间通电话，美国驻贝鲁特大使亦参与其中。声明指出，此次通话是旨在促成停火及启动谈判的外交行动的一部分，并补充称，双方已同意于4月14日在美国国务院举行首次会晤，讨论宣布停火以及在美国主持下启动谈判的日期。（央视新闻）",
+            "date_modified": "2026-04-10T20:50:25.000Z"
+        },
+        {
             "id": 4808953,
             "content_html": "",
             "title": "美国医疗保险和医疗补助服务中心（CMS）：拟议扩围计划将改善联邦医疗保险（Medicare）受益人的医疗服务并降低其成本。",
@@ -193,195 +496,6 @@
             "content_html": "",
             "title": "据SEC文件显示，Alphabet公司已于2026年4月7日批准向四名高管授予股权奖励。",
             "date_modified": "2026-04-10T20:18:03.000Z"
-        },
-        {
-            "id": 4808914,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxq7959708.d.html",
-            "title": "美国银行存款从前一周的18.996万亿美元增至19.085万亿美元。",
-            "date_modified": "2026-04-10T20:16:31.000Z"
-        },
-        {
-            "id": 4808912,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxs4736194.d.html",
-            "title": "Coinbase：保罗·克莱门特不会竞选董事会连任。",
-            "date_modified": "2026-04-10T20:12:41.000Z"
-        },
-        {
-            "id": 4808910,
-            "content_html": "",
-            "title": "黑石数字基础设施信托公司：本次发行完成后，我方将由BX REIT顾问有限责任公司进行外部管理。",
-            "date_modified": "2026-04-10T20:11:50.000Z"
-        },
-        {
-            "id": 4808909,
-            "content_html": "",
-            "title": "黑石数字基础设施信托公司：桑坦德银行、多伦多道明证券公司与黑石资本市场为此次首次公开募股的承销商。",
-            "date_modified": "2026-04-10T20:11:39.000Z"
-        },
-        {
-            "id": 4808906,
-            "content_html": "",
-            "title": "黑石数字基础设施信托公司：法国巴黎银行、三井住友金融集团日兴证券、法国兴业银行、西班牙对外银行、法国农业信贷银行投资银行、三菱日联金融集团为此次首次公开募股的承销商。",
-            "date_modified": "2026-04-10T20:10:33.000Z"
-        },
-        {
-            "id": 4808902,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxp9917562.d.html",
-            "title": "标普：我们预计英国将能够顺利滚动续期其短期外债存量，并为经常账户赤字融资。",
-            "date_modified": "2026-04-10T20:08:58.000Z"
-        },
-        {
-            "id": 4808900,
-            "content_html": "",
-            "title": "黑石数字基础设施信托公司（BLACKSTONE DIGITAL INFRASTRUCTURE TRUST INC）：拟申请其普通股在纽约证券交易所上市，股票代码为“BXDC”。",
-            "date_modified": "2026-04-10T20:07:57.000Z"
-        },
-        {
-            "id": 4808899,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxs4735097.d.html",
-            "title": "黎巴嫩总统府：美国将对黎巴嫩与以色列进行调停。",
-            "date_modified": "2026-04-10T20:07:32.000Z"
-        },
-        {
-            "id": 4808897,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxp9917220.d.html",
-            "title": "  黑石数字基础设施信托已提交 IPO（首次公开募股）申请。",
-            "date_modified": "2026-04-10T20:07:23.000Z"
-        },
-        {
-            "id": 4808896,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxq7957805.d.html",
-            "title": "纳斯达克：截至3月31日，纳斯达克全球市场证券的空头股份总计为165.1亿股。",
-            "date_modified": "2026-04-10T20:07:10.000Z"
-        },
-        {
-            "id": 4808894,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxp9917013.d.html",
-            "title": "特朗普： 林赛·格雷厄姆参议员干得太棒了。 全力投票支持林赛。MAGA！",
-            "date_modified": "2026-04-10T20:06:28.000Z"
-        },
-        {
-            "id": 4808893,
-            "content_html": "",
-            "title": "标普确认英国“AA/A-1+”评级；展望稳定。",
-            "date_modified": "2026-04-10T20:06:03.000Z"
-        },
-        {
-            "id": 4808892,
-            "content_html": "",
-            "title": "标普确认埃及评级为“B/B”；展望稳定。",
-            "date_modified": "2026-04-10T20:04:59.000Z"
-        },
-        {
-            "id": 4808891,
-            "content_html": "",
-            "title": "美国证券交易委员会披露文件显示，杜邦首席执行官洛里·D·科赫2025年总薪酬为1610万美元。",
-            "date_modified": "2026-04-10T20:04:53.000Z"
-        },
-        {
-            "id": 4808888,
-            "content_html": "",
-            "title": "标普确认摩尔多瓦“BB-/B”评级；展望稳定。",
-            "date_modified": "2026-04-10T20:03:59.000Z"
-        },
-        {
-            "id": 4808882,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxs4733549.d.html",
-            "title": "【以色列8日大规模空袭黎巴嫩已致357死1223伤】黎巴嫩卫生部10日发表声明说，以色列8日对该国发动的大规模空袭已造成357人死亡，另有1223人受伤。声明说，救援队伍仍在继续清理废墟，搜寻遇难者遗体，但大量无法辨认的遗体碎片需通过相关检测确认遇难者身份。（新华社）",
-            "date_modified": "2026-04-10T20:00:21.000Z"
-        },
-        {
-            "id": 4808879,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxm4827624.d.html",
-            "title": "哥伦比亚贸易部：厄瓜多尔上调关税后，哥伦比亚将对厄瓜多尔商品加征关税至100%。",
-            "date_modified": "2026-04-10T19:55:17.000Z"
-        },
-        {
-            "id": 4808877,
-            "content_html": "",
-            "title": "巴西联邦区州长在X平台发文称：我们已收到一份收购从Master银行购入的巴西利亚银行资产的提案。",
-            "date_modified": "2026-04-10T19:54:06.000Z"
-        },
-        {
-            "id": 4808876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxs4732406.d.html",
-            "title": "  OpenAI 的 ChatGPT 被指控助长跟踪狂的偏执妄想。",
-            "date_modified": "2026-04-10T19:54:00.000Z"
-        },
-        {
-            "id": 4808873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxm4826088.d.html",
-            "title": "  哥伦比亚将对厄瓜多尔进口商品征收100% 关税作为报复措施。",
-            "date_modified": "2026-04-10T19:45:32.000Z"
-        },
-        {
-            "id": 4808871,
-            "content_html": "",
-            "title": "美国食品药品监督管理局：辉瑞相关广告未充分说明 Adcetris 药物的适应症。此外，相关广告遗漏了重大风险信息。",
-            "date_modified": "2026-04-10T19:45:00.000Z"
-        },
-        {
-            "id": 4808868,
-            "content_html": "",
-            "title": "据知情人士透露，力拓集团旗下生产关键矿产硼的美国资产已吸引了十多家潜在竞购方的兴趣。 这些要求匿名的知情人士称，这家英澳矿业公司有望从该笔资产出售中获得约 20 亿美元。他们表示，有意收购力拓位于加州的硼矿资产的公司包括 WE Soda、Magris Resources以及US Silica Holdings。",
-            "date_modified": "2026-04-10T19:43:28.000Z"
-        },
-        {
-            "id": 4808866,
-            "content_html": "",
-            "title": "美国食品药品监督管理局：辉瑞用于 ADCETRIS 药物的脸书广告存在虚假或误导性内容。",
-            "date_modified": "2026-04-10T19:41:37.000Z"
-        },
-        {
-            "id": 4808865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxp9912018.d.html",
-            "title": "  市场消息：美国上诉法院称，家庭蒸馏禁令超出了税收权限范围。",
-            "date_modified": "2026-04-10T19:39:10.000Z"
-        },
-        {
-            "id": 4808864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxq7952236.d.html",
-            "title": "【从技术落地到生态构建 脑机接口产业发展任重道远】近日，国家市场监督管理总局（国家标准委）批准发布一批重要国家标准，涉及新兴领域、安全生产等方面。其中，脑机接口等18项国家标准的发布，将进一步助力前沿技术领域高质量发展。与此同时，在上海举办的第93届中国国际医疗器械博览会（CMEF）上，AI+医疗、脑机接口等产业技术发展的最新动态和趋势，成为参展企业、投资人、行业专家等各方关注的焦点。多位脑机接口行业专家对上海证券报记者表示，我国脑机接口产业在技术路线布局、配套生态完善方面持续突破，同时也面临着诸多发展挑战，多方正协同发力，推动脑机接口产业从技术探索走向临床落地、从跟跑并跑向领跑迈进。（上证报）",
-            "date_modified": "2026-04-10T19:38:04.000Z"
-        },
-        {
-            "id": 4808863,
-            "content_html": "",
-            "title": "市场消息：美国关键监督委员会的首席民主党人，在总统发表摧毁伊朗文明的威胁言论后，正呼吁白宫医生立即对唐纳德・特朗普开展全面认知能力评估。在致白宫医生肖恩・巴巴贝拉上尉的信中，众议员杰米・拉斯金敦促其向国会议员公开评估结果。",
-            "date_modified": "2026-04-10T19:37:27.000Z"
-        },
-        {
-            "id": 4808862,
-            "content_html": "",
-            "title": "  据伊朗国际电视台援引航班追踪数据显示，两架显然载有伊朗谈判代表的飞机已降落在伊斯兰堡。",
-            "date_modified": "2026-04-10T19:35:48.000Z"
-        },
-        {
-            "id": 4808861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxs4728814.d.html",
-            "title": "市场消息： 力拓集团旗下美国关键矿产资产引发多方收购兴趣。",
-            "date_modified": "2026-04-10T19:35:07.000Z"
-        },
-        {
-            "id": 4808859,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-04-11/detail-inhuacxq7951300.d.html",
-            "title": "劳埃德银行将不会对英国90亿英镑汽车金融赔偿方案提起诉讼。",
-            "date_modified": "2026-04-10T19:33:36.000Z"
         }
     ]
 }
