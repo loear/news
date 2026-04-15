@@ -4,11 +4,44 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 15 Apr 2026 21:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 22:00:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【澳大利亚一炼油厂发生大火】位于澳大利亚维多利亚州吉朗市的一家炼油厂15日深夜发生火灾。截至16日上午，大火仍在燃烧。尚无人员伤亡报告。据澳大利亚媒体报道，这是该国现阶段仅剩的两家炼油厂之一。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurtws4182533.d.html</link>
+            <guid>4818703</guid>
+            <pubDate>Wed, 15 Apr 2026 21:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳大利亚能源部长：维瓦能源炼油厂的火灾仍未得到控制。此次冲击对汽油生产的影响更为显著，炼油厂仍在生产柴油和航空燃油，但产量有所下降。展开调查，目前来看这起事件似乎是一起意外事故。]]></title>
+            <guid>4818701</guid>
+            <pubDate>Wed, 15 Apr 2026 21:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国《金融时报》报道，黎巴嫩官员称，以色列与黎巴嫩之间的停火预计 “很快” 达成。]]></title>
+            <guid>4818700</guid>
+            <pubDate>Wed, 15 Apr 2026 21:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurtws4174984.d.html</link>
+            <guid>4818698</guid>
+            <pubDate>Wed, 15 Apr 2026 21:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度中部电厂爆炸事故遇难人数升至20人】印度媒体15日援引当地警方消息报道，截至当晚，该国中部切蒂斯格尔邦前一天发生的电厂爆炸事故遇难人数已升至20人。切蒂斯格尔邦首席部长维什努·德奥·赛对媒体表示，相关部门将就事故启动高级别调查并严惩相关责任人。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurpqs7525428.d.html</link>
+            <guid>4818692</guid>
+            <pubDate>Wed, 15 Apr 2026 21:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法律行业媒体 BLAW 报道，白宫正在审查美国货币监理署（OCC）有关银行监管优先权的行政命令。]]></title>
+            <guid>4818688</guid>
+            <pubDate>Wed, 15 Apr 2026 21:02:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据英国《金融时报》：挪威2 万亿美元主权财富基金表示，暂无计划减持美国资产。]]></title>
             <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurpqs7521121.d.html</link>
@@ -251,57 +284,6 @@
             <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihw4403074.d.html</link>
             <guid>4818605</guid>
             <pubDate>Wed, 15 Apr 2026 18:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[托克与加蓬共和国签署原油预付款协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihp8133999.d.html</link>
-            <guid>4818604</guid>
-            <pubDate>Wed, 15 Apr 2026 18:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长：机构 “急于推进” 大部分项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihu7624279.d.html</link>
-            <guid>4818600</guid>
-            <pubDate>Wed, 15 Apr 2026 18:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源部长：能源部项目审查工作已完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihu7624098.d.html</link>
-            <guid>4818599</guid>
-            <pubDate>Wed, 15 Apr 2026 18:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌母公司Alphabet涨超1%。消息面上，Alphabet凭借对太空探索技术公司SpaceX的投资有望获得1000亿美元的巨额收益。]]></title>
-            <guid>4818598</guid>
-            <pubDate>Wed, 15 Apr 2026 18:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥主要股指延续涨势，涨幅扩大至1%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihs3219183.d.html</link>
-            <guid>4818594</guid>
-            <pubDate>Wed, 15 Apr 2026 18:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国税收与经济政策研究所（ITEP）数据，美国至少有88家大型企业在其最近一个财年未缴纳任何联邦企业所得税。]]></title>
-            <guid>4818592</guid>
-            <pubDate>Wed, 15 Apr 2026 18:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌现涨0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihu7621938.d.html</link>
-            <guid>4818590</guid>
-            <pubDate>Wed, 15 Apr 2026 18:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫：特朗普将提交“美国凯旋拱门”建设计划】当地时间4月15日，白宫新闻秘书卡罗琳·莱维特表示，美国总统特朗普与内政部将提交建设“美国凯旋拱门”的规划方案，以纪念美国建国250周年。莱维特称，该建筑拟高250英尺，选址于华盛顿特区波托马克河上的哥伦比亚岛纪念环岛区域，将由国家公园管理局管理。项目计划配备艺术雕塑与历史展示内容，用以呈现美国250年来的发展与成就。她表示，该项目计划于今年启动建设，并作为独立日及建国250周年系列庆祝活动的一部分，未来还将公布更多相关安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-16/detail-inhurihu7621574.d.html</link>
-            <guid>4818588</guid>
-            <pubDate>Wed, 15 Apr 2026 18:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国爱迪生电气协会（EEI）数据显示，美国装机总发电量（TABLE-US）周度发电量同比下降1%。]]></title>
-            <guid>4818587</guid>
-            <pubDate>Wed, 15 Apr 2026 18:38:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
