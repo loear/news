@@ -4,11 +4,71 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Fri, 01 May 2026 21:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 22:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Coinbase 高管：稳定币收益相关问题已成为过去式， 各方最终已达成折中协议。]]></title>
+            <guid>4856645</guid>
+            <pubDate>Fri, 01 May 2026 21:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普：我们已告知其他国家，只要它们在美国建厂、雇佣优秀的美国本土工人，就免征关税。如今大量工厂正纷纷回流美国本土。]]></title>
+            <guid>4856644</guid>
+            <pubDate>Fri, 01 May 2026 21:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古巴外交部长：相关措施违背《联合国宪章》。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnt6112025.d.html</link>
+            <guid>4856643</guid>
+            <pubDate>Fri, 01 May 2026 21:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古巴外交部长：我方坚决反对美国政府近期出台的单边强制性制裁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnv2889167.d.html</link>
+            <guid>4856642</guid>
+            <pubDate>Fri, 01 May 2026 21:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eBay股价涨幅扩大至13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnv2888601.d.html</link>
+            <guid>4856641</guid>
+            <pubDate>Fri, 01 May 2026 21:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美防长下令从德国撤出5000名驻军】当地时间5月1日，美国国防部表示，美国国防部长赫格塞思已下令从德国撤出5000名驻军，撤军工作将在未来6至12个月内完成。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnq5037214.d.html</link>
+            <guid>4856640</guid>
+            <pubDate>Fri, 01 May 2026 21:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据金融时报：美国向欧洲发出警告，受伊朗战事消耗军备库存影响，武器运输交付将出现延误。]]></title>
+            <guid>4856639</guid>
+            <pubDate>Fri, 01 May 2026 21:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。]]></title>
+            <guid>4856638</guid>
+            <pubDate>Fri, 01 May 2026 21:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国防部：美国国防部长赫格塞思下令从德国撤出 5000 名驻军，撤军工作将在未来 6 至 12 个月内完成。]]></title>
+            <guid>4856637</guid>
+            <pubDate>Fri, 01 May 2026 21:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普：在相关事务尘埃落定前，不愿谈论伊朗问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnv2885455.d.html</link>
+            <guid>4856636</guid>
+            <pubDate>Fri, 01 May 2026 21:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息人士：马里北部一军营遭武装组织控制】据消息人士当地时间5月1日透露，马里北部基达尔区泰萨利特市一处军营当天遭武装组织控制。截至目前，马里军方尚未就此作正式确认。消息人士说，目前，基达尔区首府基达尔市仍被分离主义武装组织“阿扎瓦德解放阵线”控制，当天发生交火。（央视新闻）]]></title>
+            <guid>4856631</guid>
+            <pubDate>Fri, 01 May 2026 21:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据Axios：美国预估封锁已造成伊朗损失 48 亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmvnv2878799.d.html</link>
@@ -348,72 +408,6 @@
             <title><![CDATA[伊朗伊斯兰革命卫队：掌控波斯湾与霍尔木兹海峡近2000公里伊朗海岸线，将为伊朗及整个地区带来生计保障、安全稳定与繁荣发展。]]></title>
             <guid>4856546</guid>
             <pubDate>Fri, 01 May 2026 18:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航运分析机构：过去一天7艘船通过霍尔木兹海峡】据伊朗塔斯尼姆通讯社1日报道，比利时航运分析机构克普勒公司发布报告说，过去一天，共有7艘船只通过霍尔木兹海峡，其中4艘驶离、3艘驶入。报告说，尽管美国声称对伊朗实施海上封锁，但4月30日仍有三艘与伊朗有关的船只通过霍尔木兹海峡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmrev6192327.d.html</link>
-            <guid>4856542</guid>
-            <pubDate>Fri, 01 May 2026 18:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴基斯坦总理办公室的一名消息人士透露，伊斯兰堡方面已请求美国总统特朗普现阶段暂缓作出重大军事决策。]]></title>
-            <guid>4856541</guid>
-            <pubDate>Fri, 01 May 2026 18:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普关于任命佛罗里达州长担任部长职位回应：我非常喜欢。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmrex2968775.d.html</link>
-            <guid>4856539</guid>
-            <pubDate>Fri, 01 May 2026 18:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国汽车工业协会（VDA）主席表示：在当前本已极具挑战性的形势下，加征这些关税带来的成本对德国及欧洲汽车工业而言将极为高昂，且很可能还会对美国消费者造成影响。]]></title>
-            <guid>4856538</guid>
-            <pubDate>Fri, 01 May 2026 18:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国汽车工业协会（VDA）主席：欧美双方都必须遵守已达成的贸易协定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmrex2967670.d.html</link>
-            <guid>4856537</guid>
-            <pubDate>Fri, 01 May 2026 18:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国汽车工业协会（VDA）：汽车工业紧急呼吁双方缓和局势，尽快展开谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmres5124684.d.html</link>
-            <guid>4856536</guid>
-            <pubDate>Fri, 01 May 2026 18:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美军称执行对伊海上封锁已使45艘商船调转航向】当地时间5月1日，据美军中央司令部消息，美军继续在国际水域巡逻并执行对伊朗的海上封锁行动。美方表示，截至目前已有45艘商业船只被要求调头或返回港口，以确保遵守相关限制措施。当前封锁行动仍在持续推进。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmres5124674.d.html</link>
-            <guid>4856535</guid>
-            <pubDate>Fri, 01 May 2026 18:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国汽车工业协会（VDA）表示：美国总统宣布将对从欧盟输美卡车和汽车加征关税，税率上调至25%，这意味着跨大西洋关系再次承受严重压力。]]></title>
-            <guid>4856534</guid>
-            <pubDate>Fri, 01 May 2026 18:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所（ICE）：截至4月28日当周，汽油投机者将净多头头寸增加6456手，至61272手。]]></title>
-            <guid>4856529</guid>
-            <pubDate>Fri, 01 May 2026 18:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列借助铁穹导弹系统协助阿联酋进行防御。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-05-02/detail-inhwmrev0211033.d.html</link>
-            <guid>4856528</guid>
-            <pubDate>Fri, 01 May 2026 18:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲汽车制造商协会总干事表示：若恢复27.5%的关税，且贸易争端持续无期限，将对欧洲汽车制造商、从业人员以及更广泛的欧盟经济造成严重损害。]]></title>
-            <guid>4856527</guid>
-            <pubDate>Fri, 01 May 2026 18:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普媒体科技集团(DJT.O)计划将Truth Social和 Truth+拆分成立独立的上市公司。]]></title>
-            <guid>4856526</guid>
-            <pubDate>Fri, 01 May 2026 18:02:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
