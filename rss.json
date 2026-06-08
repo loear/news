@@ -6,413 +6,556 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
-            "id": 4924479,
+            "id": 4924645,
             "content_html": "",
-            "title": "以色列政府领土活动协调局表示，决定自周二起重新开放凯雷姆沙洛姆口岸，逐步向加沙地带运送人道主义援助物资。",
-            "date_modified": "2026-06-08T16:10:45.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3564114.d.html",
+            "title": "市场消息：派拉蒙作出让步，以此规避美国各州提起的反垄断诉讼。",
+            "date_modified": "2026-06-08T19:28:31.000Z"
         },
         {
-            "id": 4924478,
+            "id": 4924644,
             "content_html": "",
-            "title": "谷歌：面向谷歌AI Ultra用户及开通AI Ultra的Workspace企业客户的网络端更新自今日起在全球范围推送，访问权限范围已扩大。",
-            "date_modified": "2026-06-08T16:10:21.000Z"
+            "title": "  苹果：除 AFM Cloud Pro 外，苹果其余四款模型仍将依托苹果自研芯片运行。",
+            "date_modified": "2026-06-08T19:22:51.000Z"
         },
         {
-            "id": 4924477,
+            "id": 4924643,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6859734.d.html",
-            "title": "印度证实维扎格帕特南钢厂火灾已造成8人遇难。",
-            "date_modified": "2026-06-08T16:09:43.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3562650.d.html",
+            "title": "  苹果：苹果旗下最大模型 AFM Cloud Pro 将运行于谷歌云基础设施之上。",
+            "date_modified": "2026-06-08T19:22:05.000Z"
         },
         {
-            "id": 4924475,
+            "id": 4924642,
             "content_html": "",
-            "title": "黎巴嫩卫生部称，自3月2日以来，以色列袭击已造成当地3637人死亡、11188人受伤。",
-            "date_modified": "2026-06-08T16:06:19.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattri5472067.d.html",
+            "title": "苹果：苹果联合谷歌、英伟达，依托谷歌云基础设施落地自有私有云计算方案。",
+            "date_modified": "2026-06-08T19:21:41.000Z"
         },
         {
-            "id": 4924474,
+            "id": 4924641,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpik3635881.d.html",
-            "title": "伊朗官方媒体称，飞行限制已解除，该国领空恢复正常运行。",
-            "date_modified": "2026-06-08T16:06:04.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3562334.d.html",
+            "title": "  乌克兰总统办公室顾问证实，泽连斯基与维特科夫、库什纳进行了通话。",
+            "date_modified": "2026-06-08T19:20:47.000Z"
         },
         {
-            "id": 4924473,
+            "id": 4924640,
             "content_html": "",
-            "title": "谷歌：将NotebookLM升级至Gemini 3.5大模型运行并推出反重力存储功能。",
-            "date_modified": "2026-06-08T16:05:59.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3562076.d.html",
+            "title": "  安全消息人士：无人机袭击了伊拉克埃尔比勒北部的伊朗库尔德反对派营地。",
+            "date_modified": "2026-06-08T19:19:48.000Z"
         },
         {
-            "id": 4924472,
+            "id": 4924639,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpik3634371.d.html",
-            "title": "惠誉评级：非银行金融机构信用状况在2026年年中趋于恶化。",
-            "date_modified": "2026-06-08T16:01:55.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5138581.d.html",
+            "title": "  苹果：苹果基础大模型已迭代至第三代。",
+            "date_modified": "2026-06-08T19:18:48.000Z"
         },
         {
-            "id": 4924469,
+            "id": 4924638,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpie5212636.d.html",
-            "title": "市场资讯：到2065年，英国本土白人族群在总人口中将沦为少数群体。",
-            "date_modified": "2026-06-08T15:57:32.000Z"
+            "title": "苹果软件主管克雷格・费德里吉： 苹果已搭建专属知识服务体系，该服务运行于公司自有私有云计算平台。",
+            "date_modified": "2026-06-08T19:17:29.000Z"
         },
         {
-            "id": 4924468,
+            "id": 4924637,
             "content_html": "",
-            "title": "欧盟委员会主席冯德莱恩：在欧盟理事会会议召开前，与各方领导人就提升竞争力达成共识，这一决策十分明智。改变需从内部着手：降低能源成本，为欧洲各地企业减负。但工作不止于此。全球贸易失衡与产能过剩带来诸多挑战，我们将在欧盟理事会会议上直面这些问题。我们优先开展合作、坚持对话沟通，同时坚决维护自身利益。",
-            "date_modified": "2026-06-08T15:56:54.000Z"
+            "title": "苹果软件主管克雷格・费德里吉：苹果专属云将采用三款自研 AI 模型，这些模型由苹果与谷歌合作打造。",
+            "date_modified": "2026-06-08T19:16:55.000Z"
         },
         {
-            "id": 4924467,
+            "id": 4924636,
             "content_html": "",
-            "title": "特朗普证实封锁行动仍在持续，预测平台Kalshi市场参与者认为，霍尔木兹海峡航运受阻局面延续至2027年的概率为66%。",
-            "date_modified": "2026-06-08T15:54:12.000Z"
+            "title": "苹果软件主管克雷格・费德里吉： Apple Intelligence的多项指令均在设备端处理，更复杂的请求则交由苹果自有专属云计算平台处理。",
+            "date_modified": "2026-06-08T19:16:38.000Z"
         },
         {
-            "id": 4924466,
+            "id": 4924635,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpia8435190.d.html",
-            "title": "【穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产】穆迪公司一项最新研究显示，去年美国寿险公司持有的流动性最差的固定收益工具规模约为8070亿美元，引发市场对该行业整体流动性以及资产集中度的担忧。根据周一发布的报告，截至2025年底，此类资产占寿险行业4万亿美元固定收益投资组合的20%，高于前一年的18%。在进行数据测算时，所涉及的证券具有私募信用评级(PLR)，但未获第三方机构的正式评级或无法通过可观察到的市场价格进行估值。信用评级是保险业财务稳健的关键要素，因为评级决定了保险公司需要预留的资本规模，以确保能够履行对保单持有人的承诺，有时这些承诺的期限可能长达数十年。",
-            "date_modified": "2026-06-08T15:52:35.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattri5470700.d.html",
+            "title": "市场消息：受美国封锁影响，托克暂停部分古巴锌货运业务。",
+            "date_modified": "2026-06-08T19:15:25.000Z"
         },
         {
-            "id": 4924465,
+            "id": 4924633,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpie5210909.d.html",
-            "title": "受关税政策提振美国本土产能影响，2026年美国钢材进口量下降30%。",
-            "date_modified": "2026-06-08T15:51:25.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattri5470196.d.html",
+            "title": "苹果软件主管克雷格・费德里吉谈及全新苹果智能功能时表示：我们的系统并未采用谷歌搜索作为底层支撑。",
+            "date_modified": "2026-06-08T19:13:03.000Z"
         },
         {
-            "id": 4924463,
+            "id": 4924631,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpik3630867.d.html",
-            "title": "【伊朗全境航班暂停运行】据伊朗伊斯兰共和国通讯社8日报道，伊朗民航组织发布航行通告说，伊朗全国各机场所有航班暂停运行，恢复时间另行通知。通告提醒旅客在主管部门发布恢复正常运行通知前不要前往机场，避免出现拥堵和不必要的混乱。有关航班恢复及后续调整的信息，将通过官方媒体和相关信息平台对外发布。（新华社）",
-            "date_modified": "2026-06-08T15:50:19.000Z"
+            "title": "  国际货币基金组织：执董会批准向卢旺达提供 2.5 亿美元扩展信贷安排，并当即拨付 3570 万美元。",
+            "date_modified": "2026-06-08T19:05:04.000Z"
         },
         {
-            "id": 4924458,
+            "id": 4924629,
             "content_html": "",
-            "title": "以色列本土前线司令部宣布，明日早6时起，除北部地区外，全国其余区域全面解除集会限制。",
-            "date_modified": "2026-06-08T15:46:57.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6780216.d.html",
+            "title": "据AXIOS：泽连斯基周一与维特科夫、库什纳通了电话。",
+            "date_modified": "2026-06-08T19:00:51.000Z"
         },
         {
-            "id": 4924456,
+            "id": 4924624,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpik3629460.d.html",
-            "title": "【美团接入微信AI生态：将提供本地生活等AI服务体验】6月8日晚间消息，微信宣布正式面向开发者提供便捷接入微信AI生态的能力，用户可通过微信AI Agent调取小程序AI应用服务。美团表示，作为首批内测团队，此前已与微信团队联合开发并测试接入。据介绍，未来，用户可通过微信Agent调用美团外卖等本地生活服务，实现更智能、便捷的AI生活服务体验，后续美团还将持续扩展更多业务场景。在美团一季度财报电话会上，美团CEO王兴曾表示，未来除了服务消费者（To C）和商家（To B），服务AI Agent（To A）正变得越来越重要。据悉，4月，美团新一代大模型LongCat-2.0-Preview开放测试，模型总参数规模突破万亿，训练、推理全程依托国产算力集群完成。基于LongCat，美团先后升级了“小团”“小美”等AI应用，帮助用户完成高复杂度、跨场景的决策。（新浪科技）",
-            "date_modified": "2026-06-08T15:46:31.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6775468.d.html",
+            "title": "刚果方面表示，埃博拉确诊病例已升至550例，其中死亡病例101例。",
+            "date_modified": "2026-06-08T18:42:32.000Z"
         },
         {
-            "id": 4924455,
+            "id": 4924623,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpia8431762.d.html",
-            "title": "沙特国防部称，从也门发射的导弹偏离了预定弹道。",
-            "date_modified": "2026-06-08T15:43:54.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3552413.d.html",
+            "title": "白宫表示，将对H-1B签证费的裁决提出上诉。",
+            "date_modified": "2026-06-08T18:41:53.000Z"
         },
         {
-            "id": 4924454,
+            "id": 4924622,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpih6850505.d.html",
-            "title": "FTX创始人萨姆·班克曼-弗里德在上诉期间，正式向特朗普申请总统特赦。",
-            "date_modified": "2026-06-08T15:43:26.000Z"
+            "title": "礼来：口服GLP-1药物Founadayo在三项关键糖尿病临床试验中，疗效优于口服司美格鲁肽。使用17.2毫克剂量时，该药糖化血红蛋白降幅高出57.1%，减重效果高出73.6%；安全性表现与既往试验一致，公司计划于第二季度末向美国食品药品监督管理局提交上市申请。",
+            "date_modified": "2026-06-08T18:40:41.000Z"
         },
         {
-            "id": 4924453,
+            "id": 4924621,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpik3627184.d.html",
-            "title": "尽管伊朗发出警告，以色列仍宣称继续在黎巴嫩开展军事行动。",
-            "date_modified": "2026-06-08T15:42:32.000Z"
+            "title": "美国国务院：针对伊朗的海上封锁将持续至双方达成协议为止。在伊朗履行相关承诺前，其被冻结资产不会予以解冻。",
+            "date_modified": "2026-06-08T18:33:36.000Z"
         },
         {
-            "id": 4924452,
+            "id": 4924620,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpik3626920.d.html",
-            "title": "美国司法部表示，已启动剥夺17名已入籍人士美国公民身份的程序。",
-            "date_modified": "2026-06-08T15:41:58.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5126857.d.html",
+            "title": "淡水河谷首席执行官表示，公司在阿曼的投资具备重要战略意义。",
+            "date_modified": "2026-06-08T18:32:08.000Z"
         },
         {
-            "id": 4924451,
+            "id": 4924617,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpih6848804.d.html",
-            "title": "沙特国防部表示，从也门发射的弹道导弹落在了沙特-也门边境附近的无人区域。",
-            "date_modified": "2026-06-08T15:39:09.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3548462.d.html",
+            "title": "淡水河谷首席执行官称，公司计划依托自有资产发展，而非开展并购活动。",
+            "date_modified": "2026-06-08T18:29:13.000Z"
         },
         {
-            "id": 4924450,
+            "id": 4924615,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpih6848760.d.html",
-            "title": "沙特国防部表示，一枚从也门发射的弹道导弹原本瞄准某地区国家。",
-            "date_modified": "2026-06-08T15:38:58.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3547892.d.html",
+            "title": "淡水河谷首席执行官称，关键矿产的需求形势极为向好。",
+            "date_modified": "2026-06-08T18:26:24.000Z"
         },
         {
-            "id": 4924449,
+            "id": 4924614,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpih6848701.d.html",
-            "title": "以色列军方表示，此前以色列北部多个地区因有飞机渗入触发的防空警报为误报。",
-            "date_modified": "2026-06-08T15:38:41.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5124961.d.html",
+            "title": "【苹果官宣新OS系统开发者Beta版今天推出，今秋提供给所有用户】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果表示，为孩子的需求着想，其也陆续推出更多实用功能及新功能，比如SiriAI等。另外，新OS系统的开发者Beta版今天推出，并将于今秋正式提供给所有用户。（新浪科技）",
+            "date_modified": "2026-06-08T18:23:47.000Z"
         },
         {
-            "id": 4924448,
+            "id": 4924613,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpia8428506.d.html",
-            "title": "以色列军方发言人对黎巴嫩南部提尔市某区域的居民发出撤离警告。",
-            "date_modified": "2026-06-08T15:35:26.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6769565.d.html",
+            "title": "【苹果 iOS 27照片App升级“空间构图”技术，支持先拍照再调整视角】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。据介绍，在macOS 27、iOS 27 系统中，苹果宣布为照片App引入“空间构图”技术，能够帮助用户先拍照再构图。具体来看，苹果利用设备端空间模型和基于专用云计算的空间模型，让照片变身为“3D 空间场景”，用户可以通过编辑后期自由放大、移动照片视角位置，支持所有照片，包括相机拍摄的照片。（新浪科技）",
+            "date_modified": "2026-06-08T18:21:32.000Z"
         },
         {
-            "id": 4924446,
+            "id": 4924612,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpih6847047.d.html",
-            "title": "【俄方称对和平解决乌克兰问题持开放态度】俄罗斯总统新闻秘书佩斯科夫8日称，俄对和平解决乌克兰问题仍持开放态度，但乌方却想方设法拖延这一进程。佩斯科夫8日在新闻发布会上作出上述表态。谈及英法德三国领导人7日在伦敦与乌总统泽连斯基会晤并发表联合声明时，佩斯科夫称，英法德三国领导人一方面谈论和平，一方面却强调帮助乌克兰生产新型武器以继续战争，这充分表明欧洲国家的两面性和真实意图。英法德三国领导人7日在伦敦与泽连斯基会晤并发表联合声明，表示支持乌克兰和俄罗斯直接对话，同时强调围绕俄乌停火和后续谈判的各项努力应与欧洲以及美国保持密切协调。（新华社）",
-            "date_modified": "2026-06-08T15:34:18.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5124317.d.html",
+            "title": "特朗普：图恩应当立即解雇国会议事官。",
+            "date_modified": "2026-06-08T18:21:00.000Z"
         },
         {
-            "id": 4924445,
+            "id": 4924611,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniatpik3624058.d.html",
-            "title": "【以军欲打破伊朗试图建立的对等威慑】据以色列方面统计，从6月7日晚间至8日中午，伊朗向以色列先后发射了24枚弹道导弹，也门胡塞武装也向以色列发射两枚导弹。作为回应，以色列出动至少数十架战机，对伊朗境内目标发动两轮空袭。值得注意的是，以方明确表示，行动虽由以色列独立实施，但与美国保持了“全面协调”。以色列分析人士指出，以军打击的核心逻辑在于打破伊朗试图建立的“对等威慑”规则。 （CCTV国际时讯）",
-            "date_modified": "2026-06-08T15:33:42.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6769375.d.html",
+            "title": "特朗普：我们完全有权更换国会议事官。",
+            "date_modified": "2026-06-08T18:20:52.000Z"
         },
         {
-            "id": 4924440,
+            "id": 4924610,
             "content_html": "",
-            "title": "  以色列军方：以色列北部梅图拉与米斯加夫阿姆地区拉响防空警报，侦测到敌方飞行器侵入。",
-            "date_modified": "2026-06-08T15:30:35.000Z"
+            "title": "中国地震台网正式测定：06月09日02时00分在古巴地区（北纬22.75度，西经85.15度）发生5.8级地震，震源深度20千米。",
+            "date_modified": "2026-06-08T18:20:00.000Z"
         },
         {
-            "id": 4924439,
+            "id": 4924609,
             "content_html": "",
-            "title": "德国退出与法国合作的未来空中作战系统（FCAS）战斗机项目，欧洲防务自主进程遭遇挫折。",
-            "date_modified": "2026-06-08T15:30:17.000Z"
+            "title": "伊朗革命卫队圣城旅指挥官：从霍尔木兹海峡到曼德海峡，从波斯湾到红海，将形成一条新的抵抗安全带。",
+            "date_modified": "2026-06-08T18:14:33.000Z"
         },
         {
-            "id": 4924438,
+            "id": 4924608,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6975947.d.html",
-            "title": "美国稀土公司获得16亿美元联邦资金，用于扩大美国国内磁铁供应链。",
-            "date_modified": "2026-06-08T15:29:16.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3545182.d.html",
+            "title": "【Siri AI推出自动校正功能】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。据介绍，在macOS 27、iOS 27 系统中，基于Siri AI推出系统级别的AI自动校正功能。该功能可以检查当前文档中表述是否存在拼写和语法错误，并提供优化和改进。公开信息显示，“Siri AI ”比之前的智能助手版本更具对话性，功能也更强大。在对话中，“Siri AI”的声音更加富有表现力，用户可以自定义语速、语气和口音。另外，“Siri AI”支持在系统范围内使用，能够读取屏幕上的内容并与应用程序互动。同时，“Siri AI”配有独立App，屏幕顶部的灵动岛会冒出很大的气泡。（新浪科技）",
+            "date_modified": "2026-06-08T18:14:20.000Z"
         },
         {
-            "id": 4924437,
+            "id": 4924607,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathze8556863.d.html",
-            "title": "【欧盟以“威胁航行自由”名义制裁伊朗】欧盟理事会8日发布公报称，欧盟当天以“威胁中东地区航行自由”的名义，批准对伊朗个人和实体实施制裁。公报称，伊朗伊斯兰革命卫队海军一名指挥官、与伊朗能源出口行业组织有关的一名人士以及伊斯兰革命卫队海军下属一个地方司令部被列入制裁名单。相关制裁措施包括冻结资产，禁止向其提供资金或其他经济资源，禁止相关人员前往或途经欧盟领土等。同日，欧盟外交与安全政策高级代表卡拉斯在塞浦路斯首都尼科西亚表示，欧盟成员国当日首次以“威胁航行自由”的名义批准对伊朗个人和实体实施制裁。（新华社）",
-            "date_modified": "2026-06-08T15:28:43.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5122796.d.html",
+            "title": "伊朗指挥官卡阿尼宣布，在主要航运航道沿线组建全新抵抗安全防线。",
+            "date_modified": "2026-06-08T18:13:55.000Z"
         },
         {
-            "id": 4924435,
+            "id": 4924606,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzh5332547.d.html",
-            "title": "以色列总理内塔尼亚胡：我在谈话中对特朗普表示，我们将坚决捍卫以色列。",
-            "date_modified": "2026-06-08T15:27:19.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3544879.d.html",
+            "title": "苹果首席执行官蒂姆·库克：新操作系统将于“今年秋季”推出。",
+            "date_modified": "2026-06-08T18:13:08.000Z"
         },
         {
-            "id": 4924434,
+            "id": 4924605,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3752213.d.html",
-            "title": "【习近平和彭丽媛观看朝鲜专场文艺演出】当地时间6月8日晚，中共中央总书记、国家主席习近平和夫人彭丽媛在朝鲜劳动党总书记、国务委员长金正恩和夫人李雪主陪同下，在平壤体育馆同朝鲜各界群众一道观看专场文艺演出。（新华社）",
-            "date_modified": "2026-06-08T15:25:38.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6767581.d.html",
+            "title": "苹果：新款操作系统将于今日开放开发者测试版，公开测试版将于下月推出。",
+            "date_modified": "2026-06-08T18:12:47.000Z"
         },
         {
-            "id": 4924431,
+            "id": 4924604,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6974017.d.html",
-            "title": "以色列总理内塔尼亚胡：已告知特朗普，以色列完全拥有自卫权。",
-            "date_modified": "2026-06-08T15:22:48.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6767440.d.html",
+            "title": "苹果表示，人工智能版Siri及全新AI功能暂不会登陆中国市场。",
+            "date_modified": "2026-06-08T18:12:14.000Z"
         },
         {
-            "id": 4924429,
+            "id": 4924603,
             "content_html": "",
-            "title": "“木头姐”凯茜·伍德谈SpaceX：SpaceX领先其他同行整整十年。它是首家成功发射可回收火箭的企业，而蓝色起源至今未能实现火箭二次成功发射。星链（Starlink）未来的盈利能力将会十分惊人。",
-            "date_modified": "2026-06-08T15:22:25.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3544479.d.html",
+            "title": "【Siri 已集成至相机应用】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果表示，在推出Siri AI外，还宣布Siri已集成到 iPhone 的相机应用中，可以识别物体并将其保存到 Siri 应用中。公开信息显示，“Siri AI ”比之前的智能助手版本更具对话性，功能也更强大。在对话中，“Siri AI”的声音更加富有表现力，用户可以自定义语速、语气和口音。另外，“Siri AI”支持在系统范围内使用，能够读取屏幕上的内容并与应用程序互动。同时，“Siri AI”配有独立App，屏幕顶部的灵动岛会冒出很大的气泡。（新浪科技）",
+            "date_modified": "2026-06-08T18:11:42.000Z"
         },
         {
-            "id": 4924428,
+            "id": 4924602,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6973359.d.html",
-            "title": "以色列总理内塔尼亚胡：以色列连夜进行了历史性的打击，阻止了伊朗对以色列的核攻击。",
-            "date_modified": "2026-06-08T15:21:07.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6767008.d.html",
+            "title": "太平洋海啸预警中心表示，古巴地震暂无重大海啸风险。",
+            "date_modified": "2026-06-08T18:10:54.000Z"
         },
         {
-            "id": 4924426,
+            "id": 4924600,
             "content_html": "",
-            "title": "以色列总理内塔尼亚胡：真主党计划派遣数千名士兵攻击加利利，同时还计划用15万枚火箭弹和导弹摧毁以色列的城市。",
-            "date_modified": "2026-06-08T15:20:22.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6766720.d.html",
+            "title": "意大利检方就加沙船队事件对以色列部长本-格维尔展开调查。",
+            "date_modified": "2026-06-08T18:09:57.000Z"
         },
         {
-            "id": 4924423,
+            "id": 4924598,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6972481.d.html",
-            "title": "以色列总理内塔尼亚胡：伊朗绝不会拥有核武器。",
-            "date_modified": "2026-06-08T15:19:17.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattqy8345357.d.html",
+            "title": "苹果公司：将面向用户在今年晚些时候推出SIRI人工智能功能及测试版。",
+            "date_modified": "2026-06-08T18:09:13.000Z"
         },
         {
-            "id": 4924422,
+            "id": 4924597,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6972427.d.html",
-            "title": "以色列总理内塔尼亚胡：我方针对真主党的军事行动仍在继续。",
-            "date_modified": "2026-06-08T15:19:08.000Z"
+            "title": "中国地震台网自动测定：06月09日02时00分在古巴地区附近（北纬22.82度，西经85.23度）发生6.0级左右地震，最终结果以正式速报为准。",
+            "date_modified": "2026-06-08T18:08:46.000Z"
         },
         {
-            "id": 4924420,
+            "id": 4924596,
             "content_html": "",
-            "title": "以色列总理内塔尼亚胡称，伊朗与真主党实力已跌至最低点，但以色列与二者的“战争尚未结束”。",
-            "date_modified": "2026-06-08T15:17:47.000Z"
+            "title": "苹果全球开发者大会主题演讲显示，SIRI人工智能最初不会在欧盟地区的iOS及iPadOS系统上线。",
+            "date_modified": "2026-06-08T18:08:34.000Z"
         },
         {
-            "id": 4924419,
+            "id": 4924595,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6971860.d.html",
-            "title": "伊朗称，在停火以来首次交火后，已停止对以色列的袭击。",
-            "date_modified": "2026-06-08T15:17:19.000Z"
+            "title": "OpenAI：研究人员将与OpenAI经济研究部门合作，就人工智能对劳动者、企业、机构及整体经济的影响提供实证依据。",
+            "date_modified": "2026-06-08T18:07:56.000Z"
         },
         {
-            "id": 4924418,
+            "id": 4924594,
             "content_html": "",
-            "title": "以色列总理内塔尼亚胡：伊朗企图用导弹袭击我们。如果我们没有及时采取行动，后果很严重。",
-            "date_modified": "2026-06-08T15:17:07.000Z"
+            "title": "苹果：苹果Intelligence的部分功能，包括图像生成功能，设有每日使用限额。",
+            "date_modified": "2026-06-08T18:07:44.000Z"
         },
         {
-            "id": 4924417,
+            "id": 4924593,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3748290.d.html",
-            "title": "伊朗国家安全委员会秘书： 倘若美以联盟贸然行事，中东地区将成为其噩梦之地。",
-            "date_modified": "2026-06-08T15:15:47.000Z"
+            "title": "阿曼国家通讯社：阿曼公共经济特区与自由区管理局已签署十项协议与谅解备忘录，将在杜库姆经济特区内建设新项目，预计总投资额为75亿美元。",
+            "date_modified": "2026-06-08T18:05:53.000Z"
         },
         {
-            "id": 4924415,
+            "id": 4924592,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzh5328200.d.html",
-            "title": "雅诗兰黛：将进行战略投资以强化英国生产网络。",
-            "date_modified": "2026-06-08T15:15:06.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3542149.d.html",
+            "title": "OpenAI：经济研究交流计划申请通道现已开启，申请将于2026年7月5日截止。",
+            "date_modified": "2026-06-08T18:04:40.000Z"
         },
         {
-            "id": 4924409,
+            "id": 4924591,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3744489.d.html",
-            "title": "纳斯达克100指数涨幅扩大至2.5%。",
-            "date_modified": "2026-06-08T15:08:33.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6764793.d.html",
+            "title": "【苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果宣布Apple Intelligence与谷歌达成合作，引入Gemini大模型，并带来全新的AI架构。新版苹果AI将由Gemini提供技术，能在设备端运行，也可以在云端服务器运行。（新浪科技）",
+            "date_modified": "2026-06-08T18:04:14.000Z"
         },
         {
-            "id": 4924408,
+            "id": 4924589,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3742923.d.html",
-            "title": "【英国海上贸易行动办公室：阿曼附近一艘油轮起火 船员撤离】英国海上贸易行动办公室(UKMTO)表示，一艘油轮起火，导致船员撤离。事件发生在阿曼马西拉岛东北15海里处，阿曼和印度当局正在协调处置，目前尚未收到任何环境影响报告。",
-            "date_modified": "2026-06-08T15:03:38.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5119481.d.html",
+            "title": "OpenAI：推出OpenAI经济研究交流平台。",
+            "date_modified": "2026-06-08T18:03:11.000Z"
         },
         {
-            "id": 4924405,
+            "id": 4924588,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzh5321889.d.html",
-            "title": "菲斯克电气中标休斯顿先进制造与数据中心基础设施项目，合同金额4800万美元。",
-            "date_modified": "2026-06-08T14:59:17.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3540831.d.html",
+            "title": "日本将协助东南亚及其他新兴市场制定知识产权规则。",
+            "date_modified": "2026-06-08T18:01:14.000Z"
         },
         {
-            "id": 4924404,
+            "id": 4924587,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6964237.d.html",
-            "title": "贝尔德将卡骆驰股价目标从115.00美元上调至150.00美元。",
-            "date_modified": "2026-06-08T14:59:12.000Z"
+            "title": "苹果公司：苹果设备端“图像生成”应用现已支持生成照片级写实图像，包括生成基于苹果设备照片库中人物的图像。",
+            "date_modified": "2026-06-08T18:00:54.000Z"
         },
         {
-            "id": 4924400,
+            "id": 4924586,
             "content_html": "",
-            "title": "美国国家飓风中心（NHC）表示，热带低压已在尼加拉瓜沿岸近海生成，预计未来1天左右将增强为热带风暴。",
-            "date_modified": "2026-06-08T14:56:02.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5118412.d.html",
+            "title": "【苹果推出Siri AI：设独立App，使用时灵动岛将浮出“大气泡”】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果发布“Siri AI ”，其比之前的智能助手版本更具对话性，功能也更强大。在对话中，“Siri AI”的声音更加富有表现力，用户可以自定义语速、语气和口音。另外，“Siri AI”支持在系统范围内使用，能够读取屏幕上的内容并与应用程序互动。同时，“Siri AI”配有独立App，屏幕顶部的灵动岛会冒出很大的气泡。（新浪科技）",
+            "date_modified": "2026-06-08T18:00:09.000Z"
         },
         {
-            "id": 4924399,
+            "id": 4924585,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzh5320883.d.html",
-            "title": "美国国家飓风中心风暴公告：飓风鲍里斯继续在墨西哥格雷罗州沿岸缓慢移动。",
-            "date_modified": "2026-06-08T14:55:42.000Z"
+            "title": "爱丽舍宫：法国总统马克龙与德国总理默茨对法德未来空战系统（FCAS）战斗机项目无法继续推进表示遗憾。",
+            "date_modified": "2026-06-08T17:59:43.000Z"
         },
         {
-            "id": 4924397,
+            "id": 4924584,
             "content_html": "",
-            "title": "西格玛防御系统公司：获美国国家安全局“涉密项目商业解决方案”计划正式批准，成为可信集成商。",
-            "date_modified": "2026-06-08T14:54:52.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6763194.d.html",
+            "title": "苹果：快捷指令应用现已支持用户用自然语言描述创建快捷指令。",
+            "date_modified": "2026-06-08T17:59:34.000Z"
         },
         {
-            "id": 4924396,
+            "id": 4924583,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6962928.d.html",
-            "title": "【城堡证券：政治层面针对AI日益高涨的抵制情绪，也可能是一个潜在风险】城堡证券（Citadel Securities）欧洲、中东及非洲地区（EMEA）固定收益销售主管Nohshad Shah认为，即便在霍尔木兹海峡重新开放、能源市场动荡得以缓解的设想下，通胀压力可能仍将挥之不去。该分析师警告称，政治层面针对人工智能（AI）日益高涨的抵制情绪，可能会成为市场的另一个潜在风险。在今年中期选举临近之际，关于岗位流失、能源消耗和通胀的担忧正日益吸引决策者的关注。“AI不受（美国选民）欢迎，通胀也不受欢迎，”他写道。“对市场而言不幸的是，针对这两个问题或其中之一的政策干预，可能会导致围绕AI主题的热狂有所降温，并引发更广泛的金融环境收紧。”",
-            "date_modified": "2026-06-08T14:54:43.000Z"
+            "title": "苹果公司：主屏幕App可利用Apple Intelligence分析兼容摄像头录制的片段，生成摘要描述。",
+            "date_modified": "2026-06-08T17:58:11.000Z"
         },
         {
-            "id": 4924394,
+            "id": 4924582,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6962167.d.html",
-            "title": "内塔尼亚胡将于以色列时间下午6点15分向媒体发表声明。",
-            "date_modified": "2026-06-08T14:52:59.000Z"
+            "title": "据文件显示，印度即时零售初创公司Zepto已批准增发最高801亿卢比（合8亿美元）的新股。",
+            "date_modified": "2026-06-08T17:53:31.000Z"
         },
         {
-            "id": 4924392,
+            "id": 4924581,
             "content_html": "",
-            "title": "印度储备银行：银行可自行裁量允许存款存满一年后提前支取，与本行开展的互换交易不得撤销。",
-            "date_modified": "2026-06-08T14:50:37.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5116638.d.html",
+            "title": "苹果公司： Safari浏览器现可借助苹果人工智能整理标签页，按主题分类归整。",
+            "date_modified": "2026-06-08T17:52:39.000Z"
         },
         {
-            "id": 4924390,
+            "id": 4924580,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3737858.d.html",
-            "title": "【新任陕西省委常委李钧已任省委秘书长】据陕西卫视《陕西新闻联播》消息，6月8日，省委书记赵一德到咸阳市旬邑县检查煤矿安全生产工作并主持召开专题会。报道提到，陕西省委常委、省委秘书长李钧参加。上述消息显示，新任陕西省委常委李钧已任省委秘书长。（澎湃）",
-            "date_modified": "2026-06-08T14:49:05.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6761177.d.html",
+            "title": "苹果称Siri人工智能将“很快”加入其他语言，但未给出具体时间。",
+            "date_modified": "2026-06-08T17:51:57.000Z"
         },
         {
-            "id": 4924389,
+            "id": 4924579,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6960451.d.html",
-            "title": "【港股IPO：潮州三环递表港交所】潮州三环(集团)股份有限公司向港交所提交上市申请书，独家保荐人为中国银河国际。",
-            "date_modified": "2026-06-08T14:48:33.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3538210.d.html",
+            "title": "【苹果全新系统升级“家长控制”：新增“儿童账号”，不良信息会警告模糊】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果宣布为 iOS / macOS 27引入全新家长控制功能，新增儿童账号。据悉，家长可以将新账号设置为“儿童账号”，能在App Store查看每款应用是否适用于孩子。同时，该系统允许家长便捷控制各类应用具体使用时间，可以在不同时间段决定孩子可以使用什么App，必要时轻点一下就可以设置权限。另外，当孩子接收或者试图发送可能含有裸露内容的照片或视频时，通信安全功能就会发出警告，相关内容也会被模糊显示。（新浪科技）",
+            "date_modified": "2026-06-08T17:51:27.000Z"
         },
         {
-            "id": 4924388,
+            "id": 4924578,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzk6960315.d.html",
-            "title": "【以色列防长称将继续在黎巴嫩对真主党采取行动】以色列国防部长卡茨就此轮以伊冲突作出首次正式表态。他表示，以军将继续在黎巴嫩对黎真主党采取军事行动，并在该组织袭击以色列时打击贝鲁特南郊达希耶地区。卡茨称，任何针对以色列北部社区的袭击都将引发以方对达希耶地区的打击，该地区将与以色列北部社区“受到同样对待”。卡茨还表示，以色列“完全拒绝伊朗的威胁”，并称伊朗若试图将黎巴嫩与伊朗挂钩并袭击以色列，将遭到“强力回应”。（央视新闻）",
-            "date_modified": "2026-06-08T14:48:10.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5116170.d.html",
+            "title": "苹果：Siri人工智能将率先以英语版本推出。",
+            "date_modified": "2026-06-08T17:51:11.000Z"
         },
         {
-            "id": 4924387,
+            "id": 4924577,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3737467.d.html",
-            "title": "香港天文台在下午10时45分取消黄色暴雨警告信号。",
-            "date_modified": "2026-06-08T14:47:59.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5115953.d.html",
+            "title": "苹果：写作工具功能更强，并整合进Siri体验。",
+            "date_modified": "2026-06-08T17:50:20.000Z"
         },
         {
-            "id": 4924385,
+            "id": 4924576,
             "content_html": "",
-            "title": "西捷航空首席执行官预计首架波音737 MAX 10将于2027年第一季度投入运营。",
-            "date_modified": "2026-06-08T14:46:39.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattre6760567.d.html",
+            "title": "苹果：SIRI人工智能将以全新Siri模式集成至相机应用。",
+            "date_modified": "2026-06-08T17:49:50.000Z"
         },
         {
-            "id": 4924384,
+            "id": 4924575,
             "content_html": "",
-            "title": "三菱日联金融集团宣布为德尔芬液化天然气项目的首艘浮式液化天然气船提供36亿美元融资。",
-            "date_modified": "2026-06-08T14:46:15.000Z"
+            "title": "苹果公司：面向Siri的视觉智能也将登陆visionOS系统，在该系统上你只需看向物体就能就其内容提问。",
+            "date_modified": "2026-06-08T17:49:42.000Z"
         },
         {
-            "id": 4924383,
+            "id": 4924574,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathze8541265.d.html",
-            "title": "【Kimi估值飙升至300亿美元，半年猛增6倍】6月8日，《每日经济新闻》记者从知情人士处获悉，国内AGI企业月之暗面旗下AI助手Kimi已开启新一轮融资，投前估值达300亿美元，较上月大幅跃升。（每经）",
-            "date_modified": "2026-06-08T14:45:58.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3537633.d.html",
+            "title": "【Siri新增独立App 苹果大幅优化Siri语音功能】在今天召开的 2026 年全球开发者大会（WWDC）上，苹果高管克雷格 · 费德里吉（Craig Federighi）介绍推出了Siri AI。 并配有独立 App，屏幕顶部的灵动岛会冒出很大的气泡。苹果还大幅优化 Siri 的语音功能，用户可以通过语速和“表现力”来调整声音。 Siri 的这些更新也适用于 CarPlay 和 AirPods。",
+            "date_modified": "2026-06-08T17:49:21.000Z"
         },
         {
-            "id": 4924382,
+            "id": 4924573,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathze8540008.d.html",
-            "title": "【以色列防长：拒绝伊朗的威胁 将继续对抗真主党】以色列国防部长卡茨表示，对以色列北部定居点的任何攻击都将导致对贝鲁特南郊达希耶的攻击。以色列国防军将继续在黎巴嫩境内打击恐怖组织真主党。我们坚决拒绝伊朗的威胁。任何伊朗企图将黎巴嫩和伊朗联系起来并攻击以色列的行为，都将像昨天一样遭到强力回击。",
-            "date_modified": "2026-06-08T14:42:14.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattrh3537155.d.html",
+            "title": "苹果：Siri人工智能将适配iPadOS。",
+            "date_modified": "2026-06-08T17:47:09.000Z"
         },
         {
-            "id": 4924380,
+            "id": 4924572,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-06-08/detail-iniathzn3734492.d.html",
-            "title": "纳斯达克100指数涨幅扩大至2%。",
-            "date_modified": "2026-06-08T14:39:57.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniattra5115095.d.html",
+            "title": "苹果公司：为watchOS定制了Siri人工智能。",
+            "date_modified": "2026-06-08T17:46:40.000Z"
+        },
+        {
+            "id": 4924571,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5245704.d.html",
+            "title": "美国国家飓风中心（NHC）表示，低压已增强为热带风暴“克里斯蒂娜”。",
+            "date_modified": "2026-06-08T17:45:51.000Z"
+        },
+        {
+            "id": 4924570,
+            "content_html": "",
+            "title": "美国国家飓风中心（NHC）表示，飓风“鲍里斯”的中心位置比此前预估的更偏南，目前预计其将于周二登陆。",
+            "date_modified": "2026-06-08T17:45:03.000Z"
+        },
+        {
+            "id": 4924569,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6890231.d.html",
+            "title": "苹果推出人工智能版Siri，股价跳水，涨幅不足1%。",
+            "date_modified": "2026-06-08T17:44:55.000Z"
+        },
+        {
+            "id": 4924568,
+            "content_html": "",
+            "title": "【苹果官宣iOS 27：健康App可追踪更年期，支持安卓、Win11等设备系统共享iCloud】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。在发布的IOS27中，健康App健康周期跟踪现在还可以追踪更年期和围绝经期。另外，苹果发布了 iOS 27并扩展了iCloud功能，用户可以从安卓和 Windows 10、Windows 11 设备上共享近期出游拍摄的照片和视频，并且支持全分辨率共享。公开信息显示，iCloud 共享相册是专为苹果生态系统设计的，此前安卓和Windows设备用户无法直接加入或直接往相册中添加新照片。（新浪科技）",
+            "date_modified": "2026-06-08T17:43:07.000Z"
+        },
+        {
+            "id": 4924567,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5244470.d.html",
+            "title": "【苹果推出人工智能版Siri 用户能够回看历史对话记录】苹果借助苹果智能技术推出全新人工智能版Siri，该版本对话能力更强、具备上下文感知能力，可跨苹果设备理解连贯交互内容。苹果还上线了独立的Siri应用，用户能够回看历史对话记录。",
+            "date_modified": "2026-06-08T17:41:56.000Z"
+        },
+        {
+            "id": 4924566,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5244103.d.html",
+            "title": "美国农业部：特朗普已任命约翰·贝林格为新世界螺旋蝇应对准备事务高级顾问。",
+            "date_modified": "2026-06-08T17:41:16.000Z"
+        },
+        {
+            "id": 4924565,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6888552.d.html",
+            "title": "苹果：将Siri改造得更具对话交互能力。",
+            "date_modified": "2026-06-08T17:39:41.000Z"
+        },
+        {
+            "id": 4924564,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6888427.d.html",
+            "title": "苹果表示，Siri的改进将覆盖CarPlay和AirPods。",
+            "date_modified": "2026-06-08T17:39:08.000Z"
+        },
+        {
+            "id": 4924563,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5243553.d.html",
+            "title": "苹果公司：语音听写准确率预计将“大幅提升”。",
+            "date_modified": "2026-06-08T17:38:53.000Z"
+        },
+        {
+            "id": 4924561,
+            "content_html": "",
+            "title": "伊朗首席谈判代表卡利巴夫：我们的目标是结束战争、实现安全稳定，我们对敌对一方毫无信任。",
+            "date_modified": "2026-06-08T17:38:15.000Z"
+        },
+        {
+            "id": 4924560,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5243392.d.html",
+            "title": "苹果公司：推出全新语音体验，让Siri的发音表现力大幅提升。",
+            "date_modified": "2026-06-08T17:38:11.000Z"
+        },
+        {
+            "id": 4924559,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpia8467280.d.html",
+            "title": "【苹果官宣iOS 27：支持安卓、Win11等设备系统共享iCloud相册】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果发布了 iOS 27并扩展了iCloud功能，用户可以从安卓和 Windows 10、Windows 11 设备上共享近期出游拍摄的照片和视频，并且支持全分辨率共享。公开信息显示，iCloud 共享相册是专为苹果生态系统设计的，此前安卓和Windows设备用户无法直接加入或直接往相册中添加新照片。（新浪科技）",
+            "date_modified": "2026-06-08T17:37:52.000Z"
+        },
+        {
+            "id": 4924558,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpik3664987.d.html",
+            "title": "苹果公司：开发者大会推出全新专属Siri应用，用户可回溯对话记录。",
+            "date_modified": "2026-06-08T17:36:43.000Z"
+        },
+        {
+            "id": 4924557,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpik3664931.d.html",
+            "title": "【特朗普10万美元H-1B签证费被法官否决】美国马萨诸塞州联邦地区法官利奥·T·索罗金驳回了特朗普针对H-1B签证申请征收10万美元费用的行政令，为依赖聘用外籍技术人才的美国科技企业解了围。该法官认定特朗普这项大幅提高热门签证成本的政令属于非法征税，必须予以撤销。特朗普政府大概率会提起上诉；此番裁决对其“限制移民、提振本土劳工需求”的竞选议程构成打击。",
+            "date_modified": "2026-06-08T17:36:33.000Z"
+        },
+        {
+            "id": 4924556,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6887446.d.html",
+            "title": "黎巴嫩总统：我告知以色列政府，军事解决方案永远不可能给以色列北部民众带来安全。",
+            "date_modified": "2026-06-08T17:35:34.000Z"
+        },
+        {
+            "id": 4924555,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpia8466542.d.html",
+            "title": "苹果：Siri现已可在全平台提供实用的视觉智能功能。",
+            "date_modified": "2026-06-08T17:35:22.000Z"
+        },
+        {
+            "id": 4924554,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpie5242509.d.html",
+            "title": "苹果：全新人工智能架构支持应用操作与屏幕感知功能。",
+            "date_modified": "2026-06-08T17:35:03.000Z"
+        },
+        {
+            "id": 4924552,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpik3664034.d.html",
+            "title": "苹果公司：推出由苹果智能解锁的全新Siri版本。",
+            "date_modified": "2026-06-08T17:33:31.000Z"
+        },
+        {
+            "id": 4924549,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpia8465857.d.html",
+            "title": "伊朗议会议长卡利巴夫：这（特朗普言论）表明美国既不寻求停火，也不寻求对话。",
+            "date_modified": "2026-06-08T17:33:01.000Z"
+        },
+        {
+            "id": 4924548,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6886435.d.html",
+            "title": "伊朗议会议长卡利巴夫：特朗普关于该谅解备忘录的言论违反了伊核协议的既定条款。",
+            "date_modified": "2026-06-08T17:32:19.000Z"
+        },
+        {
+            "id": 4924547,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-06-09/detail-iniatpih6886337.d.html",
+            "title": "【苹果改善iOS及macOS 27系统体验，重构照片和邮件App等搜索功能】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。苹果表示，在更新 iOS / iPadOS / macOS 27后，系统网络切换变得更顺畅，在信息app里发较大的照片或视频文件，也不再会拖慢对话速度，消息有没有发送成功可以直接看到。搜索方面，苹果表示，从底层重构了聚焦、照片和邮件app中的搜索功能。此外，邮件app也采用了新的排序系统，其会优先显示最重要的内容。（新浪科技）",
+            "date_modified": "2026-06-08T17:32:03.000Z"
         }
     ]
 }
