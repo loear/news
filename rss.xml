@@ -4,11 +4,331 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 16 Jun 2026 21:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 23:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【与26家直接参与者签约 数字人民币全天候跨境支付来了】昨天（16日），中国人民银行所属数字人民币国际运营中心与26家直接参与者签约。境内外金融机构签约接入后，可依托该中心运行的“数币达”跨境结算综合服务平台实现7×24小时的人民币跨境数字支付业务，结算效率更高，成本更低，参与方式更多元。据了解，首批26家直接参与者业务可覆盖中国香港、中国澳门、新加坡、老挝、泰国、阿联酋、卡塔尔、巴西等国家和地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7230432.d.html</link>
+            <guid>4939427</guid>
+            <pubDate>Tue, 16 Jun 2026 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东将人工智能技术融入供应链 把算力热度转化为产业厚度】为将人工智能技术融入供应链，今年一季度，京东研发投入同比增长近60%，推进人工智能驱动的物理世界运营中心建设。“通过算力、模型、数据等，驱动海量智能设施更高效运转，把算力的热度转化为产业的厚度，用更好的新产品打开更大的新市场。”京东集团技术委员会主席曹鹏说。人工智能与供应链的深度融合，正持续为传统产业注入新动能。京东物流在全球布局3600座仓库及云仓，依托自研超脑大模型，系统可在数秒内完成货物最优运输路径规划，机器人广泛应用于存储、拣选、搬运、分拣、场内转运等全流程场景。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5821417.d.html</link>
+            <guid>4939424</guid>
+            <pubDate>Tue, 16 Jun 2026 23:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【燃气轮机走俏上市公司订单饱满】受能源结构转型、AI数据中心建设提速等因素推动，全球燃气轮机需求持续旺盛，行业景气度与关注度同步升温。有受访专家对记者表示，当前燃机行业增长逻辑清晰、需求根基稳固，高景气态势有望延续。旺盛的市场需求不仅为相关上市公司带来充足订单，也为企业业绩爆发创造了有利条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5819522.d.html</link>
+            <guid>4939421</guid>
+            <pubDate>Tue, 16 Jun 2026 23:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高息大额存单日渐稀缺 存单加价倒卖暗流涌动】据中证报，存款利率持续下行，高息大额存单日渐稀缺，一场围绕存单转让的私下加价交易在社交平台上悄然升温。一边是转出方试图绕开官方平台以加价方式寻求更高回报；另一边是受让方愿意接受溢价，只为抢到心仪利率的存单。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7226061.d.html</link>
+            <guid>4939420</guid>
+            <pubDate>Tue, 16 Jun 2026 23:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔10省3市进入紧急状态】厄瓜多尔总统丹尼尔·诺沃亚16日签署政令，宣布为应对近期犯罪暴力事件加剧引发的“严重内部动荡”，包括首都基多所在省份在内的10省3市进入为期60天的紧急状态。政令说，6月初以来，由于全国范围暴力事件、武装袭击及有组织犯罪活动显著增加，谋杀、绑架勒索、抢劫和毒品贩运等犯罪活动持续发生，造成社会恐慌，影响经济活动正常开展，因此决定在多地实施紧急状态。其中包括基多所在的皮钦查省、瓜亚斯省、马纳维省等10个省，以及科托帕希省拉马纳市等3个市。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7226024.d.html</link>
+            <guid>4939419</guid>
+            <pubDate>Tue, 16 Jun 2026 23:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI2026年前三个月烧钱37亿美元】OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底完成的巨额融资。若后续现金消耗规模维持一季度水平，OpenAI短期内无需新一轮融资，或将缓解其仓促推进上市的压力。不过，现金消耗金额可能每季度出现波动。据报道，该公司此前预测今年现金消耗250亿美元，明年消耗570亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5816797.d.html</link>
+            <guid>4939418</guid>
+            <pubDate>Tue, 16 Jun 2026 23:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI在2026年第一季度烧钱37亿美元。（The Information）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5815816.d.html</link>
+            <guid>4939417</guid>
+            <pubDate>Tue, 16 Jun 2026 23:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国首相斯塔默：英国和欧盟将于7月22日举行峰会】英国首相斯塔默周二表示，英国与欧盟将于7月22日举行第二次峰会。目前，英国政府正寻求重塑与欧盟的关系，并推动在贸易、安全和经济领域加强合作。“我的工党政府正在兑现我们的承诺，重塑双边关系，”斯塔默在社交媒体平台发文称。“我们将共同应对生活成本问题，增加就业，并为年轻人创造机会。”在党内压力加剧之际，斯塔默正为其政治前途而努力。他将加强与欧盟的关系视为推动经济增长和缓解生活成本压力的重要举措。在法国举行的七国集团(G7)峰会期间，斯塔默周二与欧洲理事会主席科斯塔(Antonio Costa)会晤。斯塔默办公室一位发言人随后表示，两位领导人均指出，“更紧密的关系对于欧洲的安全、韧性和繁荣至关重要。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5815405.d.html</link>
+            <guid>4939415</guid>
+            <pubDate>Tue, 16 Jun 2026 23:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国考虑提前解除石脑油出口限制】韩国《首尔经济日报》援引不愿具名的政府官员消息称，韩国正考虑较原定时间提前取消石脑油出口管控措施。此次考量背景为国内石脑油裂解装置开工率已恢复至正常水平，且美国与伊朗即将正式签署临时和平协议。注：韩国于3月27日出台石脑油出口限制政策，该管控原定于8月到期。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicsezc4000494.d.html</link>
+            <guid>4939413</guid>
+            <pubDate>Tue, 16 Jun 2026 23:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家公司披露MLCC业务进展】AI算力与新能源双轮驱动下，多层陶瓷电容器（MLCC）行业正经历新一轮供需紧张。6月16日晚间，宏明电子、斯迪克、信维通信等公司相继披露MLCC业务进展。银河证券最新发布的电子行业中期策略称，AI服务器和新能源车正在拉动MLCC需求高速增长，国产替代空间广阔。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5814552.d.html</link>
+            <guid>4939411</guid>
+            <pubDate>Tue, 16 Jun 2026 23:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多银行调整积存金业务：降费降门槛 延时交易】近期，多家银行密集发布积存金业务调整公告，并于6月前后集中推出下调投资门槛、延长线上交易时段、减免交易手续费等宽松举措。此举与年初金价冲高时，各大银行收紧积存金业务形成鲜明反差。受访专家表示，银行此番松绑是逆周期经营思路与中间业务增收压力共同作用下的选择。短期金价或将维持震荡调整，但中长期配置价值并未削弱，建议投资者采用定投方式分批布局，切勿一次性重仓抄底。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9037247.d.html</link>
+            <guid>4939410</guid>
+            <pubDate>Tue, 16 Jun 2026 23:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内新成立基金最高回报率超91%】今年以来，新基金发行保持较高热度，产品成立后的回报表现各不相同，开始出现明显分化。Wind数据显示，截至6月16日，年内新成立基金达到757只（仅统计主份额），合计规模达5910.28亿元。其中，成立以来最高回报率达91.21%（融通科技甄选混合发起式A，2026年2月3日成立），最低回报率为-33.34%，差距悬殊。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9036827.d.html</link>
+            <guid>4939409</guid>
+            <pubDate>Tue, 16 Jun 2026 23:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【组建“宇宙作战集团”，影响全球战略稳定，航空自卫队改名暴露日本太空野心】为了发展进攻性武力，日本近年持续在太空、网络空间等新领域投入重注。据《日本经济新闻》14日报道，日本航空自卫队将在2026财年改编为“航空宇宙自卫队”，这也是自1954年日本陆上自卫队、海上自卫队及航空自卫队成立以来首次更名。接受记者采访的中国专家表示，航空自卫队改名的背后，是日本进一步发展进攻力量，以及推进太空军事化的野心。由于日本航天实力在短期内难以取得较大突破，未来自卫队可能会加强与美国太空军的合作，对地区局势形成挑战。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7223636.d.html</link>
+            <guid>4939408</guid>
+            <pubDate>Tue, 16 Jun 2026 23:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西国家开发银行（BNDES）正与巴西石油公司（PETROBRAS）就矿业投资进行谈判。]]></title>
+            <guid>4939405</guid>
+            <pubDate>Tue, 16 Jun 2026 23:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2026中国国际金融展开幕 人工智能等新技术在金融业加速落地】2026中国国际金融展昨天（16日）开幕。记者在展会现场发现，人工智能等新技术正在金融业加速落地，进一步提升我国金融服务的安全性和便利性。今年的中国国际金融展集中展示了金融业服务实体经济，以及智能支付、支付促消费等领域的科技新成果、新服务。虽然是金融展，但是记者发现，今年300多家参展商中，将近一半都是人工智能领域的科技企业，他们正在帮助金融机构从硬件到软件全方位升级，让金融服务更加安全、更加便利。中国人民银行表示，下一步，将进一步健全我国金融基础设施的安全性和可靠性，提升金融服务实体经济能力。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5812739.d.html</link>
+            <guid>4939401</guid>
+            <pubDate>Tue, 16 Jun 2026 23:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家中医药管理局：我国已建设25个皮肤科国家中医优势专科】国家中医药管理局昨天（16日）召开健康中国中医药健康促进主题发布会，介绍我国皮肤病的中医药防治工作情况。目前，我国已建设25个皮肤科国家中医优势专科。数据显示，为提升中医药皮肤病防治能力，目前我国已建设25个皮肤科国家中医优势专科，推进省级专科联盟建设，带动提升区域中医皮肤病诊疗能力；同步规划建设皮肤专业国家级中医质控中心，推进省、市级质控中心建设，逐步完善中医皮肤科质控网络，持续改进和提升中医医疗质量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicsezc3997352.d.html</link>
+            <guid>4939399</guid>
+            <pubDate>Tue, 16 Jun 2026 23:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【价值蓝筹暗流涌动 私募激辩A股风格轮动】近期，A股市场走势微妙。一边是以AI为核心的科技主线高位震荡，内部分化加剧；另一边，银行、券商、电力等蛰伏已久的蓝筹板块悄然回暖，少数龙头股甚至逆势创出阶段新高。资金是暂时的“高低切换”，还是为系统性风格轮动蓄势？值得注意的是，部分私募机构已开始审视AI赛道交易拥挤的潜在风险，并重新打量其它资产。一场关于A股风格走向的激辩，正在私募圈内展开。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9033774.d.html</link>
+            <guid>4939398</guid>
+            <pubDate>Tue, 16 Jun 2026 23:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海事情报公司称伊朗近两月来首次出口原油】海事情报公司“油轮追踪者”17日凌晨在社交媒体发文称，该机构15日通过卫星图像核实，至少有两艘隶属伊朗国家油轮公司的超大型油轮已驶出美国海军封锁线，两船共载有380万桶伊朗原油。这是伊朗近两个月来首次出口原油。 此外，该帖文称，伊朗国家油轮公司旗下的“斯特里姆号”油轮正从巴基斯坦专属经济区驶出。该船此前已在那片海域滞留7周，一直等待返回伊朗港口。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5810692.d.html</link>
+            <guid>4939397</guid>
+            <pubDate>Tue, 16 Jun 2026 23:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果将于明年推出带摄像头的AirPods和新一代折叠屏iPhone】苹果公司计划于2027年底推出配备摄像头的耳机AirPods，作为新品发布计划的一部分，这款产品将帮助苹果进军人工智能设备市场。据知情人士透露，苹果计划在推出下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型前后发布该这款备。知情人士称这将是苹果迄今力度最大的新品发布。相关产品有望在John Ternus于9月1日接任首席执行官后，为苹果提供增长动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicsezc3996422.d.html</link>
+            <guid>4939396</guid>
+            <pubDate>Tue, 16 Jun 2026 23:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新股提示：北交所新股吉和昌今日申购】今日可申购北交所新股吉和昌，吉和昌发行总数约2800万股，发行市盈率14.98倍，申购代码为：920193，申购价格：8.52元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5809919.d.html</link>
+            <guid>4939395</guid>
+            <pubDate>Tue, 16 Jun 2026 23:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华卓精科IPO辅导工作完成】招商证券发布关于北京华卓精科科技股份有限公司首次公开发行股票并上市辅导工作完成报告，经辅导，公司认为，辅导对象具备成为上市公司应有的公司治理结构、会计基础工作、内部控制制度，充分了解多层次资本市场各板块的特点和属性；辅导对象及其董事、高级管理人员、持有百分之五以上股份的股东和实际控制人(或其法定代表人)已全面掌握发行上市、规范运作等方面的法律法规和规则、知悉信息披露和履行承诺等方面的责任和义务，树立了进入证券市场的诚信意识、自律意识和法治意识。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5809751.d.html</link>
+            <guid>4939394</guid>
+            <pubDate>Tue, 16 Jun 2026 23:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[皮博迪能源公司(Peabody Energy Corp)：已通知员工，因应对持续受保护的劳工行动，其旺博(Wambo)煤炭处理准备厂将实施为期两周的停工。]]></title>
+            <guid>4939393</guid>
+            <pubDate>Tue, 16 Jun 2026 23:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超30家公司调整定增方案 定增市场正从“提前锁价”向“随行就市”转型】今年6月以来，A股定增市场掀起一轮方案“调整潮”。据证券时报记者不完全统计，截至6月15日，超30家上市公司将定增定价基准日从“董事会决议公告日”调整为“发行期首日”，即从原先的锁价发行切换为更贴近发行期二级市场股价的定价模式。业内人士指出，采用“发行期首日”定价模式，可有效压缩跨期套利空间，同时契合再融资市场化的监管导向。定增市场正加速从“提前锁价”向“随行就市”转型，再融资的市场化与透明化程度有望进一步提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicsezc3995077.d.html</link>
+            <guid>4939390</guid>
+            <pubDate>Tue, 16 Jun 2026 23:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2026陆家嘴论坛今日开幕 与会人士将围绕“建立健全功能完善的资本市场”等议题展开讨论】今日，主题为“全球治理倡议下的金融发展与合作：新愿景、新挑战和新机遇”的2026陆家嘴论坛正式开幕，70余名中外嘉宾相聚黄浦江畔，共话全球金融治理新愿景。该届论坛由中国人民银行、国家金融监督管理总局、中国证监会和上海市人民政府共同主办，由国家金融监督管理总局局长丁向群与上海市市长龚正担任共同轮值主席。按照往年惯例，来自中国人民银行、国家金融监督管理总局和中国证监会等部门的负责人都将在陆家嘴论坛上发声。证券时报记者昨日在论坛现场看到，工作人员正在进行现场布置、设备调试等工作，参会嘉宾陆续前来报到。为期两天的2026陆家嘴论坛期间，与会人士将围绕“全球金融治理改革与合作”“建立健全功能完善的资本市场”“沪港金融协同发展赋能高水平金融开放”“健全科技金融全生命周期服务体系，服务实体经济高质量发展”“科技创新赋能金融高质量发展”“提高普惠金融的有效性与精准度”“全球治理框架下的可持续金融创新与合作”等议题展开讨论，以期为促进全球经济复苏和金融稳定、推动中国金融改革开放提出具有启迪意义的思路和建议。]]></title>
+            <guid>4939387</guid>
+            <pubDate>Tue, 16 Jun 2026 23:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国考虑解除石脑油出口限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7217617.d.html</link>
+            <guid>4939386</guid>
+            <pubDate>Tue, 16 Jun 2026 23:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳大利亚矿业与能源工会：皮博迪在新南威尔士州煤炭洗选厂对工人停工锁厂】澳大利亚矿业与能源工会（MEU）周三表示，美国煤炭生产商皮博迪能源公司已对其位于新南威尔士州的联合旺博洗煤厂的工人实施了为期两周的停工锁厂，这使得薪资纠纷进一步升级。该工会表示，自5月初以来，工人们一直采取受法律保护的工业行动，此前他们拒绝了一项包括年薪增长2.5%以及奖金安排调整在内的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9029575.d.html</link>
+            <guid>4939384</guid>
+            <pubDate>Tue, 16 Jun 2026 23:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【暴雨橙色预警继续：广西广东重庆等地局地特大暴雨】中央气象台6月17日06时继续发布暴雨橙色预警：预计，6月17日08时至18日08时，广西中南部、广东大部、福建东南部以及重庆西部、贵州西部、云南东部等地部分地区有大到暴雨，其中，广西南部沿海、广东沿海、重庆西部等地部分地区有大暴雨，局地特大暴雨（250～350毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过90毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7216837.d.html</link>
+            <guid>4939383</guid>
+            <pubDate>Tue, 16 Jun 2026 23:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2025年度个税汇算6月30日结束】2025年度个税综合所得汇算办理将于6月30日结束。国家税务总局发布的最新数据显示，截至5月底，已有超1.6亿人完成个税汇算申报，超过1.1亿人办理了退税，退税金额也明显增大，退税规模同比增加超过17%。税务部门提示，在申请退税过程中，需要重点关注的是“税务审核不通过”和“国库退库失败”两种情况。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9029126.d.html</link>
+            <guid>4939382</guid>
+            <pubDate>Tue, 16 Jun 2026 23:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【G7讨论了合作伙伴访问美国先进AI模型的话题】据媒体援引三位未透露姓名外交消息人士报道，七国集团(G7)领导人讨论了一项计划，该计划将允许部分受信任的合作伙伴访问来自Anthropic等美国公司的先进人工智能AI模型。 多位国家代表与包括商务部长霍华德·卢特尼克在内的美国代表讨论了扩大访问先进AI模型的问题。一位白宫官员在声明中表示，总统团队与盟友保持着畅通的沟通渠道，并将继续致力于解决Anthropic模型的国家安全关切。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7215908.d.html</link>
+            <guid>4939380</guid>
+            <pubDate>Tue, 16 Jun 2026 23:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今年1至5月，中国进出口银行新发放外贸领域贷款4900亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。]]></title>
+            <guid>4939379</guid>
+            <pubDate>Tue, 16 Jun 2026 23:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本6月路透短观制造业景气判断指数 13，前值8。
+日本6月路透短观非制造业景气判断指数 32，前值29。]]></title>
+            <guid>4939377</guid>
+            <pubDate>Tue, 16 Jun 2026 23:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称控制一居民点 乌称袭击俄炼油厂】俄罗斯国防部16日通报称，过去一天，俄军继续打击乌军使用的能源和交通基础设施以及远程无人机组装、存储和发射地点等目标。俄军防空系统击落12枚制导航空炸弹，2枚“火烈鸟”导弹和491架固定翼无人机。此外，俄军控制了顿涅茨克地区一个居民点。乌克兰武装部队总参谋部16日通报称，过去一天前线地区发生228次战斗。乌军击落俄军2062架无人机。通报还称，乌军当天对莫斯科炼油厂、图拉仪器制造设计局等俄罗斯目标发动了远程打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7210177.d.html</link>
+            <guid>4939376</guid>
+            <pubDate>Tue, 16 Jun 2026 22:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、五月经济运行总体平稳向新向优（权威发布）
+2、2026中美地方合作对话会在郑州举行
+3、封关以来，新增经营主体17.21万家，同比增长61.07% 三个场景看海南自贸港新变化（探访）
+4、探访湖北宜昌循环全链条一体化产业园——一块废旧电池的“再生”（经济聚焦·关注循环经济）
+5、从采出液到合格成品原油，全链条自动调控——油田生产“算”出来
+6、前5月综保区进出口值3.5万亿元 占全国进出口总值的16.9%
+7、端午节假期全国口岸日均出入境人员将达220万人次
+8、京东将人工智能技术融入供应链 把算力热度转化为产业厚度
+9、雄安空天信息创新技术大赛决赛启动
+10、融入光伏发电、透水砖、雨水收集等多项技术——新加坡百年店屋焕发绿色新生机
+11、燃油价格上涨 供应链条不稳 全球航空业增长面临挑战
+12、给汽车“卷尺寸”降降温（小经说汽车）
+13、擦亮“中国服务”品牌（产经视野）
+14、全球规模最大四季低温汽车试验场即将在黑龙江黑河市实现整体运营 “一季”向“四季”，“冻”能变“动”能（探访全球第一）。]]></title>
+            <guid>4939374</guid>
+            <pubDate>Tue, 16 Jun 2026 22:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第一季度经常帐 -10.08亿纽元，预期-11.1亿纽元，前值-59.84亿纽元。新西兰第一季度经常帐在GDP占比年率 -3.6%，预期-3.70%，前值-3.70%。]]></title>
+            <guid>4939371</guid>
+            <pubDate>Tue, 16 Jun 2026 22:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募热议主题投资新规：约束“漂移”冲动，重塑竞争逻辑】中国证券投资基金业协会日前发布《公开募集证券投资基金主题投资风格管理指引》，定于今年12月1日起施行，并为行业预留了17个月的整改过渡期。多位公募人士认为，“新规直指公募产品‘名不副实’与‘押赛道、博排名’等问题”，在多项硬约束叠加之下，基金经理依靠漂移热门赛道博取短期收益的操作空间将被大幅压缩。据了解，大部分公募机构已着手对所有在运行的主题投资基金进行梳理。目前，部分公司整改已经落地。“新规短期对市场冲击有限，中长期将系统性重塑公募行业生态。”一位公募基金高管表示。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5794429.d.html</link>
+            <guid>4939370</guid>
+            <pubDate>Tue, 16 Jun 2026 22:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防长赫格塞思将在本周北约防长会议上力促防务责任分担】美国国防部长赫格塞思本周将前往比利时参加北约防长会议，力推责任分担理念；这已成为特朗普政府国防政策的标志。“国防部长将重点强调，北约盟友迫切需要承担欧洲大陆常规防务的主要责任，具体措施包括将国防开支提高至国内生产总值（GDP）的5%、提升国防工业基础产能，以及部署具备可靠战斗力的部队，”美国国防部周二在声明中称。欧洲盟友一直在为美国愿意投入欧洲大陆战时行动的军事资产可能遭到大幅削减作准备，尤其是在政府官员就美国海外基地削减驻军问题释放矛盾信号之际。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9016815.d.html</link>
+            <guid>4939369</guid>
+            <pubDate>Tue, 16 Jun 2026 22:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【KBRA旗下指数显示私募信贷违约率追平2023年高点】Kroll Bond Rating Agency LLC旗下指数显示，私募信贷借款人的违约率已升至该指数约三年历史以来的最高水平，再次凸显这一规模达1.8万亿美元行业面临的压力。这家评级与分析公司的数据显示，截至周一，KBRA DLD Direct Lending指数的12个月滚动违约率升至2.3%，追平了该指数创立以来的最高水平。该公司预计违约率将继续上升，到2026年底将达到3.5%，约对应111家发行人违约。该指数于2023年12月推出时的发行人违约率也为2.3%。这项指数包含约3000家发行人，涉及商业发展公司资产规模达3000亿美元。按贷款规模计算，KBRA DLD预计2026年该指数中将有2.5%的贷款发生违约，高于2025年的1.4%。这意味着今年的违约贷款金额将达到76亿美元，高于2025年的43亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5788904.d.html</link>
+            <guid>4939367</guid>
+            <pubDate>Tue, 16 Jun 2026 22:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[领益智造在港交所公告，拟全球发售8.118亿股H股，发售价格将不高于每股H股10.18港元，预期将于2026年6月26日(星期五)上午九时正在联交所开始买卖。]]></title>
+            <guid>4939364</guid>
+            <pubDate>Tue, 16 Jun 2026 22:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首尾相差超过700个百分点，股票策略私募业绩大分化】私募排排网最新数据显示，截至5月底，全市场12795只有业绩记录的私募证券投资基金年内平均收益为7.78%，其中9299只产品录得正收益，占比为72.68%。股票策略业绩实现领跑。值得一提的是，股票策略私募内部分化显著加剧。私募排排网数据显示，今年前5个月，股票策略私募基金中5%分位数的产品收益率达49.19%，居各策略首位。与此同时，表现最好的股票策略私募今年前5个月收益率超过600%，但同期表现最差的股票策略私募基金则跌逾60%，首尾业绩差距高达753.47个百分点。另外，多位渠道人士透露，截至6月12日，部分知名百亿级私募年内收益仍为负数，某深圳百亿级价值派私募旗下多只产品更是回撤超过10%。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9008282.d.html</link>
+            <guid>4939363</guid>
+            <pubDate>Tue, 16 Jun 2026 22:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车正与多家国防承包商展开洽谈， 已与雷神技术公司、L3 哈里斯公司洽谈扩大弹药产能相关事宜。]]></title>
+            <guid>4939362</guid>
+            <pubDate>Tue, 16 Jun 2026 22:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港交所科技100指数半年度调整 AI龙头集中入列强化“硬科技”成色 】日前，港交所科技100指数半年度常规调整与快速纳入机制首次同日生效，智谱、壁仞科技、天数智芯3只AI硬科技龙头通过快速纳入机制集中入列，与滴普科技、汇聚科技、禾赛-W等7只常规调整个股，共同构成10只新进成分股。此番调整后，指数“硬科技”成色明显增厚，其在人工智能、自动驾驶、机器人等未来产业领域的表征功能得以强化。分析人士认为，此番具有代表性的人工智能产业链核心企业集中纳入指数，短期有望为相关标的带来明确的被动资金配置增量；中长期看，优质AI龙头的加入亦有助于提升指数整体的成长弹性与估值标杆效应，吸引更多资金关注港股科技板块的结构性机会。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9005368.d.html</link>
+            <guid>4939360</guid>
+            <pubDate>Tue, 16 Jun 2026 22:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首创证券通过港交所聆讯 板块估值修复窗口渐近 】日前，首创证券公告已通过港交所上市聆讯。公司启动H股上市筹备至今不足一年，赴港上市节奏高效推进。本次募集资金将重点投入资产管理、投资等核心业务，并加大科技研发投入，加速数智化转型。若顺利挂牌，首创证券将成为国内第14家“A+H”两地上市券商。分析人士认为，当前券商板块估值位于历史低位，此次赴港上市既能充实首创证券资本储备，也是其从区域性经营迈向国际化布局的重要战略举措。但现有13家“A+H”上市券商发展差距明显，港股上市仅是发展起点，能否将募资有效转化为业务核心竞争力，才是决定本次上市价值的关键。随着行业政策红利不断释放、市场资金环境逐步改善，券商板块估值修复窗口已经开启。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7194709.d.html</link>
+            <guid>4939357</guid>
+            <pubDate>Tue, 16 Jun 2026 22:23:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【存量到期 新发未回暖 银行转债越来越稀缺】今年7月和8月，紫银转债和青农转债将分别到期。届时，银行转债数量将进一步减少。今年以来，银行转债新发数量为0，供需矛盾较为突出。业内人士预计，受估值破净约束，短期内银行转债新发难有显著回暖。同时，不少银行的正股价格表现较弱，限制了转债持有人转股，银行转债潜在的补充核心一级资本的作用难以发挥。在接下来一段时间内，高评级银行转债将成为转债市场上的稀缺底仓品种。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyz7194370.d.html</link>
+            <guid>4939356</guid>
+            <pubDate>Tue, 16 Jun 2026 22:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亚马逊云科技：自 6 月 15 日起，所有第六代及更新一代亚马逊游戏托管（GameLift）服务器实例将免费附赠网络带宽，无需额外付费。]]></title>
+            <guid>4939355</guid>
+            <pubDate>Tue, 16 Jun 2026 22:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“冲时点”转向“重日均”，银行“年中考”逻辑生变】临近半年末，社交平台上关于“半年末冲刺”“双过半攻坚”“银行人加班打电话”的讨论明显增多。与以往不同的是，银行的考核逻辑正在悄然发生变化。一家股份行对公条线人士告诉记者，过去银行考核更多关注月末、季末、半年末等关键时点的数据表现，但今年贷款考核更重视日均规模。“贷款投放越早、期限越长，对日均考核的贡献越大。临时性的资金调拨和短期冲量，对业绩改善作用明显减弱。”上述对公条线人士表示。存款争夺战也在升温。进入6月以来，多家中小银行发行大额存单产品，华商银行、修文农商银行等中小银行推出限时存款产品，部分期限产品利率超过2%，在当前存款市场中是较为稀缺的高收益品种。半年度收官冲刺，是中小银行加大揽储力度的主要原因。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw9000842.d.html</link>
+            <guid>4939353</guid>
+            <pubDate>Tue, 16 Jun 2026 22:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[圣邦股份申请通过香港IPO发行5400万股股票。发行价指导区间顶端为每股85.20港元。预计股票将于6月24日定价，将从6月26日开始交易。]]></title>
+            <guid>4939352</guid>
+            <pubDate>Tue, 16 Jun 2026 22:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芯碁微裝（Circuit Fabology）申请通过香港IPO发行1280万股股票。发行价指导区间为每股240.09-252.73港元。预计股票将于6月24日定价，将从6月26日日开始交易。]]></title>
+            <guid>4939348</guid>
+            <pubDate>Tue, 16 Jun 2026 22:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软：在全球范围内斩获超过300份商业订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw8996457.d.html</link>
+            <guid>4939346</guid>
+            <pubDate>Tue, 16 Jun 2026 22:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳大利亚外交部长：下调针对巴林、以色列、科威特、卡塔尔及阿联酋的出行风险提示等级。]]></title>
+            <guid>4939343</guid>
+            <pubDate>Tue, 16 Jun 2026 22:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：美伊协议涉及的三千亿基金，超一半获出资承诺】据外媒16日报道，美国与伊朗达成的谅解备忘录中包含一项旨在刺激对伊投资的3000亿美元私有基金，其超过一半的款额已获得出资承诺。报道援引消息人士的话说，该基金旨在“为双方提供经济激励以促成最终协议达成”，它是“私有投资工具”，不包含任何政府资金或赠款。目前，已有总部位于美国、海湾国家以及亚洲、南美洲和非洲的公司承诺出资，投资领域涵盖能源、物流、制造和运输等。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicsezc3961166.d.html</link>
+            <guid>4939342</guid>
+            <pubDate>Tue, 16 Jun 2026 22:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国首相在G7峰会兜售能源与AI项目获13亿英镑投资】英国首相斯塔默在法国举行的七国集团（G7）峰会上宣布，英国在能源和人工智能（AI）项目上获得13亿英镑的投资。投资包括InfraVia Capital Partners SAS公司投资的10亿英镑，用于电池储能及其他能源项目；以及Atri Energy Transition Pvt Ltd公司投资的3亿英镑，用于电池储能和先进制造业。据唐宁街10号声明，斯塔默表示，这些投资将创造数千个高技能就业岗位，支持英国创新，并增强英国的能源系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyy5755727.d.html</link>
+            <guid>4939340</guid>
+            <pubDate>Tue, 16 Jun 2026 21:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克已接近实现第二个万亿美元目标的三分之一】马斯克花了54年时间才赚到他的第一个万亿美元。而在两个交易日之后，他已经完成了下一个万亿美元目标的近三分之一。根据彭博亿万富翁指数，马斯克的财富在周二攀升至1.32万亿美元。这比他在上周三（即SpaceX以每股135美元定价进行IPO的前一天）的6960亿美元身家增长了近90%。 马斯克在过去四个交易日中增加了6200亿美元的财富，这是彭博财富指数有史以来记录的最大单周增幅。这一数字超过了拉丁美洲或中东地区所有上榜亿万富翁财富的总和。这一增长规模大约是比尔·盖茨净资产的六倍，略高于挪威的国内生产总值（GDP）。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw8976063.d.html</link>
+            <guid>4939338</guid>
+            <pubDate>Tue, 16 Jun 2026 21:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【姆巴佩梅开二度，法国3-1塞内加尔】2026年美加墨世界杯I组首轮比赛中，法国队对阵塞内加尔队。姆巴佩表现出色，梅开二度，帮助法国队以3-1战胜塞内加尔队。比赛预告显示，今天还将进行多场激烈角逐，包括伊拉克VS挪威、阿根廷VS阿尔及利亚和奥地利VS约旦。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicseyw8971558.d.html</link>
+            <guid>4939337</guid>
+            <pubDate>Tue, 16 Jun 2026 21:28:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[西太平洋银行：新西兰二季度消费者信心下滑至80.4，创三年新低。]]></title>
             <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrysy9090963.d.html</link>
@@ -32,308 +352,6 @@
             <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrytf4056876.d.html</link>
             <guid>4939328</guid>
             <pubDate>Tue, 16 Jun 2026 20:36:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 出于安全考量，微软放弃了一份价值 30 亿美元、租赁甲骨文云算力的合作协议。]]></title>
-            <guid>4939319</guid>
-            <pubDate>Tue, 16 Jun 2026 19:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赤道几内亚内阁集体辞职】赤道几内亚副总统曼格16日晚在社交媒体发文说，赤几总理曼努埃尔·奥萨·恩苏埃·恩苏阿当天向总统提交了所有内阁成员的集体辞呈。曼格表示，此前经评估确认，本届政府既定目标的完成率仅“勉强达到10%”。他说：“国家为政府配置了大量人力、物力和财力资源以满足民众需求，但目前的执行程度与预期及所作承诺相比差距较大。”曼格表示，赤道几内亚需要一个更具活力、更高效、更贴近民众需求的行政机构。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicryta5845989.d.html</link>
-            <guid>4939318</guid>
-            <pubDate>Tue, 16 Jun 2026 19:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[随着燃料、汽车和食品突破封锁，美国对古巴的出口大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrysy9066305.d.html</link>
-            <guid>4939316</guid>
-            <pubDate>Tue, 16 Jun 2026 19:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  安全消息人士：无人机袭击伊拉克埃尔比勒东部一处伊朗反对派营地。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicryta5839727.d.html</link>
-            <guid>4939314</guid>
-            <pubDate>Tue, 16 Jun 2026 19:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯禁止103名加拿大人入境以回应加方制裁】俄罗斯外交部16日晚在官网发布通报称，作为对加拿大对俄制裁措施的回应，俄方禁止103名加拿大籍人员入境。俄外交部表示，加拿大一些政治人物损害俄方权利和利益，破坏两国关系。俄方一贯尊重加拿大人民，但反对加政府当前的敌对立场。根据俄外交部公布的名单，此次被禁止入境的包括多名加拿大议员、加拿大前驻俄罗斯与乌克兰大使等人员。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrysy9061096.d.html</link>
-            <guid>4939312</guid>
-            <pubDate>Tue, 16 Jun 2026 19:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”】红杉资本合伙人Shaun Maguire对SpaceX将数据中心送入太空的能力及其在人工智能领域的实力表达了信心。Maguire概述了SpaceX的五层业务模式，并表示计划“永远”持有其股份，称埃隆·马斯克为公司描绘的愿景是“史上使命最宏大、市场潜力最大的公司”。“我不明白为什么SpaceX不能在星舰首次有效载荷飞行后的六个月内，就发射一颗轨道计算卫星。”关于人工智能领域，他表示，SpaceX在地球上构建下一代AI云基础设施的能力已经比竞争对手“高出一个数量级”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicryta5836218.d.html</link>
-            <guid>4939310</guid>
-            <pubDate>Tue, 16 Jun 2026 19:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美被曝拒绝以色列看美伊谅解备忘录】当地时间6月16日，据美国有线电视新闻网（CNN）报道，一名以色列消息人士透露，以色列曾要求美国提供美伊谅解备忘录文本供其审阅，但遭到拒绝。该消息人士称，美方拒绝以色列的部分原因在于，特朗普政府“担心以色列总理内塔尼亚胡会在该备忘录正式公布前泄露文本内容”。 内塔尼亚胡当地时间6月15日晚举行记者会，在开场发言中几乎未提及这项备忘录。在随后的提问环节中，他表示，自己与特朗普“并非总是意见一致”。他还称：“我们仍然不知道这项备忘录究竟是什么。”（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrysy9058036.d.html</link>
-            <guid>4939309</guid>
-            <pubDate>Tue, 16 Jun 2026 19:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军持续在黎南部军事行动 伊朗军方发声警告】16日，伊朗武装部队哈塔姆安比亚中央总部发布声明称，在美伊双方达成谅解备忘录之后，以色列军队已在黎巴嫩南部违反停火协议84次，并继续对黎巴嫩无辜民众实施犯罪和屠杀。声明警告，如果以色列不停止其在黎巴嫩南部的侵略和挑衅行为，那么它将不得不等待“伊朗强大武装力量的严厉回应”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5965459.d.html</link>
-            <guid>4939308</guid>
-            <pubDate>Tue, 16 Jun 2026 19:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长赫格塞思明日将前往比利时出席北约部长级会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumf7390803.d.html</link>
-            <guid>4939306</guid>
-            <pubDate>Tue, 16 Jun 2026 19:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  塞尔维亚国家广播电视台报道，塞尔维亚由俄罗斯控股、遭美国制裁的尼什石油公司获得制裁豁免，有效期至 7 月 1 日。]]></title>
-            <guid>4939304</guid>
-            <pubDate>Tue, 16 Jun 2026 19:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[切尼尔能源公司CFO：大部分发展中国家不会将能源安全托付给美国。 希望卡塔尔能源尽快重返市场，此举有助于丰富全球能源供应渠道。]]></title>
-            <guid>4939303</guid>
-            <pubDate>Tue, 16 Jun 2026 19:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  委内瑞拉国有石油公司 PDVSA 与西班牙雷普索尔公司签署原油与天然气合作谅解备忘录.]]></title>
-            <guid>4939301</guid>
-            <pubDate>Tue, 16 Jun 2026 19:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国有线电视新闻网证实，加州州长的妻子詹妮弗·西贝尔·纽瑟姆正遭到司法部调查。就在此事曝光前一日，加州州长加文·纽瑟姆刚指责本届政府牵头对其核心圈子展开一场带有政治目的的调查。不过一名了解此次调查内情的人士否认，这项调查是由司法部内部特朗普任命的领导层发起的。]]></title>
-            <guid>4939297</guid>
-            <pubDate>Tue, 16 Jun 2026 18:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗警告以色列停止黎南部军事行动】当地时间6月16日晚，伊朗武装部队哈塔姆·安比亚中央司令部发布声明称，在美国总统特朗普宣布战争结束后的两天里，以色列军队在黎巴嫩南部违反停火协议84次，继续对黎巴嫩无辜民众实施犯罪和屠杀。伊朗武装部队郑重警告：如果以色列不停止对黎巴嫩南部的侵略和挑衅行为，等待它的将是伊朗武装力量的强力回应。]]></title>
-            <guid>4939296</guid>
-            <pubDate>Tue, 16 Jun 2026 18:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗革命卫队哈塔姆·安比亚中央总部：尽管美国总统宣称战事已经结束，但以色列军队过去两天内已84次破坏黎巴嫩南部停火协议，持续对毫无防御能力的黎巴嫩民众实施暴行。以色列若不停止在黎巴嫩南部的侵略行径，就应当做好准备，迎接伊朗武装力量坚决、果断的反击。]]></title>
-            <guid>4939294</guid>
-            <pubDate>Tue, 16 Jun 2026 18:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士透露：美国商务部长卢特尼克致信人工智能公司Anthropic，警告政府将对高端人工智能模型实施管制，受此影响Anthropic关停了Mythos相关功能。]]></title>
-            <guid>4939292</guid>
-            <pubDate>Tue, 16 Jun 2026 18:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[币安表示将持续服务欧洲用户，在有报道称其可能失去欧盟经营许可后，平台仍会依法合规运营。]]></title>
-            <guid>4939291</guid>
-            <pubDate>Tue, 16 Jun 2026 18:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰空军苏-24轰炸机坠毁 两人遇难】乌克兰空军16日晚在社交媒体发文说，当天19时许，乌空军一架苏-24轰炸机在赫梅利尼茨基州执行任务时坠毁，机上两人遇难。初步信息显示，坠机未造成平民伤亡。坠机原因正在调查中。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9181015.d.html</link>
-            <guid>4939290</guid>
-            <pubDate>Tue, 16 Jun 2026 18:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗官员：美方必须停止针对黎巴嫩的军事行动、严格履行协议全部条款】伊朗议会国家安全与外交政策委员会主席易卜拉欣·阿齐兹表示，美方必须停止针对黎巴嫩的军事行动、严格履行协议全部条款，以此证明其恪守美伊谅解备忘录的诚意。美方若违背协议任何条款，伊朗都将予以坚决、毁灭性的回击。单方面向伊朗施压的时代已经落幕。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4160790.d.html</link>
-            <guid>4939289</guid>
-            <pubDate>Tue, 16 Jun 2026 18:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受青海海西州6.3级地震影响 大柴旦辖区多个景区景点临时关停】青海海西州文体旅游广电局17日发布通告，为保障人民群众生命财产安全，严防地震次生灾害引发安全事故，大柴旦辖区全部文旅经营场所及旅游点位实施临时关停管控。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumf7384153.d.html</link>
-            <guid>4939288</guid>
-            <pubDate>Tue, 16 Jun 2026 18:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉维持巴西评级“BB”，展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4159946.d.html</link>
-            <guid>4939287</guid>
-            <pubDate>Tue, 16 Jun 2026 18:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列媒体：以色列曾正式申请查阅美伊谅解备忘录，遭到白宫拒绝。美以是最紧密的战略盟友，但以色列政府对特朗普存在严重信任缺失。以色列国内弥漫挫败情绪，舆论层面伊朗占据上风。]]></title>
-            <guid>4939286</guid>
-            <pubDate>Tue, 16 Jun 2026 18:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件显示：巴西石油监管机构巴西国家石油局（ANP）已批准向巴西国家石油公司（Petrobras）支付柴油补贴计划第一阶段的7.4亿雷亚尔款项。]]></title>
-            <guid>4939285</guid>
-            <pubDate>Tue, 16 Jun 2026 18:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺基亚：将把基站产能提升至当前水平的十倍，新增产能将于第三季度末前投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4155606.d.html</link>
-            <guid>4939281</guid>
-            <pubDate>Tue, 16 Jun 2026 18:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非总统拉马福萨周二告诫民众，切勿将本国经济困境归咎于移民，他表示不该让移民成为南非各类社会问题的替罪羊。]]></title>
-            <guid>4939275</guid>
-            <pubDate>Tue, 16 Jun 2026 18:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列媒体：今年3月以美联合开展针对伊朗的行动之初，阿联酋多名高级安全官员曾秘密出访以色列，举行高层安全会谈。]]></title>
-            <guid>4939273</guid>
-            <pubDate>Tue, 16 Jun 2026 18:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加纳总统：加纳与科特迪瓦将于9月1日启动2026/27可可季，至次年8月31日结束。]]></title>
-            <guid>4939272</guid>
-            <pubDate>Tue, 16 Jun 2026 18:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔埃米尔表示，与特朗普讨论了加强合作的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5949139.d.html</link>
-            <guid>4939271</guid>
-            <pubDate>Tue, 16 Jun 2026 18:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部长表示，美国与伊朗的谈判将在双方签署谅解备忘录的当日启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5947341.d.html</link>
-            <guid>4939269</guid>
-            <pubDate>Tue, 16 Jun 2026 18:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰空军通报： 一架苏-24M战斗轰炸机坠毁，两名飞行员全部遇难。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9168866.d.html</link>
-            <guid>4939268</guid>
-            <pubDate>Tue, 16 Jun 2026 18:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：今日起向符合条件的Pixel Watch推送Wear OS 7，该版本将为全天日常使用提供可靠平台。]]></title>
-            <guid>4939267</guid>
-            <pubDate>Tue, 16 Jun 2026 18:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：已将美国数字健康基金规模增至逾5000万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4146307.d.html</link>
-            <guid>4939266</guid>
-            <pubDate>Tue, 16 Jun 2026 18:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：将安卓家长控制功能扩展至所有升级至安卓17系统的安卓设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4146255.d.html</link>
-            <guid>4939265</guid>
-            <pubDate>Tue, 16 Jun 2026 18:04:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美货运“龙”飞船脱离空间站返回地球】SpaceX的货运“龙”飞船16日脱离国际空间站，携带科学实验样品和物资返回地球。据美国国家航空航天局介绍，“龙”飞船于美国东部时间16日12时25分（北京时间17日0时25分）脱离国际空间站，启程返回地球。按计划，“龙”飞船将于美国西部时间17日5时08分（北京时间同日20时08分）溅落在美加利福尼亚州附近海域。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4145273.d.html</link>
-            <guid>4939264</guid>
-            <pubDate>Tue, 16 Jun 2026 18:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赤道几内亚政府集体辞职】当地时间16日，赤道几内亚副总统特奥多罗·奥比昂·曼格宣布，由于未能实现既定施政目标，政府已正式辞职。曼格在声明中指出，此次辞职旨在为组建新的政府团队铺平道路，以提高行政效率并加快国家发展计划的落实。他强调，政府各部门需要进一步提升工作表现，更有效地回应国家经济和社会发展需求。目前，赤道几内亚方面尚未公布新内阁成员名单及具体组阁时间表。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumf7367978.d.html</link>
-            <guid>4939259</guid>
-            <pubDate>Tue, 16 Jun 2026 17:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉与欧盟委员会主席冯德莱恩承诺，将致力于寻求解决方案，化解欧盟的关切。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumf7367835.d.html</link>
-            <guid>4939258</guid>
-            <pubDate>Tue, 16 Jun 2026 17:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心（NHC）表示，潜在一号热带气旋正导致得克萨斯州和路易斯安那州部分地区出现危险的突发洪水。]]></title>
-            <guid>4939257</guid>
-            <pubDate>Tue, 16 Jun 2026 17:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉与欧盟委员会主席冯德莱恩确定建立双边机制，以识别涉及动物产品与钢铁领域的相关难题。]]></title>
-            <guid>4939256</guid>
-            <pubDate>Tue, 16 Jun 2026 17:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西声明：总统卢拉会见欧盟委员会主席冯德莱恩，就针对巴西产品的贸易限制措施展开讨论。]]></title>
-            <guid>4939254</guid>
-            <pubDate>Tue, 16 Jun 2026 17:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大负责对美贸易事务部长勒布朗在G7峰会上谈及与美国贸易代表办公室会晤时表示：我们持续取得进展。]]></title>
-            <guid>4939252</guid>
-            <pubDate>Tue, 16 Jun 2026 17:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拟设立3000亿美元私募基金，用于加大对伊朗投资】消息人士称，一份美伊框架协议中包含设立规模3000亿美元私人投资基金以扶持伊朗经济的规划。该基金仅在正式终版协议签署后启动，不包含任何政府出资。来自美国、海湾地区、亚洲、南美及非洲多国企业已承诺认缴过半资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumf7366266.d.html</link>
-            <guid>4939251</guid>
-            <pubDate>Tue, 16 Jun 2026 17:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位直接参与协议内容的消息人士透露，美伊框架协议包含一项规模3000亿美元私募基金的设立计划，以带动对伊朗的投资。]]></title>
-            <guid>4939250</guid>
-            <pubDate>Tue, 16 Jun 2026 17:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，3000亿美元伊朗投资基金中，已有逾一半金额获得来自美国、海湾阿拉伯国家、亚洲、南美洲及非洲企业的投资承诺。]]></title>
-            <guid>4939248</guid>
-            <pubDate>Tue, 16 Jun 2026 17:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大对美贸易部长：双方已商定下周再次沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9162019.d.html</link>
-            <guid>4939247</guid>
-            <pubDate>Tue, 16 Jun 2026 17:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大负责对美贸易事务部长：与美国贸易代表格里举行了漫长且富有建设性的会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9161591.d.html</link>
-            <guid>4939245</guid>
-            <pubDate>Tue, 16 Jun 2026 17:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗议会国家安全委员会主席表示，任何侵犯都将遭到“决定性、毁灭性的回击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9159683.d.html</link>
-            <guid>4939242</guid>
-            <pubDate>Tue, 16 Jun 2026 17:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部长霍华德·卢特尼克曾与欧洲外交官讨论建立“可信伙伴”计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9152572.d.html</link>
-            <guid>4939240</guid>
-            <pubDate>Tue, 16 Jun 2026 17:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国和欧洲就人工智能模型准入问题进行商谈，此前Anthropic引发争议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5929048.d.html</link>
-            <guid>4939239</guid>
-            <pubDate>Tue, 16 Jun 2026 17:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美伊协议签署后 伊朗即可出口石油】据美国《华尔街日报》16日报道，在美国与伊朗本周签署谅解备忘录后，伊朗即可对外销售其石油和燃料。报道援引匿名知情人士的话说，针对银行、运输和保险等伊朗石油出口相关行业的制裁也将同时获得豁免。据报道，一艘载有原油的伊朗超级油轮当天离开伊朗恰巴哈尔港，穿过美国先前实施封锁的区域后驶离阿曼湾。该油轮没有关闭定位追踪器。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5928715.d.html</link>
-            <guid>4939238</guid>
-            <pubDate>Tue, 16 Jun 2026 17:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：俄罗斯军舰符合国际航行规则开展行动，并已采取一切措施避免这起事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrume5928296.d.html</link>
-            <guid>4939237</guid>
-            <pubDate>Tue, 16 Jun 2026 17:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：警告性射击后，该游艇立即改变航向，继续驶离俄罗斯军舰。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9150659.d.html</link>
-            <guid>4939236</guid>
-            <pubDate>Tue, 16 Jun 2026 17:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：护卫舰向未回应信号的游艇鸣枪示警。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicrumi4129051.d.html</link>
-            <guid>4939235</guid>
-            <pubDate>Tue, 16 Jun 2026 17:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及总统塞西周二在法国出席G7峰会期间，敦促以色列放弃控制加沙地带70%区域的计划。]]></title>
-            <guid>4939234</guid>
-            <pubDate>Tue, 16 Jun 2026 17:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：俄罗斯护卫舰多次尝试与该游艇取得联系，但未获回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-06-17/detail-inicruma9149992.d.html</link>
-            <guid>4939233</guid>
-            <pubDate>Tue, 16 Jun 2026 17:20:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
