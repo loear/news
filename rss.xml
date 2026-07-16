@@ -4,461 +4,368 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 15 Jul 2026 23:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 03:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【新股提示：长鑫科技今日申购】今日可申购长鑫科技，长鑫科技发行市盈率308.92倍，申购代码787825，申购价格8.66元，单一账户申购上限334.9万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1163193.d.html</link>
-            <guid>4990855</guid>
-            <pubDate>Wed, 15 Jul 2026 23:07:04 GMT</pubDate>
+            <title><![CDATA[【宝马7系限量版新车开售，售价121.8万元】7月16日，宝马中国宣布，BMW 7系熠影臻藏版限量启售，全球限量700台，官方建议零售价为121.8万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1229513.d.html</link>
+            <guid>4991311</guid>
+            <pubDate>Thu, 16 Jul 2026 03:28:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三菱重工：向美国市场交付一台10MW级涡轮冷水机组测试样机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkk7734194.d.html</link>
-            <guid>4990854</guid>
-            <pubDate>Wed, 15 Jul 2026 23:06:54 GMT</pubDate>
+            <title><![CDATA[鲁比奥称巴西总统卢拉及其政府没有与美国进行诚意谈判。卢拉将个人私利置于达成协议之上，这些关税就是为此付出的代价。]]></title>
+            <guid>4991310</guid>
+            <pubDate>Thu, 16 Jul 2026 03:27:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三菱重工将加入英伟达合作伙伴网络的“电源与散热”计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1162621.d.html</link>
-            <guid>4990853</guid>
-            <pubDate>Wed, 15 Jul 2026 23:06:31 GMT</pubDate>
+            <title><![CDATA[美国国务卿鲁比奥：卢拉的政策对美国人和巴西人都不利。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4474883.d.html</link>
+            <guid>4991309</guid>
+            <pubDate>Thu, 16 Jul 2026 03:26:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三菱重工测试冷却装置支持英伟达DSX。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkk7733525.d.html</link>
-            <guid>4990852</guid>
-            <pubDate>Wed, 15 Jul 2026 23:06:06 GMT</pubDate>
+            <title><![CDATA[【40家拟IPO企业主动撤单】数据显示，截至2026年7月15日，今年A股市场共有40家拟IPO企业终止上市进程，全部为发行人或保荐机构主动撤回申请。对比2025年同期74家的撤单规模，降幅接近五成。市场普遍认为，这一显著变化折射出IPO入口端质量把关持续升级，拟上市企业申报更趋审慎。不过，在现场检查常态化、中介机构责任持续压实的大背景下，仍有部分企业在被抽中现场检查后紧急撤退，“一查即撤”现象仍存。业内人士表示，主动撤单不等于免责，“申报即担责”已落地为刚性约束。 梳理40家撤单项目板块分布发现，北交所成为上半年IPO主动撤单的主要板块，共计23家企业终止IPO进程，占撤单总量的近六成；上交所主板4家、科创板6家、深交所主板2家、创业板5家。撤单企业主要集中于工业设备、基础化工、有色金属、半导体等行业。（大河财立方）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7697279.d.html</link>
+            <guid>4991308</guid>
+            <pubDate>Thu, 16 Jul 2026 03:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国地学研究中心（GFZ）：斐济群岛以南海域发生6.01级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1160922.d.html</link>
-            <guid>4990851</guid>
-            <pubDate>Wed, 15 Jul 2026 23:05:03 GMT</pubDate>
+            <title><![CDATA[【最高40-42℃，重庆发布高温红色预警】重庆市气象台发布高温红色预警信号：预计16日11:00-22:00，两江新区、渝中、沙坪坝、大渡口、九龙坡、南岸、高新区、北碚、潼南、合川、铜梁、璧山、江津、綦江、长寿、垫江、丰都、忠县、万州、开州、云阳、奉节、巫溪、巫山、彭水等25个区县，日最高气温将升至40-42℃；巴南、大足、荣昌、永川、万盛经开区、南川、涪陵、梁平、城口、武隆、石柱等11个区县，日最高气温将升至37-40℃。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7693062.d.html</link>
+            <guid>4991304</guid>
+            <pubDate>Thu, 16 Jul 2026 03:19:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗媒体：伊朗多地遭美军袭击 】据伊朗迈赫尔通讯社当地时间16日凌晨报道，伊朗霍尔木兹甘省、锡斯坦-俾路支斯坦省和胡齐斯坦省多地遭美军新一轮、持续数小时的袭击。报道说，美军炮火击中伊朗南部锡里克地区、阿巴斯港、格什姆岛等地，各地受损情况尚待进一步调查后公布。稍早前，美军中央司令部在社交媒体发文称，美军于美国东部时间15日15时（北京时间16日3时）对伊朗发起当天的第二波打击行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1160764.d.html</link>
-            <guid>4990850</guid>
-            <pubDate>Wed, 15 Jul 2026 23:04:47 GMT</pubDate>
+            <title><![CDATA[【长安汽车高管谈“电车锁电”：内部会议上从来没要求过，要实事求是】在今日的媒体沟通会上，长安汽车执行副总裁杨大勇谈及了“电车锁电”的话题。他表示，在长安所有的内部会议上，从未谈过锁电的事。“部门提都没提过，领导也从来没要求过。”他强调，长安汽车成立164年来都是靠实事求，“挖一个坑，你得用另外一个坑来填，会给自己带来无尽的麻烦。在这个问题上，长安汽车通过技术、承诺、服务来解决”。此前，新能源汽车通过OTA“锁电”问题引发关注。据公开报道，仅2026年3月，全国12315平台就收到与OTA锁电相关的投诉超过1.2万件，同比增长273%。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7690247.d.html</link>
+            <guid>4991298</guid>
+            <pubDate>Thu, 16 Jul 2026 03:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[路透调查显示，超过半数日本企业认为日元走弱对盈利产生负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7932984.d.html</link>
-            <guid>4990846</guid>
-            <pubDate>Wed, 15 Jul 2026 23:00:39 GMT</pubDate>
+            <title><![CDATA[【美媒：美国防部正研究对古巴军事行动方案】据美国哥伦比亚广播公司15日报道，据多名知情官员透露，美国防部的军事规划人员近几周来研究了对古巴采取军事行动的一系列方案，其中包括由陆军主导、第101空降师执行、动用数千名士兵的空中突击行动。 报道说，上月底，美军举行过一次作战构想简报会，讨论了执行特定任务的初期军事行动方案。但这并不表明美国总统特朗普或五角大楼已决定实施具体行动。 报道还说，美国国务院进一步加紧对古巴的金融制裁。美国国务卿鲁比奥多次强调，美方倾向于通过外交途径迫使古巴“向技术官僚领导、愿意推行经济改革的新政府过渡”。 接受哥伦比亚广播公司采访的官员还表示，鉴于上周美国对伊朗的军事行动重新开始，目前不太可能将军事重点转移到古巴。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7686680.d.html</link>
+            <guid>4991297</guid>
+            <pubDate>Thu, 16 Jul 2026 03:11:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达表示，采用英伟达Nemotron大语言模型的企业包括日本能源巨头ENEOS、NTT数据以及日立。。]]></title>
-            <guid>4990845</guid>
-            <pubDate>Wed, 15 Jul 2026 23:00:33 GMT</pubDate>
+            <title><![CDATA[【美光扩展1γ LPDDR5X内存产品组合】7月16日，美光科技宣布进一步扩展1γ LPDDR5X内存产品组合，新增6GB、12GB和24GB非二进制容量选项，为从入门级到旗舰级的各类终端设备提供多种容量配置。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7983653.d.html</link>
+            <guid>4991292</guid>
+            <pubDate>Thu, 16 Jul 2026 03:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达表示，日本企业正使用英伟达Nemotron开放模型构建人工智能模型。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1156471.d.html</link>
-            <guid>4990843</guid>
-            <pubDate>Wed, 15 Jul 2026 23:00:25 GMT</pubDate>
+            <title><![CDATA[美国将豁免部分巴西能源产品关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1206688.d.html</link>
+            <guid>4991290</guid>
+            <pubDate>Thu, 16 Jul 2026 03:09:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄称打击乌军用设施 乌称袭击俄军直升机】俄罗斯国防部15日通报称，俄军在过去24小时内打击了乌军远程无人机储存点，以及乌军部队使用的物流中心、能源和港口基础设施等目标。俄军防空部队则拦截了乌军8枚制导航空炸弹和558架无人机。另外，俄军黑海舰队还摧毁了4艘乌军无人艇。乌克兰武装部队总参谋部15日通报称，截至当天下午，前线共发生73次战斗。乌军无人系统部队同一天通报称，其部队在别尔哥罗德州打击了1架俄军米-28直升机。另外，乌军防空力量在14日晚间至15日早间拦截和压制了101架俄军无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7929450.d.html</link>
-            <guid>4990840</guid>
-            <pubDate>Wed, 15 Jul 2026 22:56:38 GMT</pubDate>
+            <title><![CDATA[美国称巴西的PIX支付系统对美国公司不公平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1206402.d.html</link>
+            <guid>4991289</guid>
+            <pubDate>Thu, 16 Jul 2026 03:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、上半年增长4.7%难能可贵，向新向优特点鲜明 中国经济展现强大韧性活力（权威发布）
-2、二〇二六世界人工智能大会暨人工智能全球治理高级别会议将举行 展示前沿技术 加强对话交流
-3、中欧国际工商学院第十二届欧洲论坛布鲁塞尔站举行 竞合共生，中欧人士热议人工智能发展合作机遇
-4、上半年社会融资规模增量合理增长 金融有力支持经济向新向优（权威发布）
-5、《中国民营企业社会责任报告（2026）》发布
-6、上半年京津冀区域进出口同比增长16.2%
-7、我国航运中心完成规模领跑向能级领跑跨越 五座城市位次上升
-8、上半年医保制度运行总体平稳，各项重点工作有序推进 基本医保参保人数稳中有升
-9、从备用水源加快走向民生和工业等领域 海水淡化不再只是“应急之选”（经济聚焦）
-10、电子商务法修正恰逢其时（经济时评）
-11、中国战略定力，为全球能源安全注入稳定性（经济透视）
-12、60岁以上就业人口超683万，“维持生活开支”为重要原因 韩国高龄就业人数逐年增长。]]></title>
-            <guid>4990839</guid>
-            <pubDate>Wed, 15 Jul 2026 22:56:09 GMT</pubDate>
+            <title><![CDATA[市场消息：日本政府和执政的自民党计划将要求召开特别股东大会的投票权门槛从现行的3%提高至5%以上。]]></title>
+            <guid>4991288</guid>
+            <pubDate>Thu, 16 Jul 2026 03:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗发动报复性导弹打击后，科威特境内传来多起爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7927768.d.html</link>
-            <guid>4990836</guid>
-            <pubDate>Wed, 15 Jul 2026 22:55:06 GMT</pubDate>
+            <title><![CDATA[【恒富控股：临时停牌以待刊发内幕消息】恒富控股(00643.HK)公告，应本公司要求，公司股份已于7月16日上午九时正起在香港联合交易所有限公司暂停买卖，以待刊发内幕消息公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4460415.d.html</link>
+            <guid>4991287</guid>
+            <pubDate>Thu, 16 Jul 2026 03:07:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特陆军：科威特防空部队正针对“敌对无人机威胁”采取应对行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7926587.d.html</link>
-            <guid>4990834</guid>
-            <pubDate>Wed, 15 Jul 2026 22:53:51 GMT</pubDate>
+            <title><![CDATA[申铉松：需关注韩美利差收窄对外汇市场的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7981155.d.html</link>
+            <guid>4991286</guid>
+            <pubDate>Thu, 16 Jul 2026 03:07:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万斯指责鹰派蓄意搅黄美伊谈判，力挺对伊外交路线】美国副总统万斯抨击了他口中美国及其他国家的伊朗“鹰派”人士，指责这群人正在破坏特朗普政府与德黑兰方面的谈判进程。万斯称，想要解决霍尔木兹海峡航运遇袭问题，外交手段必不可少，同时他为政府的谈判策略进行辩护。万斯表示：“眼下出现了一种耐人寻味的局面：就在我们努力推进谈判之际，有一批资金极其雄厚的势力不断从中作梗，一心搞垮谈判、阻挠我们达成协议，并试图扭转美国民众的舆论导向。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7920163.d.html</link>
-            <guid>4990833</guid>
-            <pubDate>Wed, 15 Jul 2026 22:47:24 GMT</pubDate>
+            <title><![CDATA[美国将对部分巴西商品加征25%的关税；咖啡和牛肉除外。]]></title>
+            <guid>4991285</guid>
+            <pubDate>Thu, 16 Jul 2026 03:07:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[礼来制药：即将完成收购致幻药物企业Ataibeckley的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkn4497579.d.html</link>
-            <guid>4990832</guid>
-            <pubDate>Wed, 15 Jul 2026 22:46:02 GMT</pubDate>
+            <title><![CDATA[美国贸易代表办公室：美国贸易代表办公室根据《贸易法》第301条对巴西的不合理行为、政策和做法采取行动。]]></title>
+            <guid>4991284</guid>
+            <pubDate>Thu, 16 Jul 2026 03:07:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰首都基辅遭空袭多次传出爆炸声】当地时间16日凌晨0时46分至1时许，新华社记者在乌克兰首都基辅市听到两轮密集爆炸声。记者看到，有两枚导弹在空中发生爆炸。乌空军在社交媒体发文称，俄军向基辅市发射了4枚弹道导弹。基辅市市长克利奇科随后在社交媒体发文说，该市达尔尼茨基区非住宅建筑被导弹碎片击中，斯维亚托申斯基区一处仓库遭袭击。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7917248.d.html</link>
-            <guid>4990831</guid>
-            <pubDate>Wed, 15 Jul 2026 22:44:25 GMT</pubDate>
+            <title><![CDATA[申铉松：美元兑韩元市场延长交易时间并未对无本金交割远期外汇市场的交易量产生显著影响。]]></title>
+            <guid>4991283</guid>
+            <pubDate>Thu, 16 Jul 2026 03:06:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[必和必拓：预计全年铜产量165万至180万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1136927.d.html</link>
-            <guid>4990825</guid>
-            <pubDate>Wed, 15 Jul 2026 22:40:45 GMT</pubDate>
+            <title><![CDATA[【极氪9X五座版取消线下发布会，直接开定】极氪官宣9X五座版将于7月28日上午10时直接开定，不再举办线下发布会。据统计，仅今年前5个月，国内汽车发布会已超千场，单月最高达100余场。（大河财立方）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1203363.d.html</link>
+            <guid>4991282</guid>
+            <pubDate>Thu, 16 Jul 2026 03:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[必和必拓：第四季度铜产量491900吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7912752.d.html</link>
-            <guid>4990824</guid>
-            <pubDate>Wed, 15 Jul 2026 22:40:17 GMT</pubDate>
+            <title><![CDATA[美国将于7月22日起对部分巴西商品加征25%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1201856.d.html</link>
+            <guid>4991280</guid>
+            <pubDate>Thu, 16 Jul 2026 03:05:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦航空管理局解除达拉斯沃思堡机场地面停飞令。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkk7715224.d.html</link>
-            <guid>4990823</guid>
-            <pubDate>Wed, 15 Jul 2026 22:37:49 GMT</pubDate>
+            <title><![CDATA[申铉松：很难用货币政策控制房价。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7975649.d.html</link>
+            <guid>4991276</guid>
+            <pubDate>Thu, 16 Jul 2026 03:03:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：奥巴马做了非常糟糕的事情，他是当前伊朗地区危机的原因，他给了伊朗钱，并签署了一项可怕的协议。]]></title>
-            <guid>4990822</guid>
-            <pubDate>Wed, 15 Jul 2026 22:36:49 GMT</pubDate>
+            <title><![CDATA[【集邦咨询: 预估陪伴型人形机器人2030年产值达11亿美元】集邦咨询最新发布的机器人产业研究显示，陪伴型机器人已从早期的养老照护陪伴、疗愈设计，拓展至近年来的真人化互动和情感陪伴。随着全球人口结构走向老龄化、少子化，且独居人口持续增加，陪伴型人形机器人需求获得快速崛起的“陪伴经济”支撑，预估其产值将于2030年达到11亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7975112.d.html</link>
+            <guid>4991275</guid>
+            <pubDate>Thu, 16 Jul 2026 03:02:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【执行基金信息披露新规，多只公募产品二季报首次披露长期业绩】2026年基金二季报是公募基金信息披露新规落地后的首批定期报告，成立期限满足新规要求的公募基金在二季报中首次披露过去7年、10年的长期业绩。业内人士表示，在信息披露、绩效考核等引导下，公募基金行业的长期价值导向愈发凸显。7月15日，中欧鼎利债券发布二季报，首次披露近7年净值增长率；7月14日，平安基金发布旗下多只产品的二季报，平安策略先锋混合、平安行业先锋混合等均披露了过去7年、10年的净值增长率。此外，华富基金、长城基金等公司旗下部分产品在二季报中披露了多维度的业绩表现，为投资者了解产品中长期业绩提供了便利。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7899246.d.html</link>
-            <guid>4990819</guid>
-            <pubDate>Wed, 15 Jul 2026 22:24:18 GMT</pubDate>
+            <title><![CDATA[【贵州省市场监督管理局党组成员徐刘蔚接受审查调查】中央纪委国家监委网站7月16日通报，据贵州省纪委监委消息：贵州省市场监督管理局党组成员徐刘蔚涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7973724.d.html</link>
+            <guid>4991274</guid>
+            <pubDate>Thu, 16 Jul 2026 03:01:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国中情局任命史蒂夫·布克拉蒂担任首席安全官、迈克尔·马尔科特担任首席财务官。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7898733.d.html</link>
-            <guid>4990818</guid>
-            <pubDate>Wed, 15 Jul 2026 22:23:41 GMT</pubDate>
+            <title><![CDATA[【美国正式对DRAM设备及其下游产品和组件（II）启动337调查，三星电子、谷歌、英伟达等为列名被告】据中国贸易救济信息网，7月15日，  美国国际贸易委员会（ITC）投票决定对特定动态随机存取存储器（DRAM）设备及其下游产品和组件（II）启动337调查（调查编码：337-TA-1511）。]]></title>
+            <guid>4991273</guid>
+            <pubDate>Thu, 16 Jul 2026 03:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美防长下令30岁以上军人每年检测睾酮水平】美国国防部长赫格塞思于周三宣布，军队将每年组织官兵开展睾酮水平检测。针对这项近年愈发受关注的健康议题，美方出台了重大政策调整。根据新规，30周岁及以上军人每年例行体检时，都需完成睾酮筛查；30岁以下官兵可自愿检测。经诊断存在睾酮缺乏问题的人员，可自主选择接受睾酮替代疗法。赫格塞思在社交平台X发布视频称：“随着年龄增长，人体睾酮水平通常会自然下降。”睾酮水平偏低已成为美军重点关注的健康问题，特种作战部队尤为突出。高强度压力、超负荷体能训练，再加上热量摄入不足，都可能造成睾酮指标下滑，相关研究仍在持续推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1121969.d.html</link>
-            <guid>4990817</guid>
-            <pubDate>Wed, 15 Jul 2026 22:23:06 GMT</pubDate>
+            <title><![CDATA[【美国务院批准向沙特出售近20亿美元武器装备】美国国务院15日发表声明称，已批准一项面向沙特阿拉伯“可能的对外军售”，涉及“先进精确杀伤性武器系统及相关装备”，总价预计为19.6亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1196288.d.html</link>
+            <guid>4991272</guid>
+            <pubDate>Thu, 16 Jul 2026 03:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本工程机械制造商小松将在巴拿马设立零部件仓库。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1120321.d.html</link>
-            <guid>4990816</guid>
-            <pubDate>Wed, 15 Jul 2026 22:21:03 GMT</pubDate>
+            <title><![CDATA[【美国ITC发布对外国制造的半导体器件及其下游产品和组件的337部分终裁】7月15日，美国国际贸易委员会（ITC）发布公告称，对特定外国制造的半导体器件及其下游产品和组件作出337部分终裁：对本案行政法官于2026年6月16日作出的初裁（No.71）不予复审，即基于和解，终止本案对列名被告美国Apple, Inc.的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7972285.d.html</link>
+            <guid>4991271</guid>
+            <pubDate>Thu, 16 Jul 2026 02:59:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗革命卫队发言人：敌人不要妄想能够维持当前冲突态势或拖入消耗战。伊朗现阶段行动重点是摧毁美军在本地区的进攻性军事设施，下一阶段行动将在此之后展开。]]></title>
-            <guid>4990814</guid>
-            <pubDate>Wed, 15 Jul 2026 22:19:12 GMT</pubDate>
+            <title><![CDATA[【联合国秘书长古特雷斯抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议】16日上午，联合国秘书长古特雷斯乘机抵达上海浦东国际机场。他将出席7月17日至20日在上海举行的2026世界人工智能大会暨人工智能全球治理高级别会议。古特雷斯秘书长曾多次呼吁强化人工智能全球治理。近年来，联合国设立全球人工智能治理对话和国际人工智能科学小组两项机制，为各国加强沟通、凝聚共识、拓展合作提供了重要平台。（央视新闻）]]></title>
+            <guid>4991270</guid>
+            <pubDate>Thu, 16 Jul 2026 02:59:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stripe Inc.和私募股权公司Advent寻求以逾500亿美元收购金融科技先行者贝宝。贝宝一直在与顾问合作，评估战略选项。]]></title>
-            <guid>4990812</guid>
-            <pubDate>Wed, 15 Jul 2026 22:16:55 GMT</pubDate>
+            <title><![CDATA[【中欧班列（西安）上半年累计开行超3000列 同比增长8.3%】从国铁西安局了解到，今年1—6月，中欧班列（西安）开行3310自然列，同比增长8.3%。其中：中欧方向开行2858列，中亚方向开行452列；运送货物总重375.3万吨，同比增长6.2%；发送31.8万标箱，同比增长2.2%；开行量、货运量、重箱率多项核心指标连续8年领跑全国。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7970283.d.html</link>
+            <guid>4991267</guid>
+            <pubDate>Thu, 16 Jul 2026 02:58:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一枚美军导弹第二次袭击了伊朗锡里克周边区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1115496.d.html</link>
-            <guid>4990811</guid>
-            <pubDate>Wed, 15 Jul 2026 22:15:02 GMT</pubDate>
+            <title><![CDATA[【黄仁勋日本行感谢30年前“救命恩人” 传英伟达或与日本AI国家队结盟】据报道，英伟达CEO黄仁勋7月15日前往日本东京，出席英伟达与日本游戏大厂世嘉（SEGA）合作30周年的庆祝活动。他在活动上会见了世嘉前CEO入交昭一郎和游戏设计师铃木裕，感谢他们在1995年提供的500万美元投资。这笔投资使英伟达免于破产，]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1193510.d.html</link>
+            <guid>4991266</guid>
+            <pubDate>Thu, 16 Jul 2026 02:57:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦航空管理局因人员短缺，延长达拉斯沃思堡机场地面停飞令。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkn4476206.d.html</link>
-            <guid>4990810</guid>
-            <pubDate>Wed, 15 Jul 2026 22:10:15 GMT</pubDate>
+            <title><![CDATA[申铉松：需要对实体经济状况进行更全面的评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4451172.d.html</link>
+            <guid>4991265</guid>
+            <pubDate>Thu, 16 Jul 2026 02:56:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[基辅多处发生爆炸，接连传出爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7887581.d.html</link>
-            <guid>4990809</guid>
-            <pubDate>Wed, 15 Jul 2026 22:09:52 GMT</pubDate>
+            <title><![CDATA[【四方光电、高德红外等在武汉成立芯微传感科技公司】天眼查App显示，7月13日，武汉光谷芯微传感科技有限公司成立，法定代表人为施维轩，注册资本500万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广、物联网技术研发、企业管理咨询等。股东信息显示，该公司由武汉汇科智感科技合伙企业（有限合伙）、武汉光谷新技术产业投资有限公司、武汉华工新高理电子有限公司、四方光电（688665）、高德红外（002414）等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1190574.d.html</link>
+            <guid>4991263</guid>
+            <pubDate>Thu, 16 Jul 2026 02:55:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰首都遭弹道导弹袭击，乌克兰空军预警更多导弹即将来袭。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1111272.d.html</link>
-            <guid>4990808</guid>
-            <pubDate>Wed, 15 Jul 2026 22:09:46 GMT</pubDate>
+            <title><![CDATA[申铉松：人工智能领域的进展仍将是货币政策的关键因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7966276.d.html</link>
+            <guid>4991262</guid>
+            <pubDate>Thu, 16 Jul 2026 02:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗媒体：伊朗南部阿巴斯港以东听到两声爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1109493.d.html</link>
-            <guid>4990807</guid>
-            <pubDate>Wed, 15 Jul 2026 22:07:43 GMT</pubDate>
+            <title><![CDATA[【荷兰高温期间两周内超额死亡人数超900】荷兰国家公共卫生与环境研究所15日说，6月22日至7月5日的两周内，荷兰超额死亡人数达到911人，高温“极有可能”是导致超额死亡的原因之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7964252.d.html</link>
+            <guid>4991259</guid>
+            <pubDate>Thu, 16 Jul 2026 02:53:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国职业棒球纽约洋基队，正与阿波罗全球管理公司展开深度洽谈，计划融资约30亿美元。]]></title>
-            <guid>4990806</guid>
-            <pubDate>Wed, 15 Jul 2026 22:06:22 GMT</pubDate>
+            <title><![CDATA[【江苏发布高温橙色预警 最高气温可达37℃】江苏省气象台7月16日9时22分继续发布高温橙色预警：预计16日无锡、常州、苏州和南通等地区最高气温可达37℃，南京、镇江、扬州南部和泰州中南部等地区最高气温可达35~36℃。江苏省应急厅（省防减救灾办）、省气象局提醒注意防范。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1184566.d.html</link>
+            <guid>4991256</guid>
+            <pubDate>Thu, 16 Jul 2026 02:50:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[智利政府预计2026年铜均价为每磅5.90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7880705.d.html</link>
-            <guid>4990804</guid>
-            <pubDate>Wed, 15 Jul 2026 22:02:25 GMT</pubDate>
+            <title><![CDATA[【智界V9电磁热控压铸件获行业金奖】7月16日，智界汽车电磁热控一体压铸铸件在2026上海国际压铸展上获得行业金奖，该技术将冷却效率提升约20%，并将78个零件集成为一体，已应用于智界V9的后地板生产中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7666935.d.html</link>
+            <guid>4991253</guid>
+            <pubDate>Thu, 16 Jul 2026 02:47:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[智利政府预计2026年全年平均通胀率为3.6%，此前预估为3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkk7693964.d.html</link>
-            <guid>4990801</guid>
-            <pubDate>Wed, 15 Jul 2026 22:00:57 GMT</pubDate>
+            <title><![CDATA[【伊利股份旗下黑龙江金瀚乳业公司增资至5亿 增幅2400%】天眼查App显示，近日，黑龙江金瀚伊利乳业有限责任公司发生工商变更，注册资本由2000万人民币增至5亿人民币，增幅2400%。该公司成立于2026年5月，法定代表人为段慧斌，经营范围为技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，货物进出口，机械零件、零部件销售，食品销售，食品添加剂生产，食品生产，由伊利股份（600887）全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1178172.d.html</link>
+            <guid>4991252</guid>
+            <pubDate>Thu, 16 Jul 2026 02:46:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[智利政府将2026年国内生产总值增长预期从2.1%下调至1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkk7693578.d.html</link>
-            <guid>4990800</guid>
-            <pubDate>Wed, 15 Jul 2026 22:00:17 GMT</pubDate>
+            <title><![CDATA[申铉松：尽管近期企稳，但韩元依然疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7948200.d.html</link>
+            <guid>4991250</guid>
+            <pubDate>Thu, 16 Jul 2026 02:42:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国总统特朗普返回白宫。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1102245.d.html</link>
-            <guid>4990798</guid>
-            <pubDate>Wed, 15 Jul 2026 21:59:52 GMT</pubDate>
+            <title><![CDATA[【四方光电、高德红外等在武汉成立传感科技公司 注册资本500万】天眼查App显示，近日，武汉光谷芯微传感科技有限公司成立，法定代表人为施维轩，注册资本500万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广、物联网技术研发、企业管理咨询等。股东信息显示，该公司由武汉汇科智感科技合伙企业（有限合伙）、武汉光谷新技术产业投资有限公司、武汉华工新高理电子有限公司、四方光电（688665）、高德红外（002414）等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4437883.d.html</link>
+            <guid>4991249</guid>
+            <pubDate>Thu, 16 Jul 2026 02:41:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中央气象台7月16日06时继续发布高温黄色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1100997.d.html</link>
-            <guid>4990797</guid>
-            <pubDate>Wed, 15 Jul 2026 21:58:30 GMT</pubDate>
+            <title><![CDATA[【B站给新号推荐擦边视频？客服回应：涉违规可举报，未成年人模式将限制内容推送】据媒体报道，多位网友反映，视频平台B站在部分推荐页面中，存在向未成年人推送不当内容的现象。在新注册账号、未登录状态及特定关键词搜索场景下，平台推荐内容及直播间封面出现部分涉及身体局部展示，或带有暗示性标题的情况。 对此，B站官方暂无回应。B站客服则表示：“我们致力于与广大用户共同打造一个健康、文明的网络社区，始终坚决抵制并严格治理包括低俗、软色情在内的各类违规内容。站内的视频都有相关工作人员审核，如果发现视频内容存在问题，可以点击举报，举报后会有相关工作人员进行核实。”客服还表示，如果对首页推荐的内容不感兴趣，可以在首页推荐对应视频右下角点击三个点，选择对应“不感兴趣”的选项。同时，也可以多观看自己喜欢的视频，并对喜欢的视频进行点赞、投币、收藏，推荐系统也会据此不断改善优化。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7947642.d.html</link>
+            <guid>4991247</guid>
+            <pubDate>Thu, 16 Jul 2026 02:41:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中央气象台7月16日06时继续发布暴雨黄色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7876941.d.html</link>
-            <guid>4990796</guid>
-            <pubDate>Wed, 15 Jul 2026 21:58:15 GMT</pubDate>
+            <title><![CDATA[【机构：字节系短剧应用PineDrama二季度下载量环比增长460%】7月16日，Sensor Tower最新数据显示，2026年第二季度，中国非游戏移动应用出海市场延续增长态势，不同赛道和产品间的表现进一步分化。从收入榜来看，短剧应用继续保持领先的商业化能力，Top20产品共有8款短剧应用入围；PictureThis收入环比增长237%，成为本季度增长最快的工具类应用之一，展现出垂类工具应用在海外市场稳健的商业化能力；AI视频生成平台Kling AI（可灵）首次入围收入榜，位列第17名。从下载榜来看，新品快速放量与头部产品持续获客并存，字节跳动旗下PineDrama下载量环比增长460%，NetShort则实现下载量与收入同步增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1170044.d.html</link>
+            <guid>4991246</guid>
+            <pubDate>Thu, 16 Jul 2026 02:40:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗称南部多地遭美军炮击】伊朗南部的霍尔木兹甘省政府当地时间16日表示，当天凌晨，锡里克附近的一处地点遭到美军炮弹袭击。另据伊方16日凌晨消息，伊朗南部格什姆岛遭到美军炮弹袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7872377.d.html</link>
-            <guid>4990795</guid>
-            <pubDate>Wed, 15 Jul 2026 21:54:07 GMT</pubDate>
+            <title><![CDATA[【航天装备板块短线走低，航天环宇跌超6%】航天装备板块短线走低，航天环宇跌超6%，中国卫星、电科蓝天、中天火箭、航天电子等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1169512.d.html</link>
+            <guid>4991245</guid>
+            <pubDate>Thu, 16 Jul 2026 02:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗媒体：伊朗格什姆岛传出爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7871597.d.html</link>
-            <guid>4990794</guid>
-            <pubDate>Wed, 15 Jul 2026 21:53:28 GMT</pubDate>
+            <title><![CDATA[【万斯公开指责以色列政府：试图破坏美伊谈判，让战事无限期持续】据美国《纽约邮报》报道，美国副总统万斯在15日播出的一档播客节目中表示，以色列政府内部有人试图破坏美国与伊朗的谈判，以使战事“无限期”持续下去。美国副总统万斯在15日播出的一档播客节目中接受采访。图源：美媒“我毫不怀疑，以色列政府内部有人试图让我们偏离（与伊朗的）谈判，因为他们想要继续推进军事行动。”万斯称，“我们毫不怀疑，他们的体系内部有一些人正在操纵舆论，试图改变美国公众的看法，让这场战争无限期持续下去。再说一遍，这并非出于任何目的，只是希望战争无限期持续下去。”（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1169469.d.html</link>
+            <guid>4991244</guid>
+            <pubDate>Thu, 16 Jul 2026 02:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[拜耳：发行规模50亿美元的新美元债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1094545.d.html</link>
-            <guid>4990793</guid>
-            <pubDate>Wed, 15 Jul 2026 21:52:39 GMT</pubDate>
+            <title><![CDATA[【贝瑞科技宣布引进华大智造G400-ER纳米孔测序仪】7月15日，贝瑞基因控股子公司福建贝瑞科技有限公司与华大智造正式达成战略合作，贝瑞科技宣布引进3台华大智造G400-ER纳米孔长读长测序平台。目前，贝瑞科技已基于G400-ER平台完成超长建库测序及重测序测试，未来将基于G400-ER测序平台向客户提供超长读长基因组组装整套解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1165854.d.html</link>
+            <guid>4991241</guid>
+            <pubDate>Thu, 16 Jul 2026 02:37:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗军方发言人表示，美国遵守谅解备忘录并在霍尔木兹海峡执行“伊朗规定”是重新开放该航道的唯一途径。]]></title>
-            <guid>4990792</guid>
-            <pubDate>Wed, 15 Jul 2026 21:52:14 GMT</pubDate>
+            <title><![CDATA[申铉松：在下次政策会议上保留所有选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1165659.d.html</link>
+            <guid>4991240</guid>
+            <pubDate>Thu, 16 Jul 2026 02:37:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗媒体：美军弹药于周三击中伊朗南部锡里克周边地带。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7869765.d.html</link>
-            <guid>4990791</guid>
-            <pubDate>Wed, 15 Jul 2026 21:51:48 GMT</pubDate>
+            <title><![CDATA[日本财务大臣片山：GPIF将每年评估基本投资组合，相关假设包括因日本增长战略效果而可能迎来重大转折点的潜在增长。]]></title>
+            <guid>4991238</guid>
+            <pubDate>Thu, 16 Jul 2026 02:35:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[基辅官员提醒民众：请待在安全区域，敌方正使用弹道导弹袭击本市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkq1093135.d.html</link>
-            <guid>4990790</guid>
-            <pubDate>Wed, 15 Jul 2026 21:51:30 GMT</pubDate>
+            <title><![CDATA[【报告强调所谓南海仲裁裁决与国际司法实践背道而驰】《关于南海仲裁案裁决的法律批驳——“南海仲裁案裁决不是国际法”》7月16日发布。报告围绕仲裁管辖权、实体规则适用、裁决效力三条主线展开分析，论证了该裁决与国际司法实践背道而驰。报告指出，南海仲裁案系菲律宾单方面提起，从程序到实体均存在根本性缺陷，仲裁庭所作所谓裁决与国际法精神背道而驰，本质上是一场借法律之名的政治操弄，仲裁庭本身沦为美国、日本等域外势力的地缘政治工具，事实认定错误，适用法律不当，是一个在政治和金钱的操控下的一面之词。管辖权问题是本案最大的法律障碍。中菲已通过双边条约等多项文件确认，以双边协商谈判方式处理南海争议，排除第三方仲裁程序的适用。菲律宾将其刻意包装为对《联合国海洋法公约》条文的解释与适用问题，误导国际舆论。中国早在2006年就依据公约发表声明，将涉及海域划界等类别的争端排除于公约强制解决程序之外。仲裁庭对此置若罔闻，强行将不在受理范围内的争议纳入管辖，自始不具备司法管辖权基础。报告指出，仲裁庭实体审理环节还存在系统性法律适用错误。仲裁庭无视南沙群岛在地理、历史和法律上构成一个整体的基本事实，肆意肢解中国对南沙群岛的领土主权，将南沙群岛人为切割为互不关联的零散岛礁，机械适用、歪曲公约条款，严重侵犯中国对南沙群岛的主权和领土完整。仲裁庭采信多处未经交叉核实、来源单一的证据材料，违背举证规则，丧失中立裁判立场。裁决文本内部前后抵牾、结论武断，专业性存在重大瑕疵，与国际司法实践背道而驰。报告强调，南海仲裁案裁决由一个不具有司法管辖权的仲裁庭作出，在适用法律上存在根本性缺陷，严重违背公平正义，在国际法上自始不具有任何效力。仲裁庭个别仲裁员从始至终放弃独立判断，迎合其背后政治势力的指示和要求，完全丧失公信力。实体问题裁决更是在适用法律上漏洞百出、错误连篇，违背国际法，是非法和无效的。报告复盘南海局势揭示，十年过去，该裁决不仅未能解决争议、促进和平，反而阻碍南海区域国际法治建设进程，成为国际法发展史上的一股逆流。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7654660.d.html</link>
+            <guid>4991237</guid>
+            <pubDate>Thu, 16 Jul 2026 02:35:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国贸易代表格里尔谈美墨加协定：与墨西哥的谈判进展顺利，与墨西哥合作收紧原产地规则。]]></title>
-            <guid>4990789</guid>
-            <pubDate>Wed, 15 Jul 2026 21:50:47 GMT</pubDate>
+            <title><![CDATA[【伊朗称打击驻科威特和约旦美军目标】据伊朗媒体今天（7月16日）报道，伊朗革命卫队使用导弹和无人机打击了科威特的阿里·萨利姆美军基地，打击目标包括雷达预警系统和美军人员。此外，伊朗军队打击了约旦的阿兹拉克美军基地，打击目标包括军方通讯系统和燃料存储设施。 （CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7654303.d.html</link>
+            <guid>4991236</guid>
+            <pubDate>Thu, 16 Jul 2026 02:35:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田越南总经理称，本田汽车计划最早于9月在越南启动UC3电动摩托车的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxxkr7866471.d.html</link>
-            <guid>4990788</guid>
-            <pubDate>Wed, 15 Jul 2026 21:48:32 GMT</pubDate>
+            <title><![CDATA[片山：如有需要，可考虑调整GPIF投资组合。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7938066.d.html</link>
+            <guid>4991234</guid>
+            <pubDate>Thu, 16 Jul 2026 02:34:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田最快将于9月在越南生产电动踏板摩托车。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1219780.d.html</link>
-            <guid>4990787</guid>
-            <pubDate>Wed, 15 Jul 2026 21:47:17 GMT</pubDate>
+            <title><![CDATA[【国泰海通资管：出海依然是医药板块逻辑最强投资主线】国泰海通资管日前表示，2026年上半年，中国创新药对外BD交易总金额与首付款规模再创新高，出海依然是医药板块逻辑最强的投资主线。中国创新药在跨国药企BD交易中的来源占比大幅提升，国际认可度持续强化。行至下半年，随着9月世界肺癌大会（WCLC）、10月欧洲内科肿瘤学会（ESMO）及12月ASH大会等全球重磅学术会议接踵而至，多个多抗、ADC核心管线的临床数据将密集披露，板块有望在临床数据兑现与核心品种海外申报关键节点的共振下，迎来持续的行业催化与估值修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4429313.d.html</link>
+            <guid>4991233</guid>
+            <pubDate>Thu, 16 Jul 2026 02:33:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国炮弹击中伊朗南部锡里克附近区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtan7813052.d.html</link>
-            <guid>4990785</guid>
-            <pubDate>Wed, 15 Jul 2026 21:42:45 GMT</pubDate>
+            <title><![CDATA[日本财务大臣片山：了解到GPIF每年审查基本投资组合的规定没有变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1160313.d.html</link>
+            <guid>4991232</guid>
+            <pubDate>Thu, 16 Jul 2026 02:33:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国批准向沙特阿拉伯出售价值19.6亿美元的武器系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtan7811904.d.html</link>
-            <guid>4990784</guid>
-            <pubDate>Wed, 15 Jul 2026 21:41:07 GMT</pubDate>
+            <title><![CDATA[日本财务大臣片山：GPIF会在适当的时候审核投资组合。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4428866.d.html</link>
+            <guid>4991231</guid>
+            <pubDate>Thu, 16 Jul 2026 02:32:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国前总统拜登周三发布视频声明，11月中期选举结束后将出版发行一本书。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1211200.d.html</link>
-            <guid>4990783</guid>
-            <pubDate>Wed, 15 Jul 2026 21:38:08 GMT</pubDate>
+            <title><![CDATA[日本财务大臣片山：寻求鼓励对国内资产的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7934720.d.html</link>
+            <guid>4991230</guid>
+            <pubDate>Thu, 16 Jul 2026 02:31:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院就拟议对外军售武器装备发布声明：本次拟出售装备为先进精确打击武器系统，英国BAE系统公司将成为沙特军售项目主承包商。]]></title>
-            <guid>4990782</guid>
-            <pubDate>Wed, 15 Jul 2026 21:33:35 GMT</pubDate>
+            <title><![CDATA[现代汽车集团：将收购软银所持波士顿动力的全部股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7932844.d.html</link>
+            <guid>4991228</guid>
+            <pubDate>Thu, 16 Jul 2026 02:30:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果被指控在“隐藏我的电子邮件”功能上欺骗消费者。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7981388.d.html</link>
-            <guid>4990781</guid>
-            <pubDate>Wed, 15 Jul 2026 21:32:13 GMT</pubDate>
+            <title><![CDATA[申铉松：第二季度GDP数据将进行全面评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1155157.d.html</link>
+            <guid>4991227</guid>
+            <pubDate>Thu, 16 Jul 2026 02:29:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦参议员汤姆·科顿：伊朗、真主党、哈马斯以及胡塞武装，谈判时毫无诚意。他们惯于撒谎、欺诈、撕毁协议。当该政权高呼消灭美国时，我们应当相信他们此言发自内心。特朗普在用德黑兰唯一听得懂的语言与之对话，那就是武力。]]></title>
-            <guid>4990780</guid>
-            <pubDate>Wed, 15 Jul 2026 21:19:38 GMT</pubDate>
+            <title><![CDATA[申铉松：核心通胀率可能略高于5月预测的2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7929503.d.html</link>
+            <guid>4991224</guid>
+            <pubDate>Thu, 16 Jul 2026 02:27:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国驻伊拉克埃尔比勒领馆附近遭无人机袭击】当地时间15日晚，位于伊拉克北部库尔德自治区（库区）首府埃尔比勒的美国驻埃尔比勒领事馆附近遭无人机袭击。伊拉克库区安全部门消息人士称，库区防空部队当晚在美国驻埃尔比勒领事馆上空拦截了3架无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1185299.d.html</link>
-            <guid>4990778</guid>
-            <pubDate>Wed, 15 Jul 2026 21:12:58 GMT</pubDate>
+            <title><![CDATA[申铉松：整体通胀率可能与5月预测的2.7%基本一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4423458.d.html</link>
+            <guid>4991223</guid>
+            <pubDate>Thu, 16 Jul 2026 02:27:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美军对一艘驶往伊朗的油轮发射“地狱火”导弹】当地时间7月15日，美国中央司令部表示，美军针对伊朗实施了海上封锁措施，使一艘试图驶向伊朗港口的空载油轮丧失了航行能力。美国中央司令部部队监测到一艘油轮“M/T Belma”号正经由国际水域驶向哈尔克岛。该商船在试图违反美方封锁令时，无视了多次警告。一架美军飞机向该船发射“地狱火”导弹，使其丧失了航行能力。目前，该船已停止驶往伊朗。美方称，自美国东部时间7月14日16时恢复对往返伊朗港口及沿海地区船只的海上封锁以来，首个24小时内已引导两艘配合要求的商船改变航线，并击停一艘“不服从规定”的船只。美军表示将继续保持警戒，确保封锁措施执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7959790.d.html</link>
-            <guid>4990777</guid>
-            <pubDate>Wed, 15 Jul 2026 21:11:24 GMT</pubDate>
+            <title><![CDATA[【五矿商会与美国负责任商业联盟（RBA）就加速推进合作达成共识】7月15日，五矿商会会长江辉会见到访的美国负责任商业联盟（RBA）首席执行官Rob Lederer及首席战略官Tyler Gillard一行，双方深入交流，就共同促进矿产供应链合规可持续发展明确具体合作举措。双方将加快推进联合评估、推广上游风险识别和管理、组织能力建设等系列工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyk1151039.d.html</link>
+            <guid>4991219</guid>
+            <pubDate>Thu, 16 Jul 2026 02:26:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  希腊政府反对欧盟新一轮对俄制裁，意在保护本国航运企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7957918.d.html</link>
-            <guid>4990776</guid>
-            <pubDate>Wed, 15 Jul 2026 21:09:35 GMT</pubDate>
+            <title><![CDATA[申铉松：需求侧压力将在经济增长中发挥重要作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4421131.d.html</link>
+            <guid>4991216</guid>
+            <pubDate>Thu, 16 Jul 2026 02:25:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软Xbox裁撤马里兰州ZeniMax Media 379个岗位，洛克维尔的贝塞斯达游戏工作室总部受到波及。]]></title>
-            <guid>4990775</guid>
-            <pubDate>Wed, 15 Jul 2026 21:07:32 GMT</pubDate>
+            <title><![CDATA[申铉松：出口、投资、消费均保持强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7925610.d.html</link>
+            <guid>4991214</guid>
+            <pubDate>Thu, 16 Jul 2026 02:25:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国与伊拉克将宣布总额600亿美元的商业合作协议，特朗普调整美伊关系重心，由军事层面转向经贸领域。]]></title>
-            <guid>4990774</guid>
-            <pubDate>Wed, 15 Jul 2026 21:07:05 GMT</pubDate>
+            <title><![CDATA[申铉松：构成韩国GDP的各个组成部分都表现强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7924757.d.html</link>
+            <guid>4991213</guid>
+            <pubDate>Thu, 16 Jul 2026 02:24:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【King Street对旗下对冲基金赎回设限】King Street Capital Management告知客户，公司正大幅限制旗下主要对冲基金的赎回，并把希望退出的投资者转入一个单独载体，由后者逐步出售资产。这只已有31年历史的基金因业绩平淡、客户流失以及资深员工离职而处境艰难。目前其管理规模不足80亿美元，低于十多年前的200亿美元。King Street此举“将使我们能够有序管理和清算资产，并在最具吸引力的退出时点变现头寸，”61岁的创始人Brian Higgins周三在致投资者信中写道。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1177480.d.html</link>
-            <guid>4990773</guid>
-            <pubDate>Wed, 15 Jul 2026 21:06:01 GMT</pubDate>
+            <title><![CDATA[【2026WAIC镇馆之宝公布：阶跃智能体手机、中科曙光AI超集群等入选】2026世界人工智能大会十大镇馆之宝正式公布，阶跃大模型原生智能体手机STEPX Neo、蚂蚁灵波“机器人智慧药房”、中科曙光全国产十万卡AI超集群、智元远征A3 Ultra、阿里真武M890 × 磐久AL128超节点、讯飞AI眼镜、大瓦特·云睿”配电网规划智能体、MatwingsVenus （晓鹜 ）对话式蛋白质设计智能体、中兴OEX超节点、百度搭子等入选。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiyh4419551.d.html</link>
+            <guid>4991212</guid>
+            <pubDate>Thu, 16 Jul 2026 02:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿根廷在世界杯半决赛中以2-1击败英格兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7951248.d.html</link>
-            <guid>4990770</guid>
-            <pubDate>Wed, 15 Jul 2026 21:03:51 GMT</pubDate>
+            <title><![CDATA[【上海交通大学与灵心巧手共建具身灵巧操作联合实验室】7月9日，上海交通大学与灵心巧手（北京）科技股份有限公司在上海交通大学闵行校区正式签署合作协议，共建“上海交通大学-灵心巧手具身灵巧操作联合实验室”。双方将围绕具身智能灵巧操作关键技术开展合作，重点推进灵巧操作数据体系构建、仿真数据生成与数字孪生、具身智能灵巧操作策略学习以及灵巧手硬件与算法协同优化等。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiym7923214.d.html</link>
+            <guid>4991210</guid>
+            <pubDate>Thu, 16 Jul 2026 02:23:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美军称在阿拉伯湾扣押一艘空载油轮】美国中央司令部发文表示，美军于7月15日针对伊朗实施海上封锁行动，截停了一艘意图驶往伊朗港口、航行于阿拉伯湾的空载油轮。通报称，悬挂库拉索船旗的“贝尔玛号”油轮当时正于国际水域驶向哈尔克岛，且无视美方多次警告。通报写道：“美军将保持高度戒备，随时准备确保相关规定得到全面遵守。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7948571.d.html</link>
-            <guid>4990768</guid>
-            <pubDate>Wed, 15 Jul 2026 21:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗一儿童医院附近遭美军袭击】据伊朗媒体报道，美军对伊朗发动一天内第二轮袭击后，当地时间7月15日晚至今天（7月16日）凌晨，伊朗东南部锡斯坦－俾路支斯坦省的科纳拉克、南部霍尔木兹甘省的阿巴斯港等地传出爆炸声。据伊朗国家电视台报道，美军还对伊朗西南部胡齐斯坦省首府阿瓦士发动袭击，多枚炮弹击中当地一家儿童癌症专科医院附近区域。该医院目前正在进行临时疏散，医院方面联系患儿家长将患儿带离医院。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1169621.d.html</link>
-            <guid>4990767</guid>
-            <pubDate>Wed, 15 Jul 2026 20:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国军方：将加强对伊朗的封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtan7778469.d.html</link>
-            <guid>4990766</guid>
-            <pubDate>Wed, 15 Jul 2026 20:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国军方称“贝尔玛”号油轮不遵守封锁规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7943836.d.html</link>
-            <guid>4990764</guid>
-            <pubDate>Wed, 15 Jul 2026 20:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国军方：已瘫痪悬挂库拉索旗帜的“贝尔玛”号油轮，该船当时正穿越国际水域驶向哈尔克岛。]]></title>
-            <guid>4990763</guid>
-            <pubDate>Wed, 15 Jul 2026 20:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国军方：美军在阿拉伯湾扣留一艘违规船只。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7942932.d.html</link>
-            <guid>4990762</guid>
-            <pubDate>Wed, 15 Jul 2026 20:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国军方：一艘受损的空载油轮正试图驶向阿拉伯湾内的伊朗港口。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1166580.d.html</link>
-            <guid>4990761</guid>
-            <pubDate>Wed, 15 Jul 2026 20:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月16日美股成交额前20：传苹果寻求收购AI芯片企业】周三美股成交额第4名苹果收高4.01%，成交197.68亿美元。据媒体报道，苹果正寻求收购人工智能芯片企业。据知情人士透露，苹果正寻求收购芯片公司，以加强其AI服务器芯片的研发工作。近几个月，该公司已与银行家就可能的交易进行交流，还接触了半导体初创企业，了解其出售意向。苹果此次收购行动，源于内部AI服务器存在性能问题。另据报道，苹果已准备推进数十亿美元级收购，此前以20亿美元收购Q.Ai，为其史上第二大收购案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7941757.d.html</link>
-            <guid>4990758</guid>
-            <pubDate>Wed, 15 Jul 2026 20:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克：2026年，公司就组织架构调整确认了3.85亿美元的预计员工遣散费。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtan7776660.d.html</link>
-            <guid>4990757</guid>
-            <pubDate>Wed, 15 Jul 2026 20:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超700家上市公司半年报预喜 机构紧盯业绩“含金量”】A股2026年半年度业绩预告正在火热进行。数据显示，截至7月15日，A股已有超1600家上市公司对外披露2026年半年度业绩预告，其中716家预喜（含预增、续盈、略增、扭亏，下同），268家预计净利润同比增幅翻倍。从行业分布看，电子、基础化工、有色金属等行业预喜公司数量居前，AI产业链与传统资源品涨价成为业绩增长与机构调研的共同方向。多家机构判断，下半年市场核心逻辑正从估值抬升全面切换至业绩兑现，基本面将成为市场定价的关键。]]></title>
-            <guid>4990756</guid>
-            <pubDate>Wed, 15 Jul 2026 20:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基提请议会任命科列茨基为总理。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7940049.d.html</link>
-            <guid>4990755</guid>
-            <pubDate>Wed, 15 Jul 2026 20:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克：2026财年第四季度，依据《国际紧急经济权力法》加征的关税在合并损益表的销售成本中带来9.86亿美元的回收收益。]]></title>
-            <guid>4990754</guid>
-            <pubDate>Wed, 15 Jul 2026 20:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克：首席执行官埃利奥特·希尔2026财年总薪酬为3630万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtat7937921.d.html</link>
-            <guid>4990753</guid>
-            <pubDate>Wed, 15 Jul 2026 20:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克：截至2026年5月31日，已收到3.02亿美元《国际紧急经济权力法》关税退款，尚有6.84亿美元未结清。]]></title>
-            <guid>4990752</guid>
-            <pubDate>Wed, 15 Jul 2026 20:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗多地传出爆炸声】伊朗胡齐斯坦省副省长当地时间15日晚表示，该省首府阿瓦士周边4个地点遭到美军袭击。截至目前，袭击未造成人员伤亡。15日晚，另据当地消息人士称，伊朗东南部锡斯坦-俾路支斯坦省的科纳拉克传出多声爆炸声，爆炸原因是美军对当地发动袭击。此外，伊朗南部阿巴斯港附近一个地点遭到美军炮弹袭击，传出两声爆炸声。据伊朗方面15日晚消息，伊朗东南部锡斯坦-俾路支斯坦省的恰巴哈尔传来3声爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihxtas1157664.d.html</link>
-            <guid>4990748</guid>
-            <pubDate>Wed, 15 Jul 2026 20:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副总统万斯：如果有民众说我们处理爱泼斯坦文件公布一事失当，我认罪。我们确实处理得一塌糊涂。]]></title>
-            <guid>4990747</guid>
-            <pubDate>Wed, 15 Jul 2026 20:44:36 GMT</pubDate>
+            <title><![CDATA[【最高检：上半年起诉破坏环境资源犯罪1.4万人】从最高人民检察院获悉，2026年1至6月，起诉破坏环境资源犯罪1.4万人，办理公益诉讼2.4万件。联合生态环境部召开检察机关服务保障长江经济带高质量发展研讨会，部署开展长江经济带水污染防治检察公益诉讼专项监督活动。会同最高人民法院制定办理非法占用耕地案件司法解释，起诉非法占用农用地犯罪1084人。深入开展检察公益诉讼服务绿色低碳发展监督活动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-16/detail-inihyiye7641486.d.html</link>
+            <guid>4991208</guid>
+            <pubDate>Thu, 16 Jul 2026 02:23:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
