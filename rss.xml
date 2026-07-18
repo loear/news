@@ -4,11 +4,151 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 18 Jul 2026 10:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 11:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【报告：世界模型的竞争将体现在数据管线、仿真环境、评测框架、训练工具等方面】毕马威7月18日在2026世界人工智能大会上发布的《跨越奇点：世界模型如何重塑具身智能产业与商业新范式》报告提到，尽管世界模型尚无统一定义，关于其能力边界已逐渐形成较为一致的认识，即世界模型应能学习环境规律、预测未来状态、推演动作影响，服务于智能体规划与决策。世界模型竞争将不只体现在模型参数和生成效果上，也体现在数据管线、仿真环境、评测框架、训练工具和接口标准上。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftix8289549.d.html</link>
+            <guid>4995501</guid>
+            <pubDate>Sat, 18 Jul 2026 11:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合】GPU厂商摩尔线程联合创始人、执行总裁王东说，“大模型的发展在国内外都非常迅速，现在头部厂商平均每两个月完成一次前沿基础模型版本迭代，而在模型的调用成本上，我们发现，中国前沿基础模型较国外同等智力水平模型有明显成本优势，中国模型性价比更优，这也恰恰说明模型公司在有限算力的情况下，对如何提升模型效率、价格效率以及训练成本方面做了非常多的工作。”王东指出，推理市场没有“万能芯片”，而是“解决方案”的组合，“推理市场的技术应用门槛相对较低，且场景高度碎片化，不存在任何一家公司能够垄断所有细分应用场景；没有绝对完美的单一硬件，通过灵活的软硬协同，每个模型都能找到最适合它的硬件组合，实现成本与性能的最佳平衡。市场将涌现大量ISP公司，为MaaS提供商或终端客户提供更具性价比，更灵活的定制化推理服务。”]]></title>
+            <guid>4995500</guid>
+            <pubDate>Sat, 18 Jul 2026 11:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比利时禁止进口以色列在被占领巴勒斯坦领土上建立的定居点的产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftkc0892614.d.html</link>
+            <guid>4995498</guid>
+            <pubDate>Sat, 18 Jul 2026 11:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴林再次拉响警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftiz4115308.d.html</link>
+            <guid>4995497</guid>
+            <pubDate>Sat, 18 Jul 2026 11:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽埃安关于部分搭载177Ah电池车辆质保服务升级的公告】近期,我们收到行驶里程超过15万公里的AION S部分用户反馈动力电池使用出现故障的问题,给大家造成了不便与顾虑,我们深表歉意!广汽埃安高度重视此问题,通过初步调查发现,部分搭载中创新航177Ah磷酸铁锂电池用于营运用途的AION S 车辆出现了电池故障。针对搭载中创新航177Ah磷酸铁锂电池的车型,广汽埃安从即日起采取以下措施:一是将使用该款电池的车辆的电池质保期从8年15万公里延长至8 年30万公里;二是加强电池大数据监测,对于发现的异常情况,我们第一时间联系用户,邀约回店提供免费检测, 根据结果提供免费维修或免费更换电池包服务,广汽埃安全国销售服务网点为用户提供上述服务。三是因电池维修或更换电池包导致车辆营运受影响的,根据国家相关法规,为维修时间超过5天的车主发放补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftix8285924.d.html</link>
+            <guid>4995494</guid>
+            <pubDate>Sat, 18 Jul 2026 11:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高通：与荣耀等生态伙伴深化协作，推动智能体体验和终端的加速落地】2026年世界人工智能大会正在进行中，“从数字屏幕到具身智能——物理世界新范式”荣耀分论坛于17日下午举行。高通公司全球副总裁、中国区研发负责人、IEEE Fellow徐晧博士表示，”智能体之年已至。”徐晧博士以这一判断开篇，系统阐述了智能体浪潮对终端产业带来的底层范式变革。他表示，智能体不仅是交互方式的升级，更是对终端设计理念的重构——设备需要从”被动响应”转向”主动服务”，这对终端感知能力、AI算力、实时连接能力提出了全新要求。为此，高通正通过异构计算架构、端侧感知能力优化、广泛终端产品覆盖等举措，构建以智能体为中心的终端生态，与荣耀等生态伙伴深化协作，推动智能体体验和终端的加速落地。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftiw1504659.d.html</link>
+            <guid>4995490</guid>
+            <pubDate>Sat, 18 Jul 2026 11:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克组建卡车车队穿越叙利亚运输燃料，以绕过霍尔木兹海峡】伊拉克正利用庞大的卡车车队将燃料油运经叙利亚，从而将出口流向从霍尔木兹海峡转移，正迅速将其邻国叙利亚转变为中东最大的出口枢纽。短短几个月内，叙利亚的燃料出口量从零飙升至占中东总出口量的四分之一以上。这些物资由数千辆卡车运送，抵达叙利亚地中海港口大约需要四天时间。在霍尔木兹海峡关闭重创其财政后，伊拉克正寻求巩固其石油收入。除了叙利亚，伊拉克还通过约旦运送满载燃料油的卡车，交易员称少量原油也以同样的方式进行卡车运输。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftkc0882835.d.html</link>
+            <guid>4995487</guid>
+            <pubDate>Sat, 18 Jul 2026 11:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗卫生部门：美国袭击自7月6日起已造成至少50名伊朗人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftix8275111.d.html</link>
+            <guid>4995486</guid>
+            <pubDate>Sat, 18 Jul 2026 11:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本一快递企业用户信息泄露】日本大型物流企业佐川急便18日承认，由于日前在修复系统故障时出现失误，享受其会员服务的约7万名用户信息遭泄露。佐川急便的声明称，由于该公司在系统故障修复作业中出现设置错误，致使其“Smart Club”会员服务的用户的姓名、电子邮箱地址和包裹查询号于15日晚间泄露。“Smart Club”服务会向用户发送包裹预计送达通知，并允许会员自定义送达日期和时间。依照佐川急便的说法，泄露的信息不涉及信用卡和地址；暂未接到有关数据被非法使用的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftix8273984.d.html</link>
+            <guid>4995485</guid>
+            <pubDate>Sat, 18 Jul 2026 11:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶】伊拉克石油部长Basim Mohammed Khudair表示，在美伊敌对行动升级之前，伊拉克通过霍尔木兹海峡和杰伊汉（Ceyhan）管道的石油出口量平均为每天150万桶。伊拉克寻求大幅增加出口，以弥补霍尔木兹海峡关闭造成的财务损失。伊拉克将石油产量目标定为每天700万桶。该战略寻求扩大炼油能力及石油衍生产品的生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftiw1497343.d.html</link>
+            <guid>4995483</guid>
+            <pubDate>Sat, 18 Jul 2026 11:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩南部发生军车爆炸事件，造成一名士兵死亡，爆炸原因尚不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftiw1496956.d.html</link>
+            <guid>4995482</guid>
+            <pubDate>Sat, 18 Jul 2026 11:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网易有道WAIC首展AI耳机OpenPods】7月18日，2026世界人工智能大会（WAIC）现场，网易有道首次公开展出Youdao OpenPods，该设备支持十几种语种实时同传，并具备录音转写、自动生成结构化纪要与思维导图功能。据悉，这款耳机已正式量产，预计8月份正式亮相发布，有道表示OpenPods未来将出海。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniiftix8256648.d.html</link>
+            <guid>4995477</guid>
+            <pubDate>Sat, 18 Jul 2026 11:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海发布首个疑难病例AI诊疗评测基准】7月18日，2026世界人工智能大会医学分论坛在上海徐汇西岸举行。论坛上，上海发布了业界首个针对疑难病例的AI诊疗评测基准，覆盖30个临床专科，专门用于检验医疗大模型处理复杂病例的真实能力。同时，原有的医疗AI评测体系也更新到5.0版本，新增“原子技能”评测方式，可对AI模型生成的虚假信息进行校正。在基础设施方面，上海市卫生健康行业算力服务中心正式揭牌，打通了从算力供给、数据合成到模型训练、智能应用的全链条。预计到2026年底，上海医疗健康语料库规模将超过2PB，数据准备周期可缩短超六成。论坛还发布了《2026人工智能+卫生健康上海实践》案例集，梳理了AI在临床辅助决策、患者就医、中医智能化、基层公共卫生、医院管理等七大场景的应用经验。目前，上海已获批国家医疗领域人工智能应用中试基地，覆盖全部七大医疗应用场景。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifpaf0989053.d.html</link>
+            <guid>4995475</guid>
+            <pubDate>Sat, 18 Jul 2026 10:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月18日18时36分在塔吉克斯坦（北纬37.70度，东经72.55度）发生5.3级地震，震源深度140千米。]]></title>
+            <guid>4995474</guid>
+            <pubDate>Sat, 18 Jul 2026 10:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西水利厅和广西气象局联合发布山洪灾害气象预警】广西水利厅和广西气象局于7月18日16时联合发布山洪灾害气象预警：预计，7月18日20时至7月19日20时，百色市田林县发生山洪灾害可能性很大（红色预警）；百色市凌云县可能发生山洪灾害（蓝色预警）。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifpac4210236.d.html</link>
+            <guid>4995473</guid>
+            <pubDate>Sat, 18 Jul 2026 10:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒体人批美国被以色列牵着鼻子走】在7月17日公布的视频采访中，美国媒体人塔克·卡尔森表示，过去几十年，自己一直公开为共和党人辩护，但他现在已经被迫被推到了反对共和党人的立场上。他对特朗普允许美国政府被以色列这个中东小国“牵着鼻子走”，让美国被迫卷入与伊朗的战争而感到“愤慨”。卡尔森还说，他在美以联合打击伊朗之后与特朗普曾约定会面，但他并没有赴约，并在特朗普打来的电话中，与特朗普进行了“激烈对话”，他直接告诉特朗普“你是美国总统，你不能允许这样的事发生”。 （CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifpaf0984942.d.html</link>
+            <guid>4995472</guid>
+            <pubDate>Sat, 18 Jul 2026 10:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沃尔沃CEO驳斥纳瓦罗涉华言论：中国车企之所以成功 是依靠行之有效的战略】沃尔沃汽车集团首席执行官汉肯·塞缪尔森（Håkan Samuelsson）近日公开反驳美国白宫贸易和制造业高级顾问纳瓦罗对中国汽车制造商的指责。塞缪尔森称，中国车企之所以成功是依靠行之有效的战略，而非所谓不公平竞争。报道称，针对纳瓦罗所谓中国车企正“掠夺全球汽车市场”的说法，塞缪尔森在沃尔沃汽车17日公布第二季度业绩后接受采访时表示：“我们正处于一个全新的竞争格局中，必须尊重那些在电动汽车领域取得成功的企业”。“中国制造商做对了很多事情，”塞缪尔森补充说，他们在电池、软件以及更广泛的汽车产业价值链方面实现了高度垂直整合，“你必须把他们列入新一代行业领军企业的名单，与那些传统领军企业并驾齐驱”。 (环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzy1592951.d.html</link>
+            <guid>4995471</guid>
+            <pubDate>Sat, 18 Jul 2026 10:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为云联合头部金融机构和行业伙伴 共建开放智能体生态】7月18日，2026世界人工智能大会（WAIC）期间，华为云中国工商银行、中国银联、中国邮政储蓄银行等金融客户与伙伴，宣布开启共建行业AI梦工厂·智慧金融专区，沉淀金融行业核心业务场景资产，加速金融智能体规模落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzz8368291.d.html</link>
+            <guid>4995470</guid>
+            <pubDate>Sat, 18 Jul 2026 10:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋外交部：强烈谴责伊朗对巴林、科威特和约旦再次发动的侵略性袭击；重申阿联酋与巴林、科威特和约旦的完全团结，并支持一切有助于维护其安全与稳定的举措。]]></title>
+            <guid>4995469</guid>
+            <pubDate>Sat, 18 Jul 2026 10:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特外交部：我们谴责伊朗针对另一座发电站和海水淡化厂的侵略行为。反复针对重要设施的行为显示出一种侵略性做法，并违反了国际法。科威特保留采取措施维护自身安全、捍卫领土和重要设施的权利。]]></title>
+            <guid>4995468</guid>
+            <pubDate>Sat, 18 Jul 2026 10:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【任泽平团队回应解散VIP群】近日，网红经济学任泽平再陷风波。本周中，任泽平团队已解散VIP群聊。7月18日，记者从任泽平团队助手处获悉，解散群聊是因为“发现有人借我们的群发送诈骗链接以及私自拉群发表违规信息，为保障大家安全，所以不再通过群的方式进行信息通知”。后续可以正常报课，会员权益也都正常交付。记者从多位VIP学员处了解到，解散群聊大概发生在15号，课程仍能正常交付。有学员透露，群聊解散后，每日更新观点在另一个新的链接中发布，但该网页只显示当天的内容而无此前观点。原先圈子中的动态显示已被删除，但录播课程仍然可以查看。 第三方平台数据显示，仅今年开来以来，任泽平单平台上的知识付费课程销量就有2-10万。其中，排名前五的课程均为这个收费2980的年度会员，页面累计销量超8800份。若按照商品标价计算，仅这项收入保守估计就已在2622万元以上。目前该会员服务在微信小店等平台仍可正常购买。（蓝鲸新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzy1590481.d.html</link>
+            <guid>4995467</guid>
+            <pubDate>Sat, 18 Jul 2026 10:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自然资源部与中国气象局联合发布地质灾害橙色预警】自然资源部与中国气象局7月18日18时联合发布橙色地质灾害气象风险预警：2026年7月18日20时至19日20时，安徽西南部、湖北西南部和东部、湖南西部、广西西北部、重庆东南部、贵州东部和南部、云南西部和南部发生地质灾害的风险较高（黄色预警）；重庆东南局部发生地质灾害的风险高（橙色预警）。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzz8364312.d.html</link>
+            <guid>4995466</guid>
+            <pubDate>Sat, 18 Jul 2026 10:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陈吉宁会见图灵奖得主、Openmind研究院首席科学家理查德·萨顿】上海市委书记陈吉宁今天会见了来沪参加2026世界人工智能大会暨人工智能全球治理高级别会议的图灵奖得主、Openmind研究院首席科学家理查德·萨顿一行。陈吉宁介绍了上海人工智能发展相关情况。他说，习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表主旨讲话，就携手构建公正合理的全球人工智能治理体系提出4点意见，为我们更加健康、安全、有序发展人工智能指明了方向。人工智能是上海重点发展的三大先导产业之一，我们秉持以人为本、向上向善理念，保持战略敏捷、坚持久久为功，着力加强基础研究，培育优化创新生态，加快建设人工智能发展和治理创新高地。萨顿先生是人工智能领域知名学者，欢迎抓住难得的历史性机遇，把自身研究优势同上海的创新优势、人才优势、生态优势等更加紧密结合起来，在加强基础研究、人才交流培养等方面深化沟通对接和开放合作，让人工智能这一前沿技术更好造福人类社会。上海将持续营造开放包容的创新生态，提供高效便利的对接服务，更好支持全球科学家和各路人才在上海这座城市创新创业、成就梦想。理查德·萨顿表示，人工智能建立在人类文明发展、人类持续学习基础上，开源开放、合作共享、互利共赢是推动技术发展的重要前提。此次上海之行同各方面研究人员和研发机构开展了深度交流，充分感受到上海这座城市发展人工智能的创新活力与优良生态。将秉持“理解智能并与世界分享”宗旨，深化学术交流，加强经验互鉴，促进国际合作，携手探索人工智能教育创新与基础研究发展。 (上观新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzy1585978.d.html</link>
+            <guid>4995465</guid>
+            <pubDate>Sat, 18 Jul 2026 10:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基据悉考虑撤换乌军总司令】据报道，乌克兰总统泽连斯基正考虑撤换乌克兰武装部队总司令亚历山大·瑟尔斯基，目前外界对后者军事领导能力的批评声浪正日渐高涨。据悉，泽连斯基正在与高级军事指挥官会面，评估战场形势并考察潜在的继任者。虽然尚未做出最终决定，但据消息人士称，如果能找到合适的替代者确保平稳过渡，而不干扰乌军在前线的防御，泽连斯基愿意撤换瑟尔斯基。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzy1584593.d.html</link>
+            <guid>4995464</guid>
+            <pubDate>Sat, 18 Jul 2026 10:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中建西部建设与国电投贵州金元签署战略合作协议】7月17日，中建西部建设党委书记、董事长章维成与国家电投集团贵州金元股份有限公司（简称“国电投贵州金元”）党委书记、董事长朱仕祥在贵阳举行会谈，共同见证中建西部建设与国电投贵州金元签署战略合作协议，双方围绕落实国家“双碳”战略、新能源业务合作、固废资源化利用等议题开展深度座谈交流。双方共同签署战略合作协议，将聚焦核心合作领域推动重点项目落地见效，携手赋能高质量发展。]]></title>
             <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifnzz8358311.d.html</link>
@@ -386,148 +526,6 @@
             <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1559943.d.html</link>
             <guid>4995391</guid>
             <pubDate>Sat, 18 Jul 2026 07:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩总统前往华盛顿参加白宫会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhtw7098767.d.html</link>
-            <guid>4995388</guid>
-            <pubDate>Sat, 18 Jul 2026 07:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴林响起警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhuc8331896.d.html</link>
-            <guid>4995387</guid>
-            <pubDate>Sat, 18 Jul 2026 07:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆发布地质灾害气象风险橙色预警】18日，重庆市规划和自然资源局、重庆市气象局联合发布全市地质灾害气象风险预警。 7月18日8时至19日8时，重庆市彭水、武隆、黔江、酉阳属于风险高地区，地质灾害气象风险等级为Ⅱ级（橙色预警），涪陵、南川、丰都、忠县、万州、开州、奉节、巫山、城口、石柱、秀山属于风险较高地区，地质灾害气象风险等级为Ⅲ级（黄色预警），沙坪坝、北碚、两江新区、垫江、长寿、梁平、云阳、巫溪属于有一定风险地区，地质灾害气象风险等级为Ⅳ级（蓝色预警）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhtw7095643.d.html</link>
-            <guid>4995385</guid>
-            <pubDate>Sat, 18 Jul 2026 07:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本发生两起集体食物中毒 百余人出现症状】据日本媒体报道，日本岐阜县高山市和东京都八王子市近日分别发生集体食物中毒事件，共130多人出现食物中毒症状。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1551682.d.html</link>
-            <guid>4995383</guid>
-            <pubDate>Sat, 18 Jul 2026 07:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商汤大装置联合五家头部科研机构共建科学发现平台】7月18日，在WAIC 2026商汤科技“基座大模型架构创新与生态合作论坛”上，商汤大装置联合上海人工智能实验室、北京中关村学院、深圳河套学院、上海算法创新研究院、上海交通大学人工智能学院等五家国内顶尖科研机构，共同启动科学发现平台战略合作，通过汇聚国家级科研平台、高水平新型研发机构和一流高校科研力量，共同探索人工智能赋能基础研究和前沿科技创新的新范式。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhuc8324113.d.html</link>
-            <guid>4995382</guid>
-            <pubDate>Sat, 18 Jul 2026 07:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【VIP群成员满仓融资亏超千万元？任泽平回应】近日，一张聊天截图在投资圈广泛传播。截图显示，一位花费2980元加入“泽平宏观VIP群”的付费会员表示，在听信任泽平关于“科技牛”行情的判断后，满仓加融资重仓存储芯片股德明利、江波龙，账户爆仓，亏损超过1000万元。微信公众号“泽平宏观展望”发布《声明：波动、杠杆警示和长期主义的真心话》一文进行回应，该文署名任泽平。该声明称：“最近听到个别放杠杆付出惨痛代价，因涉及个人隐私，尚难核实该人员所说的前因后果和实际情况。深感心痛，非常惋惜，这与我们一直提示风险的‘勿加杠杆、勿负债炒股’理念严重不符，且南辕北辙。” (界面新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhty3866940.d.html</link>
-            <guid>4995381</guid>
-            <pubDate>Sat, 18 Jul 2026 07:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特在美国召回387911辆汽车，因座椅可能意外移动，在碰撞发生时无法有效约束乘员，从而增加受伤风险。]]></title>
-            <guid>4995380</guid>
-            <pubDate>Sat, 18 Jul 2026 07:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度初创公司Skyroot发射该国首枚私营轨道火箭】印度航天初创企业Skyroot Aerospace于7月18日发射该国首枚由民营企业自主研发的轨道火箭Vikram-1，成为印度首家实现轨道火箭发射的私营航天企业。印度近年来逐步放宽对私营企业参与航天活动的限制，Skyroot Aerospace此前曾于2022年完成印度首枚私营企业研制火箭Vikram-S的亚轨道飞行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhuc8319284.d.html</link>
-            <guid>4995379</guid>
-            <pubDate>Sat, 18 Jul 2026 07:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰无人机袭击致俄罗斯七名仓库工人死亡，并引发莫斯科地区一处油库火灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhty3863547.d.html</link>
-            <guid>4995378</guid>
-            <pubDate>Sat, 18 Jul 2026 07:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家矿山安全监察局山西局监察执法八处三级调研员李海潮接受山西省监察委员会监察调查】国家矿山安全监察局山西局监察执法八处三级调研员李海潮涉嫌严重违法，涉通洲集团留神峪煤业有限公司“5·22”特别重大瓦斯爆炸事故，目前正接受山西省监察委员会监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1539902.d.html</link>
-            <guid>4995376</guid>
-            <pubDate>Sat, 18 Jul 2026 07:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀李健：Al迈向“伙伴型类人生命体” 重构人与物理世界的关系】荣耀CEO李健在2026世界人工智能大会上提出，AI的演进必将脱离冰冷的工具属性，从操作系统到具身交互，全面迈向伙伴型的类人生命体，重构人与物理世界的关系，这就是人工智能时代的价值锚点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhty3859705.d.html</link>
-            <guid>4995375</guid>
-            <pubDate>Sat, 18 Jul 2026 06:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Kimi有望最快6个月内港股上市】Kimi已通知投资者调整公司架构，筹备赴港IPO，最快可能6个月内就能完成港股上市。（投资界）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1536444.d.html</link>
-            <guid>4995374</guid>
-            <pubDate>Sat, 18 Jul 2026 06:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界杯球星卡成交量暴涨780%】随着2026年美加墨世界杯即将迎来决赛，“世界杯明星周边价格暴涨”“全网买不到一件！”等话题登上热搜。热门球星带动的消费热度持续攀升。 全球跨境电商平台eBay的数据显示，eBay上世界杯球星卡成交量较年初增长超780%。 eBay大中华区销售与品类管理总经理庞涛告诉第一财经，今年世界杯最热门球员的若干球星卡都拍出了近4万美元的成交价。而在高登拍卖行，一张1958年贝利新秀卡更是以97.6万美元落槌。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1535314.d.html</link>
-            <guid>4995373</guid>
-            <pubDate>Sat, 18 Jul 2026 06:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小红书WAIC发布RED Skill、Vibe Coding两大AI生态新功能】在2026世界人工智能大会（WAIC），小红书宣布全量上线RED Skill、内测Vibe Coding小工具这两大产品新能力，并升级创作服务平台Builder Hub。该功能上线后，开发者可以将AI Skill、Vibe Coding的作品上传、挂载于笔记，用户可直接下载体验、使用。AI应用开发、分发和体验的门槛进一步降低。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhuc8310510.d.html</link>
-            <guid>4995372</guid>
-            <pubDate>Sat, 18 Jul 2026 06:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本周，英国金融行为监管局（FCA）根据新规发布了关于做空者对英国上市公司押注的最新监管数据，其中包含多处明显错误，引发市场对新披露制度下所提供信息质量的质疑。]]></title>
-            <guid>4995371</guid>
-            <pubDate>Sat, 18 Jul 2026 06:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界杯周边IP热销刷屏，义乌商二代仍在海外展会冷静接单】7月17日，义乌创二代、浙江蓓蕾布艺有限公司负责人骆添乐正在泰国的展会上忙碌地接待客商的询价。他告诉第一财经，这是公司第一次如此大范围地参与世界杯IP的定制。他们与授权方聚星动力成立合资企业——后者手握8支国家队及8家豪门俱乐部的全品类授权，而蓓蕾布艺负责全部毛绒类产品的设计、生产与制造，双方共享销售权益。这款产品是本届世界杯周边的热卖款之一。虽然有热卖款，但骆添乐坦言，世界杯的整体销量不达预期。这与热搜上“全网买不到”的图景形成反差。对于供应端而言，面对全球经济波动下的需求变化，“世界杯”带给市场的热度不容置疑，但这种热度的传导并不一定能均匀地抵达供应链的每一环。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1523654.d.html</link>
-            <guid>4995370</guid>
-            <pubDate>Sat, 18 Jul 2026 06:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由Skyroot公司制造的印度首枚私营部门火箭升空。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhty3848174.d.html</link>
-            <guid>4995369</guid>
-            <pubDate>Sat, 18 Jul 2026 06:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗法尔斯通讯社援引一名官员的话称，设拉子至迪拜的航班在中断五个月后恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifhua1520162.d.html</link>
-            <guid>4995368</guid>
-            <pubDate>Sat, 18 Jul 2026 06:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家数据局：全国已建成高质量数据集12万个】记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给体系，以模型应用牵引数据供给、以数据驱动模型迭代，推动实现数据集有偿使用的价值闭环。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifane1643157.d.html</link>
-            <guid>4995366</guid>
-            <pubDate>Sat, 18 Jul 2026 06:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆双口岸2026年中欧班列通行量突破1万列】7月17日，一列满载机械设备、电子产品的中欧班列经阿拉山口口岸办结手续，驶往波兰马拉舍维奇。此次班列顺利出境，标志着2026年新疆阿拉山口、霍尔果斯双口岸中欧班列通行量累计突破1万列。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifamy7192967.d.html</link>
-            <guid>4995365</guid>
-            <pubDate>Sat, 18 Jul 2026 06:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科威特一海水淡化和发电设施在袭击中受损】科威特电力、水利和可再生能源部当地时间18日上午发布消息称，科威特境内一座海水淡化和发电设施当天受到伊朗袭击的影响发生火情，导致发电机组受损。相关部门目前已启动应对预案，努力保障当地电力的稳定供应。这是科威特境内两天内第二处在袭击中受损的海水淡化和发电设施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifanf8414682.d.html</link>
-            <guid>4995364</guid>
-            <pubDate>Sat, 18 Jul 2026 06:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里云发布 Agent Native Cloud】7月18日，在2026世界人工智能大会上，阿里云发布AgentNativeCloud（智能体原生的云），并同步推出AgentTeams、AgenticComputer等企业级智能体工具，覆基础设施、开发平台和云桌面等多个维度。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifane1635247.d.html</link>
-            <guid>4995363</guid>
-            <pubDate>Sat, 18 Jul 2026 06:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同济大学设计人工智能实验室主任范凌：AI正在完成从“工具”到“基础设施”的跨越】7月18日消息，同济大学设计人工智能实验室主任、企业级Agentic AI公司特赞科技创始人范凌在WAIC上表示，“我既在高校做人工智能的研究，也在产业里做创新落地，两个身份来回切换。这些年我越来越确信：我们做的设计人工智能，本质不是设计更聪明的机器，而是设计人与人工智能的共生关系，让AI成为人的伙伴，而不是替代。”他认为，当前AI正在完成从“工具”到“基础设施”的跨越。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifamy7190215.d.html</link>
-            <guid>4995362</guid>
-            <pubDate>Sat, 18 Jul 2026 06:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第36届旅游那达慕正式开幕】今天（18日）上午，内蒙古自治区第36届旅游那达慕在锡林浩特市正式开幕。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-07-18/detail-iniifane1632600.d.html</link>
-            <guid>4995361</guid>
-            <pubDate>Sat, 18 Jul 2026 06:18:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
