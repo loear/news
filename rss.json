@@ -6,6 +6,377 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 5017766,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0956822.d.html",
+            "title": "【日本自卫队在太平洋首次试射“战斧”导弹】据日本防卫省消息，日本自卫队日前在太平洋首次进行美国“战斧”巡航导弹试射。（新华社）",
+            "date_modified": "2026-07-30T22:01:09.000Z"
+        },
+        {
+            "id": 5017764,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0953113.d.html",
+            "title": "  淡水河谷第二季度净营收 105 亿美元，第二季度净利润 14 亿美元。",
+            "date_modified": "2026-07-30T21:56:04.000Z"
+        },
+        {
+            "id": 5017763,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9347891.d.html",
+            "title": "  淡水河谷预计 2026 年镍完全成本区间为 0–500 美元 / 吨，此前预测区间为 1000–1500 美元 / 吨。",
+            "date_modified": "2026-07-30T21:53:47.000Z"
+        },
+        {
+            "id": 5017762,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzt4663857.d.html",
+            "title": "  淡水河谷：预计 2026 年铜产量介于 36 万至 38 万吨，此前预期为 35 万至 38 万吨。预计 2026 年镍产量区间为 18.5 万–20 万吨，此前预期为 17.5 万–20 万吨。",
+            "date_modified": "2026-07-30T21:53:06.000Z"
+        },
+        {
+            "id": 5017758,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0947524.d.html",
+            "title": "淡水河谷批准向股东派息每股2.03巴西雷亚尔。",
+            "date_modified": "2026-07-30T21:47:19.000Z"
+        },
+        {
+            "id": 5017757,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9341570.d.html",
+            "title": "亚马逊CEO： 供应受限的主要原因是 iPhone、Mac 需求超出预期。",
+            "date_modified": "2026-07-30T21:43:40.000Z"
+        },
+        {
+            "id": 5017756,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzv1441187.d.html",
+            "title": "苹果CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
+            "date_modified": "2026-07-30T21:42:38.000Z"
+        },
+        {
+            "id": 5017755,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0943991.d.html",
+            "title": "亚马逊CEO： 公司正自研前沿大模型，以此把控成本，并为消费者降低费用。",
+            "date_modified": "2026-07-30T21:42:06.000Z"
+        },
+        {
+            "id": 5017754,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0943250.d.html",
+            "title": "亚马逊CEO： 不会存在一家独大的人工智能模型。",
+            "date_modified": "2026-07-30T21:40:58.000Z"
+        },
+        {
+            "id": 5017752,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzt4657053.d.html",
+            "title": "  亚马逊：亚马逊云科技（AWS）盈利能力提升并非偶然，而是得益于效率改善与产能优化。",
+            "date_modified": "2026-07-30T21:38:37.000Z"
+        },
+        {
+            "id": 5017751,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzv1438637.d.html",
+            "title": "市场消息：美国和乌克兰上周签署了无人机技术协议。",
+            "date_modified": "2026-07-30T21:37:55.000Z"
+        },
+        {
+            "id": 5017749,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0939805.d.html",
+            "title": "苹果CEO库克： 第四财季内存成本将高于第三财季， 预计第四财季部分非内存类零部件成本有所下降。",
+            "date_modified": "2026-07-30T21:36:31.000Z"
+        },
+        {
+            "id": 5017747,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0938518.d.html",
+            "title": "  苹果：预计供应紧张情况将在 6 月所在季度至 9 月所在季度显著加剧，供货瓶颈将波及 iPhone、Mac 以及 iPad 产品线。",
+            "date_modified": "2026-07-30T21:34:54.000Z"
+        },
+        {
+            "id": 5017746,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9334603.d.html",
+            "title": "  亚马逊：由于企业提前采购、预先备货以规避关税成本，关税退款规模受到限制。",
+            "date_modified": "2026-07-30T21:34:31.000Z"
+        },
+        {
+            "id": 5017745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0937671.d.html",
+            "title": "苹果CEO库克： 我们观察到供应链灵活性不及往常水平，供应受限问题主要影响 Mac 产品线。",
+            "date_modified": "2026-07-30T21:33:47.000Z"
+        },
+        {
+            "id": 5017744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9333571.d.html",
+            "title": "【以色列称炸毁黎南部博福特岭地区地下通道设施】当地时间7月31日凌晨，以色列总理办公室通过社交媒体发布声明称，根据以总理内塔尼亚胡和国防部长卡茨的指令，以色列国防军当天拆毁了黎巴嫩南部博福特岭地区的地下通道设施。以方称，这些地下基础设施是黎巴嫩真主党此前计划袭击以色列北部地区居民社区的重要依托。声明称，以军在此次行动中使用了约700吨炸药。以方表示，此次军事行动是对黎巴嫩真主党前一日“公然违反停火协议”的回应。声明称，以军仍驻扎在黎巴嫩南部“安全区”内，并将继续清除相关军事设施，阻止黎巴嫩真主党恢复其军事能力。（央视新闻）",
+            "date_modified": "2026-07-30T21:33:11.000Z"
+        },
+        {
+            "id": 5017743,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzt4653312.d.html",
+            "title": "苹果CEO库克：苹果首席执行官交接“顺利进行”。库克在其最后一次财报电话会议上感谢股东和分析师。",
+            "date_modified": "2026-07-30T21:31:35.000Z"
+        },
+        {
+            "id": 5017742,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzt4652941.d.html",
+            "title": "  苹果预计第四季度运营支出区间为 191 亿至 194 亿美元。",
+            "date_modified": "2026-07-30T21:30:53.000Z"
+        },
+        {
+            "id": 5017741,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzv1434771.d.html",
+            "title": "【西班牙关闭梅利利亚与摩洛哥边境口岸】当地时间7月30日，西班牙政府宣布，北非自治市梅利利亚与摩洛哥之间唯一开放的贝尼恩萨尔（Beni Enzar）边境口岸已关闭。当地政府呼吁民众不要前往边境区域，以免影响安全部门执法。西班牙地方官员29日说，近日数以百计偷渡者从摩洛哥出发，通过游泳方式抵达西班牙位于北非的飞地休达，导致当地收容中心人满为患。（央视新闻）",
+            "date_modified": "2026-07-30T21:30:35.000Z"
+        },
+        {
+            "id": 5017740,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9331121.d.html",
+            "title": "  苹果预计毛利率区间为 47% 至 48%，关税退款将带来 1 个百分点的正向贡献。",
+            "date_modified": "2026-07-30T21:30:00.000Z"
+        },
+        {
+            "id": 5017739,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0933439.d.html",
+            "title": "亚马逊CEO：已收到约 6 亿美元关税相关退款。",
+            "date_modified": "2026-07-30T21:28:11.000Z"
+        },
+        {
+            "id": 5017737,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9328480.d.html",
+            "title": "苹果：平台上现在拥有15亿付费订阅（用户）。",
+            "date_modified": "2026-07-30T21:26:21.000Z"
+        },
+        {
+            "id": 5017735,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzr0931792.d.html",
+            "title": "苹果：iPhone营收增长22%，主要得益于iPhone 17系列新品。",
+            "date_modified": "2026-07-30T21:25:56.000Z"
+        },
+        {
+            "id": 5017732,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzt4649619.d.html",
+            "title": "白宫国家经济委员会主任凯文·哈塞特：如有必要，我们将继续降低油价的措施。",
+            "date_modified": "2026-07-30T21:24:13.000Z"
+        },
+        {
+            "id": 5017730,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrvzn9324245.d.html",
+            "title": "亚马逊CEO： 在人工智能、亚马逊云科技（AWS）方面的投入有望稳步实现可观的财务回报。",
+            "date_modified": "2026-07-30T21:20:59.000Z"
+        },
+        {
+            "id": 5017729,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9452796.d.html",
+            "title": "苹果CEO库克： 苹果与博通达成合作，是迈向构建美国端到端芯片供应链目标的重要一步。",
+            "date_modified": "2026-07-30T21:18:25.000Z"
+        },
+        {
+            "id": 5017728,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1055938.d.html",
+            "title": "苹果CEO库克：我们计划将关税退款重新投入美国本土业务。",
+            "date_modified": "2026-07-30T21:17:48.000Z"
+        },
+        {
+            "id": 5017727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1055664.d.html",
+            "title": "亚马逊CEO： 企业在谈及人工智能时，越来越多地提及安全问题。 AWS Continuum 安全产品业务将实现快速增长。",
+            "date_modified": "2026-07-30T21:17:30.000Z"
+        },
+        {
+            "id": 5017726,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1054849.d.html",
+            "title": "亚马逊CEO： 即便上调资本支出，我们 2026 年的产能依旧不足以满足全部需求。",
+            "date_modified": "2026-07-30T21:16:32.000Z"
+        },
+        {
+            "id": 5017725,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1054582.d.html",
+            "title": "白宫国家经济委员会主任凯文·哈塞特：密切关注能源价格。",
+            "date_modified": "2026-07-30T21:16:18.000Z"
+        },
+        {
+            "id": 5017722,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1053214.d.html",
+            "title": "苹果CEO库克： Apple TV 达成 EGOT 里程碑的速度超越所有其他流媒体平台。",
+            "date_modified": "2026-07-30T21:14:37.000Z"
+        },
+        {
+            "id": 5017720,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1051837.d.html",
+            "title": "白宫国家经济委员会主任凯文·哈塞特： 当下，人工智能正在书写积极的经济篇章。",
+            "date_modified": "2026-07-30T21:13:06.000Z"
+        },
+        {
+            "id": 5017719,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9447868.d.html",
+            "title": "白宫国家经济委员会主任凯文·哈塞特：人工智能不会导致通货膨胀。",
+            "date_modified": "2026-07-30T21:12:36.000Z"
+        },
+        {
+            "id": 5017718,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1049519.d.html",
+            "title": "苹果CEO库克： MacBook Neo 在第三季度 “格外热销”。",
+            "date_modified": "2026-07-30T21:10:00.000Z"
+        },
+        {
+            "id": 5017717,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1049196.d.html",
+            "title": "苹果CEO库克：第三季度苹果在全球智能手机市场份额有所增长。对Siri人工智能的初步反响感到兴奋。第三季度在大中华区的Mac销售特别强劲。",
+            "date_modified": "2026-07-30T21:09:28.000Z"
+        },
+        {
+            "id": 5017713,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9442574.d.html",
+            "title": "苹果 CEO：公司第三季度各大区域板块营收均创下历史新高。",
+            "date_modified": "2026-07-30T21:05:17.000Z"
+        },
+        {
+            "id": 5017712,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9439664.d.html",
+            "title": "埃及新闻部长驳斥华尔街日报报道，否认埃及政府认为伊朗策划达米埃塔港船只无人机袭击。",
+            "date_modified": "2026-07-30T21:01:43.000Z"
+        },
+        {
+            "id": 5017711,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9438628.d.html",
+            "title": "【亚马逊云业务营收连续第五个季度增长 AI服务需求旺盛】亚马逊公布的云计算业务营收超过分析师预期，对人工智能服务的旺盛需求连续第五个季度推动销售加速。亚马逊周四发布声明称，截至6月30日的季度，旗下云计算业务Amazon Web Services（AWS）营收增长37%至422亿美元。这是2021年第四季度以来的最快增速。数据显示，分析师平均预期AWS营收为406亿美元。AWS贡献了亚马逊约五分之一的营收和大部分营业利润。亚马逊报告称，截至6月30日的季度，公司用于物业和设备的支出（包括部分资产出售所得抵减后）超过530亿美元。亚马逊此前表示，今年资本项目支出预计将达到2000亿美元，主要用于人工智能相关项目，因此投资者密切关注公司是否存在过度投资的迹象。",
+            "date_modified": "2026-07-30T20:59:42.000Z"
+        },
+        {
+            "id": 5017709,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtx1547538.d.html",
+            "title": "【以媒：美官员称哈马斯或“很快”签署解除武装协议】以色列第12频道电视台30日晚援引美方消息人士的话说，巴勒斯坦伊斯兰抵抗运动（哈马斯）或“很快”签署逐步解除武装的协议。报道称，这项解除武装“路线图”由美国发起的所谓“和平委员会”提出，要求哈马斯在6至8个月内交出所有武器。巴勒斯坦技术官僚政府将逐步接管加沙地带部分地区，并核查这些地区是否还有武器。根据计划，哈马斯还将交出其隧道、武器工厂和仓库地图，交出的武器将由新的技术官僚政府和国际稳定部队保管。（新华社）",
+            "date_modified": "2026-07-30T20:55:32.000Z"
+        },
+        {
+            "id": 5017707,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1039780.d.html",
+            "title": "【Rivian汽车业务营收增23% R2 SUV开启交付】Rivian第二季度营收中，汽车业务收入11.4亿美元，软件及服务收入5.15亿美元。该业绩略高于公司上月在公告拟公开发行7500万股A类普通股时提前披露的第二季度营收预期区间15.5亿至16.5亿美元。公司称，汽车业务营收同比增长23%，主要源于车辆交付量提升14%，以及合规积分相关收入增加1.03亿美元。 Rivian第二季度归属于普通股股东的净亏损为8.37亿美元，折合每股亏损0.63美元，相较于2025年第二季度减亏2.78亿美元，每股亏损收窄0.34美元。 Rivian此前表示，上调交付指引是因为第二季度电动配送货车及旗舰R1系列产品交付量有所提升。 公司本季度还启动了中型R2 SUV的交付工作，正在其位于伊利诺伊州诺莫尔市的唯一生产工厂推进该车型产能爬坡，这座工厂年产能可达16万辆。 Rivian首席执行官RJ·斯卡林吉周四在接受采访时表示：“R2现已交到客户手中，我对此倍感振奋，市场对这款产品的整体反馈和反响都非常出色。当然，这也是我们迈向盈利道路上的重要一步。”",
+            "date_modified": "2026-07-30T20:53:41.000Z"
+        },
+        {
+            "id": 5017706,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtx1546352.d.html",
+            "title": "市场消息：日本政府计划将西日本打造为生物技术与高端医药领域的投资集聚中心。",
+            "date_modified": "2026-07-30T20:50:30.000Z"
+        },
+        {
+            "id": 5017705,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9432222.d.html",
+            "title": "美国将可回收关键矿产相关行动与国防挂钩。",
+            "date_modified": "2026-07-30T20:44:17.000Z"
+        },
+        {
+            "id": 5017704,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9431689.d.html",
+            "title": "【伊朗谴责美军袭击格什姆岛居民区致3人死亡】伊朗外交部发言人巴加埃30日晚在社交媒体发文，谴责美国当天凌晨袭击伊朗南部格什姆岛居民区，造成一个五口之家中的父母及其两岁孩子死亡。（新华社）",
+            "date_modified": "2026-07-30T20:43:13.000Z"
+        },
+        {
+            "id": 5017703,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9431435.d.html",
+            "title": "墨式烤肉（CMG）收涨13%，创2023年以来最大单日涨幅。",
+            "date_modified": "2026-07-30T20:42:35.000Z"
+        },
+        {
+            "id": 5017702,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtv4762187.d.html",
+            "title": "【中北美加勒比足联拒绝世界杯私有化】当地时间7月30日，中北美洲及加勒比海足联及其41个会员协会否决了国际足联“出售世界杯股权”的提案，但未效仿欧足联宣布抵制所有国际足联赛事。 中北美洲及加勒比海足联表示，其会员对该提案“缺乏正当程序、截止日期仓促，且未经国际足联相关治理机构审议或批准”，表达了“深切担忧”。 国际足联主席因凡蒂诺计划成立一家价值200亿美元的子公司来运营世界杯及其他赛事，并向私人投资者出售少数股权。目前欧足联已公开反对，并宣布抵制所有国际足联赛事。亚足联也向其下辖的47个会员协会发出了一封措辞激烈的信函，警告称“若得不到六大洲际足协联盟的一致支持，该提案绝无成功可能”。（CCTV国际时讯 ）",
+            "date_modified": "2026-07-30T20:41:15.000Z"
+        },
+        {
+            "id": 5017700,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1032031.d.html",
+            "title": "美国白宫发布关于可回收关键矿产的备忘录。",
+            "date_modified": "2026-07-30T20:36:12.000Z"
+        },
+        {
+            "id": 5017698,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1029791.d.html",
+            "title": "【波兰确认境内坠入一枚俄制导弹】波兰国防部国务秘书采扎雷·托姆奇克30日表示，波方已确认当天凌晨侵入波兰领空并坠落在该国东部卢布林省塔纳瓦－科洛尼亚附近的是一枚俄制Kh-101导弹。托姆奇克在接受波兰媒体采访时说，该型导弹具备携带核弹头能力，是一种非常危险的巡航导弹。他补充说，目前尚不清楚这枚导弹是否蓄意瞄准波兰。（新华社）",
+            "date_modified": "2026-07-30T20:31:25.000Z"
+        },
+        {
+            "id": 5017696,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtv4759046.d.html",
+            "title": "亚马逊：AWS年化收入运行率1690亿美元。",
+            "date_modified": "2026-07-30T20:27:53.000Z"
+        },
+        {
+            "id": 5017695,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1028018.d.html",
+            "title": "  白宫官员：特朗普下令对关键矿产废料实施出口限制。",
+            "date_modified": "2026-07-30T20:27:24.000Z"
+        },
+        {
+            "id": 5017694,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9424127.d.html",
+            "title": "【中国开源模型下载量全球第一】全球最大开源AI模型平台2026年春季报告显示，中国研发的开源模型下载量已占全球总量的41%，超越美国位居世界第一，在全球主流大模型调用榜单上，排名前六位的模型全部来自中国团队；过去12个月里，国产模型有9个月保持着全球开源模型的规模上限，迭代节奏持续领跑全球；我国开源模型累计下载量已突破100亿次，居全球首位。（央视新闻）",
+            "date_modified": "2026-07-30T20:26:41.000Z"
+        },
+        {
+            "id": 5017693,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9423753.d.html",
+            "title": "  超微推出隶属于 DCBBS 产品组合的 AI 机架系列产品，每月可交付最高 3000 台 。",
+            "date_modified": "2026-07-30T20:25:52.000Z"
+        },
+        {
+            "id": 5017692,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtv4758067.d.html",
+            "title": "  谷歌：Gemini Spark 现已接入 Chrome 浏览器。",
+            "date_modified": "2026-07-30T20:24:35.000Z"
+        },
+        {
+            "id": 5017691,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1025435.d.html",
+            "title": "市场消息：英伟达支持的AI基础设施公司Nscale最早可能于今年秋季进行IPO。",
+            "date_modified": "2026-07-30T20:22:18.000Z"
+        },
+        {
             "id": 5017690,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt1023391.d.html",
@@ -81,409 +452,6 @@
             "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9397639.d.html",
             "title": "美国国务卿鲁比奥：为回应民众高涨的热情，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
             "date_modified": "2026-07-30T19:37:02.000Z"
-        },
-        {
-            "id": 5017666,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt0998925.d.html",
-            "title": "伊拉克政府发言人：伊拉克政府事前未获悉美国与沙特实施打击行动。",
-            "date_modified": "2026-07-30T19:32:20.000Z"
-        },
-        {
-            "id": 5017663,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9393844.d.html",
-            "title": "  中北美及加勒比海足球协会（CONCACAF）表示，在与旗下 41 个会员协会召开会议后，该协会拒绝国际足联出售世界杯相关权益的提案。",
-            "date_modified": "2026-07-30T19:29:20.000Z"
-        },
-        {
-            "id": 5017662,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtq9389501.d.html",
-            "title": "  现货铂金涨超 3%，报 1660.19 美元 / 盎司。",
-            "date_modified": "2026-07-30T19:19:43.000Z"
-        },
-        {
-            "id": 5017661,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtv4739528.d.html",
-            "title": "  ICI：美国货币市场基金资产规模回落至 7.85 万亿美元。",
-            "date_modified": "2026-07-30T19:19:00.000Z"
-        },
-        {
-            "id": 5017660,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt0990613.d.html",
-            "title": "市场消息：特朗普和平事务团队认为，哈马斯有望在未来数日签署协议，启动加沙地带解除武装与非军事化进程。",
-            "date_modified": "2026-07-30T19:15:11.000Z"
-        },
-        {
-            "id": 5017659,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrrtt0990349.d.html",
-            "title": "  现货钯金涨幅超 5%，报 1311.25 美元 / 盎司。",
-            "date_modified": "2026-07-30T19:14:35.000Z"
-        },
-        {
-            "id": 5017653,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1112294.d.html",
-            "title": "美军中央司令部：一架美国海军 P-8 “海神” 反潜巡逻机在中东执行巡逻任务时，靠近美国空军 KC-135 “同温层加油机” 开展空中加油。P-8 属于专用侦察机型，是美国对伊朗实施封锁期间，用于监控区域海域的众多装备之一。截至 7 月 30 日，美军中央司令部部队已引导 24 艘商船变更航线、迫使 2 艘船只停航，并登检 2 艘船舶，确保相关航运完全遵守管控要求。",
-            "date_modified": "2026-07-30T19:00:10.000Z"
-        },
-        {
-            "id": 5017651,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1111679.d.html",
-            "title": "  安联将支付至少 14 亿欧元对价，以现金收购 PIMCO 流通在外的 M 份额。",
-            "date_modified": "2026-07-30T18:58:52.000Z"
-        },
-        {
-            "id": 5017649,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1111485.d.html",
-            "title": "  安联启动权利，终止 PIMCO 员工股权计划。",
-            "date_modified": "2026-07-30T18:58:27.000Z"
-        },
-        {
-            "id": 5017647,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmz1645202.d.html",
-            "title": "巴西港口部长称桑托斯港T-CON 10码头招标或于年内启动，拍卖预计仅会在2027年进行。",
-            "date_modified": "2026-07-30T18:55:38.000Z"
-        },
-        {
-            "id": 5017646,
-            "content_html": "",
-            "title": "标普：陶氏化学公司展望由负面调整为稳定，原因是盈利改善；评级维持不变。",
-            "date_modified": "2026-07-30T18:55:30.000Z"
-        },
-        {
-            "id": 5017645,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9505926.d.html",
-            "title": "有目击者在休达看到西班牙军用车辆正向摩洛哥边境行进。",
-            "date_modified": "2026-07-30T18:54:16.000Z"
-        },
-        {
-            "id": 5017644,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9505328.d.html",
-            "title": "埃塞俄比亚航空集团预计今年其收入增长速度将减半，这是由于伊朗战争引发的油价飙升。",
-            "date_modified": "2026-07-30T18:52:53.000Z"
-        },
-        {
-            "id": 5017643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1108747.d.html",
-            "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
-            "date_modified": "2026-07-30T18:52:30.000Z"
-        },
-        {
-            "id": 5017642,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1107931.d.html",
-            "title": "市场消息：英特尔向一家新兴初创企业开放部分处理器技术授权。注册文件显示，这家名为 RosaicLabs的企业于 5 月提交首次注册资料。英特尔首席执行官陈立武与该初创企业负责人是长期联合投资人。",
-            "date_modified": "2026-07-30T18:50:30.000Z"
-        },
-        {
-            "id": 5017641,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1107215.d.html",
-            "title": "伊朗外交部发言人：每一次爆炸，每一次罪行，每一次制裁，每一次威胁，每一次杀害儿童，都会让伊朗人在捍卫祖国时更加坚定和团结。",
-            "date_modified": "2026-07-30T18:48:41.000Z"
-        },
-        {
-            "id": 5017640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1106807.d.html",
-            "title": "巴勒斯坦消息人士：敌方部队在被占领的耶路撒冷以北哈兹马镇的入口处设立检查站。",
-            "date_modified": "2026-07-30T18:47:40.000Z"
-        },
-        {
-            "id": 5017639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9502209.d.html",
-            "title": "  据知情人士透露，美国页岩行业先驱哈罗德・哈姆计划扩大在阿根廷瓦卡穆埃尔塔页岩盆地的布局，该盆地是全球页岩油气开发增速最快的区域。",
-            "date_modified": "2026-07-30T18:45:31.000Z"
-        },
-        {
-            "id": 5017638,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1102159.d.html",
-            "title": "【白宫称哈马斯或数日内同意解除武装协议】据报道，协议被视为落实特朗普“20点和平计划”的关键一步。核心内容包括：哈马斯解除轻重武器、移交地道网络和武器设施信息，并在6至8个月内完成去军事化；随后由新的“加沙管理国家委员会”接管治理，统一政府、法律和安全体系。消息人士称，美方、埃及、卡塔尔和土耳其近几个月持续向哈马斯施压，试图切断其资金来源，并利用其经济困境推动其接受协议。谈判目前在埃及阿拉曼举行，并进入最后阶段，但哈马斯尚未正式批准。据悉，埃及情报总局局长哈桑·拉沙德在谈判中发挥关键作用，并与哈马斯新领导人哈利勒·哈亚保持联系。与此同时，伊朗方面则敦促哈马斯不要急于签署协议，争取更多时间。根据协议草案，哈马斯成员可获得特赦并留在加沙；武装人员上缴武器可获得补偿；以色列将在协议落实后逐步撤军，并停止针对哈马斯人员的定点清除行动。不过，以色列方面仍对哈马斯是否真正愿意解除武装持怀疑态度，认为其可能只是缓解压力的策略。特朗普政府则认为，如果协议最终达成，将为结束加沙战争、启动重建进程迈出重要一步。",
-            "date_modified": "2026-07-30T18:38:11.000Z"
-        },
-        {
-            "id": 5017637,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1101870.d.html",
-            "title": "【IMF总裁：石油冲击或将引发衰退的风险仍持续存在】国际货币基金组织总裁克里斯塔利娜・格奥尔基耶娃在乌拉圭蒙得维的亚一场活动上表示，尽管霍尔木兹海峡若迅速恢复通航，冲突带来的影响将相对有限，但中东石油冲击仍有可能令全球经济陷入衰退，该风险尚未消除。格奥尔基耶娃称，IMF 正密切关注通胀走势，通胀会影响利率水平并加剧公共财政压力。格奥尔基耶娃指出，在全球多边协议推进受阻的背景下，小型开放经济体之间应当寻求达成贸易协定。“我十分支持发掘区域及跨区域贸易合作机遇。” 格奥尔基耶娃表示。她称：“想要达成并落实一份全球性协议难度很大。”格奥尔基耶娃认为，当前贸易保护主义态势将会长期持续。",
-            "date_modified": "2026-07-30T18:37:30.000Z"
-        },
-        {
-            "id": 5017636,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4858378.d.html",
-            "title": "通用电气维诺娃公司（GE Vernova Inc.）预计将在宾夕法尼亚州西部投资1.66亿美元，并在宾州全境创造逾700个高技能制造业新岗位。",
-            "date_modified": "2026-07-30T18:36:48.000Z"
-        },
-        {
-            "id": 5017635,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9497614.d.html",
-            "title": "印度政府令：K·拉贾拉曼再次被任命为国际金融服务中心管理局主席，任期至65岁。",
-            "date_modified": "2026-07-30T18:36:18.000Z"
-        },
-        {
-            "id": 5017634,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmz1640163.d.html",
-            "title": "通用电气维诺华：本次扩张属于现有1.38亿美元投资项目的一部分，预计到2028年将创造275个就业岗位，计划在2030年之前追加招聘。",
-            "date_modified": "2026-07-30T18:36:11.000Z"
-        },
-        {
-            "id": 5017633,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9496935.d.html",
-            "title": "通用电气维诺华扩建宾夕法尼亚州制造基地，以强化美国电网供应链。",
-            "date_modified": "2026-07-30T18:34:46.000Z"
-        },
-        {
-            "id": 5017630,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9493285.d.html",
-            "title": " 美国食品安全与检验局发布与李斯特菌相关的警示，涉玛丽收获生鲜食品公司的咖喱鸡肉沙拉。",
-            "date_modified": "2026-07-30T18:27:49.000Z"
-        },
-        {
-            "id": 5017629,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4854852.d.html",
-            "title": "美国铃木汽车胜诉，刹车缺陷相关诉讼遭驳回。",
-            "date_modified": "2026-07-30T18:24:36.000Z"
-        },
-        {
-            "id": 5017627,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmz1635585.d.html",
-            "title": "星链：首批星链 V3 卫星顺利部署，完成组网并拍摄星舰画面。",
-            "date_modified": "2026-07-30T18:20:27.000Z"
-        },
-        {
-            "id": 5017626,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1092280.d.html",
-            "title": "市场消息：以色列总理本雅明・内塔尼亚胡结束华盛顿行程返回以色列。访美期间，他会晤了唐纳德・特朗普总统及美国多名高级官员。出于安全考量，总理办公室未对外公布其启程与归国行程。",
-            "date_modified": "2026-07-30T18:18:46.000Z"
-        },
-        {
-            "id": 5017625,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9487698.d.html",
-            "title": "据美国联邦航空管理局发给员工的内部邮件显示，该局副局长罗谢洛将于下周卸任。",
-            "date_modified": "2026-07-30T18:17:00.000Z"
-        },
-        {
-            "id": 5017624,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9487672.d.html",
-            "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。",
-            "date_modified": "2026-07-30T18:16:56.000Z"
-        },
-        {
-            "id": 5017623,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1090520.d.html",
-            "title": "哈马斯表示，组织武器的清点与入库过程将耗时14天。一个直接与该组织对接的国际委员会将负责武器的清点与入库工作。重型武器将进行清点，并移交给加沙管理国家委员会。",
-            "date_modified": "2026-07-30T18:15:41.000Z"
-        },
-        {
-            "id": 5017622,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1090102.d.html",
-            "title": "【英国FCA将从周五起发布每日股票交易数据】据知情人士透露，英国市场监管机构金融行为监管局（FCA）计划从本周五起，每日发布英国股票交易的汇总数据，这是其提高市场透明度举措的一部分。该监管机构还将发布为期一年的历史回溯数据，以帮助投资者评估英国股票的交易量。在推出完整的股票综合数据流（即单一的股票交易数据源）之前，每日更新将作为一项过渡性举措。",
-            "date_modified": "2026-07-30T18:15:10.000Z"
-        },
-        {
-            "id": 5017621,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4850805.d.html",
-            "title": "市场消息：密克罗尼西亚科洛尼亚东北偏北 247 公里处发生 5.9 级地震。",
-            "date_modified": "2026-07-30T18:12:17.000Z"
-        },
-        {
-            "id": 5017620,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1087890.d.html",
-            "title": "英国金融行为监管局（FCA）将于周五起发布每日股票交易数据。",
-            "date_modified": "2026-07-30T18:11:40.000Z"
-        },
-        {
-            "id": 5017619,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1086318.d.html",
-            "title": "  知情人士透露，哈马斯及其他巴勒斯坦派系已同意加沙相关协议全部条款。",
-            "date_modified": "2026-07-30T18:08:59.000Z"
-        },
-        {
-            "id": 5017618,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9482232.d.html",
-            "title": "联邦快递：扩大与Dexterity公司的合作，将在马里兰州黑格斯敦枢纽部署人工智能机器人。",
-            "date_modified": "2026-07-30T18:08:16.000Z"
-        },
-        {
-            "id": 5017616,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9480708.d.html",
-            "title": "惠誉评级：北美数据、分析与交易处理商凭借嵌入式产品及自有数据展现最强实力。",
-            "date_modified": "2026-07-30T18:05:31.000Z"
-        },
-        {
-            "id": 5017615,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1083700.d.html",
-            "title": "伊朗哈塔姆・安比亚中央指挥部司令阿卜杜拉希少将表示，美国及其雇佣军已然明白，棺材如今成了他们在该地区装备清单的一部分。",
-            "date_modified": "2026-07-30T18:04:27.000Z"
-        },
-        {
-            "id": 5017614,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9479725.d.html",
-            "title": "惠誉评级：2026年第二季度美国私人信贷违约率创历史新高。 截至 2026 年二季度的过去 12 个月（TTM），私人信贷违约率升至 6.0%，突破一季度 5.7% 的前期纪录。",
-            "date_modified": "2026-07-30T18:03:53.000Z"
-        },
-        {
-            "id": 5017613,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4847341.d.html",
-            "title": "太平洋海岸能源公司：正与委内瑞拉国家石油公司及委内瑞拉政府敲定协议。",
-            "date_modified": "2026-07-30T18:01:28.000Z"
-        },
-        {
-            "id": 5017612,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4846841.d.html",
-            "title": "【阿根廷颁新规 禁止煽动攻击阿的外国人入境】阿根廷总统米莱29日晚签署法令，禁止煽动攻击该国及其公民或国家象征的外国人入境。根据这项法令，任何外国人若以口头或书面形式散布仇恨信息、煽动攻击阿根廷国家及公民，都将被拒绝入境或驱逐出境。但政治和学术方面的批评言论不受该法令约束。阿根廷总统府在一份声明中说，上述法令旨在回应近期针对阿及其公民的“敌对行为”。（新华社）",
-            "date_modified": "2026-07-30T17:59:55.000Z"
-        },
-        {
-            "id": 5017611,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmx4846770.d.html",
-            "title": "哈马斯称关于加沙协议细节的宣布可能在明天进行。",
-            "date_modified": "2026-07-30T17:59:34.000Z"
-        },
-        {
-            "id": 5017610,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1080746.d.html",
-            "title": "市场消息：哈马斯称加沙地带的民兵武装将被解散。",
-            "date_modified": "2026-07-30T17:59:15.000Z"
-        },
-        {
-            "id": 5017608,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1078790.d.html",
-            "title": "【英国萨福克郡发生大面积山火】总台记者当地时间7月30日获悉，英国萨福克郡海岸地区29日下午发生大面积山火，约90名消防员投入灭火。消防部门表示，当前火势规模大、扑救难度高。当地政府呼吁居民避免前往事发区域，并关闭门窗以防烟雾影响。（央视新闻）",
-            "date_modified": "2026-07-30T17:54:46.000Z"
-        },
-        {
-            "id": 5017607,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1077932.d.html",
-            "title": "  知情人士称，美国周三针对伊朗发动的打击，仅仅是后续一系列行动的冰山一角。",
-            "date_modified": "2026-07-30T17:52:47.000Z"
-        },
-        {
-            "id": 5017605,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9473617.d.html",
-            "title": "市场消息：美国驻巴格达大使馆指示其工作人员留在外交使团驻地内，直至另行通知。",
-            "date_modified": "2026-07-30T17:51:14.000Z"
-        },
-        {
-            "id": 5017604,
-            "content_html": "",
-            "title": "特朗普： 曾在军队驾驶重型车辆的美国人将自动具备申领商业驾驶执照资格；拥有军用重型车辆驾驶经验的退伍军人，可免除冗余路考，在退役两年内取得商业驾照。",
-            "date_modified": "2026-07-30T17:50:26.000Z"
-        },
-        {
-            "id": 5017603,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1076040.d.html",
-            "title": "消息称Situational Awareness资产规模或将降至100亿美元。",
-            "date_modified": "2026-07-30T17:48:23.000Z"
-        },
-        {
-            "id": 5017602,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1075885.d.html",
-            "title": "【伊朗军队称打击美军在巴林空军基地】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视新闻）",
-            "date_modified": "2026-07-30T17:48:05.000Z"
-        },
-        {
-            "id": 5017600,
-            "content_html": "",
-            "title": "穆迪评级将美光科技的SR无担保债券评级上调至BAA1；展望稳定。",
-            "date_modified": "2026-07-30T17:46:43.000Z"
-        },
-        {
-            "id": 5017598,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9470158.d.html",
-            "title": "【国际冰联禁止俄罗斯和白俄罗斯参加2027年多项赛事】当地时间7月30日，国际冰球联合会发布声明称，不允许俄罗斯参加2027年国际冰联男子冰球世锦赛、世界青年锦标赛、男子U18世锦赛和女子U18世锦赛。俄罗斯参加2027年女子冰球世锦赛的资格将由国际冰联理事会于11月根据届时情况和风险评估单独审议。国际冰球联合会还决定，白俄罗斯将不得参加2027年国际冰联男子冰球世锦赛和世界青年锦标赛。（央视新闻）",
-            "date_modified": "2026-07-30T17:45:00.000Z"
-        },
-        {
-            "id": 5017597,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1073628.d.html",
-            "title": "沙特阿拉伯成立红海航运海上防务联盟，另有13国参与。",
-            "date_modified": "2026-07-30T17:44:36.000Z"
-        },
-        {
-            "id": 5017596,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1073096.d.html",
-            "title": "  Anthropic数据中心项目获得谷歌支持。",
-            "date_modified": "2026-07-30T17:43:28.000Z"
-        },
-        {
-            "id": 5017594,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1072770.d.html",
-            "title": "消息人士称，SITUATIONAL AWARENESS在与CITADEL的投资组合出售交易中，并未出售其所持ANTHROPIC的股份。",
-            "date_modified": "2026-07-30T17:42:46.000Z"
-        },
-        {
-            "id": 5017593,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9468452.d.html",
-            "title": "OpenAI产品负责人：相关调整同时影响付费订阅中的应用程序接口定价与使用额度，惠及各类用户。",
-            "date_modified": "2026-07-30T17:41:17.000Z"
-        },
-        {
-            "id": 5017592,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmms9468242.d.html",
-            "title": "特朗普表示，无证外籍卡车司机正被逐出美国道路，其政府计划由美国退伍军人取而代之。",
-            "date_modified": "2026-07-30T17:40:49.000Z"
-        },
-        {
-            "id": 5017591,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1071493.d.html",
-            "title": "OpenAI产品负责人：朝着智能廉价到无法计量的方向前进，还有更多突破即将到来。",
-            "date_modified": "2026-07-30T17:40:14.000Z"
-        },
-        {
-            "id": 5017590,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-07-31/detail-inikrmmv1070602.d.html",
-            "title": "  埃及电力部长：国内燃料储备足以满足用电需求。",
-            "date_modified": "2026-07-30T17:38:21.000Z"
         }
     ]
 }
