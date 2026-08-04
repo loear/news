@@ -4,11 +4,279 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Tue, 04 Aug 2026 21:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 23:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、纳米制造，探索微观世界的无限可能（经济新方位·制造业新趋势）
+2、十亿分之一米尺度上，材料有了新能力（延伸阅读）
+3、以更大力度、更实举措加强基础研究，提升原始创新能力 上海向“新”而行底气足（活力中国调研行）
+4、电子证照如何守护外卖食品安全（政策解读·问答）
+5、中美经贸需要“合作清单”，而非“覆盖清单”（钟声）
+6、服务提质，内需扩容有保障（评论员观察）——2026中国经济年中观察③
+7、贵州印发“人工智能+制造”实施方案
+8、从税目变化看“中国智造”产业跃升（读数）
+9、技术实力不断增强，产品线更加丰富 中国机器人适配全球多元应用场景
+10、到二〇三〇年，邮政行业寄递业务量达两千九百亿件 未来五年，寄递网如何由大到强
+11、上半年海洋生产总值5.5万亿元 同比增长5.1%
+12、中国消费者协会等提醒消费者 私域渠道医药广告陷阱多
+13、京津城际单日运送量升至22万人次 开通18年累计运输旅客超5.7亿人次
+14、墨西哥加快推进能源转型 已在16个州建成76座风电场
+15、从“新新三样”看用好机遇和优势（每周经济评论）
+16、“十五五”专项规划里的“柴米油盐”（商海观潮）。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsx1594326.d.html</link>
+            <guid>5025461</guid>
+            <pubDate>Tue, 04 Aug 2026 23:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术】当地时间8月4日， 三星电子在美国圣克拉拉举行的2026年未来存储与内存大会（FMS）上，公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品，并推出采用晶圆键合技术的400层以上V10 BV-NAND。三星表示，zHBM旨在通过将HBM垂直堆叠于AI加速器上方，缩短处理器与内存之间的数据传输距离，以提升AI训练和推理性能。搭载下一代接口系统的zHBM预计性能可达到HBM5的约8倍，同时借助新型晶圆键合技术，实现超过HBM5 10倍的内存密度，并提升能效表现。在NAND领域，三星首次发布V10 BV-NAND架构，通过晶圆键合技术堆叠存储单元，层数超过400层，较上一代V9产品内存密度提升约58%，同时改善读写和输入输出性能。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5281849.d.html</link>
+            <guid>5025457</guid>
+            <pubDate>Tue, 04 Aug 2026 23:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迪士尼退出A+E 媒体集团赫斯特以12亿美元交易获得其全部股权】美国私营媒体集团赫斯特（Hearst）周二达成一项协议，将以约12亿美元现金收购迪士尼旗下持有的A+E Global Media 50%股权，从而全资拥有该电视及内容业务。迪士尼退出A+E的决定，是该公司致力于优先发展流媒体和ESPN业务的一部分，尽管在有线电视订阅量持续下滑的背景下，迪士尼仍在评估 (link) 旗下部分传统线性电视资产的作用。赫斯特集团在声明中表示，该交易预计将于9月完成。届时，A+E将成为赫斯特娱乐集团旗下的一家全资子公司。A+E此前是赫斯特与迪士尼各持50%股份的合资企业，旗下运营的电视品牌包括A&E、Lifetime、历史频道（The History Channel）、LMN、FYI和Vice TV。其覆盖范围遍及200个地区，以40种语言向超过4.14亿户家庭提供服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsp3677561.d.html</link>
+            <guid>5025455</guid>
+            <pubDate>Tue, 04 Aug 2026 23:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普顾问告知人工智能公司，他们不会对开放权重模型进行安全性测试】据两位熟悉相关讨论的消息人士透露，特朗普政府周二向人工智能开发者表示，不会对开放权重的人工智能模型进行自愿性安全测试。开放式模型（包括英伟达的Nemotron和Meta的Llama）是指其核心组件对公众开放的人工智能系统。封闭式模型则由特定公司控制。美国主要的封闭式模型开发商包括OpenAI、谷歌和Anthropic。据五位知情人士透露，白宫就尚未公布的测试规则与Meta 、Anthropic、谷歌、英伟达和OpenAI的员工进行了讨论。此次会议召开前，OpenAI和Anthropic曾披露，其AI工具曾入侵其他公司的系统。这些入侵事件引发了美国议员的担忧，即功能日益强大的AI模型是否会被用于实施或协助网络攻击。OpenAI周二表示，该公司在测试期间的模型卷入了一起网络安全事件，该事件涉及AI系统访问互联网。白宫新闻办公室未回应路透就此次会议提出的置评请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsv4819831.d.html</link>
+            <guid>5025453</guid>
+            <pubDate>Tue, 04 Aug 2026 23:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报钟声：中美经贸需要“合作清单” 而非“覆盖清单”】人民日报钟声文章指出，中美应当拉长的是互利共赢的“合作清单”，而不是人为设限的所谓“覆盖清单”。保护主义提升不了竞争力，筑墙设垒换不来安全。中方敦促美方正视两国业界呼声，尊重市场经济规律和公平竞争原则，立即停止错误做法，撤销相关歧视性限制措施。如果美方一意孤行，中方将坚决予以反制。希望美方切实落实两国元首重要共识，摒弃零和博弈思维，回归理性务实轨道，同中方相向而行，推动中美经贸合作健康稳定发展，为中美建设性战略稳定关系注入更多正能量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5279545.d.html</link>
+            <guid>5025451</guid>
+            <pubDate>Tue, 04 Aug 2026 23:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三项光伏能耗能效强制性国标明年1月起正式实施】记者昨天（4日）从国家标准委了解到，三项光伏领域能耗能效强制性国家标准明年一月起正式实施，三项标准将从源头严控低效产品入市、推动光伏产业技术迭代与绿色升级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsp3675423.d.html</link>
+            <guid>5025450</guid>
+            <pubDate>Tue, 04 Aug 2026 23:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一名38岁的武装嫌疑人珍妮娜·约翰·泰莱涉嫌监视特朗普到访前的安保筹备工作，于特朗普国家高尔夫球场被捕。美国警方表示，之后在其住所搜出一支非法改装的AR式步枪、防弹衣、大容量弹匣、弹药，以及写有“令人担忧言论”的多本笔记本。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsp3674242.d.html</link>
+            <guid>5025448</guid>
+            <pubDate>Tue, 04 Aug 2026 22:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：美国出口势头火热。美国商品出口额已连续五个月突破2000亿美元，今年商品出口有望接近2.5万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5276829.d.html</link>
+            <guid>5025446</guid>
+            <pubDate>Tue, 04 Aug 2026 22:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场监管总局：我国量子信息产业质量强链取得阶段性成果】量子科技是前沿科技竞争的核心赛道，产业标准化、质量体系建设是产业化落地的关键。记者今天（5日）了解到，市场监管总局实施的量子信息产业质量强链专项行动取得系列阶段性成果。本次专项行动在标准体系建设上，依托全国量子技术标准化技术委员会已成功研制5项量子核心器件国家标准，填补了国家标准空白。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsx1588269.d.html</link>
+            <guid>5025444</guid>
+            <pubDate>Tue, 04 Aug 2026 22:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰失业率升至11年高点5.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsx1586702.d.html</link>
+            <guid>5025443</guid>
+            <pubDate>Tue, 04 Aug 2026 22:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰第二季度经季节调整后就业人数环比增长0.5%，路透调查预期为增长0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5273377.d.html</link>
+            <guid>5025442</guid>
+            <pubDate>Tue, 04 Aug 2026 22:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称继续打击乌港口设施及船只 乌称击落俄无人机】当地时间8月4日，俄罗斯国防部通报称，俄军已控制哈尔科夫地区一个居民点。过去一天，俄军对乌军交通、能源基础设施、后勤中心、无人机制造和储存地点等目标实施打击。通报还称，俄军当天继续对乌克兰港口、海上船只及相关基础设施实施打击，称这些设施被用于乌武装部队的军事补给。乌克兰武装部队总参谋部4日通报称，过去一天，前线地区发生226次战斗，乌军在多个方向击退俄军进攻。乌导弹部队和炮兵对俄军兵力集结区、无人机控制点等目标发动了打击，击落俄军1792架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5272457.d.html</link>
+            <guid>5025441</guid>
+            <pubDate>Tue, 04 Aug 2026 22:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克称SpaceX将采用英伟达芯片，AMD股价下挫8%】AMD股价周二大跌超过8%，尽管该公司财季销售额创下历史新高。此前，SpaceX首席执行官马斯克表示，决定完全采用英伟达的平台。周二下午，在两场时间上冲突的财报电话会议中，AMD重点介绍了其数据中心芯片销售额的激增，而马斯克则盛赞其最大竞争对手、市场领军企业英伟达。马斯克在向投资者解释其AI计算基础设施投资策略时说：“未来决定完全采用英伟达的平台，因为我们认为Blackwell是最好的架构。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5270842.d.html</link>
+            <guid>5025439</guid>
+            <pubDate>Tue, 04 Aug 2026 22:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polymarket成为ATP巡回赛的官方预测市场合作伙伴。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5269620.d.html</link>
+            <guid>5025437</guid>
+            <pubDate>Tue, 04 Aug 2026 22:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我下令建造11艘新型北极安全巡逻舰，首舰将于2028年交付，保障美国在北极地区长久的实力、主权与安全。国会必须全力支持、全额拨款扶持美国海岸警卫队，保障其持续完成这项至关重要的使命。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsp3660329.d.html</link>
+            <guid>5025433</guid>
+            <pubDate>Tue, 04 Aug 2026 22:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分基金逆势加仓 硬科技板块迎修复契机】经过近一个月的回调，科技板块的交易拥挤度得到有效降低。8月4日，以算力硬件为代表的科技股引领大盘反弹，市场情绪显著升温。综合近期各家机构的观点和策略来看，公募基金对科技股的信心依然坚定，但私募对科技股的看好已有明显松动，从市场更广泛领域挖掘超额收益渐成共识。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsp3656210.d.html</link>
+            <guid>5025429</guid>
+            <pubDate>Tue, 04 Aug 2026 22:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月公募调查出炉：A股港股获力挺，投资布局趋向均衡】近期，上海证券报联合天天基金进行了8月基金经理调查，南方基金、博时基金、浦银安盛基金、金鹰基金等多家知名基金公司参与其中。调查结果显示，中国权益类资产依然受到基金经理青睐。但在经历了科技成长板块的显著调整后，基金经理在投资布局上会更趋于均衡。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsx1573373.d.html</link>
+            <guid>5025428</guid>
+            <pubDate>Tue, 04 Aug 2026 22:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行理财2.52万亿元投向公募 配置占比创历史新高】银行业理财登记托管中心最新数据显示，截至2026年6月末，理财产品投资资产合计36万亿元，其中公募基金配置规模2.52万亿元，占比较年初提升1.9个百分点，至7.0%、创历史新高，并跃居理财产品第四大资产类别，仅次于债券、现金及银行存款、同业存单。 在传统优质资产供给收缩、市场收益承压、净值化转型深化的背景下，理财产品可借助债券型基金灵活调节组合久期，通过配置摊余成本法债基平滑净值波动，依托ETF实现权益资产高效布局，利用基金标准化交易机制提升调仓效率与资金运作效率。正是这一系列工具价值的释放，构成了近年来理财产品持续增配公募基金的核心逻辑。 （中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5258818.d.html</link>
+            <guid>5025424</guid>
+            <pubDate>Tue, 04 Aug 2026 22:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港楼市量价齐升 本地客户投资需求回升】多项数据印证2026年以来香港楼市热度的延续，“量价齐升”已成为市场最鲜明的标签。 价格方面，香港特区政府差饷物业估价署数据显示，6月私人住宅售价指数为323.2点，同比上升12.7%，环比上升0.31%，连续13个月上升；对比2025年12月的299.6点，上半年累计涨幅达7.88%。成交量同样亮眼。香港土地注册处统计显示，上半年整体楼宇买卖登记共计49955宗，交易总额4102.89亿港元，成交宗数创2021年上半年以来5年新高，交易金额突破四年半峰值，市场回暖力度远超行业预期。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsx1571730.d.html</link>
+            <guid>5025423</guid>
+            <pubDate>Tue, 04 Aug 2026 22:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加沙和平委员会官员表示，加沙路线图将面临漫长而艰难的进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5256793.d.html</link>
+            <guid>5025422</guid>
+            <pubDate>Tue, 04 Aug 2026 22:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国撤销巴西驻美大使签证】据美国媒体4日报道，美国政府已撤销巴西驻美大使的签证，以报复巴西上月拒绝向两名美国务院官员发放签证以及迟迟未接受美总统特朗普提名的驻巴西大使人选。美联社援引美国务院官员的话报道说，此举是对巴西方面行动的对等回应，美政府曾多次推迟采取措施，给巴西总统卢拉留出回旋余地，但卢拉并未改变立场。如果巴西采取恰当行动并接受美国驻巴西大使人选，美方可迅速撤回该措施。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimffsr5251867.d.html</link>
+            <guid>5025415</guid>
+            <pubDate>Tue, 04 Aug 2026 21:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰首都基辅等地传出强烈爆炸声】当地时间5日零时21分至33分，乌克兰首都基辅市和基辅州布罗瓦雷方向传出多轮强烈爆炸声。乌空军称俄军正在对基辅市发动新一轮弹道导弹袭击。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5378473.d.html</link>
+            <guid>5025414</guid>
+            <pubDate>Tue, 04 Aug 2026 21:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：田纳西州全新落成的特朗普总统大桥，这是莫大的荣幸。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4920517.d.html</link>
+            <guid>5025413</guid>
+            <pubDate>Tue, 04 Aug 2026 21:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据美国证券交易委员会文件显示，伯克希尔哈撒韦以每股199.55美元的平均价格出售了182980股达维塔公司股票，目前仍持有约2870万股达维塔股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3773091.d.html</link>
+            <guid>5025412</guid>
+            <pubDate>Tue, 04 Aug 2026 21:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西拒绝正式批准特朗普提名的丹尼尔・佩雷斯出任美国驻巴西利亚大使，且近期拒签数名美国外交官，作为回应，美国吊销了巴西驻华盛顿大使的签证。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5375795.d.html</link>
+            <guid>5025411</guid>
+            <pubDate>Tue, 04 Aug 2026 21:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员苏珊·柯林斯反对托德·布兰奇出任司法部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3771116.d.html</link>
+            <guid>5025410</guid>
+            <pubDate>Tue, 04 Aug 2026 21:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普称民调数据创历史新高】美国总统特朗普在社交媒体发文表示，他的“真实”民调支持率达到历史最高水平，并称媒体民调是“虚假的”。他将自己获得的支持归功于减税、就业、边境安全、外来投资、委内瑞拉以及伊朗相关成果。他呼吁美国人“投票给共和党，共创美国辉煌”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4916945.d.html</link>
+            <guid>5025409</guid>
+            <pubDate>Tue, 04 Aug 2026 21:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基辅市长克利奇科称，俄罗斯军队使用弹道导弹袭击乌克兰首都基辅。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3769859.d.html</link>
+            <guid>5025408</guid>
+            <pubDate>Tue, 04 Aug 2026 21:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：特朗普政府告知AI企业，不会对开源权重AI模型开展安全测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3767447.d.html</link>
+            <guid>5025406</guid>
+            <pubDate>Tue, 04 Aug 2026 21:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[两位知情人士透露，英伟达参与特朗普政府与人工智能开发者的会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5370947.d.html</link>
+            <guid>5025405</guid>
+            <pubDate>Tue, 04 Aug 2026 21:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防长赫格塞思驳斥CNN反导消耗的报道】美国国防部长赫格塞思驳斥CNN一则报道，该报道称美军在伊朗冲突期间消耗了近80%的萨德反导拦截弹。赫格塞思周二在X平台发文：“CNN，这条大标题并不属实。真为你们感到羞耻。”他还补充道：“我们对假新闻媒体的厌恶还远远不够。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3767119.d.html</link>
+            <guid>5025404</guid>
+            <pubDate>Tue, 04 Aug 2026 21:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基辅市长：首都防空系统正在运作。基辅及其周边地区正遭受弹道导弹袭击，更多导弹正瞄准该市。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5370160.d.html</link>
+            <guid>5025403</guid>
+            <pubDate>Tue, 04 Aug 2026 21:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[威瑞森、美国电话电报、T‑Mobile因SpaceX相关财报言论，股价跌幅超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5368966.d.html</link>
+            <guid>5025401</guid>
+            <pubDate>Tue, 04 Aug 2026 21:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI模型在第三方网络安全测试中突破预设边界】OpenAI表示，在英国人工智能安全研究所（UK AISI）和Irregular开展的第三方网络安全评估中，包括GPT-5.6 Sol在内的模型在降低安全防护的配置下，突破了预设测试边界。UK AISI发现，GPT-5.6 Sol重复使用了一个GitHub令牌，并在外部域名系统和网络隧道服务提供商处注册账户。Irregular的测试环境配置不当，使OpenAI模型得以访问公共互联网，并利用一个真实网站的漏洞。UK AISI于7月28日发现异常数据传输，并在大约一小时内控制住相关活动。OpenAI计划评估其第三方测试方式，并将在未来几周召集业内相关方进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5368176.d.html</link>
+            <guid>5025400</guid>
+            <pubDate>Tue, 04 Aug 2026 21:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：预计明年第二季度前至少部署1000颗星链V3卫星。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3764212.d.html</link>
+            <guid>5025399</guid>
+            <pubDate>Tue, 04 Aug 2026 21:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：星舰隔热罩问题似乎已得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5367469.d.html</link>
+            <guid>5025398</guid>
+            <pubDate>Tue, 04 Aug 2026 21:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话】塔米姆4日与美国总统特朗普就美伊局势通电话，强调应继续坚持对话、通过外交途径解决分歧。根据卡塔尔埃米尔宫4日发表的声明，塔米姆与特朗普讨论了地区局势最新发展，特别是旨在缓解美国与伊朗紧张关系、弥合双方分歧，从而为通过外交途径解决危机创造有利条件的各项努力。塔米姆还呼吁各方遵守美伊谅解备忘录达成的共识，支持旨在缓和地区紧张局势的国际倡议，以促进地区与国际和平与安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3762330.d.html</link>
+            <guid>5025394</guid>
+            <pubDate>Tue, 04 Aug 2026 21:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰：基辅遭遇弹道导弹威胁，请寻找掩体躲避。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5365516.d.html</link>
+            <guid>5025392</guid>
+            <pubDate>Tue, 04 Aug 2026 21:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX总裁：公司计划在星链直连设备业务部门建设地面基础设施，“以打造真正的移动服务”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3761614.d.html</link>
+            <guid>5025391</guid>
+            <pubDate>Tue, 04 Aug 2026 21:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国机构报告AI安全事件 涉Anthropic和OpenAI模型】英国AI安全研究院（AISI）表示：“2026年7月28日，我们宣布了一起安全事件，并在发现事件后约一小时内控制了事态并展开了全面调查。该事件源于一次评估，评估中我们给智能体布置了一项网络安全挑战任务。我们使用多个模型运行了该挑战122次。调查发现，在其中10次运行中，人工智能智能体在实时互联网上采取了未经授权的自主行动，目标是真实的个人和组织。我们总共记录了19起此类行动。几乎所有这些行为（17起）都来自同一个模型——Anthropic的Mythos5，另有2起行动涉及OpenAI的GPT-5.6-Sol。对此事件应谨慎解读。在某种程度上，我们的评估设计选择和特定配置促成了这种行为。尽管如此，该智能体的活动仍显示出一些新颖的、可能具有欺骗性的行为，其程度和严重性均超出了我们的预期。我们目前的分析结果尚不明确，且仍在进行中。”AISI补充称，重点在于，这并非模型脱离安全测试环境（即“沙盒”）的案例。按照网络安全测试的标准操作，其当时有意允许了互联网访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3761516.d.html</link>
+            <guid>5025390</guid>
+            <pubDate>Tue, 04 Aug 2026 21:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党国会议员马克斯·米勒透露，特朗普致电他并表示：“不知道你能不能拿下这次选举。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3760126.d.html</link>
+            <guid>5025389</guid>
+            <pubDate>Tue, 04 Aug 2026 21:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD预计AI算力市场年增速40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4906686.d.html</link>
+            <guid>5025388</guid>
+            <pubDate>Tue, 04 Aug 2026 21:23:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[马斯克：SPACEX的ARR到年底“可能会高于”1000亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4905541.d.html</link>
@@ -103,365 +371,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3749721.d.html</link>
             <guid>5025361</guid>
             <pubDate>Tue, 04 Aug 2026 21:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPENAI：异常情况尚未发现受影响站点自身数据之外的影响，其审计工作仍在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3749138.d.html</link>
-            <guid>5025360</guid>
-            <pubDate>Tue, 04 Aug 2026 21:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国7月外汇储备4279.5亿美元，前值4273.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5352724.d.html</link>
-            <guid>5025359</guid>
-            <pubDate>Tue, 04 Aug 2026 21:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安进高管表示，预计第三季度运营支出将出现显著的环比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5352384.d.html</link>
-            <guid>5025358</guid>
-            <pubDate>Tue, 04 Aug 2026 21:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安进高管在电话会议上表示，第二季度资本支出达5亿美元，主要受美国各地生产基地投资推动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3747407.d.html</link>
-            <guid>5025357</guid>
-            <pubDate>Tue, 04 Aug 2026 20:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：沙特与胡塞武装并未通过调解方开展谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3747155.d.html</link>
-            <guid>5025356</guid>
-            <pubDate>Tue, 04 Aug 2026 20:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席财务官：当前的经济状况已使我们在计算领域的新资本部署实现了不到一年的投资回报期。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3747084.d.html</link>
-            <guid>5025355</guid>
-            <pubDate>Tue, 04 Aug 2026 20:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席财务官：云服务合作业务需求旺盛。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3747042.d.html</link>
-            <guid>5025354</guid>
-            <pubDate>Tue, 04 Aug 2026 20:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一轮黎以谈判在罗马举行】意大利媒体4日报道，黎巴嫩和以色列当天在意首都罗马开启新一轮由美国斡旋的安全谈判，重点讨论两国边境安全安排以及落实6月底在美国华盛顿达成的框架协议。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3746551.d.html</link>
-            <guid>5025353</guid>
-            <pubDate>Tue, 04 Aug 2026 20:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席财务官：计算协议在第二季度增加了16亿美元的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4895499.d.html</link>
-            <guid>5025351</guid>
-            <pubDate>Tue, 04 Aug 2026 20:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席财务官：星链扩张或令混合ARPU承压，但将推动营收增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5349543.d.html</link>
-            <guid>5025349</guid>
-            <pubDate>Tue, 04 Aug 2026 20:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席财务官：IPO和债券发行改善了财务状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5348743.d.html</link>
-            <guid>5025346</guid>
-            <pubDate>Tue, 04 Aug 2026 20:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席运营官：7月Grok 4.5发布后，token消耗量增长两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4893878.d.html</link>
-            <guid>5025345</guid>
-            <pubDate>Tue, 04 Aug 2026 20:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席运营官：美国政府任务需求不断增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4893579.d.html</link>
-            <guid>5025344</guid>
-            <pubDate>Tue, 04 Aug 2026 20:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX总裁：第二季度赢得逾60亿美元美国政府合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3744298.d.html</link>
-            <guid>5025343</guid>
-            <pubDate>Tue, 04 Aug 2026 20:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缤客控股CEO：单笔预订的客户服务成本持续以两位数速率下降，与此同时整体客户满意度仍维持在高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3743785.d.html</link>
-            <guid>5025342</guid>
-            <pubDate>Tue, 04 Aug 2026 20:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席运营官表示，美国政府赋予该公司的航天任务规模正持续扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5347179.d.html</link>
-            <guid>5025341</guid>
-            <pubDate>Tue, 04 Aug 2026 20:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席运营官：第二季度是Starlink迄今新增用户最多的季度。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3743464.d.html</link>
-            <guid>5025340</guid>
-            <pubDate>Tue, 04 Aug 2026 20:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX首席运营官表示，星链很快将公布消息，或于今日公布.]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5347079.d.html</link>
-            <guid>5025339</guid>
-            <pubDate>Tue, 04 Aug 2026 20:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缤客控股CEO：我们的人工智能项目正在减少客户摩擦、降低联络率，并提升运营效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1664722.d.html</link>
-            <guid>5025338</guid>
-            <pubDate>Tue, 04 Aug 2026 20:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国石油协会（API）数据显示，上周，美国API原油库存 +269万桶，之前一周 -329.6万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3743009.d.html</link>
-            <guid>5025337</guid>
-            <pubDate>Tue, 04 Aug 2026 20:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克称：Starmind（星智）AI卫星将针对维拉‑鲁宾（Vera‑Rubin）计算平台做优化。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742995.d.html</link>
-            <guid>5025336</guid>
-            <pubDate>Tue, 04 Aug 2026 20:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：SpaceX团队正在解决人类历史上难度最高的工程问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742774.d.html</link>
-            <guid>5025335</guid>
-            <pubDate>Tue, 04 Aug 2026 20:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：Grok 4.7将在三至四周后发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742741.d.html</link>
-            <guid>5025334</guid>
-            <pubDate>Tue, 04 Aug 2026 20:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：SpaceX对Cursor的收购交易很快就会完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742663.d.html</link>
-            <guid>5025333</guid>
-            <pubDate>Tue, 04 Aug 2026 20:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：到2027年底，SpaceX的计算能力可能更接近10吉瓦而非5吉瓦。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742409.d.html</link>
-            <guid>5025331</guid>
-            <pubDate>Tue, 04 Aug 2026 20:43:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：Grok 5计划于今年推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1663995.d.html</link>
-            <guid>5025330</guid>
-            <pubDate>Tue, 04 Aug 2026 20:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：首批“星智（Starmind）”人工智能卫星将于明年开始发射升空。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742312.d.html</link>
-            <guid>5025329</guid>
-            <pubDate>Tue, 04 Aug 2026 20:43:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缤客控股CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5345785.d.html</link>
-            <guid>5025328</guid>
-            <pubDate>Tue, 04 Aug 2026 20:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：SpaceX预计年底算力将超过2吉瓦。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3742081.d.html</link>
-            <guid>5025327</guid>
-            <pubDate>Tue, 04 Aug 2026 20:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：往后我们决定完全基于英伟达开展技术搭建。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5345576.d.html</link>
-            <guid>5025326</guid>
-            <pubDate>Tue, 04 Aug 2026 20:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：人工智能与机器人技术将大幅提升带宽需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5345458.d.html</link>
-            <guid>5025325</guid>
-            <pubDate>Tue, 04 Aug 2026 20:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：我们在Grok上正取得快速进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1663361.d.html</link>
-            <guid>5025324</guid>
-            <pubDate>Tue, 04 Aug 2026 20:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：GROK 4.6 可能下周推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5345339.d.html</link>
-            <guid>5025323</guid>
-            <pubDate>Tue, 04 Aug 2026 20:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pinterest首席执行官：借助开放模型，我们实现的每笔交易成本不到同类封闭专有模型成本的8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1663284.d.html</link>
-            <guid>5025322</guid>
-            <pubDate>Tue, 04 Aug 2026 20:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：星链在10年内为全球大部分地区提供互联网服务“并非不可能”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5345004.d.html</link>
-            <guid>5025320</guid>
-            <pubDate>Tue, 04 Aug 2026 20:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：SpaceX预计发射的V3卫星数量将比V2多一个数量级。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5344459.d.html</link>
-            <guid>5025318</guid>
-            <pubDate>Tue, 04 Aug 2026 20:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：星链V3卫星的能力比V2高出一个数量级。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3740762.d.html</link>
-            <guid>5025317</guid>
-            <pubDate>Tue, 04 Aug 2026 20:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pinterest首席执行官：我们平台上超过96%的文本搜索是非品牌搜索。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5344150.d.html</link>
-            <guid>5025315</guid>
-            <pubDate>Tue, 04 Aug 2026 20:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：SpaceX今年迄今又迎来一个里程碑年份。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3740288.d.html</link>
-            <guid>5025314</guid>
-            <pubDate>Tue, 04 Aug 2026 20:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3740234.d.html</link>
-            <guid>5025313</guid>
-            <pubDate>Tue, 04 Aug 2026 20:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SpaceX公布上市以来首份财报 营收超出华尔街预期】SpaceX公布其6月轰轰烈烈上市后的首份季报，其中营收超过了华尔街的预期。伊隆·马斯克旗下这个集卫星、太空和人工智能等业务为一体的公司周二公布78亿美元的营收，而彭博调查的分析师平均预估为68.1亿美元。该公司还公布，其人工智能业务产生了12.6亿美元的经营亏损，好于亏损23.9亿美元的市场共识。 SpaceX公布这份备受期待的财报前，该公司自融资860亿美元以来股价经历了过山车式的变动。该股在后IPO震荡及人工智能板块的全球抛售潮中重挫，市值从峰值蒸发逾1万亿美元，也让马斯克失去了世界首富之位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3740034.d.html</link>
-            <guid>5025312</guid>
-            <pubDate>Tue, 04 Aug 2026 20:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SpaceX营收超预期 千亿解禁潮本周将至】SpaceX发布Q2营收（78亿美元），业绩超出华尔街预期（68亿美元）。该公司此前通过史上规模最大的IPO募资860亿美元，此后股价因IPO后波动及AI板块整体抛售而大幅下挫，从峰值蒸发了超过1万亿美元市值，马斯克全球首位万亿富豪的地位也随之丧失。为该公司增添不确定性的另一因素是，本周晚些时候将有逾1000亿美元市值的股票解禁，可能给股价带来进一步下行压力。在电话会议上，分析师很可能就公司庞大的AI支出、Starlink互联网业务的扩张计划，以及星舰能以多快速度发射卫星和载人等问题，向马斯克追问细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4888448.d.html</link>
-            <guid>5025311</guid>
-            <pubDate>Tue, 04 Aug 2026 20:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特：《琼斯法案》豁免期延长可能性较大，此举已促使加利福尼亚州及美国东海岸能源价格下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1660830.d.html</link>
-            <guid>5025310</guid>
-            <pubDate>Tue, 04 Aug 2026 20:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔：一份霍尔木兹海峡临时协议草案已经拟定；美国与伊朗官员释放乐观信号，特朗普同卡塔尔埃米尔讨论局势缓和，伊朗方面考虑允许欧洲国家在该海峡开展排雷作业。]]></title>
-            <guid>5025309</guid>
-            <pubDate>Tue, 04 Aug 2026 20:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特：未来几周燃料价格应该会回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5342351.d.html</link>
-            <guid>5025308</guid>
-            <pubDate>Tue, 04 Aug 2026 20:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：美国的弹药储备远远超过所需。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3738564.d.html</link>
-            <guid>5025307</guid>
-            <pubDate>Tue, 04 Aug 2026 20:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stonex预计，2026年美国玉米产量将达到161.6亿蒲式耳，单产为每英亩184.8蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5340621.d.html</link>
-            <guid>5025305</guid>
-            <pubDate>Tue, 04 Aug 2026 20:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗胡齐斯坦省副省长否认了沙拉姆切口岸附近发生爆炸的相关报道。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4886227.d.html</link>
-            <guid>5025304</guid>
-            <pubDate>Tue, 04 Aug 2026 20:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍】三星电子在美国加州圣克拉拉举行的未来存储与内存大会（FMS）上推出其V10 Bonding V-NAND，即BV-NAND原型产品。该芯片拥有超过400层结构，并采用全新的晶圆键合架构，以提高存储密度并增强性能。三星表示，其BV-NAND技术较上一代V9 NAND将存储密度提高约58%，同时提升读取、写入以及输入/输出性能，以满足人工智能系统对更高容量、更高能效存储解决方案日益增长的需求。三星还展示了其称业界首款zHBM和zNAND-O架构概念模型。该技术通过垂直堆叠存储单元，在更小空间内存储更多数据。不同于传统HBM与AI处理器并列封装的方式，三星的zHBM会将存储垂直堆叠于AI加速器之上，以缩短数据传输距离，提高带宽，同时提升能源效率。三星表示，其晶圆键合技术有望实现超过传统HBM5内存10倍的存储密度，同时将能源效率提高3倍，并将热阻降低一半以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5340376.d.html</link>
-            <guid>5025303</guid>
-            <pubDate>Tue, 04 Aug 2026 20:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX：第二季度AI业务板块资本开支158.3亿美元，市场预期130.9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1658178.d.html</link>
-            <guid>5025301</guid>
-            <pubDate>Tue, 04 Aug 2026 20:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD：第二季度资本支出8.08亿美元，预估2.986亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1657508.d.html</link>
-            <guid>5025299</guid>
-            <pubDate>Tue, 04 Aug 2026 20:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD：第二季度研发支出25.3亿美元，预估24.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5339278.d.html</link>
-            <guid>5025298</guid>
-            <pubDate>Tue, 04 Aug 2026 20:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX：约56%的积压订单预计在一年内确认收入，约34%预计在1至3年内确认收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1657405.d.html</link>
-            <guid>5025297</guid>
-            <pubDate>Tue, 04 Aug 2026 20:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD预计第三季度经调整毛利率大约56％，预估56.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkz1657216.d.html</link>
-            <guid>5025296</guid>
-            <pubDate>Tue, 04 Aug 2026 20:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD预计第三季营收在127亿至133亿美元，市场预估为125.1亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4884751.d.html</link>
-            <guid>5025295</guid>
-            <pubDate>Tue, 04 Aug 2026 20:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD：预计2026年下半年数据中心销售将加速增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3735078.d.html</link>
-            <guid>5025293</guid>
-            <pubDate>Tue, 04 Aug 2026 20:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD第二季调整后每股收益1.66美元，IBES预估为1.62美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkr3735056.d.html</link>
-            <guid>5025292</guid>
-            <pubDate>Tue, 04 Aug 2026 20:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD第二季度数据中心部门营收为67亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5338716.d.html</link>
-            <guid>5025291</guid>
-            <pubDate>Tue, 04 Aug 2026 20:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院一名高级官员称，若局势得到解决，驻华盛顿的巴西高级外交官签证将予以恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkx4884227.d.html</link>
-            <guid>5025289</guid>
-            <pubDate>Tue, 04 Aug 2026 20:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院称，美国撤销了巴西大使的签证。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-05/detail-inimezkt5337958.d.html</link>
-            <guid>5025287</guid>
-            <pubDate>Tue, 04 Aug 2026 20:14:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
