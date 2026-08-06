@@ -4,337 +4,346 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 05 Aug 2026 23:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 03:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【人民日报：驾驭好人工智能这匹千里马】前不久，美国开放人工智能研究中心（OpenAI）承认，旗下部分人工智能（AI）模型在一次内部安全测试中失控，突破隔离环境并入侵开源AI平台的基础设施。这起“前所未有的网络安全事件”引人深思：当人工智能越来越像一匹日行千里的骏马，如何才能驾驭好它？“千里马”要跑得快，也要跑得稳。从生成式大模型到具身智能，从AI编程助手到自主决策智能体，人工智能的能力边界不断拓展，应用场景持续丰富，而与之匹配的安全治理却未必能完全跟上。此次事件中，部分AI模型在无指令下自主完成入侵、渗透、操控的全链条动作，暴露出治理能力没有跟上技术发展。安全与发展从来不是非此即彼，管控好风险，创新才有试错的空间；守住了底线，技术才有迭代的根基。统筹发展和安全，需要在法律法规、技术标准、风险监测等方面协同发力。从《人工智能生成合成内容标识办法》发布，到《智能体应用安全基本要求》强制性国家标准下达，再到一些人工智能实验室推出高安全、产业级智能体平台并开源智能体守卫模型，探索将安全准则嵌入智能体决策层……以规则的确定性应对技术的不确定性，让安全治理覆盖从模型研发到终端应用的各个环节，才能确保人工智能始终安全、可靠、可控。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxv0792153.d.html</link>
-            <guid>5027553</guid>
-            <pubDate>Wed, 05 Aug 2026 23:10:46 GMT</pubDate>
+            <title><![CDATA[乌克兰当地官员称，俄罗斯对巴拉克利亚发动的袭击造成三人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3160220.d.html</link>
+            <guid>5027928</guid>
+            <pubDate>Thu, 06 Aug 2026 03:24:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KAKAOBANK 2026年第二季度营业利润为1262亿韩元，同比增长17.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxp4685491.d.html</link>
-            <guid>5027548</guid>
-            <pubDate>Wed, 05 Aug 2026 23:04:47 GMT</pubDate>
+            <title><![CDATA[以色列军方称，两名以色列士兵在黎巴嫩南部丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3158999.d.html</link>
+            <guid>5027927</guid>
+            <pubDate>Thu, 06 Aug 2026 03:22:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【夏日经济持续升温 家电企业聚焦增量市场】炎炎夏日，空调行业迎来传统销售旺季。记者从多家上市公司了解到，从二季度开始，空调行业就进入了销售“快车道”。但是，受原材料价格波动、以旧换新补贴变化以及区域销售冷热不均等因素影响，相关公司实际盈利能力有待财报进一步验证。在此背景下，家电企业纷纷聚焦新品、海外等增量市场，以减少负面因素对于业绩的冲击。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxv0789708.d.html</link>
-            <guid>5027547</guid>
-            <pubDate>Wed, 05 Aug 2026 23:04:13 GMT</pubDate>
+            <title><![CDATA[【瑞萨电子将展出具身智能机器人解决方案】Renesas（瑞萨电子）宣布，将携多款面向具身智能、工业机器人、服务机器人及AI开发平台的解决方案，首次亮相中国具身智能机器人产业大会暨展览会，包括传感器融合灵巧手、机器人关节、9轴电机控制、永磁同步马达控制解决方案，以及基于瑞萨RAA2P3226双路电涡流位置传感器的机器人关节编码器。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4762346.d.html</link>
+            <guid>5027926</guid>
+            <pubDate>Thu, 06 Aug 2026 03:21:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球首座16兆瓦张力腿浮式风电平台正式投运】今天（8月6日），记者从中国海油获悉，全球首座16兆瓦张力腿浮式风电平台——“海油安澜号”成功接入陆丰油田电网，正式为海上油田直供绿电，标志着我国深远海浮式风电装备技术走向世界前列，为我国海上风电开发成功探索了新技术路线。张力腿浮式风电平台是专门为开发深远海风电设计建造的大型浮式装备，由上部浮体、海底锚固基础和系泊系统组成。“海油安澜号”安装在水深136米、离岸136公里的陆丰油田。整体高度近110层楼高，搭载16兆瓦抗台风机，按照可抵御17级台风的极端工况自主设计建造，服役周期达25年。“海油安澜号”投产后，预计每年可为油田提供5400万度绿色电力，相当于节约燃料油1.5万立方米，减少二氧化碳排放3.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxt4017111.d.html</link>
-            <guid>5027545</guid>
-            <pubDate>Wed, 05 Aug 2026 23:03:48 GMT</pubDate>
+            <title><![CDATA[【盛剑科技新设子公司 注册资本3000万元】企查查APP显示，近日，湖北盛剑科技有限公司成立，法定代表人为常程，注册资本为3000万元，经营范围包含：半导体器件专用设备销售；机械设备销售；机械零件、零部件销售；普通机械设备安装服务等。企查查股权穿透显示，该公司由盛剑科技全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4761917.d.html</link>
+            <guid>5027925</guid>
+            <pubDate>Thu, 06 Aug 2026 03:20:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国6月经常账盈余创单月最高纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxm3080788.d.html</link>
-            <guid>5027544</guid>
-            <pubDate>Wed, 05 Aug 2026 23:02:51 GMT</pubDate>
+            <title><![CDATA[【中方回应美方阻止中阿企业正常合作】8月6日，中国驻阿根廷使馆发言人就美方肆意破坏中阿合作发表谈话。近期，美国驻阿根廷使馆蓄意煽炒“中国威胁论”，泛化国家安全概念，以吊销签证方式赤裸裸阻止阿方企业同中国华为公司开展正常合作。有关做法充分反映出美方的傲慢与偏见，是对他国主权的极大不尊重和对自由市场原则的严重破坏，中方坚决反对。美国一贯标榜民主自由价值观，却容不下一家外国民营企业在第三国的正常生存和发展，其虚伪本质暴露无遗。我们敦促美方端正对华认知，停止霸权行径和政治操弄。（中国驻阿根廷使馆）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4761859.d.html</link>
+            <guid>5027924</guid>
+            <pubDate>Thu, 06 Aug 2026 03:20:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【协议接近达成 伊朗披露海峡新航道通行细节 美方再提“倒计时”】伊朗方面5日密集发布与阿曼就霍尔木兹海峡航运安排的谈判进展。根据双方初步协议，海峡现有两条航道将关闭，取而代之的是途经伊朗领海的新临时航线。伊方称，将在霍尔木兹海峡建立一种不同于过去60年的新通行模式，同时表示，协议与“立即开放海峡”无关，海峡开放取决于美方能否纠正其“违规行为”。另一方面，美方接连释放信号，称48小时内或见分晓。当前，霍尔木兹海峡通行量仍远低于战前水平，航运处于“有限恢复”阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxp4684193.d.html</link>
-            <guid>5027543</guid>
-            <pubDate>Wed, 05 Aug 2026 23:02:21 GMT</pubDate>
+            <title><![CDATA[【电魂网络成立动漫公司】企查查APP显示，近日，深圳漫魂幻新动漫有限公司成立，法定代表人为刘玉杰，经营范围包含：电子产品销售；皮革制品销售；玩具、动漫及游艺用品销售；动漫游戏开发；品牌管理；工业设计服务等。企查查股权穿透显示，该公司由电魂网络旗下上海漫魂幻新策划设计有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4760998.d.html</link>
+            <guid>5027923</guid>
+            <pubDate>Thu, 06 Aug 2026 03:19:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国6月未季调经常帐 497.3亿美元，前值386.074亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimiqxp4683095.d.html</link>
-            <guid>5027542</guid>
-            <pubDate>Wed, 05 Aug 2026 23:00:12 GMT</pubDate>
+            <title><![CDATA[【飞捷科思完成数亿元A1轮融资】8月6日，物理智能企业飞捷科思智能科技（上海）有限公司宣布完成A1轮融资。本轮由老股东泰达科投与海松资本、复旦科创共同领投，毅达资本、优势资本、踊跃资本、汇融基金、财鑫资本、湘江国投作为新增投资方参与投资；云启资本、硅港资本、中赢创投、常垒创投等现有股东继续追加投资，融资金额数亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3157126.d.html</link>
+            <guid>5027922</guid>
+            <pubDate>Thu, 06 Aug 2026 03:19:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际足联领导层全力支持因凡蒂诺】当地时间8月5日，国际足联领导层在摩洛哥举行危机会议。据会后发表的声明，国际足联领导层多位高级官员重申了对主席因凡蒂诺的“全力支持”。另据英国天空新闻报道，国际足联近日发布一封由因凡蒂诺及秘书长格拉夫斯特伦共同签署的信函，承认在推出世界杯投资计划过程中“存在失误”，并就相关错误公开致歉。 报道称，这是因凡蒂诺自宣布、后又撤回拟向私人投资者出售世界杯等赛事部分股权计划以来，首次公开道歉。国际足联表示，将开展必要审查，并在国际足联理事会下次例会上提交相关报告。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0916004.d.html</link>
-            <guid>5027539</guid>
-            <pubDate>Wed, 05 Aug 2026 22:50:31 GMT</pubDate>
+            <title><![CDATA[长鑫科技成交额超200亿元，现跌4.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4760751.d.html</link>
+            <guid>5027921</guid>
+            <pubDate>Thu, 06 Aug 2026 03:19:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【专家：加快财政支出进度的核心目标或是尽快形成实物工作量】近日召开的中共中央政治局会议指出，宏观政策要发力提效，加快财政支出和债券资金使用进度，有力推进“两重”建设和“两新”工作。专家认为，加快财政支出进度的核心目标或是尽快形成实物工作量。后续，扩大内需、支持服务消费和增强政策协同性，或是增量政策研究储备的重点发力方向。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0911991.d.html</link>
-            <guid>5027536</guid>
-            <pubDate>Wed, 05 Aug 2026 22:38:16 GMT</pubDate>
+            <title><![CDATA[【第二批稳定币牌照国庆前后发放？香港金管局：不评论市场传闻 持开放而谨慎态度】近期有市场消息称，随着首批稳定币发行人推进测试和业务准备，香港稳定币发行或进一步提速，第二批稳定币发行人牌照或存在于国庆前后落地的可能性。针对上述市场传闻，香港金管局发言人今日复函记者称，不对市场传闻做出评论，但对是否增发稳定币发行人牌照以及时间安排，金管局持开放而谨慎的态度，现阶段未有明确倾向。该发言人进一步表示，目前金管局的工作重点，是推进两家持牌稳定币发行人开展业务准备，并在其成功发行合规稳定币后，观察相关应用场景落地、营运成效以及市场反应等情况。至于未来是否增发牌照，需要综合考虑多方面因素，包括申请是否符合发牌要求、市场对稳定币的需求、实际应用情况，以及国际层面的发展趋势和监管讨论等。 (财联社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3156900.d.html</link>
+            <guid>5027920</guid>
+            <pubDate>Thu, 06 Aug 2026 03:18:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【委内瑞拉首都附近国际机场恢复商业货运航班 】内瑞拉交通部长弗朗西斯科·加尔塞斯5日称，委强震后，首架商业货运航班当天抵达委首都加拉加斯附近的迈克蒂亚西蒙·玻利瓦尔国际机场，标志着该机场部分恢复运营。加尔塞斯在社交媒体发文称，迈克蒂亚西蒙·玻利瓦尔国际机场此前因强震关闭，震后首架商业货运航班抵达这座机场对委物流活动至关重要。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4802788.d.html</link>
-            <guid>5027534</guid>
-            <pubDate>Wed, 05 Aug 2026 22:32:23 GMT</pubDate>
+            <title><![CDATA[【聚焦“AI+IT”赛道 雄安人工智能实训基地正式投运】雄安新区首届人工智能实训班今日开班，标志着雄安人工智能实训基地正式投运。该基地占地约53亩、建筑面积7万平方米，是服务北京非首都功能疏解、支撑雄安新区人工智能产业高质量发展的重点公共服务平台。基地采用“运营公司+实训基地+人才学院”三位一体模式，联动多家头部企业，打造全链条认证与赛训体系，覆盖从基础技能到高端研发的全层级人才培养。未来，雄安人工智能实训基地将致力于为智能经济时代培育更多AI实战型人才。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivft0823000.d.html</link>
+            <guid>5027915</guid>
+            <pubDate>Thu, 06 Aug 2026 03:13:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：Meta 的 Muse Spark 1.1 模型入侵了一家公司的系统，并对其内部系统作出修改。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4796932.d.html</link>
-            <guid>5027531</guid>
-            <pubDate>Wed, 05 Aug 2026 22:19:45 GMT</pubDate>
+            <title><![CDATA[【腾讯自走棋游戏《王者万象棋》就体验服称号异常问题致歉】8月6日，腾讯《王者荣耀》IP自走棋游戏《王者万象棋》发布公告：目前已结束临时停机维护，服务器现已先行开放，玩家们可正常登录游戏进行对局，但异常问题仍未完全解决，我们会在后续的更新中修复，当前不会影响大家的正常游戏体验。对于此次问题给大家带来的不便，我们深表歉意。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4756143.d.html</link>
+            <guid>5027914</guid>
+            <pubDate>Thu, 06 Aug 2026 03:11:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息： Meta 的一款人工智能模型在网络安全测试过程中入侵了另一家公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3193047.d.html</link>
-            <guid>5027530</guid>
-            <pubDate>Wed, 05 Aug 2026 22:19:19 GMT</pubDate>
+            <title><![CDATA[澳航发言人表示，目前不存在立即发生工业行动或停工的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3152016.d.html</link>
+            <guid>5027912</guid>
+            <pubDate>Thu, 06 Aug 2026 03:10:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【32只ETF密集成立，机构投资者加速入场】在三季度以来的震荡行情中，机构加快了ETF新品入市步伐。Choice数据显示，7月1日至8月5日，已成立了32只ETF，发行规模合计达76.12亿元。从这些新成立ETF的“买主”看，机构投资者身影频频出现。以华安中证工程机械主题ETF为例，截至7月31日，前十名基金份额持有人均为机构投资者。与此同时，ETF产品阵营有望持续扩容。据Choice资讯统计，截至8月5日，有21只ETF正在发行，另有4只ETF发布了基金份额发售公告，即将启动发行。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0905253.d.html</link>
-            <guid>5027529</guid>
-            <pubDate>Wed, 05 Aug 2026 22:19:02 GMT</pubDate>
+            <title><![CDATA[澳航发言人表示，这份长途航线协议覆盖约1700名飞行员，他们负责执飞波音787、空客A330及空客A380机型。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3151945.d.html</link>
+            <guid>5027911</guid>
+            <pubDate>Thu, 06 Aug 2026 03:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  eBay 首席财务官：第三季度合并商品交易总额（GMV）预期介于 220 亿至 224 亿美元之间，包含近期收购的 Depop 带来的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0900761.d.html</link>
-            <guid>5027523</guid>
-            <pubDate>Wed, 05 Aug 2026 22:04:51 GMT</pubDate>
+            <title><![CDATA[澳航发言人表示，已与澳大利亚飞行员协会(AIPA)及澳大利亚飞行员工会(AFAP)就新的长途业务协议条款达成原则性协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfr4049396.d.html</link>
+            <guid>5027910</guid>
+            <pubDate>Thu, 06 Aug 2026 03:10:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普：我们必须让共和党参议员态度更强硬。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4787948.d.html</link>
-            <guid>5027519</guid>
-            <pubDate>Wed, 05 Aug 2026 21:57:26 GMT</pubDate>
+            <title><![CDATA[【巴基斯坦称将继续为地区和平作出努力】巴基斯坦总理办公室5日发表声明说，巴基斯坦总理夏巴兹当天会见了由伊朗工业矿业和贸易部长阿塔巴克率领的代表团。夏巴兹表示，巴基斯坦将继续为地区和平作出真诚努力。巴基斯坦高度重视与邻国和兄弟国家伊朗的关系。巴伊双方同意加强边贸设施，保持边境24小时开放，改善物流并协调海关程序。阿塔巴克赞扬巴基斯坦领导人和人民对伊朗的声援和为地区和平作出的真诚外交努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3151583.d.html</link>
+            <guid>5027909</guid>
+            <pubDate>Thu, 06 Aug 2026 03:10:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普在谈及取消电动汽车强制政策时提及马斯克。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrv4123382.d.html</link>
-            <guid>5027518</guid>
-            <pubDate>Wed, 05 Aug 2026 21:50:37 GMT</pubDate>
+            <title><![CDATA[【我国首座抗17级台风高技术难度浮式风电平台投运】中国海油8月6日宣布，我国自主设计建造的首座16兆瓦张力腿深远海浮式风电平台“海油安澜号”成功接入陆丰油田电网并直供绿电。平台按可抵御17级台风极端工况设计建造，其投运标志着我国深远海浮式风电装备技术走向世界前列，为我国海上风电开发探索新路线。“海油安澜号”安装于珠江口盆地海域，安装位置水深136米、离岸136公里。整体高度近110层楼高，总重7800吨，扫风面积相当于7.5个标准足球场，平台通过海底电缆接入陆丰油田电网，投产后预计每年可提供5400万度绿色电力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3150696.d.html</link>
+            <guid>5027907</guid>
+            <pubDate>Thu, 06 Aug 2026 03:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普：我们很欣赏埃隆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4784878.d.html</link>
-            <guid>5027517</guid>
-            <pubDate>Wed, 05 Aug 2026 21:50:19 GMT</pubDate>
+            <title><![CDATA[【服贸会健康卫生服务专题首次设立“未来医疗科技产业前沿展区”】中国国际服务贸易交易会（简称“服贸会”）将于9月9日至13日在北京首钢园区举办。作为服贸会核心专题之一，健康卫生服务专题将于今年连续第六年亮相首钢园。本届专题由北京市卫生健康委员会牵头，专题以“全球服务 共享健康”为永久主题，将在首钢园2号馆设置专题展并同期举办“首都国际医学大会”等15场各类会议、论坛和配套活动，依托服贸会平台，着力打造为数智医疗、创新药企、高端装备、中医智能等领域链接国内资源、拓展全球市场的重要开放平台。北京市卫生健康委员会介绍，2026年专题展览全面提质升级，头部集聚效应持续凸显，世界500强及行业龙头企业参展占比达61.5%，展区国际化率提升至56.6%；22家国内外知名企业首次参展，众多行业标杆企业持续亮相，多款前沿技术产品将实现全球首发、中国首展。本届首次设立“未来医疗科技产业前沿展区”，汇聚8家精准医疗、细胞治疗领域专精特新企业，为科创中小企业搭建专属成长舞台。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3147017.d.html</link>
+            <guid>5027904</guid>
+            <pubDate>Thu, 06 Aug 2026 03:05:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普：我们正与伊朗进行谈判，看看后续会如何发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3179285.d.html</link>
-            <guid>5027516</guid>
-            <pubDate>Wed, 05 Aug 2026 21:46:47 GMT</pubDate>
+            <title><![CDATA[【一拍无人接盘，哪吒汽车南宁工厂设备降价20%拍卖】昔日造车新势力“销冠”哪吒汽车南宁工厂生产设备一拍流拍，目前已降价进入二拍阶段。据阿里司法拍卖平台，7月27日，南宁市青秀区人民法院正式公开拍卖“存放于南宁市青秀区伶俐镇昌隆路88号机械设备一批”，起拍价约6030.79万元。因无人报名，一拍最终以流拍收场。目前，上述设备已进入二拍程序，起拍价已下调至约4824.63万元，较一拍下调幅度超20%。开拍时间为8月12日上午10点，竞价周期为1天。截至发稿，已有789次围观，67人设置提醒，但报名状态栏仍显示“0人”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3142794.d.html</link>
+            <guid>5027897</guid>
+            <pubDate>Thu, 06 Aug 2026 03:00:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普谈及伊朗：我宁愿与伊朗达成一份协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4782824.d.html</link>
-            <guid>5027515</guid>
-            <pubDate>Wed, 05 Aug 2026 21:46:34 GMT</pubDate>
+            <title><![CDATA[【三星全新Galaxy Z系列折叠屏手机明日将在韩国上市】三星电子将于8月7日在韩国正式推出新一代折叠屏机型Galaxy Z Fold8 Ultra、Galaxy Z Fold8和Galaxy Z Flip8，以及智能手表Galaxy Watch Ultra2和Galaxy Watch9。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4745873.d.html</link>
+            <guid>5027896</guid>
+            <pubDate>Thu, 06 Aug 2026 02:59:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：伊朗与阿曼就霍尔木兹海峡新航线的谈判已进入最后阶段，该方案尚待最高领袖穆杰塔巴・哈梅内伊批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4782425.d.html</link>
-            <guid>5027514</guid>
-            <pubDate>Wed, 05 Aug 2026 21:45:57 GMT</pubDate>
+            <title><![CDATA[【李在明公开点名批评驻韩美军拖延归还用地】综合韩联社、《东亚日报》等韩媒报道，韩国总统李在明5日在青瓦台听取外交部、统一部、国防部和国家报勋部工作汇报时，公开点名批评驻韩美军拖延归还韩方军事用地，直言美方为拖延归还土地罗列的各类理由“几乎就是借口”。韩国不惜斥巨资为驻韩美军建成平泽新基地，美军顺利迁入后，美方却迟迟不移交原有用地。李在明称，这种情况“从常理上说不通”。 韩国国防部长安圭伯承认，美方在驻韩基地用地返还问题上态度消极，韩方在持续跟进督促。对此，李在明当场讽刺称，“所以不能先付款”。他表示，韩国秉持国家合作互信，始终相信美方会履行土地返还承诺，但该承诺长期未能落地兑现。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4739481.d.html</link>
+            <guid>5027892</guid>
+            <pubDate>Thu, 06 Aug 2026 02:51:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  明晟（MSCI）：在 2026 年 11 月指数调整中，结束对孟加拉国在 MSCI 股票指数中的特殊处理安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0890218.d.html</link>
-            <guid>5027512</guid>
-            <pubDate>Wed, 05 Aug 2026 21:39:13 GMT</pubDate>
+            <title><![CDATA[【日本与阿联酋据悉洽谈合作在日建2万亿日元数据中心】据报道，日本与阿联酋正洽谈合作在秋田县建设一座数据中心，项目规模预计达2万亿日元，最早将于2030年投运。报道称，阿联酋驻日本大使将于本月中旬访问秋田县，与该县知事会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3133237.d.html</link>
+            <guid>5027886</guid>
+            <pubDate>Thu, 06 Aug 2026 02:49:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  巴西下调基准利率 25 个基点至 14.00% 。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4776146.d.html</link>
-            <guid>5027508</guid>
-            <pubDate>Wed, 05 Aug 2026 21:34:31 GMT</pubDate>
+            <title><![CDATA[【万华化学在滨州成立新能源公司，注册资本4亿】天眼查App显示，8月4日，万华（滨州沾化）新能源有限公司成立，法定代表人为王晓星，注册资本4亿人民币，经营范围含发电业务、输电业务、供（配）电业务、风力发电技术服务、太阳能发电技术服务、光伏发电设备租赁等，由万华化学（烟台）电池产业有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4735780.d.html</link>
+            <guid>5027885</guid>
+            <pubDate>Thu, 06 Aug 2026 02:48:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国际足联：国际足联秘书长及国际足联管理委员会成员重申全力支持国际足联主席詹尼・因凡蒂诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3171608.d.html</link>
-            <guid>5027507</guid>
-            <pubDate>Wed, 05 Aug 2026 21:32:42 GMT</pubDate>
+            <title><![CDATA[生物科技公司Braveheart在美国IPO中筹集3.825亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivft0804324.d.html</link>
+            <guid>5027882</guid>
+            <pubDate>Thu, 06 Aug 2026 02:47:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  巴拿马运河管理局：自 8 月 26 日起，通行新巴拿马船闸的船舶最大允许吃水深度为 14.63 米。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4773234.d.html</link>
-            <guid>5027506</guid>
-            <pubDate>Wed, 05 Aug 2026 21:28:57 GMT</pubDate>
+            <title><![CDATA[【宝马3系中国市场累计销量超200万台】8月6日，宝马中国官微宣布，宝马3系中国市场累计销量超200万台。宝马中国方面透露，新世代BMW i3将在成都车展正式全面亮相。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3130712.d.html</link>
+            <guid>5027881</guid>
+            <pubDate>Thu, 06 Aug 2026 02:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普称赞通胀下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3167335.d.html</link>
-            <guid>5027504</guid>
-            <pubDate>Wed, 05 Aug 2026 21:24:51 GMT</pubDate>
+            <title><![CDATA[【光学元件板块走高，光智科技涨超10%】光学元件板块走高，光智科技涨超10%，戈碧迦、茂莱光学、腾景科技、波长光电、永新光学等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3129685.d.html</link>
+            <guid>5027880</guid>
+            <pubDate>Thu, 06 Aug 2026 02:45:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：加拿大领导层很糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3165262.d.html</link>
-            <guid>5027503</guid>
-            <pubDate>Wed, 05 Aug 2026 21:21:15 GMT</pubDate>
+            <title><![CDATA[【国瓷材料：目前公司已建成硫化物固态电解质自动化生产线 量产能力初步构建】国瓷材料8月5日在分析师会议上表示，随着全固态电池产业化进程推进，硫化物固态电解质因其高离子电导率等优势，成为核心关键材料。目前公司已建成硫化物固态电解质自动化生产线，量产能力初步构建，产品品质得到客户的高度认可，公司正在密切配合下游重点客户的产业化进程，后续将根据市场需求变化及下游客户的产业化进度，合理规划扩产节奏，协同推进全固态电池的商业化落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3128141.d.html</link>
+            <guid>5027879</guid>
+            <pubDate>Thu, 06 Aug 2026 02:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。二季度每股收益（EPS）为4.73美元，上年同期2.37美元。二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrp3163188.d.html</link>
-            <guid>5027502</guid>
-            <pubDate>Wed, 05 Aug 2026 21:16:46 GMT</pubDate>
+            <title><![CDATA[【国瓷材料：针对AI服务器及车规级MLCC粉体 已完成部分高端产线的扩产工作】国瓷材料8月5日在分析师会议上表示，受益于行业景气度持续回升以及AI服务器、汽车电子等新兴应用领域需求的拉动，公司上半年MLCC介质粉体销量实现稳步增长；为更好满足下游客户需求，公司针对AI服务器及车规级MLCC粉体，已完成部分高端产线的扩产工作。后续，随着新增产能逐步释放，MLCC粉体的产销量有望进一步提升；同时，公司将持续跟踪市场需求变化，适时推进扩产计划，确保供给能力与市场节奏相匹配。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4731045.d.html</link>
+            <guid>5027878</guid>
+            <pubDate>Thu, 06 Aug 2026 02:42:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  明晟公司（MSCI）表示，其 8 月指数调整公告定于 2026 年 8 月 12 日发布，且将在概要公告发布后即刻向客户提供详细的调仓信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrx0877915.d.html</link>
-            <guid>5027500</guid>
-            <pubDate>Wed, 05 Aug 2026 21:08:37 GMT</pubDate>
+            <title><![CDATA[N津富涨超133%，成交额超8.6亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4730311.d.html</link>
+            <guid>5027877</guid>
+            <pubDate>Thu, 06 Aug 2026 02:42:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  AWS：AWS 与 Anthropic 以及 OpenAI 展开合作，将 AWS Continuum 集成至开发者工作流程。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4759668.d.html</link>
-            <guid>5027498</guid>
-            <pubDate>Wed, 05 Aug 2026 21:02:37 GMT</pubDate>
+            <title><![CDATA[【中企承建喀麦隆尼永河大桥建成通车】中交一公局集团承建的喀麦隆尼永河大桥竣工通车仪式5日在喀麦隆中部大区的尼永-凯莱举行，喀公共工程部长、交通部长和社会事务部长等出席仪式。喀公共工程部长埃马纽埃尔·恩加努·朱梅西高度评价中方在施工组织、技术应用和履约管理等方面展现出的专业水平，认为大桥的建成不仅保障了当地居民安全便捷跨越尼永河，也将在促进农业发展、带动区域经济和加强互联互通等方面发挥重要作用。“大桥比合同工期提前9个月建成，是各方密切协作、共同努力所取得的重要成果。”他说。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4730206.d.html</link>
+            <guid>5027876</guid>
+            <pubDate>Thu, 06 Aug 2026 02:41:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国高级官员发出警告 全美计算机系统需加强网络防御以应对AI风险】美国政府最高级别的信息安全官员警告，全国各地的计算机系统需要加强防御，以应对日益加剧的人工智能(AI)驱动型网络攻击威胁。代理美国联邦首席信息安全官Michael Duffy周三发表讲话时表示，政府和私营部门机构过去在网络安全方面通常采取被动应对方式。他表示，要在AI时代抢在黑客攻击发生前采取防范措施，这种方式必须改变。“鉴于我们目前看到的这些AI能力，我们很可能根本没有时间收拾残局，”Duffy在拉斯维加斯一场网络安全会议的专题讨论中表示，“未来十年的政策不能总是在某起重大事件发生后才被动跟进。”包括Anthropic PBC的Mythos模型在内，AI系统取得的快速突破引发外界担忧，即黑客可能利用这项技术对关键基础设施发动破坏性网络攻击。特朗普政府已致力于采取行动应对AI带来的网络风险，近期已完成一项针对前沿模型的自愿安全测试框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4759040.d.html</link>
-            <guid>5027497</guid>
-            <pubDate>Wed, 05 Aug 2026 21:01:21 GMT</pubDate>
+            <title><![CDATA[【MiniMax注册资本增至55亿元】企查查APP显示，近日，MiniMax关联公司上海稀宇极智科技有限公司发生工商变更，注册资本由40亿元增至55亿元，增资15亿元。此前5月，该公司注册资本由10亿元增至40亿元，增资30亿元。企查查信息显示，该公司成立于2021年，经营范围包含：计算机系统服务；信息系统集成服务；信息系统运行维护服务；人工智能基础软件开发；人工智能应用软件开发等。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3125292.d.html</link>
+            <guid>5027875</guid>
+            <pubDate>Thu, 06 Aug 2026 02:40:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  可口可乐合并报表口径，仍预计全年资本支出约 3 亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimikrr4756347.d.html</link>
-            <guid>5027495</guid>
-            <pubDate>Wed, 05 Aug 2026 20:51:19 GMT</pubDate>
+            <title><![CDATA[【寒武纪启动2027届校园招聘】8月6日，寒武纪宣布2027届校园招聘正式启动，面向于2026年9月-2027年8月毕业的高校应届毕业生，招聘方向为芯片类、软件类、职能与研发支持类，工作地点在北京、上海、深圳、合肥、西安和南京。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3124955.d.html</link>
+            <guid>5027873</guid>
+            <pubDate>Thu, 06 Aug 2026 02:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[红杉资本完成100亿美元新一轮融资。今年已经向（除了SpaceX之外的）投资者回报50亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3279531.d.html</link>
-            <guid>5027491</guid>
-            <pubDate>Wed, 05 Aug 2026 20:36:32 GMT</pubDate>
+            <title><![CDATA[【证通电子与倍瑞思浸没液冷试点落地 为高密度算力机房升级提供新思路】倍瑞思官微消息，近日，倍瑞思与证通电子完成浸没式液冷试点落地，为高密度算力机房升级打造可落地范本。本次试点核心硬件为针对浸没场景专项研发的智算服务器，搭载8张RTX5090算力卡，适配AI训练、模型推理、仿真渲染等高负载工作。本次双方合作打通定制服务器、存量暖通复用、稳定运维完整链路，解决行业普遍存在的液冷改造成本高等痛点。未来双方将基于本次试点持续优化，研发多机柜并联方案，完善不同水温、不同算力硬件的适配标准，推动浸没液冷从大型超算走向普惠落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3124873.d.html</link>
+            <guid>5027872</guid>
+            <pubDate>Thu, 06 Aug 2026 02:39:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  法拉第未来：将为现有可转换债券设定 5 美元的最低转换底价，并计划在四个季度内，将截至一季度末 2.3 亿美元的负债降至 1 亿美元以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieix4226911.d.html</link>
-            <guid>5027490</guid>
-            <pubDate>Wed, 05 Aug 2026 20:36:08 GMT</pubDate>
+            <title><![CDATA[【中兴通讯携手Sky47建成巴基斯坦规模最大智算数据中心】据中兴通讯官网，近日，由中兴通讯与巴基斯坦领先云服务商Sky47联合承建的、巴基斯坦规模最大的通算与智算一体化的数据中心——Sky47喀喇昆仑一号（Karakoram-01） 落成典礼在伊斯兰堡举办。作为巴基斯坦首座定制化AI原生Tier III级数据中心，Sky47喀喇昆仑一号总供电容量达8.5兆瓦。该中心将在巴基斯坦全国范围内提供强大的云计算、数据托管与先进数字服务支持，全面满足政府及企业在人工智能（AI）、机器学习（ML）及高性能计算（HPC）等领域的算力需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4728187.d.html</link>
+            <guid>5027871</guid>
+            <pubDate>Thu, 06 Aug 2026 02:39:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  CF 工业控股：受伊朗冲突影响，中东、非洲地区贸易流通的氮素供应减少约 400‑450 万吨尿素以及约 100 万吨氨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3279103.d.html</link>
-            <guid>5027489</guid>
-            <pubDate>Wed, 05 Aug 2026 20:35:02 GMT</pubDate>
+            <title><![CDATA[【白宫否认特朗普与赫格塞思因弹药库存短缺发生争执】当地时间8月5日，美国白宫新闻秘书莱维特表示，有关总统特朗普与国防部长赫格塞思在马里兰州戴维营“因伊朗战事中美军导弹库存严重短缺而发生争执”的报道是“假新闻”。莱维特说，当时她与特朗普及赫格塞思一同在戴维营，报道里说的情况并未发生过。他们也曾多次向《华盛顿邮报》澄清这一点。《华盛顿邮报》5日援引知情人士的话报道称，上周，特朗普在戴维营就伊朗问题表达了强烈不满，要求防长赫格塞思就军火严重短缺问题作出解释。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfr4025291.d.html</link>
+            <guid>5027870</guid>
+            <pubDate>Thu, 06 Aug 2026 02:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Applovin2026年Q2营收19.24亿美元 同比增长53%】Applovin2026年Q2营收19.24亿美元，同比增长53%；稀释后EPS3.76美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3277473.d.html</link>
-            <guid>5027485</guid>
-            <pubDate>Wed, 05 Aug 2026 20:27:19 GMT</pubDate>
+            <title><![CDATA[【中微半导体在光谷设立华中总部】据中国光谷公众号，近日，中微半导体设备（上海）股份有限公司（简称“中微半导体”）华中总部正式落户光谷，预计明年初正式投入运营。中微半导体设备（武汉）有限公司已于7月28日完成注册，注册资本5000万元。项目聚焦核心半导体设备研发，计划建设华中总部及研发中心，开展薄膜、刻蚀、外延等核心半导体设备的研发，服务武汉乃至华中地区重点客户。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3123330.d.html</link>
+            <guid>5027869</guid>
+            <pubDate>Thu, 06 Aug 2026 02:37:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Doordash二季度调整后EBITDA为9.14亿美元，分析师预期8.434亿美元。预计三季度GOV为330亿-340亿美元，分析师预期334.7亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3271799.d.html</link>
-            <guid>5027482</guid>
-            <pubDate>Wed, 05 Aug 2026 20:08:24 GMT</pubDate>
+            <title><![CDATA[【刚果（金）因埃博拉疑似病例截停一艘船只】刚果（金）卫生部长坎巴5日在首都金沙萨说，该国有关部门当天已在距金沙萨约65公里外的河道中截停一艘船只，因为一名曾搭乘该船的乘客下船后出现疑似埃博拉症状并死亡。刚果（金）新闻和媒体部长兼政府发言人穆亚亚当晚在金沙萨举行的记者会上说，该船只由刚果（金）东部的乔波省始发，有关部门已在船只周边设立警戒区。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfr4024483.d.html</link>
+            <guid>5027867</guid>
+            <pubDate>Thu, 06 Aug 2026 02:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[eBay二季度净营收31.3亿美元，分析师预期30.2亿美元。
-二季度活跃买家1.36亿，分析师预期1.359亿。
-二季度GMV为224亿美元，分析师预期215.7亿美元。
-预计三季度净营收30.7亿-31.2亿美元，分析师预期29.7亿美元。
-预计三季度GMV为220亿-224亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3270952.d.html</link>
-            <guid>5027475</guid>
-            <pubDate>Wed, 05 Aug 2026 20:05:59 GMT</pubDate>
+            <title><![CDATA[【上海国投先导、恩华药业等在上海成立创投基金】企查查APP显示，近日，上海德福创业投资基金合伙企业（有限合伙）成立，出资额约2.17亿元，经营范围包含：创业投资（限投资未上市企业）。企查查股权穿透显示，该合伙企业由上海国投先导生物医药私募投资基金合伙企业（有限合伙）、恩华药业、百利天恒（上海）生物医药科技有限责任公司等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4725512.d.html</link>
+            <guid>5027866</guid>
+            <pubDate>Thu, 06 Aug 2026 02:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cirrus Logics Inc.第一财季净销售4.597亿美元，分析师预期4.602亿美元。公司预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3270511.d.html</link>
-            <guid>5027474</guid>
-            <pubDate>Wed, 05 Aug 2026 20:04:41 GMT</pubDate>
+            <title><![CDATA[【央视财经评论：6G将推动数字产业化和产业数字化】“十五五”规划将6G纳入未来产业重点发展方向，无疑是夯实下一代通信技术优势，以及开拓经济增长新赛道的战略部署。今年以来，我国6G产业发展提速，由地面网络、卫星互联网及低空飞行器融合的网络体系正在加速构建。据预测，到2035年，随着6G规模化商用，我国有望培育形成万亿元级的6G产业及应用市场，成为数字经济的核心底层支撑。6G不是简单的技术迭代，更是千行百业数字化转型的“底座”和“引擎”。张平院士表示，社会各行各业运转，都离不开信息和数据的传输与交换。作为通用底层技术，6G将同步推动数字产业化和产业数字化，打通通信、感知、控制一体化协同，无论是作为新兴产业的低空经济、自动驾驶、智慧农业，还是传统的医疗民生、文化娱乐……都将被深度赋能。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4721944.d.html</link>
+            <guid>5027864</guid>
+            <pubDate>Thu, 06 Aug 2026 02:33:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SoundHound二季度营收6190万美元，分析师预期5220万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3270464.d.html</link>
-            <guid>5027473</guid>
-            <pubDate>Wed, 05 Aug 2026 20:04:31 GMT</pubDate>
+            <title><![CDATA[【联想创投入股薄膜铌酸锂调制器芯片研发商铌奥光电】企查查APP显示，近日，江苏铌奥光电科技有限公司发生工商变更，新增海南云锋基金中心（有限合伙）、上海联想未来创业投资合伙企业（有限合伙）等为股东，同时注册资本增至5723.91万元。企查查信息显示，该公司成立于2020年，经营范围包含：集成电路芯片设计及服务；集成电路设计；集成电路芯片及产品销售；光学仪器销售等。据其官网，铌奥光电专注于薄膜铌酸锂调制器芯片及相关光互连器件的设计、研发和销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4721622.d.html</link>
+            <guid>5027863</guid>
+            <pubDate>Thu, 06 Aug 2026 02:32:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Block预计三季度调整后运营利润8.75亿美元，分析师预期8.65亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieiz0991575.d.html</link>
-            <guid>5027472</guid>
-            <pubDate>Wed, 05 Aug 2026 20:04:16 GMT</pubDate>
+            <title><![CDATA[【中国机械工业联合会：政策托底叠加需求释放，机械工业全年有望增长5.5%左右】8月6日，中国机械工业联合会发布的2026年上半年机械工业经济运行情况显示，扩内需、稳增长、促转型措施接续出台，财政资金加速落地，“两重”“两新”政策持续推进，将继续释放对机械工业装备的需求。同时，“十五五”规划109项重大工程和项目扎实推进，以“六张网”为主线的重大工程陆续开工建设，将有力拉动机械工业市场需求。机械工业有望继续保持平稳运行态势，预计全年主要指标增速在5.5%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4721487.d.html</link>
+            <guid>5027862</guid>
+            <pubDate>Thu, 06 Aug 2026 02:32:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约时报（NYT）收跌13%，创2012年10月份以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieix4218496.d.html</link>
-            <guid>5027470</guid>
-            <pubDate>Wed, 05 Aug 2026 20:02:00 GMT</pubDate>
+            <title><![CDATA[日本保险巨头三井住友海上火灾保险集团（MS&AD）将部署人工智能图像检测系统，打击保险欺诈。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfr4019313.d.html</link>
+            <guid>5027860</guid>
+            <pubDate>Thu, 06 Aug 2026 02:31:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpaceX收跌14%，市值蒸发2250亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieiz0990710.d.html</link>
-            <guid>5027469</guid>
-            <pubDate>Wed, 05 Aug 2026 20:01:10 GMT</pubDate>
+            <title><![CDATA[特斯拉：Megapack 3 正式在德克萨斯州布鲁克郡我们最新的 Megafactory 开始下线生产！ 该工厂仅用 16 个月就从破土动工到投入运营，设计产能为每年 50 GWh，专用于 Megapack 3。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4718409.d.html</link>
+            <guid>5027857</guid>
+            <pubDate>Thu, 06 Aug 2026 02:29:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭 】伊朗副外长加里巴巴迪5日表示，伊朗和阿曼关于商业船舶通行霍尔木兹海峡的协议已接近最终敲定，届时伊朗一侧管控的北部航道和靠近阿曼一侧的南部航道均将关闭。据伊朗伊斯兰共和国通讯社5日报道，加里巴巴迪在接受采访时说，将在霍尔木兹海峡建立一种不同于过去60年的新通行模式。目前经阿曼领海的南部航道和位于伊朗领海内的北部航道均将关闭。根据新设定的航道，商业船舶进入霍尔木兹海峡以及驶离海峡的部分航程经过伊朗领海。但新航道同样为临时航道，预计可使用2至4个月。加里巴巴迪否认有关伊美正在谈判的说法，但表示伊朗收到美方信息，并称美方表示准备恢复履行此前签署的谅解备忘录中的承诺。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3268957.d.html</link>
-            <guid>5027467</guid>
-            <pubDate>Wed, 05 Aug 2026 20:00:28 GMT</pubDate>
+            <title><![CDATA[马斯克：Megapack 3 开始量产。祝贺特斯拉 Megapack 团队！]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3114449.d.html</link>
+            <guid>5027856</guid>
+            <pubDate>Thu, 06 Aug 2026 02:29:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【武田制药Orzeyful获FDA批准，用于治疗1型发作性睡病】武田制药旗下武田制药美国公司（Takeda Pharmaceuticals America）的Orzeyful片剂已获得美国食品药品管理局（FDA）批准，成为首款通过靶向食欲素信号缺失来治疗成人1型发作性睡病全谱症状的药物。Orzeyful的疗效已在两项为期12周、安慰剂对照的研究中得到证实，共纳入273名成人患者。服用Orzeyful 2mg的患者与安慰剂组相比，日间清醒度有所改善，猝倒发作次数减少。Orzeyful已被建议纳入《管制物质法》进行排期管理，目前正等待美国缉毒局（DEA）的最终决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3267713.d.html</link>
-            <guid>5027465</guid>
-            <pubDate>Wed, 05 Aug 2026 19:55:22 GMT</pubDate>
+            <title><![CDATA[【向新向优转型提速 上半年我国机械工业行业运行稳中有进】中国机械工业联合会今天（6日）发布的信息显示，今年上半年，我国机械工业行业运行稳中有进，向新向优转型提速。最新数据显示，今年上半年，我国机械工业规模以上企业增加值同比增长6.4%，高于同期全国工业和制造业1个和0.8个百分点。主要涉及的五个国民经济行业大类——通用设备、专用设备、汽车、电气机械和仪器仪表制造业增加值同比增长均在6%以上。在重点监测的127种主要机械产品中，80种产品产量同比增长，增长面为63%，总体呈现上升趋势。此外，今年上半年，我国机械工业规模以上企业实现营业收入16.1万亿元，同比增长6.5%。分行业看，14个分行业营业收入全部实现增长，其中电工电器、工程机械、机床工具、机器人与智能制造行业增速超过10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4717287.d.html</link>
+            <guid>5027855</guid>
+            <pubDate>Thu, 06 Aug 2026 02:28:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国国家运输安全委员会声明：正在调查海军一号与民航客机发生空中间隔不足事件。]]></title>
-            <guid>5027463</guid>
-            <pubDate>Wed, 05 Aug 2026 19:52:16 GMT</pubDate>
+            <title><![CDATA[高市早苗：新税收抵免制度的益处将超过减税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3109959.d.html</link>
+            <guid>5027850</guid>
+            <pubDate>Thu, 06 Aug 2026 02:24:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[扎克伯格称META今天发布MUSE CODE测试版。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieit4870239.d.html</link>
-            <guid>5027462</guid>
-            <pubDate>Wed, 05 Aug 2026 19:50:43 GMT</pubDate>
+            <title><![CDATA[【特朗普声称叫停对伊朗“二战后最大规模打击”】美国总统特朗普5日在美国拉斯维加斯一场活动上表示，仍愿与伊朗达成协议。特朗普说，美国此前已准备对伊朗发动“二战以来规模最大的军事打击”，并且过去数月已对伊朗实施多次沉重打击。他声称是伊朗请求美方取消袭击、重启谈判。事后，伊朗方面否认了相关表态，但特朗普强调美方仍在与伊朗谈判。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfr4012551.d.html</link>
+            <guid>5027849</guid>
+            <pubDate>Thu, 06 Aug 2026 02:23:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3265852.d.html</link>
-            <guid>5027461</guid>
-            <pubDate>Wed, 05 Aug 2026 19:47:23 GMT</pubDate>
+            <title><![CDATA[【资生堂上半年利润大增，中国市场二季度恢复增长】资生堂2026年上半年净销售额为4990亿日元，同比增长6.2%，按可比口径基本持平；核心营业利润同比增长90.1%至444亿日元，归母净利润增长211.4%至297亿日元。中国及旅游零售业务销售额为1914亿日元，同比增长10%，按可比口径微降0.1%。其中，中国市场二季度消费者购买额实现低个位数增长，线下渠道增长中个位数，电商增长低个位数。618期间集中投入重点产品，推动肌肤之钥和NARS表现提速，安热沙降幅收窄。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4711003.d.html</link>
+            <guid>5027847</guid>
+            <pubDate>Thu, 06 Aug 2026 02:21:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieit4868387.d.html</link>
-            <guid>5027460</guid>
-            <pubDate>Wed, 05 Aug 2026 19:42:31 GMT</pubDate>
+            <title><![CDATA[高市早苗：两年后恢复8%的食品销售税并非加税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4710766.d.html</link>
+            <guid>5027846</guid>
+            <pubDate>Thu, 06 Aug 2026 02:21:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[媒体周三援引五位知情消息人士报道，伊朗向波斯湾国家发出警告：倘若美国再度袭击伊朗领土，伊朗将打击关键能源基础设施以及其他地区目标。援引一名地区高级外交官的消息称，伊朗外长阿拉格齐在与沙特、土耳其、卡塔尔官员以及巴基斯坦陆军参谋长沟通时转达了上述警告，同时敦促美国的地区盟友游说特朗普总统回归外交谈判轨道。援引该外交官及波斯湾地区消息人士的说法，沙特王储穆罕默德・本・萨勒曼随后敦促特朗普推迟军事行动、推进谈判并寻求停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieix4213542.d.html</link>
-            <guid>5027459</guid>
-            <pubDate>Wed, 05 Aug 2026 19:41:43 GMT</pubDate>
+            <title><![CDATA[【滴滴旗下99与巴西汽车租赁企业Movida签署合作协议】8月6日消息，滴滴旗下巴西一站式本地生活服务平台99与巴西汽车租赁企业Movida签署合作协议，双方将面向99平台网约车司机推出包含新能源汽车在内的优惠租赁计划，预计未来三年惠及至少5万名司机。99平台上的网约车司机可申请Movida提供的车辆租赁服务，以更优惠的价格租赁适合网约车运营的车辆。双方预计，此次合作将帮助司机降低约25%的租车成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3105494.d.html</link>
+            <guid>5027844</guid>
+            <pubDate>Thu, 06 Aug 2026 02:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国高级官员警告：人工智能风险需要更强有力的网络防御。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3260857.d.html</link>
-            <guid>5027458</guid>
-            <pubDate>Wed, 05 Aug 2026 19:30:46 GMT</pubDate>
+            <title><![CDATA[【住房消费跻身大宗消费首位 多个热点城市正研究出台住房消费提振举措】7月份，国务院批复的《扩大消费“十五五”规划》对外发布，将住房消费纳入大宗耐用商品消费范畴并置于首位。有机构认为，房地产的政策定位或向“防风险与促消费并重”转变。记者获悉，多个热点城市正谋划出台住房消费提振举措。其中，成都着力从优供给、增需求、去库存、稳预期方面提出住房销售政策，包括优化供给促进供需平衡、支持住房消费满足多元需求等，目前相关政策尚在内部研究中，最终确定后将第一时间公开发布；合肥正结合国家政策导向，会同相关部门统筹研究促进“大消费”部门协同联动行动方案。另外，记者获悉，武汉积极做好政策研究储备工作，下半年拟从一二手房市场联动、商办去化、高品质住房供应等完善政策工具箱；南京将结合市场实际适时优化相关政策举措，加大多样化“好房子”上市供应，深入开展住房消费“以旧换新”等活动，进一步促进居民各类刚性和改善性住房需求有效释放；另外，杭州、青岛、重庆、济南等热点城市也向记者透露，将持续做好政策储备和动态优化调整工作，着力稳定房地产市场。（人民财讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3104547.d.html</link>
+            <guid>5027842</guid>
+            <pubDate>Thu, 06 Aug 2026 02:18:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国银行：在美国+日本实施干预之后，下调美元兑日元年底预期至149（之前预计为152）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3260076.d.html</link>
-            <guid>5027457</guid>
-            <pubDate>Wed, 05 Aug 2026 19:28:15 GMT</pubDate>
+            <title><![CDATA[【中国机械工业联合会：新能源汽车上半年渗透率达49.6%】8月6日，中国机械工业联合会发布的2026年上半年机械工业经济运行情况显示，新能源汽车在整体汽车市场承压背景下实现逆势增长，市场渗透率达到49.6%，成为拉动汽车行业市场需求的重要力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4706568.d.html</link>
+            <guid>5027841</guid>
+            <pubDate>Thu, 06 Aug 2026 02:17:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  厄瓜多尔称已恢复与哥伦比亚的电力互通。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieir3260004.d.html</link>
-            <guid>5027456</guid>
-            <pubDate>Wed, 05 Aug 2026 19:28:02 GMT</pubDate>
+            <title><![CDATA[【OpenAI披露其智能体“联手越狱”细节 攻破Hugging Face前已协作数月】OpenAI表示，对Hugging Face发起攻击的一组人工智能模型，早在5月就已通过未被察觉的留言板彼此通信，并协同合作以突破测试环境。OpenAI研究员Eric Wallace和Michael Dalton周三在一场网络安全会议上表示，多个仅限内部使用的AI智能体和模型花费数月时间互相留便条，并逐渐围绕一个共同目标展开合作：接入互联网以完成被分配的任务，而其中一些任务在没有网络连接的情况下根本无法完成。Wallace在拉斯维加斯举行的Black Hat网络安全大会上表示：“在某个时刻，这些智能体意识到，或许可以尝试利用或攻击外部基础设施，以找到它们正在接受测试的问题答案。”研究人员披露的内容进一步揭示了Hugging Face遭入侵事件的细节。这起事件凸显出全球日益加剧的担忧，即前沿AI系统可能被用于发动破坏性网络攻击。该事件以及Anthropic PBC和Meta Platforms Inc.此前披露的类似安全事故，已促使华盛顿和硅谷呼吁加强对AI模型的安全审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3102579.d.html</link>
+            <guid>5027838</guid>
+            <pubDate>Thu, 06 Aug 2026 02:16:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：布兰奇将率美国代表团出席哥伦比亚总统就职仪式。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieit4863594.d.html</link>
-            <guid>5027455</guid>
-            <pubDate>Wed, 05 Aug 2026 19:27:42 GMT</pubDate>
+            <title><![CDATA[【天亿马联合华南农业大学共建集成电路专业联合实验室】据天亿马消息，近日，天亿马与华南农业大学人工智能与低空技术学院共建的“集成电路专业联合实验室”正式揭牌成立。双方将聚焦智慧农业集成电路设计核心方向，围绕课程联合开发、实习实训落地、科创项目孵化、人工智能赋能实验室建设四大板块，联合攻关关键核心技术，精准对接产业岗位能力要求，定向培育适配行业发展的高素质复合型芯片人才，打通教育链、人才链、产业链、创新链的衔接壁垒，推动高校前沿科研成果向产业端高效转化。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3100204.d.html</link>
+            <guid>5027837</guid>
+            <pubDate>Thu, 06 Aug 2026 02:14:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimieix4209235.d.html</link>
-            <guid>5027454</guid>
-            <pubDate>Wed, 05 Aug 2026 19:23:42 GMT</pubDate>
+            <title><![CDATA[【纯流量卡可能是物联网卡 有风险】随着三大运营商全面停止通过第三方互联网渠道销售号卡，一些打着“0月租”“随充随用”的“纯流量卡”广告，却在部分电商平台和社交群组悄然升温。8月6日，记者调查发现，这类看似物美价廉的纯流量卡，实为严禁对个人销售的物联网卡，背后暗藏断网、限速、流量虚标等多重陷阱。 然而，所谓的“纯流量卡”却暗藏风险。物联网卡是运营商面向企业批量发售的专用SIM卡，可用于共享单车、自动售卖机等智能终端设备联网。根据相关规定，物联网卡仅限企业用户批量购买，不得违规插入个人手机上使用，销售商更不能向个人用户出售。盘古智库高级研究员江瀚提醒，消费者购买此类卡片面临极高风险。这些被私下转售的卡片往往伴随严重虚假宣传和售后缺失，后台限速、流量虚标属于常见现象；而一旦被运营商监测到违规插入手机，用户随时可能遭遇断网甚至封号封机，届时想要维权也投诉无门。他提醒广大用户，切勿贪图便宜轻信“纯流量卡”的花式广告，用卡务必选择运营商官方正规渠道，以免贪小便宜吃大亏。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3095243.d.html</link>
+            <guid>5027833</guid>
+            <pubDate>Thu, 06 Aug 2026 02:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本与美国企业，可能还有阿联酋等国企业，将投资约2万亿日元在秋田县建设日本最大的人工智能数据中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfi3093749.d.html</link>
+            <guid>5027831</guid>
+            <pubDate>Thu, 06 Aug 2026 02:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国机械工业联合会：上半年机械工业增加值同比增长6.4%，五大行业全线飘红】8月6日，中国机械工业联合会发布的2026年上半年机械工业经济运行情况显示，上半年，机械工业规模以上企业增加值同比增长6.4%，高于同期全国工业和制造业1个和0.8个百分点。主要涉及的五个国民经济行业大类增加值均同比增长，通用设备、专用设备、汽车、电气机械和仪器仪表制造业分别增长7.6%、8.2%、7.0%、6.1%和8.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-06/detail-inimivfm4696174.d.html</link>
+            <guid>5027828</guid>
+            <pubDate>Thu, 06 Aug 2026 02:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
