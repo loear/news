@@ -6,6 +6,111 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 5040106,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtx2985223.d.html",
+            "title": "  巴西总统卢拉今日与墨西哥总统辛鲍姆通了电话。",
+            "date_modified": "2026-08-13T22:54:08.000Z"
+        },
+        {
+            "id": 5040105,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrty2765421.d.html",
+            "title": "  巴西正就该程序通知美国政府，并要求举行外交磋商。",
+            "date_modified": "2026-08-13T22:53:12.000Z"
+        },
+        {
+            "id": 5040104,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtx2984797.d.html",
+            "title": "  巴西政府声明：已启动针对美国的贸易关税对等反制程序。",
+            "date_modified": "2026-08-13T22:52:43.000Z"
+        },
+        {
+            "id": 5040103,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4255436.d.html",
+            "title": "  新西兰 6 月短期入境游客量同比增长 8.1%。",
+            "date_modified": "2026-08-13T22:47:02.000Z"
+        },
+        {
+            "id": 5040102,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtz9533702.d.html",
+            "title": "美国能源部长赖特：电价对通胀率的影响微乎其微。",
+            "date_modified": "2026-08-13T22:39:21.000Z"
+        },
+        {
+            "id": 5040100,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4251823.d.html",
+            "title": "美国能源部长赖特：霍尔木兹海峡石油运输流量将持续走高。",
+            "date_modified": "2026-08-13T22:36:50.000Z"
+        },
+        {
+            "id": 5040099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4251492.d.html",
+            "title": "美国能源部长赖特：美国护送、转运物资的能力正在增强。",
+            "date_modified": "2026-08-13T22:35:39.000Z"
+        },
+        {
+            "id": 5040098,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtx2978606.d.html",
+            "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
+            "date_modified": "2026-08-13T22:35:12.000Z"
+        },
+        {
+            "id": 5040096,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4250306.d.html",
+            "title": "美国能源部长赖特：美国掌握每日经由霍尔木兹海峡进出的船舶数量。",
+            "date_modified": "2026-08-13T22:33:21.000Z"
+        },
+        {
+            "id": 5040095,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtz9531415.d.html",
+            "title": "美国能源部长赖特：美国正与各方船只开展沟通协调。",
+            "date_modified": "2026-08-13T22:32:53.000Z"
+        },
+        {
+            "id": 5040094,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4249726.d.html",
+            "title": "新西兰7月制造业表现指数 54.3，前值59.7。",
+            "date_modified": "2026-08-13T22:32:07.000Z"
+        },
+        {
+            "id": 5040092,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrty2755744.d.html",
+            "title": "【古巴强烈反对多米尼加驱逐其驻多使馆人员】古巴外交部13日发表声明，强烈反对多米尼加政府驱逐10名古巴驻多使馆外交人员及其家属的决定，称此举严重损害两国政府间关系。（新华社）",
+            "date_modified": "2026-08-13T22:22:11.000Z"
+        },
+        {
+            "id": 5040084,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfrtu4241398.d.html",
+            "title": "  特朗普：允许在美投资的外国造船厂最多建造两艘船只。",
+            "date_modified": "2026-08-13T22:08:26.000Z"
+        },
+        {
+            "id": 5040083,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmna2881078.d.html",
+            "title": "澳大利亚总理阿尔巴尼斯：澳大利亚移民数量较峰值下降 45%。",
+            "date_modified": "2026-08-13T22:05:10.000Z"
+        },
+        {
+            "id": 5040081,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmmz3096775.d.html",
+            "title": "  新西兰储备银行：维持贷款价值比（LVR）相关政策不变。",
+            "date_modified": "2026-08-13T22:01:31.000Z"
+        },
+        {
             "id": 5040076,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmmw4365462.d.html",
@@ -383,137 +488,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmmz3058765.d.html",
             "title": "  美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
             "date_modified": "2026-08-13T20:01:59.000Z"
-        },
-        {
-            "id": 5040004,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmmz3055954.d.html",
-            "title": "【伊朗官员重申霍尔木兹海峡处于关闭状态】当地时间13日晚，伊朗伊斯兰革命卫队海军司令阿里·阿兹马伊表示，目前霍尔木兹海峡处于关闭状态，伊方对海峡内相关动向保持“全面、坚决掌控”，任何活动都不会脱离伊朗伊斯兰革命卫队海军的监控。（央视新闻）",
-            "date_modified": "2026-08-13T19:52:40.000Z"
-        },
-        {
-            "id": 5040003,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmmw4328279.d.html",
-            "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
-            "date_modified": "2026-08-13T19:51:43.000Z"
-        },
-        {
-            "id": 5040002,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininfmna2845491.d.html",
-            "title": "市场消息：法院驳回针对特朗普 “战时” 驱逐政策的诉讼请求。",
-            "date_modified": "2026-08-13T19:51:27.000Z"
-        },
-        {
-            "id": 5040000,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4457869.d.html",
-            "title": "【美媒：“华盛顿”号航母将前往中东接替“林肯”号】据美国《华尔街日报》13日报道，美国准备派遣“华盛顿”号航母前往中东，接替舰上生活条件、船员心理健康等遭质疑的“林肯”号航母。报道援引美国官员的话说，该轮换计划在人们对“林肯”号航母生活条件提出担忧之前就已制定。据美国海军学会新闻网报道，以日本为基地的“华盛顿”号航母打击群于5月离开日本横须贺基地。该航母本月13日在一艘巡洋舰和一艘驱逐舰的伴随下，通过新加坡海峡后进入了马六甲海峡。（新华社）",
-            "date_modified": "2026-08-13T19:47:14.000Z"
-        },
-        {
-            "id": 5039999,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3185053.d.html",
-            "title": "上诉法院：纽约市“第二住所税”目前可以继续推进。",
-            "date_modified": "2026-08-13T19:46:21.000Z"
-        },
-        {
-            "id": 5039998,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4453825.d.html",
-            "title": "【美国法院裁定特朗普可以暂停对低价商品的关税豁免】美国一家贸易法院驳回了针对特朗普暂停低价值进口商品关税豁免的诉讼。该法院周四作出裁决，拒绝推翻总统特朗普过去一年发布的行政命令。这些行政命令取消了针对零售价值不超过800美元商品的所谓“小额豁免”。据美国海关与边境保护局称，截至2025年底，特朗普暂停这一豁免已带来超过10亿美元的关税缴款。",
-            "date_modified": "2026-08-13T19:34:38.000Z"
-        },
-        {
-            "id": 5039995,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3176265.d.html",
-            "title": "  伊朗革命卫队海军司令周四表示，霍尔木兹海峡现已关闭，该部队完全掌控这条水道的通行活动。",
-            "date_modified": "2026-08-13T19:17:09.000Z"
-        },
-        {
-            "id": 5039994,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4448585.d.html",
-            "title": "  英国石油公司：与阿布扎比国家石油公司旗下国际能源投资平台 XRG 以及 UCC 油气控股达成合作，各方持有均等的作业权益份额。",
-            "date_modified": "2026-08-13T19:16:01.000Z"
-        },
-        {
-            "id": 5039993,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9739143.d.html",
-            "title": "英国石油公司：获得委内瑞拉颁发的洛兰油田二期勘探与生产许可证，该油田位于三角洲高原地区。英国石油公司将负责该油田的开发运营。",
-            "date_modified": "2026-08-13T19:14:18.000Z"
-        },
-        {
-            "id": 5039991,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2966453.d.html",
-            "title": "据ICI统计，美国货币市场基金资产增至7.93万亿美元。",
-            "date_modified": "2026-08-13T19:13:08.000Z"
-        },
-        {
-            "id": 5039990,
-            "content_html": "",
-            "title": "【俄外长：将扣押西方国家船只作为对等反制】俄罗斯外交部长拉夫罗夫13日对俄媒表示，俄方将“自行决定”扣押哪些西方国家船只，作为对西方国家扣押俄船只行为的反制。拉夫罗夫说，西方国家把“强盗行径和海盗行为”当作官方政策，俄罗斯将从服务于西方国家利益的船只中自主选择扣押目标，至于如何处理“将由俄方自行决定”。西方国家指责俄罗斯利用油轮等商用船只逃避西方制裁，将这些商用船只称为“影子舰队”。欧洲多国近来在相关水域拦截多艘所谓俄“影子舰队”船只。拉夫罗夫表示，所有不遵从欧盟要求的船只，无论悬挂何种旗帜，都被欧盟划定为“影子舰队”。欧盟这一“非法决定”意在遏制俄罗斯在全球市场获利。这种做法“极其危险”。（新华社）",
-            "date_modified": "2026-08-13T19:12:16.000Z"
-        },
-        {
-            "id": 5039989,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3173735.d.html",
-            "title": "  沙特阿拉伯国防部：多国海上防御联盟第三次规划会议于吉达召开，共有 39 个国家参与。",
-            "date_modified": "2026-08-13T19:08:37.000Z"
-        },
-        {
-            "id": 5039986,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3172558.d.html",
-            "title": "  法院裁定，特朗普可终止低价商品的关税豁免。",
-            "date_modified": "2026-08-13T19:05:07.000Z"
-        },
-        {
-            "id": 5039983,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3170595.d.html",
-            "title": "阿根廷国家统计与普查局(INDEC)公布，7月阿根廷12个月滚动通胀率为33.8%。",
-            "date_modified": "2026-08-13T19:00:49.000Z"
-        },
-        {
-            "id": 5039980,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4442484.d.html",
-            "title": "美国地质调查局：菲律宾萨兰加尼以南11公里处发生5.3级地震。",
-            "date_modified": "2026-08-13T18:58:34.000Z"
-        },
-        {
-            "id": 5039979,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4441955.d.html",
-            "title": "西北河流预报中心（NWRFC）：美国西北部河流径流量降至82%。",
-            "date_modified": "2026-08-13T18:57:07.000Z"
-        },
-        {
-            "id": 5039978,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3168313.d.html",
-            "title": "【俄外长：将扣押西方国家船只作为对等反制】俄罗斯外交部长拉夫罗夫13日对俄媒表示，俄方将“自行决定”扣押哪些西方国家船只，作为对西方国家扣押俄船只行为的反制。拉夫罗夫说，西方国家把“强盗行径和海盗行为”当作官方政策，俄罗斯将从服务于西方国家利益的船只中自主选择扣押目标，至于如何处理“将由俄方自行决定”。（新华社）",
-            "date_modified": "2026-08-13T18:54:00.000Z"
-        },
-        {
-            "id": 5039976,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4439919.d.html",
-            "title": "阿根廷经济部长表示，阿根廷的通货紧缩过程堪称奇迹。",
-            "date_modified": "2026-08-13T18:50:32.000Z"
-        },
-        {
-            "id": 5039975,
-            "content_html": "",
-            "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-            "date_modified": "2026-08-13T18:50:02.000Z"
         }
     ]
 }
