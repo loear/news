@@ -4,11 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Aug 2026 20:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 21:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：周六，伊朗从格什姆岛以及本国南部海岸朝霍尔木兹海峡与阿曼湾方向发射多枚反舰导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0152327.d.html</link>
+            <guid>5042435</guid>
+            <pubDate>Sat, 15 Aug 2026 21:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔总统诺沃亚抵达北京 开启访华行程】今天（16日）早晨，厄瓜多尔共和国总统丹尼尔·罗伊－希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0152105.d.html</link>
+            <guid>5042434</guid>
+            <pubDate>Sat, 15 Aug 2026 21:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：特斯拉在美国最本土化生产的车辆中占据前两名，超越了福特和通用汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0149556.d.html</link>
+            <guid>5042433</guid>
+            <pubDate>Sat, 15 Aug 2026 21:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国印第安纳州遭遇恶劣天气 至少5人死亡】美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。过去一周，该州连降暴雨，导致多条河流的水位创下历史新高，迫使居民纷纷向高处转移。目前已有十多个县宣布进入地方灾害状态，最新的灾情主要集中在从汉密尔顿县延伸至印第安纳波利斯北部郊区的河道沿线。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrz8171053.d.html</link>
+            <guid>5042432</guid>
+            <pubDate>Sat, 15 Aug 2026 20:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普释放可能参与2028年大选的信号】美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”该帖再次公开释放信号，特朗普有意角逐2028年总统的又一届任期。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrx1763357.d.html</link>
+            <guid>5042430</guid>
+            <pubDate>Sat, 15 Aug 2026 20:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗谴责以色列持续袭击黎巴嫩。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrx1759586.d.html</link>
+            <guid>5042429</guid>
+            <pubDate>Sat, 15 Aug 2026 20:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[利比亚发电站附近发生爆炸，多台发电机组停止运行。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0135448.d.html</link>
@@ -528,36 +564,6 @@
             <title><![CDATA[【纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话】纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。届时，中央广播电视总台、新华网将对大会进行现场直播，人民网、央视网、中国网等中央重点新闻网站和人民日报客户端、新华社客户端、央视新闻客户端等新媒体平台同步转播。（央视新闻）]]></title>
             <guid>5042309</guid>
             <pubDate>Sat, 15 Aug 2026 12:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗称3名飞行员被卡塔尔扣押六个月】伊朗方面称，3月针对美军基地的空袭行动中伊朗一架苏‑24 战斗机坠毁后，三名飞行员被卡塔尔部队生擒，已在该国被扣押约六个月。伊朗武装部队总参谋部失踪人员委员会负责人穆罕默德・巴盖尔扎德在致红十字国际委员会主席的一封信中披露了上述情况。信中列明三名飞行员为贾瓦德・萨利希、阿卜杜勒马吉德・达什蒂安、奥姆兰・贝赫拉维西安。巴盖尔扎德表示，在扣押期间，卡塔尔不允许这三人与家人会面、通话，也拒绝伊朗官员了解他们的相关情况。伊朗官员此前曾表示，三名飞行员下落不明，现有相关信息并不完整，仅称在针对卡塔尔的行动过后，另一名飞行员马吉德・卡泽米的遗体已运回伊朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmank1744546.d.html</link>
-            <guid>5042306</guid>
-            <pubDate>Sat, 15 Aug 2026 12:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼7.7级地震中2名中国公民受轻伤】记者从中国驻登巴萨总领馆了解到，暂未接到中国公民死亡的报告。地震造成2名中国公民受轻伤，总领馆已为其提供必要领事协助。印尼外交部领事司通报说，此次地震暂未导致外国公民死亡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmank1743666.d.html</link>
-            <guid>5042305</guid>
-            <pubDate>Sat, 15 Aug 2026 11:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[暑期档票房破97亿。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3359816.d.html</link>
-            <guid>5042301</guid>
-            <pubDate>Sat, 15 Aug 2026 11:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼政府调拨5万份援助物资支援地震灾区】8月15日晚，印尼总统府发布消息称，印尼东努沙登加拉省发生7.7级地震后，政府已调拨5万份包含生活必需品的援助物资，用于支援该省地震受灾民众。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmani2084854.d.html</link>
-            <guid>5042299</guid>
-            <pubDate>Sat, 15 Aug 2026 11:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴布亚新几内亚北部海岸发生5.4级地震】据美国地震调查局官网显示，当地时间15日晚，巴布亚新几内亚北部海岸发生5.4级地震。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3357300.d.html</link>
-            <guid>5042298</guid>
-            <pubDate>Sat, 15 Aug 2026 11:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
