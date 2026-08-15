@@ -4,11 +4,47 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Sat, 15 Aug 2026 16:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 17:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列空袭黎巴嫩南部迪尔扎赫拉尼镇】以军当天对黎巴嫩奈拜提耶地区迪尔扎赫拉尼镇发动空袭，造成4人死亡、17人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkc8245301.d.html</link>
+            <guid>5042411</guid>
+            <pubDate>Sat, 15 Aug 2026 17:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡：真主党在“黄线”范围内袭击了以军士兵。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0214279.d.html</link>
+            <guid>5042410</guid>
+            <pubDate>Sat, 15 Aug 2026 17:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国队在第38届国际信息学奥赛斩获3金1银】第38届国际信息学奥林匹克竞赛（IOI 2026）15日在乌兹别克斯坦首都塔什干落下帷幕。中国代表队斩获3金1银，并取得团体第一名的优异成绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0213457.d.html</link>
+            <guid>5042409</guid>
+            <pubDate>Sat, 15 Aug 2026 17:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡：真主党今日早晨破坏了黎巴嫩停火协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpai0342673.d.html</link>
+            <guid>5042408</guid>
+            <pubDate>Sat, 15 Aug 2026 17:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月16日00时25分在印尼托米尼湾（北纬0.20度，东经120.25度）发生5.9级地震，震源深度80千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpaf8362392.d.html</link>
+            <guid>5042406</guid>
+            <pubDate>Sat, 15 Aug 2026 16:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼中苏拉威西省附近海域发生6.2级地震】据印尼气象、气候和地球物理局发布的报告，当地时间8月15日23时25分，印尼中苏拉威西省附近海域发生6.2级地震， 震源深度44公里。预计不会有海啸风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpac1944264.d.html</link>
+            <guid>5042405</guid>
+            <pubDate>Sat, 15 Aug 2026 16:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：08月16日00时07分在四川眉山市仁寿县（北纬29.77度，东经104.25度）发生2.8级地震，震源深度7千米。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpaf8352957.d.html</link>
@@ -522,42 +558,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3339048.d.html</link>
             <guid>5042281</guid>
             <pubDate>Sat, 15 Aug 2026 11:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗与塔吉克斯坦达成长期石油合作协议】据伊朗方面消息，伊朗和塔吉克斯坦在最新一轮石油谈判中就能源领域的长期合作达成协议。该协议涵盖两大核心内容：一是向塔吉克斯坦出口伊朗石油产品，二是伊朗向塔吉克斯坦炼油厂供应所需的原油。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmani2064928.d.html</link>
-            <guid>5042279</guid>
-            <pubDate>Sat, 15 Aug 2026 10:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎总理称以色列的升级行动破坏了稳定局势的努力】黎巴嫩总理纳瓦夫·萨拉姆周六表示，以色列自拂晓以来在黎巴嫩南部采取的包括密集空袭和炮击的升级行动“极其严重”，并破坏了稳定局势的努力。“如果黎巴嫩境内存在任何军事设施，处理这些设施的责任完全在于黎巴嫩，”萨拉姆表示。他指出，在安萨尔镇空袭中遇难的7人“并非军事设施，其中遇难的儿童和妇女也并非军事目标”，军事设施的存在“并不赋予以色列侵犯黎巴嫩领土或危及平民的权利”。以色列国防军此前表示，为回应真主党在安全区针对以军采取的行动，于昨晚对黎巴嫩南部奈拜提耶和安萨尔的真主党基础设施实施了打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmanm8492536.d.html</link>
-            <guid>5042278</guid>
-            <pubDate>Sat, 15 Aug 2026 10:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国表示与美国就战略投资项目进行的磋商仍在进行中】韩国表示与美国就战略投资项目进行的磋商仍在继续，此前有媒体报道称华盛顿正敦促首尔加快推进相关计划。韩国总统办公室一名官员周六回应关于该报道的询问时表示，目前正通过多种渠道与美国进行磋商，韩国政府也在通过频繁沟通应对双边贸易问题。周五有报道称，华盛顿方面对韩国尚未公布2000亿美元战略投资承诺下的具体项目表示不满。该报称，继上月底的类似沟通后，美国商务部本周再次向韩国发送电邮，要求首尔方面加快与对等关税相关项目的推进。该报称，邮件中暗示，若进一步拖延，此事可能会上报给美国总统特朗普。这位韩国总统府官员拒绝证实双边讨论的具体细节以及政府内部的沟通和回应情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmani2061946.d.html</link>
-            <guid>5042277</guid>
-            <pubDate>Sat, 15 Aug 2026 10:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【魏牌V8X上市：搭载双VLA原生AI舱驾智能体，限时权益价22.68万元】魏牌旗下五座旗舰SUV车型V8X正式上市，共有运动版Max、运动版Ultra、豪华家庭版Max、豪华家庭版Ultra、豪华家庭版Ultra+5个版本，限时权益价22.68万-30.28万元起。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3333662.d.html</link>
-            <guid>5042276</guid>
-            <pubDate>Sat, 15 Aug 2026 10:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列对黎巴嫩南部袭击造成死亡人数升至九人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3330071.d.html</link>
-            <guid>5042275</guid>
-            <pubDate>Sat, 15 Aug 2026 10:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋强调，必须确保伊朗完全致力于停止一切敌对行动，并全面、无条件地重新开放霍尔木兹海峡。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3328481.d.html</link>
-            <guid>5042274</guid>
-            <pubDate>Sat, 15 Aug 2026 10:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
