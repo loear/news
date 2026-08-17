@@ -6,6 +6,110 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 5044748,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmvy8785624.d.html",
+            "title": "市场消息：据知情谈判消息人士称，美加双方正在磋商，在扣除部分价值成分后，美国对加拿大汽车现行 25% 的关税有可能下调至 15%。部分北美汽车行业官员认为，以上两种方案均优于美国目前对加拿大汽车征收 25% 关税的现状，日本、韩国及欧盟的汽车关税税率为 15%。",
+            "date_modified": "2026-08-17T19:34:44.000Z"
+        },
+        {
+            "id": 5044747,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmwc7513178.d.html",
+            "title": "市场消息：美国官员提议仅将美国本土价值部分从加拿大车辆 15% 关税中予以扣除，但加拿大官员希望全部北美地区价值部分都获得扣除。",
+            "date_modified": "2026-08-17T19:34:08.000Z"
+        },
+        {
+            "id": 5044745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmwc7512732.d.html",
+            "title": "市场消息：巴斯家族决定出售所持湖人队剩余股份，将出售给库什纳与艾格。",
+            "date_modified": "2026-08-17T19:33:11.000Z"
+        },
+        {
+            "id": 5044744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmvv9751287.d.html",
+            "title": "市场消息：国际足联已解雇首席运营官凯文・拉穆尔",
+            "date_modified": "2026-08-17T19:32:07.000Z"
+        },
+        {
+            "id": 5044742,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmvy8783398.d.html",
+            "title": "据《泰晤士报》：当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”",
+            "date_modified": "2026-08-17T19:29:28.000Z"
+        },
+        {
+            "id": 5044741,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmvy8783033.d.html",
+            "title": "市场消息： 特斯拉准备于 8 月推出 Cybercab，一款无方向盘的自动驾驶出租车。",
+            "date_modified": "2026-08-17T19:28:12.000Z"
+        },
+        {
+            "id": 5044740,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsmvy8782904.d.html",
+            "title": "据《泰晤士报》：美国贸易代表格里尔称，特朗普扬言对英国征收 100% 关税并非虚张声势。",
+            "date_modified": "2026-08-17T19:27:39.000Z"
+        },
+        {
+            "id": 5044737,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7639881.d.html",
+            "title": "  机场管理局将投票表决一项价值 199 亿美元的华盛顿杜勒斯机场改造方案。",
+            "date_modified": "2026-08-17T19:21:41.000Z"
+        },
+        {
+            "id": 5044736,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7637163.d.html",
+            "title": "  法院裁决：纽约州法官要求检方于 10 月 9 日前对路易吉·曼焦内申请撤销州级诉讼的请求作出回应，原定于 9 月的庭审因此推迟。",
+            "date_modified": "2026-08-17T19:12:17.000Z"
+        },
+        {
+            "id": 5044735,
+            "content_html": "",
+            "title": "伊朗总统佩泽希齐扬： 我们自由的国民在被俘岁月里所遭受的一切，绝非仅仅是战争史的片段；这是一群历经苦难却绝不舍弃伊朗尊严之人的坚毅叙事。面对日益加剧的外部压力与威胁，忍耐、团结与希望，是伊朗坚守不屈的关键。",
+            "date_modified": "2026-08-17T19:08:57.000Z"
+        },
+        {
+            "id": 5044733,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7634358.d.html",
+            "title": "美国特使库什纳：特朗普会在伊朗相关协议问题上保持耐心。",
+            "date_modified": "2026-08-17T19:05:36.000Z"
+        },
+        {
+            "id": 5044731,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7634024.d.html",
+            "title": "  库什纳：对话积极且富有成效。",
+            "date_modified": "2026-08-17T19:04:42.000Z"
+        },
+        {
+            "id": 5044730,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqa8906010.d.html",
+            "title": "美国特使库什纳：美国与伊朗政府不同部门之间的对话，比以往任何时候都更为深入。",
+            "date_modified": "2026-08-17T19:04:33.000Z"
+        },
+        {
+            "id": 5044727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqa8902645.d.html",
+            "title": "美国能源部长赖特表示，美国政府将在未来几日公布若干举措，助力炼油企业提高燃料产量。",
+            "date_modified": "2026-08-17T18:55:56.000Z"
+        },
+        {
+            "id": 5044726,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7630164.d.html",
+            "title": "美国能源部长赖特表示，（美国）战略石油储备目前仍保有3亿桶库存，伊朗冲突结束后，其储备量将高于冲突前水平。",
+            "date_modified": "2026-08-17T18:54:51.000Z"
+        },
+        {
             "id": 5044724,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininsfqf7627109.d.html",
@@ -346,139 +450,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7703157.d.html",
             "title": "【微软关联 “奥德赛计划” 债券以垃圾债级收益率吸引大量买家】代号为“奥德赛计划”的企业债券发行规模有望上调至39亿美元。这笔与微软相关的数据中心融资债券，给出接近垃圾债的收益率，市场认购需求已超发行目标的两倍。知情人士透露，该债券由黑石集团参股的QTS房地产信托有限责任公司旗下子公司发行，用于资助佐治亚州的一处项目。消息人士称，经过数日路演，市场需求突破80亿美元，为这笔债券规模增加约10亿美元创造条件。",
             "date_modified": "2026-08-17T16:46:44.000Z"
-        },
-        {
-            "id": 5044646,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7698267.d.html",
-            "title": "加拿大总理卡尼表示，渥太华将为鸥岛电力项目落实资金保障。",
-            "date_modified": "2026-08-17T16:37:26.000Z"
-        },
-        {
-            "id": 5044645,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7697917.d.html",
-            "title": "海事追踪数据证实，一艘油轮因违反霍尔木兹海峡的有关规定而在伊朗的格什姆岛附近被拦截。",
-            "date_modified": "2026-08-17T16:36:38.000Z"
-        },
-        {
-            "id": 5044644,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8968522.d.html",
-            "title": "乌克兰总统泽连斯基：我方正协同团队推动新一轮战俘交换，期待很快取得进展。",
-            "date_modified": "2026-08-17T16:33:59.000Z"
-        },
-        {
-            "id": 5044643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8968094.d.html",
-            "title": "中东和平委员会一名官员表示，哈马斯全部轻重武器以及地下隧道都将被拆除。",
-            "date_modified": "2026-08-17T16:33:09.000Z"
-        },
-        {
-            "id": 5044642,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7695552.d.html",
-            "title": "美国驻叙利亚和伊拉克特使汤姆·布拉克：我们支持总理阿里·扎伊迪恢复伊拉克的主权，并确保武器与安全部队始终处于国家权威之下。",
-            "date_modified": "2026-08-17T16:32:20.000Z"
-        },
-        {
-            "id": 5044641,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8966879.d.html",
-            "title": "阿联酋6月M3货币供应量同比增长14.3%。",
-            "date_modified": "2026-08-17T16:30:40.000Z"
-        },
-        {
-            "id": 5044640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhc6740459.d.html",
-            "title": "美国驻叙利亚和伊拉克特使汤姆·布拉克：谴责针对库尔德斯坦地区总理及其在埃尔比勒办公室的袭击。",
-            "date_modified": "2026-08-17T16:30:33.000Z"
-        },
-        {
-            "id": 5044639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8964997.d.html",
-            "title": "英国切尔西俱乐部股东马克·沃尔特与托德·伯利正就向克莱尔莱克出售所持股份进行谈判。",
-            "date_modified": "2026-08-17T16:26:36.000Z"
-        },
-        {
-            "id": 5044638,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzfz9966237.d.html",
-            "title": "【库什纳见内塔尼亚胡 寻求推进“加沙和平计划”】据以色列多家媒体17日报道，美国总统特朗普的女婿库什纳以及加沙地带“和平委员会”成员当天在耶路撒冷与以色列总理内塔尼亚胡举行会晤，以期进一步推进所谓“加沙和平计划”。以总理办公室在会后发表声明说，内塔尼亚胡与“和平委员会”讨论后，同意成立两个工作组，一个负责巴勒斯坦伊斯兰抵抗运动（哈马斯）的裁军和非军事化，双方认为这项工作须在加沙重建工作开始前尽快完成；另一个将重点关注加沙地带的卫生、清洁水源等问题。（新华社）",
-            "date_modified": "2026-08-17T16:24:54.000Z"
-        },
-        {
-            "id": 5044637,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8964068.d.html",
-            "title": "上周美国战略石油储备的原油库存下降约530万桶，降至2.934亿桶，为1982年以来最低水平。",
-            "date_modified": "2026-08-17T16:24:37.000Z"
-        },
-        {
-            "id": 5044634,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhc6735367.d.html",
-            "title": "【Stripe将于年底把多币种结算拓展至37个市场】Stripe宣布向更多市场拓展多币种结算业务，并推出即时货币兑换功能。到2026年末，分布于37个市场的企业，可依据自身经营所在地，选择最多18种货币完成收款收益结算。即时货币兑换功能支持企业在15种货币之间划转资金，报价透明，具备市场领先水平。2026年还计划新增更多币种。",
-            "date_modified": "2026-08-17T16:16:03.000Z"
-        },
-        {
-            "id": 5044633,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7687009.d.html",
-            "title": "【阿富汗喀布尔一学校门前发生爆炸 多人受伤】阿富汗喀布尔警察局发言人哈立德·扎德兰17日晚证实，当地时间当天下午5时许喀布尔一所私立学校门前发生爆炸，致多名学生受重伤。 据阿富汗当地媒体报道，爆炸发生时学生们正在离校，其中多数为女生。有目击者说，约30名伤者已被送往当地医院。 扎德兰说，相关工作组已经抵达现场，正在对事件展开调查。",
-            "date_modified": "2026-08-17T16:15:17.000Z"
-        },
-        {
-            "id": 5044632,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhc6732822.d.html",
-            "title": "初步计划显示：安哥拉10月份原油出口量预计为93.2万桶/日。",
-            "date_modified": "2026-08-17T16:10:23.000Z"
-        },
-        {
-            "id": 5044631,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7683715.d.html",
-            "title": "【黎巴嫩总统：联黎部队在黎南部的存在至关重要】当地时间17日，黎巴嫩总统奥恩对议会呼吁延长联黎部队在黎南部任务期限的倡议表示欢迎。奥恩表示，联黎部队在黎南部的存在至关重要，不仅能协助当地居民安居乐业，也有利于与黎军队密切协调、共同维护地区稳定。",
-            "date_modified": "2026-08-17T16:09:39.000Z"
-        },
-        {
-            "id": 5044629,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhc6730366.d.html",
-            "title": "美国运通公布7月坏账冲销率为1.7%，7月逾期率为1.1%。",
-            "date_modified": "2026-08-17T16:05:04.000Z"
-        },
-        {
-            "id": 5044628,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhe8952844.d.html",
-            "title": "美国运通：截至7月底，美国小企业信用卡会员贷款中逾期30天贷款占贷款总额的比例为1.3%。",
-            "date_modified": "2026-08-17T16:04:30.000Z"
-        },
-        {
-            "id": 5044627,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzhi7680614.d.html",
-            "title": "以色列炮击位于汗尤尼斯市东部的占领军控制区。",
-            "date_modified": "2026-08-17T16:04:20.000Z"
-        },
-        {
-            "id": 5044626,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzfz9957304.d.html",
-            "title": "Stripe推出即时货币兑换功能。",
-            "date_modified": "2026-08-17T16:03:55.000Z"
-        },
-        {
-            "id": 5044624,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininrzfz9955305.d.html",
-            "title": "美国媒体：乌克兰几乎已耗尽“爱国者”导弹储备。",
-            "date_modified": "2026-08-17T16:00:40.000Z"
         }
     ]
 }
