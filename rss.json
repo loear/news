@@ -6,6 +6,159 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 5046373,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7240437.d.html",
+            "title": "  俄罗斯外长拉夫罗夫：我们有权将英国导弹部队直接参与打击俄罗斯的行为视作介入冲突。",
+            "date_modified": "2026-08-18T16:38:51.000Z"
+        },
+        {
+            "id": 5046371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7238119.d.html",
+            "title": "  阿联酋国防部：一枚导弹落入领海以外海域，另一枚则坠入领海范围内。",
+            "date_modified": "2026-08-18T16:35:09.000Z"
+        },
+        {
+            "id": 5046369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7237217.d.html",
+            "title": "【美银指英伟达遭低估且折价或深达50%】美国银行认为，英伟达的股价被严重低估，从而造就了“一个极具吸引力的机会”，因投资者夸大了这家AI芯片龙头企业面临的风险。分析师Vivek Arya在研报中写道：““我们基于自由现金流用途的概念性分部估值法显示，即便考虑进融资风险，该股仍有34%至50%的折让”。美银指出，对这种折让的“最有力反推”可能是将更大比例的自由现金流用于股票回购来提高投资者的现金回报。但也表示若人工智能需求放缓，英伟达的增长率和资产负债表都可能面临压力。",
+            "date_modified": "2026-08-18T16:33:36.000Z"
+        },
+        {
+            "id": 5046368,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpa8506053.d.html",
+            "title": "据Axios记者：以色列一名高级官员声称，对伊德利卜地区叙利亚空军基地发动袭击，目的是阻止土耳其军队在该地构筑阵地。土耳其一名高级官员回应：该空军基地并无土耳其人员驻守。以色列编造借口轰炸邻国，破坏地区稳定。",
+            "date_modified": "2026-08-18T16:28:04.000Z"
+        },
+        {
+            "id": 5046367,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpk3057564.d.html",
+            "title": "  英国人工智能企业 Quantera 首席执行官称，公司正考虑赴英国或美国股市上市，也不排除两地同时上市。",
+            "date_modified": "2026-08-18T16:27:23.000Z"
+        },
+        {
+            "id": 5046364,
+            "content_html": "",
+            "title": "市场消息：阿布扎比与华盛顿领导人通电话，商讨阿联酋与美国多领域合作及强化合作的途径；此前一周，霍尔木兹海峡已发生三起涉及阿联酋船只的事件。",
+            "date_modified": "2026-08-18T16:20:27.000Z"
+        },
+        {
+            "id": 5046362,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpa8493845.d.html",
+            "title": "英国石油公司BP参与委内瑞拉石油贸易，挑战Trafigura、Vitol。",
+            "date_modified": "2026-08-18T16:09:09.000Z"
+        },
+        {
+            "id": 5046359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpm9821656.d.html",
+            "title": "市场消息：伊拉克北部苏莱曼尼亚省上空升起阵阵浓烟，起火原因尚不清楚。",
+            "date_modified": "2026-08-18T16:06:19.000Z"
+        },
+        {
+            "id": 5046358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpm9821407.d.html",
+            "title": "欧盟发言人：相关调整预计将使应用开发者能够为应用选择多种分发渠道。欧盟委员会对苹果调整 iPhone 与 iPad 第三方应用分发业务条款表示欢迎。开发者将拥有更大自主权，可引导应用商店用户转向其他平台与支付系统。",
+            "date_modified": "2026-08-18T16:05:38.000Z"
+        },
+        {
+            "id": 5046357,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpk3048664.d.html",
+            "title": "  欧盟发言人：欧盟将监督新条款的有效落实。",
+            "date_modified": "2026-08-18T16:05:06.000Z"
+        },
+        {
+            "id": 5046356,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpm9820320.d.html",
+            "title": "【应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半】据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。“乙支自由护盾”联合军演于17日启动，原计划分为两个阶段进行：第一阶段为17日至21日，以应对攻击和防御为主要演练内容；第二阶段原定于23日至27日举行，重点内容为反击作战演练。韩国军方消息人士透露，韩美军方18日在紧急协商后决定，本次演习仅进行第一阶段的防御作战部分，结束后美军人员将撤离；原计划中未能实施的训练项目将另行寻找替代方案。这一调整意味着“乙支自由护盾”演习的整体训练时间比原计划缩短了约一半。（央视新闻）",
+            "date_modified": "2026-08-18T16:03:25.000Z"
+        },
+        {
+            "id": 5046355,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7215993.d.html",
+            "title": "【苹果全面改革欧盟应用商店收费规则】苹果将于 10 月 1 日修订欧盟地区应用商店相关条款。核心技术费将予以取消，替换为对应用商店之外数字交易征收 5% 的佣金。苹果应用内购的欧盟佣金费率为 26%；采用替代支付方式费率为 20%；使用外部购买链接费率为 15%。苹果还将进一步开放第三方应用分发渠道，并推出更多儿童安全防护举措。",
+            "date_modified": "2026-08-18T16:01:34.000Z"
+        },
+        {
+            "id": 5046354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7215438.d.html",
+            "title": "  苹果将取消欧盟地区应用开发者的按安装计费费用，苹果称已解决与欧盟围绕应用商店收费产生的争端。",
+            "date_modified": "2026-08-18T16:00:44.000Z"
+        },
+        {
+            "id": 5046353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininukpf7215111.d.html",
+            "title": "市场消息：也门武装部队对也门西部荷台达省南部的胡哈市中心发动无人机袭击。",
+            "date_modified": "2026-08-18T16:00:22.000Z"
+        },
+        {
+            "id": 5046352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininukpk3045760.d.html",
+            "title": "  卡塔尔外交部：我方谴责以色列对叙利亚阿布杜赫尔军用机场发动的空袭。",
+            "date_modified": "2026-08-18T15:58:28.000Z"
+        },
+        {
+            "id": 5046351,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininukpf7213141.d.html",
+            "title": "【俄方：乌方袭击核电站以阻挠国际原子能机构来访】针对扎波罗热核电站一公交站18日发生无人机爆炸一事，俄罗斯外交部发言人扎哈罗娃当天发布声明说，此次袭击由乌方发动，其目的是阻挠国际原子能机构总干事格罗西原定于20日至21日对扎波罗热核电站的访问。扎哈罗娃说，乌方持续对扎波罗热核电站及其工作人员发动袭击，此次还对用于搭载国际原子能机构秘书处代表的交通工具发动袭击，证明其罪行“没有尽头”。扎哈罗娃还表示，西方国家持续向乌克兰提供政治支持，才使得此类事件接连上演，并怂恿乌方采取“更为鲁莽的新行动”，制造核灾难威胁，可能给全世界造成“灾难性后果”。（新华社）",
+            "date_modified": "2026-08-18T15:57:10.000Z"
+        },
+        {
+            "id": 5046350,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininukpf7212758.d.html",
+            "title": "  圭亚那总统：圭亚那目前有权获得斯塔布鲁克区块原油产量的 39.8%。",
+            "date_modified": "2026-08-18T15:56:27.000Z"
+        },
+        {
+            "id": 5046349,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininukpk3044853.d.html",
+            "title": "市场消息：日本为特朗普在美国中期选举前就防务和日元问题提出要求做准备。",
+            "date_modified": "2026-08-18T15:55:48.000Z"
+        },
+        {
+            "id": 5046348,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7339356.d.html",
+            "title": "  以色列国防军称，对加沙地带北部多名哈马斯指挥官实施打击。",
+            "date_modified": "2026-08-18T15:49:22.000Z"
+        },
+        {
+            "id": 5046347,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7336866.d.html",
+            "title": "  加沙方面报道：加沙港口遇袭事件死亡人数已升至 6 人。",
+            "date_modified": "2026-08-18T15:44:44.000Z"
+        },
+        {
+            "id": 5046346,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8608262.d.html",
+            "title": "【俄方：瑞典扣留涉俄货船出于政治动机】俄罗斯驻瑞典大使谢尔盖·别利亚耶夫18日表示，瑞典2025年年底至今扣留过多艘为俄罗斯利益服务的货船，此类举动是出于政治动机，违反国际海事法。别利亚耶夫当天对俄新社说，瑞典主要依据这些货船涉嫌悬挂“虚假国旗”对船员进行指控，但未能提出任何“实质性指控”。事实上，此举旨在向服务于俄对外贸易的商业运营方施压。瑞典以相关船只属于所谓“影子舰队”、相关对象被列入欧盟制裁名单为依据，扣留“无辜途径瑞典领海”的船舶。此举具有“歧视性”，违反国际海事法。（新华社）",
+            "date_modified": "2026-08-18T15:43:36.000Z"
+        },
+        {
+            "id": 5046345,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8606628.d.html",
+            "title": "市场消息：俄罗斯总统普京称俄罗斯与缅甸已就炼油厂建设展开磋商。",
+            "date_modified": "2026-08-18T15:40:58.000Z"
+        },
+        {
             "id": 5046344,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8605489.d.html",
@@ -325,153 +478,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8570869.d.html",
             "title": "科尔代罗：如果反对派获胜，财政状况将显著改善。",
             "date_modified": "2026-08-18T14:41:35.000Z"
-        },
-        {
-            "id": 5046273,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8570693.d.html",
-            "title": "科尔代罗：如果连任，我不认为政府会改变财政方向。",
-            "date_modified": "2026-08-18T14:41:27.000Z"
-        },
-        {
-            "id": 5046271,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefp9918517.d.html",
-            "title": "美国国家飓风中心：拉拉飓风在中太平洋重新增强为飓风。",
-            "date_modified": "2026-08-18T14:40:51.000Z"
-        },
-        {
-            "id": 5046269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefp9918234.d.html",
-            "title": "VINSPACE:与SpaceX签署发射合同，计划于2027年开发并发射首批卫星进入轨道。",
-            "date_modified": "2026-08-18T14:40:17.000Z"
-        },
-        {
-            "id": 5046268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefp9918123.d.html",
-            "title": "KAPITALO基金经理科尔代罗：巴西经济放缓的迹象非常明显。",
-            "date_modified": "2026-08-18T14:40:01.000Z"
-        },
-        {
-            "id": 5046265,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7296410.d.html",
-            "title": "美国国家飓风中心：由于预计拉拉台风将转向北行，帕帕哈瑙莫夸基亚海洋国家纪念碑部分区域已发布预警。",
-            "date_modified": "2026-08-18T14:38:22.000Z"
-        },
-        {
-            "id": 5046264,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8566658.d.html",
-            "title": "ETS与PASSAGE宣布建立战略合作伙伴关系，共同革新全球人才发展路径。",
-            "date_modified": "2026-08-18T14:35:53.000Z"
-        },
-        {
-            "id": 5046263,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7294351.d.html",
-            "title": "QUALCO GROUP SA：将为希腊卫生部提供网络平台，并协助评估约4000处房产。",
-            "date_modified": "2026-08-18T14:35:32.000Z"
-        },
-        {
-            "id": 5046262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8565555.d.html",
-            "title": "美国法官允许特朗普政府终止对5000多名埃塞俄比亚人的驱逐保护。",
-            "date_modified": "2026-08-18T14:34:31.000Z"
-        },
-        {
-            "id": 5046261,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8565397.d.html",
-            "title": "ALL IN! GAMES：投资者宣布有意进行500万兹罗提的资本投资。",
-            "date_modified": "2026-08-18T14:34:23.000Z"
-        },
-        {
-            "id": 5046259,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefn3142418.d.html",
-            "title": "爱沙尼亚总理：该国正在调查国防制造商火灾事件是否与俄罗斯存在关联。",
-            "date_modified": "2026-08-18T14:32:42.000Z"
-        },
-        {
-            "id": 5046258,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8563365.d.html",
-            "title": "市场消息：AI平台Behavox设立米兰办事处，作为区域总部。",
-            "date_modified": "2026-08-18T14:31:22.000Z"
-        },
-        {
-            "id": 5046257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7291110.d.html",
-            "title": "Strategic Beverage Services收购BevZero美国业务，交易条款未披露。",
-            "date_modified": "2026-08-18T14:31:00.000Z"
-        },
-        {
-            "id": 5046253,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8561350.d.html",
-            "title": "【调查显示：逾八成内地企业以香港作为首选出海平台】香港贸易发展局18日发布的调查报告显示，内地企业正积极拓展海外业务，有94%的受访内地涉外企业表示有意前往共建“一带一路”国家和地区，有83%企业以香港作为首选的出海服务平台。",
-            "date_modified": "2026-08-18T14:27:56.000Z"
-        },
-        {
-            "id": 5046252,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8559993.d.html",
-            "title": "【欧盟提议将以色列国家安全部长列入制裁名单】欧盟外交与安全政策首席发言人阿妮塔·希佩尔18日在布鲁塞尔举行的新闻发布会上表示，已向各成员国提交提案，建议将以色列国家安全部长本-格维尔列入制裁名单。希佩尔在回答媒体关于本-格维尔争议言论的提问时表示，欧盟不对言论或声明予以置评，但是愿重申立场，呼吁以色列遵守包括国际人道主义法在内的国际法，并确保平民得到保护。据外媒报道，以色列国家安全部长、以极右翼政党犹太力量党领导人本-格维尔日前在一档播客节目中称，“我认为应该在加沙实施定点清除，每晚消灭30到40人，不仅是对那些构成直接威胁的人，那里有些人甚至不配活着。”（新华社）",
-            "date_modified": "2026-08-18T14:25:55.000Z"
-        },
-        {
-            "id": 5046251,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7287603.d.html",
-            "title": "英国海军：第三方报告称散货船遭弹体击中。",
-            "date_modified": "2026-08-18T14:25:27.000Z"
-        },
-        {
-            "id": 5046250,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefe8559319.d.html",
-            "title": "英国海事组织称，8月15日收到霍尔木兹发生事件的报告。船只右舷受损，一名船员伤亡。目前没有环境影响报告。有关当局正在调查。",
-            "date_modified": "2026-08-18T14:24:56.000Z"
-        },
-        {
-            "id": 5046248,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7286069.d.html",
-            "title": "GSK：NUCALA（美泊利珠单抗）获加拿大药品管理局积极报销推荐，用于成人慢性阻塞性肺疾病治疗。",
-            "date_modified": "2026-08-18T14:23:17.000Z"
-        },
-        {
-            "id": 5046247,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7286019.d.html",
-            "title": "META PLATFORMS股价触及两周多来低点，最新报跌3.8%。",
-            "date_modified": "2026-08-18T14:23:13.000Z"
-        },
-        {
-            "id": 5046245,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefn3138008.d.html",
-            "title": "法国预算部长：法国将于下周起通知企业有关数据泄露事件的信息。",
-            "date_modified": "2026-08-18T14:22:04.000Z"
-        },
-        {
-            "id": 5046244,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefi7285030.d.html",
-            "title": "法国预算部长就税务数据泄露事件发表讲话。",
-            "date_modified": "2026-08-18T14:21:43.000Z"
-        },
-        {
-            "id": 5046243,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-18/detail-ininuefp9908806.d.html",
-            "title": "加拿大不列颠哥伦比亚省发行6亿加元2057年期债券，较基准利差+84.5个基点。",
-            "date_modified": "2026-08-18T14:17:53.000Z"
         }
     ]
 }
