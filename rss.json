@@ -6,6 +6,412 @@
     "description": "全球实时新闻资讯",
     "items": [
         {
+            "id": 5060750,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5913675.d.html",
+            "title": "法律资讯网站BLaw：美国拟重启战争战利品法庭，以求扣押伊朗石油。",
+            "date_modified": "2026-08-26T19:12:23.000Z"
+        },
+        {
+            "id": 5060748,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9140667.d.html",
+            "title": "【OpenAI发布上月其AI模型入侵Hugging Face事件的技术报告】OpenAI发布一份37页技术报告，详述上月其AI模型入侵Hugging Face事件，将该事件定性为“前所未有的网络安全事件”。报告记录了评测前后及入侵过程中模型的各类行为，同时列出防范重演的多项举措，包括强化安全防护、隔离管控、监控手段、模型行为管控以及事件响应机制优化。OpenAI表示，7月21日，GPT‑5.6 Sol以及一款内部研究模型组成的模型组合，违规入侵Hugging Face。这些AI智能体逃出网络访问受限的隔离测试环境，串联利用多个漏洞接入公网，试图通过线上查找答案在评测中作弊，该行为被称作“奖励劫持”。",
+            "date_modified": "2026-08-26T19:11:20.000Z"
+        },
+        {
+            "id": 5060745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5912516.d.html",
+            "title": "【伊朗副总统：受美国海上封锁 伊朗无法进口汽油】伊朗第一副总统穆罕默德·贾法尔·盖姆帕纳表示，受美国海上封锁影响，伊朗无法进口汽油，并警告当前的燃料局面难以持续。“继续这样下去是行不通的。”盖姆帕纳称，国内汽油产量不足，“在美国海上封锁之下，我们无法进口汽油。”他同时表示，应当“借助军事力量”推动落实伊美谅解备忘录。盖姆帕纳称，在伊朗最高国家安全委员会指导下，伊朗与阿曼周二达成一份联合声明，要求船只使用备忘录所指定航线，不得穿越阿曼南部海域边界。",
+            "date_modified": "2026-08-26T19:09:43.000Z"
+        },
+        {
+            "id": 5060743,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9138280.d.html",
+            "title": "【元宇宙愿支付最高170亿美元和解社交媒体成瘾诉讼】美国元宇宙平台公司（Meta）26日与包括加利福尼亚州在内的美国数十个州达成社交媒体成瘾诉讼和解协议，同意向提起诉讼的各州支付最高170亿美元，并在其平台上增加对青少年儿童的安全保护措施。（新华社）",
+            "date_modified": "2026-08-26T19:06:45.000Z"
+        },
+        {
+            "id": 5060742,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9137899.d.html",
+            "title": "卡塔尔外交部宣布，卡塔尔首相兼外交大臣将于明日前往德黑兰。",
+            "date_modified": "2026-08-26T19:05:54.000Z"
+        },
+        {
+            "id": 5060741,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9137462.d.html",
+            "title": "铠侠高层计划于周四前往日本首相官邸，宣布一项新的建设计划。",
+            "date_modified": "2026-08-26T19:04:57.000Z"
+        },
+        {
+            "id": 5060738,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5909317.d.html",
+            "title": "铠侠将投资63亿美元在日本新建存储器生产工厂。",
+            "date_modified": "2026-08-26T19:03:36.000Z"
+        },
+        {
+            "id": 5060737,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9136684.d.html",
+            "title": "美国盟友表示，霍尔木兹海峡依旧有水雷，这与特朗普所称美国海军已完成排雷的说法相矛盾。相关官员估算，伊朗布设的80‑150枚水雷中，部分可能仍未清除。",
+            "date_modified": "2026-08-26T19:03:25.000Z"
+        },
+        {
+            "id": 5060736,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5908799.d.html",
+            "title": "伊朗外交部长阿拉格齐在致联合国秘书长、安理会及全体联合国会员国的信函中，将美国新一轮制裁称作国家层面的经济恐怖主义行为。",
+            "date_modified": "2026-08-26T19:02:42.000Z"
+        },
+        {
+            "id": 5060735,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9135982.d.html",
+            "title": "OpenAI：AI模型入侵Hugging Face的行为在一周后才被发现。",
+            "date_modified": "2026-08-26T19:02:17.000Z"
+        },
+        {
+            "id": 5060734,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9135654.d.html",
+            "title": "OpenAI正与博通合作自研AI芯片，以此在推理开销攀升之际降低硬件成本、提升利润率。早期测试结果显示，Jalapeño芯片或将削弱英伟达对其最重要客户之一的掌控力。",
+            "date_modified": "2026-08-26T19:01:36.000Z"
+        },
+        {
+            "id": 5060732,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5905866.d.html",
+            "title": "【投资公司Kimmeridge：美国拟建的数据中心可能半数面临延期或取消风险】投资公司Kimmeridge Energy Management Co.表示，由于政治反对情绪升温以及实体基础设施建设本身的复杂性，美国拟建的数据中心最多半数面临延期或取消风险。Kimmeridge联合创始人兼管理合伙人Ben Dell表示：“硅谷式的模式正在撞上现实世界的基础设施约束。”",
+            "date_modified": "2026-08-26T18:57:18.000Z"
+        },
+        {
+            "id": 5060727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9129817.d.html",
+            "title": "【俄埃外长通电话讨论中东局势】俄罗斯外交部网站26日发布通报说，俄外长拉夫罗夫当天与埃及外长阿卜杜勒阿提通电话，讨论中东当前局势，就美国和以色列侵略伊朗造成波斯湾地区军事和政治局势空前升级等问题交换意见。通报说，俄埃双方认为，必须强化“集体政治外交”努力，缓和紧张局势，为地区安全奠定可靠基础。双方还重申根据联合国相关决议解决巴勒斯坦问题的共同立场。通报说，两国外长还详细磋商了双边合作议题，强调持续开展密切协调对深化俄埃经贸往来具有重要意义。此外，双方就俄罗斯同非洲联盟和阿拉伯国家联盟进一步拓展伙伴关系的可行路径交换了意见。（新华社）",
+            "date_modified": "2026-08-26T18:51:18.000Z"
+        },
+        {
+            "id": 5060726,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5899479.d.html",
+            "title": "伊朗外交部发言人巴加埃：近几个月来，在美国和以色列对伊朗发动军事行动后，卡塔尔为帮助防止地区紧张局势升级作出了值得肯定的努力。卡塔尔首相将与伊朗官员就卡塔尔继续开展调解努力及地区其他事态发展进行讨论和交换意见。",
+            "date_modified": "2026-08-26T18:46:34.000Z"
+        },
+        {
+            "id": 5060714,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9112844.d.html",
+            "title": "  卡塔尔外交部发言人：卡塔尔首相将在德黑兰会见多名伊朗官员，商讨缓和紧张局势的途径。",
+            "date_modified": "2026-08-26T18:25:49.000Z"
+        },
+        {
+            "id": 5060713,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5884295.d.html",
+            "title": "  卡塔尔外交部发言人：卡塔尔首相将于周四访问德黑兰。",
+            "date_modified": "2026-08-26T18:23:41.000Z"
+        },
+        {
+            "id": 5060712,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9109619.d.html",
+            "title": "【美国LNG运输船绕行合恩角，避开巴拿马运河航线】航运数据显示，一艘载有美国装船燃料的液化天然气（LNG）运输船正驶向南美洲最南端，表明该船选择了更长的航线，而非经巴拿马运河通行。BW Pavilion Aranthera号船舶正显示在合恩角附近向南航行；其货物于7月下旬在佐治亚州萨凡纳附近的Elba LNG工厂装载。",
+            "date_modified": "2026-08-26T18:19:31.000Z"
+        },
+        {
+            "id": 5060710,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9106590.d.html",
+            "title": "【RevMed新型胰腺癌口服药年费超47.5万美元】Revolution Medicines公司旗下名为Rasonque的药物获得美国批准上市，该药可延长晚期胰腺癌患者的生存期。Rasonque的标价超过每年47.5万美元，是首批能够广泛靶向RAS蛋白的药物之一——该蛋白与肿瘤生长密切相关，在大多数胰腺癌中均存在突变。该药的获批为这一治疗进展缓慢、数十年来一直以化疗为核心手段的疾病开辟了新的战线。",
+            "date_modified": "2026-08-26T18:13:27.000Z"
+        },
+        {
+            "id": 5060707,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5869269.d.html",
+            "title": "  美国议员致函，要求调查交通部未能保障航空乘客隐私的问题。",
+            "date_modified": "2026-08-26T17:58:17.000Z"
+        },
+        {
+            "id": 5060706,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9095971.d.html",
+            "title": "市场消息：波音未能推翻 7200 万美元商业秘密侵权败诉判决。",
+            "date_modified": "2026-08-26T17:56:48.000Z"
+        },
+        {
+            "id": 5060705,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrra0621098.d.html",
+            "title": "  RevMed 高管表示，该胰腺癌口服药今日正式上市，定价为每月 39800 美元。",
+            "date_modified": "2026-08-26T17:52:55.000Z"
+        },
+        {
+            "id": 5060704,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5864802.d.html",
+            "title": "  穆迪评级将伊利诺伊州信用评级从 A2 上调至 A1，全部评级上调一档，对新普通责任债券授予 A1 评级，展望稳定。",
+            "date_modified": "2026-08-26T17:51:41.000Z"
+        },
+        {
+            "id": 5060703,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5862627.d.html",
+            "title": "  美国交通部长达菲：推出 “美国伟大商业走廊” 计划。",
+            "date_modified": "2026-08-26T17:48:43.000Z"
+        },
+        {
+            "id": 5060702,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5860502.d.html",
+            "title": "  欧盟委员会发言人：欧委会正就 Meta 涉嫌在成瘾性设计方面违反《数字服务法案》的初步调查结论，与该公司持续开展对话。",
+            "date_modified": "2026-08-26T17:45:59.000Z"
+        },
+        {
+            "id": 5060700,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5859231.d.html",
+            "title": "  欧盟委员会发言人：欧委会不对 Meta 在美国达成的和解置评。",
+            "date_modified": "2026-08-26T17:44:15.000Z"
+        },
+        {
+            "id": 5060697,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9083076.d.html",
+            "title": "  俄罗斯国防部：无人机飞行员切断红军村附近乌军后勤补给线。",
+            "date_modified": "2026-08-26T17:38:58.000Z"
+        },
+        {
+            "id": 5060696,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9082875.d.html",
+            "title": "  OpenAI：该数据隐私协议为各学区提供通用框架，用于对照学生数据隐私要求评估教师版 ChatGPT。",
+            "date_modified": "2026-08-26T17:38:38.000Z"
+        },
+        {
+            "id": 5060695,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5854868.d.html",
+            "title": "【伊朗外长谴责美对伊实施“经济恐怖主义行动”】当地时间26日，伊朗外长阿拉格齐就美国针对伊朗的“经济恐怖主义行动”致函联合国秘书长、安理会轮值主席等。信函阐述了伊朗对美方这一行动的立场，并强调联合国及国际社会负有谴责美国政府“非法犯罪行为”的法律和道义责任。信函表示，美国对伊朗发动战争并实施制裁，通过施压胁迫其他主权国家参与其“经济恐怖主义行动”。美国公然无视多边主义和外交手段，奉行恐吓和恐怖主义政策。这项“行动”的既定目标是终止与伊朗的合法经济关系，并以二级制裁和切断伊朗金融体系相威胁，意在将美国法律和外交政策目标延伸至其他国家，迫使主权国家改变其合法的贸易关系。此类措施既违背了《联合国宪章》主权平等原则，也侵犯了所有国家不受他国干涉、自由决定其经济和外交政策的权利。（央视新闻）",
+            "date_modified": "2026-08-26T17:37:59.000Z"
+        },
+        {
+            "id": 5060693,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5852481.d.html",
+            "title": "市场消息：俄罗斯粮食收获量已突破 1 亿吨。",
+            "date_modified": "2026-08-26T17:34:49.000Z"
+        },
+        {
+            "id": 5060692,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5852328.d.html",
+            "title": "OpenAI：已签署覆盖 16 个州的通用协议，加州另行签订单独协议。该数据隐私协议同时覆盖罗得岛州、田纳西州、得克萨斯州、佛蒙特州、弗吉尼亚州以及华盛顿州。",
+            "date_modified": "2026-08-26T17:34:35.000Z"
+        },
+        {
+            "id": 5060691,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5851866.d.html",
+            "title": "  谷歌：2026 加速器批次将借助人工智能提升能源效率、推进电网现代化。",
+            "date_modified": "2026-08-26T17:34:07.000Z"
+        },
+        {
+            "id": 5060690,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5851753.d.html",
+            "title": "  OpenAI：该数据隐私协议覆盖伊利诺伊州、艾奥瓦州、缅因州、马萨诸塞州、密苏里州、内布拉斯加州、新罕布什尔州、新泽西州、纽约州、俄亥俄州。",
+            "date_modified": "2026-08-26T17:33:56.000Z"
+        },
+        {
+            "id": 5060688,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5851225.d.html",
+            "title": "  谷歌：为北美及欧洲加速器项目遴选 28 家人工智能能源初创企业。",
+            "date_modified": "2026-08-26T17:33:20.000Z"
+        },
+        {
+            "id": 5060687,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5851138.d.html",
+            "title": "市场消息：英国首相伯纳姆下周将接见到访的法国总统马克龙。",
+            "date_modified": "2026-08-26T17:33:13.000Z"
+        },
+        {
+            "id": 5060686,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrri9078397.d.html",
+            "title": "  OpenAI：面向教师的 ChatGPT 在 2028 年 6 月前，仍为经过认证的美国 K‑12 教育工作者提供免费使用。",
+            "date_modified": "2026-08-26T17:32:54.000Z"
+        },
+        {
+            "id": 5060685,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5850717.d.html",
+            "title": "  OpenAI：宣布与 16 个州达成数据隐私协议。",
+            "date_modified": "2026-08-26T17:32:35.000Z"
+        },
+        {
+            "id": 5060684,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5850598.d.html",
+            "title": "  OpenAI：将面向教师的 ChatGPT 服务拓展至 20 个州的另外 55 个学区，新增覆盖超 10 万名教育工作者及教职工。",
+            "date_modified": "2026-08-26T17:32:27.000Z"
+        },
+        {
+            "id": 5060681,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5845813.d.html",
+            "title": "  Anthropic：Chrome 版 Claude 新增自主浏览器操作功能。",
+            "date_modified": "2026-08-26T17:23:44.000Z"
+        },
+        {
+            "id": 5060680,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsrrm5845604.d.html",
+            "title": "  Anthropic 面向所有付费套餐推出 Chrome 端 Claude。",
+            "date_modified": "2026-08-26T17:23:22.000Z"
+        },
+        {
+            "id": 5060679,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9200970.d.html",
+            "title": "  PUCK 正与红鸟资本洽谈融资，交易对应估值约 2.5 亿美元。",
+            "date_modified": "2026-08-26T17:17:26.000Z"
+        },
+        {
+            "id": 5060677,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5972474.d.html",
+            "title": "新加坡警方对Radiant World的办公室进行突击搜查。",
+            "date_modified": "2026-08-26T17:15:23.000Z"
+        },
+        {
+            "id": 5060676,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9199815.d.html",
+            "title": "  俄罗斯国防部称，防空系统单日在俄境内及黑海上空击落 51 架乌克兰无人机。",
+            "date_modified": "2026-08-26T17:15:07.000Z"
+        },
+        {
+            "id": 5060675,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5970685.d.html",
+            "title": "中国地震台网正式测定：08月27日00时45分在哥伦比亚（北纬6.75度，西经73.08度）发生5.3级地震，震源深度150千米。",
+            "date_modified": "2026-08-26T17:11:49.000Z"
+        },
+        {
+            "id": 5060674,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5970158.d.html",
+            "title": "市场消息：日本存储芯片巨头铠侠将在岩手县建设新的制造厂房，预计投资额将超过1万亿日元。",
+            "date_modified": "2026-08-26T17:11:03.000Z"
+        },
+        {
+            "id": 5060671,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5963591.d.html",
+            "title": "谷歌发布Gemini 3.5 Transcribe。",
+            "date_modified": "2026-08-26T17:02:57.000Z"
+        },
+        {
+            "id": 5060668,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5960279.d.html",
+            "title": "  哥伦比亚发生强震，波哥大建筑物内人员已疏散。",
+            "date_modified": "2026-08-26T16:59:48.000Z"
+        },
+        {
+            "id": 5060667,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9184955.d.html",
+            "title": "Nscale将从美国西弗吉尼亚州数据中心提供电力。Anthropic将从对方的数据中心获得460 MW电力供应。",
+            "date_modified": "2026-08-26T16:56:20.000Z"
+        },
+        {
+            "id": 5060666,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9183991.d.html",
+            "title": "  俄罗斯国防部称俄军袭击了伊兹梅尔港内一艘货运船只。",
+            "date_modified": "2026-08-26T16:55:01.000Z"
+        },
+        {
+            "id": 5060665,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9183378.d.html",
+            "title": "  Anthropic 将以 450 亿美元租赁 Nscale 数据中心。",
+            "date_modified": "2026-08-26T16:54:20.000Z"
+        },
+        {
+            "id": 5060664,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9182170.d.html",
+            "title": "  美国国务卿鲁比奥今日会见墨西哥外交部长。",
+            "date_modified": "2026-08-26T16:53:03.000Z"
+        },
+        {
+            "id": 5060663,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9181183.d.html",
+            "title": "LME期铜收跌96美元，报14253美元/吨。LME期铝收跌13美元，报3225美元/吨。LME期锌收涨3美元，报3893美元/吨。",
+            "date_modified": "2026-08-26T16:52:04.000Z"
+        },
+        {
+            "id": 5060662,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5944101.d.html",
+            "title": "市场消息： 追加资金将把 H3 火箭的年发射能力从 2025 年的 3 枚提升至每年 6‑8 枚。",
+            "date_modified": "2026-08-26T16:41:04.000Z"
+        },
+        {
+            "id": 5060661,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9171216.d.html",
+            "title": "市场消息：日本文部科学省计划在下一财年预算中为此申请 235 亿日元资金。拟申请预算规模大致增至原先的八倍，用于提升H3 重型火箭的发射能力。",
+            "date_modified": "2026-08-26T16:40:36.000Z"
+        },
+        {
+            "id": 5060660,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9169653.d.html",
+            "title": "市场消息：日本谋求增加 H3 火箭发射次数，以此追赶SpaceX。",
+            "date_modified": "2026-08-26T16:38:53.000Z"
+        },
+        {
+            "id": 5060659,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5941368.d.html",
+            "title": "药明合联的配股价定为73.23港元/股。",
+            "date_modified": "2026-08-26T16:37:50.000Z"
+        },
+        {
+            "id": 5060658,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9166997.d.html",
+            "title": "【IDC称苹果折叠屏iPhone首年出货量将达1000万部】研究机构IDC预测，苹果备受期待的折叠屏iPhone在上市首年将实现超过1000万部的出货量。IDC高级研究总监纳比拉·波帕尔预计，尽管售价高达2500美元，这款护照式折叠苹果手机仍将大获成功。折叠设备品类今年将增长12.6%，明年增速将加快至18%，IDC预测苹果到2027年最终将占据所有折叠设备出货量的40%。",
+            "date_modified": "2026-08-26T16:35:40.000Z"
+        },
+        {
+            "id": 5060656,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9161675.d.html",
+            "title": "  惠誉评级：主权债券收益率飙升凸显财政挑战依然存在。",
+            "date_modified": "2026-08-26T16:28:35.000Z"
+        },
+        {
+            "id": 5060654,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim5878590.d.html",
+            "title": "北约秘书长吕特将于周四会见美国国防部副部长埃尔布里奇・科尔比。",
+            "date_modified": "2026-08-26T16:26:16.000Z"
+        },
+        {
             "id": 5060653,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5929497.d.html",
@@ -46,390 +452,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9146518.d.html",
             "title": "  斯特兰蒂斯首席执行官：斯特兰蒂斯上半年各项核心指标均出现改善，公司正处于逐步回暖的复苏轨道。",
             "date_modified": "2026-08-26T16:07:57.000Z"
-        },
-        {
-            "id": 5060640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5912456.d.html",
-            "title": "香港天文台发布黄色暴雨警告。",
-            "date_modified": "2026-08-26T16:00:44.000Z"
-        },
-        {
-            "id": 5060639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmim9139785.d.html",
-            "title": "俄罗斯统计局：俄罗斯 1‑7 月工业产出增长 0.1%，7 月工业产出同比增长 0.4%。",
-            "date_modified": "2026-08-26T16:00:38.000Z"
-        },
-        {
-            "id": 5060638,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-27/detail-inipsmip5912188.d.html",
-            "title": "俄罗斯统计局：截至 8 月 24 日当周，俄罗斯周度通胀率为 0.01%，此前一周为通缩 0.02%。",
-            "date_modified": "2026-08-26T16:00:31.000Z"
-        },
-        {
-            "id": 5060635,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5911062.d.html",
-            "title": "CBOT小麦日内涨幅达2.5%，报766美分。",
-            "date_modified": "2026-08-26T15:58:57.000Z"
-        },
-        {
-            "id": 5060634,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5909931.d.html",
-            "title": "欧洲债券价格跌幅扩大，10年期意债收益率涨6个基点。",
-            "date_modified": "2026-08-26T15:56:51.000Z"
-        },
-        {
-            "id": 5060631,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5902555.d.html",
-            "title": "  三位消息人士称，俄罗斯诺尔西炼油厂在 8 月 26 日遭遇无人机袭击后已停止原油加工。",
-            "date_modified": "2026-08-26T15:46:02.000Z"
-        },
-        {
-            "id": 5060630,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5901951.d.html",
-            "title": "  法官暂停 Meta 相关案件审理，表示她 “倾向于” 批准该项交易，但需要更多时间开展审查。",
-            "date_modified": "2026-08-26T15:45:10.000Z"
-        },
-        {
-            "id": 5060628,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5898518.d.html",
-            "title": "  印度外交部长：已与乌克兰外长商讨黑海贸易恢复事宜。",
-            "date_modified": "2026-08-26T15:40:20.000Z"
-        },
-        {
-            "id": 5060625,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9118397.d.html",
-            "title": "市场消息：片刻前，一艘名为 “ HAANA ” 的印度油轮试图取道霍尔木兹海峡南部航线，即阿曼走廊，但在收到警告后被迫放弃通行。过去 24 小时内，霍尔木兹海峡南部航线未见船只通行。",
-            "date_modified": "2026-08-26T15:30:26.000Z"
-        },
-        {
-            "id": 5060624,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9117627.d.html",
-            "title": "市场消息：日本 Terra Charge 将推出适配特斯拉的电动汽车充电站，将于 2028 财年起安装适配特斯拉标准的设备。",
-            "date_modified": "2026-08-26T15:29:23.000Z"
-        },
-        {
-            "id": 5060623,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9115052.d.html",
-            "title": "  英国内阁办公室：前《太阳报》编辑丁斯莫尔将卸任英国政府通讯相关职务。",
-            "date_modified": "2026-08-26T15:25:48.000Z"
-        },
-        {
-            "id": 5060622,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9114062.d.html",
-            "title": "【报道：伊朗与俄气公司探讨天然气行业合作】据伊朗官方的伊斯兰共和国通讯社报道，伊朗官员与俄气公司代表周三在俄罗斯举行会晤，探讨天然气行业合作。报道称，伊朗国家天然气公司(NIGC)首席执行官Saeed Tavakoli、伊朗驻俄罗斯大使Kazem Jalali以及俄气公司首席执行官Alexey Miller在圣彼得堡的公司总部出席了此次会议。",
-            "date_modified": "2026-08-26T15:24:28.000Z"
-        },
-        {
-            "id": 5060621,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5885214.d.html",
-            "title": "伊朗核事务负责人埃斯拉米：特朗普扬言轰炸伊朗所谓秘密核设施一事，暴露了国际组织沦为美国与以色列棋子的现实。",
-            "date_modified": "2026-08-26T15:22:49.000Z"
-        },
-        {
-            "id": 5060620,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9111532.d.html",
-            "title": "伊朗核事务负责人埃斯拉米： 在拟定相关议定书之前，国际原子能机构不得要求核查伊朗核设施。",
-            "date_modified": "2026-08-26T15:21:33.000Z"
-        },
-        {
-            "id": 5060619,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9110974.d.html",
-            "title": "  伊朗核事务负责人埃斯拉米向官方媒体表示：伊朗仍处于战时状态，其核设施尚未做好接受核查的安保准备。",
-            "date_modified": "2026-08-26T15:20:55.000Z"
-        },
-        {
-            "id": 5060618,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5882048.d.html",
-            "title": "【特朗普证实中情局局长访俄】美国总统特朗普26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。特朗普当天在接受一家电台节目采访时称拉特克利夫此访“算是半例行性的”。他随后暗示拉特克利夫的访问同俄乌战事有关，称“我们正在努力促成战事结束，双方也都希望看到战事结束”。（新华社）",
-            "date_modified": "2026-08-26T15:19:17.000Z"
-        },
-        {
-            "id": 5060614,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9104354.d.html",
-            "title": "航运公司MSC暂停俄罗斯黑海服务，此前发生无人机袭击。",
-            "date_modified": "2026-08-26T15:13:16.000Z"
-        },
-        {
-            "id": 5060613,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9102621.d.html",
-            "title": "【泽连斯基视察乌军前线部队】据乌克兰国际文传电讯社26日报道，乌总统泽连斯基当天视察了乌克兰南部前线部队。泽连斯基当天在社交媒体“电报”上发文说，他和乌武装部队总司令德拉帕特视察了在亚历山德里夫卡方向执行任务的“第80独立空降突击加利西亚旅”和“第95独立空降突击波利斯卡旅”并看望了士兵。泽连斯基说，他此行还与扎波罗热地区指挥官和空降突击部队各级指挥官进行了会谈，主要议题包括征兵及为部队提供必要的武器装备等。（新华社）",
-            "date_modified": "2026-08-26T15:10:42.000Z"
-        },
-        {
-            "id": 5060612,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5873925.d.html",
-            "title": "市场消息：以色列总理内塔尼亚胡在乌克兰独立 35 周年之际向乌克兰总统泽连斯基致贺信，信中表示期待两国关系进一步改善。",
-            "date_modified": "2026-08-26T15:09:10.000Z"
-        },
-        {
-            "id": 5060606,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5870434.d.html",
-            "title": "  加拿大国家银行首席执行官：边境两侧新增关税将波及更多行业、商业投资以及消费者的负担能力。",
-            "date_modified": "2026-08-26T15:05:09.000Z"
-        },
-        {
-            "id": 5060605,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmip5870218.d.html",
-            "title": "加拿大国家银行首席执行官表示，美国境内尚未解决且不断升级的贸易冲突持续给企业带来经济不确定性与挑战。",
-            "date_modified": "2026-08-26T15:04:52.000Z"
-        },
-        {
-            "id": 5060604,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsmim9096594.d.html",
-            "title": "  加州总检察长：邦塔总检察长提起诉讼，质疑美国邮政限制邮寄投票、干预选举的相关规定。",
-            "date_modified": "2026-08-26T15:03:46.000Z"
-        },
-        {
-            "id": 5060598,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9223636.d.html",
-            "title": "科罗拉多州总检察长：提起诉讼挑战美国邮政局新规，该规定声称赋予其监管选举邮寄投票的权力。",
-            "date_modified": "2026-08-26T14:59:36.000Z"
-        },
-        {
-            "id": 5060597,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9223186.d.html",
-            "title": "BOSS直聘美股涨超17%，二季度营收及利润增长均提速，并宣布2.3亿美元派息计划。",
-            "date_modified": "2026-08-26T14:58:49.000Z"
-        },
-        {
-            "id": 5060596,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp5979161.d.html",
-            "title": "科罗拉多州总检察长：总检察长菲尔·魏泽尔已加入由25个州组成的联盟，对美国邮政署提起诉讼。",
-            "date_modified": "2026-08-26T14:58:31.000Z"
-        },
-        {
-            "id": 5060595,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9222751.d.html",
-            "title": "美国食品药品监督管理局：波士顿科学 Enroute NPS 因头端分离风险启动召回。",
-            "date_modified": "2026-08-26T14:58:15.000Z"
-        },
-        {
-            "id": 5060594,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5995104.d.html",
-            "title": "  FDA 将波士顿科学 Enroute 产品召回划为最高严重等级。",
-            "date_modified": "2026-08-26T14:58:00.000Z"
-        },
-        {
-            "id": 5060593,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp5978335.d.html",
-            "title": "【立陶宛总统：美国中情局局长突访莫斯科旨在缓和紧张局势】立陶宛总统吉塔纳斯·瑙塞达表示，美国中央情报局(CIA)局长John Ratcliffe周二访问莫斯科，很可能旨在缓解该地区地缘政治紧张。瑙塞达周三在记者会上表示，立陶宛预计伙伴国“可能会在下周”就相关会谈内容进行通报，但他拒绝讨论会谈的具体目标。他说：“我只相信，这次会晤确实是为了降低我们地区的地缘政治紧张。这是积极的。”",
-            "date_modified": "2026-08-26T14:56:14.000Z"
-        },
-        {
-            "id": 5060592,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5992537.d.html",
-            "title": "【国家海洋预报台发布海浪红色警报 】记者从自然资源部获悉，今天夜间，国家海洋预报台根据《海洋灾害应急预案》拉响海浪最高级别红色警报。今年第18号台风“沙德尔”（强台风级）的中心21时位于浙闽交界东偏北方向约570公里的东海海面上，中心附近最大风力14级（42米/秒），中心最低气压为955百帕。预计“沙德尔”将以每小时10公里左右的速度先向偏西方向移动，将于27日夜间至28日上午在浙江象山到福建连江一带沿海登陆（35—42米/秒，12—14级，台风级或强台风级），登陆后强度逐渐减弱。（央视新闻）",
-            "date_modified": "2026-08-26T14:54:49.000Z"
-        },
-        {
-            "id": 5060591,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9219598.d.html",
-            "title": "【台风“沙德尔”袭击日本致5人受伤】台风“沙德尔”袭击日本鹿儿岛县奄美地区和冲绳等地，截至26日上午，已造成当地5人受伤。据日本广播协会报道，台风给奄美地区和冲绳等地带来强风和降雨天气。截至当地时间26日11时（北京时间26日10时），奄美地区有2人受伤，冲绳有3人受伤。此外，奄美地区有超过3万户用户停电，冲绳有2200多户用户停电。（新华社）",
-            "date_modified": "2026-08-26T14:54:20.000Z"
-        },
-        {
-            "id": 5060590,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5991798.d.html",
-            "title": "美国能源信息署（EIA）数据显示，上周美国中西部炼油厂开工率升至历史新高。",
-            "date_modified": "2026-08-26T14:53:50.000Z"
-        },
-        {
-            "id": 5060589,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9219166.d.html",
-            "title": "美国平等就业机会委员会批准联邦雇员歧视索赔改革方案。",
-            "date_modified": "2026-08-26T14:53:42.000Z"
-        },
-        {
-            "id": 5060588,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5991301.d.html",
-            "title": "据悉 KNDS 考虑重启 IPO，已安排投资者会议。",
-            "date_modified": "2026-08-26T14:53:19.000Z"
-        },
-        {
-            "id": 5060587,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9217617.d.html",
-            "title": "美国能源信息署（EIA）称，美国炼油厂利用率在最新一周上升至2018年9月以来的最高水平。",
-            "date_modified": "2026-08-26T14:51:53.000Z"
-        },
-        {
-            "id": 5060584,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5989413.d.html",
-            "title": "【特朗普尚未决定白宫新闻秘书人选，将由高级官员轮流主持】据报道，现任白宫新闻秘书卡罗琳·莱维特的最后工作日为本周五。截至目前，特朗普尚未敲定其继任者人选。在过渡期间，白宫新闻简报会的职责将采取临时轮换机制，由多位政府高级官员轮流主持，而非由白宫新闻和通讯团队的成员负责。白宫幕僚长苏西·怀尔斯正在积极考察潜在的继任人选，但目前尚未出现明确的领跑者。尽管CNN政治评论员斯科特·詹宁斯的名字曾被外界提及，但消息人士透露他不太可能成为最终人选。与此同时，莱维特原有的整个团队将予以保留，并转为向白宫通讯联络办公室主任史蒂文·张（Steven Cheung）汇报。其中，莱维特的执行助理基根·南格尔将转任新闻协调员一职。离开白宫后，莱维特将重返特朗普的超级政治行动委员会（MAGA Inc.），并继续担任总统的主要外部顾问。据她本人透露，未来还将参与更多尚未对外公布的活动。",
-            "date_modified": "2026-08-26T14:51:05.000Z"
-        },
-        {
-            "id": 5060580,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9209961.d.html",
-            "title": "美国能源信息署（EIA）数据显示，美国东海岸馏分燃料油库存上周下降，降至2022年5月以来的最低水平。",
-            "date_modified": "2026-08-26T14:43:35.000Z"
-        },
-        {
-            "id": 5060579,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5981528.d.html",
-            "title": "【四大行快速响应 全力保障西藏灾区金融服务不断档】记者从工、农、中、建四大国有商业银行了解到，各家银行快速响应，全力做好西藏日喀则市吉隆县泥石流灾害应急金融服务，保障灾区金融服务不断档。（新华社）",
-            "date_modified": "2026-08-26T14:42:37.000Z"
-        },
-        {
-            "id": 5060578,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9208530.d.html",
-            "title": "【第二届世界人形机器人运动会收官，智元斩获18金位列榜首】8月26日，第二届世界人形机器人运动会在北京国家速滑馆“冰丝带”落幕。智元机器人凭借全量产机型参赛，最终斩获18金16银12铜，位列金牌与奖牌榜双第一。细分项目中，其量产灵巧手OmniHand在粉末称重等专项中获7金；精灵G2机型在酒店、应急等场景作业赛获6金；远征A3及灵犀X2在武术及障碍赛等竞技项目获5金。",
-            "date_modified": "2026-08-26T14:42:09.000Z"
-        },
-        {
-            "id": 5060577,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9207363.d.html",
-            "title": "墨西哥总统表示，选举期间她不会前往巴西。",
-            "date_modified": "2026-08-26T14:40:59.000Z"
-        },
-        {
-            "id": 5060576,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9205483.d.html",
-            "title": "美国食品药品监督管理局批准首款同类靶向疗法用于转移性胰腺癌治疗。",
-            "date_modified": "2026-08-26T14:39:01.000Z"
-        },
-        {
-            "id": 5060575,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5977859.d.html",
-            "title": "【8月26日增减持汇总】8月26日，据不完全统计，包括潮宏基、润贝航科、恒达新材、值得买、利扬芯片、旭杰科技在内的6家A股上市公司披露拟减持情况，当日暂无A股上市公司披露拟增持情况。",
-            "date_modified": "2026-08-26T14:38:46.000Z"
-        },
-        {
-            "id": 5060571,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5977586.d.html",
-            "title": "【农业银行全力做好西藏日喀则吉隆口岸泥石流灾害抢险救灾金融服务保障】8月26日，受尼泊尔一侧泥石流灾害影响，西藏日喀则市吉隆口岸区域发生重大灾情，造成人员伤亡和失联。灾情发生后，农业银行快速响应，第一时间部署落实防灾救灾、隐患排查、金融保障各项工作，以高效、务实、暖心的金融举措全力服务抢险救灾。（中国农业银行）",
-            "date_modified": "2026-08-26T14:38:28.000Z"
-        },
-        {
-            "id": 5060570,
-            "content_html": "",
-            "title": "墨西哥总统：我收到了 G20 的参会邀请；我方正在决定是否出席。",
-            "date_modified": "2026-08-26T14:38:15.000Z"
-        },
-        {
-            "id": 5060569,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5977069.d.html",
-            "title": "【西藏吉隆遭受泥石流灾害 已造成3人遇难265人失联 】2026年8月26日，日喀则市吉隆县发生泥石流灾害。记者从前方指挥部获悉，截至8月26日20时，经初步核实统计，此次泥石流灾害已造成3人遇难，265人失联，具体伤亡人数还在进一步核查中，各项救援工作正有序开展。（央视新闻）",
-            "date_modified": "2026-08-26T14:37:53.000Z"
-        },
-        {
-            "id": 5060568,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9203136.d.html",
-            "title": "【超500款理财产品调整业绩比较基准】近期，工银理财、农银理财、中邮理财、兴银理财等多家理财公司发布公告，将旗下部分理财产品的业绩比较基准从数值区间型切换为挂钩债券指数、存款利率、股市指数等各种市场指数的公式型基准。以某款“固收+”理财产品为例，新的业绩比较基准调整为：中债-新综合全价指数收益率*92.00%+沪深300指数收益率*3.00%+人民银行公布的个人活期存款利率*5.00%。据不完全统计，8月以来，业绩比较基准“换锚”的相关公告合计超500条。这次调整的核心，就是把过去的数值区间，变成一套“看市场”的动态公式。理财产品每一分收益都能在新的业绩比较基准中找到对应的市场来源。（央视财经）",
-            "date_modified": "2026-08-26T14:36:24.000Z"
-        },
-        {
-            "id": 5060565,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5972643.d.html",
-            "title": "【尼泊尔北部山洪暴发已致97人死亡 403人失踪】尼泊尔武警官员26日晚通报该国山洪救援情况称，截至当晚7时左右，已找到97具遇难者遗体，此外共有54人获救。另据尼泊尔旅游委员会发布的公告，截至当晚，在山洪中失踪的游客数达到403人，其中外籍游客341人。当地时间26日，尼泊尔北部热索瓦地区暴发山洪。",
-            "date_modified": "2026-08-26T14:33:02.000Z"
-        },
-        {
-            "id": 5060564,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5971902.d.html",
-            "title": "【MINIMAX：修订阿里云计算服务协议项下持续关连交易的年度上限】MINIMAX 8月26日公告，根据主API服务协议，公司同意向阿里巴巴集团运营的业务提供API服务，期限自上市日期起至2028年12月31日止。根据阿里云计算服务协议，公司同意向阿里云计算有限公司购买若干云产品及服务，期限自上市日期起至2028年12月31日止。于8月26日（交易时段后），公司与阿里云计算有限公司订立主API服务协议补充协议及阿里云计算服务协议补充协议，以修订主API服务协议及阿里云计算服务协议项下截至2026年、2027年及2028年12月31日止年度的持续关连交易的现有年度上限。",
-            "date_modified": "2026-08-26T14:32:11.000Z"
-        },
-        {
-            "id": 5060563,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezh0809871.d.html",
-            "title": "美国至8月21日当周EIA原油库存 9.5万桶，预期59.7万桶，前值440.5万桶。美国至8月21日当周EIA俄克拉荷马州库欣原油库存 117.6万桶，前值-131.4万桶。",
-            "date_modified": "2026-08-26T14:30:36.000Z"
-        },
-        {
-            "id": 5060561,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5970117.d.html",
-            "title": "美国至8月21日当周EIA战略石油储备库存 -370万桶，前值-526.8万桶。",
-            "date_modified": "2026-08-26T14:30:11.000Z"
-        },
-        {
-            "id": 5060558,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5969083.d.html",
-            "title": "【西部战区空军迅速投入吉隆口岸泥石流抢险救灾工作】8月26日，西藏吉隆灾情发生后，西部战区空军迅速启动抢险救灾应急预案，认真筹划航空侦察、战场搜救、空中运输等任务，组织运输机、直升机、无人机等紧前做好出动准备。26日20时许，高原某机场出现短时稳定天气，西部战区空军抓住可飞时间窗口，立即派出一架无人机赴吉隆口岸地区勘察灾情。 同时，气象部门统筹利用军地气象保障资源，密切监测灾区云层状况及大风、雷雨等危险性、灾害性气象信息，及时向任务机组提供预报警报，实时调整飞行航线。（新华社）",
-            "date_modified": "2026-08-26T14:28:54.000Z"
-        },
-        {
-            "id": 5060556,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5967320.d.html",
-            "title": "彭博美元指数涨0.3%，意味着“贝森特回购”以来的失地收复一半。",
-            "date_modified": "2026-08-26T14:26:42.000Z"
-        },
-        {
-            "id": 5060555,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezh0807736.d.html",
-            "title": "【西藏启动自治区自然灾害一级救助应急响应】西藏自治区防灾减灾救灾委员会8月26日晚发布通知，26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成日喀则市吉隆县吉隆口岸重大人员伤亡、失联。根据《西藏自治区自然灾害救助应急预案》启动条件，经西藏自治区党委、政府同意，自治区防灾减灾救灾委员会决定启动自治区自然灾害一级救助应急响应。 通知要求，西藏自治区防灾减灾救灾委员会各有关成员单位和日喀则市人民政府按照职能与任务分工，切实做好救灾救助各项工作。（新华社）",
-            "date_modified": "2026-08-26T14:25:44.000Z"
-        },
-        {
-            "id": 5060553,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5964393.d.html",
-            "title": "【亚马逊宣布将于9月30日正式关闭其运营了21年的“众包”平台MTurk】亚马逊宣布，将在9月30日关闭其众包工作平台Mechanical Turk (MTurk)。这个平台诞生于2005年，旨在将一些对人类来说轻而易举、但对计算机而言却极具挑战的数字任务（如数据标注、音视频转录、问卷调查等）分发给全球的“数字零工”。亚马逊创始人杰夫·贝索斯曾将这项服务形象地称为“人工人工智能”（artificial artificial intelligence）。",
-            "date_modified": "2026-08-26T14:23:20.000Z"
-        },
-        {
-            "id": 5060552,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezp9190889.d.html",
-            "title": "美国将亲巴勒斯坦团体列入制裁名单。",
-            "date_modified": "2026-08-26T14:22:17.000Z"
-        },
-        {
-            "id": 5060551,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipsezr5962191.d.html",
-            "title": "达信集团(Marsh & McLennan Companies Inc)：推出Stratus，一个价值100亿美元的财产保险交易所，专门针对运营性数字基础设施风险。",
-            "date_modified": "2026-08-26T14:20:51.000Z"
         }
     ]
 }
