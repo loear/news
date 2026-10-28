@@ -4,436 +4,391 @@
         <title>全球实时新闻资讯</title>
         <link>https://loear.github.io/news/</link>
         <description>全球实时新闻资讯</description>
-        <lastBuildDate>Wed, 28 Oct 2026 15:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 20:57:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://loear.github.io/news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[以色列总统赫尔佐格正推动由内塔尼亚胡领导未来两年的政府，交换条件是内塔尼亚胡在任期结束时辞职，并在其审判中获得全面赦免。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9369538.d.html</link>
-            <guid>5176805</guid>
-            <pubDate>Wed, 28 Oct 2026 15:48:35 GMT</pubDate>
+            <title><![CDATA[谷歌云首席执行官：谷歌直接与 Anthropic 合作开发 TPU，并同博通开展相关合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsii9047442.d.html</link>
+            <guid>5177266</guid>
+            <pubDate>Wed, 28 Oct 2026 20:57:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯洛伐克与西屋电气就新建反应堆签署前期工程协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6483508.d.html</link>
-            <guid>5176802</guid>
-            <pubDate>Wed, 28 Oct 2026 15:43:25 GMT</pubDate>
+            <title><![CDATA[苹果正利用谷歌TPU扩大基础模型的预训练规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsii9047292.d.html</link>
+            <guid>5177265</guid>
+            <pubDate>Wed, 28 Oct 2026 20:56:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国核管理委员会：奥科尼1号反应堆功率从89%降至88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmt5818978.d.html</link>
-            <guid>5176801</guid>
-            <pubDate>Wed, 28 Oct 2026 15:43:14 GMT</pubDate>
+            <title><![CDATA[谷歌云首席执行官：谷歌与 Meta 合作开发 Torch TPU。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsih2942938.d.html</link>
+            <guid>5177264</guid>
+            <pubDate>Wed, 28 Oct 2026 20:55:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国核管理委员会：佩里1号反应堆功率从98%降至97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9368334.d.html</link>
-            <guid>5176800</guid>
-            <pubDate>Wed, 28 Oct 2026 15:43:09 GMT</pubDate>
+            <title><![CDATA[【特朗普下令美国贸易代表就机器人和机械进口寻求谈判】美国总统特朗普指示贸易代表和商务部长就机器人及工业机械问题展开谈判以处理国家安全关切。该行政命令指示美国贸易代表办公室与贸易伙伴就协议进行，“以应对从任何国家进口机器人和工业机械及其零部件可能对国家安全造成的威胁”。特朗普“未来可能会考虑其它补救措施，包括征收或修改关税、税收、配额和收费；以及制定计划激励对在美国生产机器人和工业机械及其零部件的新投资”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsim5497220.d.html</link>
+            <guid>5177261</guid>
+            <pubDate>Wed, 28 Oct 2026 20:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国核管理委员会：拜伦2号反应堆功率从80%提高到94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6483390.d.html</link>
-            <guid>5176799</guid>
-            <pubDate>Wed, 28 Oct 2026 15:43:05 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗在社交媒体上删除了一封自称“当选总统”的信件，并将措辞改为“巴西领导人”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsim5497013.d.html</link>
+            <guid>5177259</guid>
+            <pubDate>Wed, 28 Oct 2026 20:51:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以选举委员会公布特殊选票初步数量 或将影响最终大选格局】当地时间28日，以色列中央选举委员会宣布，今年议会选举中的“双层信封”特殊选票数量预计在43万至48万张之间，少于此前报道的约60万张。该委员会指出，此类选票主要由以军士兵、服刑人员、驻外外交人员以及其他无法前往指定投票站的选民投下。为防止重复投票，选举官员将在核实选民身份且确认其未在其他地方投票后，对这批选票进行单独清点。目前公布的数字仍属初步估计，随着接收和处理工作的推进可能还会发生变化。在以色列政坛，平均每4万张票决定议会1个席位，因此这批最后清点的“特殊选票”往往会成为决定各党派席位乃至影响组阁的关键变量。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3258406.d.html</link>
-            <guid>5176798</guid>
-            <pubDate>Wed, 28 Oct 2026 15:40:06 GMT</pubDate>
+            <title><![CDATA[【西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”】当地时间28日，西班牙托莱多省高铁特大追尾事故的关键调度通话录音曝光。据悉，这三段核心通话录音包括控制中心与停在轨道上的伊尔约公司列车司机的两次通话，以及与后方追尾的西班牙国家铁路公司列车司机的一次通话，这些录音证实了事故发生前的关键操作失误。录音内容显示，事发前，位于马德里阿托查的24小时调度控制中心操作员，向距离伊尔约公司列车约25公里的西班牙国家铁路公司列车下达了明确指令：“断开连接，重新连接，恢复正常速度行驶”。据悉，该指令直接违反了相关安全规程。规程要求，在系统故障区段，列车应以目视方式或限制40公里/小时的速度行驶。此外，调度员在未确认前方列车已安全驶离区间的情况下，便允许后方列车全速推进，最终酿成惨剧。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvsie6165588.d.html</link>
+            <guid>5177257</guid>
+            <pubDate>Wed, 28 Oct 2026 20:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国法官禁止美国官员投放由纳税人资金资助的广告。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6481931.d.html</link>
-            <guid>5176797</guid>
-            <pubDate>Wed, 28 Oct 2026 15:38:25 GMT</pubDate>
+            <title><![CDATA[Alphabet高管：TPU系统销售对谷歌云的增长做出了重要贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3071609.d.html</link>
+            <guid>5177256</guid>
+            <pubDate>Wed, 28 Oct 2026 20:48:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日美防长会谈】日本防卫大臣小泉进次郎10月28日在参加东盟防长扩大会期间，与美国国防部长赫格塞思举行会谈，声称要加强日美同盟威慑力。据日本共同社报道，双方在会谈中同意为构建所谓“第一岛链”防御体系展开合作。据美国国防部透露，双方商定，为防备战事长期化的局面，在关键弹药生产方面继续保持紧密合作。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9366913.d.html</link>
-            <guid>5176794</guid>
-            <pubDate>Wed, 28 Oct 2026 15:37:36 GMT</pubDate>
+            <title><![CDATA[谷歌云首席执行官：谷歌云旗下有18条产品线，每条产品线年收入均超过10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9176469.d.html</link>
+            <guid>5177255</guid>
+            <pubDate>Wed, 28 Oct 2026 20:48:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统特朗普在纳税人资助广告之争中再遭败绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3256614.d.html</link>
-            <guid>5176793</guid>
-            <pubDate>Wed, 28 Oct 2026 15:34:43 GMT</pubDate>
+            <title><![CDATA[谷歌YouTube每日上传视频超2000万个。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6295428.d.html</link>
+            <guid>5177254</guid>
+            <pubDate>Wed, 28 Oct 2026 20:47:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国勃兰登堡州：德国政府正在制定一项长期战略，以保障德国炼油厂的安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9365826.d.html</link>
-            <guid>5176791</guid>
-            <pubDate>Wed, 28 Oct 2026 15:33:54 GMT</pubDate>
+            <title><![CDATA[谷歌YouTube订阅业务增速超过广告业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6295301.d.html</link>
+            <guid>5177253</guid>
+            <pubDate>Wed, 28 Oct 2026 20:47:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[对冲基金亿万富豪比尔·阿克曼：认为人工智能支出水平“可持续”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmt5816151.d.html</link>
-            <guid>5176789</guid>
-            <pubDate>Wed, 28 Oct 2026 15:32:57 GMT</pubDate>
+            <title><![CDATA[谷歌：加速在广告基础设施中应用Gemini。谷歌Gemini帮助广告主生成了超过15亿份素材。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9176182.d.html</link>
+            <guid>5177252</guid>
+            <pubDate>Wed, 28 Oct 2026 20:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国两年期浮动利率票据贴现利差为0.038%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6479582.d.html</link>
-            <guid>5176787</guid>
-            <pubDate>Wed, 28 Oct 2026 15:31:54 GMT</pubDate>
+            <title><![CDATA[【乌沙科夫：乌克兰问题三方谈判将于 11 月 4 日后举行，具体日期待定】据俄罗斯方面报道，俄罗斯总统助理乌沙科夫称，乌克兰问题三方谈判将于 11 月 4 日后举行，具体日期待定。乌沙科夫还表示：重启谈判的时间将取决于局势，包括战场形势。俄罗斯代表团人选将于近期确定，核心小组已经组建完毕。俄方尚未就重启乌克兰问题三方谈判的日期释放相关信号。目前并未讨论由斯图布与斯特尔作为代表整个欧洲的谈判人选。俄罗斯正与美国商讨解除对俄罗斯直接投资基金（RDIF）制裁的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9175363.d.html</link>
+            <guid>5177251</guid>
+            <pubDate>Wed, 28 Oct 2026 20:43:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：为人工智能训练而建的数据中心极易受到人工智能生态系统内不利冲击的影响，足以导致受影响的发行人评级下调。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3255536.d.html</link>
-            <guid>5176786</guid>
-            <pubDate>Wed, 28 Oct 2026 15:31:46 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：Waymo自动驾驶里程已超过3亿英里。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6292941.d.html</link>
+            <guid>5177250</guid>
+            <pubDate>Wed, 28 Oct 2026 20:40:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国勃兰登堡州：PCK Schwedt炼油厂目前的产能利用率超过86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6479463.d.html</link>
-            <guid>5176785</guid>
-            <pubDate>Wed, 28 Oct 2026 15:31:34 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：谷歌将在 Chrome、安卓以及 Google Workspace 中拓展智能体 AI。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3068812.d.html</link>
+            <guid>5177249</guid>
+            <pubDate>Wed, 28 Oct 2026 20:39:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国政府：预计到2029年底，与罗尔斯-罗伊斯达成的协议将支撑3300个就业岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3255148.d.html</link>
-            <guid>5176784</guid>
-            <pubDate>Wed, 28 Oct 2026 15:30:55 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：搜索查询量正以五年来最快速度增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6292709.d.html</link>
+            <guid>5177248</guid>
+            <pubDate>Wed, 28 Oct 2026 20:39:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthropic为Claude平台新增60余个法律类连接器。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3254324.d.html</link>
-            <guid>5176783</guid>
-            <pubDate>Wed, 28 Oct 2026 15:28:47 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统助理乌沙科夫：阿布扎比谈判的日期将取决于战场局势以及整体形势等因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6292226.d.html</link>
+            <guid>5177247</guid>
+            <pubDate>Wed, 28 Oct 2026 20:38:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国卫生部门将允许临时销售部分未经批准的肽类药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9364022.d.html</link>
-            <guid>5176782</guid>
-            <pubDate>Wed, 28 Oct 2026 15:28:30 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：新AI模型Carbon表现优于Gemini 4 Argon。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3068141.d.html</link>
+            <guid>5177246</guid>
+            <pubDate>Wed, 28 Oct 2026 20:37:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联大通过决议 要求美国终止对古巴封锁】当地时间10月28日，第81届联合国大会以130票赞成、17票反对、 25票弃权的投票结果，通过“必须终止美国对古巴经济、商业和金融封锁”的决议。据悉，这是联大连续第34次通过有关决议，要求美国终止对古巴长达60多年的经济、商业和金融封锁。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9363377.d.html</link>
-            <guid>5176781</guid>
-            <pubDate>Wed, 28 Oct 2026 15:27:12 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：全新 AI 模型 Carbon 为谷歌目前最强模型，正在接受美国政府测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6291906.d.html</link>
+            <guid>5177245</guid>
+            <pubDate>Wed, 28 Oct 2026 20:37:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿达尼集团正考虑洽谈收购估值30亿欧元的储能企业VTTI。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6477431.d.html</link>
-            <guid>5176780</guid>
-            <pubDate>Wed, 28 Oct 2026 15:27:00 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官： AI 模型 Argon 加快了谷歌内部代码开发。 Gemini Carbon 在几乎所有领域性能均优于 Argon。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9173836.d.html</link>
+            <guid>5177244</guid>
+            <pubDate>Wed, 28 Oct 2026 20:36:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frontier Group首席执行官：预计2028年运力增长区间可能在5%至8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmt5813313.d.html</link>
-            <guid>5176779</guid>
-            <pubDate>Wed, 28 Oct 2026 15:25:52 GMT</pubDate>
+            <title><![CDATA[Alphabet首席执行官：目前年化营收规模达5000亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6290910.d.html</link>
+            <guid>5177242</guid>
+            <pubDate>Wed, 28 Oct 2026 20:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哥伦比亚矿业部副部长马德里尼安：哥伦比亚铜业将迎来重大发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3252490.d.html</link>
-            <guid>5176778</guid>
-            <pubDate>Wed, 28 Oct 2026 15:25:04 GMT</pubDate>
+            <title><![CDATA[ServiceNOW三季度营收41.1亿美元，分析师预期41亿美元。三季度调整后每股收益（EPS）为1美元，分析师预期1.03美元。预计四季度订阅收入将达到42.5亿-42.6亿美元，分析师预期42.4亿美元。预计四季度剩余待偿还债务将增长18.5%，三季度为136.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6289064.d.html</link>
+            <guid>5177240</guid>
+            <pubDate>Wed, 28 Oct 2026 20:31:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哥伦比亚矿业部副部长马德里尼安表示，哥伦比亚需要将铜产量从目前的60万吨提高到150万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3252444.d.html</link>
-            <guid>5176777</guid>
-            <pubDate>Wed, 28 Oct 2026 15:24:56 GMT</pubDate>
+            <title><![CDATA[【科磊预计第二财季营收为45亿至49亿美元 市场预估为45.2亿美元】科磊第一财季营收为41.4亿美元，高于预估的40.4亿美元；资本开支为1.948亿美元，高于预估的1.014亿美元；调整后每股收益为1.22美元。公司预计第二财季营收为45亿至49亿美元，预估为45.2亿美元；预计第二财季调整后每股收益为1.33至1.55美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3063588.d.html</link>
+            <guid>5177239</guid>
+            <pubDate>Wed, 28 Oct 2026 20:27:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[西班牙反对党领袖费霍呼吁对列车事故开展独立司法调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3252008.d.html</link>
-            <guid>5176776</guid>
-            <pubDate>Wed, 28 Oct 2026 15:24:03 GMT</pubDate>
+            <title><![CDATA[加拿大政府：电信竞争路线图提出全国性竞争方案，旨在打破地区壁垒，助力构建统一加拿大经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6286346.d.html</link>
+            <guid>5177232</guid>
+            <pubDate>Wed, 28 Oct 2026 20:18:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[联合国大会正式通过一项表决，呼吁“必须终止美国对古巴的经济、商业和金融封锁”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9360825.d.html</link>
-            <guid>5176775</guid>
-            <pubDate>Wed, 28 Oct 2026 15:21:59 GMT</pubDate>
+            <title><![CDATA[  Alphabet 2026 年第三季度滚动 12 个月自由现金流 197.5 亿美元，同比下降 73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9168034.d.html</link>
+            <guid>5177230</guid>
+            <pubDate>Wed, 28 Oct 2026 20:18:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马拉维储备银行维持基准利率在24%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3251098.d.html</link>
-            <guid>5176774</guid>
-            <pubDate>Wed, 28 Oct 2026 15:21:39 GMT</pubDate>
+            <title><![CDATA[美高梅国际酒店第三季度净营收42.1亿美元，预估42.3亿美元；第三季度调整后每股亏损0.11美元。]]></title>
+            <guid>5177226</guid>
+            <pubDate>Wed, 28 Oct 2026 20:15:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿富汗国防部说对巴基斯坦无人机袭击发动了反击】阿富汗国防部28日发表声明说，巴基斯坦武装部队27日对阿富汗边境地区实施无人机袭击后，阿富汗军方发动反击并造成巴基斯坦人员伤亡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6474961.d.html</link>
-            <guid>5176772</guid>
-            <pubDate>Wed, 28 Oct 2026 15:21:20 GMT</pubDate>
+            <title><![CDATA[谷歌母公司Alphabet：搜索查询量同比增长率创五年来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6285772.d.html</link>
+            <guid>5177225</guid>
+            <pubDate>Wed, 28 Oct 2026 20:15:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊设备与服务部门裁员约250人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3250784.d.html</link>
-            <guid>5176771</guid>
-            <pubDate>Wed, 28 Oct 2026 15:20:54 GMT</pubDate>
+            <title><![CDATA[谷歌母公司Alphabet：AI领域投资正推动整体搜索查询量增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6285563.d.html</link>
+            <guid>5177224</guid>
+            <pubDate>Wed, 28 Oct 2026 20:15:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frontier Group首席执行官：预计明年运力增长约5%至7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6474694.d.html</link>
-            <guid>5176770</guid>
-            <pubDate>Wed, 28 Oct 2026 15:20:40 GMT</pubDate>
+            <title><![CDATA[谷歌母公司Alphabet：旗下YouTube Music和Premium全球订阅用户突破1.5亿，含试用用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9166789.d.html</link>
+            <guid>5177220</guid>
+            <pubDate>Wed, 28 Oct 2026 20:13:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：AWS将为下一代一级方程式赛车制定技术规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3250077.d.html</link>
-            <guid>5176769</guid>
-            <pubDate>Wed, 28 Oct 2026 15:18:39 GMT</pubDate>
+            <title><![CDATA[白宫：美国总统特朗普指示官员与贸易伙伴谈判达成协议，以应对任何国家进口机器人和工业机械带来的国家安全风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9166513.d.html</link>
+            <guid>5177217</guid>
+            <pubDate>Wed, 28 Oct 2026 20:12:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：FIA将把更多业务应用和服务迁移至AWS。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6473986.d.html</link>
-            <guid>5176768</guid>
-            <pubDate>Wed, 28 Oct 2026 15:18:30 GMT</pubDate>
+            <title><![CDATA[谷歌母公司Alphabet：其第一方模型API目前每分钟处理近320亿个token。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5616807.d.html</link>
+            <guid>5177214</guid>
+            <pubDate>Wed, 28 Oct 2026 20:10:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本地震东京地区强烈震感】据日本气象厅消息，当地时间10月29日0点07分左右，日本千叶县东北部发生5.4级地震，震源深度50公里，最大震感为震度5弱。东京地区有强烈震感，本次地震没有引发海啸的风险。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3249852.d.html</link>
-            <guid>5176767</guid>
-            <pubDate>Wed, 28 Oct 2026 15:18:14 GMT</pubDate>
+            <title><![CDATA[Chipotle（墨式烤肉）三季度营收33亿美元，分析师预期32.9亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6284600.d.html</link>
+            <guid>5177213</guid>
+            <pubDate>Wed, 28 Oct 2026 20:10:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：AWS被指定为国际汽联官方人工智能和云服务合作伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6473573.d.html</link>
-            <guid>5176766</guid>
-            <pubDate>Wed, 28 Oct 2026 15:17:22 GMT</pubDate>
+            <title><![CDATA[eBay第三季度净营收为32.1亿美元，高于市场预估的31.2亿美元；持续经营业务调整后每股收益为1.51美元，高于预估的1.42美元。]]></title>
+            <guid>5177211</guid>
+            <pubDate>Wed, 28 Oct 2026 20:10:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【高端工业母机需求爆发 国产工业母机订单排到明年】工业母机简单来说就是“制造机器的机器”，是现代工业的心脏和高端制造的根基。今年以来，在人工智能、新能源等新兴产业带动下，高端工业母机需求持续爆发。在江苏苏州一家工业母机的生产车间，一台六轴的PCB钻孔机已经组装完成，正在做发货前的最后测试。企业相关负责人告诉记者，这两年随着人工智能领域对高端PCB的需求大幅增加，企业也正在提高相关产线的产能。“今年上半年公司PCB（印制电路板）的主要设备的产量比去年同期大幅提高，其中先进系列设备的产量已经超过去年全年的两倍。订单已经排到明年第二季度。”数据显示，2026年上半年，国内机床工具行业实现营收5309亿元，同比增长7.6%；利润总额196亿元，同比增长110.8%。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6473367.d.html</link>
-            <guid>5176765</guid>
-            <pubDate>Wed, 28 Oct 2026 15:16:31 GMT</pubDate>
+            <title><![CDATA[联邦快递预计全年调整后每股收益18至18.60美元，此前预期为16.90至18.10美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9165771.d.html</link>
+            <guid>5177208</guid>
+            <pubDate>Wed, 28 Oct 2026 20:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥总统辛鲍姆表示，与美国的贸易协议对话仍在继续，正在评估在美国中期选举前达成协议是否可行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6472343.d.html</link>
-            <guid>5176763</guid>
-            <pubDate>Wed, 28 Oct 2026 15:12:46 GMT</pubDate>
+            <title><![CDATA[ServiceNow：ServiceNow MCP插件已上架OpenAI市场；将于2026年底推出增强功能。]]></title>
+            <guid>5177207</guid>
+            <pubDate>Wed, 28 Oct 2026 20:08:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达：RTX SPARK笔记本电脑起售价2599美元，提供128GB配置版本。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3248272.d.html</link>
-            <guid>5176762</guid>
-            <pubDate>Wed, 28 Oct 2026 15:12:33 GMT</pubDate>
+            <title><![CDATA[【AI债务供应激增 华尔街信贷市场开始吃不消】随着华尔街为支撑人工智能(AI)热潮的庞大数据中心和芯片网络提供资金，一种新的焦虑正在蔓延：早期迹象显示，信贷市场进一步消化债务的能力正在逼近上限。为AI基础设施建设融资的债券和贷款收益率接连飙升至两位数。银行家们发现，将风险转给保险公司和其他投资者的难度日益加大。埃隆·马斯克日前甚至警告称，随着企业难以获得新的融资，数百家所谓的“新云”公司面临倒闭风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3059815.d.html</link>
+            <guid>5177206</guid>
+            <pubDate>Wed, 28 Oct 2026 20:07:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达：英伟达Nemotron 3.5 Bolt E4B 4GB模型现已面向本地语音助手与智能体开放使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6471750.d.html</link>
-            <guid>5176760</guid>
-            <pubDate>Wed, 28 Oct 2026 15:11:24 GMT</pubDate>
+            <title><![CDATA[谷歌母公司Alphabet：GEMINI应用程序的用户数量已达10亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5615614.d.html</link>
+            <guid>5177205</guid>
+            <pubDate>Wed, 28 Oct 2026 20:06:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[西班牙首相桑切斯28日宣布，自29日起全国哀悼三天，悼念列车相撞事故遇难者。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9357545.d.html</link>
-            <guid>5176759</guid>
-            <pubDate>Wed, 28 Oct 2026 15:11:12 GMT</pubDate>
+            <title><![CDATA[【福特汽车第三季度总营收495.3亿美元 同比减少1.9%】福特汽车第三季度总营收495.3亿美元，同比减少1.9%；调整后每股收益0.49美元，上年同期0.45美元，预估0.41美元；调整后息税前利润27亿美元，同比+3.8%，预估23.8亿美元。福特汽车预计全年 调整后息税前利润105亿美元至110亿美元，此前预计100亿美元至110亿美元，预估105.2亿美元；仍然预测资本支出95亿美元至105亿美元，市场预估99亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6283364.d.html</link>
+            <guid>5177203</guid>
+            <pubDate>Wed, 28 Oct 2026 20:05:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达：搭载GB10 Grace Blackwell超级芯片的NVIDIA DGX SPARK 64GB系统现已开售。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3247501.d.html</link>
-            <guid>5176758</guid>
-            <pubDate>Wed, 28 Oct 2026 15:10:51 GMT</pubDate>
+            <title><![CDATA[白宫：美国总统特朗普签署公告，调整机器人、工业机械及其零部件和组件的对美进口。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6283226.d.html</link>
+            <guid>5177202</guid>
+            <pubDate>Wed, 28 Oct 2026 20:05:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基：如今当俄罗斯袭击我们的能源基础设施时，我们会对他们的能源基础设施作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6471181.d.html</link>
-            <guid>5176757</guid>
-            <pubDate>Wed, 28 Oct 2026 15:10:12 GMT</pubDate>
+            <title><![CDATA[微软第一财季不计汇率因素的AZURE营收增长48%，预期为增长44.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5615294.d.html</link>
+            <guid>5177201</guid>
+            <pubDate>Wed, 28 Oct 2026 20:05:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【跨境再保险“外来外用”试点在上海启动】10月28日，2026上海国际再保险会议开幕式在临港举行。本届会议以“聚力同行 共筑生态”为主题，吸引近40个国家和地区的再保险机构、监管机构及行业专家参会，参与人数规模创新高。开幕式上，上海市委金融办、国家金融监督管理总局上海监管局、中国人民银行上海总部、国家外汇管理局上海市分局联合发布《跨境再保险分入业务收入境外投资便利化试点实施办法》，被业内称为“外来外用”的政策由此进入实操阶段。人保财险、太保产险、平安产险、中再产险四家首批试点机构，工商银行、中国银行、建设银行三家合作银行以及再保交易中心共同启动首批试点工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3247072.d.html</link>
-            <guid>5176756</guid>
-            <pubDate>Wed, 28 Oct 2026 15:09:45 GMT</pubDate>
+            <title><![CDATA[T-Mobile第三季度总营收235.8亿美元，高于IBES预期的231.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6282647.d.html</link>
+            <guid>5177196</guid>
+            <pubDate>Wed, 28 Oct 2026 20:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达：搭载RTX Spark的笔记本电脑现已在华硕、戴尔、惠普、联想、微软和微星上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3246863.d.html</link>
-            <guid>5176755</guid>
-            <pubDate>Wed, 28 Oct 2026 15:09:17 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：我没有犯罪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9163804.d.html</link>
+            <guid>5177190</guid>
+            <pubDate>Wed, 28 Oct 2026 19:58:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列议会选举计票最终截止日期为10月29日，最终结果将于11月4日公布。新一届议会定于11月10日开始工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3246581.d.html</link>
-            <guid>5176754</guid>
-            <pubDate>Wed, 28 Oct 2026 15:08:25 GMT</pubDate>
+            <title><![CDATA[英国财政大臣希利：英国能源政策的首要任务是降低能源成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6282250.d.html</link>
+            <guid>5177187</guid>
+            <pubDate>Wed, 28 Oct 2026 19:56:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：今日俄罗斯联邦武装力量继续使用无人机打击向乌克兰运送军用物资的后勤中心、能源基础设施和海军舰艇。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3245830.d.html</link>
-            <guid>5176751</guid>
-            <pubDate>Wed, 28 Oct 2026 15:06:35 GMT</pubDate>
+            <title><![CDATA[英国财政大臣希利：银行对英国的繁荣、地位与成功至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3058003.d.html</link>
+            <guid>5177185</guid>
+            <pubDate>Wed, 28 Oct 2026 19:54:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：联合发射联盟将于2026年11月13日星期五发射40颗亚马逊LEO卫星进入近地轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6469589.d.html</link>
-            <guid>5176750</guid>
-            <pubDate>Wed, 28 Oct 2026 15:05:57 GMT</pubDate>
+            <title><![CDATA[英国财政大臣希利：我们将推进金融服务与市场法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3057984.d.html</link>
+            <guid>5177184</guid>
+            <pubDate>Wed, 28 Oct 2026 19:54:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩洛哥王室表示，摩洛哥将启用纳祖尔西地中海港，并将丹吉尔地中海港的吞吐能力扩大至2000万集装箱。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9355563.d.html</link>
-            <guid>5176749</guid>
-            <pubDate>Wed, 28 Oct 2026 15:05:45 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：面对巴西司法系统的政治化，我把家人带到了美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6281885.d.html</link>
+            <guid>5177182</guid>
+            <pubDate>Wed, 28 Oct 2026 19:53:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯总统助理乌沙科夫：欧洲代表没有资格参与与乌克兰战争相关的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3245389.d.html</link>
-            <guid>5176748</guid>
-            <pubDate>Wed, 28 Oct 2026 15:05:18 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：我将从这里领导反对派。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6281821.d.html</link>
+            <guid>5177181</guid>
+            <pubDate>Wed, 28 Oct 2026 19:53:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哥伦比亚矿业部副部长：哥伦比亚新规将针对超过1.5亿美元的投资纳入30年合同规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9355288.d.html</link>
-            <guid>5176746</guid>
-            <pubDate>Wed, 28 Oct 2026 15:04:46 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：我呼吁国际社会不要将巴西正在发生的事情视为常态。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6281783.d.html</link>
+            <guid>5177180</guid>
+            <pubDate>Wed, 28 Oct 2026 19:53:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[荷兰首相正争取合作伙伴向乌克兰提供武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6468997.d.html</link>
-            <guid>5176745</guid>
-            <pubDate>Wed, 28 Oct 2026 15:04:06 GMT</pubDate>
+            <title><![CDATA[英国财政大臣希利：银行加税的时限条款将写入法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9163144.d.html</link>
+            <guid>5177179</guid>
+            <pubDate>Wed, 28 Oct 2026 19:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃达康预计上半年每股收益同比增长272%至279%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6468827.d.html</link>
-            <guid>5176744</guid>
-            <pubDate>Wed, 28 Oct 2026 15:03:41 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：我没有逃离巴西，我是为了巴西才离开的，我离开了一个例外状态，以便成为我的人民应得的领导人。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6281647.d.html</link>
+            <guid>5177178</guid>
+            <pubDate>Wed, 28 Oct 2026 19:52:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：俄武装力量打击了哈尔科夫一处物流中心，该中心存放着供乌克兰武装部队使用的货物。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6468741.d.html</link>
-            <guid>5176743</guid>
-            <pubDate>Wed, 28 Oct 2026 15:03:24 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗：眼下这是一场带有政治动机的政治迫害，目的是把我扣为人质。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9162764.d.html</link>
+            <guid>5177176</guid>
+            <pubDate>Wed, 28 Oct 2026 19:49:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：为乌克兰国防工业企业供电的卢茨克与科韦利330千伏变电站遭到袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3244624.d.html</link>
-            <guid>5176742</guid>
-            <pubDate>Wed, 28 Oct 2026 15:03:06 GMT</pubDate>
+            <title><![CDATA[巴西参议员、自由党候选人弗拉维奥·博索纳罗： 离开祖国并非我的本意，但我十分清楚事情将会如何发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3057226.d.html</link>
+            <guid>5177175</guid>
+            <pubDate>Wed, 28 Oct 2026 19:48:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国检察官正在调查两名白俄罗斯人，他们被指控在纽伦堡地区策划破坏活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6468374.d.html</link>
-            <guid>5176741</guid>
-            <pubDate>Wed, 28 Oct 2026 15:02:20 GMT</pubDate>
+            <title><![CDATA[【古巴欢迎联大再次通过决议敦促美国结束对古封锁】古巴国家主席迪亚斯-卡内尔28日在社交媒体发文，欢迎联合国大会再次以压倒性多数通过决议，敦促美国立即结束对古巴长达60余年的经济、商业和金融封锁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3057093.d.html</link>
+            <guid>5177174</guid>
+            <pubDate>Wed, 28 Oct 2026 19:47:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达Nemotron 3.5 Transcribe现已在Hugging Face和ModelScope上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6468135.d.html</link>
-            <guid>5176740</guid>
-            <pubDate>Wed, 28 Oct 2026 15:01:36 GMT</pubDate>
+            <title><![CDATA[博索纳罗：周日晚上，我惊恐地目睹了选举舞弊就在我眼前发生。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6281006.d.html</link>
+            <guid>5177173</guid>
+            <pubDate>Wed, 28 Oct 2026 19:47:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【二手手机交易火爆 99新手机成抢手货】在广东深圳华强北，二手手机交易热度大增。市场调研机构统计数据显示，均价4000元以上产品占比超过68%。业内人士告诉记者，一般来讲，大部分二手手机的价格会随着上市时间越久而越来越低，热销机型一年内降价20%非常普遍，但受内存涨价影响，今年二手手机价格普遍坚挺。相较新机售价，九九新或是仅拆封的二手机一般会便宜500至1000元，受需求量较大影响，目前这些手机成为市场内的抢手货，商家也在积极回收。 (央视财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3243108.d.html</link>
-            <guid>5176738</guid>
-            <pubDate>Wed, 28 Oct 2026 14:59:13 GMT</pubDate>
+            <title><![CDATA[博索纳罗：我要感谢美国总统特朗普和友好的美国人民对我的欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9162343.d.html</link>
+            <guid>5177172</guid>
+            <pubDate>Wed, 28 Oct 2026 19:46:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[博索纳罗使用已注销的外交护照入境美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6466931.d.html</link>
-            <guid>5176737</guid>
-            <pubDate>Wed, 28 Oct 2026 14:58:35 GMT</pubDate>
+            <title><![CDATA[博索纳罗：我以巴西真正当选总统的身份向巴西人民和国际社会发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9162239.d.html</link>
+            <guid>5177171</guid>
+            <pubDate>Wed, 28 Oct 2026 19:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基表示，欧洲需要团结起来，以帮助结束与俄罗斯的战争。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6466506.d.html</link>
-            <guid>5176736</guid>
-            <pubDate>Wed, 28 Oct 2026 14:57:23 GMT</pubDate>
+            <title><![CDATA[  阿拉伯电视台援引消息人士称，调解方与伊朗正在商议，计划在 11 月 4 日之前于土耳其召开会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzm9161842.d.html</link>
+            <guid>5177169</guid>
+            <pubDate>Wed, 28 Oct 2026 19:45:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[荷兰首相称购买俄罗斯能源是愚蠢的想法。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmt5803320.d.html</link>
-            <guid>5176735</guid>
-            <pubDate>Wed, 28 Oct 2026 14:57:16 GMT</pubDate>
+            <title><![CDATA[IBM宣布推出面向Apache Flink的IBM Watsonx.Data Integration。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3056266.d.html</link>
+            <guid>5177168</guid>
+            <pubDate>Wed, 28 Oct 2026 19:44:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[荷兰首相表示，没有欧洲盟友愿意购买俄罗斯能源。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3242353.d.html</link>
-            <guid>5176734</guid>
-            <pubDate>Wed, 28 Oct 2026 14:56:57 GMT</pubDate>
+            <title><![CDATA[【以媒：伊朗最早可能于周四对卡塔尔新提案给出答复】据以色列i24NEWS获悉，卡塔尔方面正在等待德黑兰对新提案作出答复，伊朗最早可能于周四给出答复。两名地区外交官透露，根据目前的提议，伊朗将需就其核计划采取具体措施，作为交换，美国将放宽部分制裁，并解冻部分资金。目前正在考虑的措施是恢复国际原子能机构核查人员对伊朗各处核设施的检查。迄今为止，美伊谈判的难点在于，伊朗要求先解除封锁、适度放宽制裁，然后才讨论核问题。而特朗普政府则要求，伊朗在谈判第一阶段就必须在核问题上采取行动。一名美国高级官员向i24NEWS表示：“美国在任何情况下都不会在中期选举前攻击伊朗。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6279745.d.html</link>
+            <guid>5177166</guid>
+            <pubDate>Wed, 28 Oct 2026 19:43:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟将寻求与加拿大建立“更紧密的联系”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9352417.d.html</link>
-            <guid>5176733</guid>
-            <pubDate>Wed, 28 Oct 2026 14:56:09 GMT</pubDate>
+            <title><![CDATA[  “新债王”冈拉克：仍建议以“杠铃策略”将30%的资产配置于债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3053148.d.html</link>
+            <guid>5177160</guid>
+            <pubDate>Wed, 28 Oct 2026 19:32:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟准备取消向加拿大提出的“准成员”方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3241982.d.html</link>
-            <guid>5176732</guid>
-            <pubDate>Wed, 28 Oct 2026 14:55:26 GMT</pubDate>
+            <title><![CDATA[“新债王”冈拉克：股票配置比例约为30%，且仅配置于等权重标普指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5607073.d.html</link>
+            <guid>5177159</guid>
+            <pubDate>Wed, 28 Oct 2026 19:27:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基表示，三方会谈最迟应在11月底前举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9351900.d.html</link>
-            <guid>5176729</guid>
-            <pubDate>Wed, 28 Oct 2026 14:53:47 GMT</pubDate>
+            <title><![CDATA[【中方敦促国际法院确保国际法平等统一适用】中国常驻联合国副代表孙磊28日在安理会国际法院院长通报会上发言，敦促国际法院确保国际法平等统一适用。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzp5606400.d.html</link>
+            <guid>5177157</guid>
+            <pubDate>Wed, 28 Oct 2026 19:23:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基预计可能在阿布扎比及其他地点举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6465462.d.html</link>
-            <guid>5176728</guid>
-            <pubDate>Wed, 28 Oct 2026 14:53:41 GMT</pubDate>
+            <title><![CDATA[空客首席执行官：尚未就加长版A350机型作出决定，目前正在评估相关机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzk3051046.d.html</link>
+            <guid>5177155</guid>
+            <pubDate>Wed, 28 Oct 2026 19:22:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚丁国际机场再次遭袭 也门交通部谴责胡塞武装发动袭击】当地时间10月28日，也门交通部发表声明，谴责胡塞武装当天两次袭击亚丁国际机场，称机场在数日内已累计遭胡塞武装6次袭击。声明称机场反复遭袭直接威胁旅客、机组人员和机场工作人员的生命安全，民航运行面临严重风险，民众出行及人道主义和救援工作受影响。也门交通部表示胡塞武装应对袭击及其后果承担全部责任，呼吁国际社会和有关联合国机构特别是国际民用航空组织谴责袭击并立即制止，保护机场及民用设施，依据相关国际法律和公约维护民航安全。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmq3241125.d.html</link>
-            <guid>5176727</guid>
-            <pubDate>Wed, 28 Oct 2026 14:52:38 GMT</pubDate>
+            <title><![CDATA[【美国中央司令部驳斥伊朗媒体关于霍尔木兹海峡商船触雷说法，称主航道已清雷、通航安全】美国中央司令部表示，近期伊朗方面媒体称商船在霍尔木兹海峡航行时触碰水雷，该说法不实。事实为，霍尔木兹海峡所有国际公认主航道已由美军清除水雷并保持安全，已有数千艘商船安全通行，目前通航仍在持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6275023.d.html</link>
+            <guid>5177154</guid>
+            <pubDate>Wed, 28 Oct 2026 19:21:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国能源信息署（EIA）表示，美国原油产量在最近一周升至纪录高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9351001.d.html</link>
-            <guid>5176725</guid>
-            <pubDate>Wed, 28 Oct 2026 14:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰首相表示，荷兰支持下个月在阿布扎比举行的会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9349691.d.html</link>
-            <guid>5176722</guid>
-            <pubDate>Wed, 28 Oct 2026 14:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙首相桑切斯表示，整个国家都沉浸在悲痛之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9349652.d.html</link>
-            <guid>5176721</guid>
-            <pubDate>Wed, 28 Oct 2026 14:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰首相表示，当前正是就乌克兰问题采取果断行动的时刻。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6462310.d.html</link>
-            <guid>5176718</guid>
-            <pubDate>Wed, 28 Oct 2026 14:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰首相宣布向乌克兰提供5亿欧元军事援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9348801.d.html</link>
-            <guid>5176714</guid>
-            <pubDate>Wed, 28 Oct 2026 14:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江西铜业：9个月净利润增长94％。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmt5799338.d.html</link>
-            <guid>5176713</guid>
-            <pubDate>Wed, 28 Oct 2026 14:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦克勒姆：投资估算可能偏保守。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmn6460361.d.html</link>
-            <guid>5176708</guid>
-            <pubDate>Wed, 28 Oct 2026 14:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电脑故障、红灯放行 西班牙披露高铁相撞时间线】当地时间28日下午，西班牙交通大臣奥斯卡·普恩特召开新闻发布会，就托莱多省发生的高铁相撞事故发表说明。他表示，事故原因为电脑通信故障及后续的人为指令错误。普恩特透露，当日8时30分左右，因三台电脑出现通信故障，导致位于托莱多省的乌尔达车站的相关控制系统瘫痪，全长63公里的铁路区间失去安全保护，该区段内运行的所有列车随即触发自动制动停驶。普恩特表示，在列车停滞后，位于马德里阿托查的24小时调度控制中心接管了系统指挥权，并做出了允许涉事西班牙国家铁路公司列车恢复正常行驶的决定。尽管当时现场存在禁止通行的红灯信号，调度中心仍授权该列车重启运行。根据官方公布的时间线，8时36分至8时52分，该列车在红灯信号下以约200公里的时速行驶了25公里，最终猛烈撞击了停在前方轨道上的伊尔约公司列车。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-28/detail-iniwuzmr9347033.d.html</link>
-            <guid>5176706</guid>
-            <pubDate>Wed, 28 Oct 2026 14:39:39 GMT</pubDate>
+            <title><![CDATA[“新债王”冈拉克：10月利率确实面临真实压力，但因再平衡操作而得到缓解。基准情形可能是12月加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-29/detail-iniwvmzh6274941.d.html</link>
+            <guid>5177153</guid>
+            <pubDate>Wed, 28 Oct 2026 19:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
